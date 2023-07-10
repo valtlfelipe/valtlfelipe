@@ -3,9 +3,9 @@
 I'm [Felipe](https://felipe.im), I'm a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[muesli/markscribe](https://github.com/muesli/markscribe)** - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
-- **[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)** - A truly Open Source MongoDB alternative (5 days ago)
-- **[bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital)** - 💵 Bigcapital is intelligent cloud and open-source accounting software for small and medium businesses. (6 days ago)
+- **[muesli/markscribe](https://github.com/muesli/markscribe)** - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 days ago)
+- **[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)** - A truly Open Source MongoDB alternative (6 days ago)
+- **[bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital)** - 💵 Bigcapital is intelligent cloud and open-source accounting software for small and medium businesses. (1 week ago)
 - **[simple-login/app](https://github.com/simple-login/app)** - The SimpleLogin back-end (1 week ago)
 - **[unkeyed/unkey](https://github.com/unkeyed/unkey)** - Open Source API Key Management (1 week ago)
 
