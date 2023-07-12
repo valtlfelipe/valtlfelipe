@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Felipe](https://felipe.im), I'm a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
+I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
 - **[plausible/analytics](https://github.com/plausible/analytics)** - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 day ago)
@@ -12,6 +12,7 @@ I'm [Felipe](https://felipe.im), I'm a Engineering Manager at Transfeera, enthus
 #### 🚀 Latest releases I've contributed to
 
 
+- [umami-software/umami @ v2.3.0](https://github.com/umami-software/umami/releases/tag/v2.3.0) (today)
 - [valtlfelipe/hapi-sequelizejs @ v4.6.1](https://github.com/valtlfelipe/hapi-sequelizejs/releases/tag/v4.6.1) (7 months ago)
 - [valtlfelipe/statuscenter @ v2.0.0](https://github.com/valtlfelipe/statuscenter/releases/tag/v2.0.0) (2 years ago)
 
