@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), I'm a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)** - shelf is open source Asset Management Infrastructure for absolutely everyone. (1 day ago)
-- **[diggerhq/digger](https://github.com/diggerhq/digger)** - Digger is an open source alternative to Terraform Cloud &amp; Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI/CD pipeline ⚡️   (1 day ago)
-- **[muesli/markscribe](https://github.com/muesli/markscribe)** - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (4 days ago)
+- **[plausible/analytics](https://github.com/plausible/analytics)** - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 day ago)
+- **[Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)** - shelf is open source Asset Management Infrastructure for absolutely everyone. (2 days ago)
+- **[diggerhq/digger](https://github.com/diggerhq/digger)** - Digger is an open source alternative to Terraform Cloud &amp; Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI pipeline ⚡️   (2 days ago)
+- **[muesli/markscribe](https://github.com/muesli/markscribe)** - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 days ago)
 - **[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)** - A truly Open Source MongoDB alternative (1 week ago)
-- **[bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital)** - 💵 Bigcapital is intelligent cloud and open-source accounting software for small and medium businesses. (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
