@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[plausible/analytics](https://github.com/plausible/analytics)** - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 week ago)
+- **[plausible/analytics](https://github.com/plausible/analytics)** - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (2 weeks ago)
 - **[Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)** - shelf is open source Asset Management Infrastructure for absolutely everyone. (2 weeks ago)
 - **[diggerhq/digger](https://github.com/diggerhq/digger)** - Digger is an open source alternative to Terraform Cloud &amp; Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI pipeline ⚡️   (2 weeks ago)
 - **[muesli/markscribe](https://github.com/muesli/markscribe)** - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 weeks ago)
-- **[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)** - A truly Open Source MongoDB alternative (2 weeks ago)
+- **[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)** - A truly Open Source MongoDB alternative (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
