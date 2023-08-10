@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[vercel/commerce](https://github.com/vercel/commerce)** - Next.js Commerce (1 day ago)
-- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - Building a modern alternative to Salesforce ⚡️ You can star to support our work! (5 days ago)
-- **[hydradatabase/hydra](https://github.com/hydradatabase/hydra)** - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (6 days ago)
-- **[sweepai/sweep](https://github.com/sweepai/sweep)** - Sweep is an AI junior developer (6 days ago)
-- **[openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)** - The open-source status page (1 week ago)
+- **[bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)** - 🛡️ Synchronize AdGuard Home config to replicas (1 day ago)
+- **[vercel/commerce](https://github.com/vercel/commerce)** - Next.js Commerce (2 days ago)
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - Building a modern alternative to Salesforce ⚡️ You can star to support our work! (6 days ago)
+- **[hydradatabase/hydra](https://github.com/hydradatabase/hydra)** - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (1 week ago)
+- **[sweepai/sweep](https://github.com/sweepai/sweep)** - Sweep is an AI junior developer (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
