@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)** - 🛡️ Synchronize AdGuard Home config to replicas (1 day ago)
-- **[vercel/commerce](https://github.com/vercel/commerce)** - Next.js Commerce (2 days ago)
-- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - Building a modern alternative to Salesforce ⚡️ You can star to support our work! (6 days ago)
-- **[hydradatabase/hydra](https://github.com/hydradatabase/hydra)** - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (1 week ago)
-- **[sweepai/sweep](https://github.com/sweepai/sweep)** - Sweep is an AI junior developer (1 week ago)
+- **[milanvarady/Applite](https://github.com/milanvarady/Applite)** - User-friendly GUI macOS application for Homebrew Casks (1 day ago)
+- **[corosync/corosync-qdevice](https://github.com/corosync/corosync-qdevice)** - The Corosync Cluster Engine Qdevice (1 day ago)
+- **[bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)** - 🛡️ Synchronize AdGuard Home config to replicas (2 days ago)
+- **[vercel/commerce](https://github.com/vercel/commerce)** - Next.js Commerce (3 days ago)
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - Building a modern alternative to Salesforce ⚡️ You can star to support our work! (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
