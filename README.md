@@ -3,17 +3,17 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[milanvarady/Applite](https://github.com/milanvarady/Applite)** - User-friendly GUI macOS application for Homebrew Casks (1 day ago)
-- **[corosync/corosync-qdevice](https://github.com/corosync/corosync-qdevice)** - The Corosync Cluster Engine Qdevice (1 day ago)
-- **[bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)** - 🛡️ Synchronize AdGuard Home config to replicas (2 days ago)
-- **[vercel/commerce](https://github.com/vercel/commerce)** - Next.js Commerce (3 days ago)
-- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** - Building a modern alternative to Salesforce ⚡️ You can star to support our work! (1 week ago)
+- **[sharkdp/bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings. (1 day ago)
+- **[supabase/supavisor](https://github.com/supabase/supavisor)** - A cloud-native, multi-tenant Postgres connection pooler. (1 day ago)
+- **[w4/pisshoff](https://github.com/w4/pisshoff)** - 🧸 fully isolated honeypot ssh server using thrussh (1 day ago)
+- **[milanvarady/Applite](https://github.com/milanvarady/Applite)** - User-friendly GUI macOS application for Homebrew Casks (2 days ago)
+- **[corosync/corosync-qdevice](https://github.com/corosync/corosync-qdevice)** - The Corosync Cluster Engine Qdevice (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
 - [umami-software/umami @ v2.4.1](https://github.com/umami-software/umami/releases/tag/v2.4.1) (1 week ago)
-- [valtlfelipe/hapi-sequelizejs @ v4.6.1](https://github.com/valtlfelipe/hapi-sequelizejs/releases/tag/v4.6.1) (8 months ago)
+- [valtlfelipe/hapi-sequelizejs @ v4.6.1](https://github.com/valtlfelipe/hapi-sequelizejs/releases/tag/v4.6.1) (9 months ago)
 - [valtlfelipe/statuscenter @ v2.0.0](https://github.com/valtlfelipe/statuscenter/releases/tag/v2.0.0) (2 years ago)
 
 #### 📄 Latest blog posts
