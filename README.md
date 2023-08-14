@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[sharkdp/bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings. (2 days ago)
-- **[supabase/supavisor](https://github.com/supabase/supavisor)** - A cloud-native, multi-tenant Postgres connection pooler. (2 days ago)
-- **[w4/pisshoff](https://github.com/w4/pisshoff)** - 🧸 fully isolated honeypot ssh server using thrussh (2 days ago)
-- **[milanvarady/Applite](https://github.com/milanvarady/Applite)** - User-friendly GUI macOS application for Homebrew Casks (3 days ago)
-- **[corosync/corosync-qdevice](https://github.com/corosync/corosync-qdevice)** - The Corosync Cluster Engine Qdevice (3 days ago)
+- **[sharkdp/bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings. (3 days ago)
+- **[supabase/supavisor](https://github.com/supabase/supavisor)** - A cloud-native, multi-tenant Postgres connection pooler. (3 days ago)
+- **[w4/pisshoff](https://github.com/w4/pisshoff)** - 🧸 fully isolated honeypot ssh server using thrussh (3 days ago)
+- **[milanvarady/Applite](https://github.com/milanvarady/Applite)** - User-friendly GUI macOS application for Homebrew Casks (4 days ago)
+- **[corosync/corosync-qdevice](https://github.com/corosync/corosync-qdevice)** - The Corosync Cluster Engine Qdevice (4 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
