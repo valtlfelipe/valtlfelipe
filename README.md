@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[ariga/atlas](https://github.com/ariga/atlas)** - A modern tool for managing database schemas (3 days ago)
-- **[libsql/libsql](https://github.com/libsql/libsql)** - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (4 days ago)
-- **[Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos)** - Simplenote for macOS (6 days ago)
-- **[charlietango/owky](https://github.com/charlietango/owky)** - Free and Open Source Two-Factor Authenticator (2FA) (6 days ago)
-- **[antonmedv/walk](https://github.com/antonmedv/walk)** - Terminal file manager (6 days ago)
+- **[apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)** - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud. (1 day ago)
+- **[ariga/atlas](https://github.com/ariga/atlas)** - A modern tool for managing database schemas (4 days ago)
+- **[libsql/libsql](https://github.com/libsql/libsql)** - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (5 days ago)
+- **[Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos)** - Simplenote for macOS (1 week ago)
+- **[charlietango/owky](https://github.com/charlietango/owky)** - Free and Open Source Two-Factor Authenticator (2FA) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
