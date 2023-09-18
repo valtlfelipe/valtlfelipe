@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[nuejs/nuejs](https://github.com/nuejs/nuejs)** - Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte (2 days ago)
+- **[nuejs/nuejs](https://github.com/nuejs/nuejs)** - Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte (3 days ago)
 - **[siderolabs/talos](https://github.com/siderolabs/talos)** - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
 - **[picosh/pico](https://github.com/picosh/pico)** - pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh, pgs.sh (1 week ago)
 - **[opentffoundation/opentf](https://github.com/opentffoundation/opentf)** - OpenTF lets you declaratively manage your cloud infrastructure. (1 week ago)
-- **[apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)** - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud. (2 weeks ago)
+- **[apecloud/kubeblocks](https://github.com/apecloud/kubeblocks)** - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud. (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
