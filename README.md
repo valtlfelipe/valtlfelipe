@@ -3,8 +3,8 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)** - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (3 days ago)
-- **[nuejs/nuejs](https://github.com/nuejs/nuejs)** - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte (6 days ago)
+- **[hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)** - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (4 days ago)
+- **[nuejs/nuejs](https://github.com/nuejs/nuejs)** - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte (1 week ago)
 - **[siderolabs/talos](https://github.com/siderolabs/talos)** - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
 - **[picosh/pico](https://github.com/picosh/pico)** - pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh, pgs.sh (2 weeks ago)
 - **[opentofu/opentofu](https://github.com/opentofu/opentofu)** - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
