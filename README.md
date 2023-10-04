@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[runabol/tork](https://github.com/runabol/tork)** - A distributed workflow engine (1 day ago)
-- **[lupinelab/kproximate](https://github.com/lupinelab/kproximate)** - A Kubernetes node autoscaler for Proxmox (1 day ago)
-- **[skanaar/nomnoml](https://github.com/skanaar/nomnoml)** - The sassy UML diagram renderer (1 day ago)
-- **[testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)** - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. (6 days ago)
-- **[score-spec/spec](https://github.com/score-spec/spec)** - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments. (6 days ago)
+- **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays. (1 day ago)
+- **[kubernetes-operators-book/chapters](https://github.com/kubernetes-operators-book/chapters)** - Source code for the examples in &#34;Kubernetes Operators&#34; by Jason Dobies and Joshua Wood, O&#39;Reilly, 2020 (1 day ago)
+- **[xataio/pgroll](https://github.com/xataio/pgroll)** - Postgres zero-downtime migrations made easy (1 day ago)
+- **[runabol/tork](https://github.com/runabol/tork)** - A distributed workflow engine (2 days ago)
+- **[lupinelab/kproximate](https://github.com/lupinelab/kproximate)** - A Kubernetes node autoscaler for Proxmox (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
