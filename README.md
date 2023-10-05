@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays. (1 day ago)
-- **[kubernetes-operators-book/chapters](https://github.com/kubernetes-operators-book/chapters)** - Source code for the examples in &#34;Kubernetes Operators&#34; by Jason Dobies and Joshua Wood, O&#39;Reilly, 2020 (1 day ago)
-- **[xataio/pgroll](https://github.com/xataio/pgroll)** - Postgres zero-downtime migrations made easy (1 day ago)
-- **[runabol/tork](https://github.com/runabol/tork)** - A distributed workflow engine (2 days ago)
-- **[lupinelab/kproximate](https://github.com/lupinelab/kproximate)** - A Kubernetes node autoscaler for Proxmox (2 days ago)
+- **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays. (2 days ago)
+- **[kubernetes-operators-book/chapters](https://github.com/kubernetes-operators-book/chapters)** - Source code for the examples in &#34;Kubernetes Operators&#34; by Jason Dobies and Joshua Wood, O&#39;Reilly, 2020 (2 days ago)
+- **[xataio/pgroll](https://github.com/xataio/pgroll)** - Postgres zero-downtime migrations made easy (2 days ago)
+- **[runabol/tork](https://github.com/runabol/tork)** - A distributed workflow engine (3 days ago)
+- **[lupinelab/kproximate](https://github.com/lupinelab/kproximate)** - A Kubernetes node autoscaler for Proxmox (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
