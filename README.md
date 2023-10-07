@@ -3,16 +3,16 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[pkgxdev/pkgx](https://github.com/pkgxdev/pkgx)** - “run anything” from the creator of `brew` (1 day ago)
-- **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays. (3 days ago)
-- **[kubernetes-operators-book/chapters](https://github.com/kubernetes-operators-book/chapters)** - Source code for the examples in &#34;Kubernetes Operators&#34; by Jason Dobies and Joshua Wood, O&#39;Reilly, 2020 (3 days ago)
-- **[xataio/pgroll](https://github.com/xataio/pgroll)** - Postgres zero-downtime migrations made easy (3 days ago)
-- **[runabol/tork](https://github.com/runabol/tork)** - A distributed workflow engine (4 days ago)
+- **[httpie/desktop](https://github.com/httpie/desktop)** - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (1 day ago)
+- **[httpie/cli](https://github.com/httpie/cli)** - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (1 day ago)
+- **[pkgxdev/pkgx](https://github.com/pkgxdev/pkgx)** - “run anything” from the creator of `brew` (2 days ago)
+- **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays. (4 days ago)
+- **[kubernetes-operators-book/chapters](https://github.com/kubernetes-operators-book/chapters)** - Source code for the examples in &#34;Kubernetes Operators&#34; by Jason Dobies and Joshua Wood, O&#39;Reilly, 2020 (4 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [umami-software/umami @ v2.7.0](https://github.com/umami-software/umami/releases/tag/v2.7.0) (1 week ago)
+- [umami-software/umami @ v2.7.0](https://github.com/umami-software/umami/releases/tag/v2.7.0) (2 weeks ago)
 - [valtlfelipe/hapi-sequelizejs @ v4.6.1](https://github.com/valtlfelipe/hapi-sequelizejs/releases/tag/v4.6.1) (10 months ago)
 - [valtlfelipe/statuscenter @ v2.0.0](https://github.com/valtlfelipe/statuscenter/releases/tag/v2.0.0) (2 years ago)
 
