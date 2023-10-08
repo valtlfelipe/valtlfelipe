@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[httpie/desktop](https://github.com/httpie/desktop)** - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (1 day ago)
-- **[httpie/cli](https://github.com/httpie/cli)** - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (1 day ago)
-- **[pkgxdev/pkgx](https://github.com/pkgxdev/pkgx)** - “run anything” from the creator of `brew` (2 days ago)
-- **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays. (4 days ago)
-- **[kubernetes-operators-book/chapters](https://github.com/kubernetes-operators-book/chapters)** - Source code for the examples in &#34;Kubernetes Operators&#34; by Jason Dobies and Joshua Wood, O&#39;Reilly, 2020 (4 days ago)
+- **[httpie/desktop](https://github.com/httpie/desktop)** - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (2 days ago)
+- **[httpie/cli](https://github.com/httpie/cli)** - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (2 days ago)
+- **[pkgxdev/pkgx](https://github.com/pkgxdev/pkgx)** - “run anything” from the creator of `brew` (3 days ago)
+- **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays. (5 days ago)
+- **[kubernetes-operators-book/chapters](https://github.com/kubernetes-operators-book/chapters)** - Source code for the examples in &#34;Kubernetes Operators&#34; by Jason Dobies and Joshua Wood, O&#39;Reilly, 2020 (5 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
