@@ -3,9 +3,9 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)** - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 day ago)
-- **[httpie/desktop](https://github.com/httpie/desktop)** - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (6 days ago)
-- **[httpie/cli](https://github.com/httpie/cli)** - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (6 days ago)
+- **[spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)** - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (2 days ago)
+- **[httpie/desktop](https://github.com/httpie/desktop)** - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (1 week ago)
+- **[httpie/cli](https://github.com/httpie/cli)** - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (1 week ago)
 - **[pkgxdev/pkgx](https://github.com/pkgxdev/pkgx)** - “run anything” from the creator of `brew` (1 week ago)
 - **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays. (1 week ago)
 
