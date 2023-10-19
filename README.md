@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[tierrun/tier](https://github.com/tierrun/tier)** - The easiest way to add pricing to your SaaS. Get billing over with. (1 day ago)
-- **[BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)** - Vamos transformar o Brasil em uma API? (1 day ago)
-- **[cerbos/cerbos](https://github.com/cerbos/cerbos)** - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (1 day ago)
-- **[reorg/pg_repack](https://github.com/reorg/pg_repack)** - Reorganize tables in PostgreSQL databases with minimal locks (2 days ago)
-- **[spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)** - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 week ago)
+- **[opencost/opencost](https://github.com/opencost/opencost)** - Cross-cloud cost allocation models for Kubernetes workloads (1 day ago)
+- **[Totodore/socketioxide](https://github.com/Totodore/socketioxide)** - A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack. (1 day ago)
+- **[tierrun/tier](https://github.com/tierrun/tier)** - The easiest way to add pricing to your SaaS. Get billing over with. (2 days ago)
+- **[BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)** - Vamos transformar o Brasil em uma API? (2 days ago)
+- **[cerbos/cerbos](https://github.com/cerbos/cerbos)** - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
