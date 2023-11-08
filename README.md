@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[bensadeh/tailspin](https://github.com/bensadeh/tailspin)** - 🌀 A log file highlighter (4 days ago)
-- **[dolthub/doltgresql](https://github.com/dolthub/doltgresql)** - DoltgreSQL - Version Controlled PostgreSQL (4 days ago)
+- **[fission/fission](https://github.com/fission/fission)** - Fast and Simple Serverless Functions for Kubernetes (1 day ago)
+- **[resendlabs/react-email](https://github.com/resendlabs/react-email)** - 💌 Build and send emails using React (1 day ago)
+- **[bensadeh/tailspin](https://github.com/bensadeh/tailspin)** - 🌀 A log file highlighter (5 days ago)
+- **[dolthub/doltgresql](https://github.com/dolthub/doltgresql)** - DoltgreSQL - Version Controlled PostgreSQL (5 days ago)
 - **[pikvm/pikvm](https://github.com/pikvm/pikvm)** - Open and inexpensive DIY IP-KVM based on Raspberry Pi (1 week ago)
-- **[localsend/localsend](https://github.com/localsend/localsend)** - An open source cross-platform alternative to AirDrop (2 weeks ago)
-- **[opencost/opencost](https://github.com/opencost/opencost)** - Cost monitoring for Kubernetes workload and cloud costs (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
