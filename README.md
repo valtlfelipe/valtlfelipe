@@ -7,7 +7,7 @@ I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at T
 - **[riverqueue/river](https://github.com/riverqueue/river)** - Fast and reliable background jobs in Go (2 weeks ago)
 - **[ant-design/ant-design](https://github.com/ant-design/ant-design)** - An enterprise-class UI design language and React UI library (3 weeks ago)
 - **[netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)** - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 weeks ago)
-- **[ko-build/ko](https://github.com/ko-build/ko)** - Build and deploy Go applications (3 weeks ago)
+- **[ko-build/ko](https://github.com/ko-build/ko)** - Build and deploy Go applications (4 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
