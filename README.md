@@ -3,9 +3,9 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure)** - A headless GraphQL commerce platform for the modern web (2 days ago)
+- **[vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure)** - A headless GraphQL commerce platform for the modern web (3 days ago)
 - **[weserv/images](https://github.com/weserv/images)** - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s). (1 week ago)
-- **[jonathanpmartins/v-money3](https://github.com/jonathanpmartins/v-money3)** - Vue3 currency input/directive mask (1 week ago)
+- **[jonathanpmartins/v-money3](https://github.com/jonathanpmartins/v-money3)** - Vue3 currency input/directive mask (2 weeks ago)
 - **[actualbudget/actual](https://github.com/actualbudget/actual)** - A local-first personal finance app (2 weeks ago)
 - **[iggy-rs/iggy](https://github.com/iggy-rs/iggy)** - Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second. (2 weeks ago)
 
