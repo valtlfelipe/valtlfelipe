@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** - An open-source remote desktop, and alternative to TeamViewer. (2 days ago)
-- **[ihucos/counter.dev](https://github.com/ihucos/counter.dev)** - Web Analytics made simple (2 days ago)
-- **[buresdv/Cork](https://github.com/buresdv/Cork)** - A fast GUI for Homebrew written in SwiftUI (2 days ago)
-- **[ollama/ollama](https://github.com/ollama/ollama)** - Get up and running with Llama 2, Mistral, and other large language models locally. (2 days ago)
-- **[ollama/ollama-js](https://github.com/ollama/ollama-js)** - Ollama JavaScript library (2 days ago)
+- **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** - An open-source remote desktop, and alternative to TeamViewer. (3 days ago)
+- **[ihucos/counter.dev](https://github.com/ihucos/counter.dev)** - Web Analytics made simple (3 days ago)
+- **[buresdv/Cork](https://github.com/buresdv/Cork)** - A fast GUI for Homebrew written in SwiftUI (3 days ago)
+- **[ollama/ollama](https://github.com/ollama/ollama)** - Get up and running with Llama 2, Mistral, and other large language models locally. (3 days ago)
+- **[ollama/ollama-js](https://github.com/ollama/ollama-js)** - Ollama JavaScript library (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
