@@ -3,7 +3,7 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy)** - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. (5 days ago)
+- **[MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy)** - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. (6 days ago)
 - **[ydb-platform/ydb](https://github.com/ydb-platform/ydb)** - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions (1 week ago)
 - **[furiko-io/furiko](https://github.com/furiko-io/furiko)** - Kubernetes cron and batch job platform (1 week ago)
 - **[rook/rook](https://github.com/rook/rook)** - Storage Orchestration for Kubernetes (1 week ago)
