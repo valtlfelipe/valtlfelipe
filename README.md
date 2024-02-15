@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[tembo-io/tembo](https://github.com/tembo-io/tembo)** - Postgres for everything (1 day ago)
+- **[filamentphp/filament](https://github.com/filamentphp/filament)** - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS. (1 day ago)
+- **[danswer-ai/danswer](https://github.com/danswer-ai/danswer)** - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. (1 day ago)
 - **[MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy)** - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. (1 week ago)
 - **[ydb-platform/ydb](https://github.com/ydb-platform/ydb)** - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions (1 week ago)
-- **[furiko-io/furiko](https://github.com/furiko-io/furiko)** - Kubernetes cron and batch job platform (1 week ago)
-- **[rook/rook](https://github.com/rook/rook)** - Storage Orchestration for Kubernetes (1 week ago)
-- **[noobaa/noobaa-core](https://github.com/noobaa/noobaa-core)** - Object-storage Transformer server for Node.js 🦾🤖🦾 (s3 =&gt; file / s3 / azure / google / erasure-code / tiering / merge / cache / logging / replicate / custom...) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
