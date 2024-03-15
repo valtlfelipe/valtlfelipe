@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[flox/flox](https://github.com/flox/flox)** - Developer environments you can take with you (1 day ago)
-- **[elysiajs/elysia](https://github.com/elysiajs/elysia)** - Ergonomic Framework for Humans (1 day ago)
-- **[maxday/lambda-perf](https://github.com/maxday/lambda-perf)** - Lambda Cold Starts analysis, updated daily (1 day ago)
-- **[obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas)** - An open file format for infinite canvas data. (3 days ago)
-- **[usebruno/bruno](https://github.com/usebruno/bruno)** - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (3 days ago)
+- **[teableio/teable](https://github.com/teableio/teable)** - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database (1 day ago)
+- **[inngest/inngest](https://github.com/inngest/inngest)** - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge. (1 day ago)
+- **[flox/flox](https://github.com/flox/flox)** - Developer environments you can take with you (2 days ago)
+- **[elysiajs/elysia](https://github.com/elysiajs/elysia)** - Ergonomic Framework for Humans (2 days ago)
+- **[maxday/lambda-perf](https://github.com/maxday/lambda-perf)** - Lambda Cold Starts analysis, updated daily (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
