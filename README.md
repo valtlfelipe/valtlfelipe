@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)** - Open-source mac app cleaner (1 day ago)
-- **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** - ClickHouse® is a free analytics DBMS for big data (1 day ago)
-- **[teableio/teable](https://github.com/teableio/teable)** - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database (5 days ago)
-- **[inngest/inngest](https://github.com/inngest/inngest)** - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge. (5 days ago)
-- **[flox/flox](https://github.com/flox/flox)** - Developer environments you can take with you (6 days ago)
+- **[purton-tech/rust-on-nails](https://github.com/purton-tech/rust-on-nails)** - Full stack web architecture for Rust (1 day ago)
+- **[alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)** - Open-source mac app cleaner (2 days ago)
+- **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** - ClickHouse® is a free analytics DBMS for big data (2 days ago)
+- **[teableio/teable](https://github.com/teableio/teable)** - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database (6 days ago)
+- **[inngest/inngest](https://github.com/inngest/inngest)** - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge. (6 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
