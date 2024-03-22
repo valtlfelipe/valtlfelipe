@@ -3,9 +3,9 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[purton-tech/rust-on-nails](https://github.com/purton-tech/rust-on-nails)** - Full stack web architecture for Rust (2 days ago)
-- **[alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)** - Open-source mac app cleaner (3 days ago)
-- **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** - ClickHouse® is a free analytics DBMS for big data (3 days ago)
+- **[purton-tech/rust-on-nails](https://github.com/purton-tech/rust-on-nails)** - Full stack web architecture for Rust (3 days ago)
+- **[alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)** - Open-source mac app cleaner (4 days ago)
+- **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** - ClickHouse® is a free analytics DBMS for big data (4 days ago)
 - **[teableio/teable](https://github.com/teableio/teable)** - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database (1 week ago)
 - **[inngest/inngest](https://github.com/inngest/inngest)** - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge. (1 week ago)
 
