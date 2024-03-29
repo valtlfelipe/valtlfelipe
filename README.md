@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[placeholderkv/placeholderkv](https://github.com/placeholderkv/placeholderkv)** - A new project to resume development on the formerly open-source Redis project. Name is placeholder. (1 day ago)
-- **[divriots/jampack](https://github.com/divriots/jampack)** - Optimizes static websites for best user experience and best Core Web Vitals scores. (3 days ago)
-- **[goauthentik/authentik](https://github.com/goauthentik/authentik)** - The authentication glue you need. (6 days ago)
-- **[microsoft/garnet](https://github.com/microsoft/garnet)** - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. (6 days ago)
-- **[BeryJu/gravity](https://github.com/BeryJu/gravity)** - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd (6 days ago)
+- **[dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)** - A cross-platform, reimplementation of Notepad&#43;&#43; (1 day ago)
+- **[shizunge/endlessh-go](https://github.com/shizunge/endlessh-go)** - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard. (1 day ago)
+- **[valkey-io/valkey](https://github.com/valkey-io/valkey)** - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, like a Valkyrie. (2 days ago)
+- **[divriots/jampack](https://github.com/divriots/jampack)** - Optimizes static websites for best user experience and best Core Web Vitals scores. (4 days ago)
+- **[goauthentik/authentik](https://github.com/goauthentik/authentik)** - The authentication glue you need. (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
