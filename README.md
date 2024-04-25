@@ -3,8 +3,8 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)** - A cross-platform, reimplementation of Notepad&#43;&#43; (3 weeks ago)
-- **[shizunge/endlessh-go](https://github.com/shizunge/endlessh-go)** - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard. (3 weeks ago)
+- **[dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)** - A cross-platform, reimplementation of Notepad&#43;&#43; (4 weeks ago)
+- **[shizunge/endlessh-go](https://github.com/shizunge/endlessh-go)** - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard. (4 weeks ago)
 - **[valkey-io/valkey](https://github.com/valkey-io/valkey)** - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (4 weeks ago)
 - **[divriots/jampack](https://github.com/divriots/jampack)** - Optimizes static websites for best user experience and best Core Web Vitals scores. (1 month ago)
 - **[goauthentik/authentik](https://github.com/goauthentik/authentik)** - The authentication glue you need. (1 month ago)
