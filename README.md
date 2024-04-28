@@ -12,7 +12,6 @@ I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at T
 #### 🚀 Latest releases I've contributed to
 
 
-- [umami-software/umami @ v2.11.2](https://github.com/umami-software/umami/releases/tag/v2.11.2) (1 week ago)
 
 #### 📄 Latest blog posts
 - [Creating my first mobile app](https://felipe.im/posts/creating-my-first-mobile-app/) (4 years ago)
