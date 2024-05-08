@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb)** - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (1 day ago)
-- **[basecamp/kamal](https://github.com/basecamp/kamal)** - Deploy web apps anywhere. (1 day ago)
-- **[filamentphp/demo](https://github.com/filamentphp/demo)** - Source code for the demo.filamentphp.com website. (1 day ago)
-- **[calcom/cal.com](https://github.com/calcom/cal.com)** - Scheduling infrastructure for absolutely everyone. (4 days ago)
-- **[dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)** - A cross-platform, reimplementation of Notepad&#43;&#43; (1 month ago)
+- **[containers/podman-desktop-extension-bootc](https://github.com/containers/podman-desktop-extension-bootc)** - Support for bootable OS containers (bootc) and generating disk images (1 day ago)
+- **[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)** - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (1 day ago)
+- **[rancher/rke2](https://github.com/rancher/rke2)** (1 day ago)
+- **[coollabsio/coolify](https://github.com/coollabsio/coolify)** - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 day ago)
+- **[PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb)** - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
