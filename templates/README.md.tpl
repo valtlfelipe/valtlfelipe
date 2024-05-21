@@ -16,6 +16,6 @@ I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at T
 
 #### 📄 Latest blog posts
 
-{{- range rss "https://felipe.im/posts/index.xml" 3 }}
+{{- range rss "https://felipevm.com/posts/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
