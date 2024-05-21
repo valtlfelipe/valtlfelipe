@@ -15,5 +15,5 @@ I'm [Felipe](https://felipe.im), currently working as a Engineering Manager at T
 - [valtlfelipe/secret-editor @ 0.0.2](https://github.com/valtlfelipe/secret-editor/releases/tag/0.0.2) (3 days ago)
 
 #### 📄 Latest blog posts
-- [Creating my first mobile app](https://felipe.im/posts/creating-my-first-mobile-app/) (4 years ago)
-- [Using Sequelize With Hapijs](https://felipe.im/posts/using-sequelize-with-hapijs/) (5 years ago)
+- [Creating my first mobile app](https://felipevm.com/posts/creating-my-first-mobile-app/) (4 years ago)
+- [Using Sequelize With Hapijs](https://felipevm.com/posts/using-sequelize-with-hapijs/) (5 years ago)
