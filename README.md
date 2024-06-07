@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[markmead/hyperui](https://github.com/markmead/hyperui)** - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (1 day ago)
-- **[nuxt/ui](https://github.com/nuxt/ui)** - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS. (2 days ago)
-- **[samkanje/usenuxt-free](https://github.com/samkanje/usenuxt-free)** (4 days ago)
-- **[colinhacks/zod](https://github.com/colinhacks/zod)** - TypeScript-first schema validation with static type inference (4 days ago)
-- **[filamentphp/filament](https://github.com/filamentphp/filament)** - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS. (5 days ago)
+- **[PostHog/posthog](https://github.com/PostHog/posthog)** - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (1 day ago)
+- **[markmead/hyperui](https://github.com/markmead/hyperui)** - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (2 days ago)
+- **[nuxt/ui](https://github.com/nuxt/ui)** - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS. (3 days ago)
+- **[samkanje/usenuxt-free](https://github.com/samkanje/usenuxt-free)** (5 days ago)
+- **[colinhacks/zod](https://github.com/colinhacks/zod)** - TypeScript-first schema validation with static type inference (5 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
