@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[PostHog/posthog](https://github.com/PostHog/posthog)** - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (3 days ago)
-- **[markmead/hyperui](https://github.com/markmead/hyperui)** - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (4 days ago)
-- **[nuxt/ui](https://github.com/nuxt/ui)** - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS. (5 days ago)
-- **[samkanje/usenuxt-free](https://github.com/samkanje/usenuxt-free)** (1 week ago)
-- **[colinhacks/zod](https://github.com/colinhacks/zod)** - TypeScript-first schema validation with static type inference (1 week ago)
+- **[drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)** - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it&#39;s a JavaScript ORM too 😅 (1 day ago)
+- **[techulus/changes-page](https://github.com/techulus/changes-page)** - Changelog simplified. (1 day ago)
+- **[PostHog/posthog](https://github.com/PostHog/posthog)** - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. (4 days ago)
+- **[markmead/hyperui](https://github.com/markmead/hyperui)** - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (5 days ago)
+- **[nuxt/ui](https://github.com/nuxt/ui)** - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS. (6 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
