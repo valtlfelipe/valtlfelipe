@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (1 day ago)
-- **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** - A utility-first CSS framework for rapid UI development. (1 day ago)
-- **[piku/piku](https://github.com/piku/piku)** - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (1 day ago)
-- **[openrecall/openrecall](https://github.com/openrecall/openrecall)** - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft&#39;s Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy. (1 day ago)
-- **[vueuse/vueuse](https://github.com/vueuse/vueuse)** - Collection of essential Vue Composition Utilities for Vue 2 and 3 (2 days ago)
+- **[Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge)** - A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3. (1 day ago)
+- **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (1 day ago)
+- **[Barbapapazes/orion](https://github.com/Barbapapazes/orion)** - Quickly Start your Nuxt Project - A community-driven collection of templates for your next project, from landing pages to complete web applications. (1 day ago)
+- **[unsend-dev/unsend](https://github.com/unsend-dev/unsend)** (1 day ago)
+- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
