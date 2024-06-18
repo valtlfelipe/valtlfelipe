@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unsend-dev/unsend](https://github.com/unsend-dev/unsend)** (6 days ago)
 
 #### 🎧 What I have been listening
-- [Spaceships by AREA21](https://open.spotify.com/track/1Szod3mLKHywl09AOy08Xc)
-- [Arcade - Radio Edit by Dimitri Vegas &amp; Like Mike, W&amp;W](https://open.spotify.com/track/6ToupFpZbiTiRGEF2vVuzU)
-- [Wildcard (feat. Sidnie Tipton) by KSHMR, Sidnie Tipton](https://open.spotify.com/track/4d3UnYs8dRDDd93MVaoj74)
-- [Poison by Martin Garrix](https://open.spotify.com/track/2WW3PfGHh0aA2xCAyK6X1J)
-- [This Is What You Came For by Calvin Harris, Rihanna](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y)
+- [Now You&#39;re Gone by Maciel, GERU, Tadeo Fernandez, Gavss](https://open.spotify.com/track/549nNJdhka699Iut1ePwIR)
+- [Why You Lie by MR TOUT LE MONDE](https://open.spotify.com/track/6GgqU6HZx6oIcMHFBcnS41)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
+- [Waiting In The Deep by LO, Edward Snellen, SAMAJAI](https://open.spotify.com/track/1We4wvhfVCaHljnE3pj8hO)
+- [Best Friends by Samu Writes](https://open.spotify.com/track/4DLe80dJpycu3Iun3fYSh8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
