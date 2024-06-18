@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unsend-dev/unsend](https://github.com/unsend-dev/unsend)** (6 days ago)
 
 #### 🎧 What I have been listening
-- [Falling by Radiology](https://open.spotify.com/track/1iCTFn6UH7FKh0BgQZ2414)
-- [Missing by Chris van Dutch, Crystal Rock, Felix Schorn, Natalie Major](https://open.spotify.com/track/4wlWLYAsj9UhvekTtRFVO8)
-- [Moon (And It Went Like) by Kid Francescoli, Julia Minkin](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E)
-- [Uruguay - EDX&#39;s Dubai Skyline Remix by Nora En Pure, Sons Of Maria, EDX](https://open.spotify.com/track/5ooAWPi7WpbPN9ZfY7WBSY)
-- [Loose Myself in You by Michael Feel &amp; Aleco, YARO, Philip Strand](https://open.spotify.com/track/3XIQoPiBl4KG6vlY2R7Bmt)
+- [Spaceships by AREA21](https://open.spotify.com/track/1Szod3mLKHywl09AOy08Xc)
+- [Arcade - Radio Edit by Dimitri Vegas &amp; Like Mike, W&amp;W](https://open.spotify.com/track/6ToupFpZbiTiRGEF2vVuzU)
+- [Wildcard (feat. Sidnie Tipton) by KSHMR, Sidnie Tipton](https://open.spotify.com/track/4d3UnYs8dRDDd93MVaoj74)
+- [Poison by Martin Garrix](https://open.spotify.com/track/2WW3PfGHh0aA2xCAyK6X1J)
+- [This Is What You Came For by Calvin Harris, Rihanna](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
