@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge)** - A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3. (5 days ago)
-- **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (5 days ago)
-- **[Barbapapazes/orion](https://github.com/Barbapapazes/orion)** - Quickly Start your Nuxt Project - A community-driven collection of templates for your next project, from landing pages to complete web applications. (5 days ago)
-- **[unsend-dev/unsend](https://github.com/unsend-dev/unsend)** (5 days ago)
-- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (6 days ago)
+- **[Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge)** - A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3. (6 days ago)
+- **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (6 days ago)
+- **[Barbapapazes/orion](https://github.com/Barbapapazes/orion)** - Quickly Start your Nuxt Project - A community-driven collection of templates for your next project, from landing pages to complete web applications. (6 days ago)
+- **[unsend-dev/unsend](https://github.com/unsend-dev/unsend)** (6 days ago)
+- **[blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)** - NVR with realtime local object detection for IP cameras (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
