@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[webhooksite/webhook.site](https://github.com/webhooksite/webhook.site)** - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (today)
-- **[Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge)** - A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3. (6 days ago)
-- **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (6 days ago)
-- **[Barbapapazes/orion](https://github.com/Barbapapazes/orion)** - Quickly Start your Nuxt Project - A community-driven collection of templates for your next project, from landing pages to complete web applications. (6 days ago)
-- **[unsend-dev/unsend](https://github.com/unsend-dev/unsend)** (6 days ago)
+- **[harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse)** - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup. (today)
+- **[webhooksite/webhook.site](https://github.com/webhooksite/webhook.site)** - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (1 day ago)
+- **[Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge)** - A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3. (1 week ago)
+- **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (1 week ago)
+- **[Barbapapazes/orion](https://github.com/Barbapapazes/orion)** - Quickly Start your Nuxt Project - A community-driven collection of templates for your next project, from landing pages to complete web applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Now You&#39;re Gone by Maciel, GERU, Tadeo Fernandez, Gavss](https://open.spotify.com/track/549nNJdhka699Iut1ePwIR)
-- [Why You Lie by MR TOUT LE MONDE](https://open.spotify.com/track/6GgqU6HZx6oIcMHFBcnS41)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
-- [Waiting In The Deep by LO, Edward Snellen, SAMAJAI](https://open.spotify.com/track/1We4wvhfVCaHljnE3pj8hO)
-- [Best Friends by Samu Writes](https://open.spotify.com/track/4DLe80dJpycu3Iun3fYSh8)
+- [Moonlight by Lust.](https://open.spotify.com/track/2IHaWOuaQMwohXENwws9Hv)
+- [Crystal Blue by Bjarne Hendrik](https://open.spotify.com/track/21Ci8oIUEb7dbhca81oTva)
+- [Birthright by Nora En Pure](https://open.spotify.com/track/24KBMWfxD8l3z9JwfgU9oL)
+- [Hope You Don&#39;t Mind by fwd/slash, ROSY](https://open.spotify.com/track/20qt3XkYFm5zwcyaLSpNBl)
+- [Nevermind by Dennis Lloyd](https://open.spotify.com/track/63SevszngYpZOwf63o61K4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
