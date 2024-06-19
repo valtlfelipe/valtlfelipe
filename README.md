@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/orion](https://github.com/Barbapapazes/orion)** - Quickly Start your Nuxt Project - A community-driven collection of templates for your next project, from landing pages to complete web applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
-- [mood by rayn, ODBLU](https://open.spotify.com/track/4Pa2SCL3D6TfOkJD90z2o4)
-- [Catch &amp; Release by P.A.V, Aria De vie, Jordan Grace](https://open.spotify.com/track/1akulsmCT8i9lmAFlFNjRO)
-- [Home by RAZZ, Joel Winterflood](https://open.spotify.com/track/0WrWaXFATnUTQHeLkTK2JU)
-- [Night &amp; Day by Dyrisk](https://open.spotify.com/track/3hwodJBBE1tc1IHjEiEbRN)
+- [Blue by P.A.V, Aria De vie](https://open.spotify.com/track/0AtfA3297SX1dWFfqlzgmF)
+- [Would You by Bjarne Hendrik](https://open.spotify.com/track/5x5nphSZoEtLeDX7QmCyns)
+- [Envision by TAPI, Lanle](https://open.spotify.com/track/7Cvwzn56C2bdB1oKaQfnmw)
+- [Move Like by Thunder](https://open.spotify.com/track/4VvCv3imj37jPHmphoTbxJ)
+- [Missing by Giorgio Gee, SRNDE](https://open.spotify.com/track/70aSLeUZdk85z5zq0TInw5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
