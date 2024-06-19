@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/orion](https://github.com/Barbapapazes/orion)** - Quickly Start your Nuxt Project - A community-driven collection of templates for your next project, from landing pages to complete web applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Obsidian by Banyan](https://open.spotify.com/track/4aJKSeeR875yZdKXddYmCi)
-- [Worst Best Night by Thomas Irwin, Scarlett](https://open.spotify.com/track/6I4t6uevbEMtblXM26hX7z)
-- [Moonlight by Lust.](https://open.spotify.com/track/2IHaWOuaQMwohXENwws9Hv)
-- [Crystal Blue by Bjarne Hendrik](https://open.spotify.com/track/21Ci8oIUEb7dbhca81oTva)
-- [Birthright by Nora En Pure](https://open.spotify.com/track/24KBMWfxD8l3z9JwfgU9oL)
+- [Get You Alone by Higher Lane](https://open.spotify.com/track/1QWpPdRbTRSWpsmBZzD9cA)
+- [Night Fever by Yann Muller, Foínix, outset island, Brandon Chase](https://open.spotify.com/track/0ZLtluLVRiFG0Xi4B0Jkbc)
+- [Golden Hour by Nito-Onna, Vowed](https://open.spotify.com/track/70BuUWpF1SIBrM8pktTWIw)
+- [Bound To Fade by Bapti, SouMix, Samuel Miller](https://open.spotify.com/track/1lVwetY7Xsf93qI9NoxCNx)
+- [Are You With Me - Radio Edit by Lost Frequencies](https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
