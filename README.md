@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/orion](https://github.com/Barbapapazes/orion)** - Quickly Start your Nuxt Project - A community-driven collection of templates for your next project, from landing pages to complete web applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ)
-- [Fallin&#39; Apart by Æj](https://open.spotify.com/track/19ATI8arQ4ChLZdAjYahEd)
-- [Maze by Rolipso, Alex Clare, Shiah Maisel](https://open.spotify.com/track/5BMuIMRF9Ts9SFsgpUEpIX)
-- [Alura by Lust.](https://open.spotify.com/track/6JpbLokmpiOzcyjevGxlw3)
-- [Head Underwater - James Carter Remix by Tom Walker, James Carter](https://open.spotify.com/track/5mNOhqvMV2Hj77yYO07gGS)
+- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
+- [mood by rayn, ODBLU](https://open.spotify.com/track/4Pa2SCL3D6TfOkJD90z2o4)
+- [Catch &amp; Release by P.A.V, Aria De vie, Jordan Grace](https://open.spotify.com/track/1akulsmCT8i9lmAFlFNjRO)
+- [Home by RAZZ, Joel Winterflood](https://open.spotify.com/track/0WrWaXFATnUTQHeLkTK2JU)
+- [Night &amp; Day by Dyrisk](https://open.spotify.com/track/3hwodJBBE1tc1IHjEiEbRN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
