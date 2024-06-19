@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (1 week ago)
 
 #### 🎧 What I have been listening
-- [You&#39;re The One by Jelen](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51)
-- [Here Comes The Sun by SITHEA, The Palm Tree Boy, clarity.](https://open.spotify.com/track/08bxp2Z6aASsZHINQ5tanv)
-- [You Should Go by Wavey](https://open.spotify.com/track/599h2dSNYPXwpEqEtYXnvl)
-- [Just A Dream by Theodor Rosenberg, Kerin Maguire](https://open.spotify.com/track/4n6o35LjL6miKNol17a383)
-- [Soul by Xenea, Golowko, Moav](https://open.spotify.com/track/2jJbQ686CTPrQRPLXev28T)
+- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3)
+- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3)
+- [She Wolf (Falling to Pieces) by LexMorris, MaryBell](https://open.spotify.com/track/7hyToGyenk7cAOAhl906uV)
+- [The Best Part by anamē, gardenstate, Bien](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP)
+- [Flowers by Bjarne Hendrik](https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
