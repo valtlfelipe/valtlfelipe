@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Don&#39;t Wait by ROMBE4T, Doche, Roland Clark](https://open.spotify.com/track/2tOBWr8LizDOl2pPDOdzyY)
 - [Redlight by Swedish House Mafia, Sting](https://open.spotify.com/track/3u1nqEA58OiuOj4norMbnO)
 - [I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) by Oliver Heldens, Nile Rodgers, House Gospel Choir](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY)
 - [Out My Head by Topic, A7S](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF)
 - [CONTIGO (with Tiësto) by KAROL G, Tiësto](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh)
-- [On Repeat by Robin Schulz, David Guetta](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
