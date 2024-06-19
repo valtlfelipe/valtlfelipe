@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/orion](https://github.com/Barbapapazes/orion)** - Quickly Start your Nuxt Project - A community-driven collection of templates for your next project, from landing pages to complete web applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Get You Alone by Higher Lane](https://open.spotify.com/track/1QWpPdRbTRSWpsmBZzD9cA)
-- [Night Fever by Yann Muller, Foínix, outset island, Brandon Chase](https://open.spotify.com/track/0ZLtluLVRiFG0Xi4B0Jkbc)
-- [Golden Hour by Nito-Onna, Vowed](https://open.spotify.com/track/70BuUWpF1SIBrM8pktTWIw)
-- [Bound To Fade by Bapti, SouMix, Samuel Miller](https://open.spotify.com/track/1lVwetY7Xsf93qI9NoxCNx)
-- [Are You With Me - Radio Edit by Lost Frequencies](https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN)
+- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ)
+- [Fallin&#39; Apart by Æj](https://open.spotify.com/track/19ATI8arQ4ChLZdAjYahEd)
+- [Maze by Rolipso, Alex Clare, Shiah Maisel](https://open.spotify.com/track/5BMuIMRF9Ts9SFsgpUEpIX)
+- [Alura by Lust.](https://open.spotify.com/track/6JpbLokmpiOzcyjevGxlw3)
+- [Head Underwater - James Carter Remix by Tom Walker, James Carter](https://open.spotify.com/track/5mNOhqvMV2Hj77yYO07gGS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
