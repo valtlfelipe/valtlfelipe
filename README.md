@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3)
-- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3)
-- [She Wolf (Falling to Pieces) by LexMorris, MaryBell](https://open.spotify.com/track/7hyToGyenk7cAOAhl906uV)
-- [The Best Part by anamē, gardenstate, Bien](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP)
-- [Flowers by Bjarne Hendrik](https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR)
+- [CONTIGO (with Tiësto) by KAROL G, Tiësto](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh)
+- [On Repeat by Robin Schulz, David Guetta](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX)
+- [Don&#39;t Be Shy by Tiësto, KAROL G](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB)
+- [Missing You by Frank Walker, Nate Smith](https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw)
+- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
