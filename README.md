@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/orion](https://github.com/Barbapapazes/orion)** - Quickly Start your Nuxt Project - A community-driven collection of templates for your next project, from landing pages to complete web applications. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Obsidian by Banyan](https://open.spotify.com/track/4aJKSeeR875yZdKXddYmCi)
+- [Worst Best Night by Thomas Irwin, Scarlett](https://open.spotify.com/track/6I4t6uevbEMtblXM26hX7z)
 - [Moonlight by Lust.](https://open.spotify.com/track/2IHaWOuaQMwohXENwws9Hv)
 - [Crystal Blue by Bjarne Hendrik](https://open.spotify.com/track/21Ci8oIUEb7dbhca81oTva)
 - [Birthright by Nora En Pure](https://open.spotify.com/track/24KBMWfxD8l3z9JwfgU9oL)
-- [Hope You Don&#39;t Mind by fwd/slash, ROSY](https://open.spotify.com/track/20qt3XkYFm5zwcyaLSpNBl)
-- [Nevermind by Dennis Lloyd](https://open.spotify.com/track/63SevszngYpZOwf63o61K4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
