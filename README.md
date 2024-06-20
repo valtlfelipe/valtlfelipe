@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Put Your Head On My Shoulder by Bailey Jehl, Alberto Ciccarini, Poul](https://open.spotify.com/track/5THWKv1XrzdyUXYOW9tIAa)
-- [Let Her Go by T&#39;art, May Zoean](https://open.spotify.com/track/3owgz3c95U6wdY3TlSdknQ)
-- [Don&#39;t Wait by ROMBE4T, Doche, Roland Clark](https://open.spotify.com/track/2tOBWr8LizDOl2pPDOdzyY)
-- [Redlight by Swedish House Mafia, Sting](https://open.spotify.com/track/3u1nqEA58OiuOj4norMbnO)
-- [I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) by Oliver Heldens, Nile Rodgers, House Gospel Choir](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY)
+- [Sober by Dominic Neill](https://open.spotify.com/track/6Ymv5LdoC3IFBcIhSurQHj)
+- [Maze by Rolipso, Alex Clare, Shiah Maisel](https://open.spotify.com/track/5BMuIMRF9Ts9SFsgpUEpIX)
+- [Hold On by Mike Key, Rue More](https://open.spotify.com/track/2fnuh8NPfCoYBz9zyMJP2o)
+- [Worst Best Night by Thomas Irwin, Scarlett](https://open.spotify.com/track/6I4t6uevbEMtblXM26hX7z)
+- [Wide Awake by Jope, NOWAY](https://open.spotify.com/track/0YUsOPqMjVOmDwwpfTCWeb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
