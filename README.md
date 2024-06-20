@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Tomorrow by James Carter](https://open.spotify.com/track/15zmzawx6s7TYKHAFGYdSB)
-- [Innocent by Jamis, PØP CULTUR, Kyle Pearce](https://open.spotify.com/track/7hfXUJN21yyZkE0FUXj8Kb)
-- [Here Comes The Sun by SITHEA, The Palm Tree Boy, clarity.](https://open.spotify.com/track/08bxp2Z6aASsZHINQ5tanv)
-- [You&#39;re Not There by Alena Kita](https://open.spotify.com/track/06sM4pTTiD9JWxleV7Uc4e)
-- [Far Beyond by Munch, Piece Wise](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA)
+- [Tidal Waves by Sol Novaro](https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp)
+- [I Was Lost by blaank, AZON, Samuel Miller](https://open.spotify.com/track/1eS3pnnNxMr82YafCJOVlY)
+- [Strobe by Lust.](https://open.spotify.com/track/4tV7c1Gk72gG6xTpNmCnYl)
+- [Night &amp; Day by Dyrisk](https://open.spotify.com/track/3hwodJBBE1tc1IHjEiEbRN)
+- [When The Sound Goes Down by Wavey](https://open.spotify.com/track/2bOa2hr7SieZI17ZROpUSG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
