@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Greedy by Chris Ruo, Amaranth Skies, Jethro](https://open.spotify.com/track/5kKdLMwwlnGbfCuhKV2oM2)
-- [Matter of Time by Vandelux, Alex Maher](https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG)
-- [Talk About Us by Thierry Von Der Warth](https://open.spotify.com/track/2aGi8MHh1WR0le7LEqzEga)
-- [Lonely by Lust.](https://open.spotify.com/track/4lC9JgTv45CzOChlLFWDyS)
-- [As It Was by NOVUM, Lumez](https://open.spotify.com/track/0PszJKpYHBAIfx8bC2EydD)
+- [Lips Like Roses by Vanilla Sky](https://open.spotify.com/track/7bffkQ12lK3XXUhcKDc1nk)
+- [i&#39;m so tired... by four30](https://open.spotify.com/track/5tFMvtiCZ5Io5jzi6glZVc)
+- [Night Fever by Yann Muller, Foínix, outset island, Brandon Chase](https://open.spotify.com/track/0ZLtluLVRiFG0Xi4B0Jkbc)
+- [Stolen Dance by Milky Chance](https://open.spotify.com/track/34xGLuxM0rkxhCVyMSqwJO)
+- [Ibiza Sunrise by NORRA](https://open.spotify.com/track/5OwnmkyqPzWNAs9ts1pkjp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
