@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sober by Dominic Neill](https://open.spotify.com/track/6Ymv5LdoC3IFBcIhSurQHj)
-- [Maze by Rolipso, Alex Clare, Shiah Maisel](https://open.spotify.com/track/5BMuIMRF9Ts9SFsgpUEpIX)
-- [Hold On by Mike Key, Rue More](https://open.spotify.com/track/2fnuh8NPfCoYBz9zyMJP2o)
-- [Worst Best Night by Thomas Irwin, Scarlett](https://open.spotify.com/track/6I4t6uevbEMtblXM26hX7z)
-- [Wide Awake by Jope, NOWAY](https://open.spotify.com/track/0YUsOPqMjVOmDwwpfTCWeb)
+- [Tomorrow by James Carter](https://open.spotify.com/track/15zmzawx6s7TYKHAFGYdSB)
+- [Innocent by Jamis, PØP CULTUR, Kyle Pearce](https://open.spotify.com/track/7hfXUJN21yyZkE0FUXj8Kb)
+- [Here Comes The Sun by SITHEA, The Palm Tree Boy, clarity.](https://open.spotify.com/track/08bxp2Z6aASsZHINQ5tanv)
+- [You&#39;re Not There by Alena Kita](https://open.spotify.com/track/06sM4pTTiD9JWxleV7Uc4e)
+- [Far Beyond by Munch, Piece Wise](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
