@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Put Your Head On My Shoulder by Bailey Jehl, Alberto Ciccarini, Poul](https://open.spotify.com/track/5THWKv1XrzdyUXYOW9tIAa)
+- [Let Her Go by T&#39;art, May Zoean](https://open.spotify.com/track/3owgz3c95U6wdY3TlSdknQ)
 - [Don&#39;t Wait by ROMBE4T, Doche, Roland Clark](https://open.spotify.com/track/2tOBWr8LizDOl2pPDOdzyY)
 - [Redlight by Swedish House Mafia, Sting](https://open.spotify.com/track/3u1nqEA58OiuOj4norMbnO)
 - [I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) by Oliver Heldens, Nile Rodgers, House Gospel Choir](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY)
-- [Out My Head by Topic, A7S](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF)
-- [CONTIGO (with Tiësto) by KAROL G, Tiësto](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
