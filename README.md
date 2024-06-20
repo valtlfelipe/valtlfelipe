@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)** - Minimal Auth module for Nuxt 3. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Since You Been Gone by Nuage, Dawilk, Raphael DeLove](https://open.spotify.com/track/0zNH3r9xCa4OHDz69bRur5)
+- [Feels Like Summer by Maratone, Anita Tatlow](https://open.spotify.com/track/72gI5pCskjZcp6tzhKRezZ)
+- [Drifting by Tiësto](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi)
+- [How Will I Know by Marsias, BE4U](https://open.spotify.com/track/7vmUt8RvvRmz6lHUpv8wol)
 - [Tidal Waves by Sol Novaro](https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp)
-- [I Was Lost by blaank, AZON, Samuel Miller](https://open.spotify.com/track/1eS3pnnNxMr82YafCJOVlY)
-- [Strobe by Lust.](https://open.spotify.com/track/4tV7c1Gk72gG6xTpNmCnYl)
-- [Night &amp; Day by Dyrisk](https://open.spotify.com/track/3hwodJBBE1tc1IHjEiEbRN)
-- [When The Sound Goes Down by Wavey](https://open.spotify.com/track/2bOa2hr7SieZI17ZROpUSG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
