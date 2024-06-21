@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 days ago)
 
 #### 🎧 What I have been listening
+- [The Only Way Is Up by Martin Garrix, Tiësto](https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY)
+- [Lions in the Wild by Martin Garrix, Third Party](https://open.spotify.com/track/6lBQ0SMCrJ7zy1LSCuXqwV)
+- [Burn Out (feat. Dewain Whitmore) by Martin Garrix, Justin Mylo, Dewain Whitmore](https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD)
 - [Forbidden Voices by Martin Garrix](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU)
 - [Love Runs Out (feat. G-Eazy &amp; Sasha Alex Sloan) by Martin Garrix, G-Eazy, Sasha Alex Sloan](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty)
-- [Followers by AREA21, Martin Garrix, Maejor](https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a)
-- [Higher Ground (feat. John Martin) by Martin Garrix, John Martin](https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc)
-- [If We’ll Ever Be Remembered by Martin Garrix, Shaun Farrugia](https://open.spotify.com/track/6wnzt59p7i8cAyuWl1avwr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
