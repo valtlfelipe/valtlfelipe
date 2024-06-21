@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Follow by Martin Garrix, Zedd](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67)
-- [Biochemical by Martin Garrix, Seth Hills](https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS)
-- [We Are The People (feat. Bono &amp; The Edge) - Official UEFA EURO 2020 Song by Martin Garrix, Bono, The Edge](https://open.spotify.com/track/2iL0W5qi0ivZ9WRXbZ74cS)
-- [Used To Love (with Dean Lewis) by Martin Garrix, Dean Lewis](https://open.spotify.com/track/7pWK1kMgHy5lNNiIfuRbkP)
-- [Like I Do by David Guetta, Martin Garrix, Brooks](https://open.spotify.com/track/6RnkFd8Fqqgk1Uni8RgqCQ)
+- [Forbidden Voices by Martin Garrix](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU)
+- [Love Runs Out (feat. G-Eazy &amp; Sasha Alex Sloan) by Martin Garrix, G-Eazy, Sasha Alex Sloan](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty)
+- [Followers by AREA21, Martin Garrix, Maejor](https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a)
+- [Higher Ground (feat. John Martin) by Martin Garrix, John Martin](https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc)
+- [If We’ll Ever Be Remembered by Martin Garrix, Shaun Farrugia](https://open.spotify.com/track/6wnzt59p7i8cAyuWl1avwr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
