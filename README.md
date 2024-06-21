@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 days ago)
 
 #### 🎧 What I have been listening
+- [On &amp; On by Chaël](https://open.spotify.com/track/5MWbzT1ulVmjn3f3sRImRs)
+- [Stranger Things by Sonny Bass, Harry Grant, PhiloSofie](https://open.spotify.com/track/42kbKHBdNZ4axhFgNMzsox)
 - [Inside - Edit by Sharam Jey, Sevek, Amazondas](https://open.spotify.com/track/0tLyDJaFJchA95KqqHcCZ9)
 - [Only by Bjarne Hendrik](https://open.spotify.com/track/3dEtzi3GR9RknWrrnQmpIs)
 - [Lost In The Night by Thierry Von Der Warth, MCN2](https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6)
-- [Easy by rshand, Eliine](https://open.spotify.com/track/79ZKrHZVLDR7zeUMIsjI1r)
-- [A bit of your love by Arman Cekin, Yo Trane](https://open.spotify.com/track/34LAfaig7C3Bj2C6P0siue)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
