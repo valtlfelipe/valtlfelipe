@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Mas Que Nada by Oliver Heldens, Ian Asher, Sérgio Mendes](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh)
-- [When I’m Gone (with Katy Perry) by Alesso, Katy Perry](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the)
-- [Echo by RSCL, Repiet, Julia Kleijn](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj)
-- [Deep In Your Love - Dimitri Vegas &amp; Like Mike, Ben Nicky &amp; Dr Phunk Remix by Alok, Bebe Rexha, Ben Nicky, Dr Phunk, Dimitri Vegas &amp; Like Mike](https://open.spotify.com/track/1CZVSkJAmXYKnWrQOcfnLi)
-- [World Hold On - FISHER Rework by Bob Sinclar, FISHER, Steve Edwards](https://open.spotify.com/track/6kTwzV93qpcovlRPmBOXmn)
+- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
+- [Hey DJ by Joel Corry](https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq)
+- [Love You Right Back - Alok Remix by Allegra, Alok](https://open.spotify.com/track/2EObBNFYdVeHzadLsOngmO)
+- [Lifetime by Tobiahs](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r)
+- [Side Effect (feat. Au/Ra) by Alok, Au/Ra](https://open.spotify.com/track/4oGo7473OiyYAxpx4UpCIR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
