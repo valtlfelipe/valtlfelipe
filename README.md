@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 days ago)
 
 #### 🎧 What I have been listening
-- [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
-- [Numb by Goodboys, AVAION](https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ)
-- [Lay Low by Tiësto](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px)
-- [End Of Time (feat. Jordan Shaw) by Lucas &amp; Steve, LAWRENT, Jordan Shaw](https://open.spotify.com/track/0g998xGTsjf9uTVJ9SksS4)
-- [Hey Now by VisionV, Surf Mesa, MKLA](https://open.spotify.com/track/1tiUDs0Hikbz6MvwNog3A8)
+- [Wherever You Go (feat. John Martin) by Alok, John Martin](https://open.spotify.com/track/2AxWgWJarJxOdU9C2T85yR)
+- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
+- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
+- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/3j11iDncb7ZeDMw7lFucqM)
+- [Desire (with Sam Smith) - Alok Remix by Calvin Harris, Sam Smith, Alok](https://open.spotify.com/track/7qyoYlYSgfeTqAqJXmoIKe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
