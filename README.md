@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Desire (with Sam Smith) by Calvin Harris, Sam Smith](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv)
-- [Call It Love by Felix Jaehn, Ray Dalton](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B)
-- [Only You by Alesso, Sentinel](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p)
-- [Hear Me Now (Alok Remix) by Alok, Zeeba, Bruno Martini](https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n)
-- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
+- [Mas Que Nada by Oliver Heldens, Ian Asher, Sérgio Mendes](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh)
+- [When I’m Gone (with Katy Perry) by Alesso, Katy Perry](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the)
+- [Echo by RSCL, Repiet, Julia Kleijn](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj)
+- [Deep In Your Love - Dimitri Vegas &amp; Like Mike, Ben Nicky &amp; Dr Phunk Remix by Alok, Bebe Rexha, Ben Nicky, Dr Phunk, Dimitri Vegas &amp; Like Mike](https://open.spotify.com/track/1CZVSkJAmXYKnWrQOcfnLi)
+- [World Hold On - FISHER Rework by Bob Sinclar, FISHER, Steve Edwards](https://open.spotify.com/track/6kTwzV93qpcovlRPmBOXmn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
