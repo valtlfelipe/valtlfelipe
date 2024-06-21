@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Ocean (feat. Khalid) by Martin Garrix, Khalid](https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS)
-- [Empty by Martin Garrix, DubVision, Jaimes](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49)
-- [Carry You by Martin Garrix, Third Party, Oaks, Declan J Donovan](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2)
-- [Wherever You Are by Martin Garrix, DubVision, Shaun Farrugia](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4)
-- [Summer Days (feat. Macklemore &amp; Patrick Stump of Fall Out Boy) by Martin Garrix, Macklemore, Fall Out Boy](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM)
+- [Follow by Martin Garrix, Zedd](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67)
+- [Biochemical by Martin Garrix, Seth Hills](https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS)
+- [We Are The People (feat. Bono &amp; The Edge) - Official UEFA EURO 2020 Song by Martin Garrix, Bono, The Edge](https://open.spotify.com/track/2iL0W5qi0ivZ9WRXbZ74cS)
+- [Used To Love (with Dean Lewis) by Martin Garrix, Dean Lewis](https://open.spotify.com/track/7pWK1kMgHy5lNNiIfuRbkP)
+- [Like I Do by David Guetta, Martin Garrix, Brooks](https://open.spotify.com/track/6RnkFd8Fqqgk1Uni8RgqCQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
