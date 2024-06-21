@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 days ago)
 
 #### 🎧 What I have been listening
-- [The Only Way Is Up by Martin Garrix, Tiësto](https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY)
-- [Lions in the Wild by Martin Garrix, Third Party](https://open.spotify.com/track/6lBQ0SMCrJ7zy1LSCuXqwV)
-- [Burn Out (feat. Dewain Whitmore) by Martin Garrix, Justin Mylo, Dewain Whitmore](https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD)
-- [Forbidden Voices by Martin Garrix](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU)
-- [Love Runs Out (feat. G-Eazy &amp; Sasha Alex Sloan) by Martin Garrix, G-Eazy, Sasha Alex Sloan](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty)
+- [Lucid Dream by Topic](https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh)
+- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
+- [Prada by cassö, RAYE, D-Block Europe](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [One in a Million by Bebe Rexha, David Guetta](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
