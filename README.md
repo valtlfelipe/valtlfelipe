@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Lucid Dream by Topic](https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
-- [Prada by cassö, RAYE, D-Block Europe](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i)
-- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
-- [One in a Million by Bebe Rexha, David Guetta](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz)
+- [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
+- [Numb by Goodboys, AVAION](https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ)
+- [Lay Low by Tiësto](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px)
+- [End Of Time (feat. Jordan Shaw) by Lucas &amp; Steve, LAWRENT, Jordan Shaw](https://open.spotify.com/track/0g998xGTsjf9uTVJ9SksS4)
+- [Hey Now by VisionV, Surf Mesa, MKLA](https://open.spotify.com/track/1tiUDs0Hikbz6MvwNog3A8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
