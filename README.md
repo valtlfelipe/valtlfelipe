@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Aural Therapy by fwd/slash](https://open.spotify.com/track/66IYfbVOcRwoVE7GXmEt0J)
-- [Free Falling by Alex Keeper](https://open.spotify.com/track/2hH2szN2i1OWs6yHebSUcN)
-- [Say It Out Loud by Boeuv, Vowed, Rachel Morgan Perry](https://open.spotify.com/track/3TeoPVvdkk5kB0qDhnq2Zd)
-- [Teenage Dirtbag by Scity](https://open.spotify.com/track/75e30Qkh0kdBEKjx7dNzHR)
-- [Think About U by Hobes](https://open.spotify.com/track/4uhzx17eBtFnuPPi4iVK2l)
+- [Ocean (feat. Khalid) by Martin Garrix, Khalid](https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS)
+- [Empty by Martin Garrix, DubVision, Jaimes](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49)
+- [Carry You by Martin Garrix, Third Party, Oaks, Declan J Donovan](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2)
+- [Wherever You Are by Martin Garrix, DubVision, Shaun Farrugia](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4)
+- [Summer Days (feat. Macklemore &amp; Patrick Stump of Fall Out Boy) by Martin Garrix, Macklemore, Fall Out Boy](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
