@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[junegunn/fzf](https://github.com/junegunn/fzf)** - :cherry_blossom: A command-line fuzzy finder (2 days ago)
 
 #### 🎧 What I have been listening
-- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
-- [Let Me Go (with MKLA) by Alok, KSHMR, MKLA](https://open.spotify.com/track/2defGVdHhyRjyeXvjq46b3)
-- [MONEY ON THE DASH - SPED UP by Elley Duhé, Whethan](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN)
-- [Love Tonight (David Guetta Remix Edit) by Shouse, David Guetta](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP)
-- [Radio by Sigala, MNEK](https://open.spotify.com/track/6zsFddikwwAfBr3USkYSDx)
+- [Overdrive (feat. Norma Jean Martine) - VIP Mix by Ofenbach, Norma Jean Martine](https://open.spotify.com/track/2bFUF30GJlYY2J7CppBrGX)
+- [Love Again by Alok, Alida](https://open.spotify.com/track/7HmLm3SiBGJeVpJ552PJJP)
+- [Won&#39;t Forget You (Edit) by Shouse](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ)
+- [Never Be Lonely - Cascada Remix by Jax Jones, Cascada](https://open.spotify.com/track/2OOCFcLq9vDnxbMvAMopi3)
+- [Memories (feat. Kid Cudi) - 2021 Remix by David Guetta, Kid Cudi](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
