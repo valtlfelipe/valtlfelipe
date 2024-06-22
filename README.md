@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[junegunn/fzf](https://github.com/junegunn/fzf)** - :cherry_blossom: A command-line fuzzy finder (2 days ago)
 
 #### 🎧 What I have been listening
+- [Head &amp; Heart (feat. MNEK) by Joel Corry, MNEK](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9)
+- [Morenita by HUGEL, Cumbiafrica](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj)
+- [How I Feel by Slow Motion](https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1)
 - [Summer&#39;s Back by Alok, Jess Glynne](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o)
 - [Body On My Mind by Alok](https://open.spotify.com/track/0tC6DBA0PA8o0LL3M6neZ9)
-- [One Last Time (with R3HAB) (feat. Enny-Mae) by VIZE, R3HAB, Enny-Mae](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw)
-- [Rock My Body by R3HAB, INNA, Sash!](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU)
-- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
