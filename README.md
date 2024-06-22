@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[junegunn/fzf](https://github.com/junegunn/fzf)** - :cherry_blossom: A command-line fuzzy finder (2 days ago)
 
 #### 🎧 What I have been listening
-- [Head &amp; Heart (feat. MNEK) by Joel Corry, MNEK](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9)
-- [Morenita by HUGEL, Cumbiafrica](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj)
-- [How I Feel by Slow Motion](https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1)
-- [Summer&#39;s Back by Alok, Jess Glynne](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o)
-- [Body On My Mind by Alok](https://open.spotify.com/track/0tC6DBA0PA8o0LL3M6neZ9)
+- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [Let Me Go (with MKLA) by Alok, KSHMR, MKLA](https://open.spotify.com/track/2defGVdHhyRjyeXvjq46b3)
+- [MONEY ON THE DASH - SPED UP by Elley Duhé, Whethan](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN)
+- [Love Tonight (David Guetta Remix Edit) by Shouse, David Guetta](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP)
+- [Radio by Sigala, MNEK](https://open.spotify.com/track/6zsFddikwwAfBr3USkYSDx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
