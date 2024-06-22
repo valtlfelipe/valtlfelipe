@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[junegunn/fzf](https://github.com/junegunn/fzf)** - :cherry_blossom: A command-line fuzzy finder (2 days ago)
 
 #### 🎧 What I have been listening
-- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
-- [Multiply by Becky Hill](https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4)
-- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
-- [Liberdade (Quando o Grave Bate Forte) by Alok, Mc Don Juan, Dj GBR](https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG)
-- [Barcelona by Alan Walker, Ina Wroldsen](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy)
+- [Not Sorry by STRAAW, CERES](https://open.spotify.com/track/7flYA7GiLu0N0seaNWWkeb)
+- [Nothing Ever Changes by Vintage Culture, MAGNUS](https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI)
+- [COLD by James Carter](https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U)
+- [SNAP - Luca Schreiner Remix by Rosa Linn, Luca Schreiner](https://open.spotify.com/track/4JGFQyEJXDLtB3kOL3M1F3)
+- [Pontos de Exclamação - Vintage Culture &amp; Future Class Remix by Jovem Dionisio, Vintage Culture, Future Class](https://open.spotify.com/track/25usEf5iGk9HL0LM9VTxue)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
