@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[junegunn/fzf](https://github.com/junegunn/fzf)** - :cherry_blossom: A command-line fuzzy finder (2 days ago)
 
 #### 🎧 What I have been listening
-- [Overdrive (feat. Norma Jean Martine) - VIP Mix by Ofenbach, Norma Jean Martine](https://open.spotify.com/track/2bFUF30GJlYY2J7CppBrGX)
-- [Love Again by Alok, Alida](https://open.spotify.com/track/7HmLm3SiBGJeVpJ552PJJP)
-- [Won&#39;t Forget You (Edit) by Shouse](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ)
-- [Never Be Lonely - Cascada Remix by Jax Jones, Cascada](https://open.spotify.com/track/2OOCFcLq9vDnxbMvAMopi3)
-- [Memories (feat. Kid Cudi) - 2021 Remix by David Guetta, Kid Cudi](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
+- [Multiply by Becky Hill](https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4)
+- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
+- [Liberdade (Quando o Grave Bate Forte) by Alok, Mc Don Juan, Dj GBR](https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG)
+- [Barcelona by Alan Walker, Ina Wroldsen](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
