@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[junegunn/fzf](https://github.com/junegunn/fzf)** - :cherry_blossom: A command-line fuzzy finder (3 days ago)
 
 #### 🎧 What I have been listening
-- [I Want Your Love by Tui, Moshiru](https://open.spotify.com/track/3yuqVgVaoLxGHhw16a7GR5)
-- [Not Sorry by STRAAW, CERES](https://open.spotify.com/track/7flYA7GiLu0N0seaNWWkeb)
-- [Nothing Ever Changes by Vintage Culture, MAGNUS](https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI)
-- [COLD by James Carter](https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U)
-- [SNAP - Luca Schreiner Remix by Rosa Linn, Luca Schreiner](https://open.spotify.com/track/4JGFQyEJXDLtB3kOL3M1F3)
+- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
+- [Hallucination by Regard, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu)
+- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
+- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
+- [Under The Sun (with Alok) by Ella Henderson, Switch Disco, Alok](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
