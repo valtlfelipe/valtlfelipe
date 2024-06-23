@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[junegunn/fzf](https://github.com/junegunn/fzf)** - :cherry_blossom: A command-line fuzzy finder (3 days ago)
 
 #### 🎧 What I have been listening
-- [Waterfall by Michael Schulte, R3HAB](https://open.spotify.com/track/09EhgVA4blwhSic4hF2TFZ)
-- [Heaven Takes You Home (feat. Connie Constance) by Swedish House Mafia, Connie Constance](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4)
-- [On Repeat by Robin Schulz, David Guetta](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX)
-- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
-- [Hallucination by Regard, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu)
+- [Inside - Edit by Sharam Jey, Sevek, Amazondas](https://open.spotify.com/track/0tLyDJaFJchA95KqqHcCZ9)
+- [Run by Maz, Antdot](https://open.spotify.com/track/1CptCgwaWniIYlqeM6SXmS)
+- [Be Alright by Cat Dealers, HRRTZ](https://open.spotify.com/track/6HB7GMa8Wj1rxjtxjm3dJe)
+- [Keep On Dancing - Illusionize, Ashibah Rework by illusionize, Ashibah](https://open.spotify.com/track/249jhkMIJ6TWBUqrYMvgIG)
+- [Static by Bruno Martini, Laau](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
