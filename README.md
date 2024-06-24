@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sharkdp/fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to &#39;find&#39; (4 days ago)
 
 #### 🎧 What I have been listening
-- [On Your Mind by Roman Müller](https://open.spotify.com/track/4Le5KyIsbNLPODIzRVbov3)
-- [Angel (feat. Clementine Douglas) by Sonny Fodera, Clementine Douglas](https://open.spotify.com/track/1OFtfwhXqUYO08yD0QfTQE)
-- [Feel Good by Le Bober, Jaime Deraz](https://open.spotify.com/track/0M0uq8hOFImjz4qpl83dtz)
-- [Make It Better by Wavey](https://open.spotify.com/track/5lvShlx9SF4g8WjCU2mFtc)
-- [Beauty in You by Boeuv, joegarratt](https://open.spotify.com/track/3YS6FhKyUJY8sv8t5dGM90)
+- [Your Boo by Wavey](https://open.spotify.com/track/2fIOkiPWZHI5vSzKNwXLXl)
+- [Into You by Platon Emil, LUUUL](https://open.spotify.com/track/7pBilAunNlGaObbzJtIOj0)
+- [light on by Altero, Megggi](https://open.spotify.com/track/6L0ofQJUzCgcKGojFR4xl1)
+- [Here Comes The Sun by SITHEA, The Palm Tree Boy, clarity.](https://open.spotify.com/track/08bxp2Z6aASsZHINQ5tanv)
+- [Light Up by Riesling, Jordan Grace](https://open.spotify.com/track/3gMOvvmQCVwhdHZREkBSMn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
