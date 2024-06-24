@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sharkdp/fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to &#39;find&#39; (4 days ago)
 
 #### 🎧 What I have been listening
-- [Baltasound by Marco Dalla Villa](https://open.spotify.com/track/3KDcZtyZnYAK8eagMQWcc5)
-- [Pepas - Tiësto Remix by Farruko, Tiësto](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6)
-- [Morenita by HUGEL, Cumbiafrica](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj)
-- [African Dreams by Michael Ford, Ron van den Beuken](https://open.spotify.com/track/2tl5frlBlAyMlNkCDsaLqn)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Give It To Me by Mike Conville](https://open.spotify.com/track/06PdXgb9liL0yZRRMrhGx3)
+- [Ecletric by EDX](https://open.spotify.com/track/779p7HaX7hYS0irMq30kIy)
+- [BED - KREAM Remix by Joel Corry, RAYE, David Guetta, KREAM](https://open.spotify.com/track/00XEHO3SunmqxXLVFbaN1u)
+- [Impossible (feat. John Martin) by David Guetta, MORTEN, John Martin](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y)
+- [Your Call (Adore You) by Joe Kox, Wace](https://open.spotify.com/track/6SPAltlzw05PXwe0BFVCax)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
