@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sharkdp/fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to &#39;find&#39; (4 days ago)
 
 #### 🎧 What I have been listening
+- [i&#39;m so tired... by four30](https://open.spotify.com/track/5tFMvtiCZ5Io5jzi6glZVc)
+- [Fallen Angel by Vall, JAIKO](https://open.spotify.com/track/0SxkdPdZ6ebgVXnHM0sNKL)
 - [Matter of Time by Vandelux, Alex Maher](https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG)
 - [Beyond Everything by Ourson](https://open.spotify.com/track/5W0gnBtoimNtx6t08HS84f)
 - [The Way by Mary Mesk, Curol](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo)
-- [Gotta Get Thru This by Le Boeuf](https://open.spotify.com/track/61IqoZPM9h4DVJWHYSZAW5)
-- [Calabria (feat. Fallen Roses, Lujavo &amp; Lunis) by Dance Fruits Music, DMNDS, Fallen Roses, Lunis, Lujavo](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
