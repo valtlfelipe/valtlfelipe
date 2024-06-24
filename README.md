@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sharkdp/fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to &#39;find&#39; (4 days ago)
 
 #### 🎧 What I have been listening
-- [i&#39;m so tired... by four30](https://open.spotify.com/track/5tFMvtiCZ5Io5jzi6glZVc)
-- [Fallen Angel by Vall, JAIKO](https://open.spotify.com/track/0SxkdPdZ6ebgVXnHM0sNKL)
-- [Matter of Time by Vandelux, Alex Maher](https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG)
-- [Beyond Everything by Ourson](https://open.spotify.com/track/5W0gnBtoimNtx6t08HS84f)
-- [The Way by Mary Mesk, Curol](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo)
+- [Walking On A Dream by Foínix, Yann Muller, Jordan Grace, Rolipso](https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo)
+- [Giving Me by Jazzy](https://open.spotify.com/track/2pe4teHX2j6Z0kGN3RgwSF)
+- [Lost In The Night by Thierry Von Der Warth, MCN2](https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6)
+- [What You Know by Cale, Janet Tung](https://open.spotify.com/track/15kbyn9VUleErIKObiDVZZ)
+- [Tidal Waves by Sol Novaro](https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
