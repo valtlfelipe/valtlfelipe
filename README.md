@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[junegunn/fzf](https://github.com/junegunn/fzf)** - :cherry_blossom: A command-line fuzzy finder (4 days ago)
 
 #### 🎧 What I have been listening
-- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
-- [Disco Cone (Take It High) [ft. WENZL] by Enisa, WENZL](https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM)
-- [Unholy (feat. Kim Petras) by Sam Smith, Kim Petras](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
-- [I Am What I Am (PS1 Remix) by Mark Morrison, PS1](https://open.spotify.com/track/1knkD5x7ZzEa1SzWtfs9Cc)
+- [Back 2 Back by Dazy Chain](https://open.spotify.com/track/2CSIUBvjiSFcNZYSwUDVhD)
+- [Selecta by Skrillex, BEAM](https://open.spotify.com/track/2nBswif1hr0AS3ialfIRgy)
+- [Drink Water (feat. Jon Bellion and Fireboy DML) by Jon Batiste, Jon Bellion, Fireboy DML](https://open.spotify.com/track/0vovnhziMYImdMsEDPncA8)
+- [Love Tonight (David Guetta Remix Edit) by Shouse, David Guetta](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP)
+- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
