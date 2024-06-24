@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sharkdp/fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to &#39;find&#39; (4 days ago)
 
 #### 🎧 What I have been listening
-- [I&#39;m into It by Paul Oakenfold, Velvet Cash, ZHU](https://open.spotify.com/track/2cNgIYARHDDUrFsguos6Bo)
-- [Age of Phase by Bonobo](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM)
-- [Saturday Night by Effemar, Nina Carr](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl)
-- [Won&#39;t Fall by Drics](https://open.spotify.com/track/6qSeyDQjR9cBtopcSS626e)
-- [Vuelta Al Sol by Tomas Novoa](https://open.spotify.com/track/2Tc7bA1t9DaphQLjpOUfJf)
+- [So Many Times by Bruno Be, Sandeville, Alexandra Prince](https://open.spotify.com/track/0O98fmGZF3BwMP8d6ZSK0h)
+- [Love You So by Manuel Varey](https://open.spotify.com/track/3wILe1tPSi2yYpgptC9tyj)
+- [Happiness (feat. MOGUAI &amp; ILIRA) - Max Bering Remix by Tomcraft, Max Bering, ILIRA, MOGUAI](https://open.spotify.com/track/4Jst8JcUVEYWB33Ifu6Xjv)
+- [I Can&#39;t Get Nothing - Radio by Tiko&#39;s Groove, Gosha](https://open.spotify.com/track/2loRALVpIwCGPgqykI6tPQ)
+- [Leave The Door Open by Bruno Mars, Anderson .Paak, Silk Sonic](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
