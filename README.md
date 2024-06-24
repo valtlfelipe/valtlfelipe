@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sharkdp/fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to &#39;find&#39; (4 days ago)
 
 #### 🎧 What I have been listening
-- [Walking On A Dream by Foínix, Yann Muller, Jordan Grace, Rolipso](https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo)
-- [Giving Me by Jazzy](https://open.spotify.com/track/2pe4teHX2j6Z0kGN3RgwSF)
-- [Lost In The Night by Thierry Von Der Warth, MCN2](https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6)
-- [What You Know by Cale, Janet Tung](https://open.spotify.com/track/15kbyn9VUleErIKObiDVZZ)
-- [Tidal Waves by Sol Novaro](https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp)
+- [On Your Mind by Roman Müller](https://open.spotify.com/track/4Le5KyIsbNLPODIzRVbov3)
+- [Angel (feat. Clementine Douglas) by Sonny Fodera, Clementine Douglas](https://open.spotify.com/track/1OFtfwhXqUYO08yD0QfTQE)
+- [Feel Good by Le Bober, Jaime Deraz](https://open.spotify.com/track/0M0uq8hOFImjz4qpl83dtz)
+- [Make It Better by Wavey](https://open.spotify.com/track/5lvShlx9SF4g8WjCU2mFtc)
+- [Beauty in You by Boeuv, joegarratt](https://open.spotify.com/track/3YS6FhKyUJY8sv8t5dGM90)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
