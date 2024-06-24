@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[junegunn/fzf](https://github.com/junegunn/fzf)** - :cherry_blossom: A command-line fuzzy finder (4 days ago)
 
 #### 🎧 What I have been listening
-- [Kamwana by Will Knight](https://open.spotify.com/track/6MI8bpSgRyd378YETBbNfZ)
-- [I Follow Rivers by TRVLR, Round Light, INAMEIT](https://open.spotify.com/track/1TBitQyjAx3qn6nFgZ4WwH)
-- [Need You by Matt Skies](https://open.spotify.com/track/51LSDqeMdRs6Rgqn3qzfE2)
-- [Say It Right by ORGAN, ONEIL, FAVIA](https://open.spotify.com/track/5kYH2488Jo8ytVoHDn81JK)
-- [Inside - Edit by Sharam Jey, Sevek, Amazondas](https://open.spotify.com/track/0tLyDJaFJchA95KqqHcCZ9)
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
+- [Disco Cone (Take It High) [ft. WENZL] by Enisa, WENZL](https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM)
+- [Unholy (feat. Kim Petras) by Sam Smith, Kim Petras](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
+- [I Am What I Am (PS1 Remix) by Mark Morrison, PS1](https://open.spotify.com/track/1knkD5x7ZzEa1SzWtfs9Cc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
