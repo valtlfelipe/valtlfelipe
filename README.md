@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sharkdp/fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to &#39;find&#39; (4 days ago)
 
 #### 🎧 What I have been listening
-- [So Many Times by Bruno Be, Sandeville, Alexandra Prince](https://open.spotify.com/track/0O98fmGZF3BwMP8d6ZSK0h)
-- [Love You So by Manuel Varey](https://open.spotify.com/track/3wILe1tPSi2yYpgptC9tyj)
-- [Happiness (feat. MOGUAI &amp; ILIRA) - Max Bering Remix by Tomcraft, Max Bering, ILIRA, MOGUAI](https://open.spotify.com/track/4Jst8JcUVEYWB33Ifu6Xjv)
-- [I Can&#39;t Get Nothing - Radio by Tiko&#39;s Groove, Gosha](https://open.spotify.com/track/2loRALVpIwCGPgqykI6tPQ)
-- [Leave The Door Open by Bruno Mars, Anderson .Paak, Silk Sonic](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T)
+- [Baltasound by Marco Dalla Villa](https://open.spotify.com/track/3KDcZtyZnYAK8eagMQWcc5)
+- [Pepas - Tiësto Remix by Farruko, Tiësto](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6)
+- [Morenita by HUGEL, Cumbiafrica](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj)
+- [African Dreams by Michael Ford, Ron van den Beuken](https://open.spotify.com/track/2tl5frlBlAyMlNkCDsaLqn)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
