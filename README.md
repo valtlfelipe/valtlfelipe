@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sharkdp/fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to &#39;find&#39; (4 days ago)
 
 #### 🎧 What I have been listening
-- [Give It To Me by Mike Conville](https://open.spotify.com/track/06PdXgb9liL0yZRRMrhGx3)
-- [Ecletric by EDX](https://open.spotify.com/track/779p7HaX7hYS0irMq30kIy)
-- [BED - KREAM Remix by Joel Corry, RAYE, David Guetta, KREAM](https://open.spotify.com/track/00XEHO3SunmqxXLVFbaN1u)
-- [Impossible (feat. John Martin) by David Guetta, MORTEN, John Martin](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y)
-- [Your Call (Adore You) by Joe Kox, Wace](https://open.spotify.com/track/6SPAltlzw05PXwe0BFVCax)
+- [Matter of Time by Vandelux, Alex Maher](https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG)
+- [Beyond Everything by Ourson](https://open.spotify.com/track/5W0gnBtoimNtx6t08HS84f)
+- [The Way by Mary Mesk, Curol](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo)
+- [Gotta Get Thru This by Le Boeuf](https://open.spotify.com/track/61IqoZPM9h4DVJWHYSZAW5)
+- [Calabria (feat. Fallen Roses, Lujavo &amp; Lunis) by Dance Fruits Music, DMNDS, Fallen Roses, Lunis, Lujavo](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
