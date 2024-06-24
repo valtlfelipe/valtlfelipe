@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sharkdp/fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to &#39;find&#39; (4 days ago)
 
 #### 🎧 What I have been listening
+- [I&#39;m into It by Paul Oakenfold, Velvet Cash, ZHU](https://open.spotify.com/track/2cNgIYARHDDUrFsguos6Bo)
+- [Age of Phase by Bonobo](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM)
+- [Saturday Night by Effemar, Nina Carr](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl)
+- [Won&#39;t Fall by Drics](https://open.spotify.com/track/6qSeyDQjR9cBtopcSS626e)
 - [Vuelta Al Sol by Tomas Novoa](https://open.spotify.com/track/2Tc7bA1t9DaphQLjpOUfJf)
-- [Side Effect (feat. Au/Ra) by Alok, Au/Ra](https://open.spotify.com/track/4oGo7473OiyYAxpx4UpCIR)
-- [Pepas - David Guetta Remix by Farruko, David Guetta](https://open.spotify.com/track/75sMhi81W5Tw2AGlOGATuy)
-- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC)
-- [Gemini - Ocean Edit by David Bay](https://open.spotify.com/track/7jL8WUz7wuko9csqPjElyJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
