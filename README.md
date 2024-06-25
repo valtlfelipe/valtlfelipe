@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (today)
+- **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (today)
 - **[nuxt/ui-pro](https://github.com/nuxt/ui-pro)** - Ship beautiful web applications at the speed of light with Nuxt UI Pro. (today)
 - **[paradedb/paradedb](https://github.com/paradedb/paradedb)** - Postgres for Search and Analytics (1 day ago)
 - **[farm-fe/farm](https://github.com/farm-fe/farm)** - Extremely fast Vite-compatible web build tool written in Rust (3 days ago)
-- **[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)** - A smarter cd command. Supports all major shells. (5 days ago)
-- **[eza-community/eza](https://github.com/eza-community/eza)** - A modern, maintained replacement for ls (5 days ago)
 
 #### 🎧 What I have been listening
-- [Summer Love by Sole Sole](https://open.spotify.com/track/5nh7ZsmJkw4v1pW28U9szT)
-- [Pandora by Maone, Sam Welch](https://open.spotify.com/track/6mFsc3Y7ydtzSaBMkg2Q2s)
-- [Would I Lie To You by Badjack, Nordic Brave House](https://open.spotify.com/track/4aHZTiUmzLlc4YRco9TP7l)
-- [Want U by Hayley May](https://open.spotify.com/track/4PIdTFeeNnJ87nKOf1djuG)
-- [In My Bed by Emiel, Silience](https://open.spotify.com/track/52rO71tsGpp3oxUjRu9fxd)
+- [Good For You by Rayasa, Vowed, Britt](https://open.spotify.com/track/1oKCwxmZldGIyGWhfIY0l3)
+- [Need You by Matt Skies](https://open.spotify.com/track/51LSDqeMdRs6Rgqn3qzfE2)
+- [So Over You by Matthew Clarck](https://open.spotify.com/track/0ZLLGT0tnoBmC4eBM7RIY2)
+- [Drive by BELLA X, LRMEO](https://open.spotify.com/track/3rxAGH0bZVwBnB6EZD6tiE)
+- [Heart to Leave by C-Ro](https://open.spotify.com/track/3vFkDhZKK5FxRlBZNFyOKw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
