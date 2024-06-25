@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[eza-community/eza](https://github.com/eza-community/eza)** - A modern, maintained replacement for ls (5 days ago)
 
 #### 🎧 What I have been listening
-- [Think About U by Hobes](https://open.spotify.com/track/4uhzx17eBtFnuPPi4iVK2l)
-- [I Don&#39;t Wanna Know by Nander, MØØNE](https://open.spotify.com/track/1pHLX9rxgxeIb2CydW8PzY)
-- [Say It Out Loud by Boeuv, Vowed, Rachel Morgan Perry](https://open.spotify.com/track/3TeoPVvdkk5kB0qDhnq2Zd)
-- [Blue by P.A.V, Aria De vie](https://open.spotify.com/track/0AtfA3297SX1dWFfqlzgmF)
-- [How Will I Know by Dallien, Danny CLLS, nøya.](https://open.spotify.com/track/48B3FbaoxaYKbZo5uIHoBU)
+- [Faithful by Choujaa, D.Clakes, EGGSTA](https://open.spotify.com/track/52JbZvFkbffxt5fdLgUk25)
+- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
+- [Falling by Cornel Dascalu](https://open.spotify.com/track/4VO0K9lDNrf7i4bJALaKgw)
+- [Say It Right by ORGAN, ONEIL, FAVIA](https://open.spotify.com/track/5kYH2488Jo8ytVoHDn81JK)
+- [Drive You Away by Refeci, Sam Welch](https://open.spotify.com/track/5Nvf5ykWic6lLkYfuLD2V1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
