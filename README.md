@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[eza-community/eza](https://github.com/eza-community/eza)** - A modern, maintained replacement for ls (5 days ago)
 
 #### 🎧 What I have been listening
-- [Faithful by Choujaa, D.Clakes, EGGSTA](https://open.spotify.com/track/52JbZvFkbffxt5fdLgUk25)
-- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
-- [Falling by Cornel Dascalu](https://open.spotify.com/track/4VO0K9lDNrf7i4bJALaKgw)
-- [Say It Right by ORGAN, ONEIL, FAVIA](https://open.spotify.com/track/5kYH2488Jo8ytVoHDn81JK)
-- [Drive You Away by Refeci, Sam Welch](https://open.spotify.com/track/5Nvf5ykWic6lLkYfuLD2V1)
+- [Summer Love by Sole Sole](https://open.spotify.com/track/5nh7ZsmJkw4v1pW28U9szT)
+- [Pandora by Maone, Sam Welch](https://open.spotify.com/track/6mFsc3Y7ydtzSaBMkg2Q2s)
+- [Would I Lie To You by Badjack, Nordic Brave House](https://open.spotify.com/track/4aHZTiUmzLlc4YRco9TP7l)
+- [Want U by Hayley May](https://open.spotify.com/track/4PIdTFeeNnJ87nKOf1djuG)
+- [In My Bed by Emiel, Silience](https://open.spotify.com/track/52rO71tsGpp3oxUjRu9fxd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
