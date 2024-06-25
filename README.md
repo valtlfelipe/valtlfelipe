@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[eza-community/eza](https://github.com/eza-community/eza)** - A modern, maintained replacement for ls (5 days ago)
 
 #### 🎧 What I have been listening
+- [Time To Waste by Bjarne Hendrik](https://open.spotify.com/track/0ybcUbIhB5nVbsf5JlurRf)
+- [Better Love by Vowed, SITHEA](https://open.spotify.com/track/7wa34bvrhLbVp2Y360yMiI)
+- [Starting With Something by Homem, Gavriel](https://open.spotify.com/track/5yUThZ4ah6PXeaILOky27t)
+- [Illusions by Nora En Pure](https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon)
 - [I&#39;m Good by P.A.V](https://open.spotify.com/track/1H27IgTftbtLwK4HrdGV3x)
-- [Flowers by Bjarne Hendrik](https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR)
-- [Beacon of Hope by Soft Tide, Aselec](https://open.spotify.com/track/2drWuuQdmWwrJ1Hu0MWx4Y)
-- [Birthright by Nora En Pure](https://open.spotify.com/track/24KBMWfxD8l3z9JwfgU9oL)
-- [Teenage Dirtbag by Scity](https://open.spotify.com/track/75e30Qkh0kdBEKjx7dNzHR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
