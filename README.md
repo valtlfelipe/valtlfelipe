@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[farm-fe/farm](https://github.com/farm-fe/farm)** - Extremely fast Vite-compatible web build tool written in Rust (3 days ago)
 
 #### 🎧 What I have been listening
-- [Summer Love by Sole Sole](https://open.spotify.com/track/5nh7ZsmJkw4v1pW28U9szT)
-- [Pandora by Maone, Sam Welch](https://open.spotify.com/track/6mFsc3Y7ydtzSaBMkg2Q2s)
-- [Would I Lie To You by Badjack, Nordic Brave House](https://open.spotify.com/track/4aHZTiUmzLlc4YRco9TP7l)
-- [Want U by Hayley May](https://open.spotify.com/track/4PIdTFeeNnJ87nKOf1djuG)
-- [In My Bed by Emiel, Silience](https://open.spotify.com/track/52rO71tsGpp3oxUjRu9fxd)
+- [Grab It And Go by Utope, max pretends](https://open.spotify.com/track/3zumDpg4X0l0NDZ6svM1f5)
+- [Moi... Lolita by The High, Jorm](https://open.spotify.com/track/34uKksugLpF88YSkoSzFMS)
+- [Costa Rica by B&#39;Bach, Karla Sax, summer sax](https://open.spotify.com/track/4ZPCR6dAhEsIWOp6hbTm0m)
+- [Thank You by Izabela, Triplo Max](https://open.spotify.com/track/6QUDxAWu0JwWmXP8vVUh2s)
+- [Somebody&#39;s Watching Me by Sealife, PRSM](https://open.spotify.com/track/0uFuJkuMxjJB3Gpe87hJtD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
