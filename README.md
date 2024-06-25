@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sharkdp/fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to &#39;find&#39; (5 days ago)
 
 #### 🎧 What I have been listening
-- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ)
-- [On &amp; On by Chaël](https://open.spotify.com/track/5MWbzT1ulVmjn3f3sRImRs)
-- [Catch &amp; Release by P.A.V, Aria De vie, Jordan Grace](https://open.spotify.com/track/1akulsmCT8i9lmAFlFNjRO)
-- [Runaway by Lust.](https://open.spotify.com/track/001cS27FIbTGu1b9OdUCKx)
-- [Best Friends by Samu Writes](https://open.spotify.com/track/4DLe80dJpycu3Iun3fYSh8)
+- [Night Fever by Yann Muller, Foínix, outset island, Brandon Chase](https://open.spotify.com/track/0ZLtluLVRiFG0Xi4B0Jkbc)
+- [Blue Nights by Together Alone](https://open.spotify.com/track/0dGiN9FBLcZkSI0uuc50qL)
+- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
+- [Paradise by MVCA, Nina Carr](https://open.spotify.com/track/3XB4qOPDyCwJ3c7Z4YyzOl)
+- [Good Love by Alena Kita](https://open.spotify.com/track/2R483yc3CKdKgbpxOOOUlN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
