@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[eza-community/eza](https://github.com/eza-community/eza)** - A modern, maintained replacement for ls (5 days ago)
 
 #### 🎧 What I have been listening
-- [You&#39;re Not There by Alena Kita](https://open.spotify.com/track/06sM4pTTiD9JWxleV7Uc4e)
-- [Problems by Leo Chase](https://open.spotify.com/track/3M2NjmFrDeLxGHL1niL1Ha)
-- [Only by Bjarne Hendrik](https://open.spotify.com/track/3dEtzi3GR9RknWrrnQmpIs)
-- [Talk About Us by Thierry Von Der Warth](https://open.spotify.com/track/2aGi8MHh1WR0le7LEqzEga)
-- [Faded by SITHEA, ELERA, Cozy Sky](https://open.spotify.com/track/3PJ5S08jxr3C1vPIUu7zoM)
+- [I&#39;m Good by P.A.V](https://open.spotify.com/track/1H27IgTftbtLwK4HrdGV3x)
+- [Flowers by Bjarne Hendrik](https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR)
+- [Beacon of Hope by Soft Tide, Aselec](https://open.spotify.com/track/2drWuuQdmWwrJ1Hu0MWx4Y)
+- [Birthright by Nora En Pure](https://open.spotify.com/track/24KBMWfxD8l3z9JwfgU9oL)
+- [Teenage Dirtbag by Scity](https://open.spotify.com/track/75e30Qkh0kdBEKjx7dNzHR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
