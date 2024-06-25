@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[eza-community/eza](https://github.com/eza-community/eza)** - A modern, maintained replacement for ls (5 days ago)
 
 #### 🎧 What I have been listening
-- [Time To Waste by Bjarne Hendrik](https://open.spotify.com/track/0ybcUbIhB5nVbsf5JlurRf)
-- [Better Love by Vowed, SITHEA](https://open.spotify.com/track/7wa34bvrhLbVp2Y360yMiI)
-- [Starting With Something by Homem, Gavriel](https://open.spotify.com/track/5yUThZ4ah6PXeaILOky27t)
-- [Illusions by Nora En Pure](https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon)
-- [I&#39;m Good by P.A.V](https://open.spotify.com/track/1H27IgTftbtLwK4HrdGV3x)
+- [Hurt Me by PLVTO, phil&#39;s ok.](https://open.spotify.com/track/54EPeECfC5f0ne4nbazAsY)
+- [Keeping Up by 2FarAway, Emma Bieniewicz](https://open.spotify.com/track/0tJneW10fgbdHXEW2GVa1q)
+- [Free Falling by Alex Keeper](https://open.spotify.com/track/2hH2szN2i1OWs6yHebSUcN)
+- [Karma by Nora Van Elken](https://open.spotify.com/track/3dcDXvnqQoQqBrUXVHdFDy)
+- [Night &amp; Day by Dyrisk](https://open.spotify.com/track/3hwodJBBE1tc1IHjEiEbRN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
