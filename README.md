@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[nuxt/ui-pro](https://github.com/nuxt/ui-pro)** - Ship beautiful web applications at the speed of light with Nuxt UI Pro. (today)
 - **[paradedb/paradedb](https://github.com/paradedb/paradedb)** - Postgres for Search and Analytics (1 day ago)
 - **[farm-fe/farm](https://github.com/farm-fe/farm)** - Extremely fast Vite-compatible web build tool written in Rust (3 days ago)
 - **[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)** - A smarter cd command. Supports all major shells. (5 days ago)
 - **[eza-community/eza](https://github.com/eza-community/eza)** - A modern, maintained replacement for ls (5 days ago)
-- **[sharkdp/fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to &#39;find&#39; (5 days ago)
 
 #### 🎧 What I have been listening
-- [Night Fever by Yann Muller, Foínix, outset island, Brandon Chase](https://open.spotify.com/track/0ZLtluLVRiFG0Xi4B0Jkbc)
-- [Blue Nights by Together Alone](https://open.spotify.com/track/0dGiN9FBLcZkSI0uuc50qL)
-- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
-- [Paradise by MVCA, Nina Carr](https://open.spotify.com/track/3XB4qOPDyCwJ3c7Z4YyzOl)
-- [Good Love by Alena Kita](https://open.spotify.com/track/2R483yc3CKdKgbpxOOOUlN)
+- [You&#39;re Not There by Alena Kita](https://open.spotify.com/track/06sM4pTTiD9JWxleV7Uc4e)
+- [Problems by Leo Chase](https://open.spotify.com/track/3M2NjmFrDeLxGHL1niL1Ha)
+- [Only by Bjarne Hendrik](https://open.spotify.com/track/3dEtzi3GR9RknWrrnQmpIs)
+- [Talk About Us by Thierry Von Der Warth](https://open.spotify.com/track/2aGi8MHh1WR0le7LEqzEga)
+- [Faded by SITHEA, ELERA, Cozy Sky](https://open.spotify.com/track/3PJ5S08jxr3C1vPIUu7zoM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
