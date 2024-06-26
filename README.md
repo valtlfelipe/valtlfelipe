@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js)** - Official JavaScript SDK for Lemon Squeezy. (today)
 - **[midday-ai/midday](https://github.com/midday-ai/midday)** - Run your business smarter 🪄 (today)
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (1 day ago)
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (1 day ago)
 - **[nuxt/ui-pro](https://github.com/nuxt/ui-pro)** - Ship beautiful web applications at the speed of light with Nuxt UI Pro. (1 day ago)
-- **[paradedb/paradedb](https://github.com/paradedb/paradedb)** - Postgres for Search and Analytics (2 days ago)
 
 #### 🎧 What I have been listening
 - [Cry (Just a Little) - Radio Mix by Bingo Players](https://open.spotify.com/track/0HoGXVf0uwyWk0XeLfKS4C)
