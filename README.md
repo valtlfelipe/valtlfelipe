@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paradedb/paradedb](https://github.com/paradedb/paradedb)** - Postgres for Search and Analytics (2 days ago)
 
 #### 🎧 What I have been listening
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
-- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
-- [CONTIGO (with Tiësto) by KAROL G, Tiësto](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh)
-- [Where You Are by John Summit, HAYLA](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA)
-- [Hallucination by Regard, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu)
+- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3)
+- [21 Reasons (feat. Ella Henderson) by Nathan Dawe, Ella Henderson](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR)
+- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
+- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
