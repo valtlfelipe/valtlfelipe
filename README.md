@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paradedb/paradedb](https://github.com/paradedb/paradedb)** - Postgres for Search and Analytics (2 days ago)
 
 #### 🎧 What I have been listening
-- [Need You by Matt Skies](https://open.spotify.com/track/51LSDqeMdRs6Rgqn3qzfE2)
-- [So Over You by Matthew Clarck](https://open.spotify.com/track/0ZLLGT0tnoBmC4eBM7RIY2)
-- [Drive by BELLA X, LRMEO](https://open.spotify.com/track/3rxAGH0bZVwBnB6EZD6tiE)
-- [Heart to Leave by C-Ro](https://open.spotify.com/track/3vFkDhZKK5FxRlBZNFyOKw)
-- [I Follow Rivers by TRVLR, Round Light, INAMEIT](https://open.spotify.com/track/1TBitQyjAx3qn6nFgZ4WwH)
+- [Thank You by Izabela, Triplo Max](https://open.spotify.com/track/6QUDxAWu0JwWmXP8vVUh2s)
+- [Somebody&#39;s Watching Me by Sealife, PRSM](https://open.spotify.com/track/0uFuJkuMxjJB3Gpe87hJtD)
+- [Heartbeat by Eric Lund](https://open.spotify.com/track/12p5OBYC7Rpbb5mOI9azLQ)
+- [With You by Le P](https://open.spotify.com/track/1y8VxQhuTcd46rgOgJCWyd)
+- [Right Here Waiting by Vic Roz, Victor Perry](https://open.spotify.com/track/1acS7tGmipN7J8SAZqCrFf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
