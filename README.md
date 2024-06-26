@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paradedb/paradedb](https://github.com/paradedb/paradedb)** - Postgres for Search and Analytics (2 days ago)
 
 #### 🎧 What I have been listening
+- [Dive by Lost Frequencies, Tom Gregory](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP)
+- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
+- [Chase It (Mmm Da Da Da) by Bebe Rexha](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY)
 - [Don&#39;t Go Yet - Major Lazer Remix by Camila Cabello, Major Lazer](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf)
 - [Ten (Get Back Up) by Nathan Dawe, MNEK](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP)
-- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
-- [Deep In Your Love by Alok, Bebe Rexha](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB)
-- [Strangers by Kenya Grace](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
