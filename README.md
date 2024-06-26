@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paradedb/paradedb](https://github.com/paradedb/paradedb)** - Postgres for Search and Analytics (2 days ago)
 
 #### 🎧 What I have been listening
+- [Flowers by Vynx Dance](https://open.spotify.com/track/6DtSJHDmyUY6WEQIk1NKvy)
+- [Home by Vynx Dance](https://open.spotify.com/track/1lEJVij5Y20ca6GL7uzC2d)
+- [Crying On The Dancefloor by Sam Feldt, Jonas Blue, Endless Summer, Violet Days](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6)
 - [Dive by Lost Frequencies, Tom Gregory](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP)
 - [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
-- [Chase It (Mmm Da Da Da) by Bebe Rexha](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY)
-- [Don&#39;t Go Yet - Major Lazer Remix by Camila Cabello, Major Lazer](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf)
-- [Ten (Get Back Up) by Nathan Dawe, MNEK](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
