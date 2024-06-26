@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[farm-fe/farm](https://github.com/farm-fe/farm)** - Extremely fast Vite-compatible web build tool written in Rust (4 days ago)
 
 #### 🎧 What I have been listening
+- [Summer Love by Sole Sole](https://open.spotify.com/track/5nh7ZsmJkw4v1pW28U9szT)
+- [Pandora by Maone, Sam Welch](https://open.spotify.com/track/6mFsc3Y7ydtzSaBMkg2Q2s)
+- [Would I Lie To You by Badjack, Nordic Brave House](https://open.spotify.com/track/4aHZTiUmzLlc4YRco9TP7l)
 - [In My Bed by Emiel, Silience](https://open.spotify.com/track/52rO71tsGpp3oxUjRu9fxd)
 - [Sunrise by Lavish Life](https://open.spotify.com/track/76pSWIK8bbOCiMzKygZtzr)
-- [Good For You by Rayasa, Vowed, Britt](https://open.spotify.com/track/1oKCwxmZldGIyGWhfIY0l3)
-- [Need You by Matt Skies](https://open.spotify.com/track/51LSDqeMdRs6Rgqn3qzfE2)
-- [So Over You by Matthew Clarck](https://open.spotify.com/track/0ZLLGT0tnoBmC4eBM7RIY2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
