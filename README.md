@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paradedb/paradedb](https://github.com/paradedb/paradedb)** - Postgres for Search and Analytics (2 days ago)
 
 #### 🎧 What I have been listening
-- [Thank You by Izabela, Triplo Max](https://open.spotify.com/track/6QUDxAWu0JwWmXP8vVUh2s)
-- [Somebody&#39;s Watching Me by Sealife, PRSM](https://open.spotify.com/track/0uFuJkuMxjJB3Gpe87hJtD)
-- [Heartbeat by Eric Lund](https://open.spotify.com/track/12p5OBYC7Rpbb5mOI9azLQ)
-- [With You by Le P](https://open.spotify.com/track/1y8VxQhuTcd46rgOgJCWyd)
-- [Right Here Waiting by Vic Roz, Victor Perry](https://open.spotify.com/track/1acS7tGmipN7J8SAZqCrFf)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
+- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
+- [CONTIGO (with Tiësto) by KAROL G, Tiësto](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh)
+- [Where You Are by John Summit, HAYLA](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA)
+- [Hallucination by Regard, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
