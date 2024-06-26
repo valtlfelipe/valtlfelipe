@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paradedb/paradedb](https://github.com/paradedb/paradedb)** - Postgres for Search and Analytics (2 days ago)
 
 #### 🎧 What I have been listening
+- [In the Name of Love by Martin Garrix, Bebe Rexha](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S)
+- [Perfect (Exceeder) by Mason, Princess Superstar](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT)
+- [It Just Won&#39;t Do - Radio Edit by Tim Deluxe, Sam Obernik](https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9)
+- [Makeba - Ian Asher Remix by Jain, Ian Asher](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L)
 - [Flowers by Vynx Dance](https://open.spotify.com/track/6DtSJHDmyUY6WEQIk1NKvy)
-- [Home by Vynx Dance](https://open.spotify.com/track/1lEJVij5Y20ca6GL7uzC2d)
-- [Crying On The Dancefloor by Sam Feldt, Jonas Blue, Endless Summer, Violet Days](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6)
-- [Dive by Lost Frequencies, Tom Gregory](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP)
-- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
