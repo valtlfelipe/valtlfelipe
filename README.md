@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Pleasure Chasers by Vintage Culture, NoMBe](https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP)
-- [Begging For Healing by Pontifexx, No/Me, Avi Snow, Patrus](https://open.spotify.com/track/1baO6Is68Eh4vhpPHwdfp6)
-- [Flute by Voltech](https://open.spotify.com/track/2PA7dRQno5zcM65bocvu08)
-- [Two Sides (feat. Julia Temos) by INGEK, Julia Temos](https://open.spotify.com/track/3tyYBPax1BWTXwgL86131f)
-- [Eu Vou Pra Bahia - Felguk, Watzgood Remix by DOT (BR), Rachel Reis, Felguk, Watzgood](https://open.spotify.com/track/4URoP8kzqgmBfo3WcXFzFb)
+- [Suavemente by Tribbs, CERES](https://open.spotify.com/track/2iqQ0Pk82ozDZjXWBvTnan)
+- [Seek Love (On The Beach) by Alok, Tazi, Samuele Sartini, Amanda Wilson, YORK](https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP)
+- [Questions by BOOTY LEAK, Ventura, NONOGOOD](https://open.spotify.com/track/1QoQryc8ID3vBIY7SLjAd7)
+- [Down Under by HAWK., LV](https://open.spotify.com/track/6QmnodClYxy484Dx7rxD7v)
+- [Bad Boys by Liu, Alex O&#39;Clock](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
