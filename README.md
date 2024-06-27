@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Runaway (U &amp; I) by Galantis](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo)
-- [Intoxicated by Martin Solveig x GTA](https://open.spotify.com/track/6Yg2WhNIKQ2eaNb3nmSC51)
-- [Last Night by Vynx Dance](https://open.spotify.com/track/1AeX1E8q8EbYyQJsQIzK3y)
-- [Children by Vynx Dance](https://open.spotify.com/track/6D87RCEvj8tMs5aDqX1A7O)
-- [Destination Calabria - Radio Edit by Alex Gaudino, Crystal Waters](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h)
+- [If Everything Was Good (Almanac Remix) by Almanac, Silicon Estate, mimi bay](https://open.spotify.com/track/2VSRVhl6uaToSdNsz3ghwq)
+- [How I Feel by Slow Motion](https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1)
+- [Find A Way by Vintage Culture](https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE)
+- [Hit the Ground - Edit by Gui Boratto](https://open.spotify.com/track/0Q9bsOkkAq5Jr6SQlPKb1X)
+- [Champagne Bottle by Future Class, Mazzocchi](https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
