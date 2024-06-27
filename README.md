@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (2 days ago)
 
 #### 🎧 What I have been listening
-- [This Is What It Feels Like by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9)
-- [Sweet Nothing (feat. Florence Welch) by Calvin Harris, Florence Welch](https://open.spotify.com/track/6GuwQACz8ZNl5egtgtuJ2D)
-- [Can&#39;t Stop Me - Radio Edit by AFROJACK, Shermanology](https://open.spotify.com/track/57RL7qQAyB1Bh1hGIT3WLf)
-- [Cry (Just a Little) - Radio Mix by Bingo Players](https://open.spotify.com/track/0HoGXVf0uwyWk0XeLfKS4C)
-- [In the Name of Love by Martin Garrix, Bebe Rexha](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S)
+- [Welcome to St. Tropez - DJ Antoine vs. Mad Mark Radio Edit by DJ Antoine, Timati, Kalenna](https://open.spotify.com/track/43dijXylJjKuis4lVZGZea)
+- [Cold Heart by Bhaskar, Gabriel Boni, Layna](https://open.spotify.com/track/1nZktjRTpvyL7l5Piget0G)
+- [Day &#39;N&#39; Nite - Crookers Remix by Kid Cudi, Crookers](https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e)
+- [Waves - Robin Schulz Radio Edit by Mr. Probz, Robin Schulz](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs)
+- [Never Say Goodbye - Radio Edit by Hardwell, Dyro, Bright Lights](https://open.spotify.com/track/1JEZL8T0JE0868RXp811br)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
