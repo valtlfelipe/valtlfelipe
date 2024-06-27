@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (2 days ago)
 
 #### 🎧 What I have been listening
+- [Children of the Sun - R.I.O. Radio Edit by Yanou, R.I.O.](https://open.spotify.com/track/5As6bX4GsBqkCLzz7GgBLt)
+- [Revolution - Radio Mix by R3HAB, NERVO, Ummet Ozcan](https://open.spotify.com/track/7IXNAZEJT7wOuCerK60pQj)
+- [You Make Me Feel... (feat. Sabi) by Cobra Starship, Sabi](https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM)
+- [Let Me Think About It by Ida Corr, Fedde Le Grand](https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV)
 - [In The Club by Matt Faulk](https://open.spotify.com/track/6uZEc0vG0oQf4OeytOotte)
-- [Call on Me by Eric Prydz](https://open.spotify.com/track/1As4KC3YYpu89aBt7EqL2m)
-- [Barbie Girl by Vynx Dance](https://open.spotify.com/track/0QoVsN2uMiDJCi9Hh4Y6BF)
-- [Cry for You by September](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao)
-- [Dynamite by Taio Cruz](https://open.spotify.com/track/0kST1BXkSUTaNauJrXimM6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
