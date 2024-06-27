@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (2 days ago)
 
 #### 🎧 What I have been listening
-- [One (Your Name) - Radio Edit by Swedish House Mafia, Pharrell Williams](https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde)
-- [Older by Vynx Dance](https://open.spotify.com/track/5EIHs74enP0gTJ7yk0TY3L)
-- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
-- [Prayer in C - Robin Schulz Radio Edit by Lilly Wood and The Prick, Robin Schulz](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck)
-- [Stay Awake (With Me) by Robbie Rivera, James Revitt, Billie Stockley](https://open.spotify.com/track/1JhbrOiRfgpsXmGpACfpPu)
+- [In The Club by Matt Faulk](https://open.spotify.com/track/6uZEc0vG0oQf4OeytOotte)
+- [Call on Me by Eric Prydz](https://open.spotify.com/track/1As4KC3YYpu89aBt7EqL2m)
+- [Barbie Girl by Vynx Dance](https://open.spotify.com/track/0QoVsN2uMiDJCi9Hh4Y6BF)
+- [Cry for You by September](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao)
+- [Dynamite by Taio Cruz](https://open.spotify.com/track/0kST1BXkSUTaNauJrXimM6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
