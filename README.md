@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Take Over Control (feat. Eva Simons) - Radio Edit by AFROJACK, Eva Simons](https://open.spotify.com/track/5DdDbJvoaT8fqQMJkiGg4T)
-- [Barbra Streisand - Radio Edit by Duck Sauce](https://open.spotify.com/track/3BTqZwYj9bYNbrnXWwp3uu)
-- [Children of the Sun - R.I.O. Radio Edit by Yanou, R.I.O.](https://open.spotify.com/track/5As6bX4GsBqkCLzz7GgBLt)
-- [Revolution - Radio Mix by R3HAB, NERVO, Ummet Ozcan](https://open.spotify.com/track/7IXNAZEJT7wOuCerK60pQj)
-- [You Make Me Feel... (feat. Sabi) by Cobra Starship, Sabi](https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM)
+- [Runaway (U &amp; I) by Galantis](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo)
+- [Intoxicated by Martin Solveig x GTA](https://open.spotify.com/track/6Yg2WhNIKQ2eaNb3nmSC51)
+- [Last Night by Vynx Dance](https://open.spotify.com/track/1AeX1E8q8EbYyQJsQIzK3y)
+- [Children by Vynx Dance](https://open.spotify.com/track/6D87RCEvj8tMs5aDqX1A7O)
+- [Destination Calabria - Radio Edit by Alex Gaudino, Crystal Waters](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
