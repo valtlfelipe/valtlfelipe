@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (2 days ago)
 
 #### 🎧 What I have been listening
+- [Take Over Control (feat. Eva Simons) - Radio Edit by AFROJACK, Eva Simons](https://open.spotify.com/track/5DdDbJvoaT8fqQMJkiGg4T)
+- [Barbra Streisand - Radio Edit by Duck Sauce](https://open.spotify.com/track/3BTqZwYj9bYNbrnXWwp3uu)
 - [Children of the Sun - R.I.O. Radio Edit by Yanou, R.I.O.](https://open.spotify.com/track/5As6bX4GsBqkCLzz7GgBLt)
 - [Revolution - Radio Mix by R3HAB, NERVO, Ummet Ozcan](https://open.spotify.com/track/7IXNAZEJT7wOuCerK60pQj)
 - [You Make Me Feel... (feat. Sabi) by Cobra Starship, Sabi](https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM)
-- [Let Me Think About It by Ida Corr, Fedde Le Grand](https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV)
-- [In The Club by Matt Faulk](https://open.spotify.com/track/6uZEc0vG0oQf4OeytOotte)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
