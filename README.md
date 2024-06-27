@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (2 days ago)
 
 #### 🎧 What I have been listening
-- [If Everything Was Good (Almanac Remix) by Almanac, Silicon Estate, mimi bay](https://open.spotify.com/track/2VSRVhl6uaToSdNsz3ghwq)
-- [How I Feel by Slow Motion](https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1)
-- [Find A Way by Vintage Culture](https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE)
-- [Hit the Ground - Edit by Gui Boratto](https://open.spotify.com/track/0Q9bsOkkAq5Jr6SQlPKb1X)
-- [Champagne Bottle by Future Class, Mazzocchi](https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2)
+- [Pleasure Chasers by Vintage Culture, NoMBe](https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP)
+- [Begging For Healing by Pontifexx, No/Me, Avi Snow, Patrus](https://open.spotify.com/track/1baO6Is68Eh4vhpPHwdfp6)
+- [Flute by Voltech](https://open.spotify.com/track/2PA7dRQno5zcM65bocvu08)
+- [Two Sides (feat. Julia Temos) by INGEK, Julia Temos](https://open.spotify.com/track/3tyYBPax1BWTXwgL86131f)
+- [Eu Vou Pra Bahia - Felguk, Watzgood Remix by DOT (BR), Rachel Reis, Felguk, Watzgood](https://open.spotify.com/track/4URoP8kzqgmBfo3WcXFzFb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
