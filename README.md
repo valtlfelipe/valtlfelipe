@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Welcome to St. Tropez - DJ Antoine vs. Mad Mark Radio Edit by DJ Antoine, Timati, Kalenna](https://open.spotify.com/track/43dijXylJjKuis4lVZGZea)
-- [Cold Heart by Bhaskar, Gabriel Boni, Layna](https://open.spotify.com/track/1nZktjRTpvyL7l5Piget0G)
-- [Day &#39;N&#39; Nite - Crookers Remix by Kid Cudi, Crookers](https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e)
-- [Waves - Robin Schulz Radio Edit by Mr. Probz, Robin Schulz](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs)
-- [Never Say Goodbye - Radio Edit by Hardwell, Dyro, Bright Lights](https://open.spotify.com/track/1JEZL8T0JE0868RXp811br)
+- [So Many Times by Gadjo, Alexandra Prince](https://open.spotify.com/track/6Sf1pkm2m5Pe2mh6USmg72)
+- [Calling (Lose My Mind) - Radio Edit by Sebastian Ingrosso, Alesso, Ryan Tedder](https://open.spotify.com/track/1trC8L8YpawkU553ymy2zC)
+- [Don&#39;t You Worry Child - Radio Edit by Swedish House Mafia, John Martin](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p)
+- [Beautiful People (feat. Benny Benassi) - Radio Edit by Chris Brown, Benny Benassi](https://open.spotify.com/track/1hDYcjBSsAShpTSekSyyzC)
+- [I Gotta Feeling - Edit by Black Eyed Peas](https://open.spotify.com/track/0MYLzCswPtYON4yYWmB4dx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
