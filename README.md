@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (2 days ago)
 
 #### 🎧 What I have been listening
+- [La Musica by Benny Benassi, Dubdogz, Mairee](https://open.spotify.com/track/7AAV2G6lxJhMm3Dq2LUNwW)
+- [venus&#39; secret by KinAhau, Beltran](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP)
+- [Sounds Of The Underground by Liu, Khouri, Schillist](https://open.spotify.com/track/0P3C9C9qhNjVs7SIypjRBO)
+- [Redline by Reezer](https://open.spotify.com/track/2SccLSKaSbPI8ei4V0kTnw)
 - [Suavemente by Tribbs, CERES](https://open.spotify.com/track/2iqQ0Pk82ozDZjXWBvTnan)
-- [Seek Love (On The Beach) by Alok, Tazi, Samuele Sartini, Amanda Wilson, YORK](https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP)
-- [Questions by BOOTY LEAK, Ventura, NONOGOOD](https://open.spotify.com/track/1QoQryc8ID3vBIY7SLjAd7)
-- [Down Under by HAWK., LV](https://open.spotify.com/track/6QmnodClYxy484Dx7rxD7v)
-- [Bad Boys by Liu, Alex O&#39;Clock](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
