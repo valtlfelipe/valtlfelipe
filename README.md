@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (3 days ago)
 
 #### 🎧 What I have been listening
-- [Little Too Late by Hot Culture](https://open.spotify.com/track/70hdUZWkCrGbcIiZGLVWUb)
-- [Be Where You Are by JLV, Felix Samuel](https://open.spotify.com/track/3SZsisw9DBAHD5Cik3S1oP)
-- [Go Back (feat. Julia Church) by John Summit, Sub Focus, Julia Church](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh)
-- [How You Feel (Ft. Leven Kali) by ANOTR, Erik Bandt, Leven Kali](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0)
-- [Be Alright by Cat Dealers, HRRTZ](https://open.spotify.com/track/6HB7GMa8Wj1rxjtxjm3dJe)
+- [Running Back to You by Astrality, Miggy Dela Rosa](https://open.spotify.com/track/12VCcXBvOlraAB1G7DAWH6)
+- [Party All The Time by KVSH, CERES, DISORDER](https://open.spotify.com/track/637yGvPCV8Fi1kl5GnoVuq)
+- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
+- [Obsession by Surf Mesa, NKY](https://open.spotify.com/track/3QzY4x5erz3p64k9KNukV4)
+- [Call Me Baby - Dani Masi VIP Radio Edit by Dani Masi](https://open.spotify.com/track/5kzqrMXQCgHA82cloV3Gb5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
