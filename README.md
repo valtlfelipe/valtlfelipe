@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (3 days ago)
 
 #### 🎧 What I have been listening
-- [BLACK WIDOW by Alok, Kickbait, CERES](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7)
-- [Under The Sun (with Alok) by Ella Henderson, Switch Disco, Alok](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y)
-- [The Rhythm of the Night by Alesso](https://open.spotify.com/track/1jpXMlIkeTcTRZW1nYnfIZ)
-- [I Don&#39;t Wanna Wait - Hypaton Remix by David Guetta, OneRepublic, Hypaton](https://open.spotify.com/track/0fWEiUDScOulPx57WQk1Bo)
-- [Perfect (Exceeder) - Oliver Heldens Remix by Mason, Princess Superstar, Oliver Heldens](https://open.spotify.com/track/2XoNq5vZlHC2Y1JCoEbYBY)
+- [Runaway by Felguk, Watzgood](https://open.spotify.com/track/6trCZ6N85DUUn7NfEcbqih)
+- [All the Things She Said by Robin Schulz, Timmy Trumpet, KOPPY](https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx)
+- [All Night by CERES](https://open.spotify.com/track/1ALWJAg2OHZyyjoAHB2hZg)
+- [Multiply by Becky Hill](https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4)
+- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
