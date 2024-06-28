@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[glasskube/glasskube](https://github.com/glasskube/glasskube)** - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (3 days ago)
 
 #### 🎧 What I have been listening
+- [Cold by CERES, Paul Schulze](https://open.spotify.com/track/0qqWTIRNpo9z2HMx6eyp5N)
+- [Not Sorry by STRAAW, CERES](https://open.spotify.com/track/7flYA7GiLu0N0seaNWWkeb)
+- [Just Take Me by BAF](https://open.spotify.com/track/2pqGW8qgxikgKWU4K3RoAz)
 - [La Musica by Benny Benassi, Dubdogz, Mairee](https://open.spotify.com/track/7AAV2G6lxJhMm3Dq2LUNwW)
 - [venus&#39; secret by KinAhau, Beltran](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP)
-- [Sounds Of The Underground by Liu, Khouri, Schillist](https://open.spotify.com/track/0P3C9C9qhNjVs7SIypjRBO)
-- [Redline by Reezer](https://open.spotify.com/track/2SccLSKaSbPI8ei4V0kTnw)
-- [Suavemente by Tribbs, CERES](https://open.spotify.com/track/2iqQ0Pk82ozDZjXWBvTnan)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
