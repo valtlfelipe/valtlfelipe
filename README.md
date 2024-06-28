@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (3 days ago)
 
 #### 🎧 What I have been listening
+- [Addicted - Joel Corry Remix by Zerb, The Chainsmokers, Ink, Joel Corry](https://open.spotify.com/track/20qJ9gfFbD4Dw7EsQ2EOGj)
+- [Spiral by Sofi Tukker](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx)
+- [Around The World (La La La) by Groove Crackers](https://open.spotify.com/track/47VeRc3zanxwT84T82ZhgS)
 - [Runaway by Felguk, Watzgood](https://open.spotify.com/track/6trCZ6N85DUUn7NfEcbqih)
 - [All the Things She Said by Robin Schulz, Timmy Trumpet, KOPPY](https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx)
-- [All Night by CERES](https://open.spotify.com/track/1ALWJAg2OHZyyjoAHB2hZg)
-- [Multiply by Becky Hill](https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
