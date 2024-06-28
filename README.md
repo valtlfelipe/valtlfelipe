@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (3 days ago)
 
 #### 🎧 What I have been listening
-- [Disco Marathon (feat. NEEKA) by Don Diablo, R3HAB, NEEKA](https://open.spotify.com/track/6eLLQ5NzQchs3RalH4TcVa)
-- [Wherever You Are by Martin Garrix, DubVision, Shaun Farrugia](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4)
-- [Mind Still (feat. blythe) by Sonny Fodera, blythe](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v)
-- [For Life (feat. Nile Rodgers) by Kygo, Zak Abel, Nile Rodgers](https://open.spotify.com/track/6YutTqJz3jGfLMfzIHpSTf)
-- [Mwaki - KVSH &amp; Dynamick Remix by Zerb, KVSH, Dynamick, Sofiya Nzau](https://open.spotify.com/track/7devnfo2CScmtH0xzyJOPL)
+- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
+- [In My Bones by Lost Frequencies, David Kushner](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco)
+- [House Is My Religion by Watzgood](https://open.spotify.com/track/74natXytTuBb5YmMJfmszI)
+- [Inside - Edit by Sharam Jey, Sevek, Amazondas](https://open.spotify.com/track/0tLyDJaFJchA95KqqHcCZ9)
+- [I Don&#39;t Wanna Wait - Miss Monique Remix by David Guetta, OneRepublic, Miss Monique](https://open.spotify.com/track/06AR22pZtkkUgPeqZqma3E)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
