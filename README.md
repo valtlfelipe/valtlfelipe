@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (3 days ago)
 
 #### 🎧 What I have been listening
-- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
-- [In My Bones by Lost Frequencies, David Kushner](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco)
-- [House Is My Religion by Watzgood](https://open.spotify.com/track/74natXytTuBb5YmMJfmszI)
-- [Inside - Edit by Sharam Jey, Sevek, Amazondas](https://open.spotify.com/track/0tLyDJaFJchA95KqqHcCZ9)
-- [I Don&#39;t Wanna Wait - Miss Monique Remix by David Guetta, OneRepublic, Miss Monique](https://open.spotify.com/track/06AR22pZtkkUgPeqZqma3E)
+- [BLACK WIDOW by Alok, Kickbait, CERES](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7)
+- [Under The Sun (with Alok) by Ella Henderson, Switch Disco, Alok](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y)
+- [The Rhythm of the Night by Alesso](https://open.spotify.com/track/1jpXMlIkeTcTRZW1nYnfIZ)
+- [I Don&#39;t Wanna Wait - Hypaton Remix by David Guetta, OneRepublic, Hypaton](https://open.spotify.com/track/0fWEiUDScOulPx57WQk1Bo)
+- [Perfect (Exceeder) - Oliver Heldens Remix by Mason, Princess Superstar, Oliver Heldens](https://open.spotify.com/track/2XoNq5vZlHC2Y1JCoEbYBY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
