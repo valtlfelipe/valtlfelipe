@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (3 days ago)
 
 #### 🎧 What I have been listening
-- [Addicted - Joel Corry Remix by Zerb, The Chainsmokers, Ink, Joel Corry](https://open.spotify.com/track/20qJ9gfFbD4Dw7EsQ2EOGj)
-- [Spiral by Sofi Tukker](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx)
-- [Around The World (La La La) by Groove Crackers](https://open.spotify.com/track/47VeRc3zanxwT84T82ZhgS)
-- [Runaway by Felguk, Watzgood](https://open.spotify.com/track/6trCZ6N85DUUn7NfEcbqih)
-- [All the Things She Said by Robin Schulz, Timmy Trumpet, KOPPY](https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx)
+- [Spell On My Mind by Marco Nobel, Jaxx](https://open.spotify.com/track/1q186VYzPpiNhFd8EylkWU)
+- [Heartbeat Slow by Astrality, Jyll, Dillistone](https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT)
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/37uMiu52DbSIx3SJ3sGDow)
+- [All I Want Is You by Lavern, NEIMY](https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY)
+- [RIOT - Curbi Remix by Öwnboss, Selva, Curbi](https://open.spotify.com/track/141Wmp3tD5OEqY3PrfryWj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
