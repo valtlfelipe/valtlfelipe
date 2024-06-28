@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (3 days ago)
 
 #### 🎧 What I have been listening
-- [Spell On My Mind by Marco Nobel, Jaxx](https://open.spotify.com/track/1q186VYzPpiNhFd8EylkWU)
-- [Heartbeat Slow by Astrality, Jyll, Dillistone](https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT)
-- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/37uMiu52DbSIx3SJ3sGDow)
-- [All I Want Is You by Lavern, NEIMY](https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY)
-- [RIOT - Curbi Remix by Öwnboss, Selva, Curbi](https://open.spotify.com/track/141Wmp3tD5OEqY3PrfryWj)
+- [Feel the Rhythm - Radio Edit by S_Zer0](https://open.spotify.com/track/4wN29ednec65wD2kJS6vGV)
+- [Find A Way by Vintage Culture](https://open.spotify.com/track/2cLE11abGzLpyeDk4BkjDK)
+- [Without You (with HAYLA) by Kygo, HAYLA](https://open.spotify.com/track/6L9UuUMs32tHkwPufnmZee)
+- [Dancing by Dubdogz, Liu, Dubdisko](https://open.spotify.com/track/1JyQVDd48BprQrdEOpmodT)
+- [Satisfaction by CERES, Powered Djs, AISKA](https://open.spotify.com/track/3B48ghSxZJj4OWO9eB2ogp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
