@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (3 days ago)
 
 #### 🎧 What I have been listening
-- [Feel the Rhythm - Radio Edit by S_Zer0](https://open.spotify.com/track/4wN29ednec65wD2kJS6vGV)
-- [Find A Way by Vintage Culture](https://open.spotify.com/track/2cLE11abGzLpyeDk4BkjDK)
-- [Without You (with HAYLA) by Kygo, HAYLA](https://open.spotify.com/track/6L9UuUMs32tHkwPufnmZee)
-- [Dancing by Dubdogz, Liu, Dubdisko](https://open.spotify.com/track/1JyQVDd48BprQrdEOpmodT)
-- [Satisfaction by CERES, Powered Djs, AISKA](https://open.spotify.com/track/3B48ghSxZJj4OWO9eB2ogp)
+- [Little Too Late by Hot Culture](https://open.spotify.com/track/70hdUZWkCrGbcIiZGLVWUb)
+- [Be Where You Are by JLV, Felix Samuel](https://open.spotify.com/track/3SZsisw9DBAHD5Cik3S1oP)
+- [Go Back (feat. Julia Church) by John Summit, Sub Focus, Julia Church](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh)
+- [How You Feel (Ft. Leven Kali) by ANOTR, Erik Bandt, Leven Kali](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0)
+- [Be Alright by Cat Dealers, HRRTZ](https://open.spotify.com/track/6HB7GMa8Wj1rxjtxjm3dJe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
