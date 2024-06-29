@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (4 days ago)
 
 #### 🎧 What I have been listening
+- [Sleep Talking by Beyond, Marlo Rex](https://open.spotify.com/track/5B8yexFn22KcFZKuf7zFAc)
+- [Can&#39;t Stop Me - Radio Edit by AFROJACK, Shermanology](https://open.spotify.com/track/57RL7qQAyB1Bh1hGIT3WLf)
 - [Without You by Siks](https://open.spotify.com/track/5VcY6itcFmFWR9bagK1hDP)
 - [Higher Power by Madism, RYVM](https://open.spotify.com/track/6GpezGZZBNJOaJiAfDz3pZ)
 - [Dust by Galantis](https://open.spotify.com/track/3Q8NY0fH0T1tE4oqZ3S6fA)
-- [Take Over by Almanac](https://open.spotify.com/track/5bVdesbkmQr1jxkA06Iz5z)
-- [You&#39;re Not Alone - James Carter Remix by Punctual, RY X, James Carter](https://open.spotify.com/track/7C2LB0054Jbb6KRZ9jKyDt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
