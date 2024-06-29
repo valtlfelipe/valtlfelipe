@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (4 days ago)
 
 #### 🎧 What I have been listening
-- [Beast Mode (Knock You Out) by Don Diablo](https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4)
-- [Close My Eyes by Rules](https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv)
-- [Tsunami by Alok, Ely Oaks](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii)
-- [Panthers Pulse by Öwnboss, Selva](https://open.spotify.com/track/6iyCeNSV9mS6ytzt0eeJub)
-- [Shining by Korolova, Ekko](https://open.spotify.com/track/2VO9zYsVMrs0wEFry2nCEX)
+- [Take Over by Almanac](https://open.spotify.com/track/5bVdesbkmQr1jxkA06Iz5z)
+- [You&#39;re Not Alone - James Carter Remix by Punctual, RY X, James Carter](https://open.spotify.com/track/7C2LB0054Jbb6KRZ9jKyDt)
+- [4YOU by CERES, Broken Music](https://open.spotify.com/track/4NLpmfcQMl1vfo1QzWPeVR)
+- [Hollow Ground by NOTSOBAD, Able Faces](https://open.spotify.com/track/0D3R3tViQUgPvuzcVX5Yku)
+- [Ooh La La by Madism, SMACK](https://open.spotify.com/track/5SuFAL1gLHPoyz4IPTwslW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
