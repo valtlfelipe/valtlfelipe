@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (4 days ago)
 
 #### 🎧 What I have been listening
+- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
+- [Heaven Takes You Home (feat. Connie Constance) by Swedish House Mafia, Connie Constance](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4)
+- [Austin (Boots Stop Workin&#39;) - Distant Matter Remix by Dasha, Distant Matter](https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho)
 - [Sleep Talking by Beyond, Marlo Rex](https://open.spotify.com/track/5B8yexFn22KcFZKuf7zFAc)
 - [Can&#39;t Stop Me - Radio Edit by AFROJACK, Shermanology](https://open.spotify.com/track/57RL7qQAyB1Bh1hGIT3WLf)
-- [Without You by Siks](https://open.spotify.com/track/5VcY6itcFmFWR9bagK1hDP)
-- [Higher Power by Madism, RYVM](https://open.spotify.com/track/6GpezGZZBNJOaJiAfDz3pZ)
-- [Dust by Galantis](https://open.spotify.com/track/3Q8NY0fH0T1tE4oqZ3S6fA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
