@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (4 days ago)
 
 #### 🎧 What I have been listening
-- [Feelings by BOOTY LEAK, Drerrera, Zoldan](https://open.spotify.com/track/3PwucvWWLM2ktvzR8mO1ET)
-- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
-- [Burning Up by LIZOT, Keanu Silva, IZKO, CERES](https://open.spotify.com/track/4DbHVRP9SmDDgAVOsyd3dK)
-- [Poker Face - Radio Edit by Nici Frida](https://open.spotify.com/track/6AXJGZS6cbTPag81jR9Sxl)
-- [Hero by Vintage Culture, Emery Taylor](https://open.spotify.com/track/5eN5jKybh6fTDgW5uhNksx)
+- [Beast Mode (Knock You Out) by Don Diablo](https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4)
+- [Close My Eyes by Rules](https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv)
+- [Tsunami by Alok, Ely Oaks](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii)
+- [Panthers Pulse by Öwnboss, Selva](https://open.spotify.com/track/6iyCeNSV9mS6ytzt0eeJub)
+- [Shining by Korolova, Ekko](https://open.spotify.com/track/2VO9zYsVMrs0wEFry2nCEX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
