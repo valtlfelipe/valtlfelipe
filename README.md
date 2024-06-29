@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (4 days ago)
 
 #### 🎧 What I have been listening
-- [Running Back to You by Astrality, Miggy Dela Rosa](https://open.spotify.com/track/12VCcXBvOlraAB1G7DAWH6)
-- [Party All The Time by KVSH, CERES, DISORDER](https://open.spotify.com/track/637yGvPCV8Fi1kl5GnoVuq)
-- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
-- [Obsession by Surf Mesa, NKY](https://open.spotify.com/track/3QzY4x5erz3p64k9KNukV4)
-- [Call Me Baby - Dani Masi VIP Radio Edit by Dani Masi](https://open.spotify.com/track/5kzqrMXQCgHA82cloV3Gb5)
+- [Feelings by BOOTY LEAK, Drerrera, Zoldan](https://open.spotify.com/track/3PwucvWWLM2ktvzR8mO1ET)
+- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
+- [Burning Up by LIZOT, Keanu Silva, IZKO, CERES](https://open.spotify.com/track/4DbHVRP9SmDDgAVOsyd3dK)
+- [Poker Face - Radio Edit by Nici Frida](https://open.spotify.com/track/6AXJGZS6cbTPag81jR9Sxl)
+- [Hero by Vintage Culture, Emery Taylor](https://open.spotify.com/track/5eN5jKybh6fTDgW5uhNksx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
