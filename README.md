@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[phasehq/console](https://github.com/phasehq/console)** - Application secrets and configuration management for developers. (today)
-- **[dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)** - a better dotenv–from the creator of `dotenv` (1 day ago)
-- **[lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js)** - Official JavaScript SDK for Lemon Squeezy. (2 days ago)
-- **[midday-ai/midday](https://github.com/midday-ai/midday)** - Run your business smarter 🪄 (2 days ago)
-- **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (3 days ago)
+- **[phasehq/console](https://github.com/phasehq/console)** - Application secrets and configuration management for developers. (1 day ago)
+- **[dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)** - a better dotenv–from the creator of `dotenv` (2 days ago)
+- **[lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js)** - Official JavaScript SDK for Lemon Squeezy. (3 days ago)
+- **[midday-ai/midday](https://github.com/midday-ai/midday)** - Run your business smarter 🪄 (3 days ago)
+- **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (4 days ago)
 
 #### 🎧 What I have been listening
 - [Running Back to You by Astrality, Miggy Dela Rosa](https://open.spotify.com/track/12VCcXBvOlraAB1G7DAWH6)
