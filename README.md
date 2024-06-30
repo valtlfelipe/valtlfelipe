@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[fayazara/saas-hooks](https://github.com/fayazara/saas-hooks)** - A unified interface and hooks for common third party services (today)
 - **[phasehq/console](https://github.com/phasehq/console)** - Application secrets and configuration management for developers. (2 days ago)
 - **[dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)** - a better dotenv–from the creator of `dotenv` (3 days ago)
 - **[lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js)** - Official JavaScript SDK for Lemon Squeezy. (4 days ago)
 - **[midday-ai/midday](https://github.com/midday-ai/midday)** - Run your business smarter 🪄 (4 days ago)
-- **[axiomhq/axiom-cloudflare-workers](https://github.com/axiomhq/axiom-cloudflare-workers)** - Send logs from Cloudflare Workers to Axiom (5 days ago)
 
 #### 🎧 What I have been listening
 - [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
