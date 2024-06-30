@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[midday-ai/midday](https://github.com/midday-ai/midday)** - Run your business smarter 🪄 (4 days ago)
 
 #### 🎧 What I have been listening
-- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
-- [Espresso - Mark Ronson x FNZ Working Late Remix by Sabrina Carpenter, Mark Ronson, FNZ](https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
-- [Heaven Takes You Home (feat. Connie Constance) by Swedish House Mafia, Connie Constance](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4)
-- [Austin (Boots Stop Workin&#39;) - Distant Matter Remix by Dasha, Distant Matter](https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho)
+- [Dive by Lost Frequencies, Tom Gregory](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP)
+- [On My Love by Zara Larsson, David Guetta](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN)
+- [Hallucination by Regard, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
