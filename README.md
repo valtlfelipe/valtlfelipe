@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phasehq/console](https://github.com/phasehq/console)** - Application secrets and configuration management for developers. (3 days ago)
 
 #### 🎧 What I have been listening
-- [slowly by sugar namnam](https://open.spotify.com/track/0QEuW7A76GbRL5RDochQUb)
-- [Rainfall by Purple Smog](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2)
-- [Raining Again by Me Gic](https://open.spotify.com/track/3II3luScpKF4w9kVTST3Z2)
-- [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
-- [Crisp by Pool Villa](https://open.spotify.com/track/2WmdD9R9Qx6cHQ0t5XWHLx)
+- [OFF DAY by Suuunday](https://open.spotify.com/track/5ZZZRpzWasI2ZU2XGXzP70)
+- [Don&#39;t Stop by Ogiv](https://open.spotify.com/track/6qB3DyehKho1J6Iv73L21Q)
+- [Cloud Rotation by Lostlow](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA)
+- [Jennie with the Smile by Plastik Flamingos](https://open.spotify.com/track/5DKtGnxDaPvaHHeOnCWvb4)
+- [Ray Of Sun by Pink Villa](https://open.spotify.com/track/3i2EyWC04DDRnGwCw6ovoI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
