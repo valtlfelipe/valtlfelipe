@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js)** - Official JavaScript SDK for Lemon Squeezy. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
-- [Light by MashBit](https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is)
-- [House of Glass (feat. Justin J. Moore) by Jarod Glawe, Justin J. Moore](https://open.spotify.com/track/67m5pQd4eeJD4dnbIJVmRz)
-- [Hero - Sped Up by Mystic Horizon](https://open.spotify.com/track/23b19cr69L4qRSlDd2KxtP)
-- [Moonlight by BL Official](https://open.spotify.com/track/0d6Bl3cq2XYhPFYpmqLiMu)
+- [Return Of The Mack [Yann Muller Remix] by Charming Horses, Stephen Oaks, Yann Muller, Coopex](https://open.spotify.com/track/4kRHyOynfooShSlBVAx5h1)
+- [Save the Sound by Hans van Helden, RK B.O.S](https://open.spotify.com/track/743mdB3omwazGt7ZmIyrCJ)
+- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
+- [It Ain&#39;t Over &#39;Til It&#39;s Over - Bikini Bandits Deep House Edit by Coral Reef, Alex Grey, Bikini Bandits](https://open.spotify.com/track/0z649qwDFlNUpzjYwz7gtW)
+- [On My Own by MUNNO, Thunder](https://open.spotify.com/track/4v7avbGrHZvJYuxIZYde3i)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
