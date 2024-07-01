@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js)** - Official JavaScript SDK for Lemon Squeezy. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Vibrations by Intellios, KRYAS](https://open.spotify.com/track/5CVBurY20yAlPLFDr0Qoey)
-- [Hear Me Now by UMBRA](https://open.spotify.com/track/3xIptOTSd94NYeB0DhTIdA)
-- [Love Is My Religion by Varski, Cammie Robinson](https://open.spotify.com/track/1Ls0Ie2l0W9BXgR6j6sTzK)
-- [Easy To See by Graystar, Fason](https://open.spotify.com/track/2pjZHO3zZOa9qqs1DlfWyk)
-- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
+- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
+- [Light by MashBit](https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is)
+- [House of Glass (feat. Justin J. Moore) by Jarod Glawe, Justin J. Moore](https://open.spotify.com/track/67m5pQd4eeJD4dnbIJVmRz)
+- [Hero - Sped Up by Mystic Horizon](https://open.spotify.com/track/23b19cr69L4qRSlDd2KxtP)
+- [Moonlight by BL Official](https://open.spotify.com/track/0d6Bl3cq2XYhPFYpmqLiMu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
