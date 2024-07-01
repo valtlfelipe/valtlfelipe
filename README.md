@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js)** - Official JavaScript SDK for Lemon Squeezy. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Call On Me by Rules](https://open.spotify.com/track/7wg7R64Y62OZgGtibeZ16l)
-- [Paradise by Lost Synths, Fabio Vee](https://open.spotify.com/track/6IPG98bguKp1zNDq1VGcYY)
-- [To the Moon and Back by Akrol](https://open.spotify.com/track/28Hp6RaEp1Zi6vrZH6iyFR)
-- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
-- [Light by MashBit](https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is)
+- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
+- [Baila by Greesha](https://open.spotify.com/track/5Jy8BOHA6a3v36bZFVHA9c)
+- [Safe &amp; Sound by Pocket Bear](https://open.spotify.com/track/3FgpNYsDc8HphenLI9sSNB)
+- [Return Of The Mack [Yann Muller Remix] by Charming Horses, Stephen Oaks, Yann Muller, Coopex](https://open.spotify.com/track/4kRHyOynfooShSlBVAx5h1)
+- [Save the Sound by Hans van Helden, RK B.O.S](https://open.spotify.com/track/743mdB3omwazGt7ZmIyrCJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
