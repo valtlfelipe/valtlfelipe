@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phasehq/console](https://github.com/phasehq/console)** - Application secrets and configuration management for developers. (3 days ago)
 
 #### 🎧 What I have been listening
-- [platform 11 by Landayn](https://open.spotify.com/track/6H42CMBnrLd36AfjdbD9UH)
-- [belize by Greene Labyrinth](https://open.spotify.com/track/0P6FeyjuEGafG0cgk8TmVF)
-- [Unwritten by bonaira](https://open.spotify.com/track/3EO6dbGQzzO3nsHDGGnMjD)
-- [Daisy by Spatio](https://open.spotify.com/track/6TG9qxk7w9ACJSTeBWajvt)
-- [Talamanca by Ferngoord](https://open.spotify.com/track/412qLSn3VTrm6bzHH1x2E8)
+- [slowly by sugar namnam](https://open.spotify.com/track/0QEuW7A76GbRL5RDochQUb)
+- [Rainfall by Purple Smog](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2)
+- [Raining Again by Me Gic](https://open.spotify.com/track/3II3luScpKF4w9kVTST3Z2)
+- [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
+- [Crisp by Pool Villa](https://open.spotify.com/track/2WmdD9R9Qx6cHQ0t5XWHLx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
