@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js)** - Official JavaScript SDK for Lemon Squeezy. (5 days ago)
 
 #### 🎧 What I have been listening
+- [Vibrations by Intellios, KRYAS](https://open.spotify.com/track/5CVBurY20yAlPLFDr0Qoey)
+- [Hear Me Now by UMBRA](https://open.spotify.com/track/3xIptOTSd94NYeB0DhTIdA)
+- [Love Is My Religion by Varski, Cammie Robinson](https://open.spotify.com/track/1Ls0Ie2l0W9BXgR6j6sTzK)
+- [Easy To See by Graystar, Fason](https://open.spotify.com/track/2pjZHO3zZOa9qqs1DlfWyk)
 - [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
-- [Baila by Greesha](https://open.spotify.com/track/5Jy8BOHA6a3v36bZFVHA9c)
-- [Safe &amp; Sound by Pocket Bear](https://open.spotify.com/track/3FgpNYsDc8HphenLI9sSNB)
-- [Return Of The Mack [Yann Muller Remix] by Charming Horses, Stephen Oaks, Yann Muller, Coopex](https://open.spotify.com/track/4kRHyOynfooShSlBVAx5h1)
-- [Save the Sound by Hans van Helden, RK B.O.S](https://open.spotify.com/track/743mdB3omwazGt7ZmIyrCJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
