@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)** - a better dotenv–from the creator of `dotenv` (4 days ago)
 
 #### 🎧 What I have been listening
-- [Blurry Sequence by Lazy Driver](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ)
-- [don&#39;t blame the daylight by aiXer](https://open.spotify.com/track/4IlJCdoYJOqg5mnSJdCI5h)
-- [Morning Breeze by Ali Neroli](https://open.spotify.com/track/5mvApCKNT9vTMqtmVnutvi)
-- [Move In Space by Midnight Side Eye](https://open.spotify.com/track/3DpZoWO5g77GIDp3aGWHEp)
-- [Cozumel by Hello Papyrus](https://open.spotify.com/track/5ZpQBYi5KcVADcUCjTSrgY)
+- [At the top by Mechagnome](https://open.spotify.com/track/1vtF91aXPgNZM9zNquwyOs)
+- [head east by bonaira](https://open.spotify.com/track/47BhuJCF6i496FcleIShvI)
+- [The Feels by Peqasus](https://open.spotify.com/track/12ZDfHYGroYkrsxSSolen1)
+- [Wave by Yavuz Grill](https://open.spotify.com/track/7AUesOi1VY1UsxWefS6aqb)
+- [Workspace by Buysea](https://open.spotify.com/track/1C6vxuyg7SFbdMcNifMAbq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
