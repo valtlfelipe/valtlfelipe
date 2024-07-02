@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ)** - A drop-in replacement for SQS designed for great developer experience and efficiency.  (1 day ago)
 
 #### 🎧 What I have been listening
-- [Cornfield Chase by ItsArius, Lynnic](https://open.spotify.com/track/2Bz1aTnk3QLWkv89jHsMcb)
-- [Coffee (Give Me Something) - Quintino Remix by Tiësto, Vintage Culture, Quintino](https://open.spotify.com/track/7DiSsA1LRHAFXGbdbThK1m)
-- [I&#39;m a Thing by Rooftime](https://open.spotify.com/track/4bsF9lJW2nZ0KXpmVONrv9)
-- [Pour Over by Vintage Culture, Adam K](https://open.spotify.com/track/574kOxVgCcy70oq623rvPE)
-- [Morenita by HUGEL, Cumbiafrica](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj)
+- [Sleepwalking (feat. The Chain Gang of 1974) by Dubdogz, Bruno Be, GHOSTT, The Chain Gang Of 1974](https://open.spotify.com/track/5jnfFrLjhMrB3O2lh4jamJ)
+- [Caught in a Dream by PALASTIC, LissA](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR)
+- [Numb by Goodboys, AVAION](https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ)
+- [This Feeling by Vintage Culture, Goodboys](https://open.spotify.com/track/79SrdoXn93tgSzksq73X2y)
+- [I Will Find by Vintage Culture, Rooftime](https://open.spotify.com/track/2bbfiUnH4CATlekDS1dxNr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
