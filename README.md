@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[fayazara/saas-hooks](https://github.com/fayazara/saas-hooks)** - A unified interface and hooks for common third party services (2 days ago)
 
 #### 🎧 What I have been listening
+- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [Nightjar (feat. SHELLS) by Vintage Culture, Sonny Fodera, SHELLS](https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5)
+- [Safe &amp; Sound by Pocket Bear](https://open.spotify.com/track/3FgpNYsDc8HphenLI9sSNB)
 - [Save the Sound by Hans van Helden, RK B.O.S](https://open.spotify.com/track/743mdB3omwazGt7ZmIyrCJ)
-- [Ain&#39;t Nobody (Loves Me Better) by mgZr](https://open.spotify.com/track/4rk3x5BIDhSoINn8Y3VX3f)
-- [Easy To See by Graystar, Fason](https://open.spotify.com/track/2pjZHO3zZOa9qqs1DlfWyk)
-- [Hero - Sped Up by Mystic Horizon](https://open.spotify.com/track/23b19cr69L4qRSlDd2KxtP)
-- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
