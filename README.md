@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[fayazara/saas-hooks](https://github.com/fayazara/saas-hooks)** - A unified interface and hooks for common third party services (2 days ago)
 
 #### 🎧 What I have been listening
-- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
-- [Nightjar (feat. SHELLS) by Vintage Culture, Sonny Fodera, SHELLS](https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5)
-- [Safe &amp; Sound by Pocket Bear](https://open.spotify.com/track/3FgpNYsDc8HphenLI9sSNB)
-- [Save the Sound by Hans van Helden, RK B.O.S](https://open.spotify.com/track/743mdB3omwazGt7ZmIyrCJ)
+- [Deep Inside Of Me (feat. MKLA) by Vintage Culture, Adam K, MKLA](https://open.spotify.com/track/1ZHT4WSOuZPAl82T4nKWEN)
+- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
+- [I Promise You by Rooftime](https://open.spotify.com/track/21xz5b75yyHYTC1BWidmFU)
+- [Echo by RSCL, Repiet, Julia Kleijn](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj)
+- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
