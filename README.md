@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[jdx/mise](https://github.com/jdx/mise)** - dev tools, env vars, task runner (today)
-- **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (today)
-- **[poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ)** - A drop-in replacement for SQS designed for great developer experience and efficiency.  (today)
-- **[fayazara/saas-hooks](https://github.com/fayazara/saas-hooks)** - A unified interface and hooks for common third party services (1 day ago)
-- **[phasehq/console](https://github.com/phasehq/console)** - Application secrets and configuration management for developers. (3 days ago)
+- **[jdx/mise](https://github.com/jdx/mise)** - dev tools, env vars, task runner (1 day ago)
+- **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (1 day ago)
+- **[poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ)** - A drop-in replacement for SQS designed for great developer experience and efficiency.  (1 day ago)
+- **[fayazara/saas-hooks](https://github.com/fayazara/saas-hooks)** - A unified interface and hooks for common third party services (2 days ago)
+- **[phasehq/console](https://github.com/phasehq/console)** - Application secrets and configuration management for developers. (4 days ago)
 
 #### 🎧 What I have been listening
-- [OFF DAY by Suuunday](https://open.spotify.com/track/5ZZZRpzWasI2ZU2XGXzP70)
-- [Don&#39;t Stop by Ogiv](https://open.spotify.com/track/6qB3DyehKho1J6Iv73L21Q)
-- [Cloud Rotation by Lostlow](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA)
-- [Jennie with the Smile by Plastik Flamingos](https://open.spotify.com/track/5DKtGnxDaPvaHHeOnCWvb4)
-- [Ray Of Sun by Pink Villa](https://open.spotify.com/track/3i2EyWC04DDRnGwCw6ovoI)
+- [Beau by Cámille](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni)
+- [El Nido by One Astra](https://open.spotify.com/track/5y4jIRCzdlaMVGiT4P9HPl)
+- [10pm by Maea Sid](https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV)
+- [wicked play by temperley](https://open.spotify.com/track/3a4C9jXFrXGcJnqBvIIK2U)
+- [Bellagio by Paul Rietz](https://open.spotify.com/track/44vcTNxN1PUjZxsi7apRLK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
