@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phasehq/console](https://github.com/phasehq/console)** - Application secrets and configuration management for developers. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Mannequin by Chewy WO](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya)
-- [Beach Vacay by Pink Beaches](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm)
-- [Beautiful Mistakes by Maurice Mills](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z)
-- [Intuitive by PALM ENGELS](https://open.spotify.com/track/2Qav8jC8iVrVpQBJwARKl2)
-- [Florance by Hibiscus](https://open.spotify.com/track/3ANYit4qsF87DStiT2nwsJ)
+- [Azelio by Slashio](https://open.spotify.com/track/2W0getS9GtmaLdXsMxxBxn)
+- [Summertime by SRTW, COLIN](https://open.spotify.com/track/1ijqGNeQBWYSO9X5YyaQdo)
+- [EivissAA by Lndoner](https://open.spotify.com/track/3eigPuKcaYb8wCYjptn6wr)
+- [Feet in Sand by Sum Wave](https://open.spotify.com/track/6YbkG0VobN5rBaN9QW14Ih)
+- [Palma by André Aguado](https://open.spotify.com/track/1eoJB7MFGxUb2LyHl8Cfou)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
