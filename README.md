@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ)** - A drop-in replacement for SQS designed for great developer experience and efficiency.  (1 day ago)
 
 #### 🎧 What I have been listening
+- [Grapes by Green Gold](https://open.spotify.com/track/3iFeU8H1OiqZIxhBIBYQZp)
 - [Spectral Motion by Hans Blu](https://open.spotify.com/track/4dedu45dlthX78olBg9zza)
 - [Riviera Blue by Lou Kil](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO)
 - [Vibes for Days by Venus Bay](https://open.spotify.com/track/4V0mXIbacFOCbpbbREQYe0)
 - [Pathway Across by Altitude Chill](https://open.spotify.com/track/2mx9zSH67TnUqp3CYjycZK)
-- [Skinny Dipping by Dentity](https://open.spotify.com/track/77q1BdpiRYAByg8GonYX77)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
