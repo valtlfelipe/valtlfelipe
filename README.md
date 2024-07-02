@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phasehq/console](https://github.com/phasehq/console)** - Application secrets and configuration management for developers. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Beau by Cámille](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni)
-- [El Nido by One Astra](https://open.spotify.com/track/5y4jIRCzdlaMVGiT4P9HPl)
-- [10pm by Maea Sid](https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV)
-- [wicked play by temperley](https://open.spotify.com/track/3a4C9jXFrXGcJnqBvIIK2U)
-- [Bellagio by Paul Rietz](https://open.spotify.com/track/44vcTNxN1PUjZxsi7apRLK)
+- [Mannequin by Chewy WO](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya)
+- [Beach Vacay by Pink Beaches](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm)
+- [Beautiful Mistakes by Maurice Mills](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z)
+- [Intuitive by PALM ENGELS](https://open.spotify.com/track/2Qav8jC8iVrVpQBJwARKl2)
+- [Florance by Hibiscus](https://open.spotify.com/track/3ANYit4qsF87DStiT2nwsJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
