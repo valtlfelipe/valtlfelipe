@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ)** - A drop-in replacement for SQS designed for great developer experience and efficiency.  (1 day ago)
 
 #### 🎧 What I have been listening
-- [Sleepwalking (feat. The Chain Gang of 1974) by Dubdogz, Bruno Be, GHOSTT, The Chain Gang Of 1974](https://open.spotify.com/track/5jnfFrLjhMrB3O2lh4jamJ)
-- [Caught in a Dream by PALASTIC, LissA](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR)
-- [Numb by Goodboys, AVAION](https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ)
-- [This Feeling by Vintage Culture, Goodboys](https://open.spotify.com/track/79SrdoXn93tgSzksq73X2y)
-- [I Will Find by Vintage Culture, Rooftime](https://open.spotify.com/track/2bbfiUnH4CATlekDS1dxNr)
+- [Spectral Motion by Hans Blu](https://open.spotify.com/track/4dedu45dlthX78olBg9zza)
+- [Riviera Blue by Lou Kil](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO)
+- [Vibes for Days by Venus Bay](https://open.spotify.com/track/4V0mXIbacFOCbpbbREQYe0)
+- [Pathway Across by Altitude Chill](https://open.spotify.com/track/2mx9zSH67TnUqp3CYjycZK)
+- [Skinny Dipping by Dentity](https://open.spotify.com/track/77q1BdpiRYAByg8GonYX77)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
