@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (2 days ago)
 
 #### 🎧 What I have been listening
-- [magnetic shackles by Asha Lin](https://open.spotify.com/track/6rFoIQHPEjMXJTnqhR5mT2)
-- [Demons - Massane Remix by Jerro, Sophia Bel, Massane](https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7)
-- [Celestial by Nora Van Elken](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m)
-- [ICE by Xack](https://open.spotify.com/track/2qSsD3yTWS3sZU6ygeKedR)
-- [bol nou by Milk Malone](https://open.spotify.com/track/2fNKZAs6y2KWU3RcofwDmd)
+- [Give It All Now by Red Leopard](https://open.spotify.com/track/0DagTSqkS7UIYWJFBN1Up1)
+- [Bloom by Kacey View](https://open.spotify.com/track/4t487YqFwbxrqFziKX396O)
+- [Channels by Hazel Calm](https://open.spotify.com/track/7f7VEawSbmKCkDpWpxcd7N)
+- [Missing U by Baijings](https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5)
+- [Final Countdown Again by John Son of John](https://open.spotify.com/track/459AusJgWuTqzeyBP2OocC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
