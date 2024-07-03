@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (2 days ago)
 
 #### 🎧 What I have been listening
-- [Souvenirs by Ran the Man](https://open.spotify.com/track/2TJXryzOQ5UestW8w3DNSU)
-- [misty mind by kilowattz](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q)
-- [Zellos by Sin Valor](https://open.spotify.com/track/5adfcYLs3LlZicwHg4dhRG)
-- [endless cup by frukks](https://open.spotify.com/track/4sdtDC5geKrZHoVqyx5bBA)
-- [Kayser by Milous](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo)
+- [Cloudburn by Bejnou](https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ)
+- [Isla de es Vedrá by Bongo Percy](https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM)
+- [Genuine Foggy by Bishop Beckett](https://open.spotify.com/track/66kHf2V2TLThuiqqSR9sYv)
+- [diced pineapple by Hayzei](https://open.spotify.com/track/3Z7e2ZAeI9RBX8BFOFwNc1)
+- [Tokyo Nights by Modern Clouds](https://open.spotify.com/track/5txysze9nL710gd1YGo0E9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
