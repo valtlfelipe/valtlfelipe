@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (2 days ago)
 
 #### 🎧 What I have been listening
-- [Cloudburn by Bejnou](https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ)
-- [Isla de es Vedrá by Bongo Percy](https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM)
-- [Genuine Foggy by Bishop Beckett](https://open.spotify.com/track/66kHf2V2TLThuiqqSR9sYv)
-- [diced pineapple by Hayzei](https://open.spotify.com/track/3Z7e2ZAeI9RBX8BFOFwNc1)
-- [Tokyo Nights by Modern Clouds](https://open.spotify.com/track/5txysze9nL710gd1YGo0E9)
+- [magnetic shackles by Asha Lin](https://open.spotify.com/track/6rFoIQHPEjMXJTnqhR5mT2)
+- [Demons - Massane Remix by Jerro, Sophia Bel, Massane](https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7)
+- [Celestial by Nora Van Elken](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m)
+- [ICE by Xack](https://open.spotify.com/track/2qSsD3yTWS3sZU6ygeKedR)
+- [bol nou by Milk Malone](https://open.spotify.com/track/2fNKZAs6y2KWU3RcofwDmd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
