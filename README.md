@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (2 days ago)
 
 #### 🎧 What I have been listening
-- [Sartorius by DJ Daidol](https://open.spotify.com/track/2ANndvXKayTN5yla7pc32a)
-- [Ocean Bloom by Noiseway](https://open.spotify.com/track/2tCNch4OfhyBdWkHQJ0w6B)
-- [Moonrise by Baron Malice](https://open.spotify.com/track/0RdkCGBL9C1kQqegWFnzl9)
-- [life&#39;s medicine by PeachPuff](https://open.spotify.com/track/1tfRVmhzPklFBqISXoyHRX)
-- [Black Marble by Lazy Driver](https://open.spotify.com/track/3oYW5P4NaLNrSE9v53Ji8J)
+- [Port Ella by West &amp; Zander](https://open.spotify.com/track/6Q6gpf2CqaZU3on49r1NcU)
+- [Flex Time by Kris Karrey](https://open.spotify.com/track/6obvIIDLxAAgXGpnqKYEhW)
+- [Feel Decent by Heyson](https://open.spotify.com/track/61zOivEMvcyCoymnvBVPy5)
+- [Disc Me Bro by Basixx](https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q)
+- [I Just Wanna by 9Fivey](https://open.spotify.com/track/2IWH3K11b8DwM9BTixLeE0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
