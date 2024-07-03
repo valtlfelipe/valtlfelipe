@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (2 days ago)
 
 #### 🎧 What I have been listening
-- [Stella Marina by Sunset-buff](https://open.spotify.com/track/41t2H4SSr8XZxkFiv8iHhw)
-- [Xtraspicy by Hoboken](https://open.spotify.com/track/3lVnP86We7owVYQRvcmhD5)
-- [Cap by Floral Gloam](https://open.spotify.com/track/6U0uoeEv7ZCgIkld5Wgm2H)
-- [Bit of Window by Conte Prad](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2)
-- [Out Of Mind by Grey Qoo](https://open.spotify.com/track/36nFJrBZPAgGSEFVDEWkaX)
+- [Vanish by GRNY](https://open.spotify.com/track/13jIeCeq46x2m3MpPtyPMw)
+- [Left In The Sunset by Flower Teen](https://open.spotify.com/track/553tti9BPRI7Mp7kl48KEp)
+- [Deeper by Tom Blacksmith](https://open.spotify.com/track/669mKwphlql1xM5zEt8qS9)
+- [Snap To Your Beat by Soft Sea](https://open.spotify.com/track/2apcf7znOGO6gMjVtaatQv)
+- [Nightshades by Cogitation](https://open.spotify.com/track/5cHFlXHVw6KdQVoW4j6YxX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
