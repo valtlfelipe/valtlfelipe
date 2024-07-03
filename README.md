@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (2 days ago)
 
 #### 🎧 What I have been listening
-- [Vanish by GRNY](https://open.spotify.com/track/13jIeCeq46x2m3MpPtyPMw)
-- [Left In The Sunset by Flower Teen](https://open.spotify.com/track/553tti9BPRI7Mp7kl48KEp)
-- [Deeper by Tom Blacksmith](https://open.spotify.com/track/669mKwphlql1xM5zEt8qS9)
-- [Snap To Your Beat by Soft Sea](https://open.spotify.com/track/2apcf7znOGO6gMjVtaatQv)
-- [Nightshades by Cogitation](https://open.spotify.com/track/5cHFlXHVw6KdQVoW4j6YxX)
+- [Souvenirs by Ran the Man](https://open.spotify.com/track/2TJXryzOQ5UestW8w3DNSU)
+- [misty mind by kilowattz](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q)
+- [Zellos by Sin Valor](https://open.spotify.com/track/5adfcYLs3LlZicwHg4dhRG)
+- [endless cup by frukks](https://open.spotify.com/track/4sdtDC5geKrZHoVqyx5bBA)
+- [Kayser by Milous](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
