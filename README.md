@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (2 days ago)
 
 #### 🎧 What I have been listening
-- [Port Ella by West &amp; Zander](https://open.spotify.com/track/6Q6gpf2CqaZU3on49r1NcU)
-- [Flex Time by Kris Karrey](https://open.spotify.com/track/6obvIIDLxAAgXGpnqKYEhW)
-- [Feel Decent by Heyson](https://open.spotify.com/track/61zOivEMvcyCoymnvBVPy5)
-- [Disc Me Bro by Basixx](https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q)
-- [I Just Wanna by 9Fivey](https://open.spotify.com/track/2IWH3K11b8DwM9BTixLeE0)
+- [Stella Marina by Sunset-buff](https://open.spotify.com/track/41t2H4SSr8XZxkFiv8iHhw)
+- [Xtraspicy by Hoboken](https://open.spotify.com/track/3lVnP86We7owVYQRvcmhD5)
+- [Cap by Floral Gloam](https://open.spotify.com/track/6U0uoeEv7ZCgIkld5Wgm2H)
+- [Bit of Window by Conte Prad](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2)
+- [Out Of Mind by Grey Qoo](https://open.spotify.com/track/36nFJrBZPAgGSEFVDEWkaX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
