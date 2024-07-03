@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[raycast/ray-so](https://github.com/raycast/ray-so)** - Create code snippets, browse AI prompts, create extension icons and more. (today)
-- **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (today)
-- **[jdx/mise](https://github.com/jdx/mise)** - dev tools, env vars, task runner (1 day ago)
-- **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (1 day ago)
-- **[poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ)** - A drop-in replacement for SQS designed for great developer experience and efficiency.  (1 day ago)
+- **[raycast/ray-so](https://github.com/raycast/ray-so)** - Create code snippets, browse AI prompts, create extension icons and more. (1 day ago)
+- **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (1 day ago)
+- **[jdx/mise](https://github.com/jdx/mise)** - dev tools, env vars, task runner (2 days ago)
+- **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (2 days ago)
+- **[poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ)** - A drop-in replacement for SQS designed for great developer experience and efficiency.  (2 days ago)
 
 #### 🎧 What I have been listening
 - [Grapes by Green Gold](https://open.spotify.com/track/3iFeU8H1OiqZIxhBIBYQZp)
