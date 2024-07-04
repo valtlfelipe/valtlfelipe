@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mr-karan/doggo](https://github.com/mr-karan/doggo)** - :dog: Command-line DNS Client for Humans. Written in Golang (3 days ago)
 
 #### 🎧 What I have been listening
+- [Bored of Amsterdam by ice bather](https://open.spotify.com/track/2yoNkyAIcjMORYpu1S6Vi0)
+- [crusade by Cloode](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW)
+- [Old Prophecies by Red Leopard](https://open.spotify.com/track/08cXfidFNX5g9cZPNcteWM)
+- [Time On You by Purple Motive](https://open.spotify.com/track/6kimjJ50NnZjkzoSs6oYMk)
 - [Give It All Now by Red Leopard](https://open.spotify.com/track/0DagTSqkS7UIYWJFBN1Up1)
-- [Bloom by Kacey View](https://open.spotify.com/track/4t487YqFwbxrqFziKX396O)
-- [Channels by Hazel Calm](https://open.spotify.com/track/7f7VEawSbmKCkDpWpxcd7N)
-- [Missing U by Baijings](https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5)
-- [Final Countdown Again by John Son of John](https://open.spotify.com/track/459AusJgWuTqzeyBP2OocC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
