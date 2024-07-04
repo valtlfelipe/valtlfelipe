@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[jdx/mise](https://github.com/jdx/mise)** - dev tools, env vars, task runner (3 days ago)
 
 #### 🎧 What I have been listening
-- [Austin (Boots Stop Workin&#39;) - Distant Matter Remix by Dasha, Distant Matter](https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho)
-- [CONTIGO (with Tiësto) by KAROL G, Tiësto](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh)
-- [Dive by Hot Shade, Mike Perry, Chris James](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd)
-- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
-- [Ferrari by James Hype, Miggy Dela Rosa](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP)
+- [The Drum by Alan Walker](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ)
+- [Under The Sun (with Alok) by Ella Henderson, Switch Disco, Alok](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y)
+- [Melody by Sigala](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l)
+- [Sunroof - Loud Luxury Remix by Nicky Youre, dazy, Loud Luxury](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj)
+- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
