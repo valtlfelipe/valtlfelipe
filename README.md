@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[jdx/mise](https://github.com/jdx/mise)** - dev tools, env vars, task runner (3 days ago)
 
 #### 🎧 What I have been listening
-- [I CAN’T LOSE YOU by Confidence Man](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD)
-- [Outside Of Love by Becky Hill](https://open.spotify.com/track/0IRZJ6G7fj0bvShvNkSOFR)
-- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
-- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
-- [Blue Jeans - RAC Mix by Lana Del Rey, RAC](https://open.spotify.com/track/7JVNRVPeXFAOdMrxOHNjVv)
+- [Spiral by Sofi Tukker](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [Unstoppable - R3HAB Remix by Sia, R3HAB](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq)
+- [I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) by Oliver Heldens, Nile Rodgers, House Gospel Choir](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY)
+- [Overdrive (feat. Norma Jean Martine) by Ofenbach, Norma Jean Martine](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
