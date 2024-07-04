@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[jdx/mise](https://github.com/jdx/mise)** - dev tools, env vars, task runner (3 days ago)
 
 #### 🎧 What I have been listening
-- [The Drum by Alan Walker](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ)
-- [Under The Sun (with Alok) by Ella Henderson, Switch Disco, Alok](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y)
-- [Melody by Sigala](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l)
-- [Sunroof - Loud Luxury Remix by Nicky Youre, dazy, Loud Luxury](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj)
-- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
+- [I CAN’T LOSE YOU by Confidence Man](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD)
+- [Outside Of Love by Becky Hill](https://open.spotify.com/track/0IRZJ6G7fj0bvShvNkSOFR)
+- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
+- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
+- [Blue Jeans - RAC Mix by Lana Del Rey, RAC](https://open.spotify.com/track/7JVNRVPeXFAOdMrxOHNjVv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
