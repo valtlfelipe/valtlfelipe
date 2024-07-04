@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[jdx/mise](https://github.com/jdx/mise)** - dev tools, env vars, task runner (3 days ago)
 
 #### 🎧 What I have been listening
-- [daydream by Liona Lotus](https://open.spotify.com/track/57XuroWBY0xlYqTEOArRyO)
-- [What We Feel by Henrik Villard](https://open.spotify.com/track/6hAskKId0Hh1WZV5TjYvZo)
-- [Wanderer by Contrapad](https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi)
-- [Before by Fresh Faces](https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT)
-- [Lilac Luster by wet n salty](https://open.spotify.com/track/5CBIJIcjgIhkzyIMWVXSeh)
+- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
+- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
+- [Shallow Water by Elderbrook](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom)
+- [Deep In Your Love by Alok, Bebe Rexha](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB)
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
