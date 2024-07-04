@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (2 days ago)
 
 #### 🎧 What I have been listening
-- [Redlight by Swedish House Mafia, Sting](https://open.spotify.com/track/3u1nqEA58OiuOj4norMbnO)
-- [Don&#39;t Be Shy by Tiësto, KAROL G](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB)
-- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3)
-- [Call Me (with R3HAB &amp; Timmy Trumpet) by Gabry Ponte, R3HAB, Timmy Trumpet](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw)
-- [Crying On The Dancefloor by Sam Feldt, Jonas Blue, Endless Summer, Violet Days](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6)
+- [Whistle (feat. Calum Scott) by Jax Jones, Calum Scott](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF)
+- [The Feeling by Lost Frequencies](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8)
+- [Desire (with Sam Smith) by Calvin Harris, Sam Smith](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv)
+- [Bad Memories (feat. Elley Duhé &amp; FAST BOY) by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA)
+- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
