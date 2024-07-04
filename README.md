@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[jdx/mise](https://github.com/jdx/mise)** - dev tools, env vars, task runner (3 days ago)
 
 #### 🎧 What I have been listening
-- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
-- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
-- [Shallow Water by Elderbrook](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom)
-- [Deep In Your Love by Alok, Bebe Rexha](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB)
-- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
+- [Austin (Boots Stop Workin&#39;) - Distant Matter Remix by Dasha, Distant Matter](https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho)
+- [CONTIGO (with Tiësto) by KAROL G, Tiësto](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh)
+- [Dive by Hot Shade, Mike Perry, Chris James](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd)
+- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
+- [Ferrari by James Hype, Miggy Dela Rosa](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
