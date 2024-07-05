@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/ray-so](https://github.com/raycast/ray-so)** - Create code snippets, browse AI prompts, create extension icons and more. (3 days ago)
 
 #### 🎧 What I have been listening
-- [A Moment Apart (Live) (ODESZA VIP Remix) by ODESZA](https://open.spotify.com/track/6nwtUZBvCUzWp8HhhGrDu8)
-- [Just A Memory (Interlude) (Live) by ODESZA](https://open.spotify.com/track/2MA8Ep98eY5wRF28zCE5ec)
-- [Don&#39;t Stop (Live) (ODESZA VIP Remix) by ODESZA](https://open.spotify.com/track/5XWGvqsLKBAj0y47KpHmlF)
-- [Loyal (Live) by ODESZA](https://open.spotify.com/track/6aocvw4IvUE1zmlAavNkcR)
-- [Across The Room x Falls (Live) (ODESZA VIP Remix) by ODESZA](https://open.spotify.com/track/1CxylMSGYankQropBSWDP3)
+- [I Can’t Sleep by ODESZA](https://open.spotify.com/track/4gKHlGnedsioXy3fEwAlEp)
+- [Healing Grid by ODESZA](https://open.spotify.com/track/60jurPi7YvslYvaftPnZXo)
+- [Equal by ODESZA, Låpsley](https://open.spotify.com/track/2SIHYe5tHjsI8uPPZiCbAs)
+- [All My Life by ODESZA](https://open.spotify.com/track/7CrAnTPITesJ2QbGtQU9NX)
+- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/0GvZzfb95hVvO1fz6ub2q0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
