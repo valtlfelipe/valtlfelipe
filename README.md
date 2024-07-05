@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (2 days ago)
 
 #### 🎧 What I have been listening
+- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
+- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
+- [Paradise by Lost Synths, Fabio Vee](https://open.spotify.com/track/6IPG98bguKp1zNDq1VGcYY)
+- [Easy To See by Graystar, Fason](https://open.spotify.com/track/2pjZHO3zZOa9qqs1DlfWyk)
 - [Return Of The Mack [Yann Muller Remix] by Charming Horses, Stephen Oaks, Yann Muller, Coopex](https://open.spotify.com/track/4kRHyOynfooShSlBVAx5h1)
-- [Hero - Sped Up by Mystic Horizon](https://open.spotify.com/track/23b19cr69L4qRSlDd2KxtP)
-- [Summertime Sadness by keyløud, Lonely Night, Ari](https://open.spotify.com/track/2AXG2WhsDqc7ugpQtSfcki)
-- [Moonlight by BL Official](https://open.spotify.com/track/0d6Bl3cq2XYhPFYpmqLiMu)
-- [All I Care by ROOSTERJAXX](https://open.spotify.com/track/4HyZnGKV3SKCJtEOnnigng)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
