@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/ray-so](https://github.com/raycast/ray-so)** - Create code snippets, browse AI prompts, create extension icons and more. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Equal x Boy (Live) by ODESZA](https://open.spotify.com/track/4tL49ueZxBPJD5Z9pmNCAL)
-- [Bloom (Live) (ODESZA VIP Remix) by ODESZA](https://open.spotify.com/track/1a73OJypd6sgDkAwA75NDX)
-- [Wide Awake (Live) by ODESZA, Charlie Houston](https://open.spotify.com/track/2A0cPJCmtGITjsKAIhzEfo)
-- [One Day They&#39;ll Know (Live) (ODESZA VIP Remix) by ODESZA, Pretty Lights](https://open.spotify.com/track/3mqmlOkyeU3hP1rERf6tjv)
-- [In the Rain (Live) by ODESZA](https://open.spotify.com/track/2mOOT12V4TMB9O6p75Hehs)
+- [A Moment Apart (Live) (ODESZA VIP Remix) by ODESZA](https://open.spotify.com/track/6nwtUZBvCUzWp8HhhGrDu8)
+- [Just A Memory (Interlude) (Live) by ODESZA](https://open.spotify.com/track/2MA8Ep98eY5wRF28zCE5ec)
+- [Don&#39;t Stop (Live) (ODESZA VIP Remix) by ODESZA](https://open.spotify.com/track/5XWGvqsLKBAj0y47KpHmlF)
+- [Loyal (Live) by ODESZA](https://open.spotify.com/track/6aocvw4IvUE1zmlAavNkcR)
+- [Across The Room x Falls (Live) (ODESZA VIP Remix) by ODESZA](https://open.spotify.com/track/1CxylMSGYankQropBSWDP3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
