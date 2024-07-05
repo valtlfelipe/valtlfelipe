@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (2 days ago)
 
 #### 🎧 What I have been listening
-- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
-- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
-- [Paradise by Lost Synths, Fabio Vee](https://open.spotify.com/track/6IPG98bguKp1zNDq1VGcYY)
-- [Easy To See by Graystar, Fason](https://open.spotify.com/track/2pjZHO3zZOa9qqs1DlfWyk)
-- [Return Of The Mack [Yann Muller Remix] by Charming Horses, Stephen Oaks, Yann Muller, Coopex](https://open.spotify.com/track/4kRHyOynfooShSlBVAx5h1)
+- [Call On Me by Rules](https://open.spotify.com/track/7wg7R64Y62OZgGtibeZ16l)
+- [Vibrations by Intellios, KRYAS](https://open.spotify.com/track/5CVBurY20yAlPLFDr0Qoey)
+- [Safe &amp; Sound by Pocket Bear](https://open.spotify.com/track/3FgpNYsDc8HphenLI9sSNB)
+- [Love Is My Religion by Varski, Cammie Robinson](https://open.spotify.com/track/1Ls0Ie2l0W9BXgR6j6sTzK)
+- [We Found Love - SLOWED by Pulse Pioneers](https://open.spotify.com/track/0ZtxT93hHyydkUaUcmmVJ9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
