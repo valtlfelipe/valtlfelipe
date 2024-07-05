@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/ray-so](https://github.com/raycast/ray-so)** - Create code snippets, browse AI prompts, create extension icons and more. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Love Letter by ODESZA, The Knocks](https://open.spotify.com/track/5p8QLRVnBk20xuvwiDZtTr)
-- [Wide Awake by ODESZA, Charlie Houston](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB)
-- [This Version Of You by ODESZA, Julianna Barwick](https://open.spotify.com/track/2h4IoIeRasKE7moH6zhHUO)
-- [Sun Models - ODESZA VIP Remix by ODESZA, Madelyn Grant](https://open.spotify.com/track/3ITvV8dLB0RFqJxorjK8eO)
-- [All We Need - ODESZA VIP Remix by ODESZA, Shy Girls](https://open.spotify.com/track/0gGSxG7r332R7Vgvk24GHY)
+- [Easy To See by Graystar, Fason](https://open.spotify.com/track/2pjZHO3zZOa9qqs1DlfWyk)
+- [Return Of The Mack [Yann Muller Remix] by Charming Horses, Stephen Oaks, Yann Muller, Coopex](https://open.spotify.com/track/4kRHyOynfooShSlBVAx5h1)
+- [Hero - Sped Up by Mystic Horizon](https://open.spotify.com/track/23b19cr69L4qRSlDd2KxtP)
+- [Summertime Sadness by keyløud, Lonely Night, Ari](https://open.spotify.com/track/2AXG2WhsDqc7ugpQtSfcki)
+- [Moonlight by BL Official](https://open.spotify.com/track/0d6Bl3cq2XYhPFYpmqLiMu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
