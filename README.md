@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry)** - A Docker registry backed by Workers and R2. (today)
-- **[tlkh/asitop](https://github.com/tlkh/asitop)** - Perf monitoring CLI tool for Apple Silicon (today)
-- **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (1 day ago)
-- **[raycast/ray-so](https://github.com/raycast/ray-so)** - Create code snippets, browse AI prompts, create extension icons and more. (2 days ago)
-- **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (2 days ago)
+- **[cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry)** - A Docker registry backed by Workers and R2. (1 day ago)
+- **[tlkh/asitop](https://github.com/tlkh/asitop)** - Perf monitoring CLI tool for Apple Silicon (1 day ago)
+- **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (2 days ago)
+- **[raycast/ray-so](https://github.com/raycast/ray-so)** - Create code snippets, browse AI prompts, create extension icons and more. (3 days ago)
+- **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (3 days ago)
 
 #### 🎧 What I have been listening
 - [Whistle (feat. Calum Scott) by Jax Jones, Calum Scott](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF)
