@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/ray-so](https://github.com/raycast/ray-so)** - Create code snippets, browse AI prompts, create extension icons and more. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Easy To See by Graystar, Fason](https://open.spotify.com/track/2pjZHO3zZOa9qqs1DlfWyk)
-- [Return Of The Mack [Yann Muller Remix] by Charming Horses, Stephen Oaks, Yann Muller, Coopex](https://open.spotify.com/track/4kRHyOynfooShSlBVAx5h1)
-- [Hero - Sped Up by Mystic Horizon](https://open.spotify.com/track/23b19cr69L4qRSlDd2KxtP)
-- [Summertime Sadness by keyløud, Lonely Night, Ari](https://open.spotify.com/track/2AXG2WhsDqc7ugpQtSfcki)
-- [Moonlight by BL Official](https://open.spotify.com/track/0d6Bl3cq2XYhPFYpmqLiMu)
+- [We Found Love - SLOWED by Pulse Pioneers](https://open.spotify.com/track/0ZtxT93hHyydkUaUcmmVJ9)
+- [Holding On by CLLN](https://open.spotify.com/track/3hGwbeU5XHqwQoaGuyelML)
+- [Save the Sound by Hans van Helden, RK B.O.S](https://open.spotify.com/track/743mdB3omwazGt7ZmIyrCJ)
+- [House of Glass (feat. Justin J. Moore) by Jarod Glawe, Justin J. Moore](https://open.spotify.com/track/67m5pQd4eeJD4dnbIJVmRz)
+- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
