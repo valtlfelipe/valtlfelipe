@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** - AeroSpace is an i3-like tiling window manager for macOS (3 days ago)
 
 #### 🎧 What I have been listening
+- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/2gQK13gXYZRq2MgvPJyHx8)
 - [Whistle (feat. Calum Scott) by Jax Jones, Calum Scott](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF)
 - [The Feeling by Lost Frequencies](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8)
 - [Desire (with Sam Smith) by Calvin Harris, Sam Smith](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv)
 - [Bad Memories (feat. Elley Duhé &amp; FAST BOY) by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
