@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (3 days ago)
 
 #### 🎧 What I have been listening
+- [Escape (feat. Hayla) by Kx5, deadmau5, Kaskade, HAYLA](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK)
+- [Sun Models by ODESZA, Madelyn Grant](https://open.spotify.com/track/7jZHUhAmW5oq1cq6s8IxmK)
 - [To the Moon and Back by Akrol](https://open.spotify.com/track/28Hp6RaEp1Zi6vrZH6iyFR)
 - [On My Own by MUNNO, Thunder](https://open.spotify.com/track/4v7avbGrHZvJYuxIZYde3i)
 - [Light by MashBit](https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is)
-- [It Ain&#39;t Over &#39;Til It&#39;s Over - Bikini Bandits Deep House Edit by Coral Reef, Alex Grey, Bikini Bandits](https://open.spotify.com/track/0z649qwDFlNUpzjYwz7gtW)
-- [Call On Me by Rules](https://open.spotify.com/track/7wg7R64Y62OZgGtibeZ16l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
