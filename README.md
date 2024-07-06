@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (3 days ago)
 
 #### 🎧 What I have been listening
-- [Across The Room by ODESZA, Leon Bridges](https://open.spotify.com/track/4YaNLEPw3MrIgkGOkBrAh2)
-- [Say My Name x Late Night (Live) by ODESZA](https://open.spotify.com/track/1ZVmGzftncwotIcJzkiTQK)
-- [Wide Awake by ODESZA, Charlie Houston](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB)
-- [Sun Models by ODESZA, Madelyn Grant](https://open.spotify.com/track/7jZHUhAmW5oq1cq6s8IxmK)
-- [A Moment Apart by ODESZA](https://open.spotify.com/track/59wlTaYOL5tDUgXnbBQ3my)
+- [CALL OUT by BRONSON, ODESZA, Golden Features](https://open.spotify.com/track/4WIAD59mZw4c4j36fjTvFo)
+- [Line Of Sight by ODESZA, WYNNE, Mansionair](https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4)
+- [One Day They&#39;ll Know (Live) (ODESZA VIP Remix) by ODESZA, Pretty Lights](https://open.spotify.com/track/3mqmlOkyeU3hP1rERf6tjv)
+- [All My Life by ODESZA](https://open.spotify.com/track/6txjv1bYloEaQ65SainV1Y)
+- [HEART ATTACK by BRONSON, ODESZA, Golden Features, lau.ra](https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
