@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (3 days ago)
 
 #### 🎧 What I have been listening
-- [Escape (feat. Hayla) by Kx5, deadmau5, Kaskade, HAYLA](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK)
-- [Sun Models by ODESZA, Madelyn Grant](https://open.spotify.com/track/7jZHUhAmW5oq1cq6s8IxmK)
-- [To the Moon and Back by Akrol](https://open.spotify.com/track/28Hp6RaEp1Zi6vrZH6iyFR)
-- [On My Own by MUNNO, Thunder](https://open.spotify.com/track/4v7avbGrHZvJYuxIZYde3i)
-- [Light by MashBit](https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is)
+- [Memories by Bright Hinze](https://open.spotify.com/track/7dza6AfqBSGOf9VxtBhv19)
+- [Ain&#39;t Nobody (Loves Me Better) by mgZr](https://open.spotify.com/track/4rk3x5BIDhSoINn8Y3VX3f)
+- [Touch Me by Felipe Allenn, Henry Chris, Sonaba](https://open.spotify.com/track/3vm6ZJjtXLzCXq7focO6a8)
+- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
+- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
