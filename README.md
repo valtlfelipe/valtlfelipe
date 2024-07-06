@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (3 days ago)
 
 #### 🎧 What I have been listening
-- [Memories by Bright Hinze](https://open.spotify.com/track/7dza6AfqBSGOf9VxtBhv19)
-- [Ain&#39;t Nobody (Loves Me Better) by mgZr](https://open.spotify.com/track/4rk3x5BIDhSoINn8Y3VX3f)
-- [Touch Me by Felipe Allenn, Henry Chris, Sonaba](https://open.spotify.com/track/3vm6ZJjtXLzCXq7focO6a8)
-- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
-- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
+- [Across The Room by ODESZA, Leon Bridges](https://open.spotify.com/track/4YaNLEPw3MrIgkGOkBrAh2)
+- [Say My Name x Late Night (Live) by ODESZA](https://open.spotify.com/track/1ZVmGzftncwotIcJzkiTQK)
+- [Wide Awake by ODESZA, Charlie Houston](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB)
+- [Sun Models by ODESZA, Madelyn Grant](https://open.spotify.com/track/7jZHUhAmW5oq1cq6s8IxmK)
+- [A Moment Apart by ODESZA](https://open.spotify.com/track/59wlTaYOL5tDUgXnbBQ3my)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
