@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (4 days ago)
 
 #### 🎧 What I have been listening
-- [CALL OUT by BRONSON, ODESZA, Golden Features](https://open.spotify.com/track/4WIAD59mZw4c4j36fjTvFo)
-- [Line Of Sight by ODESZA, WYNNE, Mansionair](https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4)
-- [One Day They&#39;ll Know (Live) (ODESZA VIP Remix) by ODESZA, Pretty Lights](https://open.spotify.com/track/3mqmlOkyeU3hP1rERf6tjv)
-- [All My Life by ODESZA](https://open.spotify.com/track/6txjv1bYloEaQ65SainV1Y)
-- [HEART ATTACK by BRONSON, ODESZA, Golden Features, lau.ra](https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4)
+- [Sua Cara (feat. Anitta &amp; Pabllo Vittar) by Major Lazer, Anitta, Pabllo Vittar](https://open.spotify.com/track/7ziEXnwO7RIRguxSPXP2xs)
+- [Bang by Anitta](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb)
+- [Fun Tonight - Pabllo Vittar Remix by Lady Gaga, Pabllo Vittar](https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn)
+- [Quem Me Dera by Márcia Fellipe, Jerry Smith](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl)
+- [Gaiola É o Troco by MC Du Black, DJ 2F](https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
