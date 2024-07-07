@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (4 days ago)
 
 #### 🎧 What I have been listening
-- [Sua Cara (feat. Anitta &amp; Pabllo Vittar) by Major Lazer, Anitta, Pabllo Vittar](https://open.spotify.com/track/7ziEXnwO7RIRguxSPXP2xs)
-- [Bang by Anitta](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb)
-- [Fun Tonight - Pabllo Vittar Remix by Lady Gaga, Pabllo Vittar](https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn)
-- [Quem Me Dera by Márcia Fellipe, Jerry Smith](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl)
-- [Gaiola É o Troco by MC Du Black, DJ 2F](https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH)
+- [INDUSTRY BABY (feat. Jack Harlow) by Lil Nas X, Jack Harlow](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK)
+- [Sunflower - Spider-Man: Into the Spider-Verse by Post Malone, Swae Lee](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
+- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
+- [Can&#39;t Feel My Face by The Weeknd](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81)
+- [Timber by Pitbull, Kesha](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
