@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog)** - An open source documentation tool to bring discoverability to your event-driven architectures  (1 day ago)
-- **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (1 day ago)
-- **[cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry)** - A Docker registry backed by Workers and R2. (2 days ago)
-- **[tlkh/asitop](https://github.com/tlkh/asitop)** - Perf monitoring CLI tool for Apple Silicon (2 days ago)
-- **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (3 days ago)
+- **[event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog)** - An open source documentation tool to bring discoverability to your event-driven architectures  (2 days ago)
+- **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (2 days ago)
+- **[cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry)** - A Docker registry backed by Workers and R2. (3 days ago)
+- **[tlkh/asitop](https://github.com/tlkh/asitop)** - Perf monitoring CLI tool for Apple Silicon (3 days ago)
+- **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (4 days ago)
 
 #### 🎧 What I have been listening
 - [CALL OUT by BRONSON, ODESZA, Golden Features](https://open.spotify.com/track/4WIAD59mZw4c4j36fjTvFo)
