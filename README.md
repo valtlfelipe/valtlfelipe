@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (3 days ago)
 
 #### 🎧 What I have been listening
-- [California by Takis](https://open.spotify.com/track/655KhyloE0FwV2wZV6Wwp5)
-- [Houdini by Sunseekers, SIQUE](https://open.spotify.com/track/7yeJkhNsPTotVZeDpSu9L5)
-- [Hey Hey by Melo.Kids, SLY.](https://open.spotify.com/track/3DyAEIYxZ6q0Fk59e0OCWY)
-- [Blame by Freaky DJs, Mondorro, PressPlays, Steanie Mary](https://open.spotify.com/track/61R8wqd0hPHQrUDhb5dHbY)
-- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
+- [Milkshake 20 (Alex Wann Remix) by Kelis, Alex Wann](https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ)
+- [Like I Do by Lupage, Bahni, Aize](https://open.spotify.com/track/5alu82b1pysNGJLcDNwb40)
+- [Fading Pictures (Extended Mix) by El Chino Ramos](https://open.spotify.com/track/13Cgod1EYBbThEAjRCCjdS)
+- [Interstellar (Deep House Rework) by Alexandre Pachabezian](https://open.spotify.com/track/0wPVHjSezP3fyF97VUa5PW)
+- [Make It Right by Ace Tyto, Thunder](https://open.spotify.com/track/3BLXWzMdY25ldWZiEx8m0M)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
