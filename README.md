@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (5 days ago)
 
 #### 🎧 What I have been listening
+- [Hey Hey by Melo.Kids, SLY.](https://open.spotify.com/track/3DyAEIYxZ6q0Fk59e0OCWY)
+- [Feels Right by Unsurger, Grey Vision](https://open.spotify.com/track/6L7hafl8kozzvTBeSVVE0T)
+- [Losing My Mind by Drippy](https://open.spotify.com/track/55FDzRRQTbt9v97rqAPvBE)
+- [Interstellar (Deep House Rework) by Alexandre Pachabezian](https://open.spotify.com/track/0wPVHjSezP3fyF97VUa5PW)
 - [I Got Summer On My Mind by Beachlife](https://open.spotify.com/track/1LvHotmkAI5FfAW786Zpk2)
-- [Run Free by Luke Alexander, Boi Angel](https://open.spotify.com/track/4lWYUvPP52H4JR2d8senZA)
-- [Killing Me Softly by Filogy, Briana Timari, Soundland](https://open.spotify.com/track/6kAIhTyqkp4uquRC4lrVBp)
-- [How Am I In Love by Setou &amp; Senyo, SaifLove, B Martin](https://open.spotify.com/track/6nLH159GdzeFVocTd8qIOl)
-- [Love or Die by Ardiyan, MARE](https://open.spotify.com/track/3pB0Dprmvibh84EQaOAggE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
