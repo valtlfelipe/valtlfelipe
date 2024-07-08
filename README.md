@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Ocean Bloom by Noiseway](https://open.spotify.com/track/2tCNch4OfhyBdWkHQJ0w6B)
-- [Moonrise by Baron Malice](https://open.spotify.com/track/0RdkCGBL9C1kQqegWFnzl9)
-- [life&#39;s medicine by PeachPuff](https://open.spotify.com/track/1tfRVmhzPklFBqISXoyHRX)
-- [Can&#39;t Go Far by Talaiio](https://open.spotify.com/track/6ZLaKWF9SggszDQR6Nri6i)
-- [Purified by Stenkil](https://open.spotify.com/track/17GmRKaFzgmnMWC8EEF57q)
+- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
+- [Hit My Heart by Matvey Emerson, Higher Lane](https://open.spotify.com/track/2DUUqTnp4glcCkXiipn5dK)
+- [Sun In My Eyes by Bruno Motta, Dopelerz](https://open.spotify.com/track/5peVFy6i8hfUrywrG0RxM4)
+- [I’m Going Underground by Flux Vortex](https://open.spotify.com/track/0efjjqr8RCTCWsGYFmmDBe)
+- [Losing My Mind by Drippy](https://open.spotify.com/track/55FDzRRQTbt9v97rqAPvBE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
