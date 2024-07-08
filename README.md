@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Mont Boron by Nina Walton](https://open.spotify.com/track/13HLMMi5C7M6B7HX3kZSmg)
-- [Delorean by Tendoi](https://open.spotify.com/track/2kIh8ffUj2hTqKSo8ybPKE)
-- [Catch Me If I Fall by Leon Cox](https://open.spotify.com/track/3bYLZXk4Vu07bOjIhOlWvF)
-- [Revolución, Pt. I by Bonsaye](https://open.spotify.com/track/5p5LVCIy3KA9B6OSRr8VXV)
-- [Time Out by Nth Shade](https://open.spotify.com/track/5H5QQ5HrOJBoc2a2uIiPzi)
+- [Ocean Bloom by Noiseway](https://open.spotify.com/track/2tCNch4OfhyBdWkHQJ0w6B)
+- [Moonrise by Baron Malice](https://open.spotify.com/track/0RdkCGBL9C1kQqegWFnzl9)
+- [life&#39;s medicine by PeachPuff](https://open.spotify.com/track/1tfRVmhzPklFBqISXoyHRX)
+- [Can&#39;t Go Far by Talaiio](https://open.spotify.com/track/6ZLaKWF9SggszDQR6Nri6i)
+- [Purified by Stenkil](https://open.spotify.com/track/17GmRKaFzgmnMWC8EEF57q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
