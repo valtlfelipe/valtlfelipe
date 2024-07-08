@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (3 days ago)
 
 #### 🎧 What I have been listening
+- [California by Takis](https://open.spotify.com/track/655KhyloE0FwV2wZV6Wwp5)
+- [Houdini by Sunseekers, SIQUE](https://open.spotify.com/track/7yeJkhNsPTotVZeDpSu9L5)
+- [Hey Hey by Melo.Kids, SLY.](https://open.spotify.com/track/3DyAEIYxZ6q0Fk59e0OCWY)
+- [Blame by Freaky DJs, Mondorro, PressPlays, Steanie Mary](https://open.spotify.com/track/61R8wqd0hPHQrUDhb5dHbY)
 - [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
-- [Hit My Heart by Matvey Emerson, Higher Lane](https://open.spotify.com/track/2DUUqTnp4glcCkXiipn5dK)
-- [Sun In My Eyes by Bruno Motta, Dopelerz](https://open.spotify.com/track/5peVFy6i8hfUrywrG0RxM4)
-- [I’m Going Underground by Flux Vortex](https://open.spotify.com/track/0efjjqr8RCTCWsGYFmmDBe)
-- [Losing My Mind by Drippy](https://open.spotify.com/track/55FDzRRQTbt9v97rqAPvBE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
