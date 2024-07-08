@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (5 days ago)
 
 #### 🎧 What I have been listening
+- [Blame by Freaky DJs, Mondorro, PressPlays, Steanie Mary](https://open.spotify.com/track/61R8wqd0hPHQrUDhb5dHbY)
+- [Young Folks by Paradise Inc., harley.](https://open.spotify.com/track/2cOzIulrUTQDck14KQ3fdX)
 - [INDUSTRY BABY (feat. Jack Harlow) by Lil Nas X, Jack Harlow](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK)
 - [Sunflower - Spider-Man: Into the Spider-Verse by Post Malone, Swae Lee](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
 - [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
-- [Can&#39;t Feel My Face by The Weeknd](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81)
-- [Timber by Pitbull, Kesha](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
