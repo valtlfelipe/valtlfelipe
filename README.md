@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (today)
+- **[dulnan/nuxt-multi-cache](https://github.com/dulnan/nuxt-multi-cache)** - Advanced caching of components, routes and data for Nuxt 3. Dynamically define CDN cache control headers. Provides cache management API for purging items by key or using cache tags. (today)
 - **[event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog)** - An open source documentation tool to bring discoverability to your event-driven architectures  (3 days ago)
 - **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (3 days ago)
 - **[cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry)** - A Docker registry backed by Workers and R2. (4 days ago)
-- **[tlkh/asitop](https://github.com/tlkh/asitop)** - Perf monitoring CLI tool for Apple Silicon (4 days ago)
-- **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (5 days ago)
 
 #### 🎧 What I have been listening
-- [Hey Hey by Melo.Kids, SLY.](https://open.spotify.com/track/3DyAEIYxZ6q0Fk59e0OCWY)
-- [Feels Right by Unsurger, Grey Vision](https://open.spotify.com/track/6L7hafl8kozzvTBeSVVE0T)
-- [Losing My Mind by Drippy](https://open.spotify.com/track/55FDzRRQTbt9v97rqAPvBE)
-- [Interstellar (Deep House Rework) by Alexandre Pachabezian](https://open.spotify.com/track/0wPVHjSezP3fyF97VUa5PW)
-- [I Got Summer On My Mind by Beachlife](https://open.spotify.com/track/1LvHotmkAI5FfAW786Zpk2)
+- [How Am I In Love by Setou &amp; Senyo, SaifLove, B Martin](https://open.spotify.com/track/6nLH159GdzeFVocTd8qIOl)
+- [Love or Die by Ardiyan, MARE](https://open.spotify.com/track/3pB0Dprmvibh84EQaOAggE)
+- [I’m Going Underground by Flux Vortex](https://open.spotify.com/track/0efjjqr8RCTCWsGYFmmDBe)
+- [Hit My Heart by Matvey Emerson, Higher Lane](https://open.spotify.com/track/2DUUqTnp4glcCkXiipn5dK)
+- [Sun In My Eyes by Bruno Motta, Dopelerz](https://open.spotify.com/track/5peVFy6i8hfUrywrG0RxM4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
