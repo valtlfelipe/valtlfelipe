@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (5 days ago)
 
 #### 🎧 What I have been listening
-- [Sunny by BOV](https://open.spotify.com/track/0z0YmxqvCzQCgRXoTGdLb3)
-- [Make It Right by Ace Tyto, Thunder](https://open.spotify.com/track/3BLXWzMdY25ldWZiEx8m0M)
-- [I Don&#39;t by Vidojean X Oliver Loenn](https://open.spotify.com/track/02GT6uDGyR9hrnGisPJNmH)
-- [Dreams by Skye Holland, Steve Kroeger](https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy)
-- [California by Takis](https://open.spotify.com/track/655KhyloE0FwV2wZV6Wwp5)
+- [I Got Summer On My Mind by Beachlife](https://open.spotify.com/track/1LvHotmkAI5FfAW786Zpk2)
+- [Run Free by Luke Alexander, Boi Angel](https://open.spotify.com/track/4lWYUvPP52H4JR2d8senZA)
+- [Killing Me Softly by Filogy, Briana Timari, Soundland](https://open.spotify.com/track/6kAIhTyqkp4uquRC4lrVBp)
+- [How Am I In Love by Setou &amp; Senyo, SaifLove, B Martin](https://open.spotify.com/track/6nLH159GdzeFVocTd8qIOl)
+- [Love or Die by Ardiyan, MARE](https://open.spotify.com/track/3pB0Dprmvibh84EQaOAggE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
