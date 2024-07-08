@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[incidentalhq/incidental](https://github.com/incidentalhq/incidental)** - An opensource incident management platform integrating with Slack. (today)
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (today)
 - **[dulnan/nuxt-multi-cache](https://github.com/dulnan/nuxt-multi-cache)** - Advanced caching of components, routes and data for Nuxt 3. Dynamically define CDN cache control headers. Provides cache management API for purging items by key or using cache tags. (today)
 - **[event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog)** - An open source documentation tool to bring discoverability to your event-driven architectures  (3 days ago)
 - **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (3 days ago)
-- **[cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry)** - A Docker registry backed by Workers and R2. (4 days ago)
 
 #### 🎧 What I have been listening
-- [How Am I In Love by Setou &amp; Senyo, SaifLove, B Martin](https://open.spotify.com/track/6nLH159GdzeFVocTd8qIOl)
-- [Love or Die by Ardiyan, MARE](https://open.spotify.com/track/3pB0Dprmvibh84EQaOAggE)
-- [I’m Going Underground by Flux Vortex](https://open.spotify.com/track/0efjjqr8RCTCWsGYFmmDBe)
-- [Hit My Heart by Matvey Emerson, Higher Lane](https://open.spotify.com/track/2DUUqTnp4glcCkXiipn5dK)
-- [Sun In My Eyes by Bruno Motta, Dopelerz](https://open.spotify.com/track/5peVFy6i8hfUrywrG0RxM4)
+- [Mont Boron by Nina Walton](https://open.spotify.com/track/13HLMMi5C7M6B7HX3kZSmg)
+- [Delorean by Tendoi](https://open.spotify.com/track/2kIh8ffUj2hTqKSo8ybPKE)
+- [Catch Me If I Fall by Leon Cox](https://open.spotify.com/track/3bYLZXk4Vu07bOjIhOlWvF)
+- [Revolución, Pt. I by Bonsaye](https://open.spotify.com/track/5p5LVCIy3KA9B6OSRr8VXV)
+- [Time Out by Nth Shade](https://open.spotify.com/track/5H5QQ5HrOJBoc2a2uIiPzi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
