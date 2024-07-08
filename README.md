@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog)** - An open source documentation tool to bring discoverability to your event-driven architectures  (2 days ago)
-- **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (2 days ago)
-- **[cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry)** - A Docker registry backed by Workers and R2. (3 days ago)
-- **[tlkh/asitop](https://github.com/tlkh/asitop)** - Perf monitoring CLI tool for Apple Silicon (3 days ago)
-- **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (4 days ago)
+- **[event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog)** - An open source documentation tool to bring discoverability to your event-driven architectures  (3 days ago)
+- **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (3 days ago)
+- **[cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry)** - A Docker registry backed by Workers and R2. (4 days ago)
+- **[tlkh/asitop](https://github.com/tlkh/asitop)** - Perf monitoring CLI tool for Apple Silicon (4 days ago)
+- **[kysely-org/kysely](https://github.com/kysely-org/kysely)** - A type-safe typescript SQL query builder (5 days ago)
 
 #### 🎧 What I have been listening
 - [INDUSTRY BABY (feat. Jack Harlow) by Lil Nas X, Jack Harlow](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK)
