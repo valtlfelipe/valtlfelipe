@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (1 day ago)
 
 #### 🎧 What I have been listening
-- [Perfect Heat by Finn Horizon](https://open.spotify.com/track/1QY1tXdQmtmFh0vcf6VJTc)
-- [Moments Of Sundown by Sum Wave](https://open.spotify.com/track/1skrQ2EgnDHVciNJRtvL6c)
-- [Monsieur by Túnn](https://open.spotify.com/track/1PJkjjYVNjO64a88U65x6m)
-- [Sail by Steve Cee](https://open.spotify.com/track/7A6EOHKcpfACJ9KpCKIiRy)
-- [Breeze by Lauren Que](https://open.spotify.com/track/7lIqdxaQprUnIjgkZsppyP)
+- [Fakin It (feat. Ofelia K) by Kaskade, Felix Cartal, Ofelia K](https://open.spotify.com/track/02r2uE8nEHpJAvFFttQxqh)
+- [Ori tali ma - LVNDSCAPE Remix by Sander van Doorn, LVNDSCAPE](https://open.spotify.com/track/2YDKW31FLSlyW6az564oRS)
+- [I Love You by Axwell /\ Ingrosso, Kid Ink](https://open.spotify.com/track/2GISbjz3wIJX7S4iv1XXAy)
+- [Nobody Does It Better by Michael Calfan](https://open.spotify.com/track/1BMwsK4pa9KhiFmOp1oCjf)
+- [Every Day by Eric Prydz](https://open.spotify.com/track/4j1hJwuawbvpm2q2orbgj7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
