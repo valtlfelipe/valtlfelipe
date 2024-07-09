@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[incidentalhq/incidental](https://github.com/incidentalhq/incidental)** - An opensource incident management platform integrating with Slack. (today)
-- **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (today)
-- **[dulnan/nuxt-multi-cache](https://github.com/dulnan/nuxt-multi-cache)** - Advanced caching of components, routes and data for Nuxt 3. Dynamically define CDN cache control headers. Provides cache management API for purging items by key or using cache tags. (today)
-- **[event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog)** - An open source documentation tool to bring discoverability to your event-driven architectures  (3 days ago)
-- **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (3 days ago)
+- **[incidentalhq/incidental](https://github.com/incidentalhq/incidental)** - An opensource incident management platform integrating with Slack. (1 day ago)
+- **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (1 day ago)
+- **[dulnan/nuxt-multi-cache](https://github.com/dulnan/nuxt-multi-cache)** - Advanced caching of components, routes and data for Nuxt 3. Dynamically define CDN cache control headers. Provides cache management API for purging items by key or using cache tags. (1 day ago)
+- **[event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog)** - An open source documentation tool to bring discoverability to your event-driven architectures  (4 days ago)
+- **[shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)** - Build &amp; ship backends without writing any infrastructure files. (4 days ago)
 
 #### 🎧 What I have been listening
 - [Milkshake 20 (Alex Wann Remix) by Kelis, Alex Wann](https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ)
