@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog)** - An open source documentation tool to bring discoverability to your event-driven architectures  (4 days ago)
 
 #### 🎧 What I have been listening
-- [Milkshake 20 (Alex Wann Remix) by Kelis, Alex Wann](https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ)
-- [Like I Do by Lupage, Bahni, Aize](https://open.spotify.com/track/5alu82b1pysNGJLcDNwb40)
-- [Fading Pictures (Extended Mix) by El Chino Ramos](https://open.spotify.com/track/13Cgod1EYBbThEAjRCCjdS)
-- [Interstellar (Deep House Rework) by Alexandre Pachabezian](https://open.spotify.com/track/0wPVHjSezP3fyF97VUa5PW)
-- [Make It Right by Ace Tyto, Thunder](https://open.spotify.com/track/3BLXWzMdY25ldWZiEx8m0M)
+- [Newark by Pedro Amblar](https://open.spotify.com/track/3VSL6qzD1jjXGzp99rncwE)
+- [Deep Mist by Milous](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H)
+- [Shine by Art of November](https://open.spotify.com/track/4tAKd6ouFGZMGcU4CQvtH7)
+- [In Deep by Beachwax](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds)
+- [Do It Again by Tales of Terra](https://open.spotify.com/track/48YpKQYrE4hXtLkLmgEy89)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
