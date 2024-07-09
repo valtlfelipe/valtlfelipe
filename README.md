@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (1 day ago)
 
 #### 🎧 What I have been listening
-- [Run Free by Luke Alexander, Boi Angel](https://open.spotify.com/track/4lWYUvPP52H4JR2d8senZA)
-- [Torn by R774, Rubén Guerin, Hoop Records](https://open.spotify.com/track/4sp4nwebHpgn9LbdLOBvW8)
-- [Like I Do by Lupage, Bahni, Aize](https://open.spotify.com/track/5alu82b1pysNGJLcDNwb40)
-- [How Am I In Love by Setou &amp; Senyo, SaifLove, B Martin](https://open.spotify.com/track/6nLH159GdzeFVocTd8qIOl)
-- [Hey Hey by Melo.Kids, SLY.](https://open.spotify.com/track/3DyAEIYxZ6q0Fk59e0OCWY)
+- [Young Folks by Paradise Inc., harley.](https://open.spotify.com/track/2cOzIulrUTQDck14KQ3fdX)
+- [I Got Summer On My Mind by Beachlife](https://open.spotify.com/track/1LvHotmkAI5FfAW786Zpk2)
+- [Killing Me Softly by Filogy, Briana Timari, Soundland](https://open.spotify.com/track/6kAIhTyqkp4uquRC4lrVBp)
+- [Feels Right by Unsurger, Grey Vision](https://open.spotify.com/track/6L7hafl8kozzvTBeSVVE0T)
+- [Houdini by Sunseekers, SIQUE](https://open.spotify.com/track/7yeJkhNsPTotVZeDpSu9L5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
