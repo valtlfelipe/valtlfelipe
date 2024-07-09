@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (1 day ago)
 
 #### 🎧 What I have been listening
-- [Young Folks by Paradise Inc., harley.](https://open.spotify.com/track/2cOzIulrUTQDck14KQ3fdX)
-- [I Got Summer On My Mind by Beachlife](https://open.spotify.com/track/1LvHotmkAI5FfAW786Zpk2)
-- [Killing Me Softly by Filogy, Briana Timari, Soundland](https://open.spotify.com/track/6kAIhTyqkp4uquRC4lrVBp)
-- [Feels Right by Unsurger, Grey Vision](https://open.spotify.com/track/6L7hafl8kozzvTBeSVVE0T)
-- [Houdini by Sunseekers, SIQUE](https://open.spotify.com/track/7yeJkhNsPTotVZeDpSu9L5)
+- [Under The Sun (with Alok) by Ella Henderson, Switch Disco, Alok](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y)
+- [Work With My Love by Alok, James Arthur](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw)
+- [Nossos Dias by Alok, Zeeba](https://open.spotify.com/track/50uEFZ86rXLP30bCtrNUFQ)
+- [Seek Love (On The Beach) by Alok, Tazi, Samuele Sartini, Amanda Wilson, YORK](https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP)
+- [Tsunami by Alok, Ely Oaks](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
