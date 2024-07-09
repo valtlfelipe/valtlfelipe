@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (1 day ago)
 
 #### 🎧 What I have been listening
-- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/2gQK13gXYZRq2MgvPJyHx8)
-- [Say My Name by ODESZA, Zyra](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed)
-- [Across The Room by ODESZA, Leon Bridges](https://open.spotify.com/track/4YaNLEPw3MrIgkGOkBrAh2)
-- [Wide Awake by ODESZA, Charlie Houston](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB)
-- [Sun Models by ODESZA, Madelyn Grant](https://open.spotify.com/track/7jZHUhAmW5oq1cq6s8IxmK)
+- [Run Free by Luke Alexander, Boi Angel](https://open.spotify.com/track/4lWYUvPP52H4JR2d8senZA)
+- [Torn by R774, Rubén Guerin, Hoop Records](https://open.spotify.com/track/4sp4nwebHpgn9LbdLOBvW8)
+- [Like I Do by Lupage, Bahni, Aize](https://open.spotify.com/track/5alu82b1pysNGJLcDNwb40)
+- [How Am I In Love by Setou &amp; Senyo, SaifLove, B Martin](https://open.spotify.com/track/6nLH159GdzeFVocTd8qIOl)
+- [Hey Hey by Melo.Kids, SLY.](https://open.spotify.com/track/3DyAEIYxZ6q0Fk59e0OCWY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
