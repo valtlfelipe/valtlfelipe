@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (1 day ago)
 
 #### 🎧 What I have been listening
-- [Under The Sun (with Alok) by Ella Henderson, Switch Disco, Alok](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y)
-- [Work With My Love by Alok, James Arthur](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw)
-- [Nossos Dias by Alok, Zeeba](https://open.spotify.com/track/50uEFZ86rXLP30bCtrNUFQ)
-- [Seek Love (On The Beach) by Alok, Tazi, Samuele Sartini, Amanda Wilson, YORK](https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP)
-- [Tsunami by Alok, Ely Oaks](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii)
+- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [SLEEP TONIGHT (THIS IS THE LIFE) - with R3HAB and Sam Feldt by Switch Disco, R3HAB, Sam Feldt](https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ)
+- [Desire (with Sam Smith) by Calvin Harris, Sam Smith](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
+- [Whistle (feat. Calum Scott) by Jax Jones, Calum Scott](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
