@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (1 day ago)
 
 #### 🎧 What I have been listening
+- [Mija - Re-scored by Eric Prydz](https://open.spotify.com/track/71xUGtZ2UaFxxh6Zj7ETqN)
+- [The Veldt - Radio Edit by deadmau5](https://open.spotify.com/track/1vQ92830bxiBcIhpUj4qrn)
+- [Raven by John Dahlbäck](https://open.spotify.com/track/5Fas8gi45KzNptbwV9uCiK)
+- [Payback by Dimitri Vangelis &amp; Wyman, Steve Angello](https://open.spotify.com/track/34XFgPp7wnmLSE4w8UNC7I)
 - [Fakin It (feat. Ofelia K) by Kaskade, Felix Cartal, Ofelia K](https://open.spotify.com/track/02r2uE8nEHpJAvFFttQxqh)
-- [Ori tali ma - LVNDSCAPE Remix by Sander van Doorn, LVNDSCAPE](https://open.spotify.com/track/2YDKW31FLSlyW6az564oRS)
-- [I Love You by Axwell /\ Ingrosso, Kid Ink](https://open.spotify.com/track/2GISbjz3wIJX7S4iv1XXAy)
-- [Nobody Does It Better by Michael Calfan](https://open.spotify.com/track/1BMwsK4pa9KhiFmOp1oCjf)
-- [Every Day by Eric Prydz](https://open.spotify.com/track/4j1hJwuawbvpm2q2orbgj7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
