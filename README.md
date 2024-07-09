@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (1 day ago)
 
 #### 🎧 What I have been listening
-- [Oasis by Cantha](https://open.spotify.com/track/0GnqFaXN9wyxetnG5SfJiL)
-- [Ikigai by Gloster Gladiator](https://open.spotify.com/track/5KEA75lUPH2Euja9yWoMfO)
-- [Sunkissed by Mill Falc](https://open.spotify.com/track/2tX6KMIEgB11uvahcpkbGK)
-- [Anna (Edit) by Björn Döner](https://open.spotify.com/track/14gU9MqXONePJcAftTXMtu)
-- [Chamber by Cray Barnes](https://open.spotify.com/track/5ku67A7TruAhWUyCe4c6Hr)
+- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/2gQK13gXYZRq2MgvPJyHx8)
+- [Say My Name by ODESZA, Zyra](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed)
+- [Across The Room by ODESZA, Leon Bridges](https://open.spotify.com/track/4YaNLEPw3MrIgkGOkBrAh2)
+- [Wide Awake by ODESZA, Charlie Houston](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB)
+- [Sun Models by ODESZA, Madelyn Grant](https://open.spotify.com/track/7jZHUhAmW5oq1cq6s8IxmK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
