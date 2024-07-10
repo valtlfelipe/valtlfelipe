@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (2 days ago)
 
 #### 🎧 What I have been listening
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
+- [Lay Low by Tiësto](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt)
+- [On Repeat by Robin Schulz, David Guetta](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX)
+- [Sacrifice by Bebe Rexha](https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q)
 - [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
-- [SLEEP TONIGHT (THIS IS THE LIFE) - with R3HAB and Sam Feldt by Switch Disco, R3HAB, Sam Feldt](https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ)
-- [Desire (with Sam Smith) by Calvin Harris, Sam Smith](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
-- [Whistle (feat. Calum Scott) by Jax Jones, Calum Scott](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
