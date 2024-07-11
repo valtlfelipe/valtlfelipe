@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (3 days ago)
 
 #### 🎧 What I have been listening
-- [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
-- [Outside Of Love by Becky Hill](https://open.spotify.com/track/0IRZJ6G7fj0bvShvNkSOFR)
-- [On &amp; On by Armin van Buuren, Punctual, Alika](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r)
-- [Don’t Wake Me Up by Jonas Blue, Why Don&#39;t We](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ)
-- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3)
+- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
+- [On My Love by Zara Larsson, David Guetta](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN)
+- [Where You Are by John Summit, HAYLA](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
+- [Bad Memories (feat. Elley Duhé &amp; FAST BOY) by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
