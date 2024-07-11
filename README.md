@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tegonhq/tegon](https://github.com/tegonhq/tegon)** - Tegon is an open-source, AI-first alternative to Jira, Linear (2 days ago)
 
 #### 🎧 What I have been listening
-- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
-- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
-- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
-- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
-- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
+- [Dancing On My Own - Tiësto Remix by Calum Scott, Tiësto](https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us)
+- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
+- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
+- [Woke Up in Love by Kygo, Gryffin, Calum Scott](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo)
+- [Side Effects by Becky Hill, Lewis Thompson](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
