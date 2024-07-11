@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[unjs/unstorage](https://github.com/unjs/unstorage)** -  💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core. (1 day ago)
-- **[waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)** - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! (1 day ago)
-- **[tegonhq/tegon](https://github.com/tegonhq/tegon)** - Tegon is an open-source, AI-first alternative to Jira, Linear (1 day ago)
-- **[incidentalhq/incidental](https://github.com/incidentalhq/incidental)** - An opensource incident management platform integrating with Slack. (2 days ago)
-- **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (2 days ago)
+- **[unjs/unstorage](https://github.com/unjs/unstorage)** -  💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core. (2 days ago)
+- **[waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)** - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! (2 days ago)
+- **[tegonhq/tegon](https://github.com/tegonhq/tegon)** - Tegon is an open-source, AI-first alternative to Jira, Linear (2 days ago)
+- **[incidentalhq/incidental](https://github.com/incidentalhq/incidental)** - An opensource incident management platform integrating with Slack. (3 days ago)
+- **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (3 days ago)
 
 #### 🎧 What I have been listening
 - [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
