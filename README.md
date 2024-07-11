@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tegonhq/tegon](https://github.com/tegonhq/tegon)** - Tegon is an open-source, AI-first alternative to Jira, Linear (2 days ago)
 
 #### 🎧 What I have been listening
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [Spiral by Sofi Tukker](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx)
 - [One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)
 - [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
 - [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
-- [Hurricane by Ofenbach, Ella Henderson](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za)
-- [Only Way Is Up (feat. Izzy Bizu) by Robin Schulz, Izzy Bizu](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
