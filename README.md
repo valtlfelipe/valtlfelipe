@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tegonhq/tegon](https://github.com/tegonhq/tegon)** - Tegon is an open-source, AI-first alternative to Jira, Linear (2 days ago)
 
 #### 🎧 What I have been listening
-- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
-- [For Life (feat. Nile Rodgers) by Kygo, Zak Abel, Nile Rodgers](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX)
-- [These Words by Badger, Natasha Bedingfield](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz)
-- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO)
+- [One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)
+- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [Hurricane by Ofenbach, Ella Henderson](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za)
+- [Only Way Is Up (feat. Izzy Bizu) by Robin Schulz, Izzy Bizu](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
