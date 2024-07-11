@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (3 days ago)
 
 #### 🎧 What I have been listening
-- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
-- [On My Love by Zara Larsson, David Guetta](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN)
-- [Where You Are by John Summit, HAYLA](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA)
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
-- [Bad Memories (feat. Elley Duhé &amp; FAST BOY) by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA)
+- [Chase It (Mmm Da Da Da) by Bebe Rexha](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY)
+- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
+- [Austin (Boots Stop Workin&#39;) - Distant Matter Remix by Dasha, Distant Matter](https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho)
+- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
+- [Man In Finance (with David Guetta) by David Guetta, Girl On Couch, Billen Ted](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
