@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing)** - Next.js billing app with Lemon Squeezy (3 days ago)
 
 #### 🎧 What I have been listening
-- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
-- [Lay Low by Tiësto](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt)
-- [On Repeat by Robin Schulz, David Guetta](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX)
-- [Sacrifice by Bebe Rexha](https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q)
-- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
+- [Outside Of Love by Becky Hill](https://open.spotify.com/track/0IRZJ6G7fj0bvShvNkSOFR)
+- [On &amp; On by Armin van Buuren, Punctual, Alika](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r)
+- [Don’t Wake Me Up by Jonas Blue, Why Don&#39;t We](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ)
+- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
