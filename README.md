@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tegonhq/tegon](https://github.com/tegonhq/tegon)** - Tegon is an open-source, AI-first alternative to Jira, Linear (3 days ago)
 
 #### 🎧 What I have been listening
-- [Dancing On My Own - Tiësto Remix by Calum Scott, Tiësto](https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us)
-- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
-- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
-- [Woke Up in Love by Kygo, Gryffin, Calum Scott](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo)
-- [Side Effects by Becky Hill, Lewis Thompson](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp)
+- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
+- [Dive by Hot Shade, Mike Perry, Chris James](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd)
+- [Strangers by Kenya Grace](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s)
+- [Paradise (feat. Dermot Kennedy) by MEDUZA, Dermot Kennedy](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr)
+- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
