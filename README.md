@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)** - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! (3 days ago)
 
 #### 🎧 What I have been listening
-- [Ten (Get Back Up) by Nathan Dawe, MNEK](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP)
-- [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
-- [Call Me (with R3HAB &amp; Timmy Trumpet) by Gabry Ponte, R3HAB, Timmy Trumpet](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw)
-- [The Drum by Alan Walker](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ)
-- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
+- [Bad Memories (feat. Elley Duhé &amp; FAST BOY) by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA)
+- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3)
+- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
+- [Training Season by Dua Lipa](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
