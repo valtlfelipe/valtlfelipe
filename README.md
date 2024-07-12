@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unjs/unstorage](https://github.com/unjs/unstorage)** -  💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Man In Finance (with David Guetta) by David Guetta, Girl On Couch, Billen Ted](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T)
-- [Sunshine (My Girl) by Wuki](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri)
-- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
-- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
-- [Tell It To My Heart by MEDUZA, Hozier](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA)
+- [Makeba - Ian Asher Remix by Jain, Ian Asher](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L)
+- [Ferrari by James Hype, Miggy Dela Rosa](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP)
+- [Dancing On My Own - Tiësto Remix by Calum Scott, Tiësto](https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us)
+- [Chase It (Mmm Da Da Da) by Bebe Rexha](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY)
+- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
