@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tegonhq/tegon](https://github.com/tegonhq/tegon)** - Tegon is an open-source, AI-first alternative to Jira, Linear (3 days ago)
 
 #### 🎧 What I have been listening
-- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
-- [Dive by Hot Shade, Mike Perry, Chris James](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd)
-- [Strangers by Kenya Grace](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s)
-- [Paradise (feat. Dermot Kennedy) by MEDUZA, Dermot Kennedy](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr)
-- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
+- [Overdrive (feat. Norma Jean Martine) by Ofenbach, Norma Jean Martine](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ)
+- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG)
+- [Shallow Water by Elderbrook](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom)
+- [i like the way you kiss me by Artemas](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf)
+- [Dive by Lost Frequencies, Tom Gregory](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
