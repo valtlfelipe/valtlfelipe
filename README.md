@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unjs/unstorage](https://github.com/unjs/unstorage)** -  💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Makeba - Ian Asher Remix by Jain, Ian Asher](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L)
-- [Ferrari by James Hype, Miggy Dela Rosa](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP)
-- [Dancing On My Own - Tiësto Remix by Calum Scott, Tiësto](https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us)
-- [Chase It (Mmm Da Da Da) by Bebe Rexha](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY)
-- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
+- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
+- [Unstoppable - R3HAB Remix by Sia, R3HAB](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq)
+- [One in a Million by Bebe Rexha, David Guetta](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [Thank You (Not So Bad) by Dimitri Vegas &amp; Like Mike, Tiësto, Dido, W&amp;W, Dimitri Vegas, Like Mike](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
