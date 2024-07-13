@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[un/inbox](https://github.com/un/inbox)** - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (2 days ago)
 
 #### 🎧 What I have been listening
-- [Desire (with Sam Smith) by Calvin Harris, Sam Smith](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
-- [The Feeling by Lost Frequencies](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8)
-- [Whistle (feat. Calum Scott) by Jax Jones, Calum Scott](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF)
-- [Bad Memories (feat. Elley Duhé &amp; FAST BOY) by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA)
+- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
+- [Austin (Boots Stop Workin&#39;) by Dasha](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd)
+- [360 by Charli xcx](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex)
+- [Strangers by Kenya Grace](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s)
+- [My Oh My by Ava Max](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
