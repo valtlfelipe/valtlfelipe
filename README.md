@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[un/inbox](https://github.com/un/inbox)** - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (3 days ago)
 
 #### 🎧 What I have been listening
-- [Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] by Daft Punk, Pharrell Williams, Nile Rodgers](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof)
-- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
-- [Dark Horse by Katy Perry, Juicy J](https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy)
-- [One Of The Girls (with JENNIE, Lily Rose Depp) by The Weeknd, JENNIE, Lily-Rose Depp](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW)
-- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
+- [Piano Park by Ben Jonovski](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ)
+- [20 Horizons by Stenkil](https://open.spotify.com/track/23ygtfYdWY4tm1XFmbxATt)
+- [Riviera Blue by Lou Kil](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO)
+- [Out Of Mind by Grey Qoo](https://open.spotify.com/track/36nFJrBZPAgGSEFVDEWkaX)
+- [Midsommar by Nora Van Elken](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
