@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[un/inbox](https://github.com/un/inbox)** - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (3 days ago)
 
 #### 🎧 What I have been listening
+- [Too Sweet by Hozier](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0)
+- [Sweater Weather by The Neighbourhood](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6)
+- [Something Just Like This by The Chainsmokers, Coldplay](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW)
 - [If We Ever Broke Up by Mae Stephens](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP)
 - [One Of Your Girls by Troye Sivan](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT)
-- [Say It Right by Nelly Furtado](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t)
-- [Somewhere Only We Know by Keane](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G)
-- [Lost on You by LP](https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
