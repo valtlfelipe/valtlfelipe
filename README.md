@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[un/inbox](https://github.com/un/inbox)** - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (3 days ago)
 
 #### 🎧 What I have been listening
-- [Too Sweet by Hozier](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0)
-- [Sweater Weather by The Neighbourhood](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6)
-- [Something Just Like This by The Chainsmokers, Coldplay](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW)
-- [If We Ever Broke Up by Mae Stephens](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP)
-- [One Of Your Girls by Troye Sivan](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT)
+- [Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] by Daft Punk, Pharrell Williams, Nile Rodgers](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof)
+- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
+- [Dark Horse by Katy Perry, Juicy J](https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy)
+- [One Of The Girls (with JENNIE, Lily Rose Depp) by The Weeknd, JENNIE, Lily-Rose Depp](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW)
+- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
