@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[un/inbox](https://github.com/un/inbox)** - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (4 days ago)
 
 #### 🎧 What I have been listening
-- [Piano Park by Ben Jonovski](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ)
-- [20 Horizons by Stenkil](https://open.spotify.com/track/23ygtfYdWY4tm1XFmbxATt)
-- [Riviera Blue by Lou Kil](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO)
-- [Out Of Mind by Grey Qoo](https://open.spotify.com/track/36nFJrBZPAgGSEFVDEWkaX)
-- [Midsommar by Nora Van Elken](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC)
+- [City Of Lights by Oscar Jamo, mavzy grx](https://open.spotify.com/track/7gz5Q4tTZ1m55unrFKMi9Y)
+- [The Rhythm of the Night by Marvin Shadex](https://open.spotify.com/track/4pU6bQBEpXp11tUfJXClKt)
+- [Morning Light - Kayote Remix by Dion Isaiah, Kayote](https://open.spotify.com/track/715ifzvhUmXYTPNbFnpxG4)
+- [Consumers by Low Blow](https://open.spotify.com/track/3t4qzhb1gFzhhylW5TW8X6)
+- [feel it - Talamo Remix by Talamo, Josiah Nichols](https://open.spotify.com/track/2mbSXyLquXGOGq67I3SOG8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
