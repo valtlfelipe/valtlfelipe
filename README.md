@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hook0/hook0](https://github.com/hook0/hook0)** - Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Hotstepper by Trinix](https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss)
 - [Morenita by Cumbiafrica, Lucas Estrada, Paradise Inc.](https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw)
+- [Miss Me by Teductive, PRMGH](https://open.spotify.com/track/5XMJeMxbVI1DLtNaH9cKPY)
+- [In And Out Of Love by Rivo, Armin van Buuren, Sharon Den Adel](https://open.spotify.com/track/64fEHUyea9EqtAkmwqxFrr)
 - [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
-- [Ocean View by Good Vibe Delivery](https://open.spotify.com/track/1MmQ26v07AWwhr7XUSCC9w)
-- [Take Me Home by Giulio Cercato](https://open.spotify.com/track/4ZF2JMJ50VI8LxA3DCg5Tl)
+- [Only Human by Addy Ace, Monde](https://open.spotify.com/track/5lFB2FB118uP4Q9Rhz5X9c)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
