@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hook0/hook0](https://github.com/hook0/hook0)** - Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Morenita by Cumbiafrica, Lucas Estrada, Paradise Inc.](https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw)
-- [Miss Me by Teductive, PRMGH](https://open.spotify.com/track/5XMJeMxbVI1DLtNaH9cKPY)
-- [In And Out Of Love by Rivo, Armin van Buuren, Sharon Den Adel](https://open.spotify.com/track/64fEHUyea9EqtAkmwqxFrr)
-- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
-- [Only Human by Addy Ace, Monde](https://open.spotify.com/track/5lFB2FB118uP4Q9Rhz5X9c)
+- [Birds Flying High - Radio Edit by MÖWE](https://open.spotify.com/track/4IjkbMn06CkqRLhbMKbx6J)
+- [City Of Lights by Oscar Jamo, mavzy grx](https://open.spotify.com/track/7gz5Q4tTZ1m55unrFKMi9Y)
+- [The Rhythm of the Night by Marvin Shadex](https://open.spotify.com/track/4pU6bQBEpXp11tUfJXClKt)
+- [Morning Light - Kayote Remix by Dion Isaiah, Kayote](https://open.spotify.com/track/715ifzvhUmXYTPNbFnpxG4)
+- [Consumers by Low Blow](https://open.spotify.com/track/3t4qzhb1gFzhhylW5TW8X6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
