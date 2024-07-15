@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[un/inbox](https://github.com/un/inbox)** - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (4 days ago)
 
 #### 🎧 What I have been listening
-- [City Of Lights by Oscar Jamo, mavzy grx](https://open.spotify.com/track/7gz5Q4tTZ1m55unrFKMi9Y)
-- [The Rhythm of the Night by Marvin Shadex](https://open.spotify.com/track/4pU6bQBEpXp11tUfJXClKt)
-- [Morning Light - Kayote Remix by Dion Isaiah, Kayote](https://open.spotify.com/track/715ifzvhUmXYTPNbFnpxG4)
-- [Consumers by Low Blow](https://open.spotify.com/track/3t4qzhb1gFzhhylW5TW8X6)
-- [feel it - Talamo Remix by Talamo, Josiah Nichols](https://open.spotify.com/track/2mbSXyLquXGOGq67I3SOG8)
+- [Don&#39;t You Worry Child by Stangen](https://open.spotify.com/track/4p2vKMWl13lCssZ7V4ObHI)
+- [Real (feat. EVIE) by Wave Wave, Jaxomy, EVIE](https://open.spotify.com/track/7lkhVnMe7eARWhwnNyO1ja)
+- [Fall In Wonder by Ykonic](https://open.spotify.com/track/1fF2cxuFM1dV4yBAs3MpXH)
+- [All Night Long by Hampus, KianoOsh](https://open.spotify.com/track/6SDWTxuq6FcPeyZCZW3vlE)
+- [Don&#39;t Need Your Love by Shiftbach, Le Boeuf](https://open.spotify.com/track/3ZC4sKC8HfF5N6PaNEUzBP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
