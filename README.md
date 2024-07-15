@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[un/inbox](https://github.com/un/inbox)** - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (4 days ago)
 
 #### 🎧 What I have been listening
-- [Sinking Deeper by Rico 56, Sickrate](https://open.spotify.com/track/1jq1J3JYkaYCvJl9voa2tT)
-- [Don&#39;t You Worry Child by Stangen](https://open.spotify.com/track/4p2vKMWl13lCssZ7V4ObHI)
-- [Real (feat. EVIE) by Wave Wave, Jaxomy, EVIE](https://open.spotify.com/track/7lkhVnMe7eARWhwnNyO1ja)
-- [Fall In Wonder by Ykonic](https://open.spotify.com/track/1fF2cxuFM1dV4yBAs3MpXH)
-- [All Night Long by Hampus, KianoOsh](https://open.spotify.com/track/6SDWTxuq6FcPeyZCZW3vlE)
+- [Tell Me Why by Braaheim, Now O Later](https://open.spotify.com/track/4oLEmzER8PlqV4c4IlQn25)
+- [Come Around by Zayx, INAMEIT](https://open.spotify.com/track/5EZVIYSieEEd9TrbW3C7KX)
+- [Night and Day by Colin Crooks, Harrisen Larner-Main, Sandy Sax](https://open.spotify.com/track/23BVLj4TBVb3zTnfUKHwDR)
+- [Hot Air Balloon by Shoby, AALLAR, Jessica Chertock](https://open.spotify.com/track/2xEougYI2D2qW0GhPyf6Ld)
+- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
