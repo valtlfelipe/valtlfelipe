@@ -11,10 +11,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 
 #### 🎧 What I have been listening
 - [summer somewhere by Kacey View](https://open.spotify.com/track/6vXYQh5NKBSDjOxgKXjXr6)
+- [Cloudburn by Bejnou](https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ)
 - [Midnight Disco by Cushy](https://open.spotify.com/track/01NWiyGlPKcfXFj85gQ87B)
 - [Final Countdown Again by John Son of John](https://open.spotify.com/track/459AusJgWuTqzeyBP2OocC)
 - [Sunny Side Up by LE OBAL](https://open.spotify.com/track/7s5RvJ2tWZHw2c09ft9Gvq)
-- [Riviera Blue by Lou Kil](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
