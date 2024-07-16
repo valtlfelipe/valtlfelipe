@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (4 days ago)
 
 #### 🎧 What I have been listening
-- [finders keepers by Gabri From France](https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv)
-- [daydream by Liona Lotus](https://open.spotify.com/track/57XuroWBY0xlYqTEOArRyO)
-- [The right mood by Alan Devale](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc)
-- [making out by Naoko Omi](https://open.spotify.com/track/31sRAMv4XlnUbvDTFvXJSP)
-- [lazy days by Mandoja](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz)
+- [Dance &#39;Til We Drop by Soft Sea](https://open.spotify.com/track/0quOSUyzClQvmYNGdkvGTq)
+- [Lemons by Paul Rietz](https://open.spotify.com/track/11IzqMJ35o5H3MxMEk6vyo)
+- [Vibrant Presence by Dye O](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk)
+- [Celestial by Nora Van Elken](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m)
+- [Born Fighting by Hans Blu](https://open.spotify.com/track/55ld5zFPQG6tR9vRxFLmMx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
