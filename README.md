@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Lilac Luster by wet n salty](https://open.spotify.com/track/5CBIJIcjgIhkzyIMWVXSeh)
-- [Forever by Roffe &amp; Friends](https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C)
-- [Original Love by Flughof](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB)
-- [Plick plock by PZA BIANCO](https://open.spotify.com/track/0MA7s0fkrKFGYQUWLncJ9i)
-- [Para Sol by Teide Garcia](https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4)
+- [finders keepers by Gabri From France](https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv)
+- [daydream by Liona Lotus](https://open.spotify.com/track/57XuroWBY0xlYqTEOArRyO)
+- [The right mood by Alan Devale](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc)
+- [making out by Naoko Omi](https://open.spotify.com/track/31sRAMv4XlnUbvDTFvXJSP)
+- [lazy days by Mandoja](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
