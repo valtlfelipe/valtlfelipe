@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (today)
 - **[hoophq/hoop](https://github.com/hoophq/hoop)** - Access databases and servers with zero security compromises (1 day ago)
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (4 days ago)
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (4 days ago)
 - **[kiwicopple/serverless-postgres](https://github.com/kiwicopple/serverless-postgres)** (4 days ago)
-- **[hook0/hook0](https://github.com/hook0/hook0)** - Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement. (5 days ago)
 
 #### 🎧 What I have been listening
 - [Only Human by Addy Ace, Monde](https://open.spotify.com/track/5lFB2FB118uP4Q9Rhz5X9c)
