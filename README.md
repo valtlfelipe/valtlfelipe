@@ -4,17 +4,17 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 
 #### ⭐ Recent Stars
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (today)
-- **[hoophq/hoop](https://github.com/hoophq/hoop)** - Access databases and servers with zero security compromises (1 day ago)
+- **[hoophq/hoop](https://github.com/hoophq/hoop)** - The only access gateway with data masking (1 day ago)
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (4 days ago)
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (4 days ago)
 - **[kiwicopple/serverless-postgres](https://github.com/kiwicopple/serverless-postgres)** (4 days ago)
 
 #### 🎧 What I have been listening
-- [Mt. Fuji by Axian, David Chief, SoBe](https://open.spotify.com/track/0AxIRID8KStN5eILr4v7nU)
-- [Cycles by Knowmadic](https://open.spotify.com/track/2Tp1bylsXhef2wLxUtCc1x)
-- [Gem by Kissamilé](https://open.spotify.com/track/0XMsiUfoneADdwZyALn1NX)
-- [The Upper Room by The Doppelgangaz](https://open.spotify.com/track/6v24Gb2c3Y1KmyulNVaGSj)
-- [Toofpick by Blue Wednesday, Shopan](https://open.spotify.com/track/2CAStQDwQlljy6PbTDdbkp)
+- [Wishful thinking by Philanthrope, mommy, Dotlights](https://open.spotify.com/track/0bIL5bznf2gXJZLPiJAbxo)
+- [A Bird in the Rain by Ariel T, Guillaume Muschalle](https://open.spotify.com/track/4HMrJIKSuVjEyXYIi7smht)
+- [Sunkissed Cycles by lloom](https://open.spotify.com/track/63VjwbNSIqYNk3EakDUDdY)
+- [Sweetcalm by Tesk](https://open.spotify.com/track/0VBtT45h0WN2m76mjuBz8i)
+- [New Beginnings by Kissamilé](https://open.spotify.com/track/3Vw2rtdWlU1b92EGr2gPue)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
