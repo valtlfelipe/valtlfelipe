@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Let It Ride by bonaira](https://open.spotify.com/track/2r3NQbibPInZjT1VxAOrFh)
-- [Sizzle by steffiii](https://open.spotify.com/track/15CCADMXfDMgtokv8cfZOJ)
-- [Bistro by Teide Garcia](https://open.spotify.com/track/75BKUJhsdVhntSUFH3SJIA)
-- [Before by Fresh Faces](https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT)
-- [Beach Pizza by Undefined Space](https://open.spotify.com/track/5kAIhNF6LkPWSsNLSoLBd4)
+- [summer somewhere by Kacey View](https://open.spotify.com/track/6vXYQh5NKBSDjOxgKXjXr6)
+- [Midnight Disco by Cushy](https://open.spotify.com/track/01NWiyGlPKcfXFj85gQ87B)
+- [Final Countdown Again by John Son of John](https://open.spotify.com/track/459AusJgWuTqzeyBP2OocC)
+- [Sunny Side Up by LE OBAL](https://open.spotify.com/track/7s5RvJ2tWZHw2c09ft9Gvq)
+- [Riviera Blue by Lou Kil](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
