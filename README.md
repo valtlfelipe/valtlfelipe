@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Dance &#39;Til We Drop by Soft Sea](https://open.spotify.com/track/0quOSUyzClQvmYNGdkvGTq)
-- [Lemons by Paul Rietz](https://open.spotify.com/track/11IzqMJ35o5H3MxMEk6vyo)
-- [Vibrant Presence by Dye O](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk)
-- [Celestial by Nora Van Elken](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m)
-- [Born Fighting by Hans Blu](https://open.spotify.com/track/55ld5zFPQG6tR9vRxFLmMx)
+- [Let It Ride by bonaira](https://open.spotify.com/track/2r3NQbibPInZjT1VxAOrFh)
+- [Sizzle by steffiii](https://open.spotify.com/track/15CCADMXfDMgtokv8cfZOJ)
+- [Bistro by Teide Garcia](https://open.spotify.com/track/75BKUJhsdVhntSUFH3SJIA)
+- [Before by Fresh Faces](https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT)
+- [Beach Pizza by Undefined Space](https://open.spotify.com/track/5kAIhNF6LkPWSsNLSoLBd4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
