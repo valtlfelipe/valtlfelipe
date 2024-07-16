@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kiwicopple/serverless-postgres](https://github.com/kiwicopple/serverless-postgres)** (4 days ago)
 
 #### 🎧 What I have been listening
-- [Take it Eazy by C Y G N](https://open.spotify.com/track/384nVRHQL8ehIPde8mb5Ow)
-- [Snowstalgia by invention_](https://open.spotify.com/track/4cScwdMgNxjb7KAI94jRha)
-- [Deja by Smile High, Teddy Roxpin](https://open.spotify.com/track/568rV2PRveYQEoSbnTr5fL)
-- [Sunrise by Aves](https://open.spotify.com/track/4GF0PUr6fEdfQFSEfjeHOK)
-- [ridin by Masked Man](https://open.spotify.com/track/2ZODGFU265qK7fGgiOcscd)
+- [Jade by Bao, Venuz Beats, Justin Wyatt](https://open.spotify.com/track/2WuTGfJA5PqyBesa2t8yAZ)
+- [Sunlight by Kendall Miles, Jintonic](https://open.spotify.com/track/1KXcHq1VB2m2ul0EJfnrxX)
+- [Evian by Masked Man](https://open.spotify.com/track/1Xu3jpGkpa1s0aLnBcXrkO)
+- [Inner Glow by Bao, Packed Rich](https://open.spotify.com/track/0wxENEDpaLpNCpDGts6e3O)
+- [Vermont Canyon by Teddy Roxpin, MAXIMILLIAN](https://open.spotify.com/track/2eZVu48i91DhaYZMJ0ttXa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
