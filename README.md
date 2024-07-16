@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kiwicopple/serverless-postgres](https://github.com/kiwicopple/serverless-postgres)** (4 days ago)
 
 #### 🎧 What I have been listening
-- [Jade by Bao, Venuz Beats, Justin Wyatt](https://open.spotify.com/track/2WuTGfJA5PqyBesa2t8yAZ)
-- [Sunlight by Kendall Miles, Jintonic](https://open.spotify.com/track/1KXcHq1VB2m2ul0EJfnrxX)
-- [Evian by Masked Man](https://open.spotify.com/track/1Xu3jpGkpa1s0aLnBcXrkO)
-- [Inner Glow by Bao, Packed Rich](https://open.spotify.com/track/0wxENEDpaLpNCpDGts6e3O)
-- [Vermont Canyon by Teddy Roxpin, MAXIMILLIAN](https://open.spotify.com/track/2eZVu48i91DhaYZMJ0ttXa)
+- [Mt. Fuji by Axian, David Chief, SoBe](https://open.spotify.com/track/0AxIRID8KStN5eILr4v7nU)
+- [Cycles by Knowmadic](https://open.spotify.com/track/2Tp1bylsXhef2wLxUtCc1x)
+- [Gem by Kissamilé](https://open.spotify.com/track/0XMsiUfoneADdwZyALn1NX)
+- [The Upper Room by The Doppelgangaz](https://open.spotify.com/track/6v24Gb2c3Y1KmyulNVaGSj)
+- [Toofpick by Blue Wednesday, Shopan](https://open.spotify.com/track/2CAStQDwQlljy6PbTDdbkp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
