@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kiwicopple/serverless-postgres](https://github.com/kiwicopple/serverless-postgres)** (4 days ago)
 
 #### 🎧 What I have been listening
-- [In And Out Of Love by Rivo, Armin van Buuren, Sharon Den Adel](https://open.spotify.com/track/64fEHUyea9EqtAkmwqxFrr)
-- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
-- [Only Human by Addy Ace, Monde](https://open.spotify.com/track/5lFB2FB118uP4Q9Rhz5X9c)
-- [Ocean View by Good Vibe Delivery](https://open.spotify.com/track/1MmQ26v07AWwhr7XUSCC9w)
-- [Take Me Home by Giulio Cercato](https://open.spotify.com/track/4ZF2JMJ50VI8LxA3DCg5Tl)
+- [Take it Eazy by C Y G N](https://open.spotify.com/track/384nVRHQL8ehIPde8mb5Ow)
+- [Snowstalgia by invention_](https://open.spotify.com/track/4cScwdMgNxjb7KAI94jRha)
+- [Deja by Smile High, Teddy Roxpin](https://open.spotify.com/track/568rV2PRveYQEoSbnTr5fL)
+- [Sunrise by Aves](https://open.spotify.com/track/4GF0PUr6fEdfQFSEfjeHOK)
+- [ridin by Masked Man](https://open.spotify.com/track/2ZODGFU265qK7fGgiOcscd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
