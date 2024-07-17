@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
-- [20 Horizons by Stenkil](https://open.spotify.com/track/23ygtfYdWY4tm1XFmbxATt)
-- [bol nou by Milk Malone](https://open.spotify.com/track/2fNKZAs6y2KWU3RcofwDmd)
-- [Black Marble by Lazy Driver](https://open.spotify.com/track/3oYW5P4NaLNrSE9v53Ji8J)
-- [Always A Princess by Kel Lee](https://open.spotify.com/track/5jNtuDKtevlFf9FT51ETsU)
-- [Beachwalk by Matobolo](https://open.spotify.com/track/0tnGenkxkUT3jf7qgt8OTq)
+- [Time On You by Purple Motive](https://open.spotify.com/track/6kimjJ50NnZjkzoSs6oYMk)
+- [The Hamptons by Schwarz &amp; Funk](https://open.spotify.com/track/0mfXh24MxeIm3kIJ9gDDOp)
+- [Cap by Floral Gloam](https://open.spotify.com/track/6U0uoeEv7ZCgIkld5Wgm2H)
+- [What Tomorrow Brings by Drunk Archer](https://open.spotify.com/track/2faQoV4rpd3K9BxwbPbwYO)
+- [All Over My Body by Quaaalude](https://open.spotify.com/track/365R9wKlTJpciKgWB0v6K3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
