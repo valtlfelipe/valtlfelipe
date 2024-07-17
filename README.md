@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Another Day by Tim Olsson](https://open.spotify.com/track/4lbgrO7sGhdLx8UM28lHa1)
-- [Creamy Piano by Quaaalude](https://open.spotify.com/track/1a1poiToGv0nljn3Ghyeb3)
-- [Dune by Gloster Gladiator](https://open.spotify.com/track/1bs0uOxKolGSy0539th59S)
-- [Weekend At Ibiza by Leon Cox](https://open.spotify.com/track/4Dwp8PVZL99b2neUZ5qSgW)
-- [Bora by Ran the Man](https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D)
+- [Nights by Ran the Man](https://open.spotify.com/track/0vsedeIvoKKTV5cVU7E6n8)
+- [Cloudburn by Bejnou](https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ)
+- [flirty talk by genelion](https://open.spotify.com/track/212O37gB5Oh2RIKOhXXn8m)
+- [USA by fuzzybooo](https://open.spotify.com/track/39RSclnwEZOEeRRs5MAVj9)
+- [Lily by André Aguado](https://open.spotify.com/track/0o6SrTgNBv0yicRMZFW1jz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
