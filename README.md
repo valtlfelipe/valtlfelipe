@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
+- [Kanoa by Uzma](https://open.spotify.com/track/7sNOk3Bfv0CTl80ctSkkw6)
+- [Affection by Goose Groovy](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd)
+- [Elixir by MayDance](https://open.spotify.com/track/0PhaLtoRmcupcDmm3HEh5r)
+- [Midsommar by Nora Van Elken](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC)
 - [Dr Zennheiser by John Son of John](https://open.spotify.com/track/4ZliUlRoGlwkCsEf60aeLv)
-- [Côte d&#39;Azur by Parker Wilkins](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe)
-- [Cap Martin by Alta Piana](https://open.spotify.com/track/3RQyVYIlFL1q3mSP18CwMG)
-- [detour by kilowattz](https://open.spotify.com/track/3cH2o1jJ13v2U1o1nbGUNW)
-- [Both Of Us by Talaiio](https://open.spotify.com/track/5l3ScH72LOQpXQ8qsO1SQc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
