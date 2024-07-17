@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
+- [Wanderlust by Mellowdy](https://open.spotify.com/track/59eV8EcCcz6TcTxhPKqfUb)
+- [Catch Me If I Fall by Leon Cox](https://open.spotify.com/track/3bYLZXk4Vu07bOjIhOlWvF)
 - [summer somewhere by Kacey View](https://open.spotify.com/track/6vXYQh5NKBSDjOxgKXjXr6)
 - [Cloudburn by Bejnou](https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ)
 - [Midnight Disco by Cushy](https://open.spotify.com/track/01NWiyGlPKcfXFj85gQ87B)
-- [Final Countdown Again by John Son of John](https://open.spotify.com/track/459AusJgWuTqzeyBP2OocC)
-- [Sunny Side Up by LE OBAL](https://open.spotify.com/track/7s5RvJ2tWZHw2c09ft9Gvq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
