@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
+- [Dr Zennheiser by John Son of John](https://open.spotify.com/track/4ZliUlRoGlwkCsEf60aeLv)
+- [Côte d&#39;Azur by Parker Wilkins](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe)
 - [Cap Martin by Alta Piana](https://open.spotify.com/track/3RQyVYIlFL1q3mSP18CwMG)
 - [detour by kilowattz](https://open.spotify.com/track/3cH2o1jJ13v2U1o1nbGUNW)
 - [Both Of Us by Talaiio](https://open.spotify.com/track/5l3ScH72LOQpXQ8qsO1SQc)
-- [Takes Two by Heyson](https://open.spotify.com/track/4t0Jd9SUVvCqDmZ08lqXcx)
-- [Delineate by Far Orange](https://open.spotify.com/track/4qeoXvocd4Dkl9XtYmPMeN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
