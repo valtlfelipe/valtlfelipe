@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Nights by Ran the Man](https://open.spotify.com/track/0vsedeIvoKKTV5cVU7E6n8)
-- [Cloudburn by Bejnou](https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ)
-- [flirty talk by genelion](https://open.spotify.com/track/212O37gB5Oh2RIKOhXXn8m)
-- [USA by fuzzybooo](https://open.spotify.com/track/39RSclnwEZOEeRRs5MAVj9)
-- [Lily by André Aguado](https://open.spotify.com/track/0o6SrTgNBv0yicRMZFW1jz)
+- [Serene by TAPI](https://open.spotify.com/track/4w2eA4f9qwEzpNJBBnMrzS)
+- [Summersome by Damian Holden](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G)
+- [Before by Fresh Faces](https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT)
+- [Blinking Floor by spring gang](https://open.spotify.com/track/2bmJl6YB8DkDOD6XQpKmc9)
+- [Beach Club by Sobbel Sosch](https://open.spotify.com/track/1xyotakxXPfJ4WmqXGGgOq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
