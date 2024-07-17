@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Wanderlust by Mellowdy](https://open.spotify.com/track/59eV8EcCcz6TcTxhPKqfUb)
-- [Catch Me If I Fall by Leon Cox](https://open.spotify.com/track/3bYLZXk4Vu07bOjIhOlWvF)
-- [summer somewhere by Kacey View](https://open.spotify.com/track/6vXYQh5NKBSDjOxgKXjXr6)
-- [Cloudburn by Bejnou](https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ)
-- [Midnight Disco by Cushy](https://open.spotify.com/track/01NWiyGlPKcfXFj85gQ87B)
+- [20 Horizons by Stenkil](https://open.spotify.com/track/23ygtfYdWY4tm1XFmbxATt)
+- [bol nou by Milk Malone](https://open.spotify.com/track/2fNKZAs6y2KWU3RcofwDmd)
+- [Black Marble by Lazy Driver](https://open.spotify.com/track/3oYW5P4NaLNrSE9v53Ji8J)
+- [Always A Princess by Kel Lee](https://open.spotify.com/track/5jNtuDKtevlFf9FT51ETsU)
+- [Beachwalk by Matobolo](https://open.spotify.com/track/0tnGenkxkUT3jf7qgt8OTq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
