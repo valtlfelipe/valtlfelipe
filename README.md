@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Altered Destiny - Chill Mix by Nora En Pure](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV)
-- [Relax (Hold On) by Autohacker](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD)
-- [crusade by Cloode](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW)
-- [Boarding by Far Orange](https://open.spotify.com/track/0fSEMD71VwMtIZi6IUXJjQ)
-- [Underwater by Together Alone](https://open.spotify.com/track/3qoeejFjklhpwwZBWYMV6k)
+- [Another Day by Tim Olsson](https://open.spotify.com/track/4lbgrO7sGhdLx8UM28lHa1)
+- [Creamy Piano by Quaaalude](https://open.spotify.com/track/1a1poiToGv0nljn3Ghyeb3)
+- [Dune by Gloster Gladiator](https://open.spotify.com/track/1bs0uOxKolGSy0539th59S)
+- [Weekend At Ibiza by Leon Cox](https://open.spotify.com/track/4Dwp8PVZL99b2neUZ5qSgW)
+- [Bora by Ran the Man](https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
