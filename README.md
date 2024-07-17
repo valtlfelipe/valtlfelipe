@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Kayser by Milous](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo)
-- [magnetic shackles by Asha Lin](https://open.spotify.com/track/6rFoIQHPEjMXJTnqhR5mT2)
-- [Time Out by Nth Shade](https://open.spotify.com/track/5H5QQ5HrOJBoc2a2uIiPzi)
-- [Channels by Hazel Calm](https://open.spotify.com/track/7f7VEawSbmKCkDpWpxcd7N)
-- [Midnight Mint by ELEVENISH](https://open.spotify.com/track/2ze9ejYaCLMu4rDtITIrYE)
+- [Altered Destiny - Chill Mix by Nora En Pure](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV)
+- [Relax (Hold On) by Autohacker](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD)
+- [crusade by Cloode](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW)
+- [Boarding by Far Orange](https://open.spotify.com/track/0fSEMD71VwMtIZi6IUXJjQ)
+- [Underwater by Together Alone](https://open.spotify.com/track/3qoeejFjklhpwwZBWYMV6k)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
