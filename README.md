@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
-- [BLUE LIGHTS by XO STHLM](https://open.spotify.com/track/6lYr0uy47uqdHP7W8AKe7l)
-- [Revolución, Pt. I by Bonsaye](https://open.spotify.com/track/5p5LVCIy3KA9B6OSRr8VXV)
-- [Summersome by Damian Holden](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G)
-- [Heart Void by Giants&#39; Nest](https://open.spotify.com/track/7zQNKG7x1DLVtFLgVaVTGJ)
-- [Time On You by Purple Motive](https://open.spotify.com/track/6kimjJ50NnZjkzoSs6oYMk)
+- [Cap Martin by Alta Piana](https://open.spotify.com/track/3RQyVYIlFL1q3mSP18CwMG)
+- [detour by kilowattz](https://open.spotify.com/track/3cH2o1jJ13v2U1o1nbGUNW)
+- [Both Of Us by Talaiio](https://open.spotify.com/track/5l3ScH72LOQpXQ8qsO1SQc)
+- [Takes Two by Heyson](https://open.spotify.com/track/4t0Jd9SUVvCqDmZ08lqXcx)
+- [Delineate by Far Orange](https://open.spotify.com/track/4qeoXvocd4Dkl9XtYmPMeN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
