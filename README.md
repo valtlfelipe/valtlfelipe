@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
+- [BLUE LIGHTS by XO STHLM](https://open.spotify.com/track/6lYr0uy47uqdHP7W8AKe7l)
+- [Revolución, Pt. I by Bonsaye](https://open.spotify.com/track/5p5LVCIy3KA9B6OSRr8VXV)
+- [Summersome by Damian Holden](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G)
+- [Heart Void by Giants&#39; Nest](https://open.spotify.com/track/7zQNKG7x1DLVtFLgVaVTGJ)
 - [Time On You by Purple Motive](https://open.spotify.com/track/6kimjJ50NnZjkzoSs6oYMk)
-- [The Hamptons by Schwarz &amp; Funk](https://open.spotify.com/track/0mfXh24MxeIm3kIJ9gDDOp)
-- [Cap by Floral Gloam](https://open.spotify.com/track/6U0uoeEv7ZCgIkld5Wgm2H)
-- [What Tomorrow Brings by Drunk Archer](https://open.spotify.com/track/2faQoV4rpd3K9BxwbPbwYO)
-- [All Over My Body by Quaaalude](https://open.spotify.com/track/365R9wKlTJpciKgWB0v6K3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
