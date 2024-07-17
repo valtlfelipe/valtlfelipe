@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Kanoa by Uzma](https://open.spotify.com/track/7sNOk3Bfv0CTl80ctSkkw6)
-- [Affection by Goose Groovy](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd)
-- [Elixir by MayDance](https://open.spotify.com/track/0PhaLtoRmcupcDmm3HEh5r)
-- [Midsommar by Nora Van Elken](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC)
-- [Dr Zennheiser by John Son of John](https://open.spotify.com/track/4ZliUlRoGlwkCsEf60aeLv)
+- [Kayser by Milous](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo)
+- [magnetic shackles by Asha Lin](https://open.spotify.com/track/6rFoIQHPEjMXJTnqhR5mT2)
+- [Time Out by Nth Shade](https://open.spotify.com/track/5H5QQ5HrOJBoc2a2uIiPzi)
+- [Channels by Hazel Calm](https://open.spotify.com/track/7f7VEawSbmKCkDpWpxcd7N)
+- [Midnight Mint by ELEVENISH](https://open.spotify.com/track/2ze9ejYaCLMu4rDtITIrYE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
