@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (6 days ago)
 
 #### 🎧 What I have been listening
-- [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
-- [Ceylon Drift by Phello](https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk)
-- [Yin Yan Tonic by Son-us](https://open.spotify.com/track/3YdhEnt94pDDzwZheiJdJ3)
-- [Bellagio by Paul Rietz](https://open.spotify.com/track/44vcTNxN1PUjZxsi7apRLK)
-- [Poolside by Lil Harry](https://open.spotify.com/track/7MwdpC8XHqrQuk8PZS0H7t)
+- [Tell Me by Jaake Alsonn](https://open.spotify.com/track/7pMcOQVs9n2eNor8eGylOd)
+- [Passport by flooww](https://open.spotify.com/track/586M28IA5dAPdwvMdBZ5cd)
+- [Cosmopolitan by Beach Villa](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f)
+- [bonny by UPTNS](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU)
+- [Forwards by Chimi Berry](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
