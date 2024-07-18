@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (6 days ago)
 
 #### 🎧 What I have been listening
+- [I Promise You by Florem Ipsum](https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF)
+- [Follow you to the end by KaeL Juno](https://open.spotify.com/track/66xzgxNgDBbVnQ42XzsHbU)
+- [Night Time Bliss by Phello](https://open.spotify.com/track/3sZZDhEVYJ8tyTiYEGCcg6)
 - [Tell Me by Jaake Alsonn](https://open.spotify.com/track/7pMcOQVs9n2eNor8eGylOd)
 - [Passport by flooww](https://open.spotify.com/track/586M28IA5dAPdwvMdBZ5cd)
-- [Cosmopolitan by Beach Villa](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f)
-- [bonny by UPTNS](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU)
-- [Forwards by Chimi Berry](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
