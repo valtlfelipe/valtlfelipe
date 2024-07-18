@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (6 days ago)
 
 #### 🎧 What I have been listening
-- [Symbios by Floral Gloam](https://open.spotify.com/track/6XLqfDYv8a9H0aoWX348L7)
-- [Daisy by Spatio](https://open.spotify.com/track/6TG9qxk7w9ACJSTeBWajvt)
-- [Jennie with the Smile by Plastik Flamingos](https://open.spotify.com/track/5DKtGnxDaPvaHHeOnCWvb4)
-- [sunique by roumr](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb)
-- [Night Shades by Purple Waves](https://open.spotify.com/track/0jneMOWzfrISVk4esEnvC9)
+- [Palmarosa by Divulgation](https://open.spotify.com/track/7fI0PswBQUnHOKnWBS3UhZ)
+- [Las Vegas by Spiral Solace](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx)
+- [Clockwork by Lazlo Riley](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J)
+- [Maraschino Cherry by Trausch](https://open.spotify.com/track/5x7yKdw07UdQ6N6SlCuuFN)
+- [diced pineapple by Hayzei](https://open.spotify.com/track/3Z7e2ZAeI9RBX8BFOFwNc1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
