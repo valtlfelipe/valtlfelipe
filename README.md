@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[taubyte/tau](https://github.com/taubyte/tau)** - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Porto Cervo by Deeter K](https://open.spotify.com/track/5ttNhRQkOoNHJCdxIzdIlr)
+- [Altered Destiny - Chill Mix by Nora En Pure](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV)
 - [Serene by TAPI](https://open.spotify.com/track/4w2eA4f9qwEzpNJBBnMrzS)
 - [Altered Destiny - Chill Mix by Nora En Pure](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV)
 - [Summersome by Damian Holden](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G)
-- [Before by Fresh Faces](https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT)
-- [Blinking Floor by spring gang](https://open.spotify.com/track/2bmJl6YB8DkDOD6XQpKmc9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
