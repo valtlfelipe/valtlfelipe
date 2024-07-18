@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (6 days ago)
 
 #### 🎧 What I have been listening
-- [Pretty Party People by Soft Sea](https://open.spotify.com/track/3IbMrPsQjOBhqM3SqgUf6B)
-- [Generate! by Kacey View](https://open.spotify.com/track/6XAT7NrzHuFjs9laJj5E1u)
-- [The Walking Lights by MC Baptiste](https://open.spotify.com/track/1YA6h3296OZrrdVC7Fz1in)
-- [Les Tropiques by Paon Bleu](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP)
-- [Ray Of Sun by Pink Villa](https://open.spotify.com/track/3i2EyWC04DDRnGwCw6ovoI)
+- [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
+- [Ceylon Drift by Phello](https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk)
+- [Yin Yan Tonic by Son-us](https://open.spotify.com/track/3YdhEnt94pDDzwZheiJdJ3)
+- [Bellagio by Paul Rietz](https://open.spotify.com/track/44vcTNxN1PUjZxsi7apRLK)
+- [Poolside by Lil Harry](https://open.spotify.com/track/7MwdpC8XHqrQuk8PZS0H7t)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
