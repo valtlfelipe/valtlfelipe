@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (6 days ago)
 
 #### 🎧 What I have been listening
-- [Move In Space by Midnight Side Eye](https://open.spotify.com/track/3DpZoWO5g77GIDp3aGWHEp)
-- [Champagne Breakfast by Gea](https://open.spotify.com/track/33QH3fO3g9s5NFi62p8TDr)
-- [Escarpment by Bejnou](https://open.spotify.com/track/5CcHSH8zYIIeqCtLeQDt49)
-- [Mango by hannaah](https://open.spotify.com/track/2UfwU02O5nBCxwHx7G1Q79)
-- [I Call You by Pableno](https://open.spotify.com/track/45h1MEiWX3VKcxSCQLW0Vk)
+- [Daisy by Spatio](https://open.spotify.com/track/6TG9qxk7w9ACJSTeBWajvt)
+- [Jennie with the Smile by Plastik Flamingos](https://open.spotify.com/track/5DKtGnxDaPvaHHeOnCWvb4)
+- [sunique by roumr](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb)
+- [Night Shades by Purple Waves](https://open.spotify.com/track/0jneMOWzfrISVk4esEnvC9)
+- [Florance by Hibiscus](https://open.spotify.com/track/3ANYit4qsF87DStiT2nwsJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
