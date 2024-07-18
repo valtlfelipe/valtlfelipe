@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (6 days ago)
 
 #### 🎧 What I have been listening
+- [Pretty Party People by Soft Sea](https://open.spotify.com/track/3IbMrPsQjOBhqM3SqgUf6B)
+- [Generate! by Kacey View](https://open.spotify.com/track/6XAT7NrzHuFjs9laJj5E1u)
+- [The Walking Lights by MC Baptiste](https://open.spotify.com/track/1YA6h3296OZrrdVC7Fz1in)
+- [Les Tropiques by Paon Bleu](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP)
 - [Ray Of Sun by Pink Villa](https://open.spotify.com/track/3i2EyWC04DDRnGwCw6ovoI)
-- [Valleys by Mikayl Blu](https://open.spotify.com/track/3Hh8gjI0VKmqLCLlEHYtKS)
-- [Blurry Sequence by Lazy Driver](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ)
-- [Palmarosa by Divulgation](https://open.spotify.com/track/7fI0PswBQUnHOKnWBS3UhZ)
-- [Las Vegas by Spiral Solace](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
