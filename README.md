@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (6 days ago)
 
 #### 🎧 What I have been listening
+- [Ray Of Sun by Pink Villa](https://open.spotify.com/track/3i2EyWC04DDRnGwCw6ovoI)
+- [Valleys by Mikayl Blu](https://open.spotify.com/track/3Hh8gjI0VKmqLCLlEHYtKS)
+- [Blurry Sequence by Lazy Driver](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ)
 - [Palmarosa by Divulgation](https://open.spotify.com/track/7fI0PswBQUnHOKnWBS3UhZ)
 - [Las Vegas by Spiral Solace](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx)
-- [Clockwork by Lazlo Riley](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J)
-- [Maraschino Cherry by Trausch](https://open.spotify.com/track/5x7yKdw07UdQ6N6SlCuuFN)
-- [diced pineapple by Hayzei](https://open.spotify.com/track/3Z7e2ZAeI9RBX8BFOFwNc1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
