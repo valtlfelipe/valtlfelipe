@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Morning Light - Kayote Remix by Dion Isaiah, Kayote](https://open.spotify.com/track/715ifzvhUmXYTPNbFnpxG4)
-- [Wish You Were Here by midkeys, BETASTIC](https://open.spotify.com/track/4PU5pkAAb3VyckFx0dkan3)
-- [Consumers by Low Blow](https://open.spotify.com/track/3t4qzhb1gFzhhylW5TW8X6)
-- [Come Around by Zayx, INAMEIT](https://open.spotify.com/track/5EZVIYSieEEd9TrbW3C7KX)
-- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
+- [Losing Control by Guill, Solar](https://open.spotify.com/track/7tiD2SsF68ndYHnVTxVEQb)
+- [feel it - Talamo Remix by Talamo, Josiah Nichols](https://open.spotify.com/track/2mbSXyLquXGOGq67I3SOG8)
+- [City Of Lights by Oscar Jamo, mavzy grx](https://open.spotify.com/track/7gz5Q4tTZ1m55unrFKMi9Y)
+- [Ocean View by Good Vibe Delivery](https://open.spotify.com/track/1MmQ26v07AWwhr7XUSCC9w)
+- [Hotstepper by Trinix](https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
