@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
+- [Hot Air Balloon by Shoby, AALLAR, Jessica Chertock](https://open.spotify.com/track/2xEougYI2D2qW0GhPyf6Ld)
+- [Don&#39;t You Worry Child by Stangen](https://open.spotify.com/track/4p2vKMWl13lCssZ7V4ObHI)
+- [Sinking Deeper by Rico 56, Sickrate](https://open.spotify.com/track/1jq1J3JYkaYCvJl9voa2tT)
 - [Birds Flying High - Radio Edit by MÖWE](https://open.spotify.com/track/4IjkbMn06CkqRLhbMKbx6J)
 - [Don&#39;t Need Your Love by Shiftbach, Le Boeuf](https://open.spotify.com/track/3ZC4sKC8HfF5N6PaNEUzBP)
-- [Night and Day by Colin Crooks, Harrisen Larner-Main, Sandy Sax](https://open.spotify.com/track/23BVLj4TBVb3zTnfUKHwDR)
-- [Fall In Wonder by Ykonic](https://open.spotify.com/track/1fF2cxuFM1dV4yBAs3MpXH)
-- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
