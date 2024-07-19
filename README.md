@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Could You Be Loved by Dubdogz, Mojjo](https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4)
-- [Two Sides (feat. Julia Temos) by INGEK, Julia Temos](https://open.spotify.com/track/3tyYBPax1BWTXwgL86131f)
-- [Nebula by NUZB](https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5)
-- [No More by Khouri](https://open.spotify.com/track/2C4MdwrfFhWAp4p5tOiIOG)
-- [Life Be Like by Daniel Best, Schillist, Kxne](https://open.spotify.com/track/7F0Du6uA4OwKZDVErvNC9F)
+- [Can&#39;t Get You out of My Head - Peggy Gou’s Midnight Remix by Kylie Minogue, Peggy Gou](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb)
+- [Shivers (Dillon Francis Remix) [Main Mix] by Ed Sheeran, Dillon Francis](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b)
+- [My Feelings For You - Don Diablo Remix by Avicii, Sebastien Drums, Don Diablo](https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms)
+- [My Head &amp; My Heart - Claptone Remix by Ava Max, Claptone](https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP)
+- [Espresso - Mark Ronson x FNZ Working Later Remix by Sabrina Carpenter, Mark Ronson, FNZ](https://open.spotify.com/track/03duS4fiU5jSVOZFR7TTQa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
