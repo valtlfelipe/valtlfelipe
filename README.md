@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [City Of Lights by Oscar Jamo, mavzy grx](https://open.spotify.com/track/7gz5Q4tTZ1m55unrFKMi9Y)
-- [Ocean View by Good Vibe Delivery](https://open.spotify.com/track/1MmQ26v07AWwhr7XUSCC9w)
-- [Hotstepper by Trinix](https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss)
-- [The Rhythm of the Night by Marvin Shadex](https://open.spotify.com/track/4pU6bQBEpXp11tUfJXClKt)
-- [Are You Gonna Be My Girl by Here We Go Go](https://open.spotify.com/track/60ssdXx3BqAWKuTbQJ6wVZ)
+- [Birds Flying High - Radio Edit by MÖWE](https://open.spotify.com/track/4IjkbMn06CkqRLhbMKbx6J)
+- [Don&#39;t Need Your Love by Shiftbach, Le Boeuf](https://open.spotify.com/track/3ZC4sKC8HfF5N6PaNEUzBP)
+- [Night and Day by Colin Crooks, Harrisen Larner-Main, Sandy Sax](https://open.spotify.com/track/23BVLj4TBVb3zTnfUKHwDR)
+- [Fall In Wonder by Ykonic](https://open.spotify.com/track/1fF2cxuFM1dV4yBAs3MpXH)
+- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
