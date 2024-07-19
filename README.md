@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Tell Me Why by Braaheim, Now O Later](https://open.spotify.com/track/4oLEmzER8PlqV4c4IlQn25)
-- [Morning Light - Kayote Remix by Dion Isaiah, Kayote](https://open.spotify.com/track/715ifzvhUmXYTPNbFnpxG4)
-- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
-- [Losing Control by Guill, Solar](https://open.spotify.com/track/7tiD2SsF68ndYHnVTxVEQb)
-- [Final Countdown Again by John Son of John](https://open.spotify.com/track/459AusJgWuTqzeyBP2OocC)
+- [City Of Lights by Oscar Jamo, mavzy grx](https://open.spotify.com/track/7gz5Q4tTZ1m55unrFKMi9Y)
+- [Ocean View by Good Vibe Delivery](https://open.spotify.com/track/1MmQ26v07AWwhr7XUSCC9w)
+- [Hotstepper by Trinix](https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss)
+- [The Rhythm of the Night by Marvin Shadex](https://open.spotify.com/track/4pU6bQBEpXp11tUfJXClKt)
+- [Are You Gonna Be My Girl by Here We Go Go](https://open.spotify.com/track/60ssdXx3BqAWKuTbQJ6wVZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
