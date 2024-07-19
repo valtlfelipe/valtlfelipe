@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Losing Control by Guill, Solar](https://open.spotify.com/track/7tiD2SsF68ndYHnVTxVEQb)
-- [feel it - Talamo Remix by Talamo, Josiah Nichols](https://open.spotify.com/track/2mbSXyLquXGOGq67I3SOG8)
-- [City Of Lights by Oscar Jamo, mavzy grx](https://open.spotify.com/track/7gz5Q4tTZ1m55unrFKMi9Y)
-- [Ocean View by Good Vibe Delivery](https://open.spotify.com/track/1MmQ26v07AWwhr7XUSCC9w)
-- [Hotstepper by Trinix](https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss)
+- [SERENA by RUBACK, Amesens](https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj)
+- [Fall In Wonder by Ykonic](https://open.spotify.com/track/1fF2cxuFM1dV4yBAs3MpXH)
+- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
+- [Take Me Home by Giulio Cercato](https://open.spotify.com/track/4ZF2JMJ50VI8LxA3DCg5Tl)
+- [Tell Me Why by Braaheim, Now O Later](https://open.spotify.com/track/4oLEmzER8PlqV4c4IlQn25)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
