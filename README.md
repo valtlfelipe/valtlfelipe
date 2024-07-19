@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [SERENA by RUBACK, Amesens](https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj)
-- [Fall In Wonder by Ykonic](https://open.spotify.com/track/1fF2cxuFM1dV4yBAs3MpXH)
-- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
-- [Take Me Home by Giulio Cercato](https://open.spotify.com/track/4ZF2JMJ50VI8LxA3DCg5Tl)
-- [Tell Me Why by Braaheim, Now O Later](https://open.spotify.com/track/4oLEmzER8PlqV4c4IlQn25)
+- [Could You Be Loved by Dubdogz, Mojjo](https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4)
+- [Two Sides (feat. Julia Temos) by INGEK, Julia Temos](https://open.spotify.com/track/3tyYBPax1BWTXwgL86131f)
+- [Nebula by NUZB](https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5)
+- [No More by Khouri](https://open.spotify.com/track/2C4MdwrfFhWAp4p5tOiIOG)
+- [Life Be Like by Daniel Best, Schillist, Kxne](https://open.spotify.com/track/7F0Du6uA4OwKZDVErvNC9F)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
