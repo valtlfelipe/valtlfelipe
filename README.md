@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
+- [On My Love by Zara Larsson, David Guetta](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN)
+- [Only Human by Addy Ace, Monde](https://open.spotify.com/track/5lFB2FB118uP4Q9Rhz5X9c)
 - [Say My Name by USAI, Feb](https://open.spotify.com/track/18hYNUAYq9YWcfB1bcaMlv)
 - [Morenita by Cumbiafrica, Lucas Estrada, Paradise Inc.](https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw)
 - [TRUSTFALL - Drove Remix by P!nk, Drove](https://open.spotify.com/track/0JylJPPllrXMwbogQGNOej)
-- [Hot Air Balloon by Shoby, AALLAR, Jessica Chertock](https://open.spotify.com/track/2xEougYI2D2qW0GhPyf6Ld)
-- [Sinking Deeper by Rico 56, Sickrate](https://open.spotify.com/track/1jq1J3JYkaYCvJl9voa2tT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
