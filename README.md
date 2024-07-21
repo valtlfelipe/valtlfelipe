@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
+- [Die For You - Remix by The Weeknd, Ariana Grande](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki)
+- [Murder On The Dancefloor by Sophie Ellis-Bextor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)
+- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
 - [greedy by Tate McRae](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)
 - [Cruel Summer by Taylor Swift](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr)
-- [Love On The Brain by Rihanna](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp)
-- [There&#39;s Nothing Holdin&#39; Me Back by Shawn Mendes](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml)
-- [As It Was by Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
