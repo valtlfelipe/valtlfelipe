@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
-- [Belly Dancer by Imanbek, BYOR](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil)
-- [On My Love by Zara Larsson, David Guetta](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN)
-- [Only Human by Addy Ace, Monde](https://open.spotify.com/track/5lFB2FB118uP4Q9Rhz5X9c)
-- [Say My Name by USAI, Feb](https://open.spotify.com/track/18hYNUAYq9YWcfB1bcaMlv)
+- [One Of Your Girls by Troye Sivan](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT)
+- [TEXAS HOLD &#39;EM by Beyoncé](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9)
+- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG)
+- [Strangers by Kenya Grace](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
