@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Close My Eyes by Nick En Mare](https://open.spotify.com/track/4Dh2eeHgV5z4KycDFu96Sv)
-- [High by Bapti, Joel Coopa](https://open.spotify.com/track/26R0JBH2fV4GLcraALwxGo)
-- [Dance With Me by LiQWYD](https://open.spotify.com/track/6jo728RkCokneL8oxWpSAS)
-- [Smooth Operator by Lone Tusker](https://open.spotify.com/track/3z9W9fT8TFFeBY3t5WGLmm)
-- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
+- [Carribean Queen by Outliers, LAST CALL, Peachy Pete](https://open.spotify.com/track/3mEhX9ttft8OLhs0CdNs8V)
+- [Want Me by Mr.M, INAMEIT](https://open.spotify.com/track/6azCryOMZfj1zRgLf1SlP0)
+- [4 AM by Sam Giancana, Michel Dj, Ikarus](https://open.spotify.com/track/6DRnUoSX3R21JtPED1mAN0)
+- [Alone by Koa Ko, SITHEA](https://open.spotify.com/track/5CdOJHyLd2nnen5WknRXX0)
+- [Breathe - Radio-Edit by Steve Norton](https://open.spotify.com/track/2Ns6uVPjspJd6fu1OZDvh8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
