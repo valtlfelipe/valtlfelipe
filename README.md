@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Maneater by Mecdoux, sleepy dude](https://open.spotify.com/track/3dLkf7CdKqFGRlQxHNdR9I)
-- [Flames by NIINE, BigNoise, Yvvan Back, Tyzn](https://open.spotify.com/track/03xEAs75WEBU2M4WTxKfuw)
-- [Come Over by Riro, INAMEIT](https://open.spotify.com/track/63uay5BwSvh1l2FiOSdQzk)
-- [Light Me Up by LEDUC](https://open.spotify.com/track/50ivJe1Yunsa40sDf904IE)
-- [Sweet Disposition (feat. Askar and the Ghosts) by Twelve, Askar and the Ghosts](https://open.spotify.com/track/6bXs3vBEQrnUEGxro4DbF3)
+- [Lobster Bib by bombergirl](https://open.spotify.com/track/0aRC0W5zVWricDxM2s98La)
+- [Bora by Ran the Man](https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D)
+- [End of Story by IBBIZ](https://open.spotify.com/track/5EdLzVEBvZgxGgxZviMvGk)
+- [Pathway Across by Altitude Chill](https://open.spotify.com/track/2mx9zSH67TnUqp3CYjycZK)
+- [Meanwhile In Love by Natural Fool](https://open.spotify.com/track/6oCEqsNJj9RW1Kr3p3U4Dn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
