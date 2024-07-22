@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
+- [Water by Mentol, SoOne](https://open.spotify.com/track/6yevoZRaLpUDEFzxx6sNCs)
+- [Maneater by Mecdoux, sleepy dude](https://open.spotify.com/track/3dLkf7CdKqFGRlQxHNdR9I)
+- [Flames by NIINE, BigNoise, Yvvan Back, Tyzn](https://open.spotify.com/track/03xEAs75WEBU2M4WTxKfuw)
 - [Come Over by Riro, INAMEIT](https://open.spotify.com/track/63uay5BwSvh1l2FiOSdQzk)
 - [Light Me Up by LEDUC](https://open.spotify.com/track/50ivJe1Yunsa40sDf904IE)
-- [Sweet Disposition (feat. Askar and the Ghosts) by Twelve, Askar and the Ghosts](https://open.spotify.com/track/6bXs3vBEQrnUEGxro4DbF3)
-- [No One by Albi](https://open.spotify.com/track/1hnxbKYQjQVVEbR9nQO1S3)
-- [Runaway by Dropack](https://open.spotify.com/track/261km2SozHdRBqGXxWE3ZN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
