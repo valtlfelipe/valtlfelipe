@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Water by Tyla](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw)
-- [CUFF IT by Beyoncé](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS)
-- [Dog Days Are Over by Florence &#43; The Machine](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd)
-- [Die For You - Remix by The Weeknd, Ariana Grande](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki)
-- [Murder On The Dancefloor by Sophie Ellis-Bextor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)
+- [Come Over by Riro, INAMEIT](https://open.spotify.com/track/63uay5BwSvh1l2FiOSdQzk)
+- [Light Me Up by LEDUC](https://open.spotify.com/track/50ivJe1Yunsa40sDf904IE)
+- [Sweet Disposition (feat. Askar and the Ghosts) by Twelve, Askar and the Ghosts](https://open.spotify.com/track/6bXs3vBEQrnUEGxro4DbF3)
+- [No One by Albi](https://open.spotify.com/track/1hnxbKYQjQVVEbR9nQO1S3)
+- [Runaway by Dropack](https://open.spotify.com/track/261km2SozHdRBqGXxWE3ZN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
