@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Carribean Queen by Outliers, LAST CALL, Peachy Pete](https://open.spotify.com/track/3mEhX9ttft8OLhs0CdNs8V)
-- [Want Me by Mr.M, INAMEIT](https://open.spotify.com/track/6azCryOMZfj1zRgLf1SlP0)
-- [4 AM by Sam Giancana, Michel Dj, Ikarus](https://open.spotify.com/track/6DRnUoSX3R21JtPED1mAN0)
-- [Alone by Koa Ko, SITHEA](https://open.spotify.com/track/5CdOJHyLd2nnen5WknRXX0)
-- [Breathe - Radio-Edit by Steve Norton](https://open.spotify.com/track/2Ns6uVPjspJd6fu1OZDvh8)
+- [Maneater by Mecdoux, sleepy dude](https://open.spotify.com/track/3dLkf7CdKqFGRlQxHNdR9I)
+- [Flames by NIINE, BigNoise, Yvvan Back, Tyzn](https://open.spotify.com/track/03xEAs75WEBU2M4WTxKfuw)
+- [Come Over by Riro, INAMEIT](https://open.spotify.com/track/63uay5BwSvh1l2FiOSdQzk)
+- [Light Me Up by LEDUC](https://open.spotify.com/track/50ivJe1Yunsa40sDf904IE)
+- [Sweet Disposition (feat. Askar and the Ghosts) by Twelve, Askar and the Ghosts](https://open.spotify.com/track/6bXs3vBEQrnUEGxro4DbF3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
