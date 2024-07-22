@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
+- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
+- [Say We Gotta Try by Lorguasta, INAMEIT](https://open.spotify.com/track/0MlkkD8K1mx9Qb7wOOSdEQ)
+- [Heavenly by Coverrun, tyler hooks](https://open.spotify.com/track/3WE1wb4se82RtTLKTXestN)
 - [Heart Of Storm by Criss Antof, Desno, INAMEIT](https://open.spotify.com/track/1GNLXQGGajs0gmYYplt1Bz)
 - [Carribean Queen by Outliers, LAST CALL, Peachy Pete](https://open.spotify.com/track/3mEhX9ttft8OLhs0CdNs8V)
-- [Want Me by Mr.M, INAMEIT](https://open.spotify.com/track/6azCryOMZfj1zRgLf1SlP0)
-- [4 AM by Sam Giancana, Michel Dj, Ikarus](https://open.spotify.com/track/6DRnUoSX3R21JtPED1mAN0)
-- [Alone by Koa Ko, SITHEA](https://open.spotify.com/track/5CdOJHyLd2nnen5WknRXX0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
