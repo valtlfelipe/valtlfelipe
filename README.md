@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lobster Bib by bombergirl](https://open.spotify.com/track/0aRC0W5zVWricDxM2s98La)
-- [Bora by Ran the Man](https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D)
-- [End of Story by IBBIZ](https://open.spotify.com/track/5EdLzVEBvZgxGgxZviMvGk)
-- [Pathway Across by Altitude Chill](https://open.spotify.com/track/2mx9zSH67TnUqp3CYjycZK)
-- [Meanwhile In Love by Natural Fool](https://open.spotify.com/track/6oCEqsNJj9RW1Kr3p3U4Dn)
+- [Riviera Blue by Lou Kil](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO)
+- [Relinquish by Daryl Dane](https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy)
+- [Let It Ride by bonaira](https://open.spotify.com/track/2r3NQbibPInZjT1VxAOrFh)
+- [Nomade by Candrian](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO)
+- [Aerobic Float by Kris Karrey](https://open.spotify.com/track/4aP3t84CNic7OwGoZsatmR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
