@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Feeling by Lost Frequencies](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
-- [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
-- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
-- [Something To Hold On To (feat. Clementine Douglas) by David Guetta, MORTEN, Clementine Douglas](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ)
+- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/2gQK13gXYZRq2MgvPJyHx8)
+- [Lost My Mind (Wake Up) by BUNT., Elley Duhé](https://open.spotify.com/track/3gCOHPzD8BICRM5xR1XBQS)
+- [Deep In Your Love by Alok, Bebe Rexha](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB)
+- [Follow the Sun - Sunset Remix by LYOD](https://open.spotify.com/track/4QZJabkkdzFL1qqIsnBmGP)
+- [Digane by Bob Sinclar, Sofiya Nzau](https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
