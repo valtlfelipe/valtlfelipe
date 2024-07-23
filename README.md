@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
-- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
-- [It&#39;s A Feeling by Sigala, Trevor Daniel, 24kGoldn](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8)
-- [Chemical High by Lost Frequencies](https://open.spotify.com/track/01mt0RLXC0DQ4VPQpV6WWy)
-- [Slow It Down by Alok](https://open.spotify.com/track/23v6B1oaC1GeDGbDXXR2QD)
+- [Sinner by Nu Aspect](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t)
+- [Living On My Own by Braaheim, ILYAA](https://open.spotify.com/track/0SgO1pBl2uZyD754ZqQbK5)
+- [Wherever You Go (feat. John Martin) by Alok, John Martin](https://open.spotify.com/track/2AxWgWJarJxOdU9C2T85yR)
+- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
+- [Phone by MEDUZA, Sam Tompkins, Em Beihold](https://open.spotify.com/track/4Y3xYddcLDgr2qm0xVdGgW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
