@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Riviera Blue by Lou Kil](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO)
-- [Relinquish by Daryl Dane](https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy)
-- [Let It Ride by bonaira](https://open.spotify.com/track/2r3NQbibPInZjT1VxAOrFh)
-- [Nomade by Candrian](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO)
-- [Aerobic Float by Kris Karrey](https://open.spotify.com/track/4aP3t84CNic7OwGoZsatmR)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [For Life (feat. Nile Rodgers) by Kygo, Zak Abel, Nile Rodgers](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP)
+- [Numb by Goodboys, AVAION](https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ)
+- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
