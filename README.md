@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sinner by Nu Aspect](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t)
-- [Living On My Own by Braaheim, ILYAA](https://open.spotify.com/track/0SgO1pBl2uZyD754ZqQbK5)
-- [Wherever You Go (feat. John Martin) by Alok, John Martin](https://open.spotify.com/track/2AxWgWJarJxOdU9C2T85yR)
-- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
-- [Phone by MEDUZA, Sam Tompkins, Em Beihold](https://open.spotify.com/track/4Y3xYddcLDgr2qm0xVdGgW)
+- [Let It Out by Brooks, Camilia](https://open.spotify.com/track/66MmXN5uJDfde13YSOXErn)
+- [Vois sur ton chemin - Techno Mix by BENNETT](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5)
+- [Open Your Eyes by POLTERGST](https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL)
+- [Move by Hardwell, KAAZE](https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP)
+- [Ameno (Techno Mix) by Gabry Ponte, Marnik, Roberto Molinaro](https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
