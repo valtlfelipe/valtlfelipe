@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Chase It (Mmm Da Da Da) by Bebe Rexha](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY)
-- [About You by KREAM](https://open.spotify.com/track/0mSxHkAKB6JR8Y3IX20H3n)
-- [Mas Que Nada by Oliver Heldens, Ian Asher, Sérgio Mendes](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh)
-- [Side Effects by Becky Hill, Lewis Thompson](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp)
-- [Tell It To My Heart by MEDUZA, Hozier](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA)
+- [The Feeling by Lost Frequencies](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
+- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
+- [Something To Hold On To (feat. Clementine Douglas) by David Guetta, MORTEN, Clementine Douglas](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
