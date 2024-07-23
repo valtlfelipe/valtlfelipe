@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)** - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs! (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
-- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
-- [All By Myself - Club Mix by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/2STdoaCLn66QeImEGQf6ed)
-- [Firestone by Kygo, Conrad Sewell](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE)
-- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
+- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
+- [It&#39;s A Feeling by Sigala, Trevor Daniel, 24kGoldn](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8)
+- [Chemical High by Lost Frequencies](https://open.spotify.com/track/01mt0RLXC0DQ4VPQpV6WWy)
+- [Slow It Down by Alok](https://open.spotify.com/track/23v6B1oaC1GeDGbDXXR2QD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
