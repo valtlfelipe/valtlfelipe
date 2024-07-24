@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Without You (with HAYLA) by Kygo, HAYLA](https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N)
-- [HEAT by Tove Lo, SG Lewis](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD)
-- [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
-- [Smile (feat. Carolina Liar) by Martin Garrix, Carolina Liar](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D)
-- [Music is Better by RÜFÜS DU SOL](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [Baddy On The Floor by Jamie xx, Honey Dijon](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN)
+- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
+- [Summertime Blues (feat. Nathan Nicholson) by Chris Lake, Sammy Virji, Nathan Nicholson](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp)
+- [Hey Homie by Sofi Tukker](https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
