@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Disc Me Bro by Basixx](https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q)
-- [Summer Haze by Matobolo](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR)
-- [Cloudburn by Bejnou](https://open.spotify.com/track/1V5Au2ZdUnvXEoVSaNjqyQ)
-- [What Tomorrow Brings by Drunk Archer](https://open.spotify.com/track/2faQoV4rpd3K9BxwbPbwYO)
-- [Meanwhile In Love by Natural Fool](https://open.spotify.com/track/6oCEqsNJj9RW1Kr3p3U4Dn)
+- [Cruel Summer - LP Giobbi Remix by Taylor Swift, LP Giobbi](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS)
+- [Don&#39;t Go Yet - Major Lazer Remix by Camila Cabello, Major Lazer](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf)
+- [Hold Me Closer - Joel Corry Remix by Elton John, Britney Spears, Joel Corry](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl)
+- [Show Me Love - Dubdogz Remix by Steve Angello, Laidback Luke, Robin S, Dubdogz](https://open.spotify.com/track/5QH3sjtAIJmeUiVuwDOjui)
+- [Can&#39;t Tame Her - VIZE Remix by Zara Larsson, VIZE](https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
