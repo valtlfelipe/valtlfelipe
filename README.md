@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
+- [Dance Alone (Ofenbach Remix) by Sia, Kylie Minogue, Ofenbach](https://open.spotify.com/track/2JjuoolLOG0YuJTv2fJuX7)
+- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
+- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
+- [Ferrari - Oliver Heldens Remix by James Hype, Miggy Dela Rosa, Oliver Heldens](https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI)
 - [Tattoo - Topic Remix by Loreen, Topic](https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp)
-- [About Damn Time - Purple Disco Machine Remix by Lizzo, Purple Disco Machine](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI)
-- [Head Underwater - James Carter Remix by Tom Walker, James Carter](https://open.spotify.com/track/5mNOhqvMV2Hj77yYO07gGS)
-- [Summertime - Imanbek Remix by Lana Del Rey, Imanbek](https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5)
-- [exes - Regard Remix by Tate McRae, Regard](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
