@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dance Alone (Ofenbach Remix) by Sia, Kylie Minogue, Ofenbach](https://open.spotify.com/track/2JjuoolLOG0YuJTv2fJuX7)
-- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
-- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
-- [Ferrari - Oliver Heldens Remix by James Hype, Miggy Dela Rosa, Oliver Heldens](https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI)
-- [Tattoo - Topic Remix by Loreen, Topic](https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp)
+- [Goodies by Dillon Francis](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG)
+- [I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix by Whitney Houston, David Solomon](https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg)
+- [Summer In New York - Öwnboss &amp; Fancy Inc Remix by Sofi Tukker, Öwnboss, Fancy Inc](https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE)
+- [Drive (feat. Wes Nelson) - Topic VIP Remix by Clean Bandit, Topic, Wes Nelson](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO)
+- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
