@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Shivers (Dillon Francis Remix) [Main Mix] by Ed Sheeran, Dillon Francis](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b)
-- [Whatever (with Ava Max) - Tiësto Remix by Kygo, Tiësto](https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO)
-- [Pump It Louder by Tiësto, Black Eyed Peas](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br)
-- [Lose You - Felix Jaehn Remix by Sam Smith, Felix Jaehn](https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC)
-- [My Feelings For You - Don Diablo Remix by Avicii, Sebastien Drums, Don Diablo](https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms)
+- [Without You (with HAYLA) by Kygo, HAYLA](https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N)
+- [HEAT by Tove Lo, SG Lewis](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD)
+- [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
+- [Smile (feat. Carolina Liar) by Martin Garrix, Carolina Liar](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D)
+- [Music is Better by RÜFÜS DU SOL](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
