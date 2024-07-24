@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lavender Haze - Snakehips Remix by Taylor Swift, Snakehips](https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs)
-- [Skin and Bones - MEDUZA REMIX by David Kushner, MEDUZA](https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO)
-- [Can&#39;t Get You out of My Head - Peggy Gou’s Midnight Remix by Kylie Minogue, Peggy Gou](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb)
-- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
-- [Austin (Boots Stop Workin&#39;) - Distant Matter Remix by Dasha, Distant Matter](https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho)
+- [Shivers (Dillon Francis Remix) [Main Mix] by Ed Sheeran, Dillon Francis](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b)
+- [Whatever (with Ava Max) - Tiësto Remix by Kygo, Tiësto](https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO)
+- [Pump It Louder by Tiësto, Black Eyed Peas](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br)
+- [Lose You - Felix Jaehn Remix by Sam Smith, Felix Jaehn](https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC)
+- [My Feelings For You - Don Diablo Remix by Avicii, Sebastien Drums, Don Diablo](https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
