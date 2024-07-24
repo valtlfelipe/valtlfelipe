@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Goodies by Dillon Francis](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG)
-- [I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix by Whitney Houston, David Solomon](https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg)
-- [Summer In New York - Öwnboss &amp; Fancy Inc Remix by Sofi Tukker, Öwnboss, Fancy Inc](https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE)
-- [Drive (feat. Wes Nelson) - Topic VIP Remix by Clean Bandit, Topic, Wes Nelson](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO)
-- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
+- [Lavender Haze - Snakehips Remix by Taylor Swift, Snakehips](https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs)
+- [Skin and Bones - MEDUZA REMIX by David Kushner, MEDUZA](https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO)
+- [Can&#39;t Get You out of My Head - Peggy Gou’s Midnight Remix by Kylie Minogue, Peggy Gou](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb)
+- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
+- [Austin (Boots Stop Workin&#39;) - Distant Matter Remix by Dasha, Distant Matter](https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
