@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [spring by eights signs](https://open.spotify.com/track/1E1Ml4DgQZ2QVp2UztwyvD)
-- [Relinquish by Daryl Dane](https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy)
-- [Astro by Didi Henric](https://open.spotify.com/track/6EjELKksixItWv6YL5kue4)
-- [In Your Soul by waybackwhenish](https://open.spotify.com/track/7Heda6sejvVw5h2kXGfAuL)
-- [Submute by Max Serenite](https://open.spotify.com/track/4bZsxqkkCcMZP0TT712ouR)
+- [Lost Traces by Phello](https://open.spotify.com/track/3hIIu3IWfzTx36Q67XKOTz)
+- [Newark by Pedro Amblar](https://open.spotify.com/track/3VSL6qzD1jjXGzp99rncwE)
+- [Deep Mist by Milous](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H)
+- [Shine by Art of November](https://open.spotify.com/track/4tAKd6ouFGZMGcU4CQvtH7)
+- [Do It Again by Tales of Terra](https://open.spotify.com/track/48YpKQYrE4hXtLkLmgEy89)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
