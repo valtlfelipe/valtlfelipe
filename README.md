@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
+- [Portal by MayDance](https://open.spotify.com/track/6kHh2ZrK4ULBOVvqvOaXvF)
+- [Dream by Pableno](https://open.spotify.com/track/4PRpkjyClXZRRbErTzpxrm)
 - [Propellers On by Co Kluin](https://open.spotify.com/track/6KtJEgSP4XPtxUsSbDCCx8)
 - [Circuit Trainer by Hans Blu](https://open.spotify.com/track/0AVXvPliuc7C6RcfjY3z2X)
 - [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
-- [Nest by Gloster Gladiator](https://open.spotify.com/track/2ijfMAJhIbZzsEvpZTywIX)
-- [Empty Room by 9Fivey](https://open.spotify.com/track/7i4Tu1sMCYeRhUAYa5jwCR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
