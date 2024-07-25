@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Neon Love by Folta Tres](https://open.spotify.com/track/0c1hYWkQFcp1ZaGvZEQOju)
-- [Shimmer by David Dumeau](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4)
-- [tongueswirl by Gabri From France](https://open.spotify.com/track/5HNfmZ82xCakjt01ULnvbW)
-- [Radiance by Delphine Dekker](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj)
-- [cloudless by Paon Bleu](https://open.spotify.com/track/5XCUn3nfOkGJYOyGshdFhC)
+- [Suede by Alexis Dex](https://open.spotify.com/track/3L0h3F6legZt2hBN1h9KZg)
+- [Waves by Deep Sea Society](https://open.spotify.com/track/7xOeXABPteFfNMEkfEe1aM)
+- [Ciao Janet by it&#39;s me.](https://open.spotify.com/track/50qpjR5hMQb5h285ANel1f)
+- [Unknown Controlpanel by Midnight Cycler](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe)
+- [Cheers Mate by Dia Louge](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
