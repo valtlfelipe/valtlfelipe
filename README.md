@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [GlamLife by David Kuro](https://open.spotify.com/track/1YilzehYmkU2He5hrZJysC)
-- [Get a move on by Sunset-buff](https://open.spotify.com/track/0ZbFzJKy4WKUagLJzJNLzT)
-- [Atamasco by SCÆNDALOUS](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy)
-- [Buenos Aires Bound by Jack&#39;s Mistress Frida](https://open.spotify.com/track/3ZP0pxXCj7L4iEOTFAVlJ9)
-- [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
+- [Retrocation by ELRY](https://open.spotify.com/track/4nIsTgi29Dq5Ezf0zozalF)
+- [Purpose by ABSTRCT](https://open.spotify.com/track/3X1Wk6lJwLHGUH7tCxtfUP)
+- [Yelp Of Joy by bombergirl](https://open.spotify.com/track/6Seljh4IAei5RBKEIDhZ1w)
+- [Spa Intervention by makers mask](https://open.spotify.com/track/3zHpn1533zXCxXqzHBn3cE)
+- [I got you, girl by Twin Iguana](https://open.spotify.com/track/7oVj0NATzaibl8rEj5JDkc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
