@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [On Again by Mau P](https://open.spotify.com/track/5vASuVQkngtFoCOczem52V)
-- [The Spark by Kabin Crew, Lisdoonvarna Crew](https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH)
-- [TRIPPIN by BUNT., Mapei](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [Baddy On The Floor by Jamie xx, Honey Dijon](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN)
+- [spring by eights signs](https://open.spotify.com/track/1E1Ml4DgQZ2QVp2UztwyvD)
+- [Relinquish by Daryl Dane](https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy)
+- [Astro by Didi Henric](https://open.spotify.com/track/6EjELKksixItWv6YL5kue4)
+- [In Your Soul by waybackwhenish](https://open.spotify.com/track/7Heda6sejvVw5h2kXGfAuL)
+- [Submute by Max Serenite](https://open.spotify.com/track/4bZsxqkkCcMZP0TT712ouR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
