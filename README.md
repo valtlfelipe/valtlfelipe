@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Portal by MayDance](https://open.spotify.com/track/6kHh2ZrK4ULBOVvqvOaXvF)
-- [Dream by Pableno](https://open.spotify.com/track/4PRpkjyClXZRRbErTzpxrm)
-- [Propellers On by Co Kluin](https://open.spotify.com/track/6KtJEgSP4XPtxUsSbDCCx8)
-- [Circuit Trainer by Hans Blu](https://open.spotify.com/track/0AVXvPliuc7C6RcfjY3z2X)
-- [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
+- [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
+- [Perfect Heat by Finn Horizon](https://open.spotify.com/track/1QY1tXdQmtmFh0vcf6VJTc)
+- [Moments Of Sundown by Sum Wave](https://open.spotify.com/track/1skrQ2EgnDHVciNJRtvL6c)
+- [Monsieur by Túnn](https://open.spotify.com/track/1PJkjjYVNjO64a88U65x6m)
+- [Sail by Steve Cee](https://open.spotify.com/track/7A6EOHKcpfACJ9KpCKIiRy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
