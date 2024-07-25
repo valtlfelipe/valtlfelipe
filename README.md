@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lost Traces by Phello](https://open.spotify.com/track/3hIIu3IWfzTx36Q67XKOTz)
-- [Newark by Pedro Amblar](https://open.spotify.com/track/3VSL6qzD1jjXGzp99rncwE)
-- [Deep Mist by Milous](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H)
-- [Shine by Art of November](https://open.spotify.com/track/4tAKd6ouFGZMGcU4CQvtH7)
-- [Do It Again by Tales of Terra](https://open.spotify.com/track/48YpKQYrE4hXtLkLmgEy89)
+- [Propellers On by Co Kluin](https://open.spotify.com/track/6KtJEgSP4XPtxUsSbDCCx8)
+- [Circuit Trainer by Hans Blu](https://open.spotify.com/track/0AVXvPliuc7C6RcfjY3z2X)
+- [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
+- [Nest by Gloster Gladiator](https://open.spotify.com/track/2ijfMAJhIbZzsEvpZTywIX)
+- [Empty Room by 9Fivey](https://open.spotify.com/track/7i4Tu1sMCYeRhUAYa5jwCR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
