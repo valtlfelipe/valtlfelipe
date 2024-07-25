@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
+- [GlamLife by David Kuro](https://open.spotify.com/track/1YilzehYmkU2He5hrZJysC)
+- [Get a move on by Sunset-buff](https://open.spotify.com/track/0ZbFzJKy4WKUagLJzJNLzT)
+- [Atamasco by SCÆNDALOUS](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy)
+- [Buenos Aires Bound by Jack&#39;s Mistress Frida](https://open.spotify.com/track/3ZP0pxXCj7L4iEOTFAVlJ9)
 - [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
-- [Perfect Heat by Finn Horizon](https://open.spotify.com/track/1QY1tXdQmtmFh0vcf6VJTc)
-- [Moments Of Sundown by Sum Wave](https://open.spotify.com/track/1skrQ2EgnDHVciNJRtvL6c)
-- [Monsieur by Túnn](https://open.spotify.com/track/1PJkjjYVNjO64a88U65x6m)
-- [Sail by Steve Cee](https://open.spotify.com/track/7A6EOHKcpfACJ9KpCKIiRy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
