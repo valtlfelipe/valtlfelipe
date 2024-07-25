@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Suede by Alexis Dex](https://open.spotify.com/track/3L0h3F6legZt2hBN1h9KZg)
-- [Waves by Deep Sea Society](https://open.spotify.com/track/7xOeXABPteFfNMEkfEe1aM)
-- [Ciao Janet by it&#39;s me.](https://open.spotify.com/track/50qpjR5hMQb5h285ANel1f)
-- [Unknown Controlpanel by Midnight Cycler](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe)
-- [Cheers Mate by Dia Louge](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb)
+- [And The City Was Brooklyn by RaFa Sessions](https://open.spotify.com/track/3kf1qwFXJFwdVWfsNldvw9)
+- [blu sparks by xThiago](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno)
+- [Catch Up by Poreniacs](https://open.spotify.com/track/4wRSpt0ZILCSt8Wxco9l12)
+- [Wood by Pableno](https://open.spotify.com/track/1jySrrqnp7ux50ZdKFCwTZ)
+- [Wood by Pableno](https://open.spotify.com/track/1jySrrqnp7ux50ZdKFCwTZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
