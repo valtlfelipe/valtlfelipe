@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Heart Of Storm by Criss Antof, Desno, INAMEIT](https://open.spotify.com/track/1GNLXQGGajs0gmYYplt1Bz)
-- [Alone by Koa Ko, SITHEA](https://open.spotify.com/track/5CdOJHyLd2nnen5WknRXX0)
-- [Want Me by Mr.M, INAMEIT](https://open.spotify.com/track/6azCryOMZfj1zRgLf1SlP0)
-- [BLACK WIDOW by Alok, Kickbait, CERES](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7)
-- [Nights And Days by Moy-ya](https://open.spotify.com/track/1uhbd4sWOAaplom86NLMYI)
+- [Carribean Queen by Outliers, LAST CALL, Peachy Pete](https://open.spotify.com/track/3mEhX9ttft8OLhs0CdNs8V)
+- [Come Over by Riro, INAMEIT](https://open.spotify.com/track/63uay5BwSvh1l2FiOSdQzk)
+- [Breathe (Clear Six Remix) by Covenants, Clear Six, GIA](https://open.spotify.com/track/5CYUjwiP81cEx6gp0MPohw)
+- [Lovers &amp; Strangers by Donner, LO, John Skyfield](https://open.spotify.com/track/1bYn29RWxu96pDQsMD2ZVK)
+- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
