@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
+- [Sweet Disposition (feat. Askar and the Ghosts) by Twelve, Askar and the Ghosts](https://open.spotify.com/track/6bXs3vBEQrnUEGxro4DbF3)
+- [Breathe - Radio-Edit by Steve Norton](https://open.spotify.com/track/2Ns6uVPjspJd6fu1OZDvh8)
 - [High by Bapti, Joel Coopa](https://open.spotify.com/track/26R0JBH2fV4GLcraALwxGo)
 - [Heavenly by Coverrun, tyler hooks](https://open.spotify.com/track/3WE1wb4se82RtTLKTXestN)
 - [Can&#39;t Get You Out Of My Head by Paul Cesar, Colin Waters](https://open.spotify.com/track/3DL2iO0TRGGRQm5OUGaM9Z)
-- [Flames by NIINE, BigNoise, Yvvan Back, Tyzn](https://open.spotify.com/track/03xEAs75WEBU2M4WTxKfuw)
-- [Say We Gotta Try by Lorguasta, INAMEIT](https://open.spotify.com/track/0MlkkD8K1mx9Qb7wOOSdEQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
