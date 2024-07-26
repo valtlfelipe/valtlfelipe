@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sweet Disposition (feat. Askar and the Ghosts) by Twelve, Askar and the Ghosts](https://open.spotify.com/track/6bXs3vBEQrnUEGxro4DbF3)
-- [Breathe - Radio-Edit by Steve Norton](https://open.spotify.com/track/2Ns6uVPjspJd6fu1OZDvh8)
-- [High by Bapti, Joel Coopa](https://open.spotify.com/track/26R0JBH2fV4GLcraALwxGo)
-- [Heavenly by Coverrun, tyler hooks](https://open.spotify.com/track/3WE1wb4se82RtTLKTXestN)
-- [Can&#39;t Get You Out Of My Head by Paul Cesar, Colin Waters](https://open.spotify.com/track/3DL2iO0TRGGRQm5OUGaM9Z)
+- [I Feel It by John Gold](https://open.spotify.com/track/55cWblazmypascy4N82N4V)
+- [Dance The Night - From Barbie The Album by Lemongrass Breeze](https://open.spotify.com/track/5SAKApQ3csvO8HBgNajTme)
+- [Smooth Operator by Lone Tusker](https://open.spotify.com/track/3z9W9fT8TFFeBY3t5WGLmm)
+- [No One by Albi](https://open.spotify.com/track/1hnxbKYQjQVVEbR9nQO1S3)
+- [Runaway by Dropack](https://open.spotify.com/track/261km2SozHdRBqGXxWE3ZN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
