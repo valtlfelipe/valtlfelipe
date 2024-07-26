@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
+- [Heart Of Storm by Criss Antof, Desno, INAMEIT](https://open.spotify.com/track/1GNLXQGGajs0gmYYplt1Bz)
+- [Alone by Koa Ko, SITHEA](https://open.spotify.com/track/5CdOJHyLd2nnen5WknRXX0)
+- [Want Me by Mr.M, INAMEIT](https://open.spotify.com/track/6azCryOMZfj1zRgLf1SlP0)
+- [BLACK WIDOW by Alok, Kickbait, CERES](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7)
 - [Nights And Days by Moy-ya](https://open.spotify.com/track/1uhbd4sWOAaplom86NLMYI)
-- [Eladio by Camisade](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs)
-- [Smiling Falsifier by under.tone](https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S)
-- [And The City Was Brooklyn by RaFa Sessions](https://open.spotify.com/track/3kf1qwFXJFwdVWfsNldvw9)
-- [blu sparks by xThiago](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
