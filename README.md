@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
+- [Close My Eyes by Nick En Mare](https://open.spotify.com/track/4Dh2eeHgV5z4KycDFu96Sv)
 - [I Feel It by John Gold](https://open.spotify.com/track/55cWblazmypascy4N82N4V)
 - [Dance The Night - From Barbie The Album by Lemongrass Breeze](https://open.spotify.com/track/5SAKApQ3csvO8HBgNajTme)
 - [Smooth Operator by Lone Tusker](https://open.spotify.com/track/3z9W9fT8TFFeBY3t5WGLmm)
 - [Smooth Operator by Lone Tusker](https://open.spotify.com/track/3z9W9fT8TFFeBY3t5WGLmm)
-- [No One by Albi](https://open.spotify.com/track/1hnxbKYQjQVVEbR9nQO1S3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
