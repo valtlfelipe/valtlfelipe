@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
+- [Say We Gotta Try by Lorguasta, INAMEIT](https://open.spotify.com/track/0MlkkD8K1mx9Qb7wOOSdEQ)
+- [Water by Mentol, SoOne](https://open.spotify.com/track/6yevoZRaLpUDEFzxx6sNCs)
 - [Where Are You Now by Tommy Tran, Majesta](https://open.spotify.com/track/05Xkiol19STPAebi5vCCeP)
 - [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
 - [New Day by VibeDevice](https://open.spotify.com/track/5wGgt3NKZN2A4U0N3tnmq0)
-- [Close My Eyes by Nick En Mare](https://open.spotify.com/track/4Dh2eeHgV5z4KycDFu96Sv)
-- [I Feel It by John Gold](https://open.spotify.com/track/55cWblazmypascy4N82N4V)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
