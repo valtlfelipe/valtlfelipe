@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)** - Customization of kubernetes YAML configurations (1 week ago)
 
 #### 🎧 What I have been listening
+- [Heavenly by Coverrun, tyler hooks](https://open.spotify.com/track/3WE1wb4se82RtTLKTXestN)
+- [Can&#39;t Get You Out Of My Head by Paul Cesar, Colin Waters](https://open.spotify.com/track/3DL2iO0TRGGRQm5OUGaM9Z)
+- [Flames by NIINE, BigNoise, Yvvan Back, Tyzn](https://open.spotify.com/track/03xEAs75WEBU2M4WTxKfuw)
 - [Say We Gotta Try by Lorguasta, INAMEIT](https://open.spotify.com/track/0MlkkD8K1mx9Qb7wOOSdEQ)
 - [Water by Mentol, SoOne](https://open.spotify.com/track/6yevoZRaLpUDEFzxx6sNCs)
-- [Where Are You Now by Tommy Tran, Majesta](https://open.spotify.com/track/05Xkiol19STPAebi5vCCeP)
-- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
-- [New Day by VibeDevice](https://open.spotify.com/track/5wGgt3NKZN2A4U0N3tnmq0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
