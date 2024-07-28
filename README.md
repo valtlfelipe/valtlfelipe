@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** - The OS for your personal finances (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
-- [Dance With Me by LiQWYD](https://open.spotify.com/track/6jo728RkCokneL8oxWpSAS)
-- [Sweet Disposition (feat. Askar and the Ghosts) by Twelve, Askar and the Ghosts](https://open.spotify.com/track/6bXs3vBEQrnUEGxro4DbF3)
-- [Breathe - Radio-Edit by Steve Norton](https://open.spotify.com/track/2Ns6uVPjspJd6fu1OZDvh8)
-- [High by Bapti, Joel Coopa](https://open.spotify.com/track/26R0JBH2fV4GLcraALwxGo)
+- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
+- [Praising You (feat. Fatboy Slim) by Rita Ora, Fatboy Slim](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD)
+- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [How Will I Know by Whitney Houston, Clean Bandit](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
