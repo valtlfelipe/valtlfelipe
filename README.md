@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** - The OS for your personal finances (1 week ago)
 
 #### 🎧 What I have been listening
-- [Miss Me by Teductive, PRMGH](https://open.spotify.com/track/5XMJeMxbVI1DLtNaH9cKPY)
-- [Paradise by Lost Synths, Fabio Vee](https://open.spotify.com/track/6IPG98bguKp1zNDq1VGcYY)
-- [Hot Air Balloon by Shoby, AALLAR, Jessica Chertock](https://open.spotify.com/track/2xEougYI2D2qW0GhPyf6Ld)
-- [She Said (Big Jet Plane) by Trinix, Queen D](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE)
-- [Can&#39;t Get You Out Of My Head by Paul Cesar, Colin Waters](https://open.spotify.com/track/3DL2iO0TRGGRQm5OUGaM9Z)
+- [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
+- [Carribean Queen by Outliers, LAST CALL, Peachy Pete](https://open.spotify.com/track/3mEhX9ttft8OLhs0CdNs8V)
+- [Runaway by Dropack](https://open.spotify.com/track/261km2SozHdRBqGXxWE3ZN)
+- [Don&#39;t You Worry Child by Stangen](https://open.spotify.com/track/4p2vKMWl13lCssZ7V4ObHI)
+- [Only Human by Addy Ace, Monde](https://open.spotify.com/track/5lFB2FB118uP4Q9Rhz5X9c)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
