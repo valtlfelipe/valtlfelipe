@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** - The OS for your personal finances (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lost My Mind by ANDREA CALABRIA](https://open.spotify.com/track/3kWyOvkO3jrWLwGMKPRxLR)
-- [All I Need by Gobi, Summer Vibes](https://open.spotify.com/track/2IZFbIcN454WmQA87T3ame)
-- [Nights by CLOWDES](https://open.spotify.com/track/0dDO8MpmsBGBL2UXFnxuf3)
-- [Can&#39;t See by Purp3](https://open.spotify.com/track/4i4VlFJnzkZWTyWRTQO5LR)
-- [You &amp; I by Jay Tastic, RAZZ, Stridon](https://open.spotify.com/track/2gXV382ggogEavcfcsy22l)
+- [Take This by Bolier, Iceleak, Nosi](https://open.spotify.com/track/7cZYBrr4v2oyyvKIynNY9L)
+- [Cruise by ROYA](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq)
+- [We Used To by INURE](https://open.spotify.com/track/1BIhvoSZzi0MjTo9ZoXfsA)
+- [Never Ever by Robert Burian](https://open.spotify.com/track/5w9I2F2fzgqkeQ2xQDMlsz)
+- [All Good Things (Come To An End) [feat. Marina Kova] by Lucky Charms, Brøder, Marina Kova](https://open.spotify.com/track/6jYKIrripWfC24Xqav50QT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
