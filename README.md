@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** - The OS for your personal finances (1 week ago)
 
 #### 🎧 What I have been listening
-- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
-- [Praising You (feat. Fatboy Slim) by Rita Ora, Fatboy Slim](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD)
-- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
-- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
-- [How Will I Know by Whitney Houston, Clean Bandit](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL)
+- [Lost My Mind by ANDREA CALABRIA](https://open.spotify.com/track/3kWyOvkO3jrWLwGMKPRxLR)
+- [All I Need by Gobi, Summer Vibes](https://open.spotify.com/track/2IZFbIcN454WmQA87T3ame)
+- [Nights by CLOWDES](https://open.spotify.com/track/0dDO8MpmsBGBL2UXFnxuf3)
+- [Can&#39;t See by Purp3](https://open.spotify.com/track/4i4VlFJnzkZWTyWRTQO5LR)
+- [You &amp; I by Jay Tastic, RAZZ, Stridon](https://open.spotify.com/track/2gXV382ggogEavcfcsy22l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
