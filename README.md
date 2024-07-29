@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** - The OS for your personal finances (1 week ago)
 
 #### 🎧 What I have been listening
-- [Nobody Knows by Ape Drums, Clementine Douglas](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb)
-- [Behind by PLVTO, Natasha Ghosh](https://open.spotify.com/track/3rhrUrtYGe2E27WP6ARDQ4)
-- [Kids by Feather, Ricca](https://open.spotify.com/track/297CpejXXWQnetCfopLhKn)
-- [Promise by Luca](https://open.spotify.com/track/53yryXhiQH6zt8tUjE6V32)
-- [We’re Good by PAENDA](https://open.spotify.com/track/0i5Cko9s2HbUq6KCNPAq13)
+- [Can&#39;t See by Purp3](https://open.spotify.com/track/4i4VlFJnzkZWTyWRTQO5LR)
+- [You &amp; I by Jay Tastic, RAZZ, Stridon](https://open.spotify.com/track/2gXV382ggogEavcfcsy22l)
+- [Escape - Pjanoo Remake by Baakhouya](https://open.spotify.com/track/7qDDmUsZUrFp7d5czIuEZU)
+- [Ocean Drive by blue my mind, Manil](https://open.spotify.com/track/74cM1yFsThjTcUiZqxZ3Nk)
+- [Safe House by LOWKEY, Steam Phunk, JAIKO](https://open.spotify.com/track/09fYMdR8lPHQKgyQ2URs7a)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
