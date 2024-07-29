@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** - The OS for your personal finances (1 week ago)
 
 #### 🎧 What I have been listening
-- [Can&#39;t See by Purp3](https://open.spotify.com/track/4i4VlFJnzkZWTyWRTQO5LR)
-- [You &amp; I by Jay Tastic, RAZZ, Stridon](https://open.spotify.com/track/2gXV382ggogEavcfcsy22l)
-- [Escape - Pjanoo Remake by Baakhouya](https://open.spotify.com/track/7qDDmUsZUrFp7d5czIuEZU)
-- [Ocean Drive by blue my mind, Manil](https://open.spotify.com/track/74cM1yFsThjTcUiZqxZ3Nk)
-- [Safe House by LOWKEY, Steam Phunk, JAIKO](https://open.spotify.com/track/09fYMdR8lPHQKgyQ2URs7a)
+- [We Used To by INURE](https://open.spotify.com/track/1BIhvoSZzi0MjTo9ZoXfsA)
+- [Never Ever by Robert Burian](https://open.spotify.com/track/5w9I2F2fzgqkeQ2xQDMlsz)
+- [All Good Things (Come To An End) [feat. Marina Kova] by Lucky Charms, Brøder, Marina Kova](https://open.spotify.com/track/6jYKIrripWfC24Xqav50QT)
+- [Safe and Sound by Uncloud, Nightfall District, LU2VYK](https://open.spotify.com/track/428ZZYPERoWzzA4YaWYS1z)
+- [Summer Breeze by WHISK, Rene Rodrigezz](https://open.spotify.com/track/0vWU8AomBJnPyOkETik1L0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
