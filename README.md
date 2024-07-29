@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** - The OS for your personal finances (1 week ago)
 
 #### 🎧 What I have been listening
-- [We Used To by INURE](https://open.spotify.com/track/1BIhvoSZzi0MjTo9ZoXfsA)
-- [Never Ever by Robert Burian](https://open.spotify.com/track/5w9I2F2fzgqkeQ2xQDMlsz)
-- [All Good Things (Come To An End) [feat. Marina Kova] by Lucky Charms, Brøder, Marina Kova](https://open.spotify.com/track/6jYKIrripWfC24Xqav50QT)
-- [Safe and Sound by Uncloud, Nightfall District, LU2VYK](https://open.spotify.com/track/428ZZYPERoWzzA4YaWYS1z)
-- [Summer Breeze by WHISK, Rene Rodrigezz](https://open.spotify.com/track/0vWU8AomBJnPyOkETik1L0)
+- [Miss Me by Teductive, PRMGH](https://open.spotify.com/track/5XMJeMxbVI1DLtNaH9cKPY)
+- [Paradise by Lost Synths, Fabio Vee](https://open.spotify.com/track/6IPG98bguKp1zNDq1VGcYY)
+- [Hot Air Balloon by Shoby, AALLAR, Jessica Chertock](https://open.spotify.com/track/2xEougYI2D2qW0GhPyf6Ld)
+- [She Said (Big Jet Plane) by Trinix, Queen D](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE)
+- [Can&#39;t Get You Out Of My Head by Paul Cesar, Colin Waters](https://open.spotify.com/track/3DL2iO0TRGGRQm5OUGaM9Z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
