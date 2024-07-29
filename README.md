@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** - The OS for your personal finances (1 week ago)
 
 #### 🎧 What I have been listening
-- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
-- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
-- [Under The Sun by Lost Synths](https://open.spotify.com/track/4vcWxeIcvWEdbn2dWD0JR0)
-- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
-- [High by Bapti, Joel Coopa](https://open.spotify.com/track/26R0JBH2fV4GLcraALwxGo)
+- [There For You by S3S](https://open.spotify.com/track/7Ib2eZ6V8sSEswFwzhrj1b)
+- [Your Loving by Marvin Shadex, KAMA](https://open.spotify.com/track/5LvepTN3bnN11G683ZSQ6d)
+- [Unfold by Bonsaye](https://open.spotify.com/track/3KU2gXZK47LdgH4ikBPKcQ)
+- [How Will I Know by Dallien, Danny CLLS, nøya.](https://open.spotify.com/track/48B3FbaoxaYKbZo5uIHoBU)
+- [Want U Back by Sean Blanc, Sunset Oasis](https://open.spotify.com/track/6LgEEi4lxbZvj0L3uj3aMe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
