@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sunshine by Lavern](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH)
-- [Someone Else &#39;s Love by SAINT.](https://open.spotify.com/track/4xU6cA6qRH4iGHSMfffdbe)
-- [Say We Gotta Try by Lorguasta, INAMEIT](https://open.spotify.com/track/0MlkkD8K1mx9Qb7wOOSdEQ)
-- [Are You Gonna Be My Girl by Here We Go Go](https://open.spotify.com/track/60ssdXx3BqAWKuTbQJ6wVZ)
-- [Don&#39;t Mind by Galter](https://open.spotify.com/track/1BYu5mJ9lzOLr8r6FFcT9Z)
+- [Video Games by BOOTY LEAK, TARS., Luiza Miranda](https://open.spotify.com/track/1q0A1Cdcwah3qWPd4hXELY)
+- [Wish You The Best by Max Martis, Project Gemini](https://open.spotify.com/track/2uPkDmDVmo8xLHDk9TArLn)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
+- [Come Around by Zayx, INAMEIT](https://open.spotify.com/track/5EZVIYSieEEd9TrbW3C7KX)
+- [Lose Control by Lost Synths, INAMEIT](https://open.spotify.com/track/4pvRo8OU5jJ0YkWAlYuEFQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
