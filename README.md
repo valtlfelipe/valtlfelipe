@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Feeling by Lost Frequencies](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
-- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
-- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
-- [Sinking Deeper by Rico 56, Sickrate](https://open.spotify.com/track/1jq1J3JYkaYCvJl9voa2tT)
-- [Blame by Freaky DJs, Mondorro, PressPlays, Steanie Mary](https://open.spotify.com/track/61R8wqd0hPHQrUDhb5dHbY)
+- [Sunshine by Lavern](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH)
+- [Someone Else &#39;s Love by SAINT.](https://open.spotify.com/track/4xU6cA6qRH4iGHSMfffdbe)
+- [Say We Gotta Try by Lorguasta, INAMEIT](https://open.spotify.com/track/0MlkkD8K1mx9Qb7wOOSdEQ)
+- [Are You Gonna Be My Girl by Here We Go Go](https://open.spotify.com/track/60ssdXx3BqAWKuTbQJ6wVZ)
+- [Don&#39;t Mind by Galter](https://open.spotify.com/track/1BYu5mJ9lzOLr8r6FFcT9Z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
