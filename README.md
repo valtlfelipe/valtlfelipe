@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
-- [Every Breath You Take by Kayote, Slenderino, Gabriel Wittner, Luciana Silva](https://open.spotify.com/track/2NlwmRuaUqWuvOzEVmQo4M)
-- [tø infinity by birø](https://open.spotify.com/track/2ulIVcXhrQJAc2mGjJeYoo)
-- [Birds Flying High - Radio Edit by MÖWE](https://open.spotify.com/track/4IjkbMn06CkqRLhbMKbx6J)
-- [Lifted by Oliver Michael, Jako Diaz](https://open.spotify.com/track/52aTqJfaWWLIHSC3bCyjoU)
-- [Long Island by Lost Coconut](https://open.spotify.com/track/26edX6Ce1xLb780DyRkLK4)
+- [The Feeling by Lost Frequencies](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
+- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
+- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
+- [Sinking Deeper by Rico 56, Sickrate](https://open.spotify.com/track/1jq1J3JYkaYCvJl9voa2tT)
+- [Blame by Freaky DJs, Mondorro, PressPlays, Steanie Mary](https://open.spotify.com/track/61R8wqd0hPHQrUDhb5dHbY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
