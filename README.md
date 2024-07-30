@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
-- [Overdose by Bapti](https://open.spotify.com/track/0sl8HCuBJqmXGngRwThV8Z)
-- [Caught in a Dream by PALASTIC, LissA](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR)
-- [Vibrations by Intellios, KRYAS](https://open.spotify.com/track/5CVBurY20yAlPLFDr0Qoey)
-- [When We Touch by SK Austen](https://open.spotify.com/track/71XHzCMQOwa5AVcqKjNdQX)
-- [What&#39;s My Name? by Beachlife, Oceanside](https://open.spotify.com/track/2C7UcoiOaHJ7UUL5HWfLN6)
+- [Close To You by Tripton, JAIKO, Namté](https://open.spotify.com/track/0ONuv4rQSS2Td8tZh9gSfF)
+- [Come Back to Me by Eijk, Jessie Lee Thetford](https://open.spotify.com/track/6uE8L1DTJdHk9PriaM78q5)
+- [All A Dream by 2FarAway, Joel Winterflood](https://open.spotify.com/track/6ua5WObOzDqtcNcZsouD1D)
+- [City of Lights by Dawilk](https://open.spotify.com/track/6djw06D6xYUoAbCkghJWCh)
+- [I Fall by Ykonic](https://open.spotify.com/track/3Q7UXVIiW7VY6GYc4Pajln)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
