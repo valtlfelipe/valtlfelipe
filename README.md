@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
-- [Video Games by BOOTY LEAK, TARS., Luiza Miranda](https://open.spotify.com/track/1q0A1Cdcwah3qWPd4hXELY)
-- [Wish You The Best by Max Martis, Project Gemini](https://open.spotify.com/track/2uPkDmDVmo8xLHDk9TArLn)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
-- [Come Around by Zayx, INAMEIT](https://open.spotify.com/track/5EZVIYSieEEd9TrbW3C7KX)
-- [Lose Control by Lost Synths, INAMEIT](https://open.spotify.com/track/4pvRo8OU5jJ0YkWAlYuEFQ)
+- [Overdose by Bapti](https://open.spotify.com/track/0sl8HCuBJqmXGngRwThV8Z)
+- [Caught in a Dream by PALASTIC, LissA](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR)
+- [Vibrations by Intellios, KRYAS](https://open.spotify.com/track/5CVBurY20yAlPLFDr0Qoey)
+- [When We Touch by SK Austen](https://open.spotify.com/track/71XHzCMQOwa5AVcqKjNdQX)
+- [What&#39;s My Name? by Beachlife, Oceanside](https://open.spotify.com/track/2C7UcoiOaHJ7UUL5HWfLN6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
