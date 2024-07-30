@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 day ago)
-- **[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)** - Free, simple, and intuitive online database design tool and SQL generator. (5 days ago)
-- **[basics/nuxt-booster](https://github.com/basics/nuxt-booster)** - nuxt-booster will help you to improve the lighthouse performance score (100/100) of your website. 🚀 (5 days ago)
+- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (2 days ago)
+- **[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)** - Free, simple, and intuitive online database design tool and SQL generator. (6 days ago)
+- **[basics/nuxt-booster](https://github.com/basics/nuxt-booster)** - nuxt-booster will help you to improve the lighthouse performance score (100/100) of your website. 🚀 (6 days ago)
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
-- **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** - The OS for your personal finances (1 week ago)
+- **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** - The OS for your personal finances (2 weeks ago)
 
 #### 🎧 What I have been listening
 - [There For You by S3S](https://open.spotify.com/track/7Ib2eZ6V8sSEswFwzhrj1b)
