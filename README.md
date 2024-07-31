@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
-- [Loving You More by Amés, Nalestar](https://open.spotify.com/track/0SGe3rmiuDrp1kLoVBy1OB)
-- [What I Do by nourii, Toonice](https://open.spotify.com/track/0Kafnq4fSsY5wL7p6v3OBR)
-- [Going Back by Dizaro, Coulson](https://open.spotify.com/track/11BjuBxJP9XHeoBap42maV)
-- [Astronaut by LO, HEIGHTS](https://open.spotify.com/track/6nMcQh09lWR6Tup4v9ooIg)
-- [The Stars We Lost by Ruffnux, bailey](https://open.spotify.com/track/6KwVp2YhIsadVhHHeAdqEg)
+- [Close My Eyes by Nick En Mare](https://open.spotify.com/track/4Dh2eeHgV5z4KycDFu96Sv)
+- [Sunny by BOV](https://open.spotify.com/track/0z0YmxqvCzQCgRXoTGdLb3)
+- [4 AM by Sam Giancana, Michel Dj, Ikarus](https://open.spotify.com/track/6DRnUoSX3R21JtPED1mAN0)
+- [Memories by Bright Hinze](https://open.spotify.com/track/7dza6AfqBSGOf9VxtBhv19)
+- [Lovers &amp; Strangers by Donner, LO, John Skyfield](https://open.spotify.com/track/1bYn29RWxu96pDQsMD2ZVK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
