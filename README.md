@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
-- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
-- [Runaway by Dropack](https://open.spotify.com/track/261km2SozHdRBqGXxWE3ZN)
-- [Hero - Sped Up by Mystic Horizon](https://open.spotify.com/track/23b19cr69L4qRSlDd2KxtP)
-- [Walking On A Dream by Foínix, Yann Muller, Jordan Grace, Rolipso](https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo)
-- [You Should Go by Wavey](https://open.spotify.com/track/599h2dSNYPXwpEqEtYXnvl)
+- [Wanted by DJ Siar](https://open.spotify.com/track/7a7Fi9PrhsKJHQkphdC2b5)
+- [Make It Better by Wavey](https://open.spotify.com/track/5lvShlx9SF4g8WjCU2mFtc)
+- [Lonely by Lust.](https://open.spotify.com/track/4lC9JgTv45CzOChlLFWDyS)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Water by Mentol, SoOne](https://open.spotify.com/track/6yevoZRaLpUDEFzxx6sNCs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
