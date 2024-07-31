@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
+- [Nobody by P.A.V](https://open.spotify.com/track/5RPFcT0AUII13XEHjUAWpN)
 - [Over Again by Sam Giancana, Michel Dj, Ikarus](https://open.spotify.com/track/4pDUahIWBGmcDj9SJWMd2e)
 - [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
 - [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
 - [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
-- [Feels Right by Unsurger, Grey Vision](https://open.spotify.com/track/6L7hafl8kozzvTBeSVVE0T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
