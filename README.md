@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
-- [Close My Eyes by Nick En Mare](https://open.spotify.com/track/4Dh2eeHgV5z4KycDFu96Sv)
-- [Sunny by BOV](https://open.spotify.com/track/0z0YmxqvCzQCgRXoTGdLb3)
-- [4 AM by Sam Giancana, Michel Dj, Ikarus](https://open.spotify.com/track/6DRnUoSX3R21JtPED1mAN0)
-- [Memories by Bright Hinze](https://open.spotify.com/track/7dza6AfqBSGOf9VxtBhv19)
-- [Lovers &amp; Strangers by Donner, LO, John Skyfield](https://open.spotify.com/track/1bYn29RWxu96pDQsMD2ZVK)
+- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
+- [Runaway by Dropack](https://open.spotify.com/track/261km2SozHdRBqGXxWE3ZN)
+- [Hero - Sped Up by Mystic Horizon](https://open.spotify.com/track/23b19cr69L4qRSlDd2KxtP)
+- [Walking On A Dream by Foínix, Yann Muller, Jordan Grace, Rolipso](https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo)
+- [You Should Go by Wavey](https://open.spotify.com/track/599h2dSNYPXwpEqEtYXnvl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
