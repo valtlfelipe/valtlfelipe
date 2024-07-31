@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
-- [Your Loving by Marvin Shadex, KAMA](https://open.spotify.com/track/5LvepTN3bnN11G683ZSQ6d)
-- [Unfold by Bonsaye](https://open.spotify.com/track/3KU2gXZK47LdgH4ikBPKcQ)
-- [Want U Back by Sean Blanc, Sunset Oasis](https://open.spotify.com/track/6LgEEi4lxbZvj0L3uj3aMe)
-- [King Of My Castle by P.A.V](https://open.spotify.com/track/5LxyquGewR6aslYfqXfW24)
-- [What You&#39;ve Done by Drics](https://open.spotify.com/track/2rJu9t6d2khQMIjKO5yGL7)
+- [bora bora by aural](https://open.spotify.com/track/4fxFHN27g2RNRQce2WJc2w)
+- [for you by Dimside](https://open.spotify.com/track/5MAxsR5h0aY0aEikSJlEAk)
+- [Get You Alone by Higher Lane](https://open.spotify.com/track/1QWpPdRbTRSWpsmBZzD9cA)
+- [Just Let Go by Avi Snow, BIMINI, Yvvan Back](https://open.spotify.com/track/2vrpdYpLEhRoJJWxcwQKm1)
+- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
