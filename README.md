@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
+- [Loving You More by Amés, Nalestar](https://open.spotify.com/track/0SGe3rmiuDrp1kLoVBy1OB)
 - [What I Do by nourii, Toonice](https://open.spotify.com/track/0Kafnq4fSsY5wL7p6v3OBR)
 - [Going Back by Dizaro, Coulson](https://open.spotify.com/track/11BjuBxJP9XHeoBap42maV)
 - [Astronaut by LO, HEIGHTS](https://open.spotify.com/track/6nMcQh09lWR6Tup4v9ooIg)
 - [The Stars We Lost by Ruffnux, bailey](https://open.spotify.com/track/6KwVp2YhIsadVhHHeAdqEg)
-- [Moment by Chullo](https://open.spotify.com/track/3Hr78SdTS9CZGTTcr4yBYG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
