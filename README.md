@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wanted by DJ Siar](https://open.spotify.com/track/7a7Fi9PrhsKJHQkphdC2b5)
-- [Make It Better by Wavey](https://open.spotify.com/track/5lvShlx9SF4g8WjCU2mFtc)
-- [Lonely by Lust.](https://open.spotify.com/track/4lC9JgTv45CzOChlLFWDyS)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [Water by Mentol, SoOne](https://open.spotify.com/track/6yevoZRaLpUDEFzxx6sNCs)
+- [Your Loving by Marvin Shadex, KAMA](https://open.spotify.com/track/5LvepTN3bnN11G683ZSQ6d)
+- [Unfold by Bonsaye](https://open.spotify.com/track/3KU2gXZK47LdgH4ikBPKcQ)
+- [Want U Back by Sean Blanc, Sunset Oasis](https://open.spotify.com/track/6LgEEi4lxbZvj0L3uj3aMe)
+- [King Of My Castle by P.A.V](https://open.spotify.com/track/5LxyquGewR6aslYfqXfW24)
+- [What You&#39;ve Done by Drics](https://open.spotify.com/track/2rJu9t6d2khQMIjKO5yGL7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
