@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [State Of Mind by Oliver Michael](https://open.spotify.com/track/3tsfs52xzI7iHgdnGA2f4O)
-- [Lose Control by Mouta](https://open.spotify.com/track/3Qhk6t7Vv6c9q1mY55KypE)
-- [Journey by Lost Coconut](https://open.spotify.com/track/1VS9Bdbh2GbkioCXr7iSwa)
-- [Too Far by S3S](https://open.spotify.com/track/7dAMCc6U3EsdFJpsKOgLsB)
-- [bora bora by aural](https://open.spotify.com/track/4fxFHN27g2RNRQce2WJc2w)
+- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
+- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
+- [To the Moon and Back by Akrol](https://open.spotify.com/track/28Hp6RaEp1Zi6vrZH6iyFR)
+- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
+- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
