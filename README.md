@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
-- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
-- [To the Moon and Back by Akrol](https://open.spotify.com/track/28Hp6RaEp1Zi6vrZH6iyFR)
-- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
-- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
+- [Sinking Deeper by Rico 56, Sickrate](https://open.spotify.com/track/1jq1J3JYkaYCvJl9voa2tT)
+- [Blame by Freaky DJs, Mondorro, PressPlays, Steanie Mary](https://open.spotify.com/track/61R8wqd0hPHQrUDhb5dHbY)
+- [Come Over by Riro, INAMEIT](https://open.spotify.com/track/63uay5BwSvh1l2FiOSdQzk)
+- [Run Free by Luke Alexander, Boi Angel](https://open.spotify.com/track/4lWYUvPP52H4JR2d8senZA)
+- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
