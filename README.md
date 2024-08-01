@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
-- [Come Around by Zayx, INAMEIT](https://open.spotify.com/track/5EZVIYSieEEd9TrbW3C7KX)
-- [Lose Control by Lost Synths, INAMEIT](https://open.spotify.com/track/4pvRo8OU5jJ0YkWAlYuEFQ)
-- [Set You Free by Donner](https://open.spotify.com/track/3Sb5crvVirZex85SdBw5lM)
-- [Living In The Darkness by Sven and Jeffrey, Almost Weekend, Sam Heselwood](https://open.spotify.com/track/6ZjPGSwQH1I9srKKLacKKh)
+- [What&#39;s My Name? by Beachlife, Oceanside](https://open.spotify.com/track/2C7UcoiOaHJ7UUL5HWfLN6)
+- [Let U Go by Marsellie, Jox Music](https://open.spotify.com/track/3gHlewvUOYaqV0LGbIWKLs)
+- [Let U Go by Marsellie, Jox Music](https://open.spotify.com/track/3gHlewvUOYaqV0LGbIWKLs)
+- [Backyard by Anton Arbuzov, INAMEIT](https://open.spotify.com/track/2GqRjziKpQzHxWWBriYvFl)
+- [Favourite View by Novino, just Fede](https://open.spotify.com/track/1VnwrlEWIVUHlqjwbJgOiK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
