@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [Touch Me by Felipe Allenn, Henry Chris, Sonaba](https://open.spotify.com/track/3vm6ZJjtXLzCXq7focO6a8)
-- [Back To You by Lost Frequencies, Elley Duhé, X Ambassadors](https://open.spotify.com/track/4PdSICTVRI1xrXZM1sOSCe)
-- [Miles Away by Freaky DJs, SHKHR, Mondorro, Danna Max](https://open.spotify.com/track/7FuD3OL5B4x9MrbftvmjeI)
-- [Dream by Lost Coconut](https://open.spotify.com/track/2yxqcnE5A03nPemMYMulrk)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
+- [Come Around by Zayx, INAMEIT](https://open.spotify.com/track/5EZVIYSieEEd9TrbW3C7KX)
+- [Lose Control by Lost Synths, INAMEIT](https://open.spotify.com/track/4pvRo8OU5jJ0YkWAlYuEFQ)
+- [Set You Free by Donner](https://open.spotify.com/track/3Sb5crvVirZex85SdBw5lM)
+- [Living In The Darkness by Sven and Jeffrey, Almost Weekend, Sam Heselwood](https://open.spotify.com/track/6ZjPGSwQH1I9srKKLacKKh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
