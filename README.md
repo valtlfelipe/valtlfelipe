@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[aome510/spotify-player](https://github.com/aome510/spotify-player)** - A Spotify player in the terminal with full feature parity (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [State Of Mind by Oliver Michael](https://open.spotify.com/track/3tsfs52xzI7iHgdnGA2f4O)
+- [Lose Control by Mouta](https://open.spotify.com/track/3Qhk6t7Vv6c9q1mY55KypE)
+- [Journey by Lost Coconut](https://open.spotify.com/track/1VS9Bdbh2GbkioCXr7iSwa)
 - [Too Far by S3S](https://open.spotify.com/track/7dAMCc6U3EsdFJpsKOgLsB)
 - [bora bora by aural](https://open.spotify.com/track/4fxFHN27g2RNRQce2WJc2w)
-- [for you by Dimside](https://open.spotify.com/track/5MAxsR5h0aY0aEikSJlEAk)
-- [Get You Alone by Higher Lane](https://open.spotify.com/track/1QWpPdRbTRSWpsmBZzD9cA)
-- [Just Let Go by Avi Snow, BIMINI, Yvvan Back](https://open.spotify.com/track/2vrpdYpLEhRoJJWxcwQKm1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
