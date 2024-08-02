@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (5 days ago)
 
 #### 🎧 What I have been listening
-- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
-- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
-- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn)
-- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn)
-- [I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) by Oliver Heldens, Nile Rodgers, House Gospel Choir](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
+- [Espresso - Mark Ronson x FNZ Working Late Remix by Sabrina Carpenter, Mark Ronson, FNZ](https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl)
+- [Thank You (Not So Bad) by Dimitri Vegas &amp; Like Mike, Tiësto, Dido, W&amp;W, Dimitri Vegas, Like Mike](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt)
+- [Houdini by Dua Lipa](https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
