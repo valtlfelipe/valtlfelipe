@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Hear Me Now (Alok Remix) by Alok, Zeeba, Bruno Martini](https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n)
-- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
-- [Hot Honey by Tiësto, Alana Springsteen](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp)
-- [Chills (Feel My Love) by Oliver Heldens, David Guetta, FAST BOY](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x)
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV)
+- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
+- [Sunset by Ardo, Jake Alva](https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD)
+- [Bad Memories by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U)
+- [Fever by Dua Lipa, Angèle](https://open.spotify.com/track/3F1P0QzdXtBz0MXy7KIO5w)
+- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
