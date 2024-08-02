@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (5 days ago)
 
 #### 🎧 What I have been listening
-- [sømeøne else by birø, Petropaul](https://open.spotify.com/track/1zVm1hrbhskdc6JSI33wvh)
-- [Summer by HEIGHTS, _Blah, LO, KVNC](https://open.spotify.com/track/21JG3l00mEcIqe6oj6m9qH)
-- [Fairytale by Last Sun](https://open.spotify.com/track/3dlwhEZtSg1PKtGY22J1Pm)
-- [melt our hearts by Altero, ROBINS](https://open.spotify.com/track/6AZom6uv7YvTA3dlUIYKfZ)
-- [Love Me by Donner](https://open.spotify.com/track/0DPFWlzSaX1srrzwOBzASh)
+- [Never Be The Same Again by BlueStar](https://open.spotify.com/track/1ilT0hMNhuh8mqR6PmdxwO)
+- [Shelter by Indigo Eyes, Lily Ward](https://open.spotify.com/track/56es20uK9nOaNsPycHJojQ)
+- [Blew My Mind by Mike D&#39; Jais, Fabio Vee](https://open.spotify.com/track/5lppspIY80fgqiYVZsbaAw)
+- [My Heart by Manda, Elianne, INAMEIT](https://open.spotify.com/track/27g3RLBSSAV8wIxGGmaiDy)
+- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
