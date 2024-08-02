@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (5 days ago)
 
 #### 🎧 What I have been listening
+- [Safe House by LOWKEY, Steam Phunk, JAIKO](https://open.spotify.com/track/09fYMdR8lPHQKgyQ2URs7a)
+- [Nobody Knows by Ape Drums, Clementine Douglas](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb)
+- [One Last Secret (Radio Edit) by Simon Field, Yasmin Jane](https://open.spotify.com/track/1LMQeE7wuTm2bcadZkWYYu)
+- [Never Ever by Robert Burian](https://open.spotify.com/track/5w9I2F2fzgqkeQ2xQDMlsz)
 - [Never Be The Same Again by BlueStar](https://open.spotify.com/track/1ilT0hMNhuh8mqR6PmdxwO)
-- [Shelter by Indigo Eyes, Lily Ward](https://open.spotify.com/track/56es20uK9nOaNsPycHJojQ)
-- [Blew My Mind by Mike D&#39; Jais, Fabio Vee](https://open.spotify.com/track/5lppspIY80fgqiYVZsbaAw)
-- [My Heart by Manda, Elianne, INAMEIT](https://open.spotify.com/track/27g3RLBSSAV8wIxGGmaiDy)
-- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
