@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (5 days ago)
 
 #### 🎧 What I have been listening
-- [We’re Good by PAENDA](https://open.spotify.com/track/0i5Cko9s2HbUq6KCNPAq13)
-- [Latch by BNHM, Feather, Ricca](https://open.spotify.com/track/5lC7TaaR4eqvDa1uEnrLZU)
-- [Safe and Sound by Uncloud, Nightfall District, LU2VYK](https://open.spotify.com/track/428ZZYPERoWzzA4YaWYS1z)
-- [Cruise by ROYA](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq)
-- [Someday We&#39;ll Know by Cal1, l&#39;essay](https://open.spotify.com/track/6nvCguDSAvaJk9oizfSRje)
+- [Too Sweet by Hozier](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0)
+- [Seven (feat. Latto) by Jung Kook, Latto](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo)
+- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
+- [All Good Things (Come To An End) [feat. Marina Kova] by Lucky Charms, Brøder, Marina Kova](https://open.spotify.com/track/6jYKIrripWfC24Xqav50QT)
+- [Kids by Feather, Ricca](https://open.spotify.com/track/297CpejXXWQnetCfopLhKn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
