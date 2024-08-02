@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (today)
-- **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (today)
-- **[sst/ion](https://github.com/sst/ion)** - ❍ — a new engine for SST (2 days ago)
-- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (4 days ago)
-- **[drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)** - Free, simple, and intuitive online database design tool and SQL generator. (1 week ago)
+- **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (today)
+- **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (1 day ago)
+- **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 day ago)
+- **[sst/ion](https://github.com/sst/ion)** - ❍ — a new engine for SST (3 days ago)
+- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (5 days ago)
 
 #### 🎧 What I have been listening
 - [sømeøne else by birø, Petropaul](https://open.spotify.com/track/1zVm1hrbhskdc6JSI33wvh)
