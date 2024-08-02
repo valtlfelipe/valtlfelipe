@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (5 days ago)
 
 #### 🎧 What I have been listening
-- [My Heart Goes (La Di Da) (feat. Topic) by Becky Hill, Topic](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe)
-- [Too Sweet by Hozier](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0)
-- [There&#39;s Nothing Holdin&#39; Me Back by Shawn Mendes](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml)
-- [Strangers by Kenya Grace](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s)
-- [Bye Bye Bye - From Deadpool and Wolverine Soundtrack by *NSYNC](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn)
+- [Fever by Lewis Thompson, Punctual, Hight](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
+- [Whistle (feat. Calum Scott) by Jax Jones, Calum Scott](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF)
+- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
