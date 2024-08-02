@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (5 days ago)
 
 #### 🎧 What I have been listening
+- [My Heart Goes (La Di Da) (feat. Topic) by Becky Hill, Topic](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe)
 - [Too Sweet by Hozier](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0)
-- [Seven (feat. Latto) by Jung Kook, Latto](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo)
-- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
-- [All Good Things (Come To An End) [feat. Marina Kova] by Lucky Charms, Brøder, Marina Kova](https://open.spotify.com/track/6jYKIrripWfC24Xqav50QT)
-- [Kids by Feather, Ricca](https://open.spotify.com/track/297CpejXXWQnetCfopLhKn)
+- [There&#39;s Nothing Holdin&#39; Me Back by Shawn Mendes](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml)
+- [Strangers by Kenya Grace](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s)
+- [Bye Bye Bye - From Deadpool and Wolverine Soundtrack by *NSYNC](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
