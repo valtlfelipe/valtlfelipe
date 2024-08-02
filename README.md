@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (5 days ago)
 
 #### 🎧 What I have been listening
-- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
-- [Espresso - Mark Ronson x FNZ Working Late Remix by Sabrina Carpenter, Mark Ronson, FNZ](https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl)
-- [Thank You (Not So Bad) by Dimitri Vegas &amp; Like Mike, Tiësto, Dido, W&amp;W, Dimitri Vegas, Like Mike](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt)
-- [Houdini by Dua Lipa](https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z)
+- [Hear Me Now (Alok Remix) by Alok, Zeeba, Bruno Martini](https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n)
+- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
+- [Hot Honey by Tiësto, Alana Springsteen](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp)
+- [Chills (Feel My Love) by Oliver Heldens, David Guetta, FAST BOY](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
