@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Safe House by LOWKEY, Steam Phunk, JAIKO](https://open.spotify.com/track/09fYMdR8lPHQKgyQ2URs7a)
-- [Nobody Knows by Ape Drums, Clementine Douglas](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb)
-- [One Last Secret (Radio Edit) by Simon Field, Yasmin Jane](https://open.spotify.com/track/1LMQeE7wuTm2bcadZkWYYu)
-- [Never Ever by Robert Burian](https://open.spotify.com/track/5w9I2F2fzgqkeQ2xQDMlsz)
-- [Never Be The Same Again by BlueStar](https://open.spotify.com/track/1ilT0hMNhuh8mqR6PmdxwO)
+- [We’re Good by PAENDA](https://open.spotify.com/track/0i5Cko9s2HbUq6KCNPAq13)
+- [Latch by BNHM, Feather, Ricca](https://open.spotify.com/track/5lC7TaaR4eqvDa1uEnrLZU)
+- [Safe and Sound by Uncloud, Nightfall District, LU2VYK](https://open.spotify.com/track/428ZZYPERoWzzA4YaWYS1z)
+- [Cruise by ROYA](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq)
+- [Someday We&#39;ll Know by Cal1, l&#39;essay](https://open.spotify.com/track/6nvCguDSAvaJk9oizfSRje)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
