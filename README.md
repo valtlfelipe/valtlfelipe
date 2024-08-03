@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Illusion by Dua Lipa](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX)
+- [Cool for the Summer by Demi Lovato](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz)
+- [Make You Mine by Madison Beer](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL)
 - [Say It Right by Nelly Furtado](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t)
 - [So Stunning by Artemas](https://open.spotify.com/track/11H0FOYFDAQ2z6DUwIK5VZ)
-- [Ride Or Die, Pt. 2 (with Villano Antillano &amp; Tokischa) by Sevdaliza, Villano Antillano, Tokischa](https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN)
-- [Austin (Boots Stop Workin&#39;) by Dasha](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd)
-- [SNAP by Rosa Linn](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
