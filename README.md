@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Illuminate by Astrality, Leo Stannard](https://open.spotify.com/track/6SpS3512xzHKapz4plRuZW)
-- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
-- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
-- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
-- [Hurricane by Ofenbach, Ella Henderson](https://open.spotify.com/track/3P3i2ratUjex3HJEF8aAVi)
+- [Just the Way You Are by Bruno Mars](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt)
+- [Bye Bye Bye - From Deadpool and Wolverine Soundtrack by *NSYNC](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn)
+- [LUNCH by Billie Eilish](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE)
+- [Break My Heart by Dua Lipa](https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA)
+- [Die For You - Remix by The Weeknd, Ariana Grande](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
