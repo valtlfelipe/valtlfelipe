@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Don&#39;t Be Shy by Tiësto, KAROL G](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB)
+- [Tough by Quavo, Lana Del Rey](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer)
+- [Standing Next to You by Jung Kook](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2)
 - [These Walls by Dua Lipa](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py)
 - [As It Was by Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
-- [Cruel Summer by Taylor Swift](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr)
-- [dirty little secret by Artemas](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu)
-- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
