@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (today)
-- **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (1 day ago)
-- **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 day ago)
-- **[sst/ion](https://github.com/sst/ion)** - ❍ — a new engine for SST (3 days ago)
-- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (5 days ago)
+- **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (1 day ago)
+- **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (2 days ago)
+- **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (2 days ago)
+- **[sst/ion](https://github.com/sst/ion)** - ❍ — a new engine for SST (4 days ago)
+- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Illuminate by Astrality, Leo Stannard](https://open.spotify.com/track/6SpS3512xzHKapz4plRuZW)
 - [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
 - [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
 - [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
 - [Hurricane by Ofenbach, Ella Henderson](https://open.spotify.com/track/3P3i2ratUjex3HJEF8aAVi)
-- [I’m Going Underground by Flux Vortex](https://open.spotify.com/track/0efjjqr8RCTCWsGYFmmDBe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
