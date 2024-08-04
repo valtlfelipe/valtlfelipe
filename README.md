@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Babel by Gustavo Bravetti](https://open.spotify.com/track/6b8VuRQmxLjUM4KvqpuYOP)
-- [Say It Right by Nelly Furtado](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t)
-- [Say It Right by Nelly Furtado](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t)
-- [Love On The Brain by Rihanna](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp)
-- [i like the way you kiss me by Artemas](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf)
+- [Wrecking Ball by Miley Cyrus](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE)
+- [4 Minutes (feat. Justin Timberlake and Timbaland) by Madonna, Justin Timberlake, Timbaland](https://open.spotify.com/track/0NeZ8Bhhu3Vt5qCKLdvxpw)
+- [Say My Name by Destiny&#39;s Child](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk)
+- [Single Ladies (Put a Ring on It) by Beyoncé](https://open.spotify.com/track/5mMjkxGijQB4JZallYrkOW)
+- [Chandelier by Sia](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
