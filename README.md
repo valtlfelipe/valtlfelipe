@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (1 day ago)
-- **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (2 days ago)
-- **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (2 days ago)
-- **[sst/ion](https://github.com/sst/ion)** - ❍ — a new engine for SST (4 days ago)
-- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (6 days ago)
+- **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (2 days ago)
+- **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (3 days ago)
+- **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (3 days ago)
+- **[sst/ion](https://github.com/sst/ion)** - ❍ — a new engine for SST (5 days ago)
+- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
 - [Love On The Brain by Rihanna](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp)
