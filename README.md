@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Babel by Gustavo Bravetti](https://open.spotify.com/track/6b8VuRQmxLjUM4KvqpuYOP)
+- [Say It Right by Nelly Furtado](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t)
+- [Say It Right by Nelly Furtado](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t)
 - [Love On The Brain by Rihanna](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp)
 - [i like the way you kiss me by Artemas](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf)
-- [Good Luck, Babe! by Chappell Roan](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX)
-- [Cool for the Summer by Demi Lovato](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
