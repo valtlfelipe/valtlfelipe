@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wrecking Ball by Miley Cyrus](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE)
-- [4 Minutes (feat. Justin Timberlake and Timbaland) by Madonna, Justin Timberlake, Timbaland](https://open.spotify.com/track/0NeZ8Bhhu3Vt5qCKLdvxpw)
-- [Say My Name by Destiny&#39;s Child](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk)
-- [Single Ladies (Put a Ring on It) by Beyoncé](https://open.spotify.com/track/5mMjkxGijQB4JZallYrkOW)
-- [Chandelier by Sia](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV)
+- [Danza Kuduro by Don Omar, Lucenzo](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw)
+- [...Baby One More Time by Britney Spears](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa)
+- [Come &amp; Get It by Selena Gomez](https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF)
+- [Like a Prayer by Madonna](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci)
+- [I Gotta Feeling by Black Eyed Peas](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
