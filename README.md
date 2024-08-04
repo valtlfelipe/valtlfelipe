@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Shape of You by Ed Sheeran](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3)
-- [Wherever You Will Go by The Calling](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz)
-- [Firework by Katy Perry](https://open.spotify.com/track/3lXbHd0EoryoQh3vpevNEP)
-- [Applause by Lady Gaga](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex)
-- [Because of You by Kelly Clarkson](https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc)
+- [I Want It That Way by Backstreet Boys](https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya)
+- [Maps by Maroon 5](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc)
+- [Believe by Cher](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR)
+- [Last Friday Night (T.G.I.F.) by Katy Perry](https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1)
+- [Blank Space by Taylor Swift](https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
