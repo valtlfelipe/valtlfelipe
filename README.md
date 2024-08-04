@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Yeah! (feat. Lil Jon &amp; Ludacris) by USHER, Lil Jon, Ludacris](https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX)
-- [Jenny from the Block (feat. Jadakiss &amp; Styles P.) - Track Masters Remix by Jennifer Lopez, Jadakiss, Styles P](https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ)
-- [Roar by Katy Perry](https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI)
-- [Danza Kuduro by Don Omar, Lucenzo](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw)
-- [...Baby One More Time by Britney Spears](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa)
+- [Big Girls Don&#39;t Cry (Personal) by Fergie](https://open.spotify.com/track/6dgWWAs5yhWPOtvE1zuoQ1)
+- [New Rules by Dua Lipa](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0)
+- [Rolling in the Deep by Adele](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk)
+- [Hollaback Girl by Gwen Stefani](https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE)
+- [Sorry by Justin Bieber](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
