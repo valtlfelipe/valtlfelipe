@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Training Season by Dua Lipa](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26)
+- [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
+- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
 - [She&#39;s so High by Viva La Panda, Her Majesty](https://open.spotify.com/track/0tJvXxa4QmpVopRJypSlLy)
 - [Rule The World by Calm Springs, Donna Senders, l&#39;essay](https://open.spotify.com/track/30lGvPbo5wFU65ZCd62UGV)
-- [Chasing Cars by le moon, Aurila](https://open.spotify.com/track/6MbgvGntElWQ56sZPIFC1Z)
-- [Soul by Moment in Time](https://open.spotify.com/track/43VvkZyh76hSu1aACUa4BK)
-- [Don&#39;t You Cry by Sunday Scaries, Discrete](https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
