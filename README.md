@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Right Here, Right Now by Giorgio Gee, Dominic Neill](https://open.spotify.com/track/5y2HaTuq11XI2nnRDswUBY)
-- [Day and Night by Titanz](https://open.spotify.com/track/7CpMz7rQYH6tY8UWTsDnRy)
-- [Teardrops (Kid On The Block Remix) by De Hofnar, Kid On The Block](https://open.spotify.com/track/2Pc314Zd0YHv3gIlBAKZML)
-- [Hits 2000&#39; by Derefner](https://open.spotify.com/track/0bvTePOiqzX9unoPClbCnc)
-- [Save Me (feat. WLZN) by C3DRIC, USAI, WLZN](https://open.spotify.com/track/6cOnOBa5A9A5IMiqHYbEhu)
+- [Meant to Be by A27C, Johannes Jungleson, Miza](https://open.spotify.com/track/2CygV6ozja5IctUL16ljkj)
+- [Let Her Go - Lost Coconut Remix by Dual Sessions, Lost Coconut](https://open.spotify.com/track/1ZDOSXroOASzNuoI3d4YGx)
+- [I Like The Way You Kiss Me by Lost Ways](https://open.spotify.com/track/5p6wvTSvjxHB5Rn4A7MLKa)
+- [You Gotta Take the Chance. by FLEIV](https://open.spotify.com/track/0d4oiUOs4GD6PSXe1rovNd)
+- [Got You by TEMP!E, INAMEIT](https://open.spotify.com/track/4wXCNH4muPYs8SlyeA9c8i)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
