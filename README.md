@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
-- [She Said (Big Jet Plane) by Trinix, Queen D](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE)
-- [Higher Love by Kygo, Whitney Houston](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY)
-- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
-- [My Oh My by Ava Max](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx)
-- [Call Me (with R3HAB &amp; Timmy Trumpet) by Gabry Ponte, R3HAB, Timmy Trumpet](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw)
+- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
+- [One in a Million by Bebe Rexha, David Guetta](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [Thank You (Not So Bad) by Dimitri Vegas &amp; Like Mike, Tiësto, Dido, W&amp;W, Dimitri Vegas, Like Mike](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt)
+- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
