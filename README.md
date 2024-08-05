@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Call On Me by Rules](https://open.spotify.com/track/7wg7R64Y62OZgGtibeZ16l)
-- [My Heart Goes (La Di Da) (feat. Topic) by Becky Hill, Topic](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe)
-- [The Feeling by Lost Frequencies](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
-- [Overdrive (feat. Norma Jean Martine) by Ofenbach, Norma Jean Martine](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ)
-- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
+- [She Said (Big Jet Plane) by Trinix, Queen D](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE)
+- [Higher Love by Kygo, Whitney Houston](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY)
+- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
+- [My Oh My by Ava Max](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx)
+- [Call Me (with R3HAB &amp; Timmy Trumpet) by Gabry Ponte, R3HAB, Timmy Trumpet](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
