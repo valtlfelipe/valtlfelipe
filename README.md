@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Training Season by Dua Lipa](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26)
-- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
-- [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
-- [Chihiro by Gravagerz](https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB)
-- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
+- [Side Effects by Becky Hill, Lewis Thompson](https://open.spotify.com/track/2l3WaRRp8nKatWZDVysMUR)
+- [Tsunami by Alok, Ely Oaks](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii)
+- [Upside Down by MEDUZA, Poppy Baskcomb](https://open.spotify.com/track/5KEve04JRDnfszpMRuhxZG)
+- [Hot Honey by Tiësto, Alana Springsteen](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp)
+- [Human (feat. Echoes) by John Summit, Echoes](https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
