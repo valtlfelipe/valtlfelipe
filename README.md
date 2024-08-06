@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[d3witt/viking](https://github.com/d3witt/viking)** - Simple way to manage your remote machines and SSH keys (today)
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (today)
 - **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (4 days ago)
 - **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (5 days ago)
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (5 days ago)
-- **[sst/ion](https://github.com/sst/ion)** - ❍ — a new engine for SST (1 week ago)
 
 #### 🎧 What I have been listening
 - [Fever by Dua Lipa, Angèle](https://open.spotify.com/track/3F1P0QzdXtBz0MXy7KIO5w)
