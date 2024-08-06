@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Eat Your Man (with Nelly Furtado) by Dom Dolla, Nelly Furtado](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW)
-- [In And Out Of Love by Rivo, Armin van Buuren, Sharon Den Adel](https://open.spotify.com/track/64fEHUyea9EqtAkmwqxFrr)
-- [LET&#39;S GET FKD UP by Alok, Mondello&#39;G, CERES, Tribbs](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8)
-- [Lately by RÜFÜS DU SOL](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K)
-- [Forever by Gill Baits](https://open.spotify.com/track/5U3hG7UKJvl0RaHGoxm8s4)
+- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
+- [House of the Rising Sun by Charleon](https://open.spotify.com/track/6Al2Xyswuo8Zu1WDcahI7m)
+- [Deep In Your Love by Alok, Bebe Rexha](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB)
+- [Make It Better by Wavey](https://open.spotify.com/track/5lvShlx9SF4g8WjCU2mFtc)
+- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
