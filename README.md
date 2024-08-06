@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (today)
 - **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (4 days ago)
 - **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (5 days ago)
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (5 days ago)
 - **[sst/ion](https://github.com/sst/ion)** - ❍ — a new engine for SST (1 week ago)
-- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dive by Lost Frequencies, Tom Gregory](https://open.spotify.com/track/7d8s1ckbiRSCTasakGGam1)
-- [feelings don&#39;t lie by Ofenbach, salem ilese](https://open.spotify.com/track/1Un4BctmbaAaQJtv6Mk79r)
-- [Wave by FAST BOY, Raf](https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi)
-- [Always Feel Like - Koozz Remix by Alok, Koozz](https://open.spotify.com/track/6HjzUTAnphcmkQa6HEbVJl)
-- [One Night by Wavey](https://open.spotify.com/track/5v9H7L8dE2zmTfTCSJ9agh)
+- [Fever by Dua Lipa, Angèle](https://open.spotify.com/track/3F1P0QzdXtBz0MXy7KIO5w)
+- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
+- [100 Lives by Jonas Blue, Eyelar](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K)
+- [Summer Vibes by Imanbek](https://open.spotify.com/track/4mmrv7K7yoCGcn6f9cz2Yy)
+- [Tonight (D.I.Y.A) by Jax Jones, Joel Corry, Jason Derulo](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
