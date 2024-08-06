@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (5 days ago)
 
 #### 🎧 What I have been listening
-- [The Darkside by PALASTIC, Ekko](https://open.spotify.com/track/5xan7XL4YNpsAOL7LhXUPb)
-- [Safe House by LOWKEY, Steam Phunk, JAIKO](https://open.spotify.com/track/09fYMdR8lPHQKgyQ2URs7a)
-- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
-- [Love To Go by Lost Frequencies, Zonderling, Kelvin Jones](https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ)
-- [When The Sound Goes Down by Wavey](https://open.spotify.com/track/2bOa2hr7SieZI17ZROpUSG)
+- [Your Boo by Wavey](https://open.spotify.com/track/2fIOkiPWZHI5vSzKNwXLXl)
+- [Hallucinate by Dua Lipa](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg)
+- [Wherever You Go (feat. John Martin) by Alok, John Martin](https://open.spotify.com/track/2AxWgWJarJxOdU9C2T85yR)
+- [Unforgettable by Gill Baits](https://open.spotify.com/track/6oNZS8GzauyVSx8HuRGrt1)
+- [Alone With You by James Lacey](https://open.spotify.com/track/58SLyenQrX7KLia2IktjaJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
