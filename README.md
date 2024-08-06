@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Your Boo by Wavey](https://open.spotify.com/track/2fIOkiPWZHI5vSzKNwXLXl)
-- [Hallucinate by Dua Lipa](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg)
-- [Wherever You Go (feat. John Martin) by Alok, John Martin](https://open.spotify.com/track/2AxWgWJarJxOdU9C2T85yR)
-- [Unforgettable by Gill Baits](https://open.spotify.com/track/6oNZS8GzauyVSx8HuRGrt1)
-- [Alone With You by James Lacey](https://open.spotify.com/track/58SLyenQrX7KLia2IktjaJ)
+- [Peace In Silence by BUNT., Nate Traveller](https://open.spotify.com/track/5cz0EtjFVIl81TNNvljFeK)
+- [Fire in Your Eyes by Jai Nova](https://open.spotify.com/track/44z3mpumE1PQYxGqRz0CAv)
+- [Love Again by Alok, Alida](https://open.spotify.com/track/7HmLm3SiBGJeVpJ552PJJP)
+- [Underwater by Tujamo](https://open.spotify.com/track/3c9IKwzgIPcCweCl9so748)
+- [Piece Of Your Heart - Alok Remix by MEDUZA, Alok, Goodboys](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
