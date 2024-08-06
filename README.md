@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Dive by Lost Frequencies, Tom Gregory](https://open.spotify.com/track/7d8s1ckbiRSCTasakGGam1)
+- [feelings don&#39;t lie by Ofenbach, salem ilese](https://open.spotify.com/track/1Un4BctmbaAaQJtv6Mk79r)
+- [Wave by FAST BOY, Raf](https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi)
 - [Always Feel Like - Koozz Remix by Alok, Koozz](https://open.spotify.com/track/6HjzUTAnphcmkQa6HEbVJl)
 - [One Night by Wavey](https://open.spotify.com/track/5v9H7L8dE2zmTfTCSJ9agh)
-- [Disconnect - Tiësto Remix by Becky Hill, Chase &amp; Status, Tiësto](https://open.spotify.com/track/72SLU59ZmI3zsWUkkiOi6Q)
-- [In My Bones - Konstantin Sibold Remix by Lost Frequencies, David Kushner, Konstantin Sibold](https://open.spotify.com/track/5kCCZfV0UKcQ0kTdxnMbaM)
-- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
