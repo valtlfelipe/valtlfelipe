@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Always Feel Like - Koozz Remix by Alok, Koozz](https://open.spotify.com/track/6HjzUTAnphcmkQa6HEbVJl)
+- [One Night by Wavey](https://open.spotify.com/track/5v9H7L8dE2zmTfTCSJ9agh)
+- [Disconnect - Tiësto Remix by Becky Hill, Chase &amp; Status, Tiësto](https://open.spotify.com/track/72SLU59ZmI3zsWUkkiOi6Q)
+- [In My Bones - Konstantin Sibold Remix by Lost Frequencies, David Kushner, Konstantin Sibold](https://open.spotify.com/track/5kCCZfV0UKcQ0kTdxnMbaM)
 - [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
-- [House of the Rising Sun by Charleon](https://open.spotify.com/track/6Al2Xyswuo8Zu1WDcahI7m)
-- [Deep In Your Love by Alok, Bebe Rexha](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB)
-- [Make It Better by Wavey](https://open.spotify.com/track/5lvShlx9SF4g8WjCU2mFtc)
-- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
