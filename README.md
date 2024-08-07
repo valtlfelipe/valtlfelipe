@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Electric High by Lavern](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH)
-- [Back To You by Lost Frequencies, Elley Duhé, X Ambassadors](https://open.spotify.com/track/4PdSICTVRI1xrXZM1sOSCe)
-- [Follow the Sun - Sunset Remix by LYOD](https://open.spotify.com/track/4QZJabkkdzFL1qqIsnBmGP)
-- [Jump by Levi](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
+- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
+- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
+- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
+- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
+- [Training Season by Dua Lipa](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
