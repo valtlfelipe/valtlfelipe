@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[d3witt/viking](https://github.com/d3witt/viking)** - Simple way to manage your remote machines and SSH keys (today)
-- **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (today)
-- **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (4 days ago)
-- **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (5 days ago)
-- **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (5 days ago)
+- **[d3witt/viking](https://github.com/d3witt/viking)** - Simple way to manage your remote machines and SSH keys (1 day ago)
+- **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 day ago)
+- **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (5 days ago)
+- **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (6 days ago)
+- **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (6 days ago)
 
 #### 🎧 What I have been listening
+- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
+- [Sunshine (My Girl) by Wuki](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri)
+- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
+- [Side Effects by Becky Hill, Lewis Thompson](https://open.spotify.com/track/2l3WaRRp8nKatWZDVysMUR)
 - [All My Life by Tiësto, FAST BOY](https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S)
-- [Never Be Alone (feat. Sonny Fodera) by Becky Hill, Sonny Fodera](https://open.spotify.com/track/3pFe9dLAwfnwKt8gM6mqki)
-- [Paradise by MEDUZA, Dermot Kennedy](https://open.spotify.com/track/40FUdLENDY3sZmHEM25lpE)
-- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
-- [I Can&#39;t See by ROW, Samuel Miller](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
