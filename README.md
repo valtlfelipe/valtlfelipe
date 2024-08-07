@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
-- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
-- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
-- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
-- [Training Season by Dua Lipa](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26)
+- [Afterlife by Nu Aspect, JEWELS, MAGNUS](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd)
+- [feelings don&#39;t lie by Ofenbach, salem ilese](https://open.spotify.com/track/1Un4BctmbaAaQJtv6Mk79r)
+- [Late Nights by ItsArius, Lynnic, Kezano](https://open.spotify.com/track/6Hhoz2lLQh9IqiYQOEeTyQ)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV)
+- [Sparks by MEDUZA, DEL-30, Mali-Koa](https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
