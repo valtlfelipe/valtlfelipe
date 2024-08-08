@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
+- [(It Goes Like) Nanana - Edit by Peggy Gou](https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK)
+- [100 Lives by Jonas Blue, Eyelar](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K)
 - [It&#39;s Not Right But It&#39;s Okay by Mr. Belt &amp; Wezol](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj)
 - [Body Talk by Ofenbach, SVEA](https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD)
 - [Birds In The Sky by NewEra](https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES)
-- [Low Again by Bakermat](https://open.spotify.com/track/6WyIu9kPKkyEjmsP4aWJni)
-- [Side Effects by Becky Hill, Lewis Thompson](https://open.spotify.com/track/2l3WaRRp8nKatWZDVysMUR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
