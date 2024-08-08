@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Tell Me by James Carter, Hanne Mjøen](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg)
-- [Love or Hate Me by Charleon](https://open.spotify.com/track/42L9HW0VI1jnajyTg2OwIT)
-- [Only God Knows by Don Diablo, ECHoBOY](https://open.spotify.com/track/2DuCbz1WK7yZXyTSrOtMkc)
-- [Fever by Dua Lipa, Angèle](https://open.spotify.com/track/3F1P0QzdXtBz0MXy7KIO5w)
-- [Skin and Bones - MEDUZA REMIX by David Kushner, MEDUZA](https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO)
+- [Last Time by Becky Hill](https://open.spotify.com/track/54EL4HvZbEhG6pvrAGXGNQ)
+- [Until We Leave the Ground - Steve James Remix by Emmit Fenn, Steve James](https://open.spotify.com/track/3LX6Bv3jfbABw1KQsYOYtZ)
+- [Hallucinate by Dua Lipa](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg)
+- [Let Go by Lavern](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG)
+- [In The Rain by ODESZA](https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
