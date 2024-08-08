@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Run Deep - Extended by Nu Aspect](https://open.spotify.com/track/4UBbQTYl5gv4DOIYjsbMdq)
-- [Love You More by Charleon](https://open.spotify.com/track/5SJoEebmL9S4N6bYjhXb6g)
-- [Hotter Than Hell by Dua Lipa](https://open.spotify.com/track/5eTNdkstwKaNahHf41fJ9u)
-- [Roches blanches by Mizmo](https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj)
-- [Chasing The Sun by Tobÿ](https://open.spotify.com/track/2hJAt02WuR6FWOITv5iDWK)
+- [Tell Me by James Carter, Hanne Mjøen](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg)
+- [Love or Hate Me by Charleon](https://open.spotify.com/track/42L9HW0VI1jnajyTg2OwIT)
+- [Only God Knows by Don Diablo, ECHoBOY](https://open.spotify.com/track/2DuCbz1WK7yZXyTSrOtMkc)
+- [Fever by Dua Lipa, Angèle](https://open.spotify.com/track/3F1P0QzdXtBz0MXy7KIO5w)
+- [Skin and Bones - MEDUZA REMIX by David Kushner, MEDUZA](https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
