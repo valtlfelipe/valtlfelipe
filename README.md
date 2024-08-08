@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Want U by Hayley May](https://open.spotify.com/track/4PIdTFeeNnJ87nKOf1djuG)
-- [Never Be Alone (feat. Sonny Fodera) by Becky Hill, Sonny Fodera](https://open.spotify.com/track/3pFe9dLAwfnwKt8gM6mqki)
-- [Phoenix Sun by Life&#39;s A Beach, Tobÿ](https://open.spotify.com/track/3dQDa4ZtqxLPxNpbijvb9K)
-- [Move Me by Lavern](https://open.spotify.com/track/6LptEwO1ObZvVQXlU0BPIJ)
-- [World Hold On (Children Of The Sky) - FISHER Rework by Bob Sinclar, FISHER, Steve Edwards](https://open.spotify.com/track/6kTwzV93qpcovlRPmBOXmn)
+- [All In by YouNotUs, Laurell](https://open.spotify.com/track/7qog6LJrOFEyELxP00x2lc)
+- [Outside Of Love - Zerb Remix by Becky Hill, Zerb](https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5)
+- [Music is Better by RÜFÜS DU SOL](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw)
+- [Sunset Stories by Tobÿ, Life&#39;s A Beach](https://open.spotify.com/track/3nWHPuwYP1Umxe1vtdFPXE)
+- [Got Me Like by Lavern](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
