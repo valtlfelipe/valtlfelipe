@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Feel The Same by Ian Asher, RuthAnne](https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU)
-- [All Mine by D.O.D](https://open.spotify.com/track/55vxJOfCXlkiFzELyNTYQm)
-- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
-- [Human (feat. Echoes) by John Summit, Echoes](https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR)
-- [In My Bones by Lost Frequencies, David Kushner](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Deep In Your Love by Alok, Bebe Rexha](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB)
+- [Feel the Love by Vicki Vox](https://open.spotify.com/track/5OWQBIRQYQn77BsFvfJoHZ)
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn)
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
