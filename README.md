@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [All In by YouNotUs, Laurell](https://open.spotify.com/track/7qog6LJrOFEyELxP00x2lc)
-- [Outside Of Love - Zerb Remix by Becky Hill, Zerb](https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5)
-- [Music is Better by RÜFÜS DU SOL](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw)
-- [Sunset Stories by Tobÿ, Life&#39;s A Beach](https://open.spotify.com/track/3nWHPuwYP1Umxe1vtdFPXE)
-- [Got Me Like by Lavern](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP)
+- [It&#39;s Not Right But It&#39;s Okay by Mr. Belt &amp; Wezol](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj)
+- [Body Talk by Ofenbach, SVEA](https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD)
+- [Birds In The Sky by NewEra](https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES)
+- [Low Again by Bakermat](https://open.spotify.com/track/6WyIu9kPKkyEjmsP4aWJni)
+- [Side Effects by Becky Hill, Lewis Thompson](https://open.spotify.com/track/2l3WaRRp8nKatWZDVysMUR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
