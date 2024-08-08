@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Last Time by Becky Hill](https://open.spotify.com/track/54EL4HvZbEhG6pvrAGXGNQ)
-- [Until We Leave the Ground - Steve James Remix by Emmit Fenn, Steve James](https://open.spotify.com/track/3LX6Bv3jfbABw1KQsYOYtZ)
-- [Hallucinate by Dua Lipa](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg)
-- [Let Go by Lavern](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG)
-- [In The Rain by ODESZA](https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N)
+- [World on Fire by Keanler](https://open.spotify.com/track/65R5JQFsjzba1TMDlK58TX)
+- [Wicked Games (feat. Anna Naklab) - Radio Edit by Parra for Cuva, Anna Naklab](https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4)
+- [This Love by Klangkarussell, Poppy Baskcomb](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Told You So by SUPER-Hi](https://open.spotify.com/track/6U1qO61UVeXwDoaylXvBc5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
