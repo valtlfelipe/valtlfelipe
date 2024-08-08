@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [World on Fire by Keanler](https://open.spotify.com/track/65R5JQFsjzba1TMDlK58TX)
-- [Wicked Games (feat. Anna Naklab) - Radio Edit by Parra for Cuva, Anna Naklab](https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4)
-- [This Love by Klangkarussell, Poppy Baskcomb](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [Told You So by SUPER-Hi](https://open.spotify.com/track/6U1qO61UVeXwDoaylXvBc5)
+- [Feel The Same by Ian Asher, RuthAnne](https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU)
+- [All Mine by D.O.D](https://open.spotify.com/track/55vxJOfCXlkiFzELyNTYQm)
+- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
+- [Human (feat. Echoes) by John Summit, Echoes](https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR)
+- [In My Bones by Lost Frequencies, David Kushner](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
