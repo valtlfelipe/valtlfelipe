@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [(It Goes Like) Nanana - Edit by Peggy Gou](https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK)
-- [100 Lives by Jonas Blue, Eyelar](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K)
-- [It&#39;s Not Right But It&#39;s Okay by Mr. Belt &amp; Wezol](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj)
-- [Body Talk by Ofenbach, SVEA](https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD)
-- [Birds In The Sky by NewEra](https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES)
+- [Run Deep - Extended by Nu Aspect](https://open.spotify.com/track/4UBbQTYl5gv4DOIYjsbMdq)
+- [Love You More by Charleon](https://open.spotify.com/track/5SJoEebmL9S4N6bYjhXb6g)
+- [Hotter Than Hell by Dua Lipa](https://open.spotify.com/track/5eTNdkstwKaNahHf41fJ9u)
+- [Roches blanches by Mizmo](https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj)
+- [Chasing The Sun by Tobÿ](https://open.spotify.com/track/2hJAt02WuR6FWOITv5iDWK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
