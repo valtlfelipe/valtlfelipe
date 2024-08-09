@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Save My Soul by LYOD](https://open.spotify.com/track/7DRjXHeFAs0z3iJDVtsaYw)
-- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
-- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
-- [Love You More by Charleon](https://open.spotify.com/track/5SJoEebmL9S4N6bYjhXb6g)
-- [Roses x Children by TommyMuzzic](https://open.spotify.com/track/3GxXPHTRn4vQArX83QprqZ)
+- [Mind Still (feat. blythe) by Sonny Fodera, blythe](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v)
+- [Your Boo by Wavey](https://open.spotify.com/track/2fIOkiPWZHI5vSzKNwXLXl)
+- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
+- [What&#39;s in My Head by Nu Aspect](https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF)
+- [Stay High - Zerb Remix by Diplo, HUGEL, Zerb, Julia Church](https://open.spotify.com/track/3fripGC0ptg0cUE2qkjfRF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
