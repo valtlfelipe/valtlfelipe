@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Missing You by LYOD](https://open.spotify.com/track/1yj88MQeKgsFDUYv0nd3ML)
-- [Something Real by Damaui](https://open.spotify.com/track/5aEoonreKXe3GVFoskItBo)
-- [Heaven or Not by Diplo, Riva Starr, Kareen Lomax](https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF)
-- [Something Real - Extended by Nu Aspect](https://open.spotify.com/track/25ogqcFBb5rZ4BZtoPr8zr)
-- [Heat Waves by Gill Baits](https://open.spotify.com/track/1HCLFCgijI0iNPdIBfcX5W)
+- [Breathe by Parah Dice, Brianna](https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM)
+- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
+- [Summer Of Love by James Carter, Leony, Sam Fischer](https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g)
+- [Sunshine by Lavern](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH)
+- [Chihiro by Gravagerz](https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
