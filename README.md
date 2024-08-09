@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Mind Still (feat. blythe) by Sonny Fodera, blythe](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v)
-- [Your Boo by Wavey](https://open.spotify.com/track/2fIOkiPWZHI5vSzKNwXLXl)
-- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
-- [What&#39;s in My Head by Nu Aspect](https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF)
-- [Stay High - Zerb Remix by Diplo, HUGEL, Zerb, Julia Church](https://open.spotify.com/track/3fripGC0ptg0cUE2qkjfRF)
+- [Hot Honey by Tiësto, Alana Springsteen](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp)
+- [Addicted - Summer Version by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/2dXOVcJm5pHTegEifpiEt1)
+- [Shining by Wavey](https://open.spotify.com/track/6PuDILoX3ZS4N0A7yQtCDv)
+- [you by julien, Saintro P Sax Up, cloudseven](https://open.spotify.com/track/7BnRXdSpJ1Nn8bTrOIXrjT)
+- [Free (with Ellie Goulding) by Calvin Harris, Ellie Goulding](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
