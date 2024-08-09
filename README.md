@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
-- [Electric High by Lavern](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH)
-- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
-- [Ghost Town (Lucas Estrada Remix) by VINAI, John De Sohn, Lucas Estrada](https://open.spotify.com/track/0ndg56b510prqHlImqJoxG)
+- [Strangers by Kenya Grace](https://open.spotify.com/track/593knnQN4REEshx8th9zgK)
+- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
+- [Don&#39;t Know How by D3EPANK](https://open.spotify.com/track/5YXBazSdhGyFw1ZWSqWCqN)
+- [Time by Wavey](https://open.spotify.com/track/0UaR1Ex4DNEbd1z7hHhHEl)
+- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
