@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Strangers by Kenya Grace](https://open.spotify.com/track/593knnQN4REEshx8th9zgK)
-- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
-- [Don&#39;t Know How by D3EPANK](https://open.spotify.com/track/5YXBazSdhGyFw1ZWSqWCqN)
-- [Time by Wavey](https://open.spotify.com/track/0UaR1Ex4DNEbd1z7hHhHEl)
-- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
+- [Something To Hold On To (feat. Clementine Douglas) by David Guetta, MORTEN, Clementine Douglas](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ)
+- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
+- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
+- [Run Deep by Nu Aspect](https://open.spotify.com/track/4gBkrpJoPBZKY0T1gyJ4iU)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
