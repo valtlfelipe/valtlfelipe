@@ -3,8 +3,8 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[d3witt/viking](https://github.com/d3witt/viking)** - Simple way to manage your remote machines and SSH keys (3 days ago)
-- **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (3 days ago)
+- **[d3witt/viking](https://github.com/d3witt/viking)** - Simple way to manage your remote machines and SSH keys (4 days ago)
+- **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (4 days ago)
 - **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (1 week ago)
 - **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (1 week ago)
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
