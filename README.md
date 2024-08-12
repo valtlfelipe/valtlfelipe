@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wicked Game by giant cactus](https://open.spotify.com/track/5HyaeOgQ2CfKeEpzt19oey)
-- [Let Me Go by Deerock, Robin Woods, Zora Foxx](https://open.spotify.com/track/6iKt7D4GGvsc3truto0kQS)
-- [Ocean by AVALAN ROKSTON, Avalan, Rokston](https://open.spotify.com/track/181khkaDyS58392DW47P1t)
-- [Don’t Be So Shy by Dj Diac, ReMan, Nomeli](https://open.spotify.com/track/0hWJ5ixKLCyTYPhVoKf0Qa)
-- [Talk To Me by Vowed](https://open.spotify.com/track/7HLEFcKOdSoRIRThc61Sza)
+- [Cruel Summer (Marcus Layton Edit) by LAUWE, Marcus Layton](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg)
+- [Let You Go by Bluir, Alex James, Rory Hope](https://open.spotify.com/track/011iPe7nJFbrawEcYyHFIC)
+- [With You by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd)
+- [Crazy by Emrah Turken](https://open.spotify.com/track/50aTvLjSIY9557R53e9WHC)
+- [Sound of Your Summer - SUPER-Hi Remix by Quarry, SUPER-Hi](https://open.spotify.com/track/6fUqnrhQGXH7RGbhLgbRyr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
