@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Summertime Sadness by A17N, NAAC](https://open.spotify.com/track/13N5QeYhchuiUmchfwjs8m)
-- [Maybe by millforlife, Brenda Mullen](https://open.spotify.com/track/0R46kvVvgyxy3NLto0F01L)
-- [Mas Que Nada by DE SOFFER, Yann Muller](https://open.spotify.com/track/7f7H96rjS2G7ZPeaGYzWz7)
-- [If Only We Could by Cammie Robinson, Madason](https://open.spotify.com/track/5L2AN0eg1XN7SMLX5JEssj)
-- [Cherish by Alon](https://open.spotify.com/track/256duzyAQ2cgNI0Bh89K0m)
+- [Bleeding by Big Z, Treetalk](https://open.spotify.com/track/3U2koEIfBOR6H7bojKcrUi)
+- [Cruel Summer (Marcus Layton Edit) by LAUWE, Marcus Layton](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg)
+- [Let You Go by Bluir, Alex James, Rory Hope](https://open.spotify.com/track/011iPe7nJFbrawEcYyHFIC)
+- [With You by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd)
+- [Crazy by Emrah Turken](https://open.spotify.com/track/50aTvLjSIY9557R53e9WHC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
