@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[fal-ai/fal](https://github.com/fal-ai/fal)** - ⚡ Fastest way to serve open source ML models to millions (1 week ago)
 
 #### 🎧 What I have been listening
-- [Summertime Sadness by A17N, NAAC](https://open.spotify.com/track/13N5QeYhchuiUmchfwjs8m)
-- [Maybe by millforlife, Brenda Mullen](https://open.spotify.com/track/0R46kvVvgyxy3NLto0F01L)
-- [Mas Que Nada by DE SOFFER, Yann Muller](https://open.spotify.com/track/7f7H96rjS2G7ZPeaGYzWz7)
-- [If Only We Could by Cammie Robinson, Madason](https://open.spotify.com/track/5L2AN0eg1XN7SMLX5JEssj)
-- [Cherish by Alon](https://open.spotify.com/track/256duzyAQ2cgNI0Bh89K0m)
+- [Wicked Game by giant cactus](https://open.spotify.com/track/5HyaeOgQ2CfKeEpzt19oey)
+- [Let Me Go by Deerock, Robin Woods, Zora Foxx](https://open.spotify.com/track/6iKt7D4GGvsc3truto0kQS)
+- [Ocean by AVALAN ROKSTON, Avalan, Rokston](https://open.spotify.com/track/181khkaDyS58392DW47P1t)
+- [Don’t Be So Shy by Dj Diac, ReMan, Nomeli](https://open.spotify.com/track/0hWJ5ixKLCyTYPhVoKf0Qa)
+- [Talk To Me by Vowed](https://open.spotify.com/track/7HLEFcKOdSoRIRThc61Sza)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
