@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[penberg/limbo](https://github.com/penberg/limbo)** - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Breathe by Parah Dice, Brianna](https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM)
-- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
-- [Summer Of Love by James Carter, Leony, Sam Fischer](https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g)
-- [Sunshine by Lavern](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH)
-- [Chihiro by Gravagerz](https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB)
+- [Crazy by Emrah Turken](https://open.spotify.com/track/50aTvLjSIY9557R53e9WHC)
+- [Sound of Your Summer - SUPER-Hi Remix by Quarry, SUPER-Hi](https://open.spotify.com/track/6fUqnrhQGXH7RGbhLgbRyr)
+- [Back To You by MANSA](https://open.spotify.com/track/7Gap9EXrxaGS5tyCLRHoQW)
+- [L&#39;Amour Toujours by Celestial Pulse](https://open.spotify.com/track/24OiAKDC4N8Nai8RrUHOoH)
+- [Passionfruit by Reaktive, Badscandal](https://open.spotify.com/track/5yW1225NnbKf3Zy78pIpKr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
