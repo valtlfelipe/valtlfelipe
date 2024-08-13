@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (1 week ago)
 
 #### 🎧 What I have been listening
-- [Both Of Us by Talaiio](https://open.spotify.com/track/5l3ScH72LOQpXQ8qsO1SQc)
-- [Tokyo Nights by Modern Clouds](https://open.spotify.com/track/5txysze9nL710gd1YGo0E9)
-- [Zellos by Sin Valor](https://open.spotify.com/track/5adfcYLs3LlZicwHg4dhRG)
-- [Côte d&#39;Azur by Parker Wilkins](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe)
-- [Half Crazy by SGT DUST](https://open.spotify.com/track/7aTxeg2uMJmshTOlm9GwiP)
+- [Under The Impression by The Pleasure Principle](https://open.spotify.com/track/0kdhJpAOgHfD95FbpPhFOv)
+- [Kailani by Uzma](https://open.spotify.com/track/5KBPNVwuAg7oVpKQvEtIeS)
+- [Catch Me If I Fall by Leon Cox](https://open.spotify.com/track/3bYLZXk4Vu07bOjIhOlWvF)
+- [Delorean by Tendoi](https://open.spotify.com/track/2kIh8ffUj2hTqKSo8ybPKE)
+- [Nomade by Candrian](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
