@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (1 week ago)
 
 #### 🎧 What I have been listening
-- [Cap by Floral Gloam](https://open.spotify.com/track/6U0uoeEv7ZCgIkld5Wgm2H)
-- [Blinking Floor by spring gang](https://open.spotify.com/track/2bmJl6YB8DkDOD6XQpKmc9)
-- [Turismo by Ran the Man](https://open.spotify.com/track/108W5jcKxdywlm0j2nu6K7)
-- [In The Dark by Armin van Buuren, David Guetta, Aldae](https://open.spotify.com/track/492Ms0eG4ylkf1m50ORty7)
-- [Go Back (feat. AGGE) by Bruno Be, BAKKA (BR), AGGE](https://open.spotify.com/track/2pbDelyXPIzlFMYailoGzf)
+- [Both Of Us by Talaiio](https://open.spotify.com/track/5l3ScH72LOQpXQ8qsO1SQc)
+- [Tokyo Nights by Modern Clouds](https://open.spotify.com/track/5txysze9nL710gd1YGo0E9)
+- [Zellos by Sin Valor](https://open.spotify.com/track/5adfcYLs3LlZicwHg4dhRG)
+- [Côte d&#39;Azur by Parker Wilkins](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe)
+- [Half Crazy by SGT DUST](https://open.spotify.com/track/7aTxeg2uMJmshTOlm9GwiP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
