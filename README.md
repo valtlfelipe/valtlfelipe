@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (1 week ago)
 
 #### 🎧 What I have been listening
-- [Make You Mine by Madison Beer](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL)
-- [vampire by Olivia Rodrigo](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS)
-- [Nonsense by Sabrina Carpenter](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX)
-- [CUFF IT by Beyoncé](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS)
+- [These Walls by Dua Lipa](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py)
+- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
+- [A Bar Song (Tipsy) by Shaboozey](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf)
+- [Die For You - Remix by The Weeknd, Ariana Grande](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki)
+- [Break My Heart by Dua Lipa](https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
