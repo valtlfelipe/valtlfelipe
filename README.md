@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (1 week ago)
 
 #### 🎧 What I have been listening
-- [These Walls by Dua Lipa](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py)
-- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
-- [A Bar Song (Tipsy) by Shaboozey](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf)
-- [Die For You - Remix by The Weeknd, Ariana Grande](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki)
-- [Break My Heart by Dua Lipa](https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA)
+- [Momentum by JØRD](https://open.spotify.com/track/4bgzjRVPkfdb9bkDCFGrcp)
+- [Don&#39;t Wait by ROMBE4T, Doche, Roland Clark](https://open.spotify.com/track/2tOBWr8LizDOl2pPDOdzyY)
+- [Could You Be Loved by Dubdogz, Mojjo](https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4)
+- [Mia Pembe - Mojjo Remix by Ginton, Idd Aziz, Mojjo](https://open.spotify.com/track/6wF59HytOcIm0Q6RbEBeAS)
+- [Fevereiro by Ney Faustini](https://open.spotify.com/track/3jnAZUkY1h12kGwzHZxaTE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
