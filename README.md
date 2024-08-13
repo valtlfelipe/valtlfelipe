@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (1 week ago)
 
 #### 🎧 What I have been listening
+- [Austin (Boots Stop Workin&#39;) by Dasha](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd)
+- [greedy by Tate McRae](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)
+- [Who by Jimin](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU)
+- [CHIHIRO by Billie Eilish](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj)
 - [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
-- [Save Your Tears (with Ariana Grande) (Remix) by The Weeknd, Ariana Grande](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy)
-- [Bye Bye Bye - From Deadpool and Wolverine Soundtrack by *NSYNC](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn)
-- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
-- [Blinding Lights by The Weeknd](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
