@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (1 week ago)
 
 #### 🎧 What I have been listening
-- [Austin (Boots Stop Workin&#39;) by Dasha](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd)
-- [greedy by Tate McRae](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)
-- [Who by Jimin](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU)
-- [CHIHIRO by Billie Eilish](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj)
-- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
+- [Make You Mine by Madison Beer](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL)
+- [vampire by Olivia Rodrigo](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS)
+- [Nonsense by Sabrina Carpenter](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g)
+- [Illusion by Dua Lipa](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX)
+- [CUFF IT by Beyoncé](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
