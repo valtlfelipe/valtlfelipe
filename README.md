@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Mope Amok by Robo Rat](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6)
-- [Valleys by Mikayl Blu](https://open.spotify.com/track/3Hh8gjI0VKmqLCLlEHYtKS)
-- [blu sparks by xThiago](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno)
-- [Workspace by Buysea](https://open.spotify.com/track/1C6vxuyg7SFbdMcNifMAbq)
-- [You And Me by Together Alone](https://open.spotify.com/track/5PH5RpGQSZ6MXIjXU6cDDH)
+- [Restart The Sun by Robo Rat](https://open.spotify.com/track/3gvLr8fEhn74EU2LArj5wN)
+- [Flickering by Pipo W](https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp)
+- [Delulu by Molife](https://open.spotify.com/track/2ElHeqTJc2ERVcyhH6TEBP)
+- [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
+- [Bellagio by Paul Rietz](https://open.spotify.com/track/44vcTNxN1PUjZxsi7apRLK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
