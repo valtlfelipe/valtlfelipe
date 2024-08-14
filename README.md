@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (1 week ago)
 
 #### 🎧 What I have been listening
+- [Blurry Haze by Moonlight Giorgio](https://open.spotify.com/track/6TZnMkjj9GID1vjkvDk9XY)
+- [Missing U by Baijings](https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5)
+- [Hypothetic Face by Shiruky](https://open.spotify.com/track/0NuiPE1peC9N0RRA9QG9Bs)
 - [Under The Impression by The Pleasure Principle](https://open.spotify.com/track/0kdhJpAOgHfD95FbpPhFOv)
 - [Kailani by Uzma](https://open.spotify.com/track/5KBPNVwuAg7oVpKQvEtIeS)
-- [Catch Me If I Fall by Leon Cox](https://open.spotify.com/track/3bYLZXk4Vu07bOjIhOlWvF)
-- [Delorean by Tendoi](https://open.spotify.com/track/2kIh8ffUj2hTqKSo8ybPKE)
-- [Nomade by Candrian](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
