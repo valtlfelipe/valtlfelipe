@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Yes I&#39;m A Mess by AJR](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT)
-- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
-- [Gimme! Gimme! Gimme! (A Man After Midnight) by ABBA](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6)
-- [2 The Moon by Pitbull, Ne-Yo, AFROJACK, DJ Buddha](https://open.spotify.com/track/5fbigfxYwz6fGGxe8Py57t)
-- [Belong Together by Mark Ambor](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu)
+- [Too Sweet by Hozier](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C)
+- [TRUSTFALL by P!nk](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e)
+- [Bam Bam (feat. Ed Sheeran) by Camila Cabello, Ed Sheeran](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1)
+- [After Hours by Kehlani](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF)
+- [Nonsense by Sabrina Carpenter](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
