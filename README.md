@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [finders keepers by Gabri From France](https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv)
-- [Pathway Across by Altitude Chill](https://open.spotify.com/track/2mx9zSH67TnUqp3CYjycZK)
-- [Making Munchies by Midnight Cycler](https://open.spotify.com/track/3v8mzFnVcfzjyZhkHRkOEY)
-- [What We Feel by Henrik Villard](https://open.spotify.com/track/6hAskKId0Hh1WZV5TjYvZo)
-- [in deep by genelion](https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX)
+- [Back On 74 by Jungle](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO)
+- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
+- [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
+- [Whoops by Meghan Trainor](https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk)
+- [Nice to Meet You by Imagine Dragons](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
