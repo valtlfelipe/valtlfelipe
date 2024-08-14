@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Restart The Sun by Robo Rat](https://open.spotify.com/track/3gvLr8fEhn74EU2LArj5wN)
-- [Flickering by Pipo W](https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp)
-- [Delulu by Molife](https://open.spotify.com/track/2ElHeqTJc2ERVcyhH6TEBP)
-- [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
-- [Bellagio by Paul Rietz](https://open.spotify.com/track/44vcTNxN1PUjZxsi7apRLK)
+- [Vanilla Perfume by LE OBAL](https://open.spotify.com/track/3gn6rpdlKqyrK1tNlGUcd6)
+- [Bloom by Petronella Dice](https://open.spotify.com/track/6pEOQbxwG0PdJQm13y8cBj)
+- [Beam by Dove Tales](https://open.spotify.com/track/4oH3QxN1Gu6nQSaXnXxhdG)
+- [Passport by flooww](https://open.spotify.com/track/586M28IA5dAPdwvMdBZ5cd)
+- [Back Home by Pascal Marcel](https://open.spotify.com/track/351rejqsz5uECQ7w1mI9dv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
