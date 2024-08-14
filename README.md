@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Back On 74 by Jungle](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO)
-- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
-- [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
-- [Whoops by Meghan Trainor](https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk)
-- [Nice to Meet You by Imagine Dragons](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7)
+- [Yes I&#39;m A Mess by AJR](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [Gimme! Gimme! Gimme! (A Man After Midnight) by ABBA](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6)
+- [2 The Moon by Pitbull, Ne-Yo, AFROJACK, DJ Buddha](https://open.spotify.com/track/5fbigfxYwz6fGGxe8Py57t)
+- [Belong Together by Mark Ambor](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
