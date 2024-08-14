@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[haraka/Haraka](https://github.com/haraka/Haraka)** - A fast, highly extensible, and event driven SMTP server (today)
 - **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** - OneUptime is the complete open-source observability platform. (1 day ago)
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (2 days ago)
 - **[d3witt/viking](https://github.com/d3witt/viking)** - Simple way to manage your remote machines and SSH keys (1 week ago)
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
-- **[useplunk/plunk](https://github.com/useplunk/plunk)** - The Open-Source Email Platform (1 week ago)
 
 #### 🎧 What I have been listening
-- [Blurry Haze by Moonlight Giorgio](https://open.spotify.com/track/6TZnMkjj9GID1vjkvDk9XY)
-- [Missing U by Baijings](https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5)
-- [Hypothetic Face by Shiruky](https://open.spotify.com/track/0NuiPE1peC9N0RRA9QG9Bs)
-- [Under The Impression by The Pleasure Principle](https://open.spotify.com/track/0kdhJpAOgHfD95FbpPhFOv)
-- [Kailani by Uzma](https://open.spotify.com/track/5KBPNVwuAg7oVpKQvEtIeS)
+- [finders keepers by Gabri From France](https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv)
+- [Pathway Across by Altitude Chill](https://open.spotify.com/track/2mx9zSH67TnUqp3CYjycZK)
+- [Making Munchies by Midnight Cycler](https://open.spotify.com/track/3v8mzFnVcfzjyZhkHRkOEY)
+- [What We Feel by Henrik Villard](https://open.spotify.com/track/6hAskKId0Hh1WZV5TjYvZo)
+- [in deep by genelion](https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
