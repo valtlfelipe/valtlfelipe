@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Cabriz by OYUKA](https://open.spotify.com/track/3oJnQIAYfgRKfocVucvwkf)
-- [Lost Lands by Delta O](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ)
-- [Just Waiting 4 You by Sum Wave](https://open.spotify.com/track/0VVMvXcchR5HUWRU0zefNs)
-- [Night Shades by Purple Waves](https://open.spotify.com/track/0jneMOWzfrISVk4esEnvC9)
-- [Let It Out by [felt&amp;key]](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r)
+- [Balearic Dream by Gueves](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8)
+- [Sexy in the Morning by Reel Waves](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE)
+- [Raining Again by Me Gic](https://open.spotify.com/track/3II3luScpKF4w9kVTST3Z2)
+- [1927 Swim Club by People Safari](https://open.spotify.com/track/4G8vy74V2geCTu8YqKL8jq)
+- [Barcelona by Salavant](https://open.spotify.com/track/6wzwzB0s3Hzf17QuPemhHR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
