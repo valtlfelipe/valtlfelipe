@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [At the top by Mechagnome](https://open.spotify.com/track/1vtF91aXPgNZM9zNquwyOs)
-- [ghost stories by Landayn](https://open.spotify.com/track/4X6fyoXur5lOTNyvXa8VV6)
-- [Clarity by Dan Awy](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ)
-- [Sand Clock by Baan Sabai, Tropical Fairytale, Neon Zebra](https://open.spotify.com/track/6IwHwlClGKuBK7AicClQps)
-- [Grouptext by Blé Hill](https://open.spotify.com/track/3V2n4fDX9MQlx8jSH4tX4F)
+- [Cabriz by OYUKA](https://open.spotify.com/track/3oJnQIAYfgRKfocVucvwkf)
+- [Lost Lands by Delta O](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ)
+- [Just Waiting 4 You by Sum Wave](https://open.spotify.com/track/0VVMvXcchR5HUWRU0zefNs)
+- [Night Shades by Purple Waves](https://open.spotify.com/track/0jneMOWzfrISVk4esEnvC9)
+- [Let It Out by [felt&amp;key]](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
