@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Too Sweet by Hozier](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C)
-- [TRUSTFALL by P!nk](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e)
-- [Bam Bam (feat. Ed Sheeran) by Camila Cabello, Ed Sheeran](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1)
-- [After Hours by Kehlani](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF)
-- [Nonsense by Sabrina Carpenter](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g)
+- [Mope Amok by Robo Rat](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6)
+- [Valleys by Mikayl Blu](https://open.spotify.com/track/3Hh8gjI0VKmqLCLlEHYtKS)
+- [blu sparks by xThiago](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno)
+- [Workspace by Buysea](https://open.spotify.com/track/1C6vxuyg7SFbdMcNifMAbq)
+- [You And Me by Together Alone](https://open.spotify.com/track/5PH5RpGQSZ6MXIjXU6cDDH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
