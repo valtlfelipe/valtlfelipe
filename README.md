@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Vanilla Perfume by LE OBAL](https://open.spotify.com/track/3gn6rpdlKqyrK1tNlGUcd6)
-- [Bloom by Petronella Dice](https://open.spotify.com/track/6pEOQbxwG0PdJQm13y8cBj)
-- [Beam by Dove Tales](https://open.spotify.com/track/4oH3QxN1Gu6nQSaXnXxhdG)
-- [Passport by flooww](https://open.spotify.com/track/586M28IA5dAPdwvMdBZ5cd)
-- [Back Home by Pascal Marcel](https://open.spotify.com/track/351rejqsz5uECQ7w1mI9dv)
+- [At the top by Mechagnome](https://open.spotify.com/track/1vtF91aXPgNZM9zNquwyOs)
+- [ghost stories by Landayn](https://open.spotify.com/track/4X6fyoXur5lOTNyvXa8VV6)
+- [Clarity by Dan Awy](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ)
+- [Sand Clock by Baan Sabai, Tropical Fairytale, Neon Zebra](https://open.spotify.com/track/6IwHwlClGKuBK7AicClQps)
+- [Grouptext by Blé Hill](https://open.spotify.com/track/3V2n4fDX9MQlx8jSH4tX4F)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
