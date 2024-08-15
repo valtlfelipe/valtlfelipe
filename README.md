@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Myst by The Pleasure Principle](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW)
-- [Informalité by Nyhuis](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK)
-- [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
-- [don&#39;t blame the daylight by aiXer](https://open.spotify.com/track/4IlJCdoYJOqg5mnSJdCI5h)
-- [Lemuria by Sylvani](https://open.spotify.com/track/06Wpiu9VDi4WevoM8UgKOJ)
+- [Get Down by Pafka](https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud)
+- [Unwritten by bonaira](https://open.spotify.com/track/3EO6dbGQzzO3nsHDGGnMjD)
+- [Nomade by Candrian](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO)
+- [For the Sunshine by Plastik Flamingos](https://open.spotify.com/track/0Sb12h28YoddF5aSvtmbgo)
+- [Campion by Valante](https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
