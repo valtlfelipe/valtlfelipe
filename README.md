@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Get Down by Pafka](https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud)
-- [Unwritten by bonaira](https://open.spotify.com/track/3EO6dbGQzzO3nsHDGGnMjD)
-- [Nomade by Candrian](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO)
-- [For the Sunshine by Plastik Flamingos](https://open.spotify.com/track/0Sb12h28YoddF5aSvtmbgo)
-- [Campion by Valante](https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi)
+- [Lacando by Pourin](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI)
+- [Morning Glory by SunZunSun](https://open.spotify.com/track/1p9F3GkrCNZDnR0hro4m8d)
+- [Airglow by Hibiscus](https://open.spotify.com/track/3leeQGS5ZOJRXrQ8I2juxI)
+- [Lemonade by Palm 3s](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp)
+- [Ocean Blue by LeeDee](https://open.spotify.com/track/2Di8gjxNomIbXi0hctCYHv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
