@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Colors Everywhere by Twin Iguana](https://open.spotify.com/track/3Ao3jqny7VKgfRuejUhjfs)
-- [platform 11 by Landayn](https://open.spotify.com/track/6H42CMBnrLd36AfjdbD9UH)
-- [Supine by P.A.V](https://open.spotify.com/track/1X8IcPJgn8FVCEuV3qVR2p)
-- [Night Visions by Thirsty Ear](https://open.spotify.com/track/3kIaZnczSu1uoCQ78P7TxD)
-- [Crisp by Pool Villa](https://open.spotify.com/track/2WmdD9R9Qx6cHQ0t5XWHLx)
+- [Tell Me by Jaake Alsonn](https://open.spotify.com/track/7pMcOQVs9n2eNor8eGylOd)
+- [Beaches by Paul Rietz](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG)
+- [The Air Sparks by The Pleasure Principle](https://open.spotify.com/track/5NHlMvZZZeujpeIHzv9D4f)
+- [Les Tropiques by Paon Bleu](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP)
+- [Souped Up by Jobii](https://open.spotify.com/track/7r3eqnO0ZHi0l9JFZyYRs8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
