@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Walking Lights by MC Baptiste](https://open.spotify.com/track/1YA6h3296OZrrdVC7Fz1in)
-- [Flawless by Beau Bailey-Lang](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04)
-- [SkyReach by Poreniacs](https://open.spotify.com/track/2ULxlHALf8NqrJDEqtX22f)
-- [hot streak by temperley](https://open.spotify.com/track/7A6Y8nJXkpL8WOiAJ7NhVt)
-- [Elevate by Molinerd](https://open.spotify.com/track/3UNkKybunQxyPE6y0PD74i)
+- [teque by shamgang](https://open.spotify.com/track/2pBHvVRaPkE8SXnKRFgxLj)
+- [Polarity by Sum Wave](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv)
+- [Shytsù by Ayaxei](https://open.spotify.com/track/3pM4JILCyD5mEVAjVzsMho)
+- [A Moment Away by Slowheal](https://open.spotify.com/track/4Je74aqRXHa2XlTQqg2obW)
+- [lemon fizz by roumr](https://open.spotify.com/track/4s28VI3QU9kRBKY5ssorlP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
