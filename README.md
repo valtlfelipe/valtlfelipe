@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Porto Cervo by Deeter K](https://open.spotify.com/track/5ttNhRQkOoNHJCdxIzdIlr)
+- [La La (I Need You) by Heyson](https://open.spotify.com/track/2ANLe3sjVcI2kphdjfVOWt)
+- [Call Me (with R3HAB &amp; Timmy Trumpet) by Gabry Ponte, R3HAB, Timmy Trumpet](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw)
 - [Lacando by Pourin](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI)
 - [Morning Glory by SunZunSun](https://open.spotify.com/track/1p9F3GkrCNZDnR0hro4m8d)
-- [Airglow by Hibiscus](https://open.spotify.com/track/3leeQGS5ZOJRXrQ8I2juxI)
-- [Lemonade by Palm 3s](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp)
-- [Ocean Blue by LeeDee](https://open.spotify.com/track/2Di8gjxNomIbXi0hctCYHv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
