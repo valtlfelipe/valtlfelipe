@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Tell Me by Jaake Alsonn](https://open.spotify.com/track/7pMcOQVs9n2eNor8eGylOd)
-- [Beaches by Paul Rietz](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG)
-- [The Air Sparks by The Pleasure Principle](https://open.spotify.com/track/5NHlMvZZZeujpeIHzv9D4f)
-- [Les Tropiques by Paon Bleu](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP)
-- [Souped Up by Jobii](https://open.spotify.com/track/7r3eqnO0ZHi0l9JFZyYRs8)
+- [Myst by The Pleasure Principle](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW)
+- [Informalité by Nyhuis](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK)
+- [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
+- [don&#39;t blame the daylight by aiXer](https://open.spotify.com/track/4IlJCdoYJOqg5mnSJdCI5h)
+- [Lemuria by Sylvani](https://open.spotify.com/track/06Wpiu9VDi4WevoM8UgKOJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
