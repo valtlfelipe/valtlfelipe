@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [teque by shamgang](https://open.spotify.com/track/2pBHvVRaPkE8SXnKRFgxLj)
-- [Polarity by Sum Wave](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv)
-- [Shytsù by Ayaxei](https://open.spotify.com/track/3pM4JILCyD5mEVAjVzsMho)
-- [A Moment Away by Slowheal](https://open.spotify.com/track/4Je74aqRXHa2XlTQqg2obW)
-- [lemon fizz by roumr](https://open.spotify.com/track/4s28VI3QU9kRBKY5ssorlP)
+- [Night Visions by Thirsty Ear](https://open.spotify.com/track/3kIaZnczSu1uoCQ78P7TxD)
+- [Crisp by Pool Villa](https://open.spotify.com/track/2WmdD9R9Qx6cHQ0t5XWHLx)
+- [lazy days by Mandoja](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz)
+- [Night Time Bliss by Phello](https://open.spotify.com/track/3sZZDhEVYJ8tyTiYEGCcg6)
+- [Déjà Vu by Leon Cox](https://open.spotify.com/track/1AtLbKIo0bXmd4TIDcFUEj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
