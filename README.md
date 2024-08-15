@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Lost Sea by Sofachi](https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D)
 - [Balearic Dream by Gueves](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8)
 - [Sexy in the Morning by Reel Waves](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE)
 - [Raining Again by Me Gic](https://open.spotify.com/track/3II3luScpKF4w9kVTST3Z2)
 - [1927 Swim Club by People Safari](https://open.spotify.com/track/4G8vy74V2geCTu8YqKL8jq)
-- [Barcelona by Salavant](https://open.spotify.com/track/6wzwzB0s3Hzf17QuPemhHR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
