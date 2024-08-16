@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Rissa by Valante](https://open.spotify.com/track/3UxADbf7B5ZCuJxSxdbf5O)
-- [Voltage by Lndonfox](https://open.spotify.com/track/0Bl88TTe40kWhtfOq9XJq1)
-- [Hydralove by Jade Shade](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6)
-- [Lost Traces by Phello](https://open.spotify.com/track/3hIIu3IWfzTx36Q67XKOTz)
-- [Unwind by Sobbel Sosch](https://open.spotify.com/track/5OUkIjHE8ZDYHYOlFmFbgH)
+- [Smells Like Teen Spirit by PRSM](https://open.spotify.com/track/5VxQG32ZyCqVxGpLzAZSMh)
+- [Ocean by AVALAN ROKSTON, Avalan, Rokston](https://open.spotify.com/track/181khkaDyS58392DW47P1t)
+- [HEAT WAVES by CALVIN](https://open.spotify.com/track/2Lk83afqoxT0zYPHcDuYoF)
+- [Talk To Me by Vowed](https://open.spotify.com/track/7HLEFcKOdSoRIRThc61Sza)
+- [L&#39;Amour Toujours by Celestial Pulse](https://open.spotify.com/track/24OiAKDC4N8Nai8RrUHOoH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
