@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (4 days ago)
 
 #### 🎧 What I have been listening
-- [Back To You by MANSA](https://open.spotify.com/track/7Gap9EXrxaGS5tyCLRHoQW)
-- [Smells Like Teen Spirit by PRSM](https://open.spotify.com/track/5VxQG32ZyCqVxGpLzAZSMh)
-- [Ocean by AVALAN ROKSTON, Avalan, Rokston](https://open.spotify.com/track/181khkaDyS58392DW47P1t)
-- [HEAT WAVES by CALVIN](https://open.spotify.com/track/2Lk83afqoxT0zYPHcDuYoF)
-- [Talk To Me by Vowed](https://open.spotify.com/track/7HLEFcKOdSoRIRThc61Sza)
+- [SERENA by RUBACK, Amesens](https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj)
+- [Fevereiro by Ney Faustini](https://open.spotify.com/track/3jnAZUkY1h12kGwzHZxaTE)
+- [Upside Down by Robin Schulz, Joel Corry, KOPPY](https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s)
+- [Be Alright by Cat Dealers, HRRTZ](https://open.spotify.com/track/6HB7GMa8Wj1rxjtxjm3dJe)
+- [What You Want by Flux Zone, Gustavo Koch, A.IFF](https://open.spotify.com/track/5aoy0Xf1ojp3NAaRImuEz8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
