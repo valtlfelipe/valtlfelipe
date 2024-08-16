@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[medusajs/medusa-eats](https://github.com/medusajs/medusa-eats)** - An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Smells Like Teen Spirit by PRSM](https://open.spotify.com/track/5VxQG32ZyCqVxGpLzAZSMh)
-- [Ocean by AVALAN ROKSTON, Avalan, Rokston](https://open.spotify.com/track/181khkaDyS58392DW47P1t)
-- [HEAT WAVES by CALVIN](https://open.spotify.com/track/2Lk83afqoxT0zYPHcDuYoF)
-- [Talk To Me by Vowed](https://open.spotify.com/track/7HLEFcKOdSoRIRThc61Sza)
-- [L&#39;Amour Toujours by Celestial Pulse](https://open.spotify.com/track/24OiAKDC4N8Nai8RrUHOoH)
+- [Don’t Be So Shy by Dj Diac, ReMan, Nomeli](https://open.spotify.com/track/0hWJ5ixKLCyTYPhVoKf0Qa)
+- [Better Than Me by Dawilk, phil&#39;s ok.](https://open.spotify.com/track/221YfSBqhocIartpTjwhx0)
+- [Let You Go by Bluir, Alex James, Rory Hope](https://open.spotify.com/track/011iPe7nJFbrawEcYyHFIC)
+- [Mas Que Nada by DE SOFFER, Yann Muller](https://open.spotify.com/track/7f7H96rjS2G7ZPeaGYzWz7)
+- [Catch &amp; Release by Foínix, Rolipso, Raphael DeLove](https://open.spotify.com/track/05beircaGKyJNK0YMgjFdn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
