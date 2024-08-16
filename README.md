@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (4 days ago)
 
 #### 🎧 What I have been listening
-- [Let You Go by Bluir, Alex James, Rory Hope](https://open.spotify.com/track/011iPe7nJFbrawEcYyHFIC)
-- [Mas Que Nada by DE SOFFER, Yann Muller](https://open.spotify.com/track/7f7H96rjS2G7ZPeaGYzWz7)
-- [Catch &amp; Release by Foínix, Rolipso, Raphael DeLove](https://open.spotify.com/track/05beircaGKyJNK0YMgjFdn)
-- [Paradise - AL3 Remix by Thierry Von Der Warth, Modi, AL3](https://open.spotify.com/track/5UIGpGafd6gMvTHCWI9VGj)
-- [Crazy by Emrah Turken](https://open.spotify.com/track/50aTvLjSIY9557R53e9WHC)
+- [Back To You by MANSA](https://open.spotify.com/track/7Gap9EXrxaGS5tyCLRHoQW)
+- [Smells Like Teen Spirit by PRSM](https://open.spotify.com/track/5VxQG32ZyCqVxGpLzAZSMh)
+- [Ocean by AVALAN ROKSTON, Avalan, Rokston](https://open.spotify.com/track/181khkaDyS58392DW47P1t)
+- [HEAT WAVES by CALVIN](https://open.spotify.com/track/2Lk83afqoxT0zYPHcDuYoF)
+- [Talk To Me by Vowed](https://open.spotify.com/track/7HLEFcKOdSoRIRThc61Sza)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
