@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (5 days ago)
 
 #### 🎧 What I have been listening
+- [I Don&#39;t Feel Like Dancin&#39; by Scissor Sisters](https://open.spotify.com/track/13pyGLYmBjYgvOMIEivX2K)
+- [Lady - Hear Me Tonight by Modjo](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6)
+- [White Flag by Dido](https://open.spotify.com/track/5ht9FVBi07F48ZAfIf7WdC)
 - [Apologize by Timbaland, OneRepublic](https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl)
 - [Sparks by Hilary Duff](https://open.spotify.com/track/1Uon2YOOphIt6uuI9zBuNg)
-- [Why Not by Hilary Duff](https://open.spotify.com/track/1jypmXUJgxWKWJZdDsJiXQ)
-- [SERENA by RUBACK, Amesens](https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj)
-- [Fevereiro by Ney Faustini](https://open.spotify.com/track/3jnAZUkY1h12kGwzHZxaTE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
