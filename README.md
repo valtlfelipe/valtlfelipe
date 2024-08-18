@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (6 days ago)
 
 #### 🎧 What I have been listening
-- [One More Time - Radio Edit [Short Radio Edit] by Daft Punk](https://open.spotify.com/track/0ijhkvBpA7OBlY4clWSUZw)
-- [Cooler Than Me - Single Mix by Mike Posner, Gigamesh](https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj)
-- [Meet Me Halfway by Black Eyed Peas](https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg)
-- [Since U Been Gone by Kelly Clarkson](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd)
-- [Hey, Soul Sister by Train](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv)
+- [Bleeding Love by Leona Lewis](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE)
+- [Raise Your Glass by P!nk](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR)
+- [Numb / Encore by JAY-Z, Linkin Park](https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW)
+- [Be With You by Enrique Iglesias](https://open.spotify.com/track/2N4viTG9njqCa4c46YyWs1)
+- [Temperature by Sean Paul](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
