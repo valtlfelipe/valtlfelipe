@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (6 days ago)
 
 #### 🎧 What I have been listening
+- [Just Give Me a Reason (feat. Nate Ruess) by P!nk, Nate Ruess](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e)
+- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
+- [Easy On Me by Adele](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
 - [Turn Me On by Kevin Lyttle](https://open.spotify.com/track/0BBOLOV5JntPL3341swIre)
-- [Intro by The xx](https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j)
-- [I Don&#39;t Feel Like Dancin&#39; by Scissor Sisters](https://open.spotify.com/track/13pyGLYmBjYgvOMIEivX2K)
-- [Lady - Hear Me Tonight by Modjo](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6)
-- [White Flag by Dido](https://open.spotify.com/track/5ht9FVBi07F48ZAfIf7WdC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
