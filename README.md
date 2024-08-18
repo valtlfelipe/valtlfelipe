@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (6 days ago)
 
 #### 🎧 What I have been listening
+- [Sweet About Me by Gabriella Cilmi](https://open.spotify.com/track/3Ws8j16fKE1jj74XksiyV6)
+- [Hot N Cold by Katy Perry](https://open.spotify.com/track/1TEjSXPdAakDotj2Wji3PU)
+- [Pjanoo - Radio Edit by Eric Prydz](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb)
 - [Clocks by Coldplay](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns)
 - [Murder On The Dancefloor by Sophie Ellis-Bextor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)
-- [Break Your Heart by Taio Cruz](https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W)
-- [Just Dance by Lady Gaga, Colby O&#39;Donis](https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J)
-- [Get the Party Started by P!nk](https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
