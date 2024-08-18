@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (6 days ago)
 
 #### 🎧 What I have been listening
-- [Bleeding Love by Leona Lewis](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE)
-- [Raise Your Glass by P!nk](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR)
-- [Numb / Encore by JAY-Z, Linkin Park](https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW)
-- [Be With You by Enrique Iglesias](https://open.spotify.com/track/2N4viTG9njqCa4c46YyWs1)
-- [Temperature by Sean Paul](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT)
+- [Clocks by Coldplay](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns)
+- [Murder On The Dancefloor by Sophie Ellis-Bextor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)
+- [Break Your Heart by Taio Cruz](https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W)
+- [Just Dance by Lady Gaga, Colby O&#39;Donis](https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J)
+- [Get the Party Started by P!nk](https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
