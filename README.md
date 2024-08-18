@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (6 days ago)
 
 #### 🎧 What I have been listening
-- [I Kissed A Girl by Katy Perry](https://open.spotify.com/track/1pXrR5Y9OgcIV2JEAl2lCB)
-- [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP)
-- [Love Story by Taylor Swift](https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb)
-- [Where Is The Love? by Black Eyed Peas](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ)
-- [Jenny from the Block (feat. Jadakiss &amp; Styles P.) - Track Masters Remix by Jennifer Lopez, Jadakiss, Styles P](https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ)
+- [One More Time - Radio Edit [Short Radio Edit] by Daft Punk](https://open.spotify.com/track/0ijhkvBpA7OBlY4clWSUZw)
+- [Cooler Than Me - Single Mix by Mike Posner, Gigamesh](https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj)
+- [Meet Me Halfway by Black Eyed Peas](https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg)
+- [Since U Been Gone by Kelly Clarkson](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd)
+- [Hey, Soul Sister by Train](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
