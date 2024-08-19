@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (1 week ago)
 
 #### 🎧 What I have been listening
-- [Bloom by Cheat Codes, Train](https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI)
-- [Genius by Ravyn Lenae](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync)
-- [BIRDS OF A FEATHER by Billie Eilish](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB)
-- [After Hours by Kehlani](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF)
-- [Feather by Sabrina Carpenter](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID)
+- [Nice to Meet You by Imagine Dragons](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7)
+- [TEXAS HOLD &#39;EM by Beyoncé](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5)
+- [Yes I&#39;m A Mess by AJR](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT)
+- [Back On 74 by Jungle](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO)
+- [NO BAD DAYS (feat. Collett) by Macklemore, Collett](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
