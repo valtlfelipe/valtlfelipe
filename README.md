@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (1 week ago)
 
 #### 🎧 What I have been listening
+- [Save Me - Bonus Track by Youngr](https://open.spotify.com/track/4eRYvaIDwQIurUKni4Vyvw)
 - [Breathe by Jelen, ROØZ](https://open.spotify.com/track/3SyF5yR2BBezqzotbS1YRY)
 - [Pieces by Nippandab, Swotex](https://open.spotify.com/track/7rMBNRvWQ0a2jFfONKHlyb)
 - [Clocks by Elary](https://open.spotify.com/track/3YFwViN1ZeMzHaSJrJVPfR)
 - [A Little Love by Hub3rt](https://open.spotify.com/track/5csLpIwwD4aqsVIYwu20nN)
-- [Feeling You by Flew, Summer Vibes](https://open.spotify.com/track/1ra3KyFnZQ4C4L9eD2IAxD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
