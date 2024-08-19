@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (1 week ago)
 
 #### 🎧 What I have been listening
-- [Better Days by Oliver Cricket](https://open.spotify.com/track/5f9t61TRxZ3ancJadJyrHm)
-- [Summer Nights by Adam Juhl](https://open.spotify.com/track/1Hx27hvnrymPHonWnQhrSd)
-- [Save Me - Bonus Track by Youngr](https://open.spotify.com/track/4eRYvaIDwQIurUKni4Vyvw)
-- [Breathe by Jelen, ROØZ](https://open.spotify.com/track/3SyF5yR2BBezqzotbS1YRY)
-- [Pieces by Nippandab, Swotex](https://open.spotify.com/track/7rMBNRvWQ0a2jFfONKHlyb)
+- [Bloom by Cheat Codes, Train](https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI)
+- [Genius by Ravyn Lenae](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync)
+- [BIRDS OF A FEATHER by Billie Eilish](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB)
+- [After Hours by Kehlani](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF)
+- [Feather by Sabrina Carpenter](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
