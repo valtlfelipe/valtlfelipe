@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (1 week ago)
 
 #### 🎧 What I have been listening
-- [Riptide by Gorgon Breath](https://open.spotify.com/track/2zz2mAJ8GMz7xazWurs0AD)
-- [Someone You Loved by Lex, Kelo](https://open.spotify.com/track/4aGZwlIIK30aYXVPTHcWX4)
-- [Missing You by Samuel Miller, LO, blue my mind](https://open.spotify.com/track/1cuY5SEtPfxGJzqJrxYtQG)
-- [Have You Got A Light by Michael Christian](https://open.spotify.com/track/6VQx2o2DKwOPF4NlkgVe7N)
-- [Another Day in Paradise by NLSN, Sønlille](https://open.spotify.com/track/2LG7EfDqKYiGTixIPGZNi0)
+- [Supernova by Mandarin Plaza](https://open.spotify.com/track/2La7WbDcWqU1tIJDOe6UHq)
+- [love me just a little by Rammor](https://open.spotify.com/track/2FrCEUEKIFybNT88Z8I7tE)
+- [Barcelona by Olly Wall, James Stefano](https://open.spotify.com/track/438rCCvweJ8y1CW7ZPLHwP)
+- [The Best Part - Lost Prince Remix by gardenstate, Bien, Lost Prince](https://open.spotify.com/track/6Jzmhn3m6ukvfNAgYVKLqj)
+- [Say It Right (Remix) by Newmode](https://open.spotify.com/track/3TIZpLwt4njg5tGn4Ty0aC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
