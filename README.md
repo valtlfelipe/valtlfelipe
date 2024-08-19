@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sweet About Me by Gabriella Cilmi](https://open.spotify.com/track/3Ws8j16fKE1jj74XksiyV6)
-- [Hot N Cold by Katy Perry](https://open.spotify.com/track/1TEjSXPdAakDotj2Wji3PU)
-- [Pjanoo - Radio Edit by Eric Prydz](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb)
-- [Clocks by Coldplay](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns)
-- [Murder On The Dancefloor by Sophie Ellis-Bextor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)
+- [Supernova by Mandarin Plaza](https://open.spotify.com/track/2La7WbDcWqU1tIJDOe6UHq)
+- [love me just a little by Rammor](https://open.spotify.com/track/2FrCEUEKIFybNT88Z8I7tE)
+- [Barcelona by Olly Wall, James Stefano](https://open.spotify.com/track/438rCCvweJ8y1CW7ZPLHwP)
+- [The Best Part - Lost Prince Remix by gardenstate, Bien, Lost Prince](https://open.spotify.com/track/6Jzmhn3m6ukvfNAgYVKLqj)
+- [Say It Right (Remix) by Newmode](https://open.spotify.com/track/3TIZpLwt4njg5tGn4Ty0aC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
