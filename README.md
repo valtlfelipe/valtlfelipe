@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** - OneUptime is the complete open-source observability platform. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Summertime Sadness by A17N, NAAC](https://open.spotify.com/track/13N5QeYhchuiUmchfwjs8m)
-- [Sunflower by SUGAR RUSH](https://open.spotify.com/track/2jtBf3Um2Cy6ivE7CFZGSV)
-- [Lovers &amp; Strangers by Donner, LO, John Skyfield](https://open.spotify.com/track/1bYn29RWxu96pDQsMD2ZVK)
-- [She&#39;s Mine by Chullo](https://open.spotify.com/track/4u4YXAgjaqOvdqdW8hfw7Q)
-- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
+- [A New Day by Bellestar, Urban Love, Tom Polo](https://open.spotify.com/track/2K8lk9eDCxC9qKsiTrxTyz)
+- [Sunshine by Lavern](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH)
+- [4 AM by Sam Giancana, Michel Dj, Ikarus](https://open.spotify.com/track/6DRnUoSX3R21JtPED1mAN0)
+- [Tomorrow by James Carter](https://open.spotify.com/track/15zmzawx6s7TYKHAFGYdSB)
+- [Love You More by Charleon](https://open.spotify.com/track/5SJoEebmL9S4N6bYjhXb6g)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
