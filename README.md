@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** - OneUptime is the complete open-source observability platform. (1 week ago)
 
 #### 🎧 What I have been listening
-- [When The Sound Goes Down by Wavey](https://open.spotify.com/track/2bOa2hr7SieZI17ZROpUSG)
-- [Set You Free by Donner](https://open.spotify.com/track/3Sb5crvVirZex85SdBw5lM)
-- [Love or Hate Me by Charleon](https://open.spotify.com/track/42L9HW0VI1jnajyTg2OwIT)
-- [What It Feels Like by Jason Wats, Lotus, Jan Liva](https://open.spotify.com/track/03UZAQWU9OJOVardmmGfFA)
-- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
+- [Boundless by P.A.V](https://open.spotify.com/track/2QEE2KidgX8ifV91ToAj3e)
+- [Shores Of Hope by Wavey](https://open.spotify.com/track/0xtwOkSStS7NnjmjA5EJ5j)
+- [Sunset by Ardo, Jake Alva](https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD)
+- [Summer Time by Alena Kita](https://open.spotify.com/track/3WlV6wcNjP4SQEXHf30wHF)
+- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
