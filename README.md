@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** - OneUptime is the complete open-source observability platform. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Boundless by P.A.V](https://open.spotify.com/track/2QEE2KidgX8ifV91ToAj3e)
-- [Shores Of Hope by Wavey](https://open.spotify.com/track/0xtwOkSStS7NnjmjA5EJ5j)
-- [Sunset by Ardo, Jake Alva](https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD)
-- [Summer Time by Alena Kita](https://open.spotify.com/track/3WlV6wcNjP4SQEXHf30wHF)
-- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
+- [Just Let Go by Avi Snow, BIMINI, Yvvan Back](https://open.spotify.com/track/2vrpdYpLEhRoJJWxcwQKm1)
+- [Nobody by P.A.V](https://open.spotify.com/track/5RPFcT0AUII13XEHjUAWpN)
+- [Goodbyes by LO, Aimi](https://open.spotify.com/track/0XtewkmIK0zdrYNAeOznuV)
+- [Take It Slow by Wavey](https://open.spotify.com/track/6Q5WbgNt923NkIr8Oxc2Oh)
+- [sick før yøu by birø](https://open.spotify.com/track/0DvQ7omIO7Ep8DtoOtNEhZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
