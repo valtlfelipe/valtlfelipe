@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (1 week ago)
 
 #### 🎧 What I have been listening
+- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
+- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
+- [Sinking Deeper by Rico 56, Sickrate](https://open.spotify.com/track/1jq1J3JYkaYCvJl9voa2tT)
+- [Little Bit of Love by Tom Grennan](https://open.spotify.com/track/78q4ESvMkPVJzHAV11LAGE)
 - [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
-- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
-- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
-- [Nice to Meet You by Imagine Dragons](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7)
-- [TEXAS HOLD &#39;EM by Beyoncé](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
