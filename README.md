@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** - OneUptime is the complete open-source observability platform. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Emotions by Wavey](https://open.spotify.com/track/133p982FVzmekKs0bylB3d)
-- [What I Need by Avi Snow, LVAN, Sif Saga](https://open.spotify.com/track/0rTpvwpRT7D2ddwjiptU2K)
-- [Keep Me Waiting by MusicbyAden](https://open.spotify.com/track/2nWxdue29M5RjfVOYWeUe2)
-- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
-- [Her Name by Charleon](https://open.spotify.com/track/3Wq4ZGJBlUt0Ntyw6orTOY)
+- [When The Sound Goes Down by Wavey](https://open.spotify.com/track/2bOa2hr7SieZI17ZROpUSG)
+- [Set You Free by Donner](https://open.spotify.com/track/3Sb5crvVirZex85SdBw5lM)
+- [Love or Hate Me by Charleon](https://open.spotify.com/track/42L9HW0VI1jnajyTg2OwIT)
+- [What It Feels Like by Jason Wats, Lotus, Jan Liva](https://open.spotify.com/track/03UZAQWU9OJOVardmmGfFA)
+- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
