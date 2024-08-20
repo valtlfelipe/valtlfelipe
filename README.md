@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** - OneUptime is the complete open-source observability platform. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Follow the Sun - Sunset Remix by LYOD](https://open.spotify.com/track/4QZJabkkdzFL1qqIsnBmGP)
-- [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
-- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
-- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
-- [Walking On A Dream by Foínix, Yann Muller, Jordan Grace, Rolipso](https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo)
+- [Summertime Sadness by A17N, NAAC](https://open.spotify.com/track/13N5QeYhchuiUmchfwjs8m)
+- [Sunflower by SUGAR RUSH](https://open.spotify.com/track/2jtBf3Um2Cy6ivE7CFZGSV)
+- [Lovers &amp; Strangers by Donner, LO, John Skyfield](https://open.spotify.com/track/1bYn29RWxu96pDQsMD2ZVK)
+- [She&#39;s Mine by Chullo](https://open.spotify.com/track/4u4YXAgjaqOvdqdW8hfw7Q)
+- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
