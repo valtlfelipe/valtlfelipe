@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** - OneUptime is the complete open-source observability platform. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Days by Wavey](https://open.spotify.com/track/75bs8NqKNSdYV0Ddngg3bo)
-- [Old Friends by Agezzi, Nick Palm, Nalestar](https://open.spotify.com/track/4iJGQ9cTFCPRUbd79ZwcvK)
-- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
-- [Orbit by Keanler](https://open.spotify.com/track/5hVoyBOyiIGfjdcdXMvYUA)
-- [Lost by P.A.V](https://open.spotify.com/track/6LEKH1SVLSEodlxitgKDdU)
+- [Emotions by Wavey](https://open.spotify.com/track/133p982FVzmekKs0bylB3d)
+- [What I Need by Avi Snow, LVAN, Sif Saga](https://open.spotify.com/track/0rTpvwpRT7D2ddwjiptU2K)
+- [Keep Me Waiting by MusicbyAden](https://open.spotify.com/track/2nWxdue29M5RjfVOYWeUe2)
+- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
+- [Her Name by Charleon](https://open.spotify.com/track/3Wq4ZGJBlUt0Ntyw6orTOY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
