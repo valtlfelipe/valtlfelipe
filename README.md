@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** - OneUptime is the complete open-source observability platform. (1 week ago)
 
 #### 🎧 What I have been listening
-- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
-- [Together by Wavey](https://open.spotify.com/track/0xkNG1uHNJZmFeGIhZN55N)
-- [High by Bapti, Joel Coopa](https://open.spotify.com/track/26R0JBH2fV4GLcraALwxGo)
-- [House of the Rising Sun by Charleon](https://open.spotify.com/track/6Al2Xyswuo8Zu1WDcahI7m)
-- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
+- [Walk Away by P.A.V](https://open.spotify.com/track/4nzZYDgs2sOA2DLDpyO1Ui)
+- [you by julien, Saintro P Sax Up, cloudseven](https://open.spotify.com/track/7BnRXdSpJ1Nn8bTrOIXrjT)
+- [Make You Mine by Wavey](https://open.spotify.com/track/4D2OiZB41uIbNCgNpDOLFD)
+- [Infected by mISHØ, ZreniX, George Cooksey](https://open.spotify.com/track/1l6SKrWQeVW8SviACxPuEs)
+- [Ring Ring Ring by Charleon](https://open.spotify.com/track/68IZLpoAcG9Tp6RzLaK3VR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
