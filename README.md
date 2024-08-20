@@ -3,10 +3,10 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[StackStorm/st2](https://github.com/StackStorm/st2)** - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (3 days ago)
-- **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** - Drag &amp; drop UI to build your customized LLM flow (3 days ago)
-- **[haraka/Haraka](https://github.com/haraka/Haraka)** - A fast, highly extensible, and event driven SMTP server (5 days ago)
-- **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** - OneUptime is the complete open-source observability platform. (6 days ago)
+- **[StackStorm/st2](https://github.com/StackStorm/st2)** - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (4 days ago)
+- **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** - Drag &amp; drop UI to build your customized LLM flow (4 days ago)
+- **[haraka/Haraka](https://github.com/haraka/Haraka)** - A fast, highly extensible, and event driven SMTP server (6 days ago)
+- **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** - OneUptime is the complete open-source observability platform. (1 week ago)
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com (1 week ago)
 
 #### 🎧 What I have been listening
