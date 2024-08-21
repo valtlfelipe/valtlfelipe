@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)** - OneUptime is the complete open-source observability platform. (1 week ago)
 
 #### 🎧 What I have been listening
-- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
-- [Make It Better by Wavey](https://open.spotify.com/track/5lvShlx9SF4g8WjCU2mFtc)
-- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
-- [Overdrive (feat. Norma Jean Martine) by Ofenbach, Norma Jean Martine](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ)
-- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
+- [Love or Hate Me by Charleon](https://open.spotify.com/track/42L9HW0VI1jnajyTg2OwIT)
+- [I Just Need (with Lyrah) by Daniel Allan, Lyrah](https://open.spotify.com/track/3cXX26hB3R4lHbZC2LFBao)
+- [Heaven or Not by Diplo, Riva Starr, Kareen Lomax](https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF)
+- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
+- [Stay High - Zerb Remix by Diplo, HUGEL, Zerb, Julia Church](https://open.spotify.com/track/3fripGC0ptg0cUE2qkjfRF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
