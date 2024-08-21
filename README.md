@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[haraka/Haraka](https://github.com/haraka/Haraka)** - A fast, highly extensible, and event driven SMTP server (1 week ago)
 
 #### 🎧 What I have been listening
-- [Château by Vanilla Sky](https://open.spotify.com/track/3ixJec69I8pXDbjui1zHTP)
-- [Sunshine by Wavey](https://open.spotify.com/track/1fmnYSVYtGMc5IioeWKgYu)
-- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
-- [I Want You by Lust.](https://open.spotify.com/track/1XHQLzy4awKP4sgLK1H3zI)
-- [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
+- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
+- [To the Moon and Back by Akrol](https://open.spotify.com/track/28Hp6RaEp1Zi6vrZH6iyFR)
+- [All I Care by ROOSTERJAXX](https://open.spotify.com/track/4HyZnGKV3SKCJtEOnnigng)
+- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
+- [Happiness by Naestor, theajsound](https://open.spotify.com/track/71f9IVRqi8AWiZOeVhgO3p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
