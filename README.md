@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[haraka/Haraka](https://github.com/haraka/Haraka)** - A fast, highly extensible, and event driven SMTP server (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wake up with You by Chilled Virus, Csame](https://open.spotify.com/track/6dD5Q9762yAnjEvQDjrppT)
-- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
-- [Reverie by Ruffnux](https://open.spotify.com/track/07cKGKuzEVspIrAvhchPWd)
-- [Sunset by Chullo](https://open.spotify.com/track/3lq8LmjUXIUILkLkKnA7Hx)
-- [Human by Vanilla Sky](https://open.spotify.com/track/4Az8f3Rj5HY2INWV3ysoXz)
+- [She Said (Big Jet Plane) by Trinix, Queen D](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE)
+- [Focus on You by GRHHH, HUNN, BOOTY LEAK](https://open.spotify.com/track/3KU2ynBLEp3QuGZJz6nCA2)
+- [Losing My Mind by Drippy](https://open.spotify.com/track/55FDzRRQTbt9v97rqAPvBE)
+- [Famous by Avi Snow, LVAN, Sif Saga](https://open.spotify.com/track/31bJJtgQqTlytWL0vQJwhP)
+- [All I Want Is You by Lavern, NEIMY](https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
