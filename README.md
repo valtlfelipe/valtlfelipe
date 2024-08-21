@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[haraka/Haraka](https://github.com/haraka/Haraka)** - A fast, highly extensible, and event driven SMTP server (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
-- [To the Moon and Back by Akrol](https://open.spotify.com/track/28Hp6RaEp1Zi6vrZH6iyFR)
-- [All I Care by ROOSTERJAXX](https://open.spotify.com/track/4HyZnGKV3SKCJtEOnnigng)
-- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
-- [Happiness by Naestor, theajsound](https://open.spotify.com/track/71f9IVRqi8AWiZOeVhgO3p)
+- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
+- [Come Along by BOV, ALCW](https://open.spotify.com/track/6Bcg4SvjoCJNRfLeoYlxvH)
+- [Newborn by Chullo](https://open.spotify.com/track/04hmXwewK60i2TYy9wJAej)
+- [Drifting by LO](https://open.spotify.com/track/5oa7uhpUq50IkuvQGM9Mks)
+- [It&#39;s Fine by Lowkey](https://open.spotify.com/track/4eqaX64vFBrKaK1lKsoNpR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
