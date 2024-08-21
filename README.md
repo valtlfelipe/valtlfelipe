@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[haraka/Haraka](https://github.com/haraka/Haraka)** - A fast, highly extensible, and event driven SMTP server (1 week ago)
 
 #### 🎧 What I have been listening
-- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
-- [Come Along by BOV, ALCW](https://open.spotify.com/track/6Bcg4SvjoCJNRfLeoYlxvH)
-- [Newborn by Chullo](https://open.spotify.com/track/04hmXwewK60i2TYy9wJAej)
-- [Drifting by LO](https://open.spotify.com/track/5oa7uhpUq50IkuvQGM9Mks)
-- [It&#39;s Fine by Lowkey](https://open.spotify.com/track/4eqaX64vFBrKaK1lKsoNpR)
+- [Wake up with You by Chilled Virus, Csame](https://open.spotify.com/track/6dD5Q9762yAnjEvQDjrppT)
+- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
+- [Reverie by Ruffnux](https://open.spotify.com/track/07cKGKuzEVspIrAvhchPWd)
+- [Sunset by Chullo](https://open.spotify.com/track/3lq8LmjUXIUILkLkKnA7Hx)
+- [Human by Vanilla Sky](https://open.spotify.com/track/4Az8f3Rj5HY2INWV3ysoXz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
