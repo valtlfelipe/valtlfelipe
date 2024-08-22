@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[Permify/permify](https://github.com/Permify/permify)** - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (today)
-- **[Barbapapazes/gavarnie](https://github.com/Barbapapazes/gavarnie)** - SaaS - Pre-configured and ready-to-use features to help you start your full-stack NuxtHub project faster. (today)
-- **[devtron-labs/devtron](https://github.com/devtron-labs/devtron)** - Tool integration platform for Kubernetes (today)
-- **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (1 day ago)
-- **[StackStorm/st2](https://github.com/StackStorm/st2)** - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (5 days ago)
+- **[Permify/permify](https://github.com/Permify/permify)** - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (1 day ago)
+- **[Barbapapazes/gavarnie](https://github.com/Barbapapazes/gavarnie)** - SaaS - Pre-configured and ready-to-use features to help you start your full-stack NuxtHub project faster. (1 day ago)
+- **[devtron-labs/devtron](https://github.com/devtron-labs/devtron)** - Tool integration platform for Kubernetes (1 day ago)
+- **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (2 days ago)
+- **[StackStorm/st2](https://github.com/StackStorm/st2)** - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (6 days ago)
 
 #### 🎧 What I have been listening
 - [Got Me Like by Lavern](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP)
