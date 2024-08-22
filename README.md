@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[StackStorm/st2](https://github.com/StackStorm/st2)** - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (6 days ago)
 
 #### 🎧 What I have been listening
-- [Yelp Of Joy by bombergirl](https://open.spotify.com/track/6Seljh4IAei5RBKEIDhZ1w)
-- [Positano by Ran the Man](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw)
-- [Telemagenta by Mystic Maroon](https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ)
-- [Late Night Rewind by Reglisse](https://open.spotify.com/track/65ynCVpc1h5xE9JZ9URl2Y)
-- [Cheers Mate by Dia Louge](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb)
+- [Oh Baby... by DJ Madrigal](https://open.spotify.com/track/6vB1aSBFevopVN93x8AKsX)
+- [Right Days by Soft Sea](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp)
+- [Radiance by Delphine Dekker](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj)
+- [Mellow Trouble by Sin.Clare](https://open.spotify.com/track/4MVCzATZ6mpXsZ1sLz7QYn)
+- [Horizon Island by Zulu Wow](https://open.spotify.com/track/3CM4BJe9jzdNLXXt9Ob3su)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
