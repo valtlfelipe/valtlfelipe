@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[StackStorm/st2](https://github.com/StackStorm/st2)** - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (6 days ago)
 
 #### 🎧 What I have been listening
+- [Yelp Of Joy by bombergirl](https://open.spotify.com/track/6Seljh4IAei5RBKEIDhZ1w)
+- [Positano by Ran the Man](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw)
 - [Telemagenta by Mystic Maroon](https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ)
 - [Late Night Rewind by Reglisse](https://open.spotify.com/track/65ynCVpc1h5xE9JZ9URl2Y)
 - [Cheers Mate by Dia Louge](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb)
-- [Saints by Asha Lin](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X)
-- [Reserved For Two by Evan St. Claire](https://open.spotify.com/track/6LS1Tx9asjgb4VG2xiGq4E)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
