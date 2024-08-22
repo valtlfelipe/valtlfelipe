@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[StackStorm/st2](https://github.com/StackStorm/st2)** - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (6 days ago)
 
 #### 🎧 What I have been listening
+- [Sparks by MEDUZA, DEL-30, Mali-Koa](https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq)
+- [Sparks by MEDUZA, DEL-30, Mali-Koa](https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq)
 - [Mahalia by Giants&#39; Nest](https://open.spotify.com/track/1ZXylApbxdxYJ4fXVtccyO)
 - [City Highs by Soft Sea](https://open.spotify.com/track/7Fask2JUtxg4jhCDuTF3tj)
 - [Mediterranea by Thirsty Ear](https://open.spotify.com/track/6WyxIRWwje9OjziaplhUVJ)
-- [101 by Jack&#39;s Mistress Frida](https://open.spotify.com/track/3lOOJBOJsE9kJ4oTnBRx43)
-- [Amnesia by Tendoi](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
