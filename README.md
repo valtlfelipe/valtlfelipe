@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[StackStorm/st2](https://github.com/StackStorm/st2)** - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (6 days ago)
 
 #### 🎧 What I have been listening
-- [Got Me Like by Lavern](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP)
-- [sømeøne else by birø, Petropaul](https://open.spotify.com/track/1zVm1hrbhskdc6JSI33wvh)
-- [She Said (Big Jet Plane) by Trinix, Queen D](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE)
-- [Focus on You by GRHHH, HUNN, BOOTY LEAK](https://open.spotify.com/track/3KU2ynBLEp3QuGZJz6nCA2)
-- [Losing My Mind by Drippy](https://open.spotify.com/track/55FDzRRQTbt9v97rqAPvBE)
+- [Telemagenta by Mystic Maroon](https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ)
+- [Late Night Rewind by Reglisse](https://open.spotify.com/track/65ynCVpc1h5xE9JZ9URl2Y)
+- [Cheers Mate by Dia Louge](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb)
+- [Saints by Asha Lin](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X)
+- [Reserved For Two by Evan St. Claire](https://open.spotify.com/track/6LS1Tx9asjgb4VG2xiGq4E)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
