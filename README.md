@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[StackStorm/st2](https://github.com/StackStorm/st2)** - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (6 days ago)
 
 #### 🎧 What I have been listening
-- [Oh Baby... by DJ Madrigal](https://open.spotify.com/track/6vB1aSBFevopVN93x8AKsX)
-- [Right Days by Soft Sea](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp)
-- [Radiance by Delphine Dekker](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj)
-- [Mellow Trouble by Sin.Clare](https://open.spotify.com/track/4MVCzATZ6mpXsZ1sLz7QYn)
-- [Horizon Island by Zulu Wow](https://open.spotify.com/track/3CM4BJe9jzdNLXXt9Ob3su)
+- [Empty Room by 9Fivey](https://open.spotify.com/track/7i4Tu1sMCYeRhUAYa5jwCR)
+- [Rain Moves Aside by SGT DUST](https://open.spotify.com/track/2qpyDvBNKE9uSaWL0H8cuM)
+- [tagada by Gabri From France](https://open.spotify.com/track/0dZF0uYtRqO8jiomWHPaaI)
+- [Orion by Milky Road](https://open.spotify.com/track/6UcE4k2auErKMMCutuTJoC)
+- [Les Tropiques by Paon Bleu](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
