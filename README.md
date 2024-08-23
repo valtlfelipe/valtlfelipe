@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (3 days ago)
 
 #### 🎧 What I have been listening
-- [Arcade by Duncan Laurence](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD)
-- [Sure Thing by Miguel](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV)
-- [I Don’t Wanna Live Forever (Fifty Shades Darker) by ZAYN, Taylor Swift](https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe)
-- [Girl on Fire by Alicia Keys](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco)
-- [Riptide by Vance Joy](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd)
+- [Broken by AVAION](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n)
+- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
+- [Over You by Dillistone](https://open.spotify.com/track/7dTkiXLxCLpAquNt3MulYB)
+- [Felt (feat. Henry Green) by Christian Löffler, Henry Green](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d)
+- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
