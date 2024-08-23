@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (3 days ago)
 
 #### 🎧 What I have been listening
-- [Blossom by VisionV](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe)
-- [Save Me by Kaskade, Lauren L&#39;aimant](https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR)
-- [Do No More by Nora En Pure](https://open.spotify.com/track/21YVPtVHmvpodDiy7GyhUU)
-- [You &amp; I by Joris Voorn, Nathan Nicholson](https://open.spotify.com/track/3SqFOlaoUGG8DQLQ0pPkEU)
-- [Calm by Midnight Pass, Ruffnux](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe)
+- [Like I Used To by Steven Weston, Låpsley](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg)
+- [Call My Name by Franky Wah, Rae Morris](https://open.spotify.com/track/4vI94CkCfDXotFMcSPujvK)
+- [Centauri by Lstn](https://open.spotify.com/track/6sbTqflJcUFfyAbiWC8def)
+- [Heartbeats by Tobtok, farfetch&#39;d](https://open.spotify.com/track/4AwgEsYuFsdAYM8Tj6NxeE)
+- [Waves (feat. Grace Tither) by BLOND:ISH, Grace Tither](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
