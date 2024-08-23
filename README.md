@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (3 days ago)
 
 #### 🎧 What I have been listening
-- [I Kinda Like It by Lofive](https://open.spotify.com/track/5Z4zrfHfykFUhSqNnt2Ubd)
-- [Running up That Hill by Dayne S](https://open.spotify.com/track/3cwl2Mnq8urylYJNCvLJdZ)
-- [the things that bring me joy by Luca](https://open.spotify.com/track/3OWoUTFewCAnGIkFHdL6KK)
-- [Spring Embers by Nora En Pure](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2)
-- [Broken by AVAION](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n)
+- [Blossom by VisionV](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe)
+- [Save Me by Kaskade, Lauren L&#39;aimant](https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR)
+- [Do No More by Nora En Pure](https://open.spotify.com/track/21YVPtVHmvpodDiy7GyhUU)
+- [You &amp; I by Joris Voorn, Nathan Nicholson](https://open.spotify.com/track/3SqFOlaoUGG8DQLQ0pPkEU)
+- [Calm by Midnight Pass, Ruffnux](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
