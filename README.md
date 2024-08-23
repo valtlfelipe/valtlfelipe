@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (3 days ago)
 
 #### 🎧 What I have been listening
+- [Arcade by Duncan Laurence](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD)
+- [Sure Thing by Miguel](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV)
+- [I Don’t Wanna Live Forever (Fifty Shades Darker) by ZAYN, Taylor Swift](https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe)
 - [Girl on Fire by Alicia Keys](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco)
 - [Riptide by Vance Joy](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd)
-- [End of Beginning by Djo](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD)
-- [Wide Awake by Katy Perry](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt)
-- [Nothing Breaks Like a Heart (feat. Miley Cyrus) by Mark Ronson, Miley Cyrus](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
