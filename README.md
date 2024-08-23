@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (3 days ago)
 
 #### 🎧 What I have been listening
-- [Stick Season by Noah Kahan](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv)
-- [Fast Car by Luke Combs](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT)
-- [Ghost by Justin Bieber](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G)
-- [Last Night by Morgan Wallen](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8)
-- [As It Was by Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
+- [Scars To Your Beautiful by Alessia Cara](https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd)
+- [Control by Zoe Wees](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t)
+- [Fingers Crossed by Lauren Spencer Smith](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY)
+- [Paradise by Coldplay](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D)
+- [Maps by Maroon 5](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
