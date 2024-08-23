@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (3 days ago)
 
 #### 🎧 What I have been listening
+- [I Kinda Like It by Lofive](https://open.spotify.com/track/5Z4zrfHfykFUhSqNnt2Ubd)
+- [Running up That Hill by Dayne S](https://open.spotify.com/track/3cwl2Mnq8urylYJNCvLJdZ)
+- [the things that bring me joy by Luca](https://open.spotify.com/track/3OWoUTFewCAnGIkFHdL6KK)
+- [Spring Embers by Nora En Pure](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2)
 - [Broken by AVAION](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n)
-- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
-- [Over You by Dillistone](https://open.spotify.com/track/7dTkiXLxCLpAquNt3MulYB)
-- [Felt (feat. Henry Green) by Christian Löffler, Henry Green](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
