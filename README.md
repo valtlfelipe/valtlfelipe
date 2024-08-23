@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (3 days ago)
 
 #### 🎧 What I have been listening
-- [Like I Used To by Steven Weston, Låpsley](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg)
-- [Call My Name by Franky Wah, Rae Morris](https://open.spotify.com/track/4vI94CkCfDXotFMcSPujvK)
-- [Centauri by Lstn](https://open.spotify.com/track/6sbTqflJcUFfyAbiWC8def)
-- [Heartbeats by Tobtok, farfetch&#39;d](https://open.spotify.com/track/4AwgEsYuFsdAYM8Tj6NxeE)
-- [Waves (feat. Grace Tither) by BLOND:ISH, Grace Tither](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu)
+- [Karizma by Moe Turk](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM)
+- [Nostalgic by Col Lawton](https://open.spotify.com/track/10LSigkAHxT3yBe1rQJpBv)
+- [No Stress in Cres by Sound Nomaden](https://open.spotify.com/track/0gRVYjk3IFVQBUtfdoLc5W)
+- [Erase by Ben Böhmer, lau.ra](https://open.spotify.com/track/1BbXlbs8pWeYI2yGpGhuzA)
+- [It&#39;s Me by P.O.S, Spencer Brown, Marieme](https://open.spotify.com/track/7ruGyAPvRrNFqT2XroqzjP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
