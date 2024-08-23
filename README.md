@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[Permify/permify](https://github.com/Permify/permify)** - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (1 day ago)
-- **[Barbapapazes/gavarnie](https://github.com/Barbapapazes/gavarnie)** - SaaS - Pre-configured and ready-to-use features to help you start your full-stack NuxtHub project faster. (1 day ago)
-- **[devtron-labs/devtron](https://github.com/devtron-labs/devtron)** - Tool integration platform for Kubernetes (1 day ago)
-- **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (2 days ago)
-- **[StackStorm/st2](https://github.com/StackStorm/st2)** - StackStorm (aka &#34;IFTTT for Ops&#34;) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000&#43; actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html (6 days ago)
+- **[s0md3v/roop](https://github.com/s0md3v/roop)** - one-click face swap (1 day ago)
+- **[Permify/permify](https://github.com/Permify/permify)** - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (2 days ago)
+- **[Barbapapazes/gavarnie](https://github.com/Barbapapazes/gavarnie)** - SaaS - Pre-configured and ready-to-use features to help you start your full-stack NuxtHub project faster. (2 days ago)
+- **[devtron-labs/devtron](https://github.com/devtron-labs/devtron)** - Tool integration platform for Kubernetes (2 days ago)
+- **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (3 days ago)
 
 #### 🎧 What I have been listening
-- [Sparks by MEDUZA, DEL-30, Mali-Koa](https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq)
-- [Sparks by MEDUZA, DEL-30, Mali-Koa](https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq)
-- [Mahalia by Giants&#39; Nest](https://open.spotify.com/track/1ZXylApbxdxYJ4fXVtccyO)
-- [City Highs by Soft Sea](https://open.spotify.com/track/7Fask2JUtxg4jhCDuTF3tj)
-- [Mediterranea by Thirsty Ear](https://open.spotify.com/track/6WyxIRWwje9OjziaplhUVJ)
+- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
+- [Electric High by Lavern](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH)
+- [Never Be Alone (feat. Sonny Fodera) by Becky Hill, Sonny Fodera](https://open.spotify.com/track/3pFe9dLAwfnwKt8gM6mqki)
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/2QMnxA6R1PD0dYyUi5AxZZ)
+- [Mwaki - Tiësto&#39;s VIP Mix by Zerb, Tiësto, Sofiya Nzau](https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
