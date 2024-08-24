@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[s0md3v/roop](https://github.com/s0md3v/roop)** - one-click face swap (1 day ago)
-- **[Permify/permify](https://github.com/Permify/permify)** - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (2 days ago)
-- **[Barbapapazes/gavarnie](https://github.com/Barbapapazes/gavarnie)** - SaaS - Pre-configured and ready-to-use features to help you start your full-stack NuxtHub project faster. (2 days ago)
-- **[devtron-labs/devtron](https://github.com/devtron-labs/devtron)** - Tool integration platform for Kubernetes (2 days ago)
-- **[paulirish/dotfiles](https://github.com/paulirish/dotfiles)** - paul&#39;s fish, bash, git, etc config files. good stuff.  (3 days ago)
+- **[instantdb/instant](https://github.com/instantdb/instant)** - The realtime client-side database (today)
+- **[s0md3v/roop](https://github.com/s0md3v/roop)** - one-click face swap (2 days ago)
+- **[Permify/permify](https://github.com/Permify/permify)** - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (3 days ago)
+- **[Barbapapazes/gavarnie](https://github.com/Barbapapazes/gavarnie)** - SaaS - Pre-configured and ready-to-use features to help you start your full-stack NuxtHub project faster. (3 days ago)
+- **[devtron-labs/devtron](https://github.com/devtron-labs/devtron)** - Tool integration platform for Kubernetes (3 days ago)
 
 #### 🎧 What I have been listening
 - [Karizma by Moe Turk](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM)
