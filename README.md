@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[vue-email/vue-email](https://github.com/vue-email/vue-email)** - 💌 Write email templates with vue (today)
 - **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (today)
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (today)
 - **[chartdb/chartdb](https://github.com/chartdb/chartdb)** - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (1 day ago)
 - **[mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)** - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers. (1 day ago)
-- **[instantdb/instant](https://github.com/instantdb/instant)** - The realtime client-side database (1 day ago)
 
 #### 🎧 What I have been listening
 - [Karizma by Moe Turk](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM)
