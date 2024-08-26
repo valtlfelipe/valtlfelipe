@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)** - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Back to Me by Jai Nova](https://open.spotify.com/track/2kQ58pBNieZ10whIYVuPr0)
-- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
-- [Waiting For You by Zerb, Jaimes](https://open.spotify.com/track/79VdOI2nQedXOfd2xCiaio)
-- [High by Bapti, Joel Coopa](https://open.spotify.com/track/26R0JBH2fV4GLcraALwxGo)
-- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
+- [Tides (feat. Nina Carr) by Divolly &amp; Markward, Panuma, Nina Carr](https://open.spotify.com/track/0jLypQwcSSQf17T7vuIMTh)
+- [Sing My Song by Mathic, Keanler](https://open.spotify.com/track/4TUmpyEGSOsE28M0KbbtHL)
+- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
+- [Someone For Me by HNK](https://open.spotify.com/track/600b00gFMZK4fnHj1oKwAk)
+- [Anywhere (Road Trippin&#39;) by anamē](https://open.spotify.com/track/5rXJXEBTHqOjeLQbYSa07n)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
