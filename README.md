@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)** - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Danielle (smile on my face) by Fred again.., 070 Shake](https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8)
-- [Give Me Something To Hold by Jack Back, THEMBA, David Guetta](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F)
-- [Strong by Romy, Fred again..](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di)
-- [Enjoy The Silence by Ricky Gazetta](https://open.spotify.com/track/5uTayUqWolm7zY8KUlUwnJ)
-- [Just Over by Yotto](https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9)
+- [Stay With Me by Lèslöw](https://open.spotify.com/track/4xMB8Ml2tJrtvnaaMqaXRH)
+- [Read My Lips (feat. Luke Burr) by Ben Pearce, Luke Burr](https://open.spotify.com/track/3HEogXsBOz2fTBJVAgH1NF)
+- [Alright by James Malco, Hoop Records](https://open.spotify.com/track/6CHuEZsH1mEDhNwNPnuYUg)
+- [With You by Møme, Izzy Bizu](https://open.spotify.com/track/3VLHw9LckKrlGkzPxfJRLE)
+- [A Beautiful Life (Forever Finite) by vvolv, Joel Coopa](https://open.spotify.com/track/3vFXxajUZtXpgOwn71jrWz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
