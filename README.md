@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)** - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Danielle (smile on my face) by Fred again.., 070 Shake](https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8)
-- [Give Me Something To Hold by Jack Back, THEMBA, David Guetta](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F)
-- [Strong by Romy, Fred again..](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di)
-- [Enjoy The Silence by Ricky Gazetta](https://open.spotify.com/track/5uTayUqWolm7zY8KUlUwnJ)
-- [Just Over by Yotto](https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9)
+- [A Beautiful Life (Forever Finite) by vvolv, Joel Coopa](https://open.spotify.com/track/3vFXxajUZtXpgOwn71jrWz)
+- [The Time Is Now by Joel Coopa, Shoby, Chacel](https://open.spotify.com/track/6RdIXMyuGrmsMWfRXTIWKg)
+- [Catch &amp; Release by Planetopia](https://open.spotify.com/track/00eUfsLQfuR9h6waaiHDUq)
+- [Shine by Simply Chill](https://open.spotify.com/track/1vg2iaEKcByX0OAnmuV9zU)
+- [Higher by London Grammar, CamelPhat](https://open.spotify.com/track/538oTJvFVhOmvB4ol5rDoA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
