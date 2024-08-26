@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)** - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers. (2 days ago)
 
 #### 🎧 What I have been listening
+- [Alright by James Malco, Hoop Records](https://open.spotify.com/track/6CHuEZsH1mEDhNwNPnuYUg)
+- [With You by Møme, Izzy Bizu](https://open.spotify.com/track/3VLHw9LckKrlGkzPxfJRLE)
 - [A Beautiful Life (Forever Finite) by vvolv, Joel Coopa](https://open.spotify.com/track/3vFXxajUZtXpgOwn71jrWz)
 - [The Time Is Now by Joel Coopa, Shoby, Chacel](https://open.spotify.com/track/6RdIXMyuGrmsMWfRXTIWKg)
 - [Catch &amp; Release by Planetopia](https://open.spotify.com/track/00eUfsLQfuR9h6waaiHDUq)
-- [Shine by Simply Chill](https://open.spotify.com/track/1vg2iaEKcByX0OAnmuV9zU)
-- [Higher by London Grammar, CamelPhat](https://open.spotify.com/track/538oTJvFVhOmvB4ol5rDoA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
