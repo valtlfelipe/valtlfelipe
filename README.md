@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)** - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Tides (feat. Nina Carr) by Divolly &amp; Markward, Panuma, Nina Carr](https://open.spotify.com/track/0jLypQwcSSQf17T7vuIMTh)
-- [Sing My Song by Mathic, Keanler](https://open.spotify.com/track/4TUmpyEGSOsE28M0KbbtHL)
-- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
-- [Someone For Me by HNK](https://open.spotify.com/track/600b00gFMZK4fnHj1oKwAk)
-- [Anywhere (Road Trippin&#39;) by anamē](https://open.spotify.com/track/5rXJXEBTHqOjeLQbYSa07n)
+- [Enjoy The Silence by Ricky Gazetta](https://open.spotify.com/track/5uTayUqWolm7zY8KUlUwnJ)
+- [Just Over by Yotto](https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9)
+- [Better With You by ReUnited, Jessie Ka](https://open.spotify.com/track/0Kw5ApyoMQw4Adga16rtcm)
+- [Daydreaming by Milos, Ima Sobé](https://open.spotify.com/track/4bZWc6kBVcEPcOPM9ryfRo)
+- [Into The Wild by Casino Gold](https://open.spotify.com/track/22ST9Kg2kSSxeLq3XVdcjg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
