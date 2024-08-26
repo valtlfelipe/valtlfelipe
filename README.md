@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)** - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Stay With Me by Lèslöw](https://open.spotify.com/track/4xMB8Ml2tJrtvnaaMqaXRH)
-- [Read My Lips (feat. Luke Burr) by Ben Pearce, Luke Burr](https://open.spotify.com/track/3HEogXsBOz2fTBJVAgH1NF)
-- [Alright by James Malco, Hoop Records](https://open.spotify.com/track/6CHuEZsH1mEDhNwNPnuYUg)
-- [With You by Møme, Izzy Bizu](https://open.spotify.com/track/3VLHw9LckKrlGkzPxfJRLE)
-- [A Beautiful Life (Forever Finite) by vvolv, Joel Coopa](https://open.spotify.com/track/3vFXxajUZtXpgOwn71jrWz)
+- [Feel So Good by Nebbra](https://open.spotify.com/track/4xL8RhhqUyWXkRfdJw5Akc)
+- [Keep You Safe by Jako Diaz, Lucien, Ludona](https://open.spotify.com/track/649deUkFrg8mKAzQRBhYr8)
+- [Tides (feat. Nina Carr) by Divolly &amp; Markward, Panuma, Nina Carr](https://open.spotify.com/track/0jLypQwcSSQf17T7vuIMTh)
+- [Sing My Song by Mathic, Keanler](https://open.spotify.com/track/4TUmpyEGSOsE28M0KbbtHL)
+- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
