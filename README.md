@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)** - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Another Love by Recens, Tripton, Margad](https://open.spotify.com/track/2SroSNYVMMy8HgEgxXSwqk)
-- [Life by Polariz](https://open.spotify.com/track/2pWESo7dtudwFub2sd3yKN)
-- [Feel So Good by Nebbra](https://open.spotify.com/track/4xL8RhhqUyWXkRfdJw5Akc)
-- [Keep You Safe by Jako Diaz, Lucien, Ludona](https://open.spotify.com/track/649deUkFrg8mKAzQRBhYr8)
-- [Tides (feat. Nina Carr) by Divolly &amp; Markward, Panuma, Nina Carr](https://open.spotify.com/track/0jLypQwcSSQf17T7vuIMTh)
+- [Danielle (smile on my face) by Fred again.., 070 Shake](https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8)
+- [Give Me Something To Hold by Jack Back, THEMBA, David Guetta](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F)
+- [Strong by Romy, Fred again..](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di)
+- [Enjoy The Silence by Ricky Gazetta](https://open.spotify.com/track/5uTayUqWolm7zY8KUlUwnJ)
+- [Just Over by Yotto](https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
