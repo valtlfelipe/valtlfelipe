@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)** - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers. (2 days ago)
 
 #### 🎧 What I have been listening
+- [Our Way by Mark Ambor](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc)
 - [NO BAD DAYS (feat. Collett) by Macklemore, Collett](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823)
 - [Make A Move by Meghan Trainor](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy)
 - [Save Your Tears (with Ariana Grande) (Remix) by The Weeknd, Ariana Grande](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy)
 - [Sunshine (My Girl) by Wuki](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri)
-- [Nice to Meet You by Imagine Dragons](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
