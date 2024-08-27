@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[chartdb/chartdb](https://github.com/chartdb/chartdb)** - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Going Offbeat by Rick Groove](https://open.spotify.com/track/1MyyHwzHbUaQ6hqVmXG953)
-- [Beau by Cámille](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni)
-- [A Moment Away by Slowheal](https://open.spotify.com/track/4Je74aqRXHa2XlTQqg2obW)
-- [memories by Mandoja](https://open.spotify.com/track/455yDW2mMq8DMrDN9G6SRf)
-- [Cloud Rotation by Lostlow](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA)
+- [Tombstone Diploma by The Pleasure Principle](https://open.spotify.com/track/5jL5LiIeD5eJ3kTvrx2D6K)
+- [a little extra brightness by Camisade](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8)
+- [Yesterday&#39;s Dream by Catalina En Collins](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs)
+- [shade by roumr](https://open.spotify.com/track/4EzccXrr8ipyRhOvCoB2xE)
+- [beach smiles by Gabri From France](https://open.spotify.com/track/7lncP7Wc3qmCtAGI5dQnVi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
