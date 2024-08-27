@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[chartdb/chartdb](https://github.com/chartdb/chartdb)** - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Nebulous Spirits by Hans Blu](https://open.spotify.com/track/46XBBYQiRPg8sGdwfj6MRk)
-- [Sommarvind by Konrad Wijk](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf)
-- [Colors Everywhere by Twin Iguana](https://open.spotify.com/track/3Ao3jqny7VKgfRuejUhjfs)
-- [belize by Greene Labyrinth](https://open.spotify.com/track/0P6FeyjuEGafG0cgk8TmVF)
-- [Again again by Modern Clouds](https://open.spotify.com/track/7siaBvEhAnrEg27iXp2btt)
+- [Going Offbeat by Rick Groove](https://open.spotify.com/track/1MyyHwzHbUaQ6hqVmXG953)
+- [Beau by Cámille](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni)
+- [A Moment Away by Slowheal](https://open.spotify.com/track/4Je74aqRXHa2XlTQqg2obW)
+- [memories by Mandoja](https://open.spotify.com/track/455yDW2mMq8DMrDN9G6SRf)
+- [Cloud Rotation by Lostlow](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
