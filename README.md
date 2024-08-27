@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)** - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Lakeswim by Konrad Wijk](https://open.spotify.com/track/1hAUYakXQGSr6IvJ6uFll1)
-- [Sound Crown by Generation.](https://open.spotify.com/track/1IZDP1zsV0wq7IgZyBTi5E)
-- [Rooftop Lunch by Pat Jr](https://open.spotify.com/track/0BbV9NJYb32Hdf8KIPHLiO)
-- [Azelio by Slashio](https://open.spotify.com/track/2W0getS9GtmaLdXsMxxBxn)
-- [Souls by Del Risa](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz)
+- [Lord by Sogal](https://open.spotify.com/track/2LQyhtzUZBkz60eirVVaRi)
+- [OFF DAY by Suuunday](https://open.spotify.com/track/5ZZZRpzWasI2ZU2XGXzP70)
+- [Souped Up by Jobii](https://open.spotify.com/track/7r3eqnO0ZHi0l9JFZyYRs8)
+- [Lifted by A.L.I.S.O.N, Hotel Pools](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz)
+- [embrace by xThiago](https://open.spotify.com/track/3plZSRM45AgutYEAsQCZ0j)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
