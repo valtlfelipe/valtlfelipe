@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[chartdb/chartdb](https://github.com/chartdb/chartdb)** - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Back to Java by RaFa Sessions](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ)
-- [Spirit Lovers by Snowman vs](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil)
-- [Balearic Dream by Gueves](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8)
-- [Summer Haze by André Aguado](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol)
-- [Day in the Sun by Co Kluin](https://open.spotify.com/track/1bfxkN23k0KStToEYlTRNC)
+- [Ebullience by Kalizé](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A)
+- [Blurry Haze by Moonlight Giorgio](https://open.spotify.com/track/6TZnMkjj9GID1vjkvDk9XY)
+- [Port Grimaud by Don Battina](https://open.spotify.com/track/3pDQfqkDc1cg27VoNJqWq0)
+- [Blurry Sequence by Lazy Driver](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ)
+- [Walking by Chairten](https://open.spotify.com/track/0204sXd60oYpzcZ1RPO9Ly)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
