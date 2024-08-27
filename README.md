@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)** - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Lord by Sogal](https://open.spotify.com/track/2LQyhtzUZBkz60eirVVaRi)
-- [OFF DAY by Suuunday](https://open.spotify.com/track/5ZZZRpzWasI2ZU2XGXzP70)
-- [Souped Up by Jobii](https://open.spotify.com/track/7r3eqnO0ZHi0l9JFZyYRs8)
-- [Lifted by A.L.I.S.O.N, Hotel Pools](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz)
-- [embrace by xThiago](https://open.spotify.com/track/3plZSRM45AgutYEAsQCZ0j)
+- [Summer Haze by André Aguado](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol)
+- [Day in the Sun by Co Kluin](https://open.spotify.com/track/1bfxkN23k0KStToEYlTRNC)
+- [NiteGlow by Zev Lyso](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ)
+- [Beatin&#39; Hearts by David Kuro](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS)
+- [Why So Gloomy by Lofive](https://open.spotify.com/track/7lZQllW8bnGoVK4Fvy10lo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
