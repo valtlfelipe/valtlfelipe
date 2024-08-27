@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[chartdb/chartdb](https://github.com/chartdb/chartdb)** - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (3 days ago)
 
 #### 🎧 What I have been listening
+- [Just smooth by Lil Harry](https://open.spotify.com/track/5B4v6ttUV7VJ7S7kEJqg1D)
 - [Myst by The Pleasure Principle](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW)
 - [Case by Ellives](https://open.spotify.com/track/6MslE26xADXyx7CSCBUbUF)
 - [Why Don&#39;t You Chill? by Drunk Archer](https://open.spotify.com/track/2oAqJqtPyPrIMaK1tD8UWI)
 - [White Island Dreams by RaFa Sessions](https://open.spotify.com/track/2y3gu3ivDq430JRX7eGcEv)
-- [Andlegur by Valante](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
