@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
 
 #### 🎧 What I have been listening
+- [Les Tropiques by Paon Bleu](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP)
+- [Travolta by blnkspc_](https://open.spotify.com/track/4aL6ArytlzfYU49VPTFisX)
+- [beach sins by ftono](https://open.spotify.com/track/6AbbZin6hevFSL1kurmBbA)
+- [Studio Floor by Twin Iguana](https://open.spotify.com/track/3gts9Ik78hcSSUX5CXACJH)
 - [Get in Line by Soft Sea](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI)
-- [ghost stories by Landayn](https://open.spotify.com/track/4X6fyoXur5lOTNyvXa8VV6)
-- [satisfaction upscale by aiXer](https://open.spotify.com/track/6mC1q4r7lATShNXzRo5l84)
-- [Bit of Window by Conte Prad](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2)
-- [Côte d&#39;Azur by Parker Wilkins](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
