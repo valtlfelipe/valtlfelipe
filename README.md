@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
 
 #### 🎧 What I have been listening
-- [Next To Me by Soul to Speak](https://open.spotify.com/track/3zLvAsYtkRFNEHS4Z4Oe87)
-- [Mango by hannaah](https://open.spotify.com/track/2UfwU02O5nBCxwHx7G1Q79)
-- [must be a dream by sugar namnam](https://open.spotify.com/track/1ezwOnI9fJ2EttFUBpSLvE)
-- [Lujo by DJ Duboise](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI)
-- [Sexy in the Morning by Reel Waves](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE)
+- [Get in Line by Soft Sea](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI)
+- [ghost stories by Landayn](https://open.spotify.com/track/4X6fyoXur5lOTNyvXa8VV6)
+- [satisfaction upscale by aiXer](https://open.spotify.com/track/6mC1q4r7lATShNXzRo5l84)
+- [Bit of Window by Conte Prad](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2)
+- [Côte d&#39;Azur by Parker Wilkins](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
