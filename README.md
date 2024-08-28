@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (today)
-- **[vue-email/vue-email](https://github.com/vue-email/vue-email)** - 💌 Write email templates with vue (2 days ago)
-- **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (2 days ago)
-- **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 days ago)
-- **[chartdb/chartdb](https://github.com/chartdb/chartdb)** - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (3 days ago)
+- **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (1 day ago)
+- **[vue-email/vue-email](https://github.com/vue-email/vue-email)** - 💌 Write email templates with vue (3 days ago)
+- **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (3 days ago)
+- **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
+- **[chartdb/chartdb](https://github.com/chartdb/chartdb)** - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (4 days ago)
 
 #### 🎧 What I have been listening
 - [Tombstone Diploma by The Pleasure Principle](https://open.spotify.com/track/5jL5LiIeD5eJ3kTvrx2D6K)
