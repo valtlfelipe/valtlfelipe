@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
 
 #### 🎧 What I have been listening
-- [Dream Of You by Pjuck](https://open.spotify.com/track/0gmFwY4Oa0oBDu8OWTJ9gA)
-- [Small Victorys by Cratouille](https://open.spotify.com/track/4WIG3yl5UjG4kuNXs5TgjU)
-- [Kayser by Milous](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo)
-- [Back Home by Pascal Marcel](https://open.spotify.com/track/351rejqsz5uECQ7w1mI9dv)
-- [Las Vegas by Spiral Solace](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx)
+- [Feign Life by Merry Lo](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT)
+- [Ceylon Drift by Phello](https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk)
+- [Delulu by Molife](https://open.spotify.com/track/2ElHeqTJc2ERVcyhH6TEBP)
+- [locking lips by Manic Twister](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW)
+- [See You There by Luca Tong](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
