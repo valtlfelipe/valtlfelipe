@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (today)
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (1 day ago)
 - **[vue-email/vue-email](https://github.com/vue-email/vue-email)** - 💌 Write email templates with vue (3 days ago)
 - **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (3 days ago)
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
-- **[chartdb/chartdb](https://github.com/chartdb/chartdb)** - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Tombstone Diploma by The Pleasure Principle](https://open.spotify.com/track/5jL5LiIeD5eJ3kTvrx2D6K)
-- [a little extra brightness by Camisade](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8)
-- [Yesterday&#39;s Dream by Catalina En Collins](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs)
-- [shade by roumr](https://open.spotify.com/track/4EzccXrr8ipyRhOvCoB2xE)
-- [beach smiles by Gabri From France](https://open.spotify.com/track/7lncP7Wc3qmCtAGI5dQnVi)
+- [paloma beach by Naoko Omi](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9)
+- [I&#39;ve Got The Feeling by Cymbal Dealers](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC)
+- [Clockwork by Lazlo Riley](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J)
+- [New Body by Tomu DJ, DJ Manny, SUCIA!](https://open.spotify.com/track/25hdCrZ2At7T6rb83Cuqyk)
+- [10pm by Maea Sid](https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
