@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
 
 #### 🎧 What I have been listening
-- [Flickering by Pipo W](https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp)
-- [Midnight Mint by ELEVENISH](https://open.spotify.com/track/2ze9ejYaCLMu4rDtITIrYE)
-- [Juju Beans by Plastik Flamingos](https://open.spotify.com/track/3YgsVGDHaz0QITSzaaK8mk)
-- [Ocean Blue by LeeDee](https://open.spotify.com/track/2Di8gjxNomIbXi0hctCYHv)
-- [Feign Life by Merry Lo](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT)
+- [Relax (Hold On) by Autohacker](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD)
+- [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
+- [Beam by Dove Tales](https://open.spotify.com/track/4oH3QxN1Gu6nQSaXnXxhdG)
+- [Polarity by Sum Wave](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv)
+- [Summer flower by Petrossi](https://open.spotify.com/track/1FZ8DbYXBExoMZpVYlILR1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
