@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
 
 #### 🎧 What I have been listening
-- [Night Time Bliss by Phello](https://open.spotify.com/track/3sZZDhEVYJ8tyTiYEGCcg6)
-- [misty mind by kilowattz](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q)
-- [Lemuria by Sylvani](https://open.spotify.com/track/06Wpiu9VDi4WevoM8UgKOJ)
-- [I Promise You by Florem Ipsum](https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF)
-- [floatation by Hayzei](https://open.spotify.com/track/4olfg6tcZF9AZPbIKn4CKj)
+- [Next To Me by Soul to Speak](https://open.spotify.com/track/3zLvAsYtkRFNEHS4Z4Oe87)
+- [Mango by hannaah](https://open.spotify.com/track/2UfwU02O5nBCxwHx7G1Q79)
+- [must be a dream by sugar namnam](https://open.spotify.com/track/1ezwOnI9fJ2EttFUBpSLvE)
+- [Lujo by DJ Duboise](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI)
+- [Sexy in the Morning by Reel Waves](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
