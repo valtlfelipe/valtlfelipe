@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
 
 #### 🎧 What I have been listening
-- [paloma beach by Naoko Omi](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9)
-- [I&#39;ve Got The Feeling by Cymbal Dealers](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC)
-- [Clockwork by Lazlo Riley](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J)
-- [New Body by Tomu DJ, DJ Manny, SUCIA!](https://open.spotify.com/track/25hdCrZ2At7T6rb83Cuqyk)
-- [10pm by Maea Sid](https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV)
+- [Night Time Bliss by Phello](https://open.spotify.com/track/3sZZDhEVYJ8tyTiYEGCcg6)
+- [misty mind by kilowattz](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q)
+- [Lemuria by Sylvani](https://open.spotify.com/track/06Wpiu9VDi4WevoM8UgKOJ)
+- [I Promise You by Florem Ipsum](https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF)
+- [floatation by Hayzei](https://open.spotify.com/track/4olfg6tcZF9AZPbIKn4CKj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
