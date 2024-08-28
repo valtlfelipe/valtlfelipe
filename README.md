@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
 
 #### 🎧 What I have been listening
+- [Flickering by Pipo W](https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp)
+- [Midnight Mint by ELEVENISH](https://open.spotify.com/track/2ze9ejYaCLMu4rDtITIrYE)
+- [Juju Beans by Plastik Flamingos](https://open.spotify.com/track/3YgsVGDHaz0QITSzaaK8mk)
+- [Ocean Blue by LeeDee](https://open.spotify.com/track/2Di8gjxNomIbXi0hctCYHv)
 - [Feign Life by Merry Lo](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT)
-- [Ceylon Drift by Phello](https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk)
-- [Delulu by Molife](https://open.spotify.com/track/2ElHeqTJc2ERVcyhH6TEBP)
-- [locking lips by Manic Twister](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW)
-- [See You There by Luca Tong](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
