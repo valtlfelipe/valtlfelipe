@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
 
 #### 🎧 What I have been listening
+- [Bloom by Petronella Dice](https://open.spotify.com/track/6pEOQbxwG0PdJQm13y8cBj)
+- [Cosmopolitan by Beach Villa](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f)
+- [Lost Sea by Sofachi](https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D)
 - [Relax (Hold On) by Autohacker](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD)
 - [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
-- [Beam by Dove Tales](https://open.spotify.com/track/4oH3QxN1Gu6nQSaXnXxhdG)
-- [Polarity by Sum Wave](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv)
-- [Summer flower by Petrossi](https://open.spotify.com/track/1FZ8DbYXBExoMZpVYlILR1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
