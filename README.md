@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
 
 #### 🎧 What I have been listening
-- [Naxos Sunset by Pink Villa](https://open.spotify.com/track/0qriqL4uIcM7tSRvd2nsbF)
-- [Ray Of Sun by Pink Villa](https://open.spotify.com/track/3i2EyWC04DDRnGwCw6ovoI)
-- [Passage by Ben Travel](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL)
-- [Pretty Party People by Soft Sea](https://open.spotify.com/track/3IbMrPsQjOBhqM3SqgUf6B)
-- [Workspace by Buysea](https://open.spotify.com/track/1C6vxuyg7SFbdMcNifMAbq)
+- [Among Clouds by Kacey View](https://open.spotify.com/track/5iE1WtbpbDJrJwMxYXU0Ru)
+- [Blurry Sequence by Lazy Driver](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ)
+- [5 PM by Ran the Man](https://open.spotify.com/track/7oqu3yS0LeRWxW3CpQpKa4)
+- [USA by fuzzybooo](https://open.spotify.com/track/39RSclnwEZOEeRRs5MAVj9)
+- [Alright - Instrumental by LUXXURY](https://open.spotify.com/track/7vgJUNJWIrKhH2WXdWHaXc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
