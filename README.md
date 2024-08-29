@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
 
 #### 🎧 What I have been listening
+- [Workspace by Buysea](https://open.spotify.com/track/1C6vxuyg7SFbdMcNifMAbq)
+- [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
 - [Maraschino Cherry by Trausch](https://open.spotify.com/track/5x7yKdw07UdQ6N6SlCuuFN)
 - [Lost Lands by Delta O](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ)
 - [Campeche by Amber &amp; Ochre](https://open.spotify.com/track/6DyKoBHY0LxksiZX7ndceV)
-- [Montanita by Pool Villa](https://open.spotify.com/track/43xOfLbXEEFWZCqb3YCkmN)
-- [Babylon by Lak Host](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
