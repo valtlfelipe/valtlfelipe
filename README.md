@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
 
 #### 🎧 What I have been listening
-- [Swimmingpool by Ran the Man](https://open.spotify.com/track/7KNADzrNsHkV8Oacyx3sCM)
-- [Someplace Warm by far away mei](https://open.spotify.com/track/1TkynhNEPd1DpqUccZRO95)
-- [Give It Your All by Soft Sea](https://open.spotify.com/track/39uperenLlTvIr38cybSU2)
-- [Coeur d&#39;Alene by Pat Jr](https://open.spotify.com/track/4n6xA65ah6i8QoHVcHraaR)
-- [memories by Mandoja](https://open.spotify.com/track/455yDW2mMq8DMrDN9G6SRf)
+- [Pineapple Breeze by Ran the Man](https://open.spotify.com/track/3t7rGBmECt4uBZqTSRwZxf)
+- [take off by roumr](https://open.spotify.com/track/7jTqQ6V5xq5lK6axjVQwWW)
+- [City Bumps by Candrian](https://open.spotify.com/track/4MNC485ddP6YTl8KIZeq5d)
+- [Why Don&#39;t You Chill? by Drunk Archer](https://open.spotify.com/track/2oAqJqtPyPrIMaK1tD8UWI)
+- [Radiance by Delphine Dekker](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
