@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
 
 #### 🎧 What I have been listening
-- [Moonlight by Luminez](https://open.spotify.com/track/5R6s1rVZ8MBsjRGfqh7RlX)
-- [Fly Hat by Drunk Archer](https://open.spotify.com/track/1JCcF3m9ljycX3Yd0I8r3S)
-- [Nights by Ran the Man](https://open.spotify.com/track/0vsedeIvoKKTV5cVU7E6n8)
-- [teque by shamgang](https://open.spotify.com/track/2pBHvVRaPkE8SXnKRFgxLj)
-- [Aquarium by André Aguado](https://open.spotify.com/track/7Kd4VtEu0Zsl72p7wWX7KJ)
+- [Swimmingpool by Ran the Man](https://open.spotify.com/track/7KNADzrNsHkV8Oacyx3sCM)
+- [Someplace Warm by far away mei](https://open.spotify.com/track/1TkynhNEPd1DpqUccZRO95)
+- [Give It Your All by Soft Sea](https://open.spotify.com/track/39uperenLlTvIr38cybSU2)
+- [Coeur d&#39;Alene by Pat Jr](https://open.spotify.com/track/4n6xA65ah6i8QoHVcHraaR)
+- [memories by Mandoja](https://open.spotify.com/track/455yDW2mMq8DMrDN9G6SRf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
