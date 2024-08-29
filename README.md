@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
 
 #### 🎧 What I have been listening
-- [Among Clouds by Kacey View](https://open.spotify.com/track/5iE1WtbpbDJrJwMxYXU0Ru)
-- [Blurry Sequence by Lazy Driver](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ)
-- [5 PM by Ran the Man](https://open.spotify.com/track/7oqu3yS0LeRWxW3CpQpKa4)
-- [USA by fuzzybooo](https://open.spotify.com/track/39RSclnwEZOEeRRs5MAVj9)
-- [Alright - Instrumental by LUXXURY](https://open.spotify.com/track/7vgJUNJWIrKhH2WXdWHaXc)
+- [Moonlight by Luminez](https://open.spotify.com/track/5R6s1rVZ8MBsjRGfqh7RlX)
+- [Fly Hat by Drunk Archer](https://open.spotify.com/track/1JCcF3m9ljycX3Yd0I8r3S)
+- [Nights by Ran the Man](https://open.spotify.com/track/0vsedeIvoKKTV5cVU7E6n8)
+- [teque by shamgang](https://open.spotify.com/track/2pBHvVRaPkE8SXnKRFgxLj)
+- [Aquarium by André Aguado](https://open.spotify.com/track/7Kd4VtEu0Zsl72p7wWX7KJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
