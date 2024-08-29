@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
 
 #### 🎧 What I have been listening
-- [Bloom by Petronella Dice](https://open.spotify.com/track/6pEOQbxwG0PdJQm13y8cBj)
-- [Cosmopolitan by Beach Villa](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f)
-- [Lost Sea by Sofachi](https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D)
-- [Relax (Hold On) by Autohacker](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD)
-- [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
+- [Maraschino Cherry by Trausch](https://open.spotify.com/track/5x7yKdw07UdQ6N6SlCuuFN)
+- [Lost Lands by Delta O](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ)
+- [Campeche by Amber &amp; Ochre](https://open.spotify.com/track/6DyKoBHY0LxksiZX7ndceV)
+- [Montanita by Pool Villa](https://open.spotify.com/track/43xOfLbXEEFWZCqb3YCkmN)
+- [Babylon by Lak Host](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
