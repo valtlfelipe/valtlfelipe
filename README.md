@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (5 days ago)
 
 #### 🎧 What I have been listening
-- [Make You Mine by Madison Beer](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL)
-- [Say It Right by Nelly Furtado](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t)
-- [Single Soon by Selena Gomez](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3)
-- [Too Sweet by Hozier](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0)
-- [Read My Lips (feat. Luke Burr) by Ben Pearce, Luke Burr](https://open.spotify.com/track/3HEogXsBOz2fTBJVAgH1NF)
+- [Used To Be Young by Miley Cyrus](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
+- [feelslikeimfallinginlove by Coldplay](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea)
+- [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
+- [Touch by KATSEYE](https://open.spotify.com/track/1DexsORdmqTmYJjR3UlMTZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
