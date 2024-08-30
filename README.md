@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (5 days ago)
 
 #### 🎧 What I have been listening
+- [Tides (feat. Nina Carr) by Divolly &amp; Markward, Panuma, Nina Carr](https://open.spotify.com/track/0jLypQwcSSQf17T7vuIMTh)
+- [Shine by Simply Chill](https://open.spotify.com/track/1vg2iaEKcByX0OAnmuV9zU)
+- [The Time Is Now by Joel Coopa, Shoby, Chacel](https://open.spotify.com/track/6RdIXMyuGrmsMWfRXTIWKg)
 - [Higher by London Grammar, CamelPhat](https://open.spotify.com/track/538oTJvFVhOmvB4ol5rDoA)
 - [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
-- [With You by Møme, Izzy Bizu](https://open.spotify.com/track/3VLHw9LckKrlGkzPxfJRLE)
-- [Enjoy The Silence by Ricky Gazetta](https://open.spotify.com/track/5uTayUqWolm7zY8KUlUwnJ)
-- [Read My Lips (feat. Luke Burr) by Ben Pearce, Luke Burr](https://open.spotify.com/track/3HEogXsBOz2fTBJVAgH1NF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
