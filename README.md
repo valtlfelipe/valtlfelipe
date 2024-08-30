@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (5 days ago)
 
 #### 🎧 What I have been listening
+- [Better With You by ReUnited, Jessie Ka](https://open.spotify.com/track/0Kw5ApyoMQw4Adga16rtcm)
+- [Give Me Something To Hold by Jack Back, THEMBA, David Guetta](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F)
 - [Another Love by Recens, Tripton, Margad](https://open.spotify.com/track/2SroSNYVMMy8HgEgxXSwqk)
 - [Archipelago by André Aguado](https://open.spotify.com/track/1sSb3ybaaZgTz8VjhBNWc6)
 - [License to Chill by Mandoja](https://open.spotify.com/track/6cx22MXtCYO76enMFi8cmx)
-- [Little Things by Folta Tres](https://open.spotify.com/track/4ITZMLhFDxgoH8b4dWAqkB)
-- [Techo Con Sol by Phello](https://open.spotify.com/track/7rhR91DX8o2nx7e8BvSlZS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
