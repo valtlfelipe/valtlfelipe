@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (5 days ago)
 
 #### 🎧 What I have been listening
-- [Used To Be Young by Miley Cyrus](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms)
-- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
-- [feelslikeimfallinginlove by Coldplay](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea)
-- [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
-- [Touch by KATSEYE](https://open.spotify.com/track/1DexsORdmqTmYJjR3UlMTZ)
+- [Sun Is Up - Play &amp; Win Radio Version by INNA](https://open.spotify.com/track/3ftzYJHTnDFHUFw5C3Tnuh)
+- [Cynical by twocolors, Safri Duo, Chris de Sarandy](https://open.spotify.com/track/4fLnoXqsxHZFvGKppc7kCr)
+- [Show Me Love - Radio Edit by Laidback Luke, Steve Angello, Robin S](https://open.spotify.com/track/69R5Ot0VZjFd71SOBgivoL)
+- [Lost In The Night by Thierry Von Der Warth, MCN2](https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6)
+- [Sweet Torture by Big Z, B Martin](https://open.spotify.com/track/3q2GaHnK7QcqUkPaNknsRz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
