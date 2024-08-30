@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (5 days ago)
 
 #### 🎧 What I have been listening
-- [Alright by James Malco, Hoop Records](https://open.spotify.com/track/6CHuEZsH1mEDhNwNPnuYUg)
-- [I Will Leave a Light On by Le Youth, Lane 8, Jyll](https://open.spotify.com/track/1VERX83Hgb3gf5CbXkAFKy)
-- [Catch &amp; Release by Planetopia](https://open.spotify.com/track/00eUfsLQfuR9h6waaiHDUq)
-- [Feel So Good by Nebbra](https://open.spotify.com/track/4xL8RhhqUyWXkRfdJw5Akc)
-- [Tides (feat. Nina Carr) by Divolly &amp; Markward, Panuma, Nina Carr](https://open.spotify.com/track/0jLypQwcSSQf17T7vuIMTh)
+- [With You by Møme, Izzy Bizu](https://open.spotify.com/track/3VLHw9LckKrlGkzPxfJRLE)
+- [Enjoy The Silence by Ricky Gazetta](https://open.spotify.com/track/5uTayUqWolm7zY8KUlUwnJ)
+- [Read My Lips (feat. Luke Burr) by Ben Pearce, Luke Burr](https://open.spotify.com/track/3HEogXsBOz2fTBJVAgH1NF)
+- [Back to Me by Jai Nova](https://open.spotify.com/track/2kQ58pBNieZ10whIYVuPr0)
+- [Life by Polariz](https://open.spotify.com/track/2pWESo7dtudwFub2sd3yKN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
