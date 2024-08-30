@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (5 days ago)
 
 #### 🎧 What I have been listening
-- [Tides (feat. Nina Carr) by Divolly &amp; Markward, Panuma, Nina Carr](https://open.spotify.com/track/0jLypQwcSSQf17T7vuIMTh)
-- [Shine by Simply Chill](https://open.spotify.com/track/1vg2iaEKcByX0OAnmuV9zU)
-- [The Time Is Now by Joel Coopa, Shoby, Chacel](https://open.spotify.com/track/6RdIXMyuGrmsMWfRXTIWKg)
-- [Higher by London Grammar, CamelPhat](https://open.spotify.com/track/538oTJvFVhOmvB4ol5rDoA)
-- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
+- [Better With You by ReUnited, Jessie Ka](https://open.spotify.com/track/0Kw5ApyoMQw4Adga16rtcm)
+- [Give Me Something To Hold by Jack Back, THEMBA, David Guetta](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F)
+- [Into The Wild by Casino Gold](https://open.spotify.com/track/22ST9Kg2kSSxeLq3XVdcjg)
+- [Anywhere (Road Trippin&#39;) by anamē](https://open.spotify.com/track/5rXJXEBTHqOjeLQbYSa07n)
+- [Sing My Song by Mathic, Keanler](https://open.spotify.com/track/4TUmpyEGSOsE28M0KbbtHL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
