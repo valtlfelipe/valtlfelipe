@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (5 days ago)
 
 #### 🎧 What I have been listening
-- [Sun Is Up - Play &amp; Win Radio Version by INNA](https://open.spotify.com/track/3ftzYJHTnDFHUFw5C3Tnuh)
-- [Cynical by twocolors, Safri Duo, Chris de Sarandy](https://open.spotify.com/track/4fLnoXqsxHZFvGKppc7kCr)
-- [Show Me Love - Radio Edit by Laidback Luke, Steve Angello, Robin S](https://open.spotify.com/track/69R5Ot0VZjFd71SOBgivoL)
-- [Lost In The Night by Thierry Von Der Warth, MCN2](https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6)
-- [Sweet Torture by Big Z, B Martin](https://open.spotify.com/track/3q2GaHnK7QcqUkPaNknsRz)
+- [Eyes On You by Balynt](https://open.spotify.com/track/0ghxdsiQAV2GpbWannJzHS)
+- [REACT by Switch Disco, Ella Henderson, Robert Miles](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi)
+- [Guilty by Blrrdpctrs](https://open.spotify.com/track/6Ja8DS0zRGnNKlLKtui9Xn)
+- [Tell It To My Heart by Mark Coles, Menno](https://open.spotify.com/track/42Ighc45xyQIUgGID50esp)
+- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
