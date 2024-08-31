@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vue-email/vue-email](https://github.com/vue-email/vue-email)** - 💌 Write email templates with vue (6 days ago)
 
 #### 🎧 What I have been listening
+- [SNAP by Rosa Linn](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6)
+- [Si Antes Te Hubiera Conocido by KAROL G](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k)
 - [Closer by Tessaiga](https://open.spotify.com/track/2RptlQyfEvOrEqc1hLzulq)
 - [Cause of You by LVSN, Sarrdo Carocci](https://open.spotify.com/track/72p5xU5sINFKcbWwzBsVGn)
 - [All That You Do by Konn, sarosa, Sven and Jeffrey](https://open.spotify.com/track/6FHyLs8b5Qzsfif90GCqur)
-- [Lose Control by Coppermines, Lucky Guess](https://open.spotify.com/track/0FI5i3dS3q3IEarXkf1Nlo)
-- [Saturday Night ft. Nathan Brumley by Godoy Music, Ben Leuman, Nathan Brumley](https://open.spotify.com/track/7gjBI32hOgPfEDRGYZqO0v)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
