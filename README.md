@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[lima-vm/lima](https://github.com/lima-vm/lima)** - Linux virtual machines, with a focus on running containers (today)
-- **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (2 days ago)
-- **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (3 days ago)
-- **[vue-email/vue-email](https://github.com/vue-email/vue-email)** - 💌 Write email templates with vue (5 days ago)
-- **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (5 days ago)
+- **[lima-vm/lima](https://github.com/lima-vm/lima)** - Linux virtual machines, with a focus on running containers (1 day ago)
+- **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (3 days ago)
+- **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (4 days ago)
+- **[vue-email/vue-email](https://github.com/vue-email/vue-email)** - 💌 Write email templates with vue (6 days ago)
+- **[replicate/cog](https://github.com/replicate/cog)** - Containers for machine learning (6 days ago)
 
 #### 🎧 What I have been listening
 - [Eyes On You by Balynt](https://open.spotify.com/track/0ghxdsiQAV2GpbWannJzHS)
