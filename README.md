@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vue-email/vue-email](https://github.com/vue-email/vue-email)** - 💌 Write email templates with vue (6 days ago)
 
 #### 🎧 What I have been listening
-- [SNAP by Rosa Linn](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6)
-- [Si Antes Te Hubiera Conocido by KAROL G](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k)
-- [Closer by Tessaiga](https://open.spotify.com/track/2RptlQyfEvOrEqc1hLzulq)
-- [Cause of You by LVSN, Sarrdo Carocci](https://open.spotify.com/track/72p5xU5sINFKcbWwzBsVGn)
-- [All That You Do by Konn, sarosa, Sven and Jeffrey](https://open.spotify.com/track/6FHyLs8b5Qzsfif90GCqur)
+- [Alone, Pt. II by Alan Walker, Ava Max](https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3)
+- [My Universe by Coldplay, BTS](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM)
+- [Lose Somebody by Kygo, OneRepublic](https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza)
+- [Lovin On Me by Jack Harlow](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU)
+- [Escapism. by RAYE, 070 Shake](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
