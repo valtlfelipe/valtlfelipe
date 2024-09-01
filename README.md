@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (5 days ago)
 
 #### 🎧 What I have been listening
-- [Falling Without Wings by SAINT.](https://open.spotify.com/track/2sTJKcwCEsGSWzB6PDPiwp)
-- [All Out Of Love by Matt Steep](https://open.spotify.com/track/5pbfTXyV9kwH9WQ0P5PyPg)
-- [In The Sun by Fargro](https://open.spotify.com/track/2DqZObXWfHLGWalcDN4zn7)
-- [Mind Be Free by ACAY, Michael Ford](https://open.spotify.com/track/5Mud6JOs11M9mzxBz9VoLG)
-- [Too Good To Be True by Kenneth James, Conor Robertson](https://open.spotify.com/track/0qbRH68dfFPh5zxFc0I4BZ)
+- [I Kinda Like It by Lofive](https://open.spotify.com/track/5Z4zrfHfykFUhSqNnt2Ubd)
+- [Sky Fall by MELØ](https://open.spotify.com/track/1thl8kqJI4dW34zoy9LAr9)
+- [Deepest End by ERIICE, maybealice](https://open.spotify.com/track/4Wofc3KgfK31GYS5czdBRd)
+- [Light Comes Up by Cladigal](https://open.spotify.com/track/7jULusufMjKO5EZbYgRRul)
+- [Lose Control by Heim](https://open.spotify.com/track/3vOvfUbkrRzC5gxzy9CBqr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
