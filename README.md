@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (today)
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (1 day ago)
 - **[lima-vm/lima](https://github.com/lima-vm/lima)** - Linux virtual machines, with a focus on running containers (2 days ago)
 - **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (4 days ago)
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (5 days ago)
-- **[vue-email/vue-email](https://github.com/vue-email/vue-email)** - 💌 Write email templates with vue (1 week ago)
 
 #### 🎧 What I have been listening
-- [Die For You (with Ariana Grande) - Remix by The Weeknd, Ariana Grande](https://open.spotify.com/track/4JNdwEfqwFRiAeEISC8RU8)
-- [Alone, Pt. II by Alan Walker, Ava Max](https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3)
-- [My Universe by Coldplay, BTS](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM)
-- [Lose Somebody by Kygo, OneRepublic](https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza)
-- [Lovin On Me by Jack Harlow](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU)
+- [Falling Without Wings by SAINT.](https://open.spotify.com/track/2sTJKcwCEsGSWzB6PDPiwp)
+- [All Out Of Love by Matt Steep](https://open.spotify.com/track/5pbfTXyV9kwH9WQ0P5PyPg)
+- [In The Sun by Fargro](https://open.spotify.com/track/2DqZObXWfHLGWalcDN4zn7)
+- [Mind Be Free by ACAY, Michael Ford](https://open.spotify.com/track/5Mud6JOs11M9mzxBz9VoLG)
+- [Too Good To Be True by Kenneth James, Conor Robertson](https://open.spotify.com/track/0qbRH68dfFPh5zxFc0I4BZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
