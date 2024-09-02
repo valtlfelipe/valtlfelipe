@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (6 days ago)
 
 #### 🎧 What I have been listening
-- [Close To You by Will Omit](https://open.spotify.com/track/2lUBAEJbQFwFXhE0aah9TV)
-- [Air by Rezident](https://open.spotify.com/track/2tVifODuxy46RFMDFzYMkI)
-- [Heartbeats by Tobtok, farfetch&#39;d](https://open.spotify.com/track/4AwgEsYuFsdAYM8Tj6NxeE)
-- [Sherwood Forest by Nora En Pure](https://open.spotify.com/track/4PweJp1SbwGcCtUWGUKHbw)
-- [Pura Vida by Yulia Niko](https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO)
+- [You For Me by Thiiird3ye, Mukuka](https://open.spotify.com/track/0G3pL8CYaFCY7sqRJfJjRT)
+- [Going Crazy by Golden Smirk, Francoise Sanders](https://open.spotify.com/track/0V3a59t27wSd8bv1S3f7D0)
+- [Hypnotised by Nik Alevizos, LJ MASE, Ella X](https://open.spotify.com/track/1X8dlEX5eAGHU6u0NtdDxx)
+- [Lose Control by Zist, Sam Rendina, Summer Vibes](https://open.spotify.com/track/6GeA0vtzjoAwgH8IXlBTjW)
+- [Smile by ENLIV3N](https://open.spotify.com/track/5gShSXhFMZYQ0xJE52SVfW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
