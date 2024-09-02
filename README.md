@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (6 days ago)
 
 #### 🎧 What I have been listening
-- [Austin (Boots Stop Workin&#39;) by Dasha](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd)
-- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
-- [Stargazing by Myles Smith](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10)
-- [Lose Control by Teddy Swims](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj)
-- [MILLION DOLLAR BABY by Tommy Richman](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A)
+- [Under The Sun (with Alok) by Ella Henderson, Switch Disco, Alok](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y)
+- [Fall In Wonder by Ykonic](https://open.spotify.com/track/1fF2cxuFM1dV4yBAs3MpXH)
+- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
+- [Don&#39;t You Worry Child by Stangen](https://open.spotify.com/track/4p2vKMWl13lCssZ7V4ObHI)
+- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
