@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (6 days ago)
 
 #### 🎧 What I have been listening
-- [Under The Sun (with Alok) by Ella Henderson, Switch Disco, Alok](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y)
-- [Fall In Wonder by Ykonic](https://open.spotify.com/track/1fF2cxuFM1dV4yBAs3MpXH)
-- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
-- [Don&#39;t You Worry Child by Stangen](https://open.spotify.com/track/4p2vKMWl13lCssZ7V4ObHI)
-- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
+- [feel it - Talamo Remix by Talamo, Josiah Nichols](https://open.spotify.com/track/2mbSXyLquXGOGq67I3SOG8)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Bad Memories by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U)
+- [Smooth Operator by Lone Tusker](https://open.spotify.com/track/3z9W9fT8TFFeBY3t5WGLmm)
+- [Close My Eyes by Nick En Mare](https://open.spotify.com/track/4Dh2eeHgV5z4KycDFu96Sv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
