@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (6 days ago)
 
 #### 🎧 What I have been listening
-- [You For Me by Thiiird3ye, Mukuka](https://open.spotify.com/track/0G3pL8CYaFCY7sqRJfJjRT)
-- [Going Crazy by Golden Smirk, Francoise Sanders](https://open.spotify.com/track/0V3a59t27wSd8bv1S3f7D0)
-- [Hypnotised by Nik Alevizos, LJ MASE, Ella X](https://open.spotify.com/track/1X8dlEX5eAGHU6u0NtdDxx)
-- [Lose Control by Zist, Sam Rendina, Summer Vibes](https://open.spotify.com/track/6GeA0vtzjoAwgH8IXlBTjW)
-- [Smile by ENLIV3N](https://open.spotify.com/track/5gShSXhFMZYQ0xJE52SVfW)
+- [Too Sweet by Hozier](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C)
+- [BIRDS OF A FEATHER by Billie Eilish](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB)
+- [Ghost by Anna-Sophia Henry, Hobes](https://open.spotify.com/track/53lH3NySYZ9ivM91vlvrqQ)
+- [Give Me Love by Zens, BTRN, Robertson](https://open.spotify.com/track/7wb65yboVZykPRuLJSLAmU)
+- [Lost - Late Night Mix by Jack Trades](https://open.spotify.com/track/1ppxWWYHHy2w5GpdGur08R)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
