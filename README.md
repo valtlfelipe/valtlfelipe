@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (6 days ago)
 
 #### 🎧 What I have been listening
+- [Apple by Charli xcx](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o)
+- [Slow It Down by Benson Boone](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr)
+- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
+- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
 - [Too Sweet by Hozier](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C)
-- [BIRDS OF A FEATHER by Billie Eilish](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB)
-- [Ghost by Anna-Sophia Henry, Hobes](https://open.spotify.com/track/53lH3NySYZ9ivM91vlvrqQ)
-- [Give Me Love by Zens, BTRN, Robertson](https://open.spotify.com/track/7wb65yboVZykPRuLJSLAmU)
-- [Lost - Late Night Mix by Jack Trades](https://open.spotify.com/track/1ppxWWYHHy2w5GpdGur08R)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
