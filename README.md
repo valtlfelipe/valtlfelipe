@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (6 days ago)
 
 #### 🎧 What I have been listening
+- [Close To You by Will Omit](https://open.spotify.com/track/2lUBAEJbQFwFXhE0aah9TV)
 - [Air by Rezident](https://open.spotify.com/track/2tVifODuxy46RFMDFzYMkI)
 - [Heartbeats by Tobtok, farfetch&#39;d](https://open.spotify.com/track/4AwgEsYuFsdAYM8Tj6NxeE)
 - [Sherwood Forest by Nora En Pure](https://open.spotify.com/track/4PweJp1SbwGcCtUWGUKHbw)
 - [Pura Vida by Yulia Niko](https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO)
-- [Reflections - il:lo Remix by TWO LANES, il:lo](https://open.spotify.com/track/24gEf9r2dDBoWNZwN4lOss)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
