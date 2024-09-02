@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (today)
-- **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (1 day ago)
-- **[lima-vm/lima](https://github.com/lima-vm/lima)** - Linux virtual machines, with a focus on running containers (2 days ago)
-- **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (4 days ago)
-- **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (5 days ago)
+- **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 day ago)
+- **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (2 days ago)
+- **[lima-vm/lima](https://github.com/lima-vm/lima)** - Linux virtual machines, with a focus on running containers (3 days ago)
+- **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (5 days ago)
+- **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (6 days ago)
 
 #### 🎧 What I have been listening
 - [Air by Rezident](https://open.spotify.com/track/2tVifODuxy46RFMDFzYMkI)
