@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (6 days ago)
 
 #### 🎧 What I have been listening
-- [Apple by Charli xcx](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o)
-- [Slow It Down by Benson Boone](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr)
-- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
-- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
-- [Too Sweet by Hozier](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C)
+- [Austin (Boots Stop Workin&#39;) by Dasha](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
+- [Stargazing by Myles Smith](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10)
+- [Lose Control by Teddy Swims](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj)
+- [MILLION DOLLAR BABY by Tommy Richman](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
