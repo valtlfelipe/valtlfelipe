@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (1 week ago)
 
 #### 🎧 What I have been listening
-- [me &amp; my mind by FLÂNER, Sam Wiseman, Idun Nicoline](https://open.spotify.com/track/4ZzygTGn6zr2XwIx6656xA)
-- [nostalgia by Altero, Courtney Storm](https://open.spotify.com/track/6P145UblEPK6eXBtQYcbLG)
-- [How Will I Know by Dallien, Danny CLLS, nøya.](https://open.spotify.com/track/48B3FbaoxaYKbZo5uIHoBU)
-- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
-- [Sinking Deeper by Rico 56, Sickrate](https://open.spotify.com/track/1jq1J3JYkaYCvJl9voa2tT)
+- [Wide Blue by fwd/slash](https://open.spotify.com/track/1bzlLF1VeiXV51XWz8APpR)
+- [Where Do I Go From Here by Usually Quiet, Orum Palmer, Emma Cutajar](https://open.spotify.com/track/5F4tGSHXstulX0NpVz2ikX)
+- [How To Fly by Tobias Bergson, ROBINS](https://open.spotify.com/track/67fL0qr7IS2HqV91P0dBDU)
+- [Last Day Of Summer by Kusko, blackbird](https://open.spotify.com/track/77DPvfOqNxUfL2gLvkhSr6)
+- [Paramour by Xenea, Nico Roschnai, Midnight Purple](https://open.spotify.com/track/2vLe8QXNqAc8JJH20a1gSe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
