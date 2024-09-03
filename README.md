@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (1 week ago)
 
 #### 🎧 What I have been listening
-- [Rush In by AAfrAA, Jordan Grace](https://open.spotify.com/track/6xWccW5uvXlqSl7p7MzqyY)
-- [Let Me Fall by fwd/slash, Sophie van Hasselt](https://open.spotify.com/track/1AofCG6hAuLL9C9NYC5spE)
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h)
-- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
-- [What It Feels Like by Jason Wats, Lotus, Jan Liva](https://open.spotify.com/track/03UZAQWU9OJOVardmmGfFA)
+- [Anywhere by Firevibe, Joel Coopa](https://open.spotify.com/track/7a1v8RwsFOtJwtdRqBfXbN)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
+- [Do It Again by MISERO, deep dispatch](https://open.spotify.com/track/6Zabg025sA0Bi2n2nQyZjB)
+- [Looking For by LYCKEBORN, Summer Martin](https://open.spotify.com/track/2SfY2uxTde0OxiDXKWkf07)
+- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
