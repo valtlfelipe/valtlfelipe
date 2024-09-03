@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (1 week ago)
 
 #### 🎧 What I have been listening
-- [Out Of Focus - 6am Mix by Hyzteria, Lilly Ahlberg](https://open.spotify.com/track/6V1x8WDzYVNStB5z7sjxT1)
-- [Stay With Me by Chullo](https://open.spotify.com/track/4K7hJT5dGiVzvyfc3chvdv)
-- [Waste My Love by Oliver Cricket, DAV5, RAGUZZA](https://open.spotify.com/track/0zHaPkZcEMiAgzdL6hgh1v)
-- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
-- [Mind Still (feat. blythe) by Sonny Fodera, blythe](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v)
+- [Alone by Fabio Vee, Johny Luv](https://open.spotify.com/track/2t9GZwPj1Bz2y33j4R1dvR)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [Alone by Fabio Vee, Johny Luv](https://open.spotify.com/track/2t9GZwPj1Bz2y33j4R1dvR)
+- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
