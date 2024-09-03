@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (1 week ago)
 
 #### 🎧 What I have been listening
-- [Giving Me by Jazzy](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR)
-- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
-- [Morenita by Cumbiafrica, Lucas Estrada, Paradise Inc.](https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw)
-- [Miss Me by Teductive, PRMGH](https://open.spotify.com/track/5XMJeMxbVI1DLtNaH9cKPY)
-- [Hot Air Balloon by Shoby, AALLAR, Jessica Chertock](https://open.spotify.com/track/2xEougYI2D2qW0GhPyf6Ld)
+- [Electric High by Lavern](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH)
+- [Back to Me by Jai Nova](https://open.spotify.com/track/2kQ58pBNieZ10whIYVuPr0)
+- [The Time Is Now by Joel Coopa, Shoby, Chacel](https://open.spotify.com/track/6RdIXMyuGrmsMWfRXTIWKg)
+- [Stay High - Zerb Remix by Diplo, HUGEL, Zerb, Julia Church](https://open.spotify.com/track/3fripGC0ptg0cUE2qkjfRF)
+- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
