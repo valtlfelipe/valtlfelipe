@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (1 week ago)
 
 #### 🎧 What I have been listening
-- [My Heart Goes (La Di Da) (feat. Topic) by Becky Hill, Topic](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe)
-- [Glad You Came by SwitchBlade, Koa](https://open.spotify.com/track/1DqlitCYDktQxUzYi7xkbq)
-- [Overcome by Simon Dekkers, D-LEVELS](https://open.spotify.com/track/4BslNG1DUmiVT6qMOYyvlJ)
-- [Eye To Eye (Refeci Remix) by Lucas Estrada, Refeci](https://open.spotify.com/track/3fKCLCzk0GOimwI3e42wCg)
-- [I Don&#39;t by Vidojean X Oliver Loenn](https://open.spotify.com/track/02GT6uDGyR9hrnGisPJNmH)
+- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
+- [Sinking Deeper by Rico 56, Sickrate](https://open.spotify.com/track/1jq1J3JYkaYCvJl9voa2tT)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [Moment by Chullo](https://open.spotify.com/track/3Hr78SdTS9CZGTTcr4yBYG)
+- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
