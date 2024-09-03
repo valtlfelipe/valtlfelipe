@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[stern/stern](https://github.com/stern/stern)** - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wide Blue by fwd/slash](https://open.spotify.com/track/1bzlLF1VeiXV51XWz8APpR)
-- [Where Do I Go From Here by Usually Quiet, Orum Palmer, Emma Cutajar](https://open.spotify.com/track/5F4tGSHXstulX0NpVz2ikX)
-- [How To Fly by Tobias Bergson, ROBINS](https://open.spotify.com/track/67fL0qr7IS2HqV91P0dBDU)
-- [Last Day Of Summer by Kusko, blackbird](https://open.spotify.com/track/77DPvfOqNxUfL2gLvkhSr6)
-- [Paramour by Xenea, Nico Roschnai, Midnight Purple](https://open.spotify.com/track/2vLe8QXNqAc8JJH20a1gSe)
+- [Living In The Darkness by Sven and Jeffrey, Almost Weekend, Sam Heselwood](https://open.spotify.com/track/6ZjPGSwQH1I9srKKLacKKh)
+- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
+- [Night Drive by Relŭm](https://open.spotify.com/track/1O7lD7lSbZaR6zaRBfPyj5)
+- [Almost Fall in Love by Joan Alasta, Oleyada](https://open.spotify.com/track/3OveIhHg5KBYKhVJSecGgl)
+- [Rising by Lotus, Jan Liva, Faruk Orman, yara.](https://open.spotify.com/track/1strFFSyp0WcHZ7tA44dgt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
