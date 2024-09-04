@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
-- [In And Out Of Love by Rivo, Armin van Buuren, Sharon Den Adel](https://open.spotify.com/track/64fEHUyea9EqtAkmwqxFrr)
-- [Spin for Me by Flux Vortex](https://open.spotify.com/track/0CTCJRUphk4GvmIYgeD0bz)
-- [Love or Hate Me by Charleon](https://open.spotify.com/track/42L9HW0VI1jnajyTg2OwIT)
-- [Heaven or Not by Diplo, Riva Starr, Kareen Lomax](https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF)
+- [Bleeding by Big Z, Treetalk](https://open.spotify.com/track/3U2koEIfBOR6H7bojKcrUi)
+- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
+- [Hot Honey by Tiësto, Alana Springsteen](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp)
+- [In My Mind by Lavern](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk)
+- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
