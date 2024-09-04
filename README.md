@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Run Deep by Nu Aspect](https://open.spotify.com/track/4gBkrpJoPBZKY0T1gyJ4iU)
-- [Back to Me by Jai Nova](https://open.spotify.com/track/2kQ58pBNieZ10whIYVuPr0)
-- [Outside Of Love - Zerb Remix by Becky Hill, Zerb](https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5)
-- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
-- [Nobody Knows by Ape Drums, Clementine Douglas](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb)
+- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
+- [Human by Lavern](https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y)
+- [Right Here by Becky Hill](https://open.spotify.com/track/74EzvNoqJdoBwIap3o8Ycb)
+- [The Feeling by Lost Frequencies](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
+- [Feel It by Bapti, OANA](https://open.spotify.com/track/0zQdTcjV7Ky2K27no8d7JE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
