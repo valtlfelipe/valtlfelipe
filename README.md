@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
-- [Memories by Bright Hinze](https://open.spotify.com/track/7dza6AfqBSGOf9VxtBhv19)
-- [Lately by RÜFÜS DU SOL](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K)
-- [A Beautiful Life (Forever Finite) by vvolv, Joel Coopa](https://open.spotify.com/track/3vFXxajUZtXpgOwn71jrWz)
-- [Soul by Xenea, Golowko, Moav](https://open.spotify.com/track/2jJbQ686CTPrQRPLXev28T)
+- [You Make Me Feel Alive by Fabio Vee](https://open.spotify.com/track/30O8RbU8FldyPXDfvp289U)
+- [If You Wanna - Extended by Nu Aspect, Coach Harrison](https://open.spotify.com/track/0t23ypf6vwxVLklskUDqSw)
+- [When We Were Young (The Logical Song) by David Guetta, Kim Petras](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq)
+- [You Were Right by RÜFÜS DU SOL](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz)
+- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
