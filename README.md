@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (1 week ago)
 
 #### 🎧 What I have been listening
-- [On My Mind by Lynnic, ItsArius, Kezano](https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas)
-- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [You Should Go by Wavey](https://open.spotify.com/track/599h2dSNYPXwpEqEtYXnvl)
-- [Never Be Alone (feat. Sonny Fodera) by Becky Hill, Sonny Fodera](https://open.spotify.com/track/3pFe9dLAwfnwKt8gM6mqki)
-- [Addicted - Summer Version by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/2dXOVcJm5pHTegEifpiEt1)
+- [Something Real - Extended by Nu Aspect](https://open.spotify.com/track/25ogqcFBb5rZ4BZtoPr8zr)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
+- [Her Name by Charleon](https://open.spotify.com/track/3Wq4ZGJBlUt0Ntyw6orTOY)
+- [Electric Feel by James Carter, Malou](https://open.spotify.com/track/7d6bWTHr7EZgygynnxAKCA)
+- [Our Someday by Flux Vortex](https://open.spotify.com/track/53tBIhO6UBppfn885BgpFW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
