@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Something Real - Extended by Nu Aspect](https://open.spotify.com/track/25ogqcFBb5rZ4BZtoPr8zr)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
-- [Her Name by Charleon](https://open.spotify.com/track/3Wq4ZGJBlUt0Ntyw6orTOY)
-- [Electric Feel by James Carter, Malou](https://open.spotify.com/track/7d6bWTHr7EZgygynnxAKCA)
-- [Our Someday by Flux Vortex](https://open.spotify.com/track/53tBIhO6UBppfn885BgpFW)
+- [Run Deep by Nu Aspect](https://open.spotify.com/track/4gBkrpJoPBZKY0T1gyJ4iU)
+- [Back to Me by Jai Nova](https://open.spotify.com/track/2kQ58pBNieZ10whIYVuPr0)
+- [Outside Of Love - Zerb Remix by Becky Hill, Zerb](https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5)
+- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
+- [Nobody Knows by Ape Drums, Clementine Douglas](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
