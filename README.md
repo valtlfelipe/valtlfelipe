@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
-- [Human by Lavern](https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y)
-- [Right Here by Becky Hill](https://open.spotify.com/track/74EzvNoqJdoBwIap3o8Ycb)
-- [The Feeling by Lost Frequencies](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
-- [Feel It by Bapti, OANA](https://open.spotify.com/track/0zQdTcjV7Ky2K27no8d7JE)
+- [Anything For You by Nyday](https://open.spotify.com/track/2e3XgvAcLWhLM0ZO3gtl9j)
+- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
+- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
+- [Strings Attached by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8)
+- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
