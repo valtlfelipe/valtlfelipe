@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL)
-- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
-- [Kamwana by Will Knight](https://open.spotify.com/track/6MI8bpSgRyd378YETBbNfZ)
-- [Tell Me by Falden, Fare](https://open.spotify.com/track/2TLICM4QNi7BRg7Wa0kzdN)
-- [Where You Are by John Summit, HAYLA](https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk)
+- [Barcelona by Alan Walker, Ina Wroldsen](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy)
+- [Resonate (feat. Julia Church) by John Summit, Kaskade, Julia Church](https://open.spotify.com/track/4ZmWVoFNiBj0iNnnC7E4MA)
+- [It&#39;s Not Right But It&#39;s Okay by Mr. Belt &amp; Wezol](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj)
+- [Without You (with HAYLA) by Kygo, HAYLA](https://open.spotify.com/track/6L9UuUMs32tHkwPufnmZee)
+- [All Night by R3HAB, Sophie and the Giants](https://open.spotify.com/track/1rtUGB9XxwnX64t1k34ldu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
