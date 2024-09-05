@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[samber/lo](https://github.com/samber/lo)** - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (today)
+- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (today)
 - **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management. (1 day ago)
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (4 days ago)
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (5 days ago)
-- **[lima-vm/lima](https://github.com/lima-vm/lima)** - Linux virtual machines, with a focus on running containers (6 days ago)
-- **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** - The financial transactions database designed for mission critical safety and performance. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
-- [Free For Life - Chill House Mix by Simply Chill](https://open.spotify.com/track/0H4jZpT3LdZ3b2pNKLjagJ)
-- [You Make Me Feel Alive by Fabio Vee](https://open.spotify.com/track/30O8RbU8FldyPXDfvp289U)
-- [If You Wanna - Extended by Nu Aspect, Coach Harrison](https://open.spotify.com/track/0t23ypf6vwxVLklskUDqSw)
-- [When We Were Young (The Logical Song) by David Guetta, Kim Petras](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq)
+- [Chills (Feel My Love) by Oliver Heldens, David Guetta, FAST BOY](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x)
+- [All I Can Give by Mike D&#39; Jais](https://open.spotify.com/track/6tdpypVQEIZeH5yCtEp1m6)
+- [Ain&#39;t Giving Up by Duke Dumont, Clementine Douglas](https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9)
+- [Supernova by Mandarin Plaza](https://open.spotify.com/track/2La7WbDcWqU1tIJDOe6UHq)
+- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
