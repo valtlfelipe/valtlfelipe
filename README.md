@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Rockstar Baby (feat. Mougleta) by Robin Schulz, Mougleta](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p)
-- [Give Me Something To Hold by Jack Back, THEMBA, David Guetta](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F)
-- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
-- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
-- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
+- [Why I Love You So by Alok, James Hurr, Supafly](https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi)
+- [This Is The Life - Paradise Inc. Remix by Sarah de Warren, Charming Horses, Hanno, Paradise Inc.](https://open.spotify.com/track/1k8UhmiSVxit4kIPynyQ4l)
+- [Something Was Missing by RAZZ, Lotus](https://open.spotify.com/track/245RyaFVnJkLT7wPjWDp6s)
+- [Sunshine by Lavern](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH)
+- [Forever And A Day by LP Giobbi, Caroline Byrne](https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
