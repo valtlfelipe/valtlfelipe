@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (5 days ago)
 
 #### 🎧 What I have been listening
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Only One by Lèslöw](https://open.spotify.com/track/3JdXdwOlmKgHGOquInHbgf)
 - [Told You So by SUPER-Hi](https://open.spotify.com/track/6U1qO61UVeXwDoaylXvBc5)
 - [Bulletproof by Covenants, Émilie Rachel](https://open.spotify.com/track/4RhfvPYpC9GPGq5G9TOiq9)
 - [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
-- [Cut The Cord by Albi](https://open.spotify.com/track/2tB6e96YqP3QZfcXzBjx7B)
-- [Drowning by Lotus, Jan Liva, yara.](https://open.spotify.com/track/2x9by2uKPhaQDrIaK1aTqX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
