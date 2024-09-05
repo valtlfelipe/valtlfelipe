@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Chills (Feel My Love) by Oliver Heldens, David Guetta, FAST BOY](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x)
-- [All I Can Give by Mike D&#39; Jais](https://open.spotify.com/track/6tdpypVQEIZeH5yCtEp1m6)
-- [Ain&#39;t Giving Up by Duke Dumont, Clementine Douglas](https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9)
-- [Supernova by Mandarin Plaza](https://open.spotify.com/track/2La7WbDcWqU1tIJDOe6UHq)
-- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
+- [You&#39;re Makin&#39; Me High by DJ Katch, Amira Eldine](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA)
+- [Afterlife by Nu Aspect, JEWELS, MAGNUS](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd)
+- [Cry Baby by Clean Bandit, Anne-Marie, David Guetta](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD)
+- [If Only We Could by Cammie Robinson, Madason](https://open.spotify.com/track/5L2AN0eg1XN7SMLX5JEssj)
+- [Pieces Of Me by Mike D&#39; Jais](https://open.spotify.com/track/4anDSPAxfFcAcxQT1dATX6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
