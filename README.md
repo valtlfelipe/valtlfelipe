@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Lioness - Francis Mercier Remix by Swedish House Mafia, Niki &amp; The Dove, Francis Mercier](https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [Only One by Lèslöw](https://open.spotify.com/track/3JdXdwOlmKgHGOquInHbgf)
-- [Told You So by SUPER-Hi](https://open.spotify.com/track/6U1qO61UVeXwDoaylXvBc5)
-- [Bulletproof by Covenants, Émilie Rachel](https://open.spotify.com/track/4RhfvPYpC9GPGq5G9TOiq9)
+- [Touch Me by Felipe Allenn, Henry Chris, Sonaba](https://open.spotify.com/track/3vm6ZJjtXLzCXq7focO6a8)
+- [Pictures Of You by Anyma](https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f)
+- [Sirens by Dallerium, FARLEY](https://open.spotify.com/track/14tDY4UrwhZbhRktMhZ2v5)
+- [Tidal Waves by Sol Novaro](https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp)
+- [Aria by Argy, Omnya](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
