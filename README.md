@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (5 days ago)
 
 #### 🎧 What I have been listening
-- [You&#39;re Makin&#39; Me High by DJ Katch, Amira Eldine](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA)
-- [Afterlife by Nu Aspect, JEWELS, MAGNUS](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd)
-- [Cry Baby by Clean Bandit, Anne-Marie, David Guetta](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD)
-- [If Only We Could by Cammie Robinson, Madason](https://open.spotify.com/track/5L2AN0eg1XN7SMLX5JEssj)
-- [Pieces Of Me by Mike D&#39; Jais](https://open.spotify.com/track/4anDSPAxfFcAcxQT1dATX6)
+- [Told You So by SUPER-Hi](https://open.spotify.com/track/6U1qO61UVeXwDoaylXvBc5)
+- [Bulletproof by Covenants, Émilie Rachel](https://open.spotify.com/track/4RhfvPYpC9GPGq5G9TOiq9)
+- [Ego by Zen/it, Émilie Rachel](https://open.spotify.com/track/52ZTpjnpobRs2I8i3Tax1p)
+- [Cut The Cord by Albi](https://open.spotify.com/track/2tB6e96YqP3QZfcXzBjx7B)
+- [Drowning by Lotus, Jan Liva, yara.](https://open.spotify.com/track/2x9by2uKPhaQDrIaK1aTqX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
