@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[samber/lo](https://github.com/samber/lo)** - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (today)
-- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (today)
-- **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management. (1 day ago)
-- **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (4 days ago)
-- **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (5 days ago)
+- **[samber/lo](https://github.com/samber/lo)** - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 day ago)
+- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (1 day ago)
+- **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management. (2 days ago)
+- **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (5 days ago)
+- **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (6 days ago)
 
 #### 🎧 What I have been listening
 - [Why I Love You So by Alok, James Hurr, Supafly](https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi)
