@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Passage by Ben Travel](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL)
-- [wicked play by temperley](https://open.spotify.com/track/3a4C9jXFrXGcJnqBvIIK2U)
-- [champagne and kisses by far away mei](https://open.spotify.com/track/4UKnKyvCDI9QhMD2jRC0ma)
-- [Wanderlust by Mellowdy](https://open.spotify.com/track/59eV8EcCcz6TcTxhPKqfUb)
-- [Lakeswim by Konrad Wijk](https://open.spotify.com/track/1hAUYakXQGSr6IvJ6uFll1)
+- [Para Sol by Teide Garcia](https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4)
+- [Beatin&#39; Hearts by David Kuro](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS)
+- [Symbios by Floral Gloam](https://open.spotify.com/track/6XLqfDYv8a9H0aoWX348L7)
+- [1927 Swim Club by People Safari](https://open.spotify.com/track/4G8vy74V2geCTu8YqKL8jq)
+- [Bored by Chairten](https://open.spotify.com/track/0zsaCI7LPbR48ws0Yc1ckc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
