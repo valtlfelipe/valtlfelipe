@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Tell Me by Jaake Alsonn](https://open.spotify.com/track/7pMcOQVs9n2eNor8eGylOd)
-- [Cloudrunning by MayDance](https://open.spotify.com/track/6qihY4aQvSz0hb5Lw79ITu)
-- [Small Victorys by Cratouille](https://open.spotify.com/track/4WIG3yl5UjG4kuNXs5TgjU)
-- [Vanilla Perfume by LE OBAL](https://open.spotify.com/track/3gn6rpdlKqyrK1tNlGUcd6)
-- [NiteGlow by Zev Lyso](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ)
+- [Reels by YAN KAL](https://open.spotify.com/track/6fVFTZa7AaCemySAj7RLID)
+- [Summer flower by Petrossi](https://open.spotify.com/track/1FZ8DbYXBExoMZpVYlILR1)
+- [Informalité by Nyhuis](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK)
+- [Let It Out by [felt&amp;key]](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r)
+- [Babylon by Lak Host](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
