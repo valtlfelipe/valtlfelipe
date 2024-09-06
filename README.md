@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Why I Love You So by Alok, James Hurr, Supafly](https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi)
-- [This Is The Life - Paradise Inc. Remix by Sarah de Warren, Charming Horses, Hanno, Paradise Inc.](https://open.spotify.com/track/1k8UhmiSVxit4kIPynyQ4l)
-- [Something Was Missing by RAZZ, Lotus](https://open.spotify.com/track/245RyaFVnJkLT7wPjWDp6s)
-- [Sunshine by Lavern](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH)
-- [Forever And A Day by LP Giobbi, Caroline Byrne](https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2)
+- [Tell Me by Jaake Alsonn](https://open.spotify.com/track/7pMcOQVs9n2eNor8eGylOd)
+- [Cloudrunning by MayDance](https://open.spotify.com/track/6qihY4aQvSz0hb5Lw79ITu)
+- [Small Victorys by Cratouille](https://open.spotify.com/track/4WIG3yl5UjG4kuNXs5TgjU)
+- [Vanilla Perfume by LE OBAL](https://open.spotify.com/track/3gn6rpdlKqyrK1tNlGUcd6)
+- [NiteGlow by Zev Lyso](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
