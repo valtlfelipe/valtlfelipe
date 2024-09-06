@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Rainfall (Praise You) by Tom Santa](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl)
-- [OUT OUT (feat. Charli XCX &amp; Saweetie) by Joel Corry, Jax Jones, Charli xcx, Saweetie](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ)
-- [21 Reasons (feat. Ella Henderson) by Nathan Dawe, Ella Henderson](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR)
-- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/3j11iDncb7ZeDMw7lFucqM)
-- [Tell Me Why - MEDUZA Remix by Supermode, MEDUZA](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl)
+- [Transmission - Joris Voorn Remix by Eelke Kleijn, Joris Voorn](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH)
+- [PARADISE by HI-LO, DANNY AVILA, Oliver Heldens](https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk)
+- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
+- [Ferrari - Oliver Heldens Remix by James Hype, Miggy Dela Rosa, Oliver Heldens](https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI)
+- [Wings (I Won&#39;t Let You Down) by Armand Van Helden, Karen Harding](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
