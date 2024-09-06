@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Transmission - Joris Voorn Remix by Eelke Kleijn, Joris Voorn](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH)
-- [PARADISE by HI-LO, DANNY AVILA, Oliver Heldens](https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk)
-- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
-- [Ferrari - Oliver Heldens Remix by James Hype, Miggy Dela Rosa, Oliver Heldens](https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI)
-- [Wings (I Won&#39;t Let You Down) by Armand Van Helden, Karen Harding](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd)
+- [How To Save A Life by BETASTIC, mavzy grx, be//here, SKYWALKER, Luc Rushmere](https://open.spotify.com/track/7yvFXuuwMTRxbOMTDUta2e)
+- [Friends by Mariline, KONNA, Kaita](https://open.spotify.com/track/1a6neV3PJg6lZzQjcMFC0j)
+- [Want You - Radio Edit by ISVEL, Monroe](https://open.spotify.com/track/6f7cu55UzXIFTyQfStstNn)
+- [From Here To Mars by Simon Dekkers, D-LEVELS](https://open.spotify.com/track/4Zak7mjTXraTJWlKoNYgOQ)
+- [Honey by Hugo Carter](https://open.spotify.com/track/4XFliHcv5CvnM8ywM2LoEi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
