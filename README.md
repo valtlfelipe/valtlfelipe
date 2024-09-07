@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Belong Together by Mark Ambor](https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy)
 - [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
 - [My Universe by Coldplay, BTS](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI)
 - [SNAP by Rosa Linn](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6)
 - [How To Save A Life by BETASTIC, mavzy grx, be//here, SKYWALKER, Luc Rushmere](https://open.spotify.com/track/7yvFXuuwMTRxbOMTDUta2e)
-- [Friends by Mariline, KONNA, Kaita](https://open.spotify.com/track/1a6neV3PJg6lZzQjcMFC0j)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
