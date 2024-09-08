@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Melt by Quinn XCII](https://open.spotify.com/track/65OuiV65csFjciXDCRmWir)
 - [cloud 11 by thủy](https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD)
 - [Miles On It by Marshmello, Kane Brown](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf)
 - [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
 - [Sunshine (My Girl) by Wuki](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri)
-- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
