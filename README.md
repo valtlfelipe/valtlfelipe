@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
+- [I like me better by july](https://open.spotify.com/track/7A9ZQjsSb4GkdwepqnTFgZ)
+- [Nervous by MXVM, Jordan Jade](https://open.spotify.com/track/0tl0vQDWFuCcBwZbKA8AJy)
+- [Sonora by Remundo](https://open.spotify.com/track/4uBTS0wqWHxKsLhm6vCb1u)
 - [The Boy Is Mine by Sean Finn](https://open.spotify.com/track/6qMLcoZnJo02YikJtZnWnF)
 - [Sinking Feeling by KAAJO, ODBLU](https://open.spotify.com/track/3P2xBMOaRPnziqk3tV70eM)
-- [See the Light by Chunkee](https://open.spotify.com/track/2EUTpBg2sTxC8d4iHSNBEn)
-- [Wherever You Go by Eloi El](https://open.spotify.com/track/4nJFPxM3sYlB3WgEPiCteq)
-- [Bloody Samaritan | Remix by YAKUZV](https://open.spotify.com/track/2OVLwrBlRSB0TiRqCMyFrJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
