@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [Afterglow by Mariline, Robbie Hutton](https://open.spotify.com/track/6e10Xd2EtIN2Hn232t4Ikq)
-- [Sail Away by Sunset Club, Sandcastles](https://open.spotify.com/track/0QDU8eonVQEEBECGbl7F4D)
-- [Spirits by l&#39;essay, Cal1, LOEVA](https://open.spotify.com/track/2depsjOpDcxvFamZinXTQS)
-- [Teenage Heart by Jones Meadow, Nina Carr](https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a)
-- [Home by JEWELS, Discrete, Tudor](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5)
+- [Overnight by Parcels](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6)
+- [Synchronize by Milky Chance](https://open.spotify.com/track/3GXgrEjBjonrQrPEEi13yU)
+- [Forever Young by UNDRESSD, Ellie May](https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [My Way by Calvin Harris](https://open.spotify.com/track/3ejfcz0QPyV717Vd3ta04V)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
