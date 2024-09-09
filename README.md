@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [Home by JEWELS, Discrete, Tudor](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5)
-- [Can&#39;t Get Enough by The Kith](https://open.spotify.com/track/0871NKfu2qnV3qMPExsRyY)
-- [Time And Space by tomrees., houselife](https://open.spotify.com/track/0BjWWdEwtBTaXG9ZW7fnyx)
-- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
-- [Magic - Deep Love Mix by Urban Love](https://open.spotify.com/track/6S0q6IKVMES5zOprLg75i8)
+- [I like me better by july](https://open.spotify.com/track/7A9ZQjsSb4GkdwepqnTFgZ)
+- [Nervous by MXVM, Jordan Jade](https://open.spotify.com/track/0tl0vQDWFuCcBwZbKA8AJy)
+- [Sonora by Remundo](https://open.spotify.com/track/4uBTS0wqWHxKsLhm6vCb1u)
+- [The Boy Is Mine by Sean Finn](https://open.spotify.com/track/6qMLcoZnJo02YikJtZnWnF)
+- [Sinking Feeling by KAAJO, ODBLU](https://open.spotify.com/track/3P2xBMOaRPnziqk3tV70eM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
