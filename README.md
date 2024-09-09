@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
+- [Outside (feat. Ellie Goulding) by Calvin Harris, Ellie Goulding](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb)
+- [In Camera by Yumi Zouma](https://open.spotify.com/track/34PIoWUkKuAUbGTozZsxvB)
+- [Sweater Weather by The Neighbourhood](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6)
 - [Overnight by Parcels](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6)
 - [Synchronize by Milky Chance](https://open.spotify.com/track/3GXgrEjBjonrQrPEEi13yU)
-- [Forever Young by UNDRESSD, Ellie May](https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [My Way by Calvin Harris](https://open.spotify.com/track/3ejfcz0QPyV717Vd3ta04V)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
