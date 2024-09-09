@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [I like me better by july](https://open.spotify.com/track/7A9ZQjsSb4GkdwepqnTFgZ)
-- [Nervous by MXVM, Jordan Jade](https://open.spotify.com/track/0tl0vQDWFuCcBwZbKA8AJy)
-- [Sonora by Remundo](https://open.spotify.com/track/4uBTS0wqWHxKsLhm6vCb1u)
-- [The Boy Is Mine by Sean Finn](https://open.spotify.com/track/6qMLcoZnJo02YikJtZnWnF)
-- [Sinking Feeling by KAAJO, ODBLU](https://open.spotify.com/track/3P2xBMOaRPnziqk3tV70eM)
+- [Afterglow by Mariline, Robbie Hutton](https://open.spotify.com/track/6e10Xd2EtIN2Hn232t4Ikq)
+- [Sail Away by Sunset Club, Sandcastles](https://open.spotify.com/track/0QDU8eonVQEEBECGbl7F4D)
+- [Spirits by l&#39;essay, Cal1, LOEVA](https://open.spotify.com/track/2depsjOpDcxvFamZinXTQS)
+- [Teenage Heart by Jones Meadow, Nina Carr](https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a)
+- [Home by JEWELS, Discrete, Tudor](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
