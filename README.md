@@ -3,9 +3,9 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[samber/lo](https://github.com/samber/lo)** - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (3 days ago)
-- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (3 days ago)
-- **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management. (4 days ago)
+- **[samber/lo](https://github.com/samber/lo)** - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (4 days ago)
+- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (4 days ago)
+- **[FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management. (5 days ago)
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 - **[undb-io/undb](https://github.com/undb-io/undb)** - 🚀 Private first self-hosted no code database &amp; BaaS. (1 week ago)
 
