@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Boy Is Mine by Sean Finn](https://open.spotify.com/track/6qMLcoZnJo02YikJtZnWnF)
-- [Sinking Feeling by KAAJO, ODBLU](https://open.spotify.com/track/3P2xBMOaRPnziqk3tV70eM)
-- [See the Light by Chunkee](https://open.spotify.com/track/2EUTpBg2sTxC8d4iHSNBEn)
-- [Wherever You Go by Eloi El](https://open.spotify.com/track/4nJFPxM3sYlB3WgEPiCteq)
-- [Bloody Samaritan | Remix by YAKUZV](https://open.spotify.com/track/2OVLwrBlRSB0TiRqCMyFrJ)
+- [Baianá by WISEKIDS](https://open.spotify.com/track/1sPqowRjTJwZ1RJTdXHpt5)
+- [Love Had Us Blind by J Lisk](https://open.spotify.com/track/1bcnxJFgGyLKyZN17dKN5Q)
+- [Enjoy The Silence by Soundland, RIVEE, Filogy](https://open.spotify.com/track/2PxoecW0Zx9X3k4mk5OO0e)
+- [Again by Piece Wise, Ali Bakgor, onebit.](https://open.spotify.com/track/3TGqWqm5cxJCdEPPI9TZaT)
+- [If I Lose Myself by Lively](https://open.spotify.com/track/5gzo4VaJ7KXomTgSfytSUH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
