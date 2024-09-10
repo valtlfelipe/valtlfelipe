@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [Overdrive (feat. Norma Jean Martine) by Ofenbach, Norma Jean Martine](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
-- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
-- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [Raye by Sultan &#43; Shepard, Shallou](https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe)
+- [Nevermind by Dennis Lloyd](https://open.spotify.com/track/63SevszngYpZOwf63o61K4)
+- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3)
+- [Bloom by Piece Wise, Abroad](https://open.spotify.com/track/1s6Cvc0F0xTc6PBIlpnMgK)
+- [To Let Myself Go by The Avener, Ane Brun](https://open.spotify.com/track/4IQgbTjXZfINWOS5TKL6T0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
