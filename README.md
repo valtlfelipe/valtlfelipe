@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [Raye by Sultan &#43; Shepard, Shallou](https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe)
-- [Nevermind by Dennis Lloyd](https://open.spotify.com/track/63SevszngYpZOwf63o61K4)
-- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3)
-- [Bloom by Piece Wise, Abroad](https://open.spotify.com/track/1s6Cvc0F0xTc6PBIlpnMgK)
-- [To Let Myself Go by The Avener, Ane Brun](https://open.spotify.com/track/4IQgbTjXZfINWOS5TKL6T0)
+- [Save Me by LISTENBEE, Naz Tokio](https://open.spotify.com/track/4jNM6l3Amnmyy1kNCLcSWL)
+- [Water Flow by Klyne](https://open.spotify.com/track/1gcbDj7nfYolTr09LklGlr)
+- [Nopalitos by Kid Francescoli](https://open.spotify.com/track/7mTu2ZcNb2Ip79YEzZZnrf)
+- [This Love by Klangkarussell, Poppy Baskcomb](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO)
+- [Overnight by Parcels](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
