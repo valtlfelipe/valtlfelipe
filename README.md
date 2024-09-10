@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [Liberation by Harold van Lennep](https://open.spotify.com/track/6JgjIRRv7uMSEjzzxHTQoh)
-- [Nothing Breaks Like a Heart (feat. Miley Cyrus) by Mark Ronson, Miley Cyrus](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn)
-- [Dive by Hot Shade, Mike Perry, Chris James](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd)
-- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
-- [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
+- [Summer by Calvin Harris](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)
+- [Moments - Ben Böhmer &amp; Nils Hoffmann Remix by Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0)
+- [Shots - Broiler Remix by Imagine Dragons, Broiler](https://open.spotify.com/track/0fsEFwLSJTSHSawhe864Cp)
+- [A Sky Full of Stars by Coldplay](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ)
+- [Wings (I Won&#39;t Let You Down) by Armand Van Helden, Karen Harding](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
