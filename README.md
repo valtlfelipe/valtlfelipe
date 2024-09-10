@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
+- [Liberation by Harold van Lennep](https://open.spotify.com/track/6JgjIRRv7uMSEjzzxHTQoh)
 - [Nothing Breaks Like a Heart (feat. Miley Cyrus) by Mark Ronson, Miley Cyrus](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn)
 - [Dive by Hot Shade, Mike Perry, Chris James](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd)
 - [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
 - [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
-- [Feeling For You by Milky Chance](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
