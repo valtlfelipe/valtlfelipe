@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [Summer by Calvin Harris](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)
-- [Moments - Ben Böhmer &amp; Nils Hoffmann Remix by Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0)
-- [Shots - Broiler Remix by Imagine Dragons, Broiler](https://open.spotify.com/track/0fsEFwLSJTSHSawhe864Cp)
-- [A Sky Full of Stars by Coldplay](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ)
-- [Wings (I Won&#39;t Let You Down) by Armand Van Helden, Karen Harding](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
+- [Rise by Lynnic](https://open.spotify.com/track/3uBy64hFwBlmt48c2xnUlg)
+- [Sunshine by Lavern](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
