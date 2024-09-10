@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
+- [Hot Air Balloon by Don Diablo, AR/CO](https://open.spotify.com/track/67p96tIoC4ESrod9kW331R)
+- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
+- [Run Deep by Nu Aspect](https://open.spotify.com/track/4gBkrpJoPBZKY0T1gyJ4iU)
 - [Moonrise by Zimmer](https://open.spotify.com/track/5yizzF8tORzeLVEzk237J6)
 - [Ghostkeeper by Klangkarussell, GIVVEN](https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC)
-- [Golden Record by TEEMID](https://open.spotify.com/track/49lIyn2aJjHLNuDHsxZQkc)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [Aural Therapy by fwd/slash](https://open.spotify.com/track/66IYfbVOcRwoVE7GXmEt0J)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
