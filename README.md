@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [Your Heart by Lynnic, ItsArius](https://open.spotify.com/track/56b6hfYKczrdjPRX2iRAhi)
-- [You Were Right by RÜFÜS DU SOL](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz)
-- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h)
+- [Moonrise by Zimmer](https://open.spotify.com/track/5yizzF8tORzeLVEzk237J6)
+- [Ghostkeeper by Klangkarussell, GIVVEN](https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC)
+- [Golden Record by TEEMID](https://open.spotify.com/track/49lIyn2aJjHLNuDHsxZQkc)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [Aural Therapy by fwd/slash](https://open.spotify.com/track/66IYfbVOcRwoVE7GXmEt0J)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
