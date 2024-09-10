@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [Save Me by LISTENBEE, Naz Tokio](https://open.spotify.com/track/4jNM6l3Amnmyy1kNCLcSWL)
-- [Water Flow by Klyne](https://open.spotify.com/track/1gcbDj7nfYolTr09LklGlr)
-- [Nopalitos by Kid Francescoli](https://open.spotify.com/track/7mTu2ZcNb2Ip79YEzZZnrf)
-- [This Love by Klangkarussell, Poppy Baskcomb](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO)
-- [Overnight by Parcels](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6)
+- [Take Me Home by Saco, Sebastiën](https://open.spotify.com/track/4Mg3YzlEp93OhGQol4VqXL)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
+- [Fade Out Lines by The Avener, Phoebe Killdeer](https://open.spotify.com/track/6Bjxd0ksVIqKofboPPuZl9)
+- [Fever by Joachim Pastor, Mischa](https://open.spotify.com/track/6ZT8IQupnDF9yoXSfddZSv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
