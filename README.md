@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [Hot Air Balloon by Don Diablo, AR/CO](https://open.spotify.com/track/67p96tIoC4ESrod9kW331R)
-- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
-- [Run Deep by Nu Aspect](https://open.spotify.com/track/4gBkrpJoPBZKY0T1gyJ4iU)
-- [Moonrise by Zimmer](https://open.spotify.com/track/5yizzF8tORzeLVEzk237J6)
-- [Ghostkeeper by Klangkarussell, GIVVEN](https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC)
+- [Be Strong by Spada, Korolova](https://open.spotify.com/track/1PI6MPyMGeRLbKDCaQ3BDi)
+- [Lost In Mind by Ben Böhmer, Malou](https://open.spotify.com/track/25ZrGWzFc0Trv3024g9BSg)
+- [Away With Me by Ross Quinn](https://open.spotify.com/track/0qCkgaivWlgcv6SCSQ2AjY)
+- [Love Will Tear Us Apart - Tensnake Remix by R Plus, Amelia Fox, Tensnake, Faithless](https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq)
+- [Wonderwall by TEEMID](https://open.spotify.com/track/4sigEqg7SMeZsn8haXoloU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
