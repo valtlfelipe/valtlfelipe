@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xataio/pgstream](https://github.com/xataio/pgstream)** - PostgreSQL replication with DDL changes (1 week ago)
 
 #### 🎧 What I have been listening
-- [Be Strong by Spada, Korolova](https://open.spotify.com/track/1PI6MPyMGeRLbKDCaQ3BDi)
-- [Lost In Mind by Ben Böhmer, Malou](https://open.spotify.com/track/25ZrGWzFc0Trv3024g9BSg)
-- [Away With Me by Ross Quinn](https://open.spotify.com/track/0qCkgaivWlgcv6SCSQ2AjY)
-- [Love Will Tear Us Apart - Tensnake Remix by R Plus, Amelia Fox, Tensnake, Faithless](https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq)
-- [Wonderwall by TEEMID](https://open.spotify.com/track/4sigEqg7SMeZsn8haXoloU)
+- [Turn It Back by Deepend, Phable](https://open.spotify.com/track/6gOLrLPBjfHeb6SlUgm5Au)
+- [Illuminate by Astrality, Leo Stannard](https://open.spotify.com/track/6SpS3512xzHKapz4plRuZW)
+- [Move Me by Lavern](https://open.spotify.com/track/6LptEwO1ObZvVQXlU0BPIJ)
+- [One in a Million by Bebe Rexha, David Guetta](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz)
+- [Kyoto by Angara](https://open.spotify.com/track/0tPk6OPi760BD6C5WtqcqG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
