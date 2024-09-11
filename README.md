@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[samber/lo](https://github.com/samber/lo)** - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (6 days ago)
 
 #### 🎧 What I have been listening
-- [Shelterlude by Philanthrope](https://open.spotify.com/track/5plJesIAxOAGcudkX85J95)
-- [Back Track by The Doppelgangaz](https://open.spotify.com/track/4KwcRJaVIUZPWoGGHkNYHP)
-- [makemesee by Tesk](https://open.spotify.com/track/4cDsurPMyBKKeK1DcCUrda)
-- [Bali by lorleaf](https://open.spotify.com/track/4GTx5ce46I727hO7AmTwf0)
-- [New Beginnings by Kissamilé](https://open.spotify.com/track/3Vw2rtdWlU1b92EGr2gPue)
+- [Bikini Palm-trees by C Y G N](https://open.spotify.com/track/1hoOwViOljQk62RasN6MY7)
+- [Friends by Arbour, G Mills](https://open.spotify.com/track/5ck9DgUnS6rxXmZOh5cxBm)
+- [Tucked Inside by goosetaf](https://open.spotify.com/track/35WesVxluGb3WoEq20qHS6)
+- [ny90 by Ezzy](https://open.spotify.com/track/1y7ddkTYqIMX0EgzjjtX55)
+- [YesPlease by Tane](https://open.spotify.com/track/0rqvIHxDIw0m4gNImbf2gd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
