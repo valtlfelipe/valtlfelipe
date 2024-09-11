@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (6 days ago)
 
 #### 🎧 What I have been listening
-- [Told You So by SUPER-Hi](https://open.spotify.com/track/6U1qO61UVeXwDoaylXvBc5)
-- [Japan - Satin Jackets Remix by Tycho, Saint Sinner, Satin Jackets](https://open.spotify.com/track/4riBORG5X5kvQThwODPDDh)
-- [Bad by Don Diablo, Zak Abel](https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf)
-- [Father Ocean - Ben Böhmer Remix Edit by Monolink, Ben Böhmer](https://open.spotify.com/track/4oWDaJpusSH1lqIQQkEHsS)
-- [Walking On A Dream by Empire Of The Sun](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)
+- [Looming by Birocratic, Dotlights](https://open.spotify.com/track/7HSbTmUjROd5iOHkWkNhQq)
+- [belonging by Swørn](https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE)
+- [mogh by Plusma, Miramare](https://open.spotify.com/track/0c9G1ZszfAlp92eQn9hEhS)
+- [Savannah Vacation by Aduza Dolozi, Lofi Afrobeats](https://open.spotify.com/track/06rvRIr2Zv3nnKebVMpCrZ)
+- [Lost Call by Suuna, tulki](https://open.spotify.com/track/4wDI7x2XeXBQ0yLYLiC1eg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
