@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (6 days ago)
 
 #### 🎧 What I have been listening
-- [Looming by Birocratic, Dotlights](https://open.spotify.com/track/7HSbTmUjROd5iOHkWkNhQq)
-- [belonging by Swørn](https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE)
-- [mogh by Plusma, Miramare](https://open.spotify.com/track/0c9G1ZszfAlp92eQn9hEhS)
-- [Savannah Vacation by Aduza Dolozi, Lofi Afrobeats](https://open.spotify.com/track/06rvRIr2Zv3nnKebVMpCrZ)
-- [Lost Call by Suuna, tulki](https://open.spotify.com/track/4wDI7x2XeXBQ0yLYLiC1eg)
+- [Castles by SwuM, Chris Mazuera](https://open.spotify.com/track/7LfmWyvDwCsBIdSV7jCK76)
+- [Where I Met You by Moods](https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ)
+- [Sincere by Tom Doolie, DAO](https://open.spotify.com/track/5pV2vgWKbi0adGeA9MgdaB)
+- [Twins by Rose Noir](https://open.spotify.com/track/7EzrgYyJLz4skhkZNFaBTP)
+- [Check It Out by L&#39;Indécis](https://open.spotify.com/track/3qzlgTZHdLpj1xxLii1b21)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
