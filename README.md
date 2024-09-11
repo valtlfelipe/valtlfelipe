@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (6 days ago)
 
 #### 🎧 What I have been listening
+- [Sunlight by Kendall Miles, Jintonic](https://open.spotify.com/track/1KXcHq1VB2m2ul0EJfnrxX)
+- [Bimmer M6 by Kreatev](https://open.spotify.com/track/4TpWLKKS8MH0X8sXKunm5I)
+- [Sky Pretty by Masked Man](https://open.spotify.com/track/6u9X5MP7xEkfLAfgtvxrNh)
 - [Sunkissed Cycles by lloom](https://open.spotify.com/track/63VjwbNSIqYNk3EakDUDdY)
 - [Oregon Coast by Sweeps, luv pug](https://open.spotify.com/track/0g5QVGcBJowOXoXzamlyrW)
-- [Trio Delphi by Titus Martinu, 7apes, Packed Rich](https://open.spotify.com/track/5t7rVRIFpZxb7Cv6B2zwoZ)
-- [Summer by Mac Kay](https://open.spotify.com/track/24RajsgQPPCtSucmBo6KJK)
-- [Destination by Ruck P](https://open.spotify.com/track/3Yw5a8qoFLRI6syccll9av)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
