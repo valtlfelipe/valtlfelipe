@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (2 days ago)
 
 #### 🎧 What I have been listening
-- [Greedy by Cupido](https://open.spotify.com/track/3gQgbzajJJ3RAfvxZcK9OI)
-- [Again by Piece Wise, Ali Bakgor, onebit.](https://open.spotify.com/track/3TGqWqm5cxJCdEPPI9TZaT)
-- [Coastline by seesea, Mary L](https://open.spotify.com/track/7dqyJpzatYdfLDHGVOJOyy)
-- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
-- [Nervous by MXVM, Jordan Jade](https://open.spotify.com/track/0tl0vQDWFuCcBwZbKA8AJy)
+- [Teenage Heart by Jones Meadow, Nina Carr](https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a)
+- [Can&#39;t Get Enough by The Kith](https://open.spotify.com/track/0871NKfu2qnV3qMPExsRyY)
+- [Home by JEWELS, Discrete, Tudor](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5)
+- [If I Lose Myself by Lively](https://open.spotify.com/track/5gzo4VaJ7KXomTgSfytSUH)
+- [Ocean Drive by Cammy, OTASH, Bahti](https://open.spotify.com/track/4Iic4zOosR8wKRqRcsKaC1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
