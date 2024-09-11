@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (today)
 - **[yaakapp/app](https://github.com/yaakapp/app)** - The most intuitive desktop API client (today)
 - **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (1 day ago)
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (2 days ago)
 - **[samber/lo](https://github.com/samber/lo)** - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (6 days ago)
-- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (6 days ago)
 
 #### 🎧 What I have been listening
-- [Devine Variety by Mama Aiuto, Daphné](https://open.spotify.com/track/6dDDcXzn9O4pLOBt2dzZTh)
-- [Go Slow by little blue](https://open.spotify.com/track/78w7u65c8LiQGkM8o3qQqg)
-- [Moonlite by Nokiaa, Deauxnuts](https://open.spotify.com/track/1lkNDozGF71J5Av2OB6Eoe)
-- [The Backyard by Noflik, Pleij](https://open.spotify.com/track/6cyX6lruOniejnJWvnBmRm)
-- [Lobby call by Enough Cereals](https://open.spotify.com/track/1wUgAGiqXUE6R6z9f0wXsm)
+- [Shelterlude by Philanthrope](https://open.spotify.com/track/5plJesIAxOAGcudkX85J95)
+- [Back Track by The Doppelgangaz](https://open.spotify.com/track/4KwcRJaVIUZPWoGGHkNYHP)
+- [makemesee by Tesk](https://open.spotify.com/track/4cDsurPMyBKKeK1DcCUrda)
+- [Bali by lorleaf](https://open.spotify.com/track/4GTx5ce46I727hO7AmTwf0)
+- [New Beginnings by Kissamilé](https://open.spotify.com/track/3Vw2rtdWlU1b92EGr2gPue)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
