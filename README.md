@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[samber/lo](https://github.com/samber/lo)** - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (6 days ago)
 
 #### 🎧 What I have been listening
-- [Bikini Palm-trees by C Y G N](https://open.spotify.com/track/1hoOwViOljQk62RasN6MY7)
-- [Friends by Arbour, G Mills](https://open.spotify.com/track/5ck9DgUnS6rxXmZOh5cxBm)
-- [Tucked Inside by goosetaf](https://open.spotify.com/track/35WesVxluGb3WoEq20qHS6)
-- [ny90 by Ezzy](https://open.spotify.com/track/1y7ddkTYqIMX0EgzjjtX55)
-- [YesPlease by Tane](https://open.spotify.com/track/0rqvIHxDIw0m4gNImbf2gd)
+- [Impulse by Enough Cereals](https://open.spotify.com/track/0BKG7oJUIiNtI3udvFRmwl)
+- [Misty by Mac Kay](https://open.spotify.com/track/33mAVPnTnYnq4IWNS3aQZv)
+- [Sorry by Swørn](https://open.spotify.com/track/39hjQ0uNNuOUaqLfFZ0TOn)
+- [Envy You by J.Folk](https://open.spotify.com/track/0K26aBzWMgQDkMOzVJMNpm)
+- [p i c k m e u p by Tesk](https://open.spotify.com/track/5yarnn61dnwNcLWKj4EzQ9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
