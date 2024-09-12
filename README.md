@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (3 days ago)
 
 #### 🎧 What I have been listening
-- [In The Jungle by Billy Bass](https://open.spotify.com/track/0NApDxr5cNELYiSVWXEIf0)
-- [Keep It Calm by Flaminguez](https://open.spotify.com/track/7Lk97jmCy6NLGoMOCliR25)
-- [Nightglow by icey wavs, Late Night Tones](https://open.spotify.com/track/1rhiJHG1d6nIrCguIQ7JuO)
-- [In-N-Out by Sleepy Titan](https://open.spotify.com/track/5BZqg465LaUCfqNk3780Dk)
-- [Inner Vibration by Somebody&#39;s Son](https://open.spotify.com/track/4p163ntlRk3wPrb3v2LuQy)
+- [Running Roads by AUIIRA](https://open.spotify.com/track/1gQQk1XUWePlcnv818bGmH)
+- [Flying Back by Bad Gherkin](https://open.spotify.com/track/0qstgwsVm3X1bP5hrvBwrr)
+- [Our Souls by Akkoro](https://open.spotify.com/track/39Vs81BU8jVEH0oMbadYFa)
+- [Soaring Skies by Dillon Kay](https://open.spotify.com/track/6BYqDQYn9ZkXsEior0XqzL)
+- [Memory Leak by Northern Panda](https://open.spotify.com/track/3BGAZcY5SpJUMoZ8E10Kmy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
