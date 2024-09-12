@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (3 days ago)
 
 #### 🎧 What I have been listening
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
-- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
-- [Hide Away - Alan Walker Remix by Daya, Alan Walker](https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f)
-- [Gatluak - Bakermat Remix by Kronan, Nyaruach, Bakermat](https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ)
-- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t)
+- [Thunder by Lucas Estrada, Brendan Mills, BELLA X, LRMEO](https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj)
+- [Dancing In The Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
+- [Lionheart (Fearless) by Joel Corry, Tom Grennan](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3)
+- [How You Samba by Kris Kross Amsterdam, Sofía Reyes, Tinie Tempah](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1)
+- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
