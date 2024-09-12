@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (3 days ago)
 
 #### 🎧 What I have been listening
-- [Crazy (feat. KORA) by outset island, KORA](https://open.spotify.com/track/5lLMBUZRASGDZcUCzUOgbH)
-- [Wherever You Go by Eloi El](https://open.spotify.com/track/4nJFPxM3sYlB3WgEPiCteq)
-- [Sinking Feeling by KAAJO, ODBLU](https://open.spotify.com/track/3P2xBMOaRPnziqk3tV70eM)
-- [Sweet Dreams by Elemer, Casian](https://open.spotify.com/track/2cLW2aQw7lfwaZvfiBet5q)
-- [Teenage Heart by Jones Meadow, Nina Carr](https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a)
+- [Dance The Night by Dua Lipa](https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f)
+- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
+- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
+- [Rasputin by Majestic, Boney M.](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q)
+- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
