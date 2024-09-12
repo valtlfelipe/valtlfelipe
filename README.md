@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (3 days ago)
 
 #### 🎧 What I have been listening
-- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
-- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [Somebody (2024) by Gotye, FISHER, Chris Lake, Kimbra, Sante Sansone](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO)
-- [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
-- [Summertime Blues (feat. Nathan Nicholson) by Chris Lake, Sammy Virji, Nathan Nicholson](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp)
+- [Arraial Da Ajuda by Estelas](https://open.spotify.com/track/7CFOFPykUPagxBUwa7D0AQ)
+- [Falling Leaves by Major 7th](https://open.spotify.com/track/1LpLdL8nYXqSwaGOcx1CDo)
+- [strolling by !nvite](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa)
+- [Dripht by BLVKSHP](https://open.spotify.com/track/0OGA7zBgWPrd0FW6au6TVN)
+- [Park Swing by Astairé](https://open.spotify.com/track/2OtSn8KFe1yhbOZhFAv4t9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
