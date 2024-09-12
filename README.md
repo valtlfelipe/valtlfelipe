@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (3 days ago)
 
 #### 🎧 What I have been listening
+- [Poolside by Wax A Dizk](https://open.spotify.com/track/17gYRqnp5Jbjd1JupM3T9P)
 - [Arraial Da Ajuda by Estelas](https://open.spotify.com/track/7CFOFPykUPagxBUwa7D0AQ)
 - [Falling Leaves by Major 7th](https://open.spotify.com/track/1LpLdL8nYXqSwaGOcx1CDo)
 - [strolling by !nvite](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa)
 - [Dripht by BLVKSHP](https://open.spotify.com/track/0OGA7zBgWPrd0FW6au6TVN)
-- [Park Swing by Astairé](https://open.spotify.com/track/2OtSn8KFe1yhbOZhFAv4t9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
