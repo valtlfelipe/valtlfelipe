@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (3 days ago)
 
 #### 🎧 What I have been listening
-- [Thunder by Lucas Estrada, Brendan Mills, BELLA X, LRMEO](https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj)
-- [Dancing In The Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
-- [Lionheart (Fearless) by Joel Corry, Tom Grennan](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3)
-- [How You Samba by Kris Kross Amsterdam, Sofía Reyes, Tinie Tempah](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1)
-- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
+- [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
+- [Summertime Blues (feat. Nathan Nicholson) by Chris Lake, Sammy Virji, Nathan Nicholson](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp)
+- [Eat Your Man (with Nelly Furtado) by Dom Dolla, Nelly Furtado](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW)
+- [Your Love (9PM) by ATB, Topic, A7S](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx)
+- [Bulletproof by La Roux, GAMPER &amp; DADONI](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
