@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (3 days ago)
 
 #### 🎧 What I have been listening
-- [Dance The Night by Dua Lipa](https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f)
-- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
-- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
-- [Rasputin by Majestic, Boney M.](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q)
-- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
+- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
+- [Hide Away - Alan Walker Remix by Daya, Alan Walker](https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f)
+- [Gatluak - Bakermat Remix by Kronan, Nyaruach, Bakermat](https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ)
+- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
