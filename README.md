@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (3 days ago)
 
 #### 🎧 What I have been listening
+- [Crazy (feat. KORA) by outset island, KORA](https://open.spotify.com/track/5lLMBUZRASGDZcUCzUOgbH)
+- [Wherever You Go by Eloi El](https://open.spotify.com/track/4nJFPxM3sYlB3WgEPiCteq)
+- [Sinking Feeling by KAAJO, ODBLU](https://open.spotify.com/track/3P2xBMOaRPnziqk3tV70eM)
+- [Sweet Dreams by Elemer, Casian](https://open.spotify.com/track/2cLW2aQw7lfwaZvfiBet5q)
 - [Teenage Heart by Jones Meadow, Nina Carr](https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a)
-- [Can&#39;t Get Enough by The Kith](https://open.spotify.com/track/0871NKfu2qnV3qMPExsRyY)
-- [Home by JEWELS, Discrete, Tudor](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5)
-- [If I Lose Myself by Lively](https://open.spotify.com/track/5gzo4VaJ7KXomTgSfytSUH)
-- [Ocean Drive by Cammy, OTASH, Bahti](https://open.spotify.com/track/4Iic4zOosR8wKRqRcsKaC1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
