@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (4 days ago)
 
 #### 🎧 What I have been listening
-- [Than Ever by Toni Brand](https://open.spotify.com/track/5TeFZ4WK1oq5NMYJzkKaBK)
-- [Outta Your Mind - Radio Edit by Xavi del Mundo, Menno](https://open.spotify.com/track/2ZdU81kQJ4T536OhpevdFC)
-- [Maybe Just For Tonight by LEØN TARØ, Yasmin Jane](https://open.spotify.com/track/0oezb5HSh8So2grwRnAHxY)
-- [Over It by BAF](https://open.spotify.com/track/7jfd9pY9Y1d7WO6jFyXO7G)
-- [Memories by Futosé, Halfway](https://open.spotify.com/track/0A3Cof0Zfq1YaZbmjUDsrB)
+- [Believe (feat. Goodboys) by ACRAZE, Goodboys](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE)
+- [Bad Days by YYVON](https://open.spotify.com/track/5x6VcHpdyBzwRYh88bkFQb)
+- [Spinning (Kriss Reeve &amp; Joxion Remix) by Martin Mix, Nick Drumm, Kriss Reeve, JOXION](https://open.spotify.com/track/6PA5k1B4nfUMA5DQnKcODL)
+- [All I Want Is You by Annus Khan](https://open.spotify.com/track/0MRrwquELWtUMarjZBtwoh)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
