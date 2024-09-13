@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (4 days ago)
 
 #### 🎧 What I have been listening
-- [Feed Your Soul by PINKFISH](https://open.spotify.com/track/7GhpqfO04mQQasiEusVlQ2)
-- [Helium - Radio Edit by Malpa, Deepest, AMHouse](https://open.spotify.com/track/3zF673YHYEQFUthQfQ3W8h)
-- [Turn On The Lights again.. (feat. Future &amp; Fred again..) - Anyma Remix by Swedish House Mafia, Anyma, Future, Fred again..](https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6)
-- [Everytime We Touch by Sugar Jesus, LEØN TARØ](https://open.spotify.com/track/46rJi3NrCFuiOXPfX5wq91)
-- [Feels Right by Jake Silva, Frankie Sims](https://open.spotify.com/track/2JVVFUf4Cgbv0b6StZQ7Ow)
+- [Scared To Be Lonely by Futosé, Halfway, Chelsea Nicole](https://open.spotify.com/track/0t035AdKuD4p1aC4yBG1a6)
+- [My Feelings For You - Don Diablo Remix by Avicii, Sebastien Drums, Don Diablo](https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms)
+- [Back To You by Finlay C, Becky Smith](https://open.spotify.com/track/0RcQqlSNylMgcHUDz4IgxR)
+- [Pegasus by MEDUZA, Eli &amp; Fur](https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ)
+- [She Doesn’t Mind by DNVX, IM FIN3](https://open.spotify.com/track/0BaTiJBhrcd3rRClTu0f7u)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
