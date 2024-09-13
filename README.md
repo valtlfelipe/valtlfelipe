@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (4 days ago)
 
 #### 🎧 What I have been listening
-- [Believe (feat. Goodboys) by ACRAZE, Goodboys](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE)
-- [Bad Days by YYVON](https://open.spotify.com/track/5x6VcHpdyBzwRYh88bkFQb)
-- [Spinning (Kriss Reeve &amp; Joxion Remix) by Martin Mix, Nick Drumm, Kriss Reeve, JOXION](https://open.spotify.com/track/6PA5k1B4nfUMA5DQnKcODL)
-- [All I Want Is You by Annus Khan](https://open.spotify.com/track/0MRrwquELWtUMarjZBtwoh)
-- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [Gonna Be - Radio Edit by Siëndo](https://open.spotify.com/track/40BBQVZQ4AtGmqyiZeJmlo)
+- [Zephyr by Baran Ozhan](https://open.spotify.com/track/3KuoQvv7Piw81tlQI0KDtN)
+- [Siempre by David Atsman, WAYVEE](https://open.spotify.com/track/5LsY6xeLRsFnnslPhZ0ofi)
+- [Heart - Radio Edit by Jimmy Rich, Mike Helan](https://open.spotify.com/track/2TyPYR5t34YU0KtchWN2l5)
+- [There’s No Need To by Roxelio](https://open.spotify.com/track/1odaprfK5XPWFxMK3oNo0i)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
