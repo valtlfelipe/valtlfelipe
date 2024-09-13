@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (4 days ago)
 
 #### 🎧 What I have been listening
-- [Bananza (Belly Dancer) by Kriss Reeve, Swizzy Max](https://open.spotify.com/track/1S5j9eSU4RQ2ztXYH5ncNr)
-- [111 - Radio Edit by Diielex](https://open.spotify.com/track/7KYWH0ZeyvflfVZF7vEfwZ)
-- [Give It To Me by Lucky Luke](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG)
-- [Fade Into You by Sanzes, Niko Frost](https://open.spotify.com/track/5hCTVVDGfN8u2lEPlAVd1u)
-- [True Love by GiBoss](https://open.spotify.com/track/1pyZ1y2PePOZgkBa2WX4pQ)
+- [Than Ever by Toni Brand](https://open.spotify.com/track/5TeFZ4WK1oq5NMYJzkKaBK)
+- [Outta Your Mind - Radio Edit by Xavi del Mundo, Menno](https://open.spotify.com/track/2ZdU81kQJ4T536OhpevdFC)
+- [Maybe Just For Tonight by LEØN TARØ, Yasmin Jane](https://open.spotify.com/track/0oezb5HSh8So2grwRnAHxY)
+- [Over It by BAF](https://open.spotify.com/track/7jfd9pY9Y1d7WO6jFyXO7G)
+- [Memories by Futosé, Halfway](https://open.spotify.com/track/0A3Cof0Zfq1YaZbmjUDsrB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
