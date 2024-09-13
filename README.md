@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (4 days ago)
 
 #### 🎧 What I have been listening
+- [Bananza (Belly Dancer) by Kriss Reeve, Swizzy Max](https://open.spotify.com/track/1S5j9eSU4RQ2ztXYH5ncNr)
+- [111 - Radio Edit by Diielex](https://open.spotify.com/track/7KYWH0ZeyvflfVZF7vEfwZ)
 - [Give It To Me by Lucky Luke](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG)
 - [Fade Into You by Sanzes, Niko Frost](https://open.spotify.com/track/5hCTVVDGfN8u2lEPlAVd1u)
 - [True Love by GiBoss](https://open.spotify.com/track/1pyZ1y2PePOZgkBa2WX4pQ)
-- [Say It Right - Jack Rush Remix by Gabriel Wittner, Nate, LIGO, Jack Rush](https://open.spotify.com/track/37Nl5bg7rtLN3rLccwwZAB)
-- [In Love by Phil Harris](https://open.spotify.com/track/4HA40IQPn00MClbb9bKA58)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
