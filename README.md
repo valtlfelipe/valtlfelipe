@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (4 days ago)
 
 #### 🎧 What I have been listening
-- [Running Roads by AUIIRA](https://open.spotify.com/track/1gQQk1XUWePlcnv818bGmH)
-- [Flying Back by Bad Gherkin](https://open.spotify.com/track/0qstgwsVm3X1bP5hrvBwrr)
-- [Our Souls by Akkoro](https://open.spotify.com/track/39Vs81BU8jVEH0oMbadYFa)
-- [Soaring Skies by Dillon Kay](https://open.spotify.com/track/6BYqDQYn9ZkXsEior0XqzL)
-- [Memory Leak by Northern Panda](https://open.spotify.com/track/3BGAZcY5SpJUMoZ8E10Kmy)
+- [Outside My Mind by Luca Lazza](https://open.spotify.com/track/6IibTXIhm1B6ehcZxh3w1N)
+- [Children by BETASTIC, Skuado](https://open.spotify.com/track/4016mCGDxO5c3H6sn68hK4)
+- [Let The Music Take Control by PINKFISH](https://open.spotify.com/track/4pvoOCoh4uhBGcMEdHQ3kP)
+- [Long Time by Bogomolove](https://open.spotify.com/track/0LV7tvc3Y45H7w8Pf9VtVR)
+- [Just For The Night by Monocloud, Hoffy Beats](https://open.spotify.com/track/0iBxNrMyD5IX0EPDaioTjn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
