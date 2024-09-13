@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (4 days ago)
 
 #### 🎧 What I have been listening
+- [Can You Feel My Heart by Luca Lazza](https://open.spotify.com/track/7J2f8746P57guK7BUWCqOk)
+- [Safer - Radio Edit by Berkai, ATHOS](https://open.spotify.com/track/6g3SlCXimky8SMVzs69Eon)
+- [One More Try by Dallax](https://open.spotify.com/track/4bmRC5rybl5PEGPEmBYdo7)
 - [Scared To Be Lonely by Futosé, Halfway, Chelsea Nicole](https://open.spotify.com/track/0t035AdKuD4p1aC4yBG1a6)
 - [My Feelings For You - Don Diablo Remix by Avicii, Sebastien Drums, Don Diablo](https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms)
-- [Back To You by Finlay C, Becky Smith](https://open.spotify.com/track/0RcQqlSNylMgcHUDz4IgxR)
-- [Pegasus by MEDUZA, Eli &amp; Fur](https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ)
-- [She Doesn’t Mind by DNVX, IM FIN3](https://open.spotify.com/track/0BaTiJBhrcd3rRClTu0f7u)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
