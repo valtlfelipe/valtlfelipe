@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (4 days ago)
 
 #### 🎧 What I have been listening
-- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
-- [The Groove - Radio Edit by Siëndo](https://open.spotify.com/track/2l7YjOe5pTjZdJgrfYm3Eb)
-- [Stayin&#39; Alive by Mr. Black &amp; Blue, Wesley Verstegen](https://open.spotify.com/track/7IDzSquVaC1XgxJPhhaLI8)
-- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
-- [Tell Me Why by Jacala, Khealo, Lemon Solstice](https://open.spotify.com/track/4b6QqUDaM4UizKBRDXWs6K)
+- [Feed Your Soul by PINKFISH](https://open.spotify.com/track/7GhpqfO04mQQasiEusVlQ2)
+- [Helium - Radio Edit by Malpa, Deepest, AMHouse](https://open.spotify.com/track/3zF673YHYEQFUthQfQ3W8h)
+- [Turn On The Lights again.. (feat. Future &amp; Fred again..) - Anyma Remix by Swedish House Mafia, Anyma, Future, Fred again..](https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6)
+- [Everytime We Touch by Sugar Jesus, LEØN TARØ](https://open.spotify.com/track/46rJi3NrCFuiOXPfX5wq91)
+- [Feels Right by Jake Silva, Frankie Sims](https://open.spotify.com/track/2JVVFUf4Cgbv0b6StZQ7Ow)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
