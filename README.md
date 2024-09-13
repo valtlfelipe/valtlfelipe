@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (4 days ago)
 
 #### 🎧 What I have been listening
-- [Outside My Mind by Luca Lazza](https://open.spotify.com/track/6IibTXIhm1B6ehcZxh3w1N)
-- [Children by BETASTIC, Skuado](https://open.spotify.com/track/4016mCGDxO5c3H6sn68hK4)
-- [Let The Music Take Control by PINKFISH](https://open.spotify.com/track/4pvoOCoh4uhBGcMEdHQ3kP)
-- [Long Time by Bogomolove](https://open.spotify.com/track/0LV7tvc3Y45H7w8Pf9VtVR)
-- [Just For The Night by Monocloud, Hoffy Beats](https://open.spotify.com/track/0iBxNrMyD5IX0EPDaioTjn)
+- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
+- [The Groove - Radio Edit by Siëndo](https://open.spotify.com/track/2l7YjOe5pTjZdJgrfYm3Eb)
+- [Stayin&#39; Alive by Mr. Black &amp; Blue, Wesley Verstegen](https://open.spotify.com/track/7IDzSquVaC1XgxJPhhaLI8)
+- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
+- [Tell Me Why by Jacala, Khealo, Lemon Solstice](https://open.spotify.com/track/4b6QqUDaM4UizKBRDXWs6K)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
