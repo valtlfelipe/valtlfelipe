@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (5 days ago)
 
 #### 🎧 What I have been listening
-- [Bump Bump Bump by Kriss Reeve, Swizzy Max](https://open.spotify.com/track/7D9tQ3P9Zb8WsAp8Qiy950)
 - [Missing You - Radio Edit by Scott Forshaw](https://open.spotify.com/track/2D7hGWADliEQ4TNQQLkrH0)
-- [Dust In The Wind by Ian Storm, Ron van den Beuken, Menno](https://open.spotify.com/track/6z3rjm8KusS1JnDCOIMbHK)
-- [Close To You by Ardiyan](https://open.spotify.com/track/1uyosRshFcdYCeLegnFzQj)
-- [Memories (feat. Kid Cudi) - 2021 Remix by David Guetta, Kid Cudi](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa)
+- [Until I Found Myself by Fargro](https://open.spotify.com/track/6CZ0cjjsPrVENB2AmCkAJ8)
+- [Make Me Feel - Radio Edit by Simon Miles, LizAnn](https://open.spotify.com/track/5Uv7QT788W0qTTATdiV4gi)
+- [Hot In Here by Steff da Campo](https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP)
+- [True Colors by Mark Coles, Ron van den Beuken, Menno](https://open.spotify.com/track/35q5bE3HNS08S0NBFoXQGE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
