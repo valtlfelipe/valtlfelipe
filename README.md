@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (5 days ago)
 
 #### 🎧 What I have been listening
-- [Missing You - Radio Edit by Scott Forshaw](https://open.spotify.com/track/2D7hGWADliEQ4TNQQLkrH0)
-- [Until I Found Myself by Fargro](https://open.spotify.com/track/6CZ0cjjsPrVENB2AmCkAJ8)
-- [Make Me Feel - Radio Edit by Simon Miles, LizAnn](https://open.spotify.com/track/5Uv7QT788W0qTTATdiV4gi)
-- [Hot In Here by Steff da Campo](https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP)
-- [True Colors by Mark Coles, Ron van den Beuken, Menno](https://open.spotify.com/track/35q5bE3HNS08S0NBFoXQGE)
+- [Just Dance by BETASTIC, JANFRY, Strownlex, Margad](https://open.spotify.com/track/0ouceAkAeidNc8kBYAqPHq)
+- [Flashback - Radio Edit by Insimon](https://open.spotify.com/track/13fiXmNAonAIe6PZccJRtU)
+- [Getting Older - Radio Edit by Demale](https://open.spotify.com/track/0guiSVCKWuY7KdGqx3wXmG)
+- [Think About You - Radio Edit by Leveki, Conor Robertson](https://open.spotify.com/track/1tpRS1TpKSYtu477Nm1dtC)
+- [Can&#39;t Let Go by DJ Zaro](https://open.spotify.com/track/2Db0NG3xbUkxqQGsYgdPrJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
