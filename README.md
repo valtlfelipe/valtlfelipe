@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (6 days ago)
 
 #### 🎧 What I have been listening
-- [Just Dance by BETASTIC, JANFRY, Strownlex, Margad](https://open.spotify.com/track/0ouceAkAeidNc8kBYAqPHq)
-- [Flashback - Radio Edit by Insimon](https://open.spotify.com/track/13fiXmNAonAIe6PZccJRtU)
-- [Getting Older - Radio Edit by Demale](https://open.spotify.com/track/0guiSVCKWuY7KdGqx3wXmG)
-- [Think About You - Radio Edit by Leveki, Conor Robertson](https://open.spotify.com/track/1tpRS1TpKSYtu477Nm1dtC)
-- [Can&#39;t Let Go by DJ Zaro](https://open.spotify.com/track/2Db0NG3xbUkxqQGsYgdPrJ)
+- [Your Love (9PM) by ATB, Topic, A7S](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx)
+- [Ocean by Penubiz, Freaky DJs](https://open.spotify.com/track/5YbiY6G4cH8skZwkmQk6T0)
+- [Summer&#39;s Back by Alok, Jess Glynne](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o)
+- [Piece Of Your Heart - Alok Remix by MEDUZA, Alok, Goodboys](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW)
+- [Homesick by MÆDM, Bright Hinze](https://open.spotify.com/track/1B7vmkDa7jdzvrU8grO68N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
