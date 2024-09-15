@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (6 days ago)
 
 #### 🎧 What I have been listening
-- [Your Love (9PM) by ATB, Topic, A7S](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx)
-- [Ocean by Penubiz, Freaky DJs](https://open.spotify.com/track/5YbiY6G4cH8skZwkmQk6T0)
 - [Summer&#39;s Back by Alok, Jess Glynne](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o)
+- [Criminal by Henrique Fernandez, Zonatto, Ricca](https://open.spotify.com/track/2RyKrs0CaXHcswZKsoZXHM)
+- [My City (feat. Katy Tiz) by Tiësto, Prophecy, Katy Tiz](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm)
 - [Piece Of Your Heart - Alok Remix by MEDUZA, Alok, Goodboys](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW)
-- [Homesick by MÆDM, Bright Hinze](https://open.spotify.com/track/1B7vmkDa7jdzvrU8grO68N)
+- [Believe - Sevenn Remix by Mida, Sevenn](https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
