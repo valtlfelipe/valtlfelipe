@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (6 days ago)
 
 #### 🎧 What I have been listening
-- [Summer&#39;s Back by Alok, Jess Glynne](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o)
-- [Criminal by Henrique Fernandez, Zonatto, Ricca](https://open.spotify.com/track/2RyKrs0CaXHcswZKsoZXHM)
-- [My City (feat. Katy Tiz) by Tiësto, Prophecy, Katy Tiz](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm)
-- [Piece Of Your Heart - Alok Remix by MEDUZA, Alok, Goodboys](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW)
-- [Believe - Sevenn Remix by Mida, Sevenn](https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi)
+- [Showing Signs by PRINSH](https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut)
+- [Castles by N.E.O.N, Italo Vieira](https://open.spotify.com/track/1rCV6oUytS0owPnrh7cPYZ)
+- [The Way by Boostereo, ROWKA](https://open.spotify.com/track/5SuiKqQOfG2zvv0UG4RyWS)
+- [LET&#39;S GET FKD UP by Alok, Mondello&#39;G, CERES, Tribbs](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8)
+- [leavemealone by Fred again.., Baby Keem](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
