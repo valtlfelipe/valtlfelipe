@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (6 days ago)
 
 #### 🎧 What I have been listening
-- [Paint Something Beautiful by Moonsound](https://open.spotify.com/track/5dLYgcy7fX7Kb1wsR6H7Pv)
-- [Go Back Home by Johannes Jungleson, Tropical Fairytale](https://open.spotify.com/track/7dez3EvPzsDPWKZzeX3kD7)
-- [Somebody Else by Hitkend House Lab](https://open.spotify.com/track/5AbcLEfeqHRZNOcYXVrMwQ)
-- [Insight by Ashdown, JOS](https://open.spotify.com/track/2uygIqhXcoLrnT7oA1rsV8)
-- [My Mind by Ethan Miller](https://open.spotify.com/track/1AEcELFbIEjwDP0gpH834k)
+- [Holding On (feat. RVLE) by Sander Divino, RVLE](https://open.spotify.com/track/5qd0jRpUE9D31qGbh7sC8E)
+- [You Got The Love by Fancy Fugazi](https://open.spotify.com/track/1GX40kDUh66XspahTIvI0t)
+- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
+- [Supergirl by Alena Kita](https://open.spotify.com/track/5UyeZmC1xbSNmwmw3qhXRi)
+- [Moments by Bibano Beach Club, Lucky Reinhard](https://open.spotify.com/track/7jAUMzKgtgNyQoFHqekbAy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
