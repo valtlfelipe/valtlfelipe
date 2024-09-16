@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (6 days ago)
 
 #### 🎧 What I have been listening
-- [The Depths by JARP, Tenjo](https://open.spotify.com/track/0o7de9GRm39xN16GpElekn)
-- [Boulevard of Broken Dreams by Alexander Merlin, Selina Baron](https://open.spotify.com/track/5XfNHn4xs084rmy8Tzz1cz)
 - [Paint Something Beautiful by Moonsound](https://open.spotify.com/track/5dLYgcy7fX7Kb1wsR6H7Pv)
 - [Go Back Home by Johannes Jungleson, Tropical Fairytale](https://open.spotify.com/track/7dez3EvPzsDPWKZzeX3kD7)
 - [Somebody Else by Hitkend House Lab](https://open.spotify.com/track/5AbcLEfeqHRZNOcYXVrMwQ)
+- [Insight by Ashdown, JOS](https://open.spotify.com/track/2uygIqhXcoLrnT7oA1rsV8)
+- [My Mind by Ethan Miller](https://open.spotify.com/track/1AEcELFbIEjwDP0gpH834k)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
