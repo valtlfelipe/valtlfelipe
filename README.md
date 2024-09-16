@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (6 days ago)
 
 #### 🎧 What I have been listening
-- [Adventure Of A Lifetime (feat. Dom Fricot) by Chill Gull, AKI, Dom Fricot](https://open.spotify.com/track/72d2mfCsKATJbw0UTUopr6)
-- [Way to Go - Club Soda Mix by Soda State](https://open.spotify.com/track/1Ym1wyAwCGTVFTRS4bpBZn)
-- [On Me by Van Herpen, Marcus Mollyhus](https://open.spotify.com/track/3Zulg2rc8paEiKWLIs3TYD)
-- [Set Someone Free by forgetmenot](https://open.spotify.com/track/1Vof3FO6hvjvvL11Fogf1S)
-- [Erase / Rewind - KTB Deep Remix by Tyra Givens](https://open.spotify.com/track/5CN8XGpLMdHnXZafHMqGOP)
+- [Somebody Else by Hitkend House Lab](https://open.spotify.com/track/5AbcLEfeqHRZNOcYXVrMwQ)
+- [Insight by Ashdown, JOS](https://open.spotify.com/track/2uygIqhXcoLrnT7oA1rsV8)
+- [My Mind by Ethan Miller](https://open.spotify.com/track/1AEcELFbIEjwDP0gpH834k)
+- [Favorite Wrong by The NGHBRS](https://open.spotify.com/track/4aGStEuwrSQBynCrHMgsEQ)
+- [One More Time by Menza, Yann Muller](https://open.spotify.com/track/1mkTvuWn9G1M38zsem7gKC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
