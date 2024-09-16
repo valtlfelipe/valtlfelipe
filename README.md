@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (6 days ago)
 
 #### 🎧 What I have been listening
+- [Don&#39;t Call by just Fede, Foínix, Justin J. Moore](https://open.spotify.com/track/6XytRgaAFShyMA8d2CKX6r)
+- [Casablanca by Junerule, Brendan Mills, Julia Shuren](https://open.spotify.com/track/5bNB9nhYKtwy9H730acFJF)
 - [Get To Know by Flip Flop Joe](https://open.spotify.com/track/5KlXvvQyPTdqRBv8JnSuab)
 - [Murder on The Dancefloor by Deeplace](https://open.spotify.com/track/7F1NzdyccG4P4KZCfahIML)
 - [Take Me Home (feat. sunsett.) by 3ric, BTRN, sunsett.](https://open.spotify.com/track/7tKTgbHa9obkITojCxHCcf)
-- [Rhythm Of My Mind - Chill Edit by Atch, Treetalk](https://open.spotify.com/track/0ZJdZtjF4cjZazBjeG8ql1)
-- [Easy To Love by Armin van Buuren, Matoma, Teddy Swims](https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
