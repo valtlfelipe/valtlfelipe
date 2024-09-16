@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (1 week ago)
 
 #### 🎧 What I have been listening
+- [The Depths by JARP, Tenjo](https://open.spotify.com/track/0o7de9GRm39xN16GpElekn)
+- [Boulevard of Broken Dreams by Alexander Merlin, Selina Baron](https://open.spotify.com/track/5XfNHn4xs084rmy8Tzz1cz)
+- [Paint Something Beautiful by Moonsound](https://open.spotify.com/track/5dLYgcy7fX7Kb1wsR6H7Pv)
 - [Breaking Me - HUGEL Remix by Topic, A7S, HUGEL](https://open.spotify.com/track/0XX5PxqMoXAPxBZ0qYqSwI)
 - [Showing Signs by PRINSH](https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut)
-- [Castles by N.E.O.N, Italo Vieira](https://open.spotify.com/track/1rCV6oUytS0owPnrh7cPYZ)
-- [The Way by Boostereo, ROWKA](https://open.spotify.com/track/5SuiKqQOfG2zvv0UG4RyWS)
-- [LET&#39;S GET FKD UP by Alok, Mondello&#39;G, CERES, Tribbs](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
