@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (4 days ago)
-- **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (4 days ago)
-- **[yaakapp/app](https://github.com/yaakapp/app)** - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app. (4 days ago)
-- **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (5 days ago)
-- **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (6 days ago)
+- **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (5 days ago)
+- **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (5 days ago)
+- **[yaakapp/app](https://github.com/yaakapp/app)** - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app. (5 days ago)
+- **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (6 days ago)
+- **[afadil/wealthfolio](https://github.com/afadil/wealthfolio)** - A Beautiful Private and Secure Desktop Investment Tracking Application (1 week ago)
 
 #### 🎧 What I have been listening
 - [Breaking Me - HUGEL Remix by Topic, A7S, HUGEL](https://open.spotify.com/track/0XX5PxqMoXAPxBZ0qYqSwI)
