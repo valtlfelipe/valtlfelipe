@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (6 days ago)
 
 #### 🎧 What I have been listening
-- [Don&#39;t Call by just Fede, Foínix, Justin J. Moore](https://open.spotify.com/track/6XytRgaAFShyMA8d2CKX6r)
-- [Casablanca by Junerule, Brendan Mills, Julia Shuren](https://open.spotify.com/track/5bNB9nhYKtwy9H730acFJF)
-- [Get To Know by Flip Flop Joe](https://open.spotify.com/track/5KlXvvQyPTdqRBv8JnSuab)
-- [Murder on The Dancefloor by Deeplace](https://open.spotify.com/track/7F1NzdyccG4P4KZCfahIML)
-- [Take Me Home (feat. sunsett.) by 3ric, BTRN, sunsett.](https://open.spotify.com/track/7tKTgbHa9obkITojCxHCcf)
+- [Adventure Of A Lifetime (feat. Dom Fricot) by Chill Gull, AKI, Dom Fricot](https://open.spotify.com/track/72d2mfCsKATJbw0UTUopr6)
+- [Way to Go - Club Soda Mix by Soda State](https://open.spotify.com/track/1Ym1wyAwCGTVFTRS4bpBZn)
+- [On Me by Van Herpen, Marcus Mollyhus](https://open.spotify.com/track/3Zulg2rc8paEiKWLIs3TYD)
+- [Set Someone Free by forgetmenot](https://open.spotify.com/track/1Vof3FO6hvjvvL11Fogf1S)
+- [Erase / Rewind - KTB Deep Remix by Tyra Givens](https://open.spotify.com/track/5CN8XGpLMdHnXZafHMqGOP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
