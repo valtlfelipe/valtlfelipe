@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Life by Polariz](https://open.spotify.com/track/2pWESo7dtudwFub2sd3yKN)
-- [Coastline by seesea, Mary L](https://open.spotify.com/track/7dqyJpzatYdfLDHGVOJOyy)
-- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
-- [Like No One&#39;s Here by Recens, Dominic Donner](https://open.spotify.com/track/6sOfIfmLp01BNkaPjUi3IT)
-- [Enjoy The Silence by Soundland, RIVEE, Filogy](https://open.spotify.com/track/2PxoecW0Zx9X3k4mk5OO0e)
+- [Memories by Bright Hinze](https://open.spotify.com/track/7dza6AfqBSGOf9VxtBhv19)
+- [Catch &amp; Release by Planetopia](https://open.spotify.com/track/00eUfsLQfuR9h6waaiHDUq)
+- [Tides (feat. Nina Carr) by Divolly &amp; Markward, Panuma, Nina Carr](https://open.spotify.com/track/0jLypQwcSSQf17T7vuIMTh)
+- [Nobody Knows by Ape Drums, Clementine Douglas](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb)
+- [Aural Therapy by fwd/slash](https://open.spotify.com/track/66IYfbVOcRwoVE7GXmEt0J)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
