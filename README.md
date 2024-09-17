@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Every Breath You Take by Kayote, Slenderino, Gabriel Wittner, Luciana Silva](https://open.spotify.com/track/2NlwmRuaUqWuvOzEVmQo4M)
+- [The Time Is Now by Joel Coopa, Shoby, Chacel](https://open.spotify.com/track/6RdIXMyuGrmsMWfRXTIWKg)
+- [Legacy - MrRevillz Remix by Segiri, MrRevillz](https://open.spotify.com/track/70ca7HPg3VSxZ7E3r4dJnO)
+- [Lullaby by Acko, Ola Martin, David Emde](https://open.spotify.com/track/7AmhrMd70FuXsn1uCd1DML)
 - [Sinking Feeling by KAAJO, ODBLU](https://open.spotify.com/track/3P2xBMOaRPnziqk3tV70eM)
-- [Make Me Feel by Steam Phunk, maybealice](https://open.spotify.com/track/3oeTpxPTiC7mf618t37O9J)
-- [Push Me Away by SAINT.](https://open.spotify.com/track/5ybfrJKD6Uw9R4BNm6cZxO)
-- [Summertime Sadness by four30](https://open.spotify.com/track/4dNtnXTCeYcx2CwJyyJUL7)
-- [Fallen Angel by Vall, JAIKO](https://open.spotify.com/track/0SxkdPdZ6ebgVXnHM0sNKL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
