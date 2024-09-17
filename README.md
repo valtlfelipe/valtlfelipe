@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (1 week ago)
 
 #### 🎧 What I have been listening
+- [How Will I Know by Dallien, Danny CLLS, nøya.](https://open.spotify.com/track/48B3FbaoxaYKbZo5uIHoBU)
+- [stay by elsaaa](https://open.spotify.com/track/6TDCSPpRELWCbT3PmBIii5)
+- [Higher by Rammor](https://open.spotify.com/track/44jQ7CA1A5eCq5SIxY1M3H)
 - [Sunshine by Second Sun, Natural Fool](https://open.spotify.com/track/1naTPzOnhzA6d9CDOOkQnx)
 - [Holding On (feat. RVLE) by Sander Divino, RVLE](https://open.spotify.com/track/5qd0jRpUE9D31qGbh7sC8E)
-- [You Got The Love by Fancy Fugazi](https://open.spotify.com/track/1GX40kDUh66XspahTIvI0t)
-- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
-- [Supergirl by Alena Kita](https://open.spotify.com/track/5UyeZmC1xbSNmwmw3qhXRi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
