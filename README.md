@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (6 days ago)
 
 #### 🎧 What I have been listening
-- [How We Do by Maxxteen](https://open.spotify.com/track/1qM44i3fF16l7vVgMIrzhn)
-- [House of Glass (feat. Justin J. Moore) by Jarod Glawe, Justin J. Moore](https://open.spotify.com/track/67m5pQd4eeJD4dnbIJVmRz)
-- [As I Am by OARM](https://open.spotify.com/track/4y3R2vkOUBtIHolh1GG8up)
-- [Just A Little by Hydawai, CMC$](https://open.spotify.com/track/7syg0s6LG9GLGH3kkUZZOq)
-- [Are You Gonna Be My Girl by Here We Go Go](https://open.spotify.com/track/60ssdXx3BqAWKuTbQJ6wVZ)
+- [Sinking Feeling by KAAJO, ODBLU](https://open.spotify.com/track/3P2xBMOaRPnziqk3tV70eM)
+- [Make Me Feel by Steam Phunk, maybealice](https://open.spotify.com/track/3oeTpxPTiC7mf618t37O9J)
+- [Push Me Away by SAINT.](https://open.spotify.com/track/5ybfrJKD6Uw9R4BNm6cZxO)
+- [Summertime Sadness by four30](https://open.spotify.com/track/4dNtnXTCeYcx2CwJyyJUL7)
+- [Fallen Angel by Vall, JAIKO](https://open.spotify.com/track/0SxkdPdZ6ebgVXnHM0sNKL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
