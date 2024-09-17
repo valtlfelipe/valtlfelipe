@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (1 week ago)
 
 #### 🎧 What I have been listening
-- [Finding You by Lynnic, Neon Valis](https://open.spotify.com/track/0WzfqSwwcm7hMjJ84b3IoS)
-- [Million Little Stars by Lust.](https://open.spotify.com/track/2oe8iA4MHQnMD93f4cbcsN)
-- [High by Bapti, Joel Coopa](https://open.spotify.com/track/26R0JBH2fV4GLcraALwxGo)
-- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
-- [Shine by Simply Chill](https://open.spotify.com/track/1vg2iaEKcByX0OAnmuV9zU)
+- [You Make Me Feel Alive by Fabio Vee](https://open.spotify.com/track/30O8RbU8FldyPXDfvp289U)
+- [Love Myself by Albi](https://open.spotify.com/track/0RVKmeBRQwOMmWe9asrAEQ)
+- [Blew My Mind by Mike D&#39; Jais, Fabio Vee](https://open.spotify.com/track/5lppspIY80fgqiYVZsbaAw)
+- [Sun Goes Down by Lust.](https://open.spotify.com/track/3kPIZSLfDSolV56G8c7wMi)
+- [Rise by Lynnic](https://open.spotify.com/track/3uBy64hFwBlmt48c2xnUlg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
