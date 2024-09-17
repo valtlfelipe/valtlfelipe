@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[cloudflare/workers-for-platforms-example](https://github.com/cloudflare/workers-for-platforms-example)** - A great place for platforms to get started on Cloudflare Workers! (1 week ago)
 
 #### 🎧 What I have been listening
+- [Coastline by seesea, Mary L](https://open.spotify.com/track/7dqyJpzatYdfLDHGVOJOyy)
+- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
 - [Like No One&#39;s Here by Recens, Dominic Donner](https://open.spotify.com/track/6sOfIfmLp01BNkaPjUi3IT)
 - [Enjoy The Silence by Soundland, RIVEE, Filogy](https://open.spotify.com/track/2PxoecW0Zx9X3k4mk5OO0e)
 - [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
-- [Set Someone Free by forgetmenot](https://open.spotify.com/track/1Vof3FO6hvjvvL11Fogf1S)
-- [Anything For You by Nyday](https://open.spotify.com/track/2e3XgvAcLWhLM0ZO3gtl9j)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
