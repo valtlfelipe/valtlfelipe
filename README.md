@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Chasing Time by Thierry Von Der Warth, Jay Mason, Edwardo Atlas](https://open.spotify.com/track/6vg9PnlpahS0y0Tuuix442)
-- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
-- [End Of Time (feat. Jordan Shaw) by Lucas &amp; Steve, LAWRENT, Jordan Shaw](https://open.spotify.com/track/0g998xGTsjf9uTVJ9SksS4)
-- [Hammer to the Heart by Teddy Swims](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ)
-- [Fall At Your Feet (with Dean Lewis) by CYRIL, Dean Lewis](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931)
+- [Supergirl by Dream Chaos, Della](https://open.spotify.com/track/0d8OzTCvIWtNrZLflzHed0)
+- [Somebody Else (feat. Blair) by CYRIL, Alon, Blair](https://open.spotify.com/track/6apv5HgkyxCNCi2O9ecoqk)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/4rTPLtqJxa4UtCBkdMwSp6)
+- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB)
+- [Where You Are by John Summit, HAYLA](https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
