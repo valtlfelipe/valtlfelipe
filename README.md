@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Follow the Sun - Sunset Remix by LYOD](https://open.spotify.com/track/4QZJabkkdzFL1qqIsnBmGP)
-- [Echo by RSCL, Repiet, Julia Kleijn](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj)
-- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
-- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
+- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [In My Mind by Lavern](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk)
+- [On My Mind by Lynnic, ItsArius, Kezano](https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
