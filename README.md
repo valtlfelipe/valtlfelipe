@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Smooth Operator by Jorden Dux, Mecdoux, Chill Covers](https://open.spotify.com/track/2pvj1vAvqf0MRLGxJtXoIK)
-- [Gatluak - Bakermat Remix by Kronan, Nyaruach, Bakermat](https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ)
-- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/2QMnxA6R1PD0dYyUi5AxZZ)
-- [Hotstepper by Trinix](https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss)
-- [SNAP by Rosa Linn](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6)
+- [Waterfall by Michael Schulte, R3HAB](https://open.spotify.com/track/09EhgVA4blwhSic4hF2TFZ)
+- [Forever Young - LIZOT Remix by UNDRESSD, Ellie May, LIZOT](https://open.spotify.com/track/3rX9rP8H83zIwf3ojfvobz)
+- [Stole the Show by Kygo, Parson James](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7)
+- [Never Be Lonely by Jax Jones, Zoe Wees](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj)
+- [Bad Memories by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
