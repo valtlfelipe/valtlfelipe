@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Waterfall by Michael Schulte, R3HAB](https://open.spotify.com/track/09EhgVA4blwhSic4hF2TFZ)
-- [Forever Young - LIZOT Remix by UNDRESSD, Ellie May, LIZOT](https://open.spotify.com/track/3rX9rP8H83zIwf3ojfvobz)
-- [Stole the Show by Kygo, Parson James](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7)
-- [Never Be Lonely by Jax Jones, Zoe Wees](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj)
-- [Bad Memories by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U)
+- [Paradise by Braaheim](https://open.spotify.com/track/6vQEOP9KgXITsVpFnKSbZ3)
+- [A Bar Song (Tipsy) by Shaboozey](https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K)
+- [Raving by David Guetta, AFROJACK](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm)
+- [Austin (Boots Stop Workin&#39;) by Dasha](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd)
+- [Belong Together by Mark Ambor](https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
