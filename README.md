@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Supergirl by Dream Chaos, Della](https://open.spotify.com/track/0d8OzTCvIWtNrZLflzHed0)
-- [Somebody Else (feat. Blair) by CYRIL, Alon, Blair](https://open.spotify.com/track/6apv5HgkyxCNCi2O9ecoqk)
-- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/4rTPLtqJxa4UtCBkdMwSp6)
-- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB)
-- [Where You Are by John Summit, HAYLA](https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk)
+- [Smooth Operator by Jorden Dux, Mecdoux, Chill Covers](https://open.spotify.com/track/2pvj1vAvqf0MRLGxJtXoIK)
+- [Gatluak - Bakermat Remix by Kronan, Nyaruach, Bakermat](https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ)
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/2QMnxA6R1PD0dYyUi5AxZZ)
+- [Hotstepper by Trinix](https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss)
+- [SNAP by Rosa Linn](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
