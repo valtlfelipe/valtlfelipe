@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
-- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
-- [Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework by HUGEL](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg)
+- [Bad Dreams by Teddy Swims](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe)
+- [For Life (feat. Nile Rodgers) by Kygo, Zak Abel, Nile Rodgers](https://open.spotify.com/track/6YutTqJz3jGfLMfzIHpSTf)
+- [A New Day by Bellestar, Urban Love, Tom Polo](https://open.spotify.com/track/2K8lk9eDCxC9qKsiTrxTyz)
+- [In the Dark by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41)
+- [Relax by Deepest, AMHouse, Taylor Mosley](https://open.spotify.com/track/0g30Wsmd7yshS7762iWdVv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
