@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Let U Go by Marsellie, Jox Music](https://open.spotify.com/track/3gHlewvUOYaqV0LGbIWKLs)
+- [Famous by Avi Snow, LVAN, Sif Saga](https://open.spotify.com/track/31bJJtgQqTlytWL0vQJwhP)
 - [My Mind by Ethan Miller](https://open.spotify.com/track/1AEcELFbIEjwDP0gpH834k)
 - [The Depths by JARP, Tenjo](https://open.spotify.com/track/0o7de9GRm39xN16GpElekn)
 - [Another Love by Recens, Tripton, Margad](https://open.spotify.com/track/2SroSNYVMMy8HgEgxXSwqk)
-- [Runaway by Lust.](https://open.spotify.com/track/001cS27FIbTGu1b9OdUCKx)
-- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
