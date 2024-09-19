@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lost In Love (feat. Rolipso) by MCN2, okafuwa, Jorden Dux, Rolipso](https://open.spotify.com/track/3RQHMgJrpWmWaTNbB5svBx)
-- [What It Feels Like by Toby Romeo, YouNotUs](https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I)
-- [Fire - Official UEFA EURO 2024 Song by MEDUZA, OneRepublic, Leony](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny)
-- [Hypnotized by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/0HNDr5c2IOIvfe8DPwjVO9)
-- [Other Side by AVAION, BUNT.](https://open.spotify.com/track/5sldxFuM496Xu7dt6r8Ckl)
+- [Dopamine by Purple Disco Machine, Eyelar](https://open.spotify.com/track/3x4HQL358aI7js8F43mN7S)
+- [Supergirl by Dream Chaos, Della](https://open.spotify.com/track/0d8OzTCvIWtNrZLflzHed0)
+- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
+- [Rock My Body by R3HAB, INNA, Sash!](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU)
+- [Stole the Show by Kygo, Parson James](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
