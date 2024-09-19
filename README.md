@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (1 week ago)
 
 #### 🎧 What I have been listening
-- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
-- [Hammer to the Heart by Teddy Swims](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ)
-- [Be Mine by Ofenbach](https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w)
-- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
-- [Summer Of Love by James Carter, Leony, Sam Fischer](https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g)
+- [Fall At Your Feet (with Dean Lewis) by CYRIL, Dean Lewis](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931)
+- [Barcelona by Alan Walker, Ina Wroldsen](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy)
+- [Echo by RSCL, Repiet, Julia Kleijn](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj)
+- [Belong Together by Mark Ambor](https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy)
+- [K.O. by LAVINIA, Ely Oaks](https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
