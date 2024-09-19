@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h)
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV)
-- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
-- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
+- [Running Up That Hill by Kilian K, Blaze U, Luke Madness](https://open.spotify.com/track/6SrriGAtHnL1OMROo7oQNH)
+- [Cynical by twocolors, Safri Duo, Chris de Sarandy](https://open.spotify.com/track/4fLnoXqsxHZFvGKppc7kCr)
+- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
+- [Bad Dreams by Teddy Swims](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe)
+- [In the Dark by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
