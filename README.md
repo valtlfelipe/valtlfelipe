@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lose Control by Mecdoux, Rory Hope, Chill Covers](https://open.spotify.com/track/430XJGZksdlWMtveEMl7oK)
-- [Head Shoulders Knees &amp; Toes (feat. Norma Jean Martine) by Ofenbach, Quarterhead, Norma Jean Martine](https://open.spotify.com/track/2RRpaU7jFVcwo23pthdnBv)
-- [Take My Breath Away by TWOPILOTS](https://open.spotify.com/track/6Uc23VRzRJSgu3eebPvH8I)
-- [Forever Young - LIZOT Remix by UNDRESSD, Ellie May, LIZOT](https://open.spotify.com/track/3rX9rP8H83zIwf3ojfvobz)
-- [Heaven by Sound Of Legend](https://open.spotify.com/track/01iYmkiwWzpDTxgoBHKqEy)
+- [Up In The Clouds Again by astra division](https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI)
+- [Dream Little Dreams by Harvest Emotions](https://open.spotify.com/track/2HP0zVn24L18ChvxZWaGfs)
+- [Moonlit Moments by Mig Palmer](https://open.spotify.com/track/4B0wlzgM5OqAZJ2GpQmyF2)
+- [The City by Audio Phill](https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin)
+- [Sleep Under The Stars by Swink](https://open.spotify.com/track/6HSkMIBullPJkgOO0c4pWX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
