@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** - Vitess is a database clustering system for horizontal scaling of MySQL. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Running Up That Hill by Kilian K, Blaze U, Luke Madness](https://open.spotify.com/track/6SrriGAtHnL1OMROo7oQNH)
-- [Cynical by twocolors, Safri Duo, Chris de Sarandy](https://open.spotify.com/track/4fLnoXqsxHZFvGKppc7kCr)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
-- [Bad Dreams by Teddy Swims](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe)
-- [In the Dark by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [A New Day by Bellestar, Urban Love, Tom Polo](https://open.spotify.com/track/2K8lk9eDCxC9qKsiTrxTyz)
+- [Too Sweet by Hozier](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C)
+- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
