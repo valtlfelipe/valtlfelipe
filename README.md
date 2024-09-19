@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (1 week ago)
 
 #### 🎧 What I have been listening
+- [Lose Control by Mecdoux, Rory Hope, Chill Covers](https://open.spotify.com/track/430XJGZksdlWMtveEMl7oK)
+- [Head Shoulders Knees &amp; Toes (feat. Norma Jean Martine) by Ofenbach, Quarterhead, Norma Jean Martine](https://open.spotify.com/track/2RRpaU7jFVcwo23pthdnBv)
+- [Take My Breath Away by TWOPILOTS](https://open.spotify.com/track/6Uc23VRzRJSgu3eebPvH8I)
 - [Forever Young - LIZOT Remix by UNDRESSD, Ellie May, LIZOT](https://open.spotify.com/track/3rX9rP8H83zIwf3ojfvobz)
 - [Heaven by Sound Of Legend](https://open.spotify.com/track/01iYmkiwWzpDTxgoBHKqEy)
-- [Lost In The Night by Thierry Von Der Warth, MCN2](https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6)
-- [I Like The Way You Kiss Me by Mecdoux, Chill Covers](https://open.spotify.com/track/2FhsSoMqz49VDvVT8uj1UP)
-- [Paradise by Braaheim](https://open.spotify.com/track/6vQEOP9KgXITsVpFnKSbZ3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
