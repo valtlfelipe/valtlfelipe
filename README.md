@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fall At Your Feet (with Dean Lewis) by CYRIL, Dean Lewis](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931)
-- [Barcelona by Alan Walker, Ina Wroldsen](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy)
-- [Echo by RSCL, Repiet, Julia Kleijn](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj)
-- [Belong Together by Mark Ambor](https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy)
-- [K.O. by LAVINIA, Ely Oaks](https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ)
+- [Lost In Love (feat. Rolipso) by MCN2, okafuwa, Jorden Dux, Rolipso](https://open.spotify.com/track/3RQHMgJrpWmWaTNbB5svBx)
+- [What It Feels Like by Toby Romeo, YouNotUs](https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I)
+- [Fire - Official UEFA EURO 2024 Song by MEDUZA, OneRepublic, Leony](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny)
+- [Hypnotized by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/0HNDr5c2IOIvfe8DPwjVO9)
+- [Other Side by AVAION, BUNT.](https://open.spotify.com/track/5sldxFuM496Xu7dt6r8Ckl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
