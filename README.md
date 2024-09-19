@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dopamine by Purple Disco Machine, Eyelar](https://open.spotify.com/track/3x4HQL358aI7js8F43mN7S)
-- [Supergirl by Dream Chaos, Della](https://open.spotify.com/track/0d8OzTCvIWtNrZLflzHed0)
-- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
-- [Rock My Body by R3HAB, INNA, Sash!](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU)
-- [Stole the Show by Kygo, Parson James](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7)
+- [Forever Young - LIZOT Remix by UNDRESSD, Ellie May, LIZOT](https://open.spotify.com/track/3rX9rP8H83zIwf3ojfvobz)
+- [Heaven by Sound Of Legend](https://open.spotify.com/track/01iYmkiwWzpDTxgoBHKqEy)
+- [Lost In The Night by Thierry Von Der Warth, MCN2](https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6)
+- [I Like The Way You Kiss Me by Mecdoux, Chill Covers](https://open.spotify.com/track/2FhsSoMqz49VDvVT8uj1UP)
+- [Paradise by Braaheim](https://open.spotify.com/track/6vQEOP9KgXITsVpFnKSbZ3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
