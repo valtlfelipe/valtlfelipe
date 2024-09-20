@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (today)
+- **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (today)
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 day ago)
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (3 days ago)
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (3 days ago)
-- **[ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)** - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta. (4 days ago)
-- **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (1 week ago)
 
 #### 🎧 What I have been listening
-- [One More Time by Jai Nova](https://open.spotify.com/track/4A6sKVOjxn8wpLv7GNuAZS)
-- [Golden Sunset by Lavern](https://open.spotify.com/track/679xwHGrkNsNQHh6KacLxA)
-- [No One by Albi](https://open.spotify.com/track/1hnxbKYQjQVVEbR9nQO1S3)
-- [Far Away from Home by Marvin Shadex](https://open.spotify.com/track/1ahyL5uZZ6yCkOK5JPnSvQ)
-- [How We Do by Maxxteen](https://open.spotify.com/track/1qM44i3fF16l7vVgMIrzhn)
+- [The Feeling by Lost Frequencies, Bonn](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
+- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
+- [Bloom (Brendan Mills Remix) by Lucas Estrada, TWOPILOTS, Brendan Mills](https://open.spotify.com/track/18IP0JyVbV7ignrEW0HyNR)
+- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
+- [Summertime Sadness by A17N, NAAC](https://open.spotify.com/track/13N5QeYhchuiUmchfwjs8m)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
