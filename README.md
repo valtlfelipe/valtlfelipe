@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
-- [Let You Go by Bluir, Alex James, Rory Hope](https://open.spotify.com/track/011iPe7nJFbrawEcYyHFIC)
-- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
-- [Heart Of Storm by Criss Antof, Desno, INAMEIT](https://open.spotify.com/track/1GNLXQGGajs0gmYYplt1Bz)
-- [Daydreaming by Milos, Ima Sobé](https://open.spotify.com/track/4bZWc6kBVcEPcOPM9ryfRo)
+- [Like No One&#39;s Here by Recens, Dominic Donner](https://open.spotify.com/track/6sOfIfmLp01BNkaPjUi3IT)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
+- [Holding On (feat. RVLE) by Sander Divino, RVLE](https://open.spotify.com/track/5qd0jRpUE9D31qGbh7sC8E)
+- [Feel It by Bapti, OANA](https://open.spotify.com/track/0zQdTcjV7Ky2K27no8d7JE)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
