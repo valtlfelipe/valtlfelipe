@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (1 week ago)
 
 #### 🎧 What I have been listening
-- [Body Talk by Ofenbach, SVEA](https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD)
-- [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
-- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
-- [Back To You by MANSA](https://open.spotify.com/track/7Gap9EXrxaGS5tyCLRHoQW)
-- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [Let You Go by Bluir, Alex James, Rory Hope](https://open.spotify.com/track/011iPe7nJFbrawEcYyHFIC)
+- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
+- [Heart Of Storm by Criss Antof, Desno, INAMEIT](https://open.spotify.com/track/1GNLXQGGajs0gmYYplt1Bz)
+- [Daydreaming by Milos, Ima Sobé](https://open.spotify.com/track/4bZWc6kBVcEPcOPM9ryfRo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
