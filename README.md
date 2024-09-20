@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (3 days ago)
 
 #### 🎧 What I have been listening
-- [The Feeling by Lost Frequencies, Bonn](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
-- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
-- [Bloom (Brendan Mills Remix) by Lucas Estrada, TWOPILOTS, Brendan Mills](https://open.spotify.com/track/18IP0JyVbV7ignrEW0HyNR)
-- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
-- [Summertime Sadness by A17N, NAAC](https://open.spotify.com/track/13N5QeYhchuiUmchfwjs8m)
+- [Hot Honey by Tiësto, Alana Springsteen](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp)
+- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [There for You by Jai Nova](https://open.spotify.com/track/55Conk4BLIo42AVaAHbQuP)
+- [Too Far Gone by Piece Wise, Eloi El, Pierre Leck](https://open.spotify.com/track/4KcNuc8iofryT1CLiza0DK)
+- [Hold You Tight by MARE](https://open.spotify.com/track/4eJN0pKN2x6Hk6yydWy7AX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
