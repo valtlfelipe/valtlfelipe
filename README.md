@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (1 week ago)
 
 #### 🎧 What I have been listening
-- [Rising by Lotus, Jan Liva, Faruk Orman, yara.](https://open.spotify.com/track/1strFFSyp0WcHZ7tA44dgt)
-- [You Make Me Feel Alive by Fabio Vee](https://open.spotify.com/track/30O8RbU8FldyPXDfvp289U)
-- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
-- [When We Were Young (The Logical Song) by David Guetta, Kim Petras](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq)
-- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
+- [One More Time by Jai Nova](https://open.spotify.com/track/4A6sKVOjxn8wpLv7GNuAZS)
+- [Golden Sunset by Lavern](https://open.spotify.com/track/679xwHGrkNsNQHh6KacLxA)
+- [No One by Albi](https://open.spotify.com/track/1hnxbKYQjQVVEbR9nQO1S3)
+- [Far Away from Home by Marvin Shadex](https://open.spotify.com/track/1ahyL5uZZ6yCkOK5JPnSvQ)
+- [How We Do by Maxxteen](https://open.spotify.com/track/1qM44i3fF16l7vVgMIrzhn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
