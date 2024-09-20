@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[claceio/clace](https://github.com/claceio/clace)** - AppServer for containerized web app development and deployment (1 week ago)
 
 #### 🎧 What I have been listening
-- [Let It Go by NOTSOBAD, MA:RK](https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR)
-- [Club Can&#39;t Handle Me (feat. David Guetta) by Flo Rida, David Guetta](https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y)
-- [Blew My Mind by Mike D&#39; Jais, Fabio Vee](https://open.spotify.com/track/5lppspIY80fgqiYVZsbaAw)
-- [Sunset by Ardo, Jake Alva](https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD)
-- [All I Needed by Fantishe](https://open.spotify.com/track/74kURLYGDFMv71yySlb394)
+- [Take Me Home by Nu Aspect, TCTS, RAHH](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [I Do by PLÜM](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa)
+- [Roses x Children by TommyMuzzic](https://open.spotify.com/track/3GxXPHTRn4vQArX83QprqZ)
+- [Let U Go by Marsellie, Jox Music](https://open.spotify.com/track/3gHlewvUOYaqV0LGbIWKLs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
