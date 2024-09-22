@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (5 days ago)
 
 #### 🎧 What I have been listening
+- [Sinner by Nu Aspect](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t)
 - [Hot Honey by Tiësto, Alana Springsteen](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp)
 - [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
 - [There for You by Jai Nova](https://open.spotify.com/track/55Conk4BLIo42AVaAHbQuP)
 - [Too Far Gone by Piece Wise, Eloi El, Pierre Leck](https://open.spotify.com/track/4KcNuc8iofryT1CLiza0DK)
-- [Hold You Tight by MARE](https://open.spotify.com/track/4eJN0pKN2x6Hk6yydWy7AX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
