@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (5 days ago)
 
 #### 🎧 What I have been listening
+- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
 - [Heaven or Not by Diplo, Riva Starr, Kareen Lomax](https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF)
 - [Holding On (feat. RVLE) by Sander Divino, RVLE](https://open.spotify.com/track/5qd0jRpUE9D31qGbh7sC8E)
 - [My Mind by Ethan Miller](https://open.spotify.com/track/1AEcELFbIEjwDP0gpH834k)
 - [Barcelona by Alan Walker, Ina Wroldsen](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy)
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
