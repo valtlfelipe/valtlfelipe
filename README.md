@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (5 days ago)
 
 #### 🎧 What I have been listening
-- [Someone For Me by HNK](https://open.spotify.com/track/600b00gFMZK4fnHj1oKwAk)
-- [Get To Know by Flip Flop Joe](https://open.spotify.com/track/5KlXvvQyPTdqRBv8JnSuab)
-- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
-- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
-- [Sinner by Nu Aspect](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [Heaven or Not by Diplo, Riva Starr, Kareen Lomax](https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF)
+- [Don&#39;t (Fall in Love) by Just Kiddin](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z)
+- [Way to Go - Club Soda Mix by Soda State](https://open.spotify.com/track/1Ym1wyAwCGTVFTRS4bpBZn)
+- [Enjoy The Silence by Soundland, RIVEE, Filogy](https://open.spotify.com/track/2PxoecW0Zx9X3k4mk5OO0e)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
