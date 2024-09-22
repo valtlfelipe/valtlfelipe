@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (5 days ago)
 
 #### 🎧 What I have been listening
-- [Creep by R3HAB, GATTÜSO](https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ)
-- [I Will Find by Vintage Culture, Rooftime](https://open.spotify.com/track/2bbfiUnH4CATlekDS1dxNr)
-- [Hey You (Love Comes First) by Chemical Neon, Trosk, LiMa](https://open.spotify.com/track/1S1HrkjxspECOxst4NJavc)
-- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
-- [Barcelona by Alan Walker, Ina Wroldsen](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy)
+- [Get To Know by Flip Flop Joe](https://open.spotify.com/track/5KlXvvQyPTdqRBv8JnSuab)
+- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
+- [Moments by Bibano Beach Club, Lucky Reinhard](https://open.spotify.com/track/7jAUMzKgtgNyQoFHqekbAy)
+- [Don&#39;t Call by just Fede, Foínix, Justin J. Moore](https://open.spotify.com/track/6XytRgaAFShyMA8d2CKX6r)
+- [If I Lose Myself by Lively](https://open.spotify.com/track/5gzo4VaJ7KXomTgSfytSUH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
