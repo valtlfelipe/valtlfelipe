@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (6 days ago)
 
 #### 🎧 What I have been listening
-- [I&#39;ll Be Yours by lonely beach house](https://open.spotify.com/track/2yqFqI0UX3AaE97aVE9yY4)
-- [Sabaii by Deep Chills, Five Corners, Natty Rico](https://open.spotify.com/track/4m4IFDTc5XVx7XY356pAFI)
-- [Get To Know by Flip Flop Joe](https://open.spotify.com/track/5KlXvvQyPTdqRBv8JnSuab)
-- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
-- [Moments by Bibano Beach Club, Lucky Reinhard](https://open.spotify.com/track/7jAUMzKgtgNyQoFHqekbAy)
+- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
+- [Take Me Back by Alessandro Pierozzi, Chris Berner, Jeh, Fare](https://open.spotify.com/track/2yUogYzKsVDMeWXpgbWn9x)
+- [Travel by Mauve](https://open.spotify.com/track/06tCB0GoFpEAM9rEWiVrX8)
+- [River Wye by Zena](https://open.spotify.com/track/5AyRP897H2u4dMNHUVY6Ht)
+- [Sunrise by Tungevaag](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
