@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (6 days ago)
 
 #### 🎧 What I have been listening
-- [Overthinking by YUMA, FAST BOY](https://open.spotify.com/track/3TwAy5Wd1hn89J43NnJNpR)
-- [I&#39;ll Be Alright by Magnus Gunn](https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY)
-- [Papi by TauTou](https://open.spotify.com/track/4rGHPEnplHIZuRB6AH1yde)
-- [Californication by Warm &amp; Cold, Subriser](https://open.spotify.com/track/1BTLjgXnBswLT65QADK81m)
-- [I&#39;ll Be Yours by lonely beach house](https://open.spotify.com/track/2yqFqI0UX3AaE97aVE9yY4)
+- [Makes Me Wonder by HYPAUX, Moav, outset island](https://open.spotify.com/track/7aKHKBQIbDG3P6b1hvvHNE)
+- [Firefly by Fia De Luca](https://open.spotify.com/track/37CUS1WC6lHPo0qOzCCT2s)
+- [Promises by Adrian Knows, Aexcit](https://open.spotify.com/track/10cB40FA9AnOPvwJdHd1Ni)
+- [Look Away by Planet Wave House, Kelo, Lost In Reveries](https://open.spotify.com/track/01gbQboVMTroyjoUBJlzOx)
+- [Are You There by BIMINI, MONTMARTRE](https://open.spotify.com/track/3po36dia1jvyPplG3NKlAe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
