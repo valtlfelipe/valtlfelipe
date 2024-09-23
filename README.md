@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (6 days ago)
 
 #### 🎧 What I have been listening
-- [Californication by Warm &amp; Cold, Subriser](https://open.spotify.com/track/1BTLjgXnBswLT65QADK81m)
-- [I&#39;ll Be Yours by lonely beach house](https://open.spotify.com/track/2yqFqI0UX3AaE97aVE9yY4)
-- [Fade Away by Thymaz, Androma, Dizaro, Donner](https://open.spotify.com/track/5WLAaAgpSQq54ZMdRM57DI)
-- [Coming Home by Alex Martura, Max Landry, Niteblue](https://open.spotify.com/track/76Kt8NPbnPpCGgsrJsuRVw)
-- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
+- [Look Away by Planet Wave House, Kelo, Lost In Reveries](https://open.spotify.com/track/01gbQboVMTroyjoUBJlzOx)
+- [Are You There by BIMINI, MONTMARTRE](https://open.spotify.com/track/3po36dia1jvyPplG3NKlAe)
+- [Whisper by Ruuben, Eric Lee Carpenter](https://open.spotify.com/track/6nqRp2ICbQRmFtdeVTBJ7C)
+- [On The Run by NVRT](https://open.spotify.com/track/2qI55suh5Otdu3NdxLeBzY)
+- [You by LVAN](https://open.spotify.com/track/4Jwo2nh2egQQATYGeYLJbB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
