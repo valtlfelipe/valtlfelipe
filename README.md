@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (6 days ago)
 
 #### 🎧 What I have been listening
-- [Ride It by SAKKO, Danna Max](https://open.spotify.com/track/37Wt5QGJvlow37dziZw4Y6)
-- [I&#39;ll Be by Miza, Tropical Fairytale, A27C](https://open.spotify.com/track/3UdrpAyxPTPJ9ka48KjTKO)
-- [For U by Stridon, Bianca Tilici, INAMEIT](https://open.spotify.com/track/14wfexPKUF2i9COScgNfnE)
-- [Good Times, Bad Vibes by Plastic Jungle, Aimi](https://open.spotify.com/track/1ReEEd8Qq0fbiBNaY7aRGo)
-- [In My Mind by Navaro, Mariline, ARI.](https://open.spotify.com/track/3vFMqJh6spfrNtY9GFMKG4)
+- [Californication by Warm &amp; Cold, Subriser](https://open.spotify.com/track/1BTLjgXnBswLT65QADK81m)
+- [I&#39;ll Be Yours by lonely beach house](https://open.spotify.com/track/2yqFqI0UX3AaE97aVE9yY4)
+- [Fade Away by Thymaz, Androma, Dizaro, Donner](https://open.spotify.com/track/5WLAaAgpSQq54ZMdRM57DI)
+- [Coming Home by Alex Martura, Max Landry, Niteblue](https://open.spotify.com/track/76Kt8NPbnPpCGgsrJsuRVw)
+- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
