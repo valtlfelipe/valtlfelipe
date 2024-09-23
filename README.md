@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (6 days ago)
 
 #### 🎧 What I have been listening
-- [Fade Away by Thymaz, Androma, Dizaro, Donner](https://open.spotify.com/track/5WLAaAgpSQq54ZMdRM57DI)
-- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
-- [Take Me Back by Alessandro Pierozzi, Chris Berner, Jeh, Fare](https://open.spotify.com/track/2yUogYzKsVDMeWXpgbWn9x)
-- [Travel by Mauve](https://open.spotify.com/track/06tCB0GoFpEAM9rEWiVrX8)
-- [River Wye by Zena](https://open.spotify.com/track/5AyRP897H2u4dMNHUVY6Ht)
+- [Overthinking by YUMA, FAST BOY](https://open.spotify.com/track/3TwAy5Wd1hn89J43NnJNpR)
+- [I&#39;ll Be Alright by Magnus Gunn](https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY)
+- [Papi by TauTou](https://open.spotify.com/track/4rGHPEnplHIZuRB6AH1yde)
+- [Californication by Warm &amp; Cold, Subriser](https://open.spotify.com/track/1BTLjgXnBswLT65QADK81m)
+- [I&#39;ll Be Yours by lonely beach house](https://open.spotify.com/track/2yqFqI0UX3AaE97aVE9yY4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
