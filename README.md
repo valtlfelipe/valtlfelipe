@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (6 days ago)
 
 #### 🎧 What I have been listening
+- [Ride It by SAKKO, Danna Max](https://open.spotify.com/track/37Wt5QGJvlow37dziZw4Y6)
+- [I&#39;ll Be by Miza, Tropical Fairytale, A27C](https://open.spotify.com/track/3UdrpAyxPTPJ9ka48KjTKO)
+- [For U by Stridon, Bianca Tilici, INAMEIT](https://open.spotify.com/track/14wfexPKUF2i9COScgNfnE)
 - [Good Times, Bad Vibes by Plastic Jungle, Aimi](https://open.spotify.com/track/1ReEEd8Qq0fbiBNaY7aRGo)
 - [In My Mind by Navaro, Mariline, ARI.](https://open.spotify.com/track/3vFMqJh6spfrNtY9GFMKG4)
-- [Falling by Sober Chow, A17N, AuntL](https://open.spotify.com/track/6k9mq9i35Wr8DoYLjSNbzx)
-- [Memories by FRNDS](https://open.spotify.com/track/2ZBpwfSEVAVJOmKsJfHFrc)
-- [Whisky Sour by Bibiane Z](https://open.spotify.com/track/2lKJHCdecefJiHpVtCl33r)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
