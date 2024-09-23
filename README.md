@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (6 days ago)
 
 #### 🎧 What I have been listening
+- [I&#39;ll Be Yours by lonely beach house](https://open.spotify.com/track/2yqFqI0UX3AaE97aVE9yY4)
+- [Sabaii by Deep Chills, Five Corners, Natty Rico](https://open.spotify.com/track/4m4IFDTc5XVx7XY356pAFI)
 - [Get To Know by Flip Flop Joe](https://open.spotify.com/track/5KlXvvQyPTdqRBv8JnSuab)
 - [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
 - [Moments by Bibano Beach Club, Lucky Reinhard](https://open.spotify.com/track/7jAUMzKgtgNyQoFHqekbAy)
-- [Don&#39;t Call by just Fede, Foínix, Justin J. Moore](https://open.spotify.com/track/6XytRgaAFShyMA8d2CKX6r)
-- [If I Lose Myself by Lively](https://open.spotify.com/track/5gzo4VaJ7KXomTgSfytSUH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
