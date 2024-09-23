@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (6 days ago)
 
 #### 🎧 What I have been listening
-- [Look Away by Planet Wave House, Kelo, Lost In Reveries](https://open.spotify.com/track/01gbQboVMTroyjoUBJlzOx)
-- [Are You There by BIMINI, MONTMARTRE](https://open.spotify.com/track/3po36dia1jvyPplG3NKlAe)
-- [Whisper by Ruuben, Eric Lee Carpenter](https://open.spotify.com/track/6nqRp2ICbQRmFtdeVTBJ7C)
-- [On The Run by NVRT](https://open.spotify.com/track/2qI55suh5Otdu3NdxLeBzY)
-- [You by LVAN](https://open.spotify.com/track/4Jwo2nh2egQQATYGeYLJbB)
+- [Fade Away by Thymaz, Androma, Dizaro, Donner](https://open.spotify.com/track/5WLAaAgpSQq54ZMdRM57DI)
+- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
+- [Take Me Back by Alessandro Pierozzi, Chris Berner, Jeh, Fare](https://open.spotify.com/track/2yUogYzKsVDMeWXpgbWn9x)
+- [Travel by Mauve](https://open.spotify.com/track/06tCB0GoFpEAM9rEWiVrX8)
+- [River Wye by Zena](https://open.spotify.com/track/5AyRP897H2u4dMNHUVY6Ht)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
