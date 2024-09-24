@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Children - Edit Mix by Tinlicker, Robert Miles](https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV)
-- [IT MIGHT BE THE DRUGS by me n ü](https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4)
-- [Lights Go Out by Jauz](https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq)
-- [Over Again by Alok, Solardo](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz)
-- [Tears (with Paige Cavell) by John Summit, Paige Cavell](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1)
+- [What Took You So Long by Armin van Buuren, Gryffin](https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6)
+- [Given Up On You by MXV, ZOE ASKA](https://open.spotify.com/track/0vDad05A3UJKbMYopfxAdg)
+- [Lost In The Rhythm by David Guetta, MORTEN](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL)
+- [Want You by Dezko](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj)
+- [Coming Home (feat. John Martin) by ARTBAT, John Martin](https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
