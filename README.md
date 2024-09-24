@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fractures by Goodboys, Julia Church](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9)
-- [Tears Don’t Fall by Kaskade, Enisa](https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34)
-- [Sunrise To The Morning by Franky Wah](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF)
-- [Night Drive by Ummet Ozcan](https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5)
-- [Perpetual Motion by Phantoms](https://open.spotify.com/track/0VCAhRyaKqT3SloA0NDJyR)
+- [Morning Comes by Jerome Price, Nu-La](https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz)
+- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
+- [Pegasus by MEDUZA, Eli &amp; Fur](https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ)
+- [girl$ - Layton Giordani Remix by Dom Dolla, Layton Giordani](https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz)
+- [Tell Me Why - MEDUZA Remix by Supermode, MEDUZA](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
