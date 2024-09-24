@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Nowhere To Go (feat. Brian Molko) - Single Version by Tinlicker, Brian Molko](https://open.spotify.com/track/0GSRV5gMw6ocfFT0kR0Sxj)
-- [Subliminal by Zack Martino, Tudor](https://open.spotify.com/track/1KnBoHkanhdxmzB0uahPzq)
-- [Closer by Morgin Madison, Adam Nazar, Crimsen](https://open.spotify.com/track/4PQdbiYr0tbDzeMPz3W1eJ)
-- [It&#39;s Alright (feat. Malou) by Helsloot, Malou](https://open.spotify.com/track/4R47YSOXTtC9Jph9yXRbk7)
-- [Consciousness - Eric Prydz Remix by Anyma, Chris Avantgarde, Eric Prydz](https://open.spotify.com/track/1pM05FAgX2lLp3NwpMY2vs)
+- [Fine Day by Monocule, Marcus Santoro, Nicky Romero](https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH)
+- [Insomnia by Eli &amp; Fur](https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg)
+- [Embers by HAYLA](https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK)
+- [Resonate (feat. Julia Church) by John Summit, Kaskade, Julia Church](https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ)
+- [Stay a Little Longer - HÜMAN Remix by Madism, HÜMAN](https://open.spotify.com/track/5FJODrMKQTHVYqlfxANt1v)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
