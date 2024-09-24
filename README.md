@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Children - Edit Mix by Tinlicker, Robert Miles](https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV)
+- [IT MIGHT BE THE DRUGS by me n ü](https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4)
+- [Lights Go Out by Jauz](https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq)
 - [Over Again by Alok, Solardo](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz)
 - [Tears (with Paige Cavell) by John Summit, Paige Cavell](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1)
-- [Vertigo by Autograf, Malou, Burko](https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN)
-- [Pretoria by Nora En Pure](https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo)
-- [The Maker by Harrison, Notelle](https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
