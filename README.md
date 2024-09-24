@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fine Day by Monocule, Marcus Santoro, Nicky Romero](https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH)
-- [Insomnia by Eli &amp; Fur](https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg)
-- [Embers by HAYLA](https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK)
-- [Resonate (feat. Julia Church) by John Summit, Kaskade, Julia Church](https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ)
-- [Stay a Little Longer - HÜMAN Remix by Madism, HÜMAN](https://open.spotify.com/track/5FJODrMKQTHVYqlfxANt1v)
+- [One (Your Name) - Radio Edit by Swedish House Mafia, Pharrell Williams](https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde)
+- [Time - Radio Edit by BAF, Mant Deep](https://open.spotify.com/track/78s1KNrOgnYaHSoKj8aMjN)
+- [Night Changes by Mark Coles, Ron van den Beuken, John Laurant, Marissa](https://open.spotify.com/track/3EP9qywZJ8Mapq5akA3FFx)
+- [Surf Song by Ian Storm, Polina Vita](https://open.spotify.com/track/3jjvpoRGl2tfSGMSKAovw8)
+- [Save Tonight by ConKi, Mark Coles, XYSM, Kerry Ryan](https://open.spotify.com/track/1vypt0hOMOY82Vr8ybWlzM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
