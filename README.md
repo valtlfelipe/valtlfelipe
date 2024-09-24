@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (1 week ago)
 
 #### 🎧 What I have been listening
+- [Travel by Mauve](https://open.spotify.com/track/06tCB0GoFpEAM9rEWiVrX8)
+- [River Wye by Zena](https://open.spotify.com/track/5AyRP897H2u4dMNHUVY6Ht)
+- [Sunrise by Tungevaag](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda)
 - [Makes Me Wonder by HYPAUX, Moav, outset island](https://open.spotify.com/track/7aKHKBQIbDG3P6b1hvvHNE)
 - [Firefly by Fia De Luca](https://open.spotify.com/track/37CUS1WC6lHPo0qOzCCT2s)
-- [Promises by Adrian Knows, Aexcit](https://open.spotify.com/track/10cB40FA9AnOPvwJdHd1Ni)
-- [Look Away by Planet Wave House, Kelo, Lost In Reveries](https://open.spotify.com/track/01gbQboVMTroyjoUBJlzOx)
-- [Are You There by BIMINI, MONTMARTRE](https://open.spotify.com/track/3po36dia1jvyPplG3NKlAe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
