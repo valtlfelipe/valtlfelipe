@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)** - Fast, reliable, and free document scanner app for iPhone (1 week ago)
 
 #### 🎧 What I have been listening
-- [Travel by Mauve](https://open.spotify.com/track/06tCB0GoFpEAM9rEWiVrX8)
-- [River Wye by Zena](https://open.spotify.com/track/5AyRP897H2u4dMNHUVY6Ht)
-- [Sunrise by Tungevaag](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda)
-- [Makes Me Wonder by HYPAUX, Moav, outset island](https://open.spotify.com/track/7aKHKBQIbDG3P6b1hvvHNE)
-- [Firefly by Fia De Luca](https://open.spotify.com/track/37CUS1WC6lHPo0qOzCCT2s)
+- [Fractures by Goodboys, Julia Church](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9)
+- [Tears Don’t Fall by Kaskade, Enisa](https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34)
+- [Sunrise To The Morning by Franky Wah](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF)
+- [Night Drive by Ummet Ozcan](https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5)
+- [Perpetual Motion by Phantoms](https://open.spotify.com/track/0VCAhRyaKqT3SloA0NDJyR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
