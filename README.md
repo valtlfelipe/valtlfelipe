@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Over Again by Alok, Solardo](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz)
+- [Tears (with Paige Cavell) by John Summit, Paige Cavell](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1)
+- [Vertigo by Autograf, Malou, Burko](https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN)
+- [Pretoria by Nora En Pure](https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo)
 - [The Maker by Harrison, Notelle](https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU)
-- [U&amp;ME by Dezko, CERES](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh)
-- [Blur by KREAM, Marlo Rex](https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph)
-- [Yumi - Tiësto Remix by Notre Dame, Tiësto](https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi)
-- [Save Me by Anyma, Cassian, Poppy Baskcomb](https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
