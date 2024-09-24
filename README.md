@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [One (Your Name) - Radio Edit by Swedish House Mafia, Pharrell Williams](https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde)
-- [Time - Radio Edit by BAF, Mant Deep](https://open.spotify.com/track/78s1KNrOgnYaHSoKj8aMjN)
-- [Night Changes by Mark Coles, Ron van den Beuken, John Laurant, Marissa](https://open.spotify.com/track/3EP9qywZJ8Mapq5akA3FFx)
-- [Surf Song by Ian Storm, Polina Vita](https://open.spotify.com/track/3jjvpoRGl2tfSGMSKAovw8)
-- [Save Tonight by ConKi, Mark Coles, XYSM, Kerry Ryan](https://open.spotify.com/track/1vypt0hOMOY82Vr8ybWlzM)
+- [Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix by Lana Del Rey, Cedric Gervais](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB)
+- [WIWU by Gianluca Dimeo, Oscar Duke](https://open.spotify.com/track/2MrZG26Qi7BeQTDHlX1C1o)
+- [My Focus Is You by KaVn](https://open.spotify.com/track/2NxeZ4SKtzjrlj4vuYr18g)
+- [You - Radio Edit by Skyles](https://open.spotify.com/track/6d5OLkd7LDzyaGUz3k0XI1)
+- [Kayleigh by Ian Storm, Ron van den Beuken, Menno](https://open.spotify.com/track/4eLYJCeaiBceJWfNnzs05T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
