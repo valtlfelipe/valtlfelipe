@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Moon by Safe Tock](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb)
-- [Midnight Mint by ELEVENISH](https://open.spotify.com/track/2ze9ejYaCLMu4rDtITIrYE)
-- [Montanita by Pool Villa](https://open.spotify.com/track/43xOfLbXEEFWZCqb3YCkmN)
-- [Barcelona by Salavant](https://open.spotify.com/track/6wzwzB0s3Hzf17QuPemhHR)
-- [Going Offbeat by Rick Groove](https://open.spotify.com/track/1MyyHwzHbUaQ6hqVmXG953)
+- [Dream Of You by Pjuck](https://open.spotify.com/track/0gmFwY4Oa0oBDu8OWTJ9gA)
+- [Passage by Ben Travel](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL)
+- [The Walking Lights by MC Baptiste](https://open.spotify.com/track/1YA6h3296OZrrdVC7Fz1in)
+- [diced pineapple by Hayzei](https://open.spotify.com/track/3Z7e2ZAeI9RBX8BFOFwNc1)
+- [Cradle Beach by Julian Tremolino](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
