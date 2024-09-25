@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Baianá by Bakermat](https://open.spotify.com/track/780be5fB7823aHG06mwTat)
-- [Love You by Ex Music, Lintrepy](https://open.spotify.com/track/4tRbPCxbmdnMIggrxGT07U)
-- [Come Together by Bashaya Soul](https://open.spotify.com/track/3jdehQK8u51VkbuXV9gx4d)
-- [Fire in You by Fargro](https://open.spotify.com/track/5TwKgFNIieJyFP9Phhvhjo)
-- [My Mind - Radio Edit by Ex Music, Anika, Enny](https://open.spotify.com/track/13rj4CaOEz9TF4ex4F6wQM)
+- [Fly Me to the Moon by SilkandStones, Mark Coles, Vanessa Campagna](https://open.spotify.com/track/1gDIM802kEBicjVWDSfKU7)
+- [My Lovin’ by RAZZ](https://open.spotify.com/track/6QNQEc9emJQo6vwc3ADYAt)
+- [Your Body by PRINSH](https://open.spotify.com/track/33MryBXt7Zc7lO8aWLKPvF)
+- [On My Love by Zara Larsson, David Guetta](https://open.spotify.com/track/6WrwKvip8DCxbcs4LXsYwT)
+- [Let You Go by Michael Ford](https://open.spotify.com/track/2049wkoDRuj2rVGshKTVZk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
