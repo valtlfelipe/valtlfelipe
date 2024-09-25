@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Effortless by Maravilho5a](https://open.spotify.com/track/6aCfDgXOwvl2KKYhRjcn3K)
-- [Azelio by Slashio](https://open.spotify.com/track/2W0getS9GtmaLdXsMxxBxn)
-- [Casablanca by it&#39;s me.](https://open.spotify.com/track/7bScxanaqg2QeiEHqmYgvd)
-- [End Of Time by Aless Vanco](https://open.spotify.com/track/0K5rdCAb20yPmpVmg0NrdZ)
-- [Done With Your Love by Skyles](https://open.spotify.com/track/7Hj5xReDCPahGVAWMLQqrS)
+- [Sound Crown by Generation.](https://open.spotify.com/track/1IZDP1zsV0wq7IgZyBTi5E)
+- [Move In Space by Midnight Side Eye](https://open.spotify.com/track/3DpZoWO5g77GIDp3aGWHEp)
+- [Peachess by Folta Tres](https://open.spotify.com/track/4IGRNWjPIK2diFXhAIP7hT)
+- [Poolside by Lil Harry](https://open.spotify.com/track/7MwdpC8XHqrQuk8PZS0H7t)
+- [a little extra brightness by Camisade](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
