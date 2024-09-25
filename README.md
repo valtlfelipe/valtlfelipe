@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Effortless by Maravilho5a](https://open.spotify.com/track/6aCfDgXOwvl2KKYhRjcn3K)
+- [Azelio by Slashio](https://open.spotify.com/track/2W0getS9GtmaLdXsMxxBxn)
+- [Casablanca by it&#39;s me.](https://open.spotify.com/track/7bScxanaqg2QeiEHqmYgvd)
 - [End Of Time by Aless Vanco](https://open.spotify.com/track/0K5rdCAb20yPmpVmg0NrdZ)
 - [Done With Your Love by Skyles](https://open.spotify.com/track/7Hj5xReDCPahGVAWMLQqrS)
-- [Feel My Needs - Purple Disco Machine Remix by WEISS, Purple Disco Machine](https://open.spotify.com/track/3RiRFyvasDtAv8n0AQUKFG)
-- [Carry On - Radio Edit by ISVEL](https://open.spotify.com/track/1gPzf8Se4hV8Ex0ylGcTbp)
-- [Shimmer - Radio Edit by Xander Seddon](https://open.spotify.com/track/3RGEDbGth8o9kuDHaaBBfr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
