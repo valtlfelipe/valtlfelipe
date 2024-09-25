@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi)
-- [Love Exchange (feat. Silki) by Tim Morris, WLVD, Silki](https://open.spotify.com/track/7zf3aFPkcx1xDN1C00iFP5)
-- [Delilah (pull me out of this) by Fred again.., Delilah Montagu](https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2)
-- [Broken Wings by John Laurant](https://open.spotify.com/track/0XIICwmd3FAoU6vpbdQfcn)
-- [Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix by Lana Del Rey, Cedric Gervais](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB)
+- [Baianá by Bakermat](https://open.spotify.com/track/780be5fB7823aHG06mwTat)
+- [Love You by Ex Music, Lintrepy](https://open.spotify.com/track/4tRbPCxbmdnMIggrxGT07U)
+- [Come Together by Bashaya Soul](https://open.spotify.com/track/3jdehQK8u51VkbuXV9gx4d)
+- [Fire in You by Fargro](https://open.spotify.com/track/5TwKgFNIieJyFP9Phhvhjo)
+- [My Mind - Radio Edit by Ex Music, Anika, Enny](https://open.spotify.com/track/13rj4CaOEz9TF4ex4F6wQM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
