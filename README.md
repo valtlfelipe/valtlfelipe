@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fly Me to the Moon by SilkandStones, Mark Coles, Vanessa Campagna](https://open.spotify.com/track/1gDIM802kEBicjVWDSfKU7)
-- [My Lovin’ by RAZZ](https://open.spotify.com/track/6QNQEc9emJQo6vwc3ADYAt)
-- [Your Body by PRINSH](https://open.spotify.com/track/33MryBXt7Zc7lO8aWLKPvF)
-- [On My Love by Zara Larsson, David Guetta](https://open.spotify.com/track/6WrwKvip8DCxbcs4LXsYwT)
-- [Let You Go by Michael Ford](https://open.spotify.com/track/2049wkoDRuj2rVGshKTVZk)
+- [Carry On - Radio Edit by ISVEL](https://open.spotify.com/track/1gPzf8Se4hV8Ex0ylGcTbp)
+- [Shimmer - Radio Edit by Xander Seddon](https://open.spotify.com/track/3RGEDbGth8o9kuDHaaBBfr)
+- [Phoenix In The Night by Tripton](https://open.spotify.com/track/2C8SK2T45t4oNXojMkuhUB)
+- [Higher Than I&#39;ve ever Been - Radio Edit by Red Lemon](https://open.spotify.com/track/2N2ioUzfc24e5yFFpkZH9W)
+- [Give It To You by Electric Hearts](https://open.spotify.com/track/5CcW5sSJCL7uKvBRsctrAo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
