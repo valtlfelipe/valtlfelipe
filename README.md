@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Summer flower by Petrossi](https://open.spotify.com/track/1FZ8DbYXBExoMZpVYlILR1)
-- [Seaside by Pool Villa](https://open.spotify.com/track/1juh9T8vZLJcW7NRfRnFyH)
-- [New Jade by dreem](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq)
-- [Polarity by Sum Wave](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv)
-- [Freefall by Terminal Grooves](https://open.spotify.com/track/70jLx2QvLoHz4xrQwJA282)
+- [Curvature by Colton Jefferson](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq)
+- [paloma beach by Naoko Omi](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9)
+- [satisfaction upscale by aiXer](https://open.spotify.com/track/6mC1q4r7lATShNXzRo5l84)
+- [Pictures by Urban Curls](https://open.spotify.com/track/1rjsmzE5H51NhkH4W9Iwie)
+- [Colors Everywhere by Twin Iguana](https://open.spotify.com/track/3Ao3jqny7VKgfRuejUhjfs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
