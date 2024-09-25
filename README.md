@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sound Crown by Generation.](https://open.spotify.com/track/1IZDP1zsV0wq7IgZyBTi5E)
-- [Move In Space by Midnight Side Eye](https://open.spotify.com/track/3DpZoWO5g77GIDp3aGWHEp)
-- [Peachess by Folta Tres](https://open.spotify.com/track/4IGRNWjPIK2diFXhAIP7hT)
-- [Poolside by Lil Harry](https://open.spotify.com/track/7MwdpC8XHqrQuk8PZS0H7t)
-- [a little extra brightness by Camisade](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8)
+- [Moon by Safe Tock](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb)
+- [Midnight Mint by ELEVENISH](https://open.spotify.com/track/2ze9ejYaCLMu4rDtITIrYE)
+- [Montanita by Pool Villa](https://open.spotify.com/track/43xOfLbXEEFWZCqb3YCkmN)
+- [Barcelona by Salavant](https://open.spotify.com/track/6wzwzB0s3Hzf17QuPemhHR)
+- [Going Offbeat by Rick Groove](https://open.spotify.com/track/1MyyHwzHbUaQ6hqVmXG953)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
