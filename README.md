@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
+- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi)
 - [Love Exchange (feat. Silki) by Tim Morris, WLVD, Silki](https://open.spotify.com/track/7zf3aFPkcx1xDN1C00iFP5)
 - [Delilah (pull me out of this) by Fred again.., Delilah Montagu](https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2)
 - [Broken Wings by John Laurant](https://open.spotify.com/track/0XIICwmd3FAoU6vpbdQfcn)
 - [Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix by Lana Del Rey, Cedric Gervais](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB)
-- [WIWU by Gianluca Dimeo, Oscar Duke](https://open.spotify.com/track/2MrZG26Qi7BeQTDHlX1C1o)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
