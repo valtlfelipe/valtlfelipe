@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Symbios by Floral Gloam](https://open.spotify.com/track/6XLqfDYv8a9H0aoWX348L7)
-- [Lord by Sogal](https://open.spotify.com/track/2LQyhtzUZBkz60eirVVaRi)
-- [You’re sayin what? by Trausch](https://open.spotify.com/track/5UyuoJjcFOUVpHSXwgZ74L)
-- [Naxos Sunset by Pink Villa](https://open.spotify.com/track/0qriqL4uIcM7tSRvd2nsbF)
-- [Ocean Blue by LeeDee](https://open.spotify.com/track/2Di8gjxNomIbXi0hctCYHv)
+- [Overtime by Cratouille](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1)
+- [Calm Highlands by Midnight Side Eye](https://open.spotify.com/track/5ReRF1iDkh9VkrT8J19G6b)
+- [Amaretto by Marin Lavelle](https://open.spotify.com/track/40meWVs9i002bPbkZthfVR)
+- [Campeche by Amber &amp; Ochre](https://open.spotify.com/track/6DyKoBHY0LxksiZX7ndceV)
+- [Yesterday&#39;s Dream by Catalina En Collins](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
