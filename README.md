@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Pool Squad by Dr. Stu](https://open.spotify.com/track/17UhZzfi5g69iF7AVmfmat)
-- [Standing with You by Kyle Kollins](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE)
-- [Back to Java by RaFa Sessions](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ)
-- [With My Whole Heart by Aliassime](https://open.spotify.com/track/0qlYDp90Fu3Lpmp47PKUco)
-- [Mope Amok by Robo Rat](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6)
+- [Cozumel by Hello Papyrus](https://open.spotify.com/track/5ZpQBYi5KcVADcUCjTSrgY)
+- [White Island Dreams by RaFa Sessions](https://open.spotify.com/track/2y3gu3ivDq430JRX7eGcEv)
+- [ghost stories by Landayn](https://open.spotify.com/track/4X6fyoXur5lOTNyvXa8VV6)
+- [Forwards by Chimi Berry](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s)
+- [Rainfall by Purple Smog](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
