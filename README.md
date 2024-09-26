@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Spirit Lovers by Snowman vs](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil)
-- [Summertime by SRTW, COLIN](https://open.spotify.com/track/1ijqGNeQBWYSO9X5YyaQdo)
-- [Organic Future by Costavibe](https://open.spotify.com/track/4sN1oCw4jCUAKRXteJDE1r)
-- [Restart The Sun by Robo Rat](https://open.spotify.com/track/3gvLr8fEhn74EU2LArj5wN)
-- [Lifted by A.L.I.S.O.N, Hotel Pools](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz)
+- [Tryin&#39; - Chill House by Mosebe](https://open.spotify.com/track/22epPcE6Y7GwJGmPQbtOtC)
+- [Tropics by Jay Arrow](https://open.spotify.com/track/5Q76GfbKmkLoJuXMbdMrbX)
+- [beach sins by ftono](https://open.spotify.com/track/6AbbZin6hevFSL1kurmBbA)
+- [Palm Beach by Blissmo](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh)
+- [Lemonade by Palm 3s](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
