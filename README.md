@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Cozumel by Hello Papyrus](https://open.spotify.com/track/5ZpQBYi5KcVADcUCjTSrgY)
-- [White Island Dreams by RaFa Sessions](https://open.spotify.com/track/2y3gu3ivDq430JRX7eGcEv)
-- [ghost stories by Landayn](https://open.spotify.com/track/4X6fyoXur5lOTNyvXa8VV6)
-- [Forwards by Chimi Berry](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s)
-- [Rainfall by Purple Smog](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2)
+- [Spirit Lovers by Snowman vs](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil)
+- [Summertime by SRTW, COLIN](https://open.spotify.com/track/1ijqGNeQBWYSO9X5YyaQdo)
+- [Organic Future by Costavibe](https://open.spotify.com/track/4sN1oCw4jCUAKRXteJDE1r)
+- [Restart The Sun by Robo Rat](https://open.spotify.com/track/3gvLr8fEhn74EU2LArj5wN)
+- [Lifted by A.L.I.S.O.N, Hotel Pools](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
