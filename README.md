@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Follow you to the end by KaeL Juno](https://open.spotify.com/track/66xzgxNgDBbVnQ42XzsHbU)
+- [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
+- [Bloom by Kacey View](https://open.spotify.com/track/4t487YqFwbxrqFziKX396O)
 - [Overtime by Cratouille](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1)
 - [Calm Highlands by Midnight Side Eye](https://open.spotify.com/track/5ReRF1iDkh9VkrT8J19G6b)
-- [Amaretto by Marin Lavelle](https://open.spotify.com/track/40meWVs9i002bPbkZthfVR)
-- [Campeche by Amber &amp; Ochre](https://open.spotify.com/track/6DyKoBHY0LxksiZX7ndceV)
-- [Yesterday&#39;s Dream by Catalina En Collins](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
