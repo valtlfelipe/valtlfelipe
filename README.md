@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Curvature by Colton Jefferson](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq)
-- [paloma beach by Naoko Omi](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9)
-- [satisfaction upscale by aiXer](https://open.spotify.com/track/6mC1q4r7lATShNXzRo5l84)
-- [Pictures by Urban Curls](https://open.spotify.com/track/1rjsmzE5H51NhkH4W9Iwie)
-- [Colors Everywhere by Twin Iguana](https://open.spotify.com/track/3Ao3jqny7VKgfRuejUhjfs)
+- [Pool Squad by Dr. Stu](https://open.spotify.com/track/17UhZzfi5g69iF7AVmfmat)
+- [Standing with You by Kyle Kollins](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE)
+- [Back to Java by RaFa Sessions](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ)
+- [With My Whole Heart by Aliassime](https://open.spotify.com/track/0qlYDp90Fu3Lpmp47PKUco)
+- [Mope Amok by Robo Rat](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
