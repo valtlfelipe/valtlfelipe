@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Beautiful Mistakes by Maurice Mills](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z)
-- [Generate! by Kacey View](https://open.spotify.com/track/6XAT7NrzHuFjs9laJj5E1u)
-- [Walk me home by ohlos](https://open.spotify.com/track/1BuqwQuyQKhvxa5X3iDkec)
-- [sunique by roumr](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb)
-- [Mazal by Milous](https://open.spotify.com/track/1VGidY4QvUrjSJDL6lW0iu)
+- [Sun Soaked by Pool Villa](https://open.spotify.com/track/4CFOO0ALDRXw6eVkFBVQXs)
+- [misty mind by kilowattz](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q)
+- [don&#39;t blame the daylight by aiXer](https://open.spotify.com/track/4IlJCdoYJOqg5mnSJdCI5h)
+- [suddenly by sunflwr](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH)
+- [platform 11 by Landayn](https://open.spotify.com/track/6H42CMBnrLd36AfjdbD9UH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
