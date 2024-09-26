@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Tryin&#39; - Chill House by Mosebe](https://open.spotify.com/track/22epPcE6Y7GwJGmPQbtOtC)
-- [Tropics by Jay Arrow](https://open.spotify.com/track/5Q76GfbKmkLoJuXMbdMrbX)
-- [beach sins by ftono](https://open.spotify.com/track/6AbbZin6hevFSL1kurmBbA)
-- [Palm Beach by Blissmo](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh)
-- [Lemonade by Palm 3s](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp)
+- [Cloud Rotation by Lostlow](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA)
+- [Shytsù by Ayaxei](https://open.spotify.com/track/3pM4JILCyD5mEVAjVzsMho)
+- [Secret Chords by Dove Tales](https://open.spotify.com/track/6z1z86T1wK9fFSIZiHb55Q)
+- [Vanilla Perfume by LE OBAL](https://open.spotify.com/track/3gn6rpdlKqyrK1tNlGUcd6)
+- [orange mist by Greene Labyrinth](https://open.spotify.com/track/6LbkUmfjv3AEwWK3xBGF08)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
