@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
+- [forward thinking by Landayn](https://open.spotify.com/track/2yNy6mrhRyqtve0I50aTsM)
 - [Rubicon by Don Battina](https://open.spotify.com/track/2DiNJKPWtnjxhbQFuaKYKY)
 - [SoHo by Mode Donna](https://open.spotify.com/track/3cKaYYc6998KpaDoxjUumR)
 - [Ray Of Sun by Pink Villa](https://open.spotify.com/track/3i2EyWC04DDRnGwCw6ovoI)
 - [Bora by Ran the Man](https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D)
-- [Innuendo by Phello](https://open.spotify.com/track/0OxJZn5qtO6kXdanKDrJI3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
