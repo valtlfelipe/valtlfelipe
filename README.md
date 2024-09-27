@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [SkyReach by Poreniacs](https://open.spotify.com/track/2ULxlHALf8NqrJDEqtX22f)
-- [Morning Grass by Sum Wave](https://open.spotify.com/track/5XBCXxhLU0s6gpbL4HoE9U)
-- [Junior year by The Pleasure Principle](https://open.spotify.com/track/6GNE6gOgeSwJFLzbgLmpUm)
-- [Barracudas by André Aguado](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk)
-- [Chamomile by Hello Papyrus](https://open.spotify.com/track/6RG9iT0BaXGFgqJGVz0Bli)
+- [move over by sugar namnam](https://open.spotify.com/track/7rIBhcLO7nWvDuhxhkWXWj)
+- [Longboard by cookiii](https://open.spotify.com/track/0IA8qgSA8W5yotvdQg78ii)
+- [Sona by Valante](https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU)
+- [Gardient heaven by YAN KAL](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK)
+- [Summer Starters by Co Kluin](https://open.spotify.com/track/6Mt18ydq7WJJoV0orYsejJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
