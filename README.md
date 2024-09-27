@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Peachess by Folta Tres](https://open.spotify.com/track/4IGRNWjPIK2diFXhAIP7hT)
-- [Healing by Cratouille](https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s)
-- [Summer Haze by André Aguado](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol)
-- [Blurry Sequence by Lazy Driver](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ)
-- [Paradise by Julian Verder](https://open.spotify.com/track/12RRvPh6gegoJdscU1gY7f)
+- [SkyReach by Poreniacs](https://open.spotify.com/track/2ULxlHALf8NqrJDEqtX22f)
+- [Morning Grass by Sum Wave](https://open.spotify.com/track/5XBCXxhLU0s6gpbL4HoE9U)
+- [Junior year by The Pleasure Principle](https://open.spotify.com/track/6GNE6gOgeSwJFLzbgLmpUm)
+- [Barracudas by André Aguado](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk)
+- [Chamomile by Hello Papyrus](https://open.spotify.com/track/6RG9iT0BaXGFgqJGVz0Bli)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
