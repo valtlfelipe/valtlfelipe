@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)** - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Fanfare by Transpiritual](https://open.spotify.com/track/2qepxROwRFTCYlwlgrIbZ5)
+- [Daily by Aicnelav](https://open.spotify.com/track/2Kp6yhzCBkFmWR6WCvBs2H)
+- [Pool Crew by Rick Groove](https://open.spotify.com/track/1xO9Aph2qWNtGiun0JwhLR)
+- [Daisy by Spatio](https://open.spotify.com/track/6TG9qxk7w9ACJSTeBWajvt)
 - [Sun Soaked by Pool Villa](https://open.spotify.com/track/4CFOO0ALDRXw6eVkFBVQXs)
-- [misty mind by kilowattz](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q)
-- [don&#39;t blame the daylight by aiXer](https://open.spotify.com/track/4IlJCdoYJOqg5mnSJdCI5h)
-- [suddenly by sunflwr](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH)
-- [platform 11 by Landayn](https://open.spotify.com/track/6H42CMBnrLd36AfjdbD9UH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
