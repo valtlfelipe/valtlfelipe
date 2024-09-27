@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Alright - Instrumental by LUXXURY](https://open.spotify.com/track/7vgJUNJWIrKhH2WXdWHaXc)
-- [View by André Aguado](https://open.spotify.com/track/4Gh6wG1IBOzz04Sigk1w9W)
-- [Boardwalk Lullaby by Sum Wave](https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc)
-- [Colors by Ran the Man](https://open.spotify.com/track/7IJa0Ac9YB5QrDSofvHy3C)
-- [Magnolia by Bagarn](https://open.spotify.com/track/02MIc4aHuwUfI7G62gO3kl)
+- [Butterfly by Pat Jr](https://open.spotify.com/track/3rp3tNPhOHySBqHbawolKh)
+- [Politics of the Heart by Soft Sea](https://open.spotify.com/track/25JczHXGPBQ6PZGt5293MR)
+- [Blend by Hibiscus](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9)
+- [Feel Good by André Aguado](https://open.spotify.com/track/3BOcy4WD4qgILGC3D9SyUH)
+- [Polarity by Sum Wave](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
