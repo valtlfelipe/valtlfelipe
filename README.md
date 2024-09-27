@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
+- [memories by Mandoja](https://open.spotify.com/track/455yDW2mMq8DMrDN9G6SRf)
+- [Tennis by Ran the Man](https://open.spotify.com/track/4auCoI4CXfXA158cBgBOSf)
+- [Vancouver Nights by Pat Jr](https://open.spotify.com/track/78jUuUa2Vjcoz3FkxHeFBY)
 - [Saharan Nights by Soft Sea](https://open.spotify.com/track/2xzGTbiRdVuRGnLISbZuQ4)
 - [solar powers by Landayn](https://open.spotify.com/track/4Xu8MFgOBosHWujdY8UKoB)
-- [Aquarium by André Aguado](https://open.spotify.com/track/7Kd4VtEu0Zsl72p7wWX7KJ)
-- [Naxos Sunset by Pink Villa](https://open.spotify.com/track/0qriqL4uIcM7tSRvd2nsbF)
-- [Souvenirs by Ran the Man](https://open.spotify.com/track/2TJXryzOQ5UestW8w3DNSU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
