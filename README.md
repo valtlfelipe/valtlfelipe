@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [forward thinking by Landayn](https://open.spotify.com/track/2yNy6mrhRyqtve0I50aTsM)
-- [Rubicon by Don Battina](https://open.spotify.com/track/2DiNJKPWtnjxhbQFuaKYKY)
-- [SoHo by Mode Donna](https://open.spotify.com/track/3cKaYYc6998KpaDoxjUumR)
-- [Ray Of Sun by Pink Villa](https://open.spotify.com/track/3i2EyWC04DDRnGwCw6ovoI)
-- [Bora by Ran the Man](https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D)
+- [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
+- [My Mind by Ethan Miller](https://open.spotify.com/track/1AEcELFbIEjwDP0gpH834k)
+- [All I Needed by Fantishe](https://open.spotify.com/track/74kURLYGDFMv71yySlb394)
+- [Sabaii by Deep Chills, Five Corners, Natty Rico](https://open.spotify.com/track/4m4IFDTc5XVx7XY356pAFI)
+- [Catch &amp; Release by Planetopia](https://open.spotify.com/track/00eUfsLQfuR9h6waaiHDUq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
