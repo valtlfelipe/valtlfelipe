@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Promises by Adrian Knows, Aexcit](https://open.spotify.com/track/10cB40FA9AnOPvwJdHd1Ni)
+- [All Night Long by LRY](https://open.spotify.com/track/68oKyAcaMMukReKjKeDDrl)
+- [Memories by FRNDS](https://open.spotify.com/track/2ZBpwfSEVAVJOmKsJfHFrc)
+- [River Wye by Zena](https://open.spotify.com/track/5AyRP897H2u4dMNHUVY6Ht)
 - [I&#39;ll Be Alright by Magnus Gunn](https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY)
-- [Sunrise by Tungevaag](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda)
-- [Whisky Sour by Bibiane Z](https://open.spotify.com/track/2lKJHCdecefJiHpVtCl33r)
-- [Good Times, Bad Vibes by Plastic Jungle, Aimi](https://open.spotify.com/track/1ReEEd8Qq0fbiBNaY7aRGo)
-- [I&#39;ll Be by Miza, Tropical Fairytale, A27C](https://open.spotify.com/track/3UdrpAyxPTPJ9ka48KjTKO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
