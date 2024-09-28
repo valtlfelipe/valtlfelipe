@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
+- [I Don&#39;t by Vidojean X Oliver Loenn](https://open.spotify.com/track/02GT6uDGyR9hrnGisPJNmH)
 - [Overthinking by YUMA, FAST BOY](https://open.spotify.com/track/3TwAy5Wd1hn89J43NnJNpR)
 - [Firefly by Fia De Luca](https://open.spotify.com/track/37CUS1WC6lHPo0qOzCCT2s)
 - [Get To Know by Flip Flop Joe](https://open.spotify.com/track/5KlXvvQyPTdqRBv8JnSuab)
 - [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
-- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
