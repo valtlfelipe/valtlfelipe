@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Sabaii by Deep Chills, Five Corners, Natty Rico](https://open.spotify.com/track/4m4IFDTc5XVx7XY356pAFI)
+- [Let It Go by NOTSOBAD, MA:RK](https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR)
 - [On The Run by NVRT](https://open.spotify.com/track/2qI55suh5Otdu3NdxLeBzY)
 - [Whisper by Ruuben, Eric Lee Carpenter](https://open.spotify.com/track/6nqRp2ICbQRmFtdeVTBJ7C)
 - [Ride It by SAKKO, Danna Max](https://open.spotify.com/track/37Wt5QGJvlow37dziZw4Y6)
-- [You by LVAN](https://open.spotify.com/track/4Jwo2nh2egQQATYGeYLJbB)
-- [Falling by Sober Chow, A17N, AuntL](https://open.spotify.com/track/6k9mq9i35Wr8DoYLjSNbzx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
