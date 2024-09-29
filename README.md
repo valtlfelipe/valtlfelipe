@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
-- [Casablanca by Junerule, Brendan Mills, Julia Shuren](https://open.spotify.com/track/5bNB9nhYKtwy9H730acFJF)
-- [Tomorrow by James Carter](https://open.spotify.com/track/15zmzawx6s7TYKHAFGYdSB)
-- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
-- [Bahia Sax by Michael FAY, Alex Schneider](https://open.spotify.com/track/3vMS9By7Zfrm9i81Gldk9O)
+- [Someone For Me by HNK](https://open.spotify.com/track/600b00gFMZK4fnHj1oKwAk)
+- [In My Mind by Navaro, Mariline, ARI.](https://open.spotify.com/track/3vFMqJh6spfrNtY9GFMKG4)
+- [Fade Away by Thymaz, Androma, Dizaro, Donner](https://open.spotify.com/track/5WLAaAgpSQq54ZMdRM57DI)
+- [Take Me Back by Alessandro Pierozzi, Chris Berner, Jeh, Fare](https://open.spotify.com/track/2yUogYzKsVDMeWXpgbWn9x)
+- [Look Away by Planet Wave House, Kelo, Lost In Reveries](https://open.spotify.com/track/01gbQboVMTroyjoUBJlzOx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
