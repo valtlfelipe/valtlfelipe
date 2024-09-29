@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sabaii by Deep Chills, Five Corners, Natty Rico](https://open.spotify.com/track/4m4IFDTc5XVx7XY356pAFI)
-- [Let It Go by NOTSOBAD, MA:RK](https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR)
-- [On The Run by NVRT](https://open.spotify.com/track/2qI55suh5Otdu3NdxLeBzY)
-- [Whisper by Ruuben, Eric Lee Carpenter](https://open.spotify.com/track/6nqRp2ICbQRmFtdeVTBJ7C)
-- [Ride It by SAKKO, Danna Max](https://open.spotify.com/track/37Wt5QGJvlow37dziZw4Y6)
+- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
+- [Casablanca by Junerule, Brendan Mills, Julia Shuren](https://open.spotify.com/track/5bNB9nhYKtwy9H730acFJF)
+- [Tomorrow by James Carter](https://open.spotify.com/track/15zmzawx6s7TYKHAFGYdSB)
+- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
+- [Bahia Sax by Michael FAY, Alex Schneider](https://open.spotify.com/track/3vMS9By7Zfrm9i81Gldk9O)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
