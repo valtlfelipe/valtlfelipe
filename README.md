@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Learned My Lesson by Revelries](https://open.spotify.com/track/1zc5ihEFgBH6G4CnCixYGJ)
+- [B.O.T.A. (Baddest Of Them All) by Larry &amp; The Lounge Lizards, SIQUE](https://open.spotify.com/track/0t272tNIzmHCpF9Vtwrjxz)
 - [Lovin&#39; Feeling by French 79, Kid Francescoli](https://open.spotify.com/track/5pxtj7cCnv2hZe6mbS2MBx)
 - [Nothing Breaks Like a Heart (feat. Miley Cyrus) by Mark Ronson, Miley Cyrus](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn)
 - [Way to Go - Club Soda Mix by Soda State](https://open.spotify.com/track/1Ym1wyAwCGTVFTRS4bpBZn)
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
-- [Sun Models by ODESZA, Madelyn Grant](https://open.spotify.com/track/7jZHUhAmW5oq1cq6s8IxmK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
