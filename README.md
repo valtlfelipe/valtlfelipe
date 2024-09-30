@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [All the Way by Piece Wise, Eloi El](https://open.spotify.com/track/5mHt8xsbIW661fnMBOwlTw)
-- [Miss Summer by Relŭm](https://open.spotify.com/track/2Qm93EHMVCwrEl7Ap4OYa6)
-- [You by LVAN](https://open.spotify.com/track/4Jwo2nh2egQQATYGeYLJbB)
-- [Chase by Alatra](https://open.spotify.com/track/6jZekmOVrsiRKGgPEE2EMT)
-- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
+- [Remedy by fwd/slash](https://open.spotify.com/track/2K2PVKuP1iuLjisZzF0nP2)
+- [Chasing Sunset by Relŭm](https://open.spotify.com/track/4zdefY5ZM3mOTrJ2AOTwUM)
+- [Sunset by Ardo, Jake Alva](https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD)
+- [Losing Sight by Eijk, CLOVER](https://open.spotify.com/track/4e5BPVd9A4UBLZBsRPxJ9E)
+- [I Want You by Lust.](https://open.spotify.com/track/1XHQLzy4awKP4sgLK1H3zI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
