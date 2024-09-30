@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Remedy by fwd/slash](https://open.spotify.com/track/2K2PVKuP1iuLjisZzF0nP2)
-- [Chasing Sunset by Relŭm](https://open.spotify.com/track/4zdefY5ZM3mOTrJ2AOTwUM)
-- [Sunset by Ardo, Jake Alva](https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD)
-- [Losing Sight by Eijk, CLOVER](https://open.spotify.com/track/4e5BPVd9A4UBLZBsRPxJ9E)
-- [I Want You by Lust.](https://open.spotify.com/track/1XHQLzy4awKP4sgLK1H3zI)
+- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
+- [Sonata by fwd/slash](https://open.spotify.com/track/2yIRiWHvCapuycEHjM8uos)
+- [Night to Remember by Piece Wise, Eloi El](https://open.spotify.com/track/4EZr5G3FOzlwxAKMfdgUkY)
+- [Got Your Back by Lowkey](https://open.spotify.com/track/1HhnmVeR9p4FzCWvvktC42)
+- [Letting Go by Lust.](https://open.spotify.com/track/1Kg8W2ZfV1sDtxGR6xXs9d)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
