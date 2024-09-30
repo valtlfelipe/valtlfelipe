@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
-- [Golden Coast by Sum Wave, Bye Ocean](https://open.spotify.com/track/5OAzNsvlce77KdVuA2bVah)
-- [Can&#39;t Be Without You by fwd/slash](https://open.spotify.com/track/3ul8CcxroHHsURDSNrDfoV)
-- [Sundowner by Relŭm](https://open.spotify.com/track/0aSaK7pFionCfWsulaQS46)
-- [Eternal by P.A.V](https://open.spotify.com/track/6QXlwZXDSp7BQJWM0V6mPO)
+- [All the Way by Piece Wise, Eloi El](https://open.spotify.com/track/5mHt8xsbIW661fnMBOwlTw)
+- [Miss Summer by Relŭm](https://open.spotify.com/track/2Qm93EHMVCwrEl7Ap4OYa6)
+- [You by LVAN](https://open.spotify.com/track/4Jwo2nh2egQQATYGeYLJbB)
+- [Chase by Alatra](https://open.spotify.com/track/6jZekmOVrsiRKGgPEE2EMT)
+- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
