@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Learned My Lesson by Revelries](https://open.spotify.com/track/1zc5ihEFgBH6G4CnCixYGJ)
-- [B.O.T.A. (Baddest Of Them All) by Larry &amp; The Lounge Lizards, SIQUE](https://open.spotify.com/track/0t272tNIzmHCpF9Vtwrjxz)
-- [Lovin&#39; Feeling by French 79, Kid Francescoli](https://open.spotify.com/track/5pxtj7cCnv2hZe6mbS2MBx)
-- [Nothing Breaks Like a Heart (feat. Miley Cyrus) by Mark Ronson, Miley Cyrus](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn)
-- [Way to Go - Club Soda Mix by Soda State](https://open.spotify.com/track/1Ym1wyAwCGTVFTRS4bpBZn)
+- [Ritual by G&#43;UNENBERG, Fuju](https://open.spotify.com/track/3uSbGpRNLdFObzzXDqmlBM)
+- [Slowmotion. by Pete Shade](https://open.spotify.com/track/0C1UdMRGYNQUMke7aXzrTL)
+- [All I Need by Sha7an, Midnight Wanders, Roads We Walk](https://open.spotify.com/track/2EVHHLs1tUayuVPeXjpACI)
+- [Over The Moon (feat. ARI.) by NIVEK, ARI.](https://open.spotify.com/track/7wL01RC9lYtRR593d6KdOZ)
+- [Lost Without You by Monde](https://open.spotify.com/track/5YbprbM5zydjaABZt4Il2U)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
