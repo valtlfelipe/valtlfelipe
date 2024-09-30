@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Ritual by G&#43;UNENBERG, Fuju](https://open.spotify.com/track/3uSbGpRNLdFObzzXDqmlBM)
-- [Slowmotion. by Pete Shade](https://open.spotify.com/track/0C1UdMRGYNQUMke7aXzrTL)
-- [All I Need by Sha7an, Midnight Wanders, Roads We Walk](https://open.spotify.com/track/2EVHHLs1tUayuVPeXjpACI)
-- [Over The Moon (feat. ARI.) by NIVEK, ARI.](https://open.spotify.com/track/7wL01RC9lYtRR593d6KdOZ)
-- [Lost Without You by Monde](https://open.spotify.com/track/5YbprbM5zydjaABZt4Il2U)
+- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
+- [Golden Coast by Sum Wave, Bye Ocean](https://open.spotify.com/track/5OAzNsvlce77KdVuA2bVah)
+- [Can&#39;t Be Without You by fwd/slash](https://open.spotify.com/track/3ul8CcxroHHsURDSNrDfoV)
+- [Sundowner by Relŭm](https://open.spotify.com/track/0aSaK7pFionCfWsulaQS46)
+- [Eternal by P.A.V](https://open.spotify.com/track/6QXlwZXDSp7BQJWM0V6mPO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
