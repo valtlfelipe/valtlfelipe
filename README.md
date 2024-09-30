@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
-- [Sonata by fwd/slash](https://open.spotify.com/track/2yIRiWHvCapuycEHjM8uos)
-- [Night to Remember by Piece Wise, Eloi El](https://open.spotify.com/track/4EZr5G3FOzlwxAKMfdgUkY)
-- [Got Your Back by Lowkey](https://open.spotify.com/track/1HhnmVeR9p4FzCWvvktC42)
-- [Letting Go by Lust.](https://open.spotify.com/track/1Kg8W2ZfV1sDtxGR6xXs9d)
+- [Miles to Go by Seamit](https://open.spotify.com/track/1WKjoJQHN9paGgzava0gi7)
+- [Whisper by Ruuben, Eric Lee Carpenter](https://open.spotify.com/track/6nqRp2ICbQRmFtdeVTBJ7C)
+- [All Night by Fabio Vee, Dafnesia](https://open.spotify.com/track/2YrRrHxJtp3RRSeoWcAyRa)
+- [Tranquil by TAPI](https://open.spotify.com/track/0MFkujKkIkYWk2L2dzFlTV)
+- [How We Do by Maxxteen](https://open.spotify.com/track/1qM44i3fF16l7vVgMIrzhn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
