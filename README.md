@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sunset by just here.](https://open.spotify.com/track/4J3y4fCVLr5C4zkuI2v8cT)
-- [Saxophone Beat by Small ToK, Michael FAY, Elamar](https://open.spotify.com/track/0T15gVTsijhN7yeMKINBwf)
-- [All I Need by Sha7an, Midnight Wanders, Roads We Walk](https://open.spotify.com/track/2EVHHLs1tUayuVPeXjpACI)
-- [You &amp; Me by nowifi, Chaël, CLOSR](https://open.spotify.com/track/45Kr1rsTJreKH8cmWTPRi9)
-- [Not Over U by MAYLYN, Paul Schulze](https://open.spotify.com/track/0HvfzWWP9DFAMrFxxRQOiY)
+- [The Depths by JARP, Tenjo](https://open.spotify.com/track/0o7de9GRm39xN16GpElekn)
+- [Rhythm Of My Mind - Chill Edit by Atch, Treetalk](https://open.spotify.com/track/0ZJdZtjF4cjZazBjeG8ql1)
+- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
+- [Daydreaming by Milos, Ima Sobé](https://open.spotify.com/track/4bZWc6kBVcEPcOPM9ryfRo)
+- [Miles to Go by Seamit](https://open.spotify.com/track/1WKjoJQHN9paGgzava0gi7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
