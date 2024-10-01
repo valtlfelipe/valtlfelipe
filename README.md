@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sunrise Under Palms by Relŭm](https://open.spotify.com/track/3T3w1EwODkr2moNzjoT0Xx)
-- [Bulletproof by Covenants, Émilie Rachel](https://open.spotify.com/track/4RhfvPYpC9GPGq5G9TOiq9)
-- [What You Do to Me by fwd/slash](https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF)
-- [Solitude by Sum Wave, Bye Ocean](https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7)
-- [Give Me The Love by D3EPANK, ENLIV3N](https://open.spotify.com/track/58iQWJZhzStie1hsYJt3a0)
+- [Bad Memories by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U)
+- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
+- [Sun Goes Down by Lust.](https://open.spotify.com/track/3kPIZSLfDSolV56G8c7wMi)
+- [Losing Sight by Eijk, CLOVER](https://open.spotify.com/track/4e5BPVd9A4UBLZBsRPxJ9E)
+- [All the Way by Piece Wise, Eloi El](https://open.spotify.com/track/5mHt8xsbIW661fnMBOwlTw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
