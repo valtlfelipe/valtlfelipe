@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [I&#39;ll Be Yours by lonely beach house](https://open.spotify.com/track/2yqFqI0UX3AaE97aVE9yY4)
-- [tø infinity by birø](https://open.spotify.com/track/2ulIVcXhrQJAc2mGjJeYoo)
-- [Eye To Eye (Refeci Remix) by Lucas Estrada, Refeci](https://open.spotify.com/track/3fKCLCzk0GOimwI3e42wCg)
-- [Sunset Memories by Sum Wave](https://open.spotify.com/track/6N4PYS4Go8XrcRMAwJW0Go)
-- [Nobody by P.A.V](https://open.spotify.com/track/5RPFcT0AUII13XEHjUAWpN)
+- [Sunrise Under Palms by Relŭm](https://open.spotify.com/track/3T3w1EwODkr2moNzjoT0Xx)
+- [Bulletproof by Covenants, Émilie Rachel](https://open.spotify.com/track/4RhfvPYpC9GPGq5G9TOiq9)
+- [What You Do to Me by fwd/slash](https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF)
+- [Solitude by Sum Wave, Bye Ocean](https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7)
+- [Give Me The Love by D3EPANK, ENLIV3N](https://open.spotify.com/track/58iQWJZhzStie1hsYJt3a0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
