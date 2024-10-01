@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
-- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
-- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
-- [The Depths by JARP, Tenjo](https://open.spotify.com/track/0o7de9GRm39xN16GpElekn)
-- [Rhythm Of My Mind - Chill Edit by Atch, Treetalk](https://open.spotify.com/track/0ZJdZtjF4cjZazBjeG8ql1)
+- [Movin&#39; by Alatra](https://open.spotify.com/track/5DLruTfxyD9ZMPpV0qE4QY)
+- [Slowly by Palisade](https://open.spotify.com/track/7dVph78kZ2kH7WkeNNPzfn)
+- [Stereo Hearts by Sunseekers, SIQUE](https://open.spotify.com/track/2p4qoPDyqIFNIxIhP7SnpD)
+- [Tattoo by ay-Mill, Holly Terrens](https://open.spotify.com/track/3sTUtMlTdTKvI2OqIsnTm3)
+- [the møre that i dø by birø, JAIKO](https://open.spotify.com/track/1AWmsq8nATWMglHeWeup0B)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
