@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Movin&#39; by Alatra](https://open.spotify.com/track/5DLruTfxyD9ZMPpV0qE4QY)
-- [Slowly by Palisade](https://open.spotify.com/track/7dVph78kZ2kH7WkeNNPzfn)
-- [Stereo Hearts by Sunseekers, SIQUE](https://open.spotify.com/track/2p4qoPDyqIFNIxIhP7SnpD)
-- [Tattoo by ay-Mill, Holly Terrens](https://open.spotify.com/track/3sTUtMlTdTKvI2OqIsnTm3)
-- [the møre that i dø by birø, JAIKO](https://open.spotify.com/track/1AWmsq8nATWMglHeWeup0B)
+- [Whisper by Ruuben, Eric Lee Carpenter](https://open.spotify.com/track/6nqRp2ICbQRmFtdeVTBJ7C)
+- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
+- [Almost Fall in Love by Joan Alasta, Oleyada](https://open.spotify.com/track/3OveIhHg5KBYKhVJSecGgl)
+- [Night Drive by Relŭm](https://open.spotify.com/track/1O7lD7lSbZaR6zaRBfPyj5)
+- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
