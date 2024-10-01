@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
-- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
-- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
-- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/6BjG4NirMgJfC6QAvbfBNG)
+- [Your Heart by Lynnic, ItsArius](https://open.spotify.com/track/56b6hfYKczrdjPRX2iRAhi)
+- [La leçon particulière by Lavern, Francis Lai](https://open.spotify.com/track/3NWRapFZSlpHXO38LW21rw)
+- [Sunset by Ardo, Jake Alva](https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD)
+- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
+- [Go Back (feat. Julia Church) by John Summit, Sub Focus, Julia Church](https://open.spotify.com/track/4CfcXnwLf2MUfnjCnqUMvj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
