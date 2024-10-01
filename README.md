@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Bad Memories by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
-- [Sun Goes Down by Lust.](https://open.spotify.com/track/3kPIZSLfDSolV56G8c7wMi)
-- [Losing Sight by Eijk, CLOVER](https://open.spotify.com/track/4e5BPVd9A4UBLZBsRPxJ9E)
-- [All the Way by Piece Wise, Eloi El](https://open.spotify.com/track/5mHt8xsbIW661fnMBOwlTw)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [Back to Me by Jai Nova](https://open.spotify.com/track/2kQ58pBNieZ10whIYVuPr0)
+- [State Of Mind by Oliver Michael](https://open.spotify.com/track/3tsfs52xzI7iHgdnGA2f4O)
+- [All I Needed by Fantishe](https://open.spotify.com/track/74kURLYGDFMv71yySlb394)
+- [I Do by PLÜM](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
