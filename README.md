@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Keep Breathing by Lynnic, ItsArius, Mocean](https://open.spotify.com/track/7jwqJC4HVydUmjG7AAhZPG)
-- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
-- [Distraction by Nu Aspect, Jem Cooke](https://open.spotify.com/track/2XCc7Y5BhnBK29r9mhFXZG)
-- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
-- [For Life (feat. Nile Rodgers) by Kygo, Zak Abel, Nile Rodgers](https://open.spotify.com/track/6YutTqJz3jGfLMfzIHpSTf)
+- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3)
+- [Heartbeat Slow by Astrality, Jyll, Dillistone](https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT)
+- [Bloom (Brendan Mills Remix) by Lucas Estrada, TWOPILOTS, Brendan Mills](https://open.spotify.com/track/18IP0JyVbV7ignrEW0HyNR)
+- [Other Side by AVAION, BUNT.](https://open.spotify.com/track/5sldxFuM496Xu7dt6r8Ckl)
+- [Summer&#39;s Back by Alok, Jess Glynne](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
