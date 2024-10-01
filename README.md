@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [Back to Me by Jai Nova](https://open.spotify.com/track/2kQ58pBNieZ10whIYVuPr0)
-- [State Of Mind by Oliver Michael](https://open.spotify.com/track/3tsfs52xzI7iHgdnGA2f4O)
-- [All I Needed by Fantishe](https://open.spotify.com/track/74kURLYGDFMv71yySlb394)
-- [I Do by PLÜM](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa)
+- [Tell Me by James Carter, Hanne Mjøen](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg)
+- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
+- [Lost in Paradise by Relŭm](https://open.spotify.com/track/7xNiLGpPvHIhrBoi7syMST)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
