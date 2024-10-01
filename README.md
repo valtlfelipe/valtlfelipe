@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Your Heart by Lynnic, ItsArius](https://open.spotify.com/track/56b6hfYKczrdjPRX2iRAhi)
-- [La leçon particulière by Lavern, Francis Lai](https://open.spotify.com/track/3NWRapFZSlpHXO38LW21rw)
-- [Sunset by Ardo, Jake Alva](https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD)
-- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
-- [Go Back (feat. Julia Church) by John Summit, Sub Focus, Julia Church](https://open.spotify.com/track/4CfcXnwLf2MUfnjCnqUMvj)
+- [Keep Breathing by Lynnic, ItsArius, Mocean](https://open.spotify.com/track/7jwqJC4HVydUmjG7AAhZPG)
+- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
+- [Distraction by Nu Aspect, Jem Cooke](https://open.spotify.com/track/2XCc7Y5BhnBK29r9mhFXZG)
+- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
+- [For Life (feat. Nile Rodgers) by Kygo, Zak Abel, Nile Rodgers](https://open.spotify.com/track/6YutTqJz3jGfLMfzIHpSTf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
