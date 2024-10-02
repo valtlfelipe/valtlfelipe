@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
 
 #### 🎧 What I have been listening
-- [Love The Time by Lavern](https://open.spotify.com/track/0xEoyl1r3IxcrGwBu6MyyQ)
-- [Echo by RSCL, Repiet, Julia Kleijn](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj)
-- [Got Me Like by Lavern](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP)
-- [Follow the Sun - Sunset Remix by LYOD](https://open.spotify.com/track/4QZJabkkdzFL1qqIsnBmGP)
-- [Bloom by Piece Wise, Abroad](https://open.spotify.com/track/1s6Cvc0F0xTc6PBIlpnMgK)
+- [Take You High by Lavern](https://open.spotify.com/track/3X5bhn3dii050J2UlQNRUS)
+- [The Feeling by Lost Frequencies, Bonn](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
+- [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/1cYyZ1N98GyRS3cMcccFHd)
+- [Words by Nu Aspect](https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo)
+- [Rain by Astrality, MNRT, S:NE](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
