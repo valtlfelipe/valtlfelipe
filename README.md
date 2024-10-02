@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[slatedb/slatedb](https://github.com/slatedb/slatedb)** - A cloud native embedded storage engine built on object storage. (today)
 - **[kubewall/kubewall](https://github.com/kubewall/kubewall)** - A single binary kubernetes dashboard to manage your multiple clusters. (5 days ago)
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (1 week ago)
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (1 week ago)
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
-- **[SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)** - A collection of common interactive command line user interfaces. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Falling Into You by Lynnic, ItsArius, Kezano](https://open.spotify.com/track/3ZHKnaw6nJCXGYVY1h63lK)
-- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3)
-- [Heartbeat Slow by Astrality, Jyll, Dillistone](https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT)
-- [Bloom (Brendan Mills Remix) by Lucas Estrada, TWOPILOTS, Brendan Mills](https://open.spotify.com/track/18IP0JyVbV7ignrEW0HyNR)
-- [Other Side by AVAION, BUNT.](https://open.spotify.com/track/5sldxFuM496Xu7dt6r8Ckl)
+- [Love The Time by Lavern](https://open.spotify.com/track/0xEoyl1r3IxcrGwBu6MyyQ)
+- [Echo by RSCL, Repiet, Julia Kleijn](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj)
+- [Got Me Like by Lavern](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP)
+- [Follow the Sun - Sunset Remix by LYOD](https://open.spotify.com/track/4QZJabkkdzFL1qqIsnBmGP)
+- [Bloom by Piece Wise, Abroad](https://open.spotify.com/track/1s6Cvc0F0xTc6PBIlpnMgK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
