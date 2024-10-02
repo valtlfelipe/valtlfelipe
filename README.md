@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
 
 #### 🎧 What I have been listening
-- [State Of Mind by Oliver Michael](https://open.spotify.com/track/3tsfs52xzI7iHgdnGA2f4O)
-- [Dopamine by Purple Disco Machine, Eyelar](https://open.spotify.com/track/3x4HQL358aI7js8F43mN7S)
-- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
-- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
-- [Safe House by LOWKEY, Steam Phunk, JAIKO](https://open.spotify.com/track/09fYMdR8lPHQKgyQ2URs7a)
+- [Give Me The Love by D3EPANK, ENLIV3N](https://open.spotify.com/track/58iQWJZhzStie1hsYJt3a0)
+- [Shooting Stars by Solven](https://open.spotify.com/track/3O8cUTgeU37uII7wZotxLp)
+- [Too Late For Me by Lotus, Jan Liva, yara.](https://open.spotify.com/track/5Em17sf8ihmDInafRJ9bAO)
+- [Dreamin&#39; by Fargro, RVLE](https://open.spotify.com/track/3UPtRj3lH32FG8yZc4ooWa)
+- [Running by Zerb](https://open.spotify.com/track/5ZxnCwIT01oXejeyTjwpUV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
