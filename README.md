@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
 
 #### 🎧 What I have been listening
-- [All I Needed by Fantishe](https://open.spotify.com/track/74kURLYGDFMv71yySlb394)
-- [Like No One&#39;s Here by Recens, Dominic Donner](https://open.spotify.com/track/6sOfIfmLp01BNkaPjUi3IT)
-- [All I Want Is You by Lavern, NEIMY](https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY)
-- [In the Dark by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41)
-- [I Do by PLÜM](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa)
+- [Tomorrow by James Carter](https://open.spotify.com/track/15zmzawx6s7TYKHAFGYdSB)
+- [Bulletproof by Covenants, Émilie Rachel](https://open.spotify.com/track/4RhfvPYpC9GPGq5G9TOiq9)
+- [Lost in You by Astrality, Thandi](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH)
+- [Bahia Sax by Michael FAY, Alex Schneider](https://open.spotify.com/track/3vMS9By7Zfrm9i81Gldk9O)
+- [Back to Me by Jai Nova](https://open.spotify.com/track/2kQ58pBNieZ10whIYVuPr0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
