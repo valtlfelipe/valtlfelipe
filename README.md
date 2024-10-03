@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
 
 #### 🎧 What I have been listening
+- [Fire in You by Fargro](https://open.spotify.com/track/5TwKgFNIieJyFP9Phhvhjo)
+- [Heaven by James Carter](https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3)
 - [As I Am by OARM](https://open.spotify.com/track/4y3R2vkOUBtIHolh1GG8up)
 - [Illuminate - Extended by Astrality, Leo Stannard](https://open.spotify.com/track/5OVDMbFKKAeI4sX6y1r6kR)
 - [Sirens by Dallerium, FARLEY](https://open.spotify.com/track/14tDY4UrwhZbhRktMhZ2v5)
-- [Body Language by James Carter, Punctual, RBZ](https://open.spotify.com/track/01hCzxgttMvy4v9760kXke)
-- [Waiting For You by Zerb, Jaimes](https://open.spotify.com/track/79VdOI2nQedXOfd2xCiaio)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
