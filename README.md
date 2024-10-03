@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
 
 #### 🎧 What I have been listening
-- [Training Season by Dua Lipa](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26)
-- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
-- [Call It Love by Felix Jaehn, Ray Dalton](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B)
-- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
-- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
+- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/6BjG4NirMgJfC6QAvbfBNG)
+- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
+- [Animal by R3HAB, Jason Derulo](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
