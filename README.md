@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
 
 #### 🎧 What I have been listening
-- [Summer&#39;s Back by Alok, Jess Glynne](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o)
-- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
-- [Keep Breathing by Lynnic, ItsArius, Mocean](https://open.spotify.com/track/7jwqJC4HVydUmjG7AAhZPG)
-- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
-- [Distraction by Nu Aspect, Jem Cooke](https://open.spotify.com/track/2XCc7Y5BhnBK29r9mhFXZG)
+- [Sinner by Nu Aspect](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t)
+- [Nobody Knows by Ape Drums, Clementine Douglas](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb)
+- [Falling Into You by Lynnic, ItsArius, Kezano](https://open.spotify.com/track/3ZHKnaw6nJCXGYVY1h63lK)
+- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3)
+- [Heartbeat Slow by Astrality, Jyll, Dillistone](https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
