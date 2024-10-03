@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
 
 #### 🎧 What I have been listening
-- [Tomorrow by James Carter](https://open.spotify.com/track/15zmzawx6s7TYKHAFGYdSB)
-- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
-- [In the Dark by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41)
-- [Bahia Sax by Michael FAY, Alex Schneider](https://open.spotify.com/track/3vMS9By7Zfrm9i81Gldk9O)
-- [Sunrise by Tungevaag](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda)
+- [In My Mind by Lavern](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk)
+- [Out of Body by Ruffnux, le moon, soleil](https://open.spotify.com/track/3MBAedkX9Al5Yfn8xMxvMa)
+- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
+- [Hypnotized by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/0HNDr5c2IOIvfe8DPwjVO9)
+- [Memories by Bright Hinze](https://open.spotify.com/track/7dza6AfqBSGOf9VxtBhv19)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
