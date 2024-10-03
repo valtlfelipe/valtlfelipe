@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fire in You by Fargro](https://open.spotify.com/track/5TwKgFNIieJyFP9Phhvhjo)
-- [Heaven by James Carter](https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3)
-- [As I Am by OARM](https://open.spotify.com/track/4y3R2vkOUBtIHolh1GG8up)
-- [Illuminate - Extended by Astrality, Leo Stannard](https://open.spotify.com/track/5OVDMbFKKAeI4sX6y1r6kR)
-- [Sirens by Dallerium, FARLEY](https://open.spotify.com/track/14tDY4UrwhZbhRktMhZ2v5)
+- [Tomorrow by James Carter](https://open.spotify.com/track/15zmzawx6s7TYKHAFGYdSB)
+- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
+- [In the Dark by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41)
+- [Bahia Sax by Michael FAY, Alex Schneider](https://open.spotify.com/track/3vMS9By7Zfrm9i81Gldk9O)
+- [Sunrise by Tungevaag](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
