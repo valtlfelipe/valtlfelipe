@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
-- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
-- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/6BjG4NirMgJfC6QAvbfBNG)
-- [Higher by Charleon](https://open.spotify.com/track/3e6rRgKM6WPyi20BoRzpSi)
-- [Animal by R3HAB, Jason Derulo](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo)
+- [Rise by Lynnic](https://open.spotify.com/track/3uBy64hFwBlmt48c2xnUlg)
+- [Electric High by Lavern](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH)
+- [A New Day by Bellestar, Urban Love, Tom Polo](https://open.spotify.com/track/2K8lk9eDCxC9qKsiTrxTyz)
+- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
+- [You &amp; Me - Rivo Remix by Disclosure, Rivo, Eliza Doolittle](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
