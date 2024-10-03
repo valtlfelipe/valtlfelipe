@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
 
 #### 🎧 What I have been listening
-- [Rise by Lynnic](https://open.spotify.com/track/3uBy64hFwBlmt48c2xnUlg)
-- [Electric High by Lavern](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH)
-- [A New Day by Bellestar, Urban Love, Tom Polo](https://open.spotify.com/track/2K8lk9eDCxC9qKsiTrxTyz)
-- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
-- [You &amp; Me - Rivo Remix by Disclosure, Rivo, Eliza Doolittle](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
+- [Oblivion by Camden Cox](https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI)
+- [Lovefool by twocolors](https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4)
+- [Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework by HUGEL](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
+- [Take Me Home by Nu Aspect, TCTS, RAHH](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
