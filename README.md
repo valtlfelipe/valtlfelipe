@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (1 week ago)
 
 #### 🎧 What I have been listening
-- [Strings Attached by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
-- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t)
-- [Can&#39;t Love Myself (feat. Mishaal &amp; LPW) by HUGEL, Mishaal Tamer, LPW](https://open.spotify.com/track/6jvYUrFJeebfiHjyCvfiHE)
-- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
+- [Afterlife by Nu Aspect, JEWELS, MAGNUS](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd)
+- [Golden Sunset by Lavern](https://open.spotify.com/track/679xwHGrkNsNQHh6KacLxA)
+- [Alone Together by Astrality, Georgia Blackwell](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS)
+- [Overthinking by YUMA, FAST BOY](https://open.spotify.com/track/3TwAy5Wd1hn89J43NnJNpR)
+- [On Me by Van Herpen, Marcus Mollyhus](https://open.spotify.com/track/3Zulg2rc8paEiKWLIs3TYD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
