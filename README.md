@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
-- [Hold Me - Sped Up by Lavern](https://open.spotify.com/track/3EEck47Jgp4kuWrFZ1JdoM)
-- [My Love by Gianluca Dimeo, Daniel Santoro](https://open.spotify.com/track/55yl2jVMuB0yPUJzWjJM7p)
-- [VHS RAVE by Tiësto, Swimming Paul](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L)
-- [Overcome by Simon Dekkers, D-LEVELS](https://open.spotify.com/track/4BslNG1DUmiVT6qMOYyvlJ)
+- [Outside Of Love by Becky Hill](https://open.spotify.com/track/3LcXzMeyG4jy8ERxtzHGgP)
+- [Bad Memories by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U)
+- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
+- [Unknown by Bapti, Jemz](https://open.spotify.com/track/2V48LfT5x1dRUpnHjEJpaE)
+- [Body Talk by Ofenbach, SVEA](https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
