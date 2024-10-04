@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Lose Control - Tiësto Remix by Teddy Swims, Tiësto](https://open.spotify.com/track/6Qw4mOkFM3UjCf3ybd4zCE)
-- [Illuminate - Extended by Astrality, Leo Stannard](https://open.spotify.com/track/5OVDMbFKKAeI4sX6y1r6kR)
-- [Sirens by Dallerium, FARLEY](https://open.spotify.com/track/14tDY4UrwhZbhRktMhZ2v5)
-- [Body Language by James Carter, Punctual, RBZ](https://open.spotify.com/track/01hCzxgttMvy4v9760kXke)
-- [Waiting For You by Zerb, Jaimes](https://open.spotify.com/track/79VdOI2nQedXOfd2xCiaio)
+- [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
+- [Hold Me - Sped Up by Lavern](https://open.spotify.com/track/3EEck47Jgp4kuWrFZ1JdoM)
+- [My Love by Gianluca Dimeo, Daniel Santoro](https://open.spotify.com/track/55yl2jVMuB0yPUJzWjJM7p)
+- [VHS RAVE by Tiësto, Swimming Paul](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L)
+- [Overcome by Simon Dekkers, D-LEVELS](https://open.spotify.com/track/4BslNG1DUmiVT6qMOYyvlJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
