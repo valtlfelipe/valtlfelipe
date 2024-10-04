@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Back To You by Lost Frequencies, Elley Duhé, X Ambassadors](https://open.spotify.com/track/4PdSICTVRI1xrXZM1sOSCe)
-- [Afterlife by Nu Aspect, JEWELS, MAGNUS](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd)
-- [Golden Sunset by Lavern](https://open.spotify.com/track/679xwHGrkNsNQHh6KacLxA)
-- [Alone Together by Astrality, Georgia Blackwell](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS)
-- [Overthinking by YUMA, FAST BOY](https://open.spotify.com/track/3TwAy5Wd1hn89J43NnJNpR)
+- [Like No One&#39;s Here by Recens, Dominic Donner](https://open.spotify.com/track/6sOfIfmLp01BNkaPjUi3IT)
+- [All I Want Is You by Lavern, NEIMY](https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY)
+- [In the Dark by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41)
+- [I Do by PLÜM](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa)
+- [Breathe by Parah Dice, Brianna](https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
