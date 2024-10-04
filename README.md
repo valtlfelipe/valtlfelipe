@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Like No One&#39;s Here by Recens, Dominic Donner](https://open.spotify.com/track/6sOfIfmLp01BNkaPjUi3IT)
-- [All I Want Is You by Lavern, NEIMY](https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY)
-- [In the Dark by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41)
-- [I Do by PLÜM](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa)
-- [Breathe by Parah Dice, Brianna](https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM)
+- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
+- [Was It Even Real by Piece Wise, Eijk](https://open.spotify.com/track/2NEWBybTTWrEvb7NDhCF8s)
+- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
+- [Finding You by Lynnic, Neon Valis](https://open.spotify.com/track/0WzfqSwwcm7hMjJ84b3IoS)
+- [Run Deep - Extended by Nu Aspect](https://open.spotify.com/track/4UBbQTYl5gv4DOIYjsbMdq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
