@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Outside Of Love by Becky Hill](https://open.spotify.com/track/3LcXzMeyG4jy8ERxtzHGgP)
-- [Bad Memories by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
-- [Unknown by Bapti, Jemz](https://open.spotify.com/track/2V48LfT5x1dRUpnHjEJpaE)
-- [Body Talk by Ofenbach, SVEA](https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD)
+- [Heaven or Not by Diplo, Riva Starr, Kareen Lomax](https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF)
+- [State Of Mind by Oliver Michael](https://open.spotify.com/track/3tsfs52xzI7iHgdnGA2f4O)
+- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
+- [Mwaki - Tiësto&#39;s VIP Mix by Zerb, Tiësto, Sofiya Nzau](https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf)
+- [Call It Love by Felix Jaehn, Ray Dalton](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
