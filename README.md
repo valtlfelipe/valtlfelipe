@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Belong by Astrality, soleil, Kleeve](https://open.spotify.com/track/5LcGjaGobr1U6bsl6qpuWi)
-- [Beyond the Fire by Don Diablo](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8)
-- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
-- [One More Time by Jai Nova](https://open.spotify.com/track/4A6sKVOjxn8wpLv7GNuAZS)
-- [Coasting by Piece Wise, De Rien](https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix)
+- [Give Me The Love by D3EPANK, ENLIV3N](https://open.spotify.com/track/58iQWJZhzStie1hsYJt3a0)
+- [Shooting Stars by Solven](https://open.spotify.com/track/3O8cUTgeU37uII7wZotxLp)
+- [Too Late For Me by Lotus, Jan Liva, yara.](https://open.spotify.com/track/5Em17sf8ihmDInafRJ9bAO)
+- [Dreamin&#39; by Fargro, RVLE](https://open.spotify.com/track/3UPtRj3lH32FG8yZc4ooWa)
+- [Running by Zerb](https://open.spotify.com/track/5ZxnCwIT01oXejeyTjwpUV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
