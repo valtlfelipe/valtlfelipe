@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Shots - Broiler Remix by Imagine Dragons, Broiler](https://open.spotify.com/track/0fsEFwLSJTSHSawhe864Cp)
 - [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
 - [All I Need by Sha7an, Midnight Wanders, Roads We Walk](https://open.spotify.com/track/2EVHHLs1tUayuVPeXjpACI)
 - [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/1cYyZ1N98GyRS3cMcccFHd)
 - [Hot Air Balloon by Don Diablo, AR/CO](https://open.spotify.com/track/67p96tIoC4ESrod9kW331R)
-- [Memories by Bright Hinze](https://open.spotify.com/track/7dza6AfqBSGOf9VxtBhv19)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
