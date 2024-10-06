@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Alone by Petit Biscuit](https://open.spotify.com/track/4p1NHiFP4PfV7eW1183Ej9)
 - [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
 - [Levels - Radio Edit by Avicii](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg)
 - [One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa](https://open.spotify.com/track/76dIZzTdrNO15mGBrU3MHi)
 - [Love Song (feat. Glasses) by Kazy Lambist, Glasses](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp)
-- [Missing You by Boston Bun](https://open.spotify.com/track/1ShfKpLJ36nds13gOlNCUg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
