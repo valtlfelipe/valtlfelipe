@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[iongion/container-desktop](https://github.com/iongion/container-desktop)** - Podman desktop companion (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [En Su Lugar by Alé Kumá, Malóne, Kimonos](https://open.spotify.com/track/5VptLoXeYwekTyaKeK5DBo)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [Firestone by Kygo, Conrad Sewell](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE)
-- [Crazy by Lost Frequencies, Zonderling](https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv)
-- [Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix by Lana Del Rey, Cedric Gervais](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB)
+- [My Way by Calvin Harris](https://open.spotify.com/track/3ejfcz0QPyV717Vd3ta04V)
+- [Love No More by Loud Luxury, anders](https://open.spotify.com/track/0E8WJOFs2eWD67USh7C6Qd)
+- [In Camera by Yumi Zouma](https://open.spotify.com/track/34PIoWUkKuAUbGTozZsxvB)
+- [Nothing Breaks Like a Heart (feat. Miley Cyrus) by Mark Ronson, Miley Cyrus](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn)
+- [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
