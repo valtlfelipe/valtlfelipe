@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
-- [Your Heart by Lynnic, ItsArius](https://open.spotify.com/track/56b6hfYKczrdjPRX2iRAhi)
-- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
-- [Breathe Again - Instrumental by Monomy, COLIN](https://open.spotify.com/track/3LhRU3xG3anTBdJOjp0zqR)
-- [Always Together by Sole Sole](https://open.spotify.com/track/6JQsZzfuQ6iqblAe6JYiFb)
+- [Make Me Feel by Steam Phunk, maybealice](https://open.spotify.com/track/3oeTpxPTiC7mf618t37O9J)
+- [Sun Goes Down by Sole Sole](https://open.spotify.com/track/0m3RRa3Uzehj0on07l2IyB)
+- [How Deep Is Your Love by fwd/slash](https://open.spotify.com/track/6whE9W4LkAaTyltd0Y44jm)
+- [can&#39;t sleep by Dimside](https://open.spotify.com/track/4440qXgBzTWxbU4GmSzBwB)
+- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
