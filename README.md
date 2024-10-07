@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Alone Together by Astrality, Georgia Blackwell](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS)
+- [Another Love by Recens, Tripton, Margad](https://open.spotify.com/track/2SroSNYVMMy8HgEgxXSwqk)
+- [You Got Me by Fella Sleep](https://open.spotify.com/track/1DCTUID28mJuPybdseYbyz)
+- [By My Side by Y.V.E. 48](https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv)
 - [Remember Me by 2FarAway, Zachary, Courtney Storm](https://open.spotify.com/track/0wn7uLLkcqIUvXw5nHCXhp)
-- [Sun Comes Up by CARMA](https://open.spotify.com/track/6HinX6DutfU6IESHW8UAy6)
-- [How We Do by Maxxteen](https://open.spotify.com/track/1qM44i3fF16l7vVgMIrzhn)
-- [Like No One&#39;s Here by Recens, Dominic Donner](https://open.spotify.com/track/6sOfIfmLp01BNkaPjUi3IT)
-- [Memories by Sunmoon](https://open.spotify.com/track/2YEx4eDIQ6Bj7CWDXQQiMv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
