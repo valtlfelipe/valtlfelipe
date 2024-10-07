@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Into Your Arms by S3DA](https://open.spotify.com/track/7owF109splj0JBLqAELzcn)
-- [Berlin Sunrise by Surfin&#39; Sam](https://open.spotify.com/track/4sDrZxeb584ogv3BG68M8b)
-- [Come Home by Quiet Vibes, Miza, A27C](https://open.spotify.com/track/5BHFusQTASmzt2TLDZ8Nvy)
-- [Body by Abysa, KONNA](https://open.spotify.com/track/32ZEpRQ9NSvx5n5cMYxPI6)
-- [Alone by Petit Biscuit](https://open.spotify.com/track/4p1NHiFP4PfV7eW1183Ej9)
+- [Can&#39;t Get You out of My Head by Sunmoon](https://open.spotify.com/track/1rEmNuW25K5ZNr4IWCAlQa)
+- [I Do by PLÜM](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa)
+- [Hung Up by Alberto Ciccarini](https://open.spotify.com/track/0OFzFgfGDD1vH5pzW0YEhd)
+- [Sober (La Da Dee) by Stephani B, Movada](https://open.spotify.com/track/4uofdaIMExMopReftKcDPH)
+- [White Sand by Sainte Barbe, Jan Aygün](https://open.spotify.com/track/6o60ib1fLhoTQK0sJHhhtW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
