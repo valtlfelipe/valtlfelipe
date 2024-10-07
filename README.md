@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Can&#39;t Get You out of My Head by Sunmoon](https://open.spotify.com/track/1rEmNuW25K5ZNr4IWCAlQa)
-- [I Do by PLÜM](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa)
-- [Hung Up by Alberto Ciccarini](https://open.spotify.com/track/0OFzFgfGDD1vH5pzW0YEhd)
-- [Sober (La Da Dee) by Stephani B, Movada](https://open.spotify.com/track/4uofdaIMExMopReftKcDPH)
-- [White Sand by Sainte Barbe, Jan Aygün](https://open.spotify.com/track/6o60ib1fLhoTQK0sJHhhtW)
+- [Rain by Astrality, MNRT, S:NE](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO)
+- [For Me by Dallien, RVPTR, Spagbo](https://open.spotify.com/track/0PJCvbrQc5Dbccq5pcQ2D3)
+- [Can&#39;t Stop Loving You by NOTSOBAD, Jovani](https://open.spotify.com/track/79SXbbfi4pMYK09XRnoMoW)
+- [Won&#39;t Let You Go by POURI X](https://open.spotify.com/track/7yBnbyWted0Q6RAyJnHKk1)
+- [Lost in Paradise by Relŭm](https://open.spotify.com/track/7xNiLGpPvHIhrBoi7syMST)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
