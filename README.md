@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Who Do You Love by Fedders, ROBINS](https://open.spotify.com/track/6OdcnXIojpHuDM2NFBfwoA)
-- [All The Songs by Nick Peters, Louis III](https://open.spotify.com/track/5oA3tiyOv8pNM7yh4YwY4q)
-- [Real by Zorah, maybealice](https://open.spotify.com/track/3islisri6CXYTtGYC25JQ0)
-- [Out of Body by Ruffnux, le moon, soleil](https://open.spotify.com/track/3MBAedkX9Al5Yfn8xMxvMa)
-- [Alone Together by Astrality, Georgia Blackwell](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS)
+- [She&#39;s so High by Viva La Panda, Her Majesty](https://open.spotify.com/track/0tJvXxa4QmpVopRJypSlLy)
+- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
+- [Gatluak - Bakermat Remix by Kronan, Nyaruach, Bakermat](https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ)
+- [Across The Room by M.I.R. ORRS](https://open.spotify.com/track/7KgKRfJo8Dr9kz63X1baOX)
+- [My Lovin&#39; by GAMPER &amp; DADONI](https://open.spotify.com/track/2hSGBHKZgOjWaPckW4mVf9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
