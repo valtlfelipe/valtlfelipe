@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Setting Sail by Alex Keeper](https://open.spotify.com/track/11Eam4v2IsvnMfH62rozY1)
-- [Saxophone Beat by Small ToK, Michael FAY, Elamar](https://open.spotify.com/track/0T15gVTsijhN7yeMKINBwf)
-- [Heartbeat Slow by Astrality, Jyll, Dillistone](https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT)
-- [Better Off Alone by Alex Baker](https://open.spotify.com/track/77Uq9iUiWYFMhXOuvz3I4Y)
-- [Final Day by Guille Alvarez, Robertson](https://open.spotify.com/track/0gPrAnzHQye0njiI59BGLC)
+- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
+- [Let You Know - Summer Edit by Y.V.E. 48](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C)
+- [feel good by rayn, cloudseven, MELINA](https://open.spotify.com/track/2icLiI9kZlvViQssXZcYHA)
+- [Something Else by LVAN, maybealice](https://open.spotify.com/track/1fJnlULEUprLjKW4mfy60J)
+- [ready to forget you by le moon](https://open.spotify.com/track/7mlH3UvvWYiPgwvxL7Q3PW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
