@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Bones by fwd/slash](https://open.spotify.com/track/5jfjmlSiRV104eH82ebEmJ)
-- [Liar by phil&#39;s ok.](https://open.spotify.com/track/5JV5Hk5zjqoRzwWOeI1yAE)
-- [Chasing Time by Thierry Von Der Warth, Jay Mason, Edwardo Atlas](https://open.spotify.com/track/6vg9PnlpahS0y0Tuuix442)
-- [A Million Suns by Piece Wise, YVMV, DTT Felix](https://open.spotify.com/track/4pfkkhXNUrzzQH11CjBYcv)
-- [Make Me Feel by Steam Phunk, maybealice](https://open.spotify.com/track/3oeTpxPTiC7mf618t37O9J)
+- [Setting Sail by Alex Keeper](https://open.spotify.com/track/11Eam4v2IsvnMfH62rozY1)
+- [Saxophone Beat by Small ToK, Michael FAY, Elamar](https://open.spotify.com/track/0T15gVTsijhN7yeMKINBwf)
+- [Heartbeat Slow by Astrality, Jyll, Dillistone](https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT)
+- [Better Off Alone by Alex Baker](https://open.spotify.com/track/77Uq9iUiWYFMhXOuvz3I4Y)
+- [Final Day by Guille Alvarez, Robertson](https://open.spotify.com/track/0gPrAnzHQye0njiI59BGLC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
