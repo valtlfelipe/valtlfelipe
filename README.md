@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Morning Comes by Jerome Price, Nu-La](https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz)
 - [You by Klaverson](https://open.spotify.com/track/2hFModBE7u03YYPuBLtK4t)
 - [Only If by Night Tales](https://open.spotify.com/track/71IjhbDK0oLN0coG0NIJtO)
-- [Can You Feel It? by Amace](https://open.spotify.com/track/6usdn0wRK74Sgw68nMZQRt)
-- [Oblivion by Camden Cox](https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI)
-- [Last Song by LVAN](https://open.spotify.com/track/5m9APeIxeKiA9YWNKy8C0Y)
+- [I&#39;ll miss you by Bassi Fox](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe)
+- [Pink Cloud by Teddy Beats, Krysta Youngs](https://open.spotify.com/track/2Yx5RaqXlQcqxRhSU6ZQw7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
