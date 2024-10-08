@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
-- [Let You Know - Summer Edit by Y.V.E. 48](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C)
-- [feel good by rayn, cloudseven, MELINA](https://open.spotify.com/track/2icLiI9kZlvViQssXZcYHA)
-- [Something Else by LVAN, maybealice](https://open.spotify.com/track/1fJnlULEUprLjKW4mfy60J)
-- [ready to forget you by le moon](https://open.spotify.com/track/7mlH3UvvWYiPgwvxL7Q3PW)
+- [feelings by rayn, 6sept, cloudseven](https://open.spotify.com/track/7EbQKxpYZTqkqxgFlcK2Se)
+- [Let Me Fall by fwd/slash, Sophie van Hasselt](https://open.spotify.com/track/1AofCG6hAuLL9C9NYC5spE)
+- [Slide Into Your DMs by VELMA](https://open.spotify.com/track/1xmcvDh7nclhBB1uItVxe1)
+- [Memories by Piece Wise, Polar Inc., Francis Skyes](https://open.spotify.com/track/39CZhulqN01TVBUdl8zJ2Y)
+- [Need To Breathe by Jane Good](https://open.spotify.com/track/7hzJdwyCUV35Iuw7QXSWC9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
