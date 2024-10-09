@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [can&#39;t sleep by Dimside](https://open.spotify.com/track/4440qXgBzTWxbU4GmSzBwB)
-- [Got Me Like by Lavern](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP)
-- [tø infinity by birø](https://open.spotify.com/track/2ulIVcXhrQJAc2mGjJeYoo)
-- [Summer Pain by Drics](https://open.spotify.com/track/3O7YEM6mSmhGzsmbdr5eEf)
-- [Ombaye by Sum Wave, Bye Ocean](https://open.spotify.com/track/6A6gihfu1HzIWQsokFbQlA)
+- [Liar by phil&#39;s ok.](https://open.spotify.com/track/5JV5Hk5zjqoRzwWOeI1yAE)
+- [Hold Me Close by Ruffnux](https://open.spotify.com/track/5hb204wAS4ds0O9mDRr8hH)
+- [Nairobi by fwd/slash, freýa](https://open.spotify.com/track/4sYc9OQizMKpJtbM566gtg)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Always Yours by POURI X](https://open.spotify.com/track/6bTf55POJ73MwwGAJDTxhV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
