@@ -11,10 +11,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 
 #### 🎧 What I have been listening
 - [In the Dark by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41)
+- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
 - [Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix by Lana Del Rey, Cedric Gervais](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB)
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h)
-- [True by CYRIL, Kita Alexander](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm)
-- [JUVENILE by The Blaze](https://open.spotify.com/track/5YzaostcCu9Sgp5T7bFuX3)
+- [Sorry (with Madonna) by BLOND:ISH, Madonna, Eran Hersh, Darmon](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP)
+- [In Your Arms (For An Angel) by Topic, Robin Schulz, Nico Santos, Paul van Dyk](https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
