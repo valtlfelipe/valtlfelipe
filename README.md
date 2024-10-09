@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [In the Dark by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41)
+- [Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix by Lana Del Rey, Cedric Gervais](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB)
 - [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h)
 - [True by CYRIL, Kita Alexander](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm)
-- [Too Close To The Sun by Portugal Sunset](https://open.spotify.com/track/1bzJ6of8PA50ZJDqe08ekm)
-- [Missing by LO, Giorgio Gee](https://open.spotify.com/track/1KlHZrQtDRYP2UTfBOjZ9W)
-- [World, Hold On by New Beat Order, Level 8, Murdbrain, Michael Shynes](https://open.spotify.com/track/3T1ysaQPByIX9Je2LrorTt)
+- [JUVENILE by The Blaze](https://open.spotify.com/track/5YzaostcCu9Sgp5T7bFuX3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
