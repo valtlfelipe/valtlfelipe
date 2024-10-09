@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[containers/podman-desktop](https://github.com/containers/podman-desktop)** - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [running down the beach by clarity., SITHEA](https://open.spotify.com/track/2RsqBpiLR1Yi0MRcQltNeO)
-- [Berlin Sunrise by Surfin&#39; Sam](https://open.spotify.com/track/4sDrZxeb584ogv3BG68M8b)
-- [Come Home by Quiet Vibes, Miza, A27C](https://open.spotify.com/track/5BHFusQTASmzt2TLDZ8Nvy)
-- [I Don&#39;t Need You by Sole Sole](https://open.spotify.com/track/1pTOzePTPlKBYUuvufrun9)
-- [Save a Soul by nimino](https://open.spotify.com/track/7bDDYji600PxR0F921ctVN)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h)
+- [True by CYRIL, Kita Alexander](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm)
+- [Too Close To The Sun by Portugal Sunset](https://open.spotify.com/track/1bzJ6of8PA50ZJDqe08ekm)
+- [Missing by LO, Giorgio Gee](https://open.spotify.com/track/1KlHZrQtDRYP2UTfBOjZ9W)
+- [World, Hold On by New Beat Order, Level 8, Murdbrain, Michael Shynes](https://open.spotify.com/track/3T1ysaQPByIX9Je2LrorTt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
