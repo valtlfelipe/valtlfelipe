@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Out of Body by Ruffnux, le moon, soleil](https://open.spotify.com/track/3MBAedkX9Al5Yfn8xMxvMa)
-- [Sunset by just here.](https://open.spotify.com/track/4J3y4fCVLr5C4zkuI2v8cT)
-- [City Lights by Relŭm](https://open.spotify.com/track/5E6ieSZnMoo2847gZukNUb)
-- [Remember Me by 2FarAway, Zachary, Courtney Storm](https://open.spotify.com/track/0wn7uLLkcqIUvXw5nHCXhp)
-- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
+- [can&#39;t sleep by Dimside](https://open.spotify.com/track/4440qXgBzTWxbU4GmSzBwB)
+- [Got Me Like by Lavern](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP)
+- [tø infinity by birø](https://open.spotify.com/track/2ulIVcXhrQJAc2mGjJeYoo)
+- [Summer Pain by Drics](https://open.spotify.com/track/3O7YEM6mSmhGzsmbdr5eEf)
+- [Ombaye by Sum Wave, Bye Ocean](https://open.spotify.com/track/6A6gihfu1HzIWQsokFbQlA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
