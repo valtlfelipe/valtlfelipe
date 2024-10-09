@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Liar by phil&#39;s ok.](https://open.spotify.com/track/5JV5Hk5zjqoRzwWOeI1yAE)
-- [Hold Me Close by Ruffnux](https://open.spotify.com/track/5hb204wAS4ds0O9mDRr8hH)
-- [Nairobi by fwd/slash, freýa](https://open.spotify.com/track/4sYc9OQizMKpJtbM566gtg)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [Always Yours by POURI X](https://open.spotify.com/track/6bTf55POJ73MwwGAJDTxhV)
+- [You&#39;ve Got The Love by Y.V.E. 48](https://open.spotify.com/track/2W0otyOuO6PixES66V4SgR)
+- [Wake Up by Alex Keeper](https://open.spotify.com/track/6EyKOiLeQJWXGrxG6Ir9fV)
+- [Waiting for Sunshine by AINT](https://open.spotify.com/track/4RWzgYkjVm1klwrKICz1vn)
+- [Lights Get Low by Lynnic, ItsArius, Dinia, Menningmann](https://open.spotify.com/track/4IvxeChJXUMW9BzHRW6wei)
+- [Santorini Sunset by summer sax, Poolside Pirates, ISLND](https://open.spotify.com/track/66ufxfWWFQmHZD6c3predA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
