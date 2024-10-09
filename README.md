@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [In the Dark by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41)
-- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
-- [Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix by Lana Del Rey, Cedric Gervais](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB)
-- [Sorry (with Madonna) by BLOND:ISH, Madonna, Eran Hersh, Darmon](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP)
-- [In Your Arms (For An Angel) by Topic, Robin Schulz, Nico Santos, Paul van Dyk](https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR)
+- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
+- [Night Drive by Relŭm](https://open.spotify.com/track/1O7lD7lSbZaR6zaRBfPyj5)
+- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
+- [Hung Up by Alberto Ciccarini](https://open.spotify.com/track/0OFzFgfGDD1vH5pzW0YEhd)
+- [Smooth Operator by The Good Son, KHEMIS, Diana Martinez](https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
