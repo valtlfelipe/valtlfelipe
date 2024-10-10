@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubewall/kubewall](https://github.com/kubewall/kubewall)** - A single binary kubernetes dashboard to manage your multiple clusters. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Paradise by MEDUZA, Dermot Kennedy](https://open.spotify.com/track/40FUdLENDY3sZmHEM25lpE)
+- [Stars Will Align by Kygo, Imagine Dragons](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs)
+- [Drive (feat. Wes Nelson) by Clean Bandit, Topic, Wes Nelson](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
 - [Hot Honey by Tiësto, Alana Springsteen](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp)
-- [Nonsense by Sabrina Carpenter](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
-- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
-- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
