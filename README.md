@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Hold You by Relŭm](https://open.spotify.com/track/1hmL52HjpYKEMtJan7YoGO)
-- [Memories by Piece Wise, Polar Inc., Francis Skyes](https://open.spotify.com/track/39CZhulqN01TVBUdl8zJ2Y)
-- [Runaway by Lust.](https://open.spotify.com/track/001cS27FIbTGu1b9OdUCKx)
-- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
-- [Free My Mind by ENLIV3N](https://open.spotify.com/track/4ysacrZnJmUjvvseHfFlvn)
+- [Tattoo by ay-Mill, Holly Terrens](https://open.spotify.com/track/3sTUtMlTdTKvI2OqIsnTm3)
+- [Secrets by Gobi](https://open.spotify.com/track/0L9ixoGQsiYTf40bEsqH95)
+- [Hypnotized by Alex Keeper, Tom Kha](https://open.spotify.com/track/2dTAg5ah9zgEo7bh8suyxo)
+- [Flower by Piece Wise, AURIq, ALLKNIGHT](https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh)
+- [ready to forget you by le moon](https://open.spotify.com/track/7mlH3UvvWYiPgwvxL7Q3PW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
