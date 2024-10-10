@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Back Home by Loumé](https://open.spotify.com/track/3XxH7gAupEVgTNx26CKyQj)
-- [Don&#39;t Let Me Down by fwd/slash](https://open.spotify.com/track/1VjsrzTdX7aUF9tmLP92xB)
-- [Bahama Club by Deep Chills, summer sax](https://open.spotify.com/track/421wrq88fecBA8F3GlwiHL)
-- [Right Here Right Now by Y.V.E. 48](https://open.spotify.com/track/0VmDO2nRN4IHLrv3QdytjM)
-- [Running A Mile by CARMA](https://open.spotify.com/track/2fZhXMRioUoAwWSweEIyLJ)
+- [You Got Me by Fella Sleep](https://open.spotify.com/track/1DCTUID28mJuPybdseYbyz)
+- [Favourite View by Novino, just Fede](https://open.spotify.com/track/1VnwrlEWIVUHlqjwbJgOiK)
+- [gone by rayn, imallryt](https://open.spotify.com/track/07ImoOGQJeKJrKFp3CixRQ)
+- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
+- [AROSE (Mixed) by Lyke](https://open.spotify.com/track/6QLlDyYCgkjIEQCtLMXwJD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
