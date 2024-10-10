@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Tattoo by ay-Mill, Holly Terrens](https://open.spotify.com/track/3sTUtMlTdTKvI2OqIsnTm3)
-- [Secrets by Gobi](https://open.spotify.com/track/0L9ixoGQsiYTf40bEsqH95)
-- [Hypnotized by Alex Keeper, Tom Kha](https://open.spotify.com/track/2dTAg5ah9zgEo7bh8suyxo)
-- [Flower by Piece Wise, AURIq, ALLKNIGHT](https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh)
-- [ready to forget you by le moon](https://open.spotify.com/track/7mlH3UvvWYiPgwvxL7Q3PW)
+- [Chasing Time by Thierry Von Der Warth, Jay Mason, Edwardo Atlas](https://open.spotify.com/track/6vg9PnlpahS0y0Tuuix442)
+- [Another Lie by Panuma, Vice Vrsa, Mark Vayne](https://open.spotify.com/track/7L7K5rblvGEuRGGJLyR6lV)
+- [Take It Back by Little Venice](https://open.spotify.com/track/2W4u4DXbkvBqBYOI3yI0mn)
+- [Final Day by Guille Alvarez, Robertson](https://open.spotify.com/track/0gPrAnzHQye0njiI59BGLC)
+- [Moment by le moon, Tenjo, Jakob Dreams](https://open.spotify.com/track/51GgGdWzwT8YhpDgEY2Bnr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
