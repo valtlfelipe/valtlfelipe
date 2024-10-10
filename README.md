@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Costa Rica by B&#39;Bach, Karla Sax, summer sax](https://open.spotify.com/track/4ZPCR6dAhEsIWOp6hbTm0m)
-- [On The Run by NVRT](https://open.spotify.com/track/2qI55suh5Otdu3NdxLeBzY)
-- [Body by Abysa, KONNA](https://open.spotify.com/track/32ZEpRQ9NSvx5n5cMYxPI6)
-- [You&#39;ve Got The Love by Y.V.E. 48](https://open.spotify.com/track/2W0otyOuO6PixES66V4SgR)
-- [Wake Up by Alex Keeper](https://open.spotify.com/track/6EyKOiLeQJWXGrxG6Ir9fV)
+- [Back Home by Loumé](https://open.spotify.com/track/3XxH7gAupEVgTNx26CKyQj)
+- [Don&#39;t Let Me Down by fwd/slash](https://open.spotify.com/track/1VjsrzTdX7aUF9tmLP92xB)
+- [Bahama Club by Deep Chills, summer sax](https://open.spotify.com/track/421wrq88fecBA8F3GlwiHL)
+- [Right Here Right Now by Y.V.E. 48](https://open.spotify.com/track/0VmDO2nRN4IHLrv3QdytjM)
+- [Running A Mile by CARMA](https://open.spotify.com/track/2fZhXMRioUoAwWSweEIyLJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
