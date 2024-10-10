@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Chasing Time by Thierry Von Der Warth, Jay Mason, Edwardo Atlas](https://open.spotify.com/track/6vg9PnlpahS0y0Tuuix442)
-- [Another Lie by Panuma, Vice Vrsa, Mark Vayne](https://open.spotify.com/track/7L7K5rblvGEuRGGJLyR6lV)
-- [Take It Back by Little Venice](https://open.spotify.com/track/2W4u4DXbkvBqBYOI3yI0mn)
-- [Final Day by Guille Alvarez, Robertson](https://open.spotify.com/track/0gPrAnzHQye0njiI59BGLC)
-- [Moment by le moon, Tenjo, Jakob Dreams](https://open.spotify.com/track/51GgGdWzwT8YhpDgEY2Bnr)
+- [running down the beach by clarity., SITHEA](https://open.spotify.com/track/2RsqBpiLR1Yi0MRcQltNeO)
+- [Summertime by C-Block, Charming Horses](https://open.spotify.com/track/3kgJnwJF568FdkVqTCnMFP)
+- [Little Fires - Sistek Remix by Parson James, Sistek](https://open.spotify.com/track/0EBDuIxWWSd9XnEVkXLVaw)
+- [Always You by Ourson](https://open.spotify.com/track/2bNVa6BWSK67w795uwGsLh)
+- [The Festival Has Begun by Edmofo](https://open.spotify.com/track/7qZjrBnEXRA8I8NpQfqKdd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
