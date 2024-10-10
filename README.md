@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [You Got Me by Fella Sleep](https://open.spotify.com/track/1DCTUID28mJuPybdseYbyz)
-- [Favourite View by Novino, just Fede](https://open.spotify.com/track/1VnwrlEWIVUHlqjwbJgOiK)
-- [gone by rayn, imallryt](https://open.spotify.com/track/07ImoOGQJeKJrKFp3CixRQ)
-- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
-- [AROSE (Mixed) by Lyke](https://open.spotify.com/track/6QLlDyYCgkjIEQCtLMXwJD)
+- [Runaway by Lust.](https://open.spotify.com/track/001cS27FIbTGu1b9OdUCKx)
+- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
+- [Free My Mind by ENLIV3N](https://open.spotify.com/track/4ysacrZnJmUjvvseHfFlvn)
+- [Walk Away by P.A.V](https://open.spotify.com/track/4nzZYDgs2sOA2DLDpyO1Ui)
+- [Running Back to You by Astrality, Miggy Dela Rosa](https://open.spotify.com/track/12VCcXBvOlraAB1G7DAWH6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
