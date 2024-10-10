@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [running down the beach by clarity., SITHEA](https://open.spotify.com/track/2RsqBpiLR1Yi0MRcQltNeO)
-- [Summertime by C-Block, Charming Horses](https://open.spotify.com/track/3kgJnwJF568FdkVqTCnMFP)
-- [Little Fires - Sistek Remix by Parson James, Sistek](https://open.spotify.com/track/0EBDuIxWWSd9XnEVkXLVaw)
-- [Always You by Ourson](https://open.spotify.com/track/2bNVa6BWSK67w795uwGsLh)
-- [The Festival Has Begun by Edmofo](https://open.spotify.com/track/7qZjrBnEXRA8I8NpQfqKdd)
+- [White Sand by Sainte Barbe, Jan Aygün](https://open.spotify.com/track/6o60ib1fLhoTQK0sJHhhtW)
+- [Smooth Operator by The Good Son, KHEMIS, Diana Martinez](https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8)
+- [Time by Always Late](https://open.spotify.com/track/7FphCRPwtIv9N8hrkIaZvX)
+- [Alive &amp; Feeling Fine by The Suncatchers, Michel Fannoun](https://open.spotify.com/track/71XDJvtzBSh7475e2v2hwU)
+- [Off My Mind by AVNT:GRD, NORRA](https://open.spotify.com/track/1sVRn7sMXDFLRjQg6gXef8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
