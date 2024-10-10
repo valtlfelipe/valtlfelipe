@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)** - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [White Sand by Sainte Barbe, Jan Aygün](https://open.spotify.com/track/6o60ib1fLhoTQK0sJHhhtW)
-- [Smooth Operator by The Good Son, KHEMIS, Diana Martinez](https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8)
-- [Time by Always Late](https://open.spotify.com/track/7FphCRPwtIv9N8hrkIaZvX)
-- [Alive &amp; Feeling Fine by The Suncatchers, Michel Fannoun](https://open.spotify.com/track/71XDJvtzBSh7475e2v2hwU)
-- [Off My Mind by AVNT:GRD, NORRA](https://open.spotify.com/track/1sVRn7sMXDFLRjQg6gXef8)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
+- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
+- [Remember Me by 2FarAway, Zachary, Courtney Storm](https://open.spotify.com/track/0wn7uLLkcqIUvXw5nHCXhp)
+- [Refuse You by Lavern](https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W)
+- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
