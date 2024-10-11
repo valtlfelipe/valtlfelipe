@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubewall/kubewall](https://github.com/kubewall/kubewall)** - A single binary kubernetes dashboard to manage your multiple clusters. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Fire in You by Fargro](https://open.spotify.com/track/5TwKgFNIieJyFP9Phhvhjo)
-- [Be Your Friend by XYSM, EDGR](https://open.spotify.com/track/10TsQZCb8QVql2ocirBc6R)
-- [River Wye by Zena](https://open.spotify.com/track/5AyRP897H2u4dMNHUVY6Ht)
-- [Over The Moon (feat. ARI.) by NIVEK, ARI.](https://open.spotify.com/track/7wL01RC9lYtRR593d6KdOZ)
-- [All That I Had by Teddy Beats](https://open.spotify.com/track/5Rv7rAAORQoJoWiMpAZhS7)
+- [Golden Sunset by Lavern](https://open.spotify.com/track/679xwHGrkNsNQHh6KacLxA)
+- [you by julien, Saintro P Sax Up, cloudseven](https://open.spotify.com/track/7BnRXdSpJ1Nn8bTrOIXrjT)
+- [so far away by rayn, Senes](https://open.spotify.com/track/1Q7Xf8WCAv9ovOIYASL2Oe)
+- [Memories by Sunmoon](https://open.spotify.com/track/2YEx4eDIQ6Bj7CWDXQQiMv)
+- [Your Touch by Ruffnux](https://open.spotify.com/track/0wIexMl4QG7nEqzc8WuUp5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
