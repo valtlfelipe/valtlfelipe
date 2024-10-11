@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubewall/kubewall](https://github.com/kubewall/kubewall)** - A single binary kubernetes dashboard to manage your multiple clusters. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Wishing by Sean Blanc](https://open.spotify.com/track/2ipr8HboTyHZkeLj7DPvqh)
-- [What You&#39;ve Done by Drics](https://open.spotify.com/track/2rJu9t6d2khQMIjKO5yGL7)
-- [Porque Te Vas by Crisologo](https://open.spotify.com/track/1OoZaL1VE3GitN5xyHnDwM)
-- [calling by clarity.](https://open.spotify.com/track/63zEua2IVSUXXTtlUNdaMk)
-- [Anemoia by Lindja](https://open.spotify.com/track/4py9MsAQN4D7UWnMwnslYL)
+- [Emotion by Amphitryon, Drics, lunne.](https://open.spotify.com/track/65B1HcgEbUiCcuySno863b)
+- [Back Home by Loumé](https://open.spotify.com/track/3XxH7gAupEVgTNx26CKyQj)
+- [Don&#39;t Let Me Down by fwd/slash](https://open.spotify.com/track/1VjsrzTdX7aUF9tmLP92xB)
+- [Bahama Club by Deep Chills, summer sax](https://open.spotify.com/track/421wrq88fecBA8F3GlwiHL)
+- [Right Here Right Now by Y.V.E. 48](https://open.spotify.com/track/0VmDO2nRN4IHLrv3QdytjM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
