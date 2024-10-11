@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubewall/kubewall](https://github.com/kubewall/kubewall)** - A single binary kubernetes dashboard to manage your multiple clusters. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Golden Sunset by Lavern](https://open.spotify.com/track/679xwHGrkNsNQHh6KacLxA)
-- [you by julien, Saintro P Sax Up, cloudseven](https://open.spotify.com/track/7BnRXdSpJ1Nn8bTrOIXrjT)
-- [so far away by rayn, Senes](https://open.spotify.com/track/1Q7Xf8WCAv9ovOIYASL2Oe)
-- [Memories by Sunmoon](https://open.spotify.com/track/2YEx4eDIQ6Bj7CWDXQQiMv)
-- [Your Touch by Ruffnux](https://open.spotify.com/track/0wIexMl4QG7nEqzc8WuUp5)
+- [Wishing by Sean Blanc](https://open.spotify.com/track/2ipr8HboTyHZkeLj7DPvqh)
+- [What You&#39;ve Done by Drics](https://open.spotify.com/track/2rJu9t6d2khQMIjKO5yGL7)
+- [Porque Te Vas by Crisologo](https://open.spotify.com/track/1OoZaL1VE3GitN5xyHnDwM)
+- [calling by clarity.](https://open.spotify.com/track/63zEua2IVSUXXTtlUNdaMk)
+- [Anemoia by Lindja](https://open.spotify.com/track/4py9MsAQN4D7UWnMwnslYL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
