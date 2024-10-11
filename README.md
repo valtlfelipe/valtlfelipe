@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubewall/kubewall](https://github.com/kubewall/kubewall)** - A single binary kubernetes dashboard to manage your multiple clusters. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [Always Yours by POURI X](https://open.spotify.com/track/6bTf55POJ73MwwGAJDTxhV)
-- [Holding On by Steam Phunk, maybealice](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa)
-- [Try by Alex Keeper](https://open.spotify.com/track/2zsiYZ8aKhX0TEX3g2Pr8D)
-- [All The Songs by Nick Peters, Louis III](https://open.spotify.com/track/5oA3tiyOv8pNM7yh4YwY4q)
+- [Bones by fwd/slash](https://open.spotify.com/track/5jfjmlSiRV104eH82ebEmJ)
+- [Tidal Waves by Sol Novaro](https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp)
+- [How Will I Know by Dallien, Danny CLLS, nøya.](https://open.spotify.com/track/48B3FbaoxaYKbZo5uIHoBU)
+- [Otherside by Munch](https://open.spotify.com/track/7MsB6HHVZlm0eDytug3Xga)
+- [Liar by phil&#39;s ok.](https://open.spotify.com/track/5JV5Hk5zjqoRzwWOeI1yAE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
