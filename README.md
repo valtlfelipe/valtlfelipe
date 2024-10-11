@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubewall/kubewall](https://github.com/kubewall/kubewall)** - A single binary kubernetes dashboard to manage your multiple clusters. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Felt A Little Like by James Carter, Dillistone, Tiffany Aris](https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv)
-- [Coasting by Piece Wise, De Rien](https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix)
-- [sick før yøu by birø](https://open.spotify.com/track/0DvQ7omIO7Ep8DtoOtNEhZ)
-- [Wide Blue by fwd/slash](https://open.spotify.com/track/1bzlLF1VeiXV51XWz8APpR)
-- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Always Yours by POURI X](https://open.spotify.com/track/6bTf55POJ73MwwGAJDTxhV)
+- [Holding On by Steam Phunk, maybealice](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa)
+- [Try by Alex Keeper](https://open.spotify.com/track/2zsiYZ8aKhX0TEX3g2Pr8D)
+- [All The Songs by Nick Peters, Louis III](https://open.spotify.com/track/5oA3tiyOv8pNM7yh4YwY4q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
