@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[slatedb/slatedb](https://github.com/slatedb/slatedb)** - A cloud native embedded storage engine built on object storage. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Into Your Arms by S3DA](https://open.spotify.com/track/7owF109splj0JBLqAELzcn)
-- [A Million Suns by Piece Wise, YVMV, DTT Felix](https://open.spotify.com/track/4pfkkhXNUrzzQH11CjBYcv)
-- [Waiting All My Life by JLV](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi)
-- [i think you can save me by Dimside](https://open.spotify.com/track/1BUIzWWmPJSE75lrHbaGlP)
-- [Wish You Well by Alex Keeper, Homem, doVicente](https://open.spotify.com/track/007grkEd7bTnPSQILkslCZ)
+- [California Night Sky by RANE](https://open.spotify.com/track/7aQaV64h5FTa6t01fBegWB)
+- [Saxophone Beat by Small ToK, Michael FAY, Elamar](https://open.spotify.com/track/0T15gVTsijhN7yeMKINBwf)
+- [Your Body by le moon](https://open.spotify.com/track/0nl942hhvEAeF6w4qfw919)
+- [Last Song by LVAN](https://open.spotify.com/track/5m9APeIxeKiA9YWNKy8C0Y)
+- [You Got Me by Fella Sleep](https://open.spotify.com/track/1DCTUID28mJuPybdseYbyz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
