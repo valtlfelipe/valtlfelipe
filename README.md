@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[kubewall/kubewall](https://github.com/kubewall/kubewall)** - A single binary kubernetes dashboard to manage your multiple clusters. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Sonata by fwd/slash](https://open.spotify.com/track/2yIRiWHvCapuycEHjM8uos)
-- [Won&#39;t Let You Go by POURI X](https://open.spotify.com/track/7yBnbyWted0Q6RAyJnHKk1)
-- [Move Me by Lavern](https://open.spotify.com/track/6LptEwO1ObZvVQXlU0BPIJ)
-- [Make Me Feel by Steam Phunk, maybealice](https://open.spotify.com/track/3oeTpxPTiC7mf618t37O9J)
-- [By My Side by Y.V.E. 48](https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv)
+- [Felt A Little Like by James Carter, Dillistone, Tiffany Aris](https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv)
+- [Coasting by Piece Wise, De Rien](https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix)
+- [sick før yøu by birø](https://open.spotify.com/track/0DvQ7omIO7Ep8DtoOtNEhZ)
+- [Wide Blue by fwd/slash](https://open.spotify.com/track/1bzlLF1VeiXV51XWz8APpR)
+- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
