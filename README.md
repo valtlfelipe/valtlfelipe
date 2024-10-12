@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[slatedb/slatedb](https://github.com/slatedb/slatedb)** - A cloud native embedded storage engine built on object storage. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps)
+- [Call It Love by Felix Jaehn, Ray Dalton](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B)
+- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
+- [Too Sweet by Hozier](https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ)
 - [The Door by Teddy Swims](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon)
-- [Nervous by MXVM, Jordan Jade](https://open.spotify.com/track/0tl0vQDWFuCcBwZbKA8AJy)
-- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
-- [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
