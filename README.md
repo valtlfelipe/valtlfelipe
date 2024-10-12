@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[slatedb/slatedb](https://github.com/slatedb/slatedb)** - A cloud native embedded storage engine built on object storage. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
 - [Never Be Lonely by Jax Jones, Zoe Wees](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj)
 - [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/1cYyZ1N98GyRS3cMcccFHd)
 - [Deep In Your Love by Alok, Bebe Rexha](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB)
 - [Paradise by MEDUZA, Dermot Kennedy](https://open.spotify.com/track/40FUdLENDY3sZmHEM25lpE)
-- [Dopamine by Purple Disco Machine, Eyelar](https://open.spotify.com/track/3x4HQL358aI7js8F43mN7S)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
