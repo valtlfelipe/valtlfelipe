@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[slatedb/slatedb](https://github.com/slatedb/slatedb)** - A cloud native embedded storage engine built on object storage. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Prayer in C - Techno by Tooz, TBMN](https://open.spotify.com/track/2RO3dXbMa3kfY7JeNpqRdI)
-- [Miss You by southstar](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03)
-- [Boyz In Paris (with VINAI) by Marnik, Naeleck, VINAI](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4)
-- [Maneater by JKRS, ECHO](https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p)
-- [Hit My Heart (Version B) by Vertigo, Aazar, Capozzi, Makayla Phillips](https://open.spotify.com/track/7p5OcTOCSqcmpAtH8kxJwN)
+- [Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix by Lana Del Rey, Cedric Gervais](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB)
+- [Too Sweet - Deep House by Tooz](https://open.spotify.com/track/2WZbZGwxHYyTxOYMKUMIUF)
+- [Be The One by Eli Brown](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW)
+- [Darkness by ANTHEM](https://open.spotify.com/track/613WaEE0znFMMdIkKoyO1u)
+- [Prada (feat. D-Block Europe) - Valexus Remix by cassö, RAYE, Valexus, D-Block Europe](https://open.spotify.com/track/1hmI7H4W0ChPH6vfa9i2CQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
