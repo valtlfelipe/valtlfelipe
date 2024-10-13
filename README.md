@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[slatedb/slatedb](https://github.com/slatedb/slatedb)** - A cloud native embedded storage engine built on object storage. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
 - [Feeling For You by Milky Chance](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9)
 - [One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa](https://open.spotify.com/track/76dIZzTdrNO15mGBrU3MHi)
 - [Liberation by Harold van Lennep](https://open.spotify.com/track/6JgjIRRv7uMSEjzzxHTQoh)
-- [Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix by Lana Del Rey, Cedric Gervais](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB)
-- [Too Sweet - Deep House by Tooz](https://open.spotify.com/track/2WZbZGwxHYyTxOYMKUMIUF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
