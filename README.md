@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[neilotoole/sq](https://github.com/neilotoole/sq)** - sq data wrangler (1 week ago)
 
 #### 🎧 What I have been listening
-- [Tell Me Why by Relŭm](https://open.spotify.com/track/7aVNpQrZ5gpjQb6jzjK3SW)
-- [Everything I Had by Ruffnux, sunsett.](https://open.spotify.com/track/5dx305Glydlidj1Dp7amey)
-- [Refuse You by Lavern](https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W)
-- [Circles by Alex Keeper](https://open.spotify.com/track/3mt5XHSFUTHUXLoExBXiLZ)
-- [Gun - Chill Edit by LEVII, Panuma, ODBLU](https://open.spotify.com/track/6oauAOe43OlnRBA9BusvSu)
+- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
+- [Dreamin&#39; by Fargro, RVLE](https://open.spotify.com/track/3UPtRj3lH32FG8yZc4ooWa)
+- [Be Your Friend by XYSM, EDGR](https://open.spotify.com/track/10TsQZCb8QVql2ocirBc6R)
+- [Wake Up by Alex Keeper](https://open.spotify.com/track/6EyKOiLeQJWXGrxG6Ir9fV)
+- [Go Insane by Sunmoon](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
