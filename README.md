@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[neilotoole/sq](https://github.com/neilotoole/sq)** - sq data wrangler (1 week ago)
 
 #### 🎧 What I have been listening
-- [Illuminate - Extended by Astrality, Leo Stannard](https://open.spotify.com/track/5OVDMbFKKAeI4sX6y1r6kR)
-- [Fever by Lotus](https://open.spotify.com/track/0IfcRfp6gWOx36fznAiDNR)
-- [Your Touch by Ruffnux](https://open.spotify.com/track/0wIexMl4QG7nEqzc8WuUp5)
-- [Always Together by Sole Sole](https://open.spotify.com/track/6JQsZzfuQ6iqblAe6JYiFb)
-- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
+- [Tell Me Why by Relŭm](https://open.spotify.com/track/7aVNpQrZ5gpjQb6jzjK3SW)
+- [Everything I Had by Ruffnux, sunsett.](https://open.spotify.com/track/5dx305Glydlidj1Dp7amey)
+- [Refuse You by Lavern](https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W)
+- [Circles by Alex Keeper](https://open.spotify.com/track/3mt5XHSFUTHUXLoExBXiLZ)
+- [Gun - Chill Edit by LEVII, Panuma, ODBLU](https://open.spotify.com/track/6oauAOe43OlnRBA9BusvSu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
