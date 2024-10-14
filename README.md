@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[teamhanko/hanko](https://github.com/teamhanko/hanko)** - Authentication and User Management solution for developers. Open source alternative to Clerk &amp; Auth0. (today)
 - **[hcengineering/platform](https://github.com/hcengineering/platform)** - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (today)
 - **[xtdb/xtdb](https://github.com/xtdb/xtdb)** - An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt (3 days ago)
 - **[Stengo/DeskPad](https://github.com/Stengo/DeskPad)** - A virtual monitor for screen sharing (4 days ago)
 - **[alebeck/boring](https://github.com/alebeck/boring)** - The `boring`  SSH tunnel manager (5 days ago)
-- **[neilotoole/sq](https://github.com/neilotoole/sq)** - sq data wrangler (1 week ago)
 
 #### 🎧 What I have been listening
-- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
-- [Dreamin&#39; by Fargro, RVLE](https://open.spotify.com/track/3UPtRj3lH32FG8yZc4ooWa)
-- [Be Your Friend by XYSM, EDGR](https://open.spotify.com/track/10TsQZCb8QVql2ocirBc6R)
-- [Wake Up by Alex Keeper](https://open.spotify.com/track/6EyKOiLeQJWXGrxG6Ir9fV)
-- [Go Insane by Sunmoon](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY)
+- [Too Late For Me by Lotus, Jan Liva, yara.](https://open.spotify.com/track/5Em17sf8ihmDInafRJ9bAO)
+- [can&#39;t sleep by Dimside](https://open.spotify.com/track/4440qXgBzTWxbU4GmSzBwB)
+- [KEEP DREAMING by TEMPHOUSE](https://open.spotify.com/track/5tCOavMT3BMLpf8yp9TBpS)
+- [Otherside by Munch](https://open.spotify.com/track/7MsB6HHVZlm0eDytug3Xga)
+- [Tijuana Sunrise by Michael FAY, Alex Schneider](https://open.spotify.com/track/0mFj1ZPwlokKhU6JSrOH9z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
