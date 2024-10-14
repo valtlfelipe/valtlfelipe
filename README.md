@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[alebeck/boring](https://github.com/alebeck/boring)** - The `boring`  SSH tunnel manager (5 days ago)
 
 #### 🎧 What I have been listening
-- [Sunbeams by NSH](https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA)
-- [Take It Back by Little Venice](https://open.spotify.com/track/2W4u4DXbkvBqBYOI3yI0mn)
-- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
-- [Stay by Bjarne Hendrik](https://open.spotify.com/track/1SUxRNbf0i4AJygh3BKdHN)
-- [Don&#39;t Know How by D3EPANK](https://open.spotify.com/track/5YXBazSdhGyFw1ZWSqWCqN)
+- [Hold Me Tight by D3EPANK, Xiam, Rukid](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF)
+- [Miss You More by Tom Kha](https://open.spotify.com/track/2UiZ4MN04um3IDCz89sCG3)
+- [Lost In The Sky by TWOPILOTS](https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ)
+- [Love Me Again by Gianluca Dimeo](https://open.spotify.com/track/6EXhqQPfmTmtdz5apO92PE)
+- [Safe and Sound by Alex Keeper](https://open.spotify.com/track/6XArW5L5lO6wUdbo5mojOL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
