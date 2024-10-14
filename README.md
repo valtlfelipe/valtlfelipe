@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[alebeck/boring](https://github.com/alebeck/boring)** - The `boring`  SSH tunnel manager (5 days ago)
 
 #### 🎧 What I have been listening
-- [Too Late For Me by Lotus, Jan Liva, yara.](https://open.spotify.com/track/5Em17sf8ihmDInafRJ9bAO)
-- [can&#39;t sleep by Dimside](https://open.spotify.com/track/4440qXgBzTWxbU4GmSzBwB)
-- [KEEP DREAMING by TEMPHOUSE](https://open.spotify.com/track/5tCOavMT3BMLpf8yp9TBpS)
-- [Otherside by Munch](https://open.spotify.com/track/7MsB6HHVZlm0eDytug3Xga)
-- [Tijuana Sunrise by Michael FAY, Alex Schneider](https://open.spotify.com/track/0mFj1ZPwlokKhU6JSrOH9z)
+- [Wishing by Sean Blanc](https://open.spotify.com/track/2ipr8HboTyHZkeLj7DPvqh)
+- [Another Lie by Panuma, Vice Vrsa, Mark Vayne](https://open.spotify.com/track/7L7K5rblvGEuRGGJLyR6lV)
+- [Waiting for Sunshine by AINT](https://open.spotify.com/track/4RWzgYkjVm1klwrKICz1vn)
+- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
+- [Favourite View by Novino, just Fede](https://open.spotify.com/track/1VnwrlEWIVUHlqjwbJgOiK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
