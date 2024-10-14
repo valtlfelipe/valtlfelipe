@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[neilotoole/sq](https://github.com/neilotoole/sq)** - sq data wrangler (1 week ago)
 
 #### 🎧 What I have been listening
-- [Desire by ZEXTONE, Catching Sunrises](https://open.spotify.com/track/1mFvzhLbVatFcdxvp2qxQt)
-- [Midnight Zone by Astrality, TAPE ANGEL](https://open.spotify.com/track/6iDQi093BFCGouVa3uXpOu)
-- [Moments - Ben Böhmer &amp; Nils Hoffmann Remix by Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0)
-- [Living In A Haze by Milky Chance](https://open.spotify.com/track/6vu5xJWIvukCK8cwBXOOj0)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [LUNCH by Nomore, Tasty Or Not, Queen D](https://open.spotify.com/track/1qXocnPCGMbNpsz9MRiwy6)
+- [Calm Down by DJ Goja, Magic Phase](https://open.spotify.com/track/28Y0lMcpwX7eZyMVfhbaUm)
+- [Heart By Dawn by The Sunnefield, Olly Wall, Michel Fannoun](https://open.spotify.com/track/21mBE3LlK1H3Vb6NHWt8wp)
+- [Someone Like You (TEO MANDRELLI Remix) by Frank Pole, TEO MANDRELLI, Jordan Grace](https://open.spotify.com/track/0zwiEEZBWO1y7urtmLE8iI)
+- [IAM by Petit Ocean](https://open.spotify.com/track/3PT8AFfIe0Z3TSls5uEQeg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
