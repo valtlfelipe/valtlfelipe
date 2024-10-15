@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (today)
+- **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (today)
+- **[Rychillie/saas-vapor](https://github.com/Rychillie/saas-vapor)** - SaaS Template using Vapor, a server-side Swift web framework. (today)
+- **[Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin)** - Empowering everyone to host fast and efficient Minecraft servers. (today)
 - **[tteck/Proxmox](https://github.com/tteck/Proxmox)** - Proxmox VE Helper-Scripts (today)
-- **[teamhanko/hanko](https://github.com/teamhanko/hanko)** - Authentication and User Management solution for developers. Open source alternative to Clerk &amp; Auth0. (1 day ago)
-- **[hcengineering/platform](https://github.com/hcengineering/platform)** - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (1 day ago)
-- **[xtdb/xtdb](https://github.com/xtdb/xtdb)** - An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt (4 days ago)
-- **[Stengo/DeskPad](https://github.com/Stengo/DeskPad)** - A virtual monitor for screen sharing (5 days ago)
 
 #### 🎧 What I have been listening
-- [Take Me by Ardo](https://open.spotify.com/track/5KXkMThFM118uMkxZFhngW)
-- [Inside My Love by TWOPILOTS](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh)
-- [Lost Wave by ONENESS, Ideo, blackbird](https://open.spotify.com/track/5zT7JGw3w0qQupcKAl0Cay)
-- [Memory by Solven](https://open.spotify.com/track/4BZoOQjoqd9qGaGGI1kvg5)
-- [All We Need Is Us by just Fede, Steeg, David Emde](https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn)
+- [Can&#39;t Stay The Same by just Fede, Oke](https://open.spotify.com/track/6GkDwFCNZ4JJiFdpj0Ko6p)
+- [Pain by Karma Child, Jameson](https://open.spotify.com/track/3lqgzGIWMWLB7avG8pqSEe)
+- [Dream by Lost Coconut](https://open.spotify.com/track/2yxqcnE5A03nPemMYMulrk)
+- [Let It Slide by AIMÉ, Odeon, Freyer, Sam Welch](https://open.spotify.com/track/4zuodNOafqvTJiAxW61k76)
+- [60s Ghost by Jane Good, Adam Wendler](https://open.spotify.com/track/26g2tdtXcqCaXaXEayIL4N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
