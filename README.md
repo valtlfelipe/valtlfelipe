@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Stengo/DeskPad](https://github.com/Stengo/DeskPad)** - A virtual monitor for screen sharing (5 days ago)
 
 #### 🎧 What I have been listening
-- [Weyu by Lucas Estrada, Lenji, Amadi Blue](https://open.spotify.com/track/66tTks0fdZ1t8Ux7SF0yrZ)
-- [closure by Does it matter](https://open.spotify.com/track/7HNuC1wGVuYzuazhQKUNrI)
-- [Company by Lynnic, ItsArius, Thandi](https://open.spotify.com/track/222EuiEKxU6EWJtoUlIvq6)
-- [How Deep Is My Love by TauTou](https://open.spotify.com/track/08yN1LynMDfNZvaEoXwN3M)
-- [You&#39;re The One by Jelen](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51)
+- [Take Me by Ardo](https://open.spotify.com/track/5KXkMThFM118uMkxZFhngW)
+- [Inside My Love by TWOPILOTS](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh)
+- [Lost Wave by ONENESS, Ideo, blackbird](https://open.spotify.com/track/5zT7JGw3w0qQupcKAl0Cay)
+- [Memory by Solven](https://open.spotify.com/track/4BZoOQjoqd9qGaGGI1kvg5)
+- [All We Need Is Us by just Fede, Steeg, David Emde](https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
