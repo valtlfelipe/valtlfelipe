@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tteck/Proxmox](https://github.com/tteck/Proxmox)** - Proxmox VE Helper-Scripts (today)
 
 #### 🎧 What I have been listening
-- [Wanderlust by Axero](https://open.spotify.com/track/6kW19F2JTgR9OlPW2XfBPe)
-- [Notice Me by Nøway](https://open.spotify.com/track/4vILGWYZureU0XZ5POx9Wy)
-- [Can&#39;t Get You Out of My Head by Aurora Echo, Daniela Vecchia](https://open.spotify.com/track/5bBI8M52woXjca2WUWITXq)
-- [One More Time by Teddy Beats, Jarod Glawe](https://open.spotify.com/track/43Yv08YRGu57ZZRdGZ3yLY)
-- [Prada by Slowsho, ABBY M.](https://open.spotify.com/track/6wqtVXOVPV7G4NpVbiflYh)
+- [That Kinda Love by DJ Licious, JIMINI](https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15)
+- [Close To Me by Aselec](https://open.spotify.com/track/28T738J7MBniDTJsHjLCXD)
+- [LUNCH by Nomore, Tasty Or Not, Queen D](https://open.spotify.com/track/1qXocnPCGMbNpsz9MRiwy6)
+- [Calm Down by DJ Goja, Magic Phase](https://open.spotify.com/track/28Y0lMcpwX7eZyMVfhbaUm)
+- [Heart By Dawn by The Sunnefield, Olly Wall, Michel Fannoun](https://open.spotify.com/track/21mBE3LlK1H3Vb6NHWt8wp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
