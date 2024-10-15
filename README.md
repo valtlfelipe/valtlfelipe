@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tteck/Proxmox](https://github.com/tteck/Proxmox)** - Proxmox VE Helper-Scripts (today)
 
 #### 🎧 What I have been listening
-- [That Kinda Love by DJ Licious, JIMINI](https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15)
-- [Close To Me by Aselec](https://open.spotify.com/track/28T738J7MBniDTJsHjLCXD)
-- [LUNCH by Nomore, Tasty Or Not, Queen D](https://open.spotify.com/track/1qXocnPCGMbNpsz9MRiwy6)
-- [Calm Down by DJ Goja, Magic Phase](https://open.spotify.com/track/28Y0lMcpwX7eZyMVfhbaUm)
-- [Heart By Dawn by The Sunnefield, Olly Wall, Michel Fannoun](https://open.spotify.com/track/21mBE3LlK1H3Vb6NHWt8wp)
+- [beautiful mind by rayn, Kusko, River Atley](https://open.spotify.com/track/0qi9yGpX9CO5s5rvYIXkvH)
+- [Rhythm Of My Mind - Chill Edit by Atch, Treetalk](https://open.spotify.com/track/0ZJdZtjF4cjZazBjeG8ql1)
+- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
+- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
+- [Shooting Stars by Solven](https://open.spotify.com/track/3O8cUTgeU37uII7wZotxLp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
