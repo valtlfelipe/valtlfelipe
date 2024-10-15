@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tteck/Proxmox](https://github.com/tteck/Proxmox)** - Proxmox VE Helper-Scripts (today)
 
 #### 🎧 What I have been listening
-- [Illuminate - Extended by Astrality, Leo Stannard](https://open.spotify.com/track/5OVDMbFKKAeI4sX6y1r6kR)
-- [Fever by Lotus](https://open.spotify.com/track/0IfcRfp6gWOx36fznAiDNR)
-- [Your Touch by Ruffnux](https://open.spotify.com/track/0wIexMl4QG7nEqzc8WuUp5)
-- [Always Together by Sole Sole](https://open.spotify.com/track/6JQsZzfuQ6iqblAe6JYiFb)
-- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
+- [Sunset Drive by Kreatev](https://open.spotify.com/track/2cxHC4H2bK6HT7hEddry78)
+- [Loaf by Nokiaa, Molly McPhaul](https://open.spotify.com/track/334Q3LeId0AylSzftSwBEj)
+- [People (with The Knocks) by Kungs, The Knocks](https://open.spotify.com/track/71pm3H94okCkUNqwFQZr8k)
+- [Piece Of Your Heart - Alok Remix by MEDUZA, Alok, Goodboys](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW)
+- [leavemealone by Fred again.., Baby Keem](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
