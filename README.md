@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tteck/Proxmox](https://github.com/tteck/Proxmox)** - Proxmox VE Helper-Scripts (today)
 
 #### 🎧 What I have been listening
-- [Can&#39;t Stay The Same by just Fede, Oke](https://open.spotify.com/track/6GkDwFCNZ4JJiFdpj0Ko6p)
-- [Pain by Karma Child, Jameson](https://open.spotify.com/track/3lqgzGIWMWLB7avG8pqSEe)
-- [Dream by Lost Coconut](https://open.spotify.com/track/2yxqcnE5A03nPemMYMulrk)
-- [Let It Slide by AIMÉ, Odeon, Freyer, Sam Welch](https://open.spotify.com/track/4zuodNOafqvTJiAxW61k76)
-- [60s Ghost by Jane Good, Adam Wendler](https://open.spotify.com/track/26g2tdtXcqCaXaXEayIL4N)
+- [Wanderlust by Axero](https://open.spotify.com/track/6kW19F2JTgR9OlPW2XfBPe)
+- [Notice Me by Nøway](https://open.spotify.com/track/4vILGWYZureU0XZ5POx9Wy)
+- [Can&#39;t Get You Out of My Head by Aurora Echo, Daniela Vecchia](https://open.spotify.com/track/5bBI8M52woXjca2WUWITXq)
+- [One More Time by Teddy Beats, Jarod Glawe](https://open.spotify.com/track/43Yv08YRGu57ZZRdGZ3yLY)
+- [Prada by Slowsho, ABBY M.](https://open.spotify.com/track/6wqtVXOVPV7G4NpVbiflYh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
