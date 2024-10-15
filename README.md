@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tteck/Proxmox](https://github.com/tteck/Proxmox)** - Proxmox VE Helper-Scripts (today)
 
 #### 🎧 What I have been listening
-- [beautiful mind by rayn, Kusko, River Atley](https://open.spotify.com/track/0qi9yGpX9CO5s5rvYIXkvH)
-- [Rhythm Of My Mind - Chill Edit by Atch, Treetalk](https://open.spotify.com/track/0ZJdZtjF4cjZazBjeG8ql1)
-- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
-- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
-- [Shooting Stars by Solven](https://open.spotify.com/track/3O8cUTgeU37uII7wZotxLp)
+- [Illuminate - Extended by Astrality, Leo Stannard](https://open.spotify.com/track/5OVDMbFKKAeI4sX6y1r6kR)
+- [Fever by Lotus](https://open.spotify.com/track/0IfcRfp6gWOx36fznAiDNR)
+- [Your Touch by Ruffnux](https://open.spotify.com/track/0wIexMl4QG7nEqzc8WuUp5)
+- [Always Together by Sole Sole](https://open.spotify.com/track/6JQsZzfuQ6iqblAe6JYiFb)
+- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
