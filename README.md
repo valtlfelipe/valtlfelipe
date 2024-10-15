@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tteck/Proxmox](https://github.com/tteck/Proxmox)** - Proxmox VE Helper-Scripts (today)
 
 #### 🎧 What I have been listening
+- [I Don’t Want Love by Spirit of Naima, Psalm Trees, ALEXANDER](https://open.spotify.com/track/008rgulYRSYxVuRJWgF0ps)
+- [Verao by Psalm Trees, less.people](https://open.spotify.com/track/2NA9xVWI2ynUFIomcRETRj)
 - [Sunset Drive by Kreatev](https://open.spotify.com/track/2cxHC4H2bK6HT7hEddry78)
 - [Loaf by Nokiaa, Molly McPhaul](https://open.spotify.com/track/334Q3LeId0AylSzftSwBEj)
-- [People (with The Knocks) by Kungs, The Knocks](https://open.spotify.com/track/71pm3H94okCkUNqwFQZr8k)
-- [Piece Of Your Heart - Alok Remix by MEDUZA, Alok, Goodboys](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW)
-- [leavemealone by Fred again.., Baby Keem](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic)
+- [Oregon Coast by Sweeps, luv pug](https://open.spotify.com/track/0g5QVGcBJowOXoXzamlyrW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
