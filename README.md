@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin)** - Empowering everyone to host fast and efficient Minecraft servers. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Seagrass by Mama Aiuto](https://open.spotify.com/track/2lVxXflOZaCiLl2gKUbQVM)
-- [I-285 by Kreatev](https://open.spotify.com/track/11jmuJCfL0FT2HTMIw6lTH)
-- [Better Off (Alone, Pt. III) by Alan Walker, Dash Berlin, Vikkstar](https://open.spotify.com/track/0SML6wWerD0yI2Xd4OUC1R)
-- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
-- [Murder On The Dancefloor - David Guetta Remix by Sophie Ellis-Bextor, David Guetta](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b)
+- [Hoje by Psalm Trees](https://open.spotify.com/track/3dZTAMozEZ77mpzlBa60da)
+- [The Lightning by Mama Aiuto](https://open.spotify.com/track/3UHkSMFoiqsjlkT4C11IPb)
+- [Caminhar by Psalm Trees, less.people](https://open.spotify.com/track/60qZFw4LA50USmJHIXSqgO)
+- [High Beams by Kreatev, 88JAY, Dotlights](https://open.spotify.com/track/3ra0QzgVweOuk1crfd3ZOt)
+- [In Sequence by Mo Anando](https://open.spotify.com/track/4U74usTH0QdN1cW3Al1dUp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
