@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin)** - Empowering everyone to host fast and efficient Minecraft servers. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Where You Are by PLVTO, Natasha Ghosh](https://open.spotify.com/track/3JsehjJggrCTrJ7tzg9u1o)
-- [Anywhere by Firevibe, Joel Coopa](https://open.spotify.com/track/7a1v8RwsFOtJwtdRqBfXbN)
-- [It&#39;s Alright by blue my mind, Indy Seven, J.O.Y](https://open.spotify.com/track/0NLL5lJAhtUa2hXmh7Eyqx)
-- [Never Let You Go by Oliver Sullivan](https://open.spotify.com/track/08b0E9mxQ8AWxAwjpQV3eq)
-- [Light Comes Up by Bayza](https://open.spotify.com/track/3PZA5orGDLCDJoQfARGqfX)
+- [My Love by Gianluca Dimeo, Daniel Santoro](https://open.spotify.com/track/55yl2jVMuB0yPUJzWjJM7p)
+- [Be With You by EMOTIONAL](https://open.spotify.com/track/1X1gQuvMH7RP2Xkbdt7SES)
+- [Let Me In by Idin Gorji, Helia Homam](https://open.spotify.com/track/60tZOxPqQiZcjlqlL5kbaC)
+- [Tonight We Dance by Mike D&#39; Jais](https://open.spotify.com/track/2QP0ebjb5yjXMz6FiHdcuL)
+- [Falling Down Again by Mike D&#39; Jais](https://open.spotify.com/track/1fGchMRlpwVhoSTQZo5ttt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
