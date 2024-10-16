@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Rychillie/saas-vapor](https://github.com/Rychillie/saas-vapor)** - SaaS Template using Vapor, a server-side Swift web framework. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Ensueño by flâneur, Dani Catalá, Porcel](https://open.spotify.com/track/449WDT4cxUdfySxwnuTinu)
-- [Sunlight by Kendall Miles, Jintonic](https://open.spotify.com/track/1KXcHq1VB2m2ul0EJfnrxX)
-- [Tomorrow by Hanz](https://open.spotify.com/track/3QFAk4MBWLZHYqiY2C7dOi)
-- [Tokyo Lights by Shuko, FLKS](https://open.spotify.com/track/4DkAN8ownDd6sDUOVUZyG4)
-- [River’s Bass by Vhsceral](https://open.spotify.com/track/10Bv6E81NqKNuFkf1EHeXE)
+- [Late Checkout by Deauxnuts, Nokiaa](https://open.spotify.com/track/0kpn2pR2KG3Q9Fw4osl1oA)
+- [Toofpick by Blue Wednesday, Shopan](https://open.spotify.com/track/2CAStQDwQlljy6PbTDdbkp)
+- [West Lake by Saib](https://open.spotify.com/track/22D3kIP0ckACcHEPoZosVU)
+- [Cabriolet by Ben Bada Boom, Plusma](https://open.spotify.com/track/1l9RLPjnudTQAycEmXaPjD)
+- [Evian by Masked Man](https://open.spotify.com/track/1Xu3jpGkpa1s0aLnBcXrkO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
