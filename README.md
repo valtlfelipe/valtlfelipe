@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin)** - Empowering everyone to host fast and efficient Minecraft servers. (1 day ago)
 
 #### 🎧 What I have been listening
-- [My Home by Lost In Reveries, ROBINS](https://open.spotify.com/track/3bfxCYBRGmO7MhIZD5Hadb)
-- [You by Regard, Troye Sivan, Tate McRae](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE)
-- [The Reason by Braaten, RÆ](https://open.spotify.com/track/15uy4lyCqhN1F4AyXzu8MG)
-- [Single Soon by Cupido](https://open.spotify.com/track/2x9dgpdYdGfjOG2eZmfMeS)
-- [Summer by HEIGHTS, _Blah, LO, KVNC](https://open.spotify.com/track/1HVinbFOKfFKBjBg4CVo6L)
+- [Where You Are by PLVTO, Natasha Ghosh](https://open.spotify.com/track/3JsehjJggrCTrJ7tzg9u1o)
+- [Anywhere by Firevibe, Joel Coopa](https://open.spotify.com/track/7a1v8RwsFOtJwtdRqBfXbN)
+- [It&#39;s Alright by blue my mind, Indy Seven, J.O.Y](https://open.spotify.com/track/0NLL5lJAhtUa2hXmh7Eyqx)
+- [Never Let You Go by Oliver Sullivan](https://open.spotify.com/track/08b0E9mxQ8AWxAwjpQV3eq)
+- [Light Comes Up by Bayza](https://open.spotify.com/track/3PZA5orGDLCDJoQfARGqfX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
