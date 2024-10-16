@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin)** - Empowering everyone to host fast and efficient Minecraft servers. (1 day ago)
 
 #### 🎧 What I have been listening
-- [City Lights by Ikarus, Michel Dj, MD DJ](https://open.spotify.com/track/06P49whYeInq6qHRLTUH4q)
-- [See You On The Other Side by Mike D&#39; Jais](https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS)
-- [Used To Feel by Joey Lanx, Hayden](https://open.spotify.com/track/2XuuXl4spPGi7iJQ4yaLSk)
-- [Tell Me by James Carter, Hanne Mjøen](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg)
-- [No One Like You by Lost Synths, D-FRA](https://open.spotify.com/track/12JUdBqJzkZ1rAK37tEGvS)
+- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
+- [places to be by Fred again.., Anderson .Paak, CHIKA](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J)
+- [Move Your Body by Öwnboss, Sevek](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi)
+- [Chasing Highs - Felix Cartal Remix by ALMA, Felix Cartal](https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw)
+- [This Is What It Feels Like - Armin van Buuren 2023 Remix by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
