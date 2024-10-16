@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin)** - Empowering everyone to host fast and efficient Minecraft servers. (1 day ago)
 
 #### 🎧 What I have been listening
-- [My Love by Gianluca Dimeo, Daniel Santoro](https://open.spotify.com/track/55yl2jVMuB0yPUJzWjJM7p)
-- [Be With You by EMOTIONAL](https://open.spotify.com/track/1X1gQuvMH7RP2Xkbdt7SES)
-- [Let Me In by Idin Gorji, Helia Homam](https://open.spotify.com/track/60tZOxPqQiZcjlqlL5kbaC)
-- [Tonight We Dance by Mike D&#39; Jais](https://open.spotify.com/track/2QP0ebjb5yjXMz6FiHdcuL)
-- [Falling Down Again by Mike D&#39; Jais](https://open.spotify.com/track/1fGchMRlpwVhoSTQZo5ttt)
+- [City Lights by Ikarus, Michel Dj, MD DJ](https://open.spotify.com/track/06P49whYeInq6qHRLTUH4q)
+- [See You On The Other Side by Mike D&#39; Jais](https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS)
+- [Used To Feel by Joey Lanx, Hayden](https://open.spotify.com/track/2XuuXl4spPGi7iJQ4yaLSk)
+- [Tell Me by James Carter, Hanne Mjøen](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg)
+- [No One Like You by Lost Synths, D-FRA](https://open.spotify.com/track/12JUdBqJzkZ1rAK37tEGvS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
