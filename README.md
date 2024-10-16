@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin)** - Empowering everyone to host fast and efficient Minecraft servers. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Still Sleepless by D.O.D, Carla Monroe](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC)
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
-- [Heart Still Beating by Nathan Dawe, Bebe Rexha](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU)
-- [Sunshine (My Girl) - Sofi Tukker Remix by Wuki, Sofi Tukker](https://open.spotify.com/track/5cdauxzCnViQEruce9myFV)
-- [Happier (feat. Clementine Douglas) by The Blessed Madonna, Clementine Douglas](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv)
+- [Seagrass by Mama Aiuto](https://open.spotify.com/track/2lVxXflOZaCiLl2gKUbQVM)
+- [I-285 by Kreatev](https://open.spotify.com/track/11jmuJCfL0FT2HTMIw6lTH)
+- [Better Off (Alone, Pt. III) by Alan Walker, Dash Berlin, Vikkstar](https://open.spotify.com/track/0SML6wWerD0yI2Xd4OUC1R)
+- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
+- [Murder On The Dancefloor - David Guetta Remix by Sophie Ellis-Bextor, David Guetta](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
