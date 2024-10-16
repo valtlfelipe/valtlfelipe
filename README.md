@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Rychillie/saas-vapor](https://github.com/Rychillie/saas-vapor)** - SaaS Template using Vapor, a server-side Swift web framework. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Pub – Remix by Psalm Trees by Psalm Trees](https://open.spotify.com/track/7r9LfV79eSlFU0Is5qQHav)
-- [It’s Okay by Yasper](https://open.spotify.com/track/03UVwcFw4pdm31IQMBXMBn)
-- [Little Help by Yasper](https://open.spotify.com/track/2D7834FaipzUQIdfD50Mce)
-- [Longest Wait by J.Folk](https://open.spotify.com/track/7mgaodMYQUoSA1NDxrwLOU)
-- [Segito by Ruck P, ØDYSSEE](https://open.spotify.com/track/72ZKYZoxhINsfzIlpZuggU)
+- [Ensueño by flâneur, Dani Catalá, Porcel](https://open.spotify.com/track/449WDT4cxUdfySxwnuTinu)
+- [Sunlight by Kendall Miles, Jintonic](https://open.spotify.com/track/1KXcHq1VB2m2ul0EJfnrxX)
+- [Tomorrow by Hanz](https://open.spotify.com/track/3QFAk4MBWLZHYqiY2C7dOi)
+- [Tokyo Lights by Shuko, FLKS](https://open.spotify.com/track/4DkAN8ownDd6sDUOVUZyG4)
+- [River’s Bass by Vhsceral](https://open.spotify.com/track/10Bv6E81NqKNuFkf1EHeXE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
