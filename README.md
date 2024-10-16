@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin)** - Empowering everyone to host fast and efficient Minecraft servers. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
-- [places to be by Fred again.., Anderson .Paak, CHIKA](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J)
-- [Move Your Body by Öwnboss, Sevek](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi)
-- [Chasing Highs - Felix Cartal Remix by ALMA, Felix Cartal](https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw)
-- [This Is What It Feels Like - Armin van Buuren 2023 Remix by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK)
+- [Still Sleepless by D.O.D, Carla Monroe](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [Heart Still Beating by Nathan Dawe, Bebe Rexha](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU)
+- [Sunshine (My Girl) - Sofi Tukker Remix by Wuki, Sofi Tukker](https://open.spotify.com/track/5cdauxzCnViQEruce9myFV)
+- [Happier (feat. Clementine Douglas) by The Blessed Madonna, Clementine Douglas](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
