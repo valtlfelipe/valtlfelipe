@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tteck/Proxmox](https://github.com/tteck/Proxmox)** - Proxmox VE Helper-Scripts (1 day ago)
 
 #### 🎧 What I have been listening
+- [Waste (feat. Veronica Bravo) by Kayote, Vowed, Veronica Bravo](https://open.spotify.com/track/7zcB7BGtkSSjyN2LZKNILn)
+- [U Make Me Wanna by Westerlund, Max Vermeulen, Michael Hausted](https://open.spotify.com/track/3JW32cCSXzYsNcJsGMP3fu)
 - [Paris In The Rain by PLVTO, Natasha Ghosh](https://open.spotify.com/track/22yDehY1PcrZEqlYvgn9yc)
 - [Far Away Place - Rampa Remix by Xinobi, Vaarwell, Rampa](https://open.spotify.com/track/4SpESjSScmJyuMamD9MKOL)
 - [Devine Variety by Mama Aiuto, Daphné](https://open.spotify.com/track/6dDDcXzn9O4pLOBt2dzZTh)
-- [Far Away Place - Rampa Remix by Xinobi, Vaarwell, Rampa](https://open.spotify.com/track/4SpESjSScmJyuMamD9MKOL)
-- [I Don’t Want Love by Spirit of Naima, Psalm Trees, ALEXANDER](https://open.spotify.com/track/008rgulYRSYxVuRJWgF0ps)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
