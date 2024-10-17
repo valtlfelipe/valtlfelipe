@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Rychillie/saas-vapor](https://github.com/Rychillie/saas-vapor)** - SaaS Template using Vapor, a server-side Swift web framework. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Beaten by Swørn](https://open.spotify.com/track/3O5kle4af60vnjwrA0DC5K)
-- [Bonaventura by Birocratic, Saib, ØDYSSEE](https://open.spotify.com/track/40wi75xHZt0ovzbGwB3Bq9)
-- [Late Checkout by Deauxnuts, Nokiaa](https://open.spotify.com/track/0kpn2pR2KG3Q9Fw4osl1oA)
-- [Toofpick by Blue Wednesday, Shopan](https://open.spotify.com/track/2CAStQDwQlljy6PbTDdbkp)
-- [West Lake by Saib](https://open.spotify.com/track/22D3kIP0ckACcHEPoZosVU)
+- [Sure by L&#39;Indécis](https://open.spotify.com/track/4GwmHRc8zq3Ta8CCD1eqID)
+- [Chrono by Monma](https://open.spotify.com/track/78pATVtCPzSFJXHO5j0k4U)
+- [Dreams &amp; Reality by Bao, Venuz Beats, Broken Transient](https://open.spotify.com/track/26WoXagHxtsm42cKAvT4gF)
+- [palace by Ward Wills](https://open.spotify.com/track/2Gp2RsW89vXXfoDnRv2DDq)
+- [Preciso by Tom Doolie](https://open.spotify.com/track/6PLpXbbUnefm7DrWaJ2Mr7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
