@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (2 days ago)
 
 #### 🎧 What I have been listening
-- [Frisky Feeling by Ben Bada Boom](https://open.spotify.com/track/6VpquOxclRzLuKizW8kdQr)
-- [Barely Made It by Thelonious Coltrane](https://open.spotify.com/track/5fdZlcPg0kE0AzhSUSMySY)
-- [Panda by Philanthrope](https://open.spotify.com/track/54mBMl7kbHWjnhVWFEDhEg)
-- [Beautifully So by less.people](https://open.spotify.com/track/2qtaUcjJDxdPyEuFXsbweR)
-- [Blue sand by Kissamilé](https://open.spotify.com/track/2m4tc0PE0V9ydF39wRx3ST)
+- [Hnstly by Afroham, C Y G N](https://open.spotify.com/track/3gCOxxvHkzQtFdkfnSpgkj)
+- [Green Dress by Bao, Sunrize, Mauricesax](https://open.spotify.com/track/5OV0mOLrPeLcPQd8Yxd5KW)
+- [Cruisin’ by El Train](https://open.spotify.com/track/0ggvfbHMs7o2NCHUYKtRJe)
+- [Better Days by Evil Needle](https://open.spotify.com/track/7FIUIlhD5PTXZEoHN3NcKb)
+- [Capturing the Light by less.people](https://open.spotify.com/track/1VM9k7KwQ4wvnCTmvbtE3S)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
