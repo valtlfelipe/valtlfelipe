@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (2 days ago)
 
 #### 🎧 What I have been listening
-- [Hnstly by Afroham, C Y G N](https://open.spotify.com/track/3gCOxxvHkzQtFdkfnSpgkj)
-- [Green Dress by Bao, Sunrize, Mauricesax](https://open.spotify.com/track/5OV0mOLrPeLcPQd8Yxd5KW)
-- [Cruisin’ by El Train](https://open.spotify.com/track/0ggvfbHMs7o2NCHUYKtRJe)
-- [Better Days by Evil Needle](https://open.spotify.com/track/7FIUIlhD5PTXZEoHN3NcKb)
-- [Capturing the Light by less.people](https://open.spotify.com/track/1VM9k7KwQ4wvnCTmvbtE3S)
+- [juicy fruit by T.Check, Zhen](https://open.spotify.com/track/4tltjTbjf0KmlbXu0UXTDJ)
+- [Take it Eazy by C Y G N](https://open.spotify.com/track/384nVRHQL8ehIPde8mb5Ow)
+- [Vermont Canyon by Teddy Roxpin, MAXIMILLIAN](https://open.spotify.com/track/2eZVu48i91DhaYZMJ0ttXa)
+- [Taproot by Beats for Trees, Mr. Käfer](https://open.spotify.com/track/0M9s15GFz78rNi2t5Lgv7L)
+- [switch up / down for u by Ward Wills](https://open.spotify.com/track/7iEuxDL3WNTRuZUcDWKm4e)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
