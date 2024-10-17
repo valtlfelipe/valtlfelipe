@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (2 days ago)
 
 #### 🎧 What I have been listening
-- [juicy fruit by T.Check, Zhen](https://open.spotify.com/track/4tltjTbjf0KmlbXu0UXTDJ)
-- [Take it Eazy by C Y G N](https://open.spotify.com/track/384nVRHQL8ehIPde8mb5Ow)
-- [Vermont Canyon by Teddy Roxpin, MAXIMILLIAN](https://open.spotify.com/track/2eZVu48i91DhaYZMJ0ttXa)
-- [Taproot by Beats for Trees, Mr. Käfer](https://open.spotify.com/track/0M9s15GFz78rNi2t5Lgv7L)
-- [switch up / down for u by Ward Wills](https://open.spotify.com/track/7iEuxDL3WNTRuZUcDWKm4e)
+- [Think Twice by Cap Kendricks](https://open.spotify.com/track/5TYagQdQRwe9ivfuKU471K)
+- [Stay Gold by Mr Slipz](https://open.spotify.com/track/55kvWCH0nj99Dvk0nuDnmF)
+- [Strum Crazy by The Doppelgangaz](https://open.spotify.com/track/0QsnPgQhrn9RRciKqW2o4e)
+- [Crimson by 7apes, Les Jardíns](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3)
+- [Push to Open by Masked Man](https://open.spotify.com/track/6vhLvCA6wfKFEDxJieUI78)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
