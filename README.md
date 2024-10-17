@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Rychillie/saas-vapor](https://github.com/Rychillie/saas-vapor)** - SaaS Template using Vapor, a server-side Swift web framework. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Sure by L&#39;Indécis](https://open.spotify.com/track/4GwmHRc8zq3Ta8CCD1eqID)
-- [Chrono by Monma](https://open.spotify.com/track/78pATVtCPzSFJXHO5j0k4U)
-- [Dreams &amp; Reality by Bao, Venuz Beats, Broken Transient](https://open.spotify.com/track/26WoXagHxtsm42cKAvT4gF)
-- [palace by Ward Wills](https://open.spotify.com/track/2Gp2RsW89vXXfoDnRv2DDq)
-- [Preciso by Tom Doolie](https://open.spotify.com/track/6PLpXbbUnefm7DrWaJ2Mr7)
+- [Cheonsa by SwuM, Lenny Loops](https://open.spotify.com/track/0YCeB4k8qnU6zODfjgPSXw)
+- [Hindsight by Philanthrope, Vulax](https://open.spotify.com/track/6ZWMNGE2iryGhCe2Ivi71m)
+- [Keeping You Close by Leavv, Nuncc](https://open.spotify.com/track/08AJbcsnLQvNGKjUJC1eCh)
+- [Cruisin’ by Aves](https://open.spotify.com/track/5te08qxk6XqRF4hN9BD2Wx)
+- [Nightshift - Instrumental by Paradox, Padre Tóxico](https://open.spotify.com/track/0XYW74kuHQWIu3nWCJAriU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
