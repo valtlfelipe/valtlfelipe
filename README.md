@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (2 days ago)
 
 #### 🎧 What I have been listening
-- [Topinamborough by Flitz&amp;Suppe](https://open.spotify.com/track/6AjYCriIyY8F6U44F4pf4D)
-- [Rowing with Father – Remix by Philanthrope by Philanthrope](https://open.spotify.com/track/62KxUhEdv89BQCLEgMGFnC)
-- [Cold Fire by Stan Forebee](https://open.spotify.com/track/3CUXqpAPwzuXpt41xt09Pr)
-- [Ripples Of Autumn by Mendeville](https://open.spotify.com/track/4qm6QmmBVo6mRJhskTubLk)
-- [Linha de Passe by Bao, Venuz Beats, Styles Davis](https://open.spotify.com/track/4mPmPpUqxQmTqGq3C558jz)
+- [Sorry by Swørn](https://open.spotify.com/track/39hjQ0uNNuOUaqLfFZ0TOn)
+- [Fuzz by Miscél](https://open.spotify.com/track/3iroK6SSKb3lJpCQKYP1gk)
+- [When and Where by Sem0r, Loyae](https://open.spotify.com/track/78rfjCuRo6lkW8pAAjehrh)
+- [Melvin by Boukas, Fredrik Bergsten, Samuel Axelson](https://open.spotify.com/track/0mywMJgH5LeMDubZW4jJ3P)
+- [Casette by Ward Wills](https://open.spotify.com/track/5p9H24yTeBYXD0IrWWSlQn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
