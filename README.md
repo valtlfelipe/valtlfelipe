@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[RihanArfan/chat-with-pdf](https://github.com/RihanArfan/chat-with-pdf)** - Chat with PDF lets you ask questions to PDF documents. Built and deployed with NuxtHub, and powered by Cloudflare Workers AI and Vectorize. (today)
-- **[dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control)** - A highly configurable cookie banner for Nuxt. (today)
-- **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 day ago)
-- **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (1 day ago)
-- **[Rychillie/saas-vapor](https://github.com/Rychillie/saas-vapor)** - SaaS Template using Vapor, a server-side Swift web framework. (1 day ago)
+- **[RihanArfan/chat-with-pdf](https://github.com/RihanArfan/chat-with-pdf)** - Chat with PDF lets you ask questions to PDF documents. Built and deployed with NuxtHub, and powered by Cloudflare Workers AI and Vectorize. (1 day ago)
+- **[dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control)** - A highly configurable cookie banner for Nuxt. (1 day ago)
+- **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (2 days ago)
+- **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (2 days ago)
+- **[Rychillie/saas-vapor](https://github.com/Rychillie/saas-vapor)** - SaaS Template using Vapor, a server-side Swift web framework. (2 days ago)
 
 #### 🎧 What I have been listening
 - [Late Checkout by Deauxnuts, Nokiaa](https://open.spotify.com/track/0kpn2pR2KG3Q9Fw4osl1oA)
