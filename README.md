@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (2 days ago)
 
 #### 🎧 What I have been listening
-- [Think Twice by Cap Kendricks](https://open.spotify.com/track/5TYagQdQRwe9ivfuKU471K)
-- [Stay Gold by Mr Slipz](https://open.spotify.com/track/55kvWCH0nj99Dvk0nuDnmF)
-- [Strum Crazy by The Doppelgangaz](https://open.spotify.com/track/0QsnPgQhrn9RRciKqW2o4e)
-- [Crimson by 7apes, Les Jardíns](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3)
-- [Push to Open by Masked Man](https://open.spotify.com/track/6vhLvCA6wfKFEDxJieUI78)
+- [Topinamborough by Flitz&amp;Suppe](https://open.spotify.com/track/6AjYCriIyY8F6U44F4pf4D)
+- [Rowing with Father – Remix by Philanthrope by Philanthrope](https://open.spotify.com/track/62KxUhEdv89BQCLEgMGFnC)
+- [Cold Fire by Stan Forebee](https://open.spotify.com/track/3CUXqpAPwzuXpt41xt09Pr)
+- [Ripples Of Autumn by Mendeville](https://open.spotify.com/track/4qm6QmmBVo6mRJhskTubLk)
+- [Linha de Passe by Bao, Venuz Beats, Styles Davis](https://open.spotify.com/track/4mPmPpUqxQmTqGq3C558jz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
