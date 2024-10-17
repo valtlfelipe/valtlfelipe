@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Rychillie/saas-vapor](https://github.com/Rychillie/saas-vapor)** - SaaS Template using Vapor, a server-side Swift web framework. (2 days ago)
 
 #### 🎧 What I have been listening
+- [Beaten by Swørn](https://open.spotify.com/track/3O5kle4af60vnjwrA0DC5K)
+- [Bonaventura by Birocratic, Saib, ØDYSSEE](https://open.spotify.com/track/40wi75xHZt0ovzbGwB3Bq9)
 - [Late Checkout by Deauxnuts, Nokiaa](https://open.spotify.com/track/0kpn2pR2KG3Q9Fw4osl1oA)
 - [Toofpick by Blue Wednesday, Shopan](https://open.spotify.com/track/2CAStQDwQlljy6PbTDdbkp)
 - [West Lake by Saib](https://open.spotify.com/track/22D3kIP0ckACcHEPoZosVU)
-- [Cabriolet by Ben Bada Boom, Plusma](https://open.spotify.com/track/1l9RLPjnudTQAycEmXaPjD)
-- [Evian by Masked Man](https://open.spotify.com/track/1Xu3jpGkpa1s0aLnBcXrkO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
