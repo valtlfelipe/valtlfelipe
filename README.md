@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (3 days ago)
 
 #### 🎧 What I have been listening
-- [Head Down For You by Freyer, Odeon, Senes](https://open.spotify.com/track/4Ty57TyhUNvVHQXsH5vrSD)
-- [Paradise by Thierry Von Der Warth, Modi](https://open.spotify.com/track/45Q8FBzKZSIG5KsIe7VabG)
-- [Follow the Sun by NEIMY](https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute)
-- [Fall At Your Feet (with Dean Lewis) by CYRIL, Dean Lewis](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931)
-- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
+- [Dreamin&#39; by Fargro, RVLE](https://open.spotify.com/track/3UPtRj3lH32FG8yZc4ooWa)
+- [Stand Up by RAZZ](https://open.spotify.com/track/1ir8ns7QddbM18F7UOa096)
+- [Make Me Feel by Steam Phunk, maybealice](https://open.spotify.com/track/3oeTpxPTiC7mf618t37O9J)
+- [Jewels (Stuck On You) by Bastyan, Annahita](https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW)
+- [Need You by Horizon Blue, S3DA, Coulson](https://open.spotify.com/track/0ujT2z8Pz9Z4PPdLSYsuw1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
