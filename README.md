@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (3 days ago)
 
 #### 🎧 What I have been listening
+- [Jump by Levi](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh)
+- [Stuck Inside My Head by Tom Mårtensson, Theodor Rosenberg](https://open.spotify.com/track/495Fz3Sf5bFLlmINxwzRGR)
+- [Breathe by Polariz, Fabio Vee](https://open.spotify.com/track/2c2RhXuw5y84srXSeAtX0O)
+- [When The Beat Drops Out by SITHEA, july, Luna Serenade](https://open.spotify.com/track/0TV5O9DZxQ561w1fNc0TSg)
 - [Julia (deep diving) by Fred again..](https://open.spotify.com/track/4obJRBmV1AnO09jj03zIqk)
-- [Sleep by ConKi, Rolipso, Runforrest](https://open.spotify.com/track/0rMuFOja3DhVSuXQeae25C)
-- [Be Back Soon by Steeg, just Fede, James Stefano](https://open.spotify.com/track/4cMnwdMh43iquJL4n16RSs)
-- [Places by Elderbrook, Shimza](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw)
-- [(It Goes Like) Nanana - Edit by Peggy Gou](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
