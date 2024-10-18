@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (3 days ago)
 
 #### 🎧 What I have been listening
-- [Jump by Levi](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh)
-- [Stuck Inside My Head by Tom Mårtensson, Theodor Rosenberg](https://open.spotify.com/track/495Fz3Sf5bFLlmINxwzRGR)
-- [Breathe by Polariz, Fabio Vee](https://open.spotify.com/track/2c2RhXuw5y84srXSeAtX0O)
-- [When The Beat Drops Out by SITHEA, july, Luna Serenade](https://open.spotify.com/track/0TV5O9DZxQ561w1fNc0TSg)
-- [Julia (deep diving) by Fred again..](https://open.spotify.com/track/4obJRBmV1AnO09jj03zIqk)
+- [Inside Me by Fabio Vee](https://open.spotify.com/track/5WvQwIe1Tlim0J8u9rYf1S)
+- [Tell Me by Tinlicker, Helsloot, Hero Baldwin](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7)
+- [I&#39;m Good (Blue) by Cupido](https://open.spotify.com/track/5Yo5PpwKlekpbOd8JucLAP)
+- [Only One (Safe And Sound) by Sander Divino](https://open.spotify.com/track/0MDXgya64xbkJCnfCezbQ5)
+- [Stay by Sander Divino, Junior Skye](https://open.spotify.com/track/7m1fayYQ61qzC5rup8RbDu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
