@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Just A Sunset by Cale, Rachel Morgan Perry](https://open.spotify.com/track/1K7vWwvhNFi8oDWX66OYHg)
-- [How Deep Is Your Love by fwd/slash](https://open.spotify.com/track/6whE9W4LkAaTyltd0Y44jm)
-- [Blew My Mind by Mike D&#39; Jais, Fabio Vee](https://open.spotify.com/track/5lppspIY80fgqiYVZsbaAw)
-- [Fire in You by Fargro](https://open.spotify.com/track/5TwKgFNIieJyFP9Phhvhjo)
-- [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
+- [I&#39;ll Be Around by Elderbrook, Amtrac](https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA)
+- [Holding On (feat. RVLE) by Sander Divino, RVLE](https://open.spotify.com/track/5qd0jRpUE9D31qGbh7sC8E)
+- [A Few Good Reasons by Nuage, live to love, Eirik Næss](https://open.spotify.com/track/1xw94rUJSDcxkuQHlE4jPD)
+- [My Focus Is You by Nick En Mare, Brøder](https://open.spotify.com/track/35cFnBCosJPxrlUkv7Z62Y)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
