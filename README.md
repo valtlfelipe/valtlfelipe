@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (3 days ago)
 
 #### 🎧 What I have been listening
-- [I&#39;ll Be Around by Elderbrook, Amtrac](https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA)
-- [Holding On (feat. RVLE) by Sander Divino, RVLE](https://open.spotify.com/track/5qd0jRpUE9D31qGbh7sC8E)
-- [A Few Good Reasons by Nuage, live to love, Eirik Næss](https://open.spotify.com/track/1xw94rUJSDcxkuQHlE4jPD)
-- [My Focus Is You by Nick En Mare, Brøder](https://open.spotify.com/track/35cFnBCosJPxrlUkv7Z62Y)
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
+- [It&#39;s Alright by blue my mind, Indy Seven, J.O.Y](https://open.spotify.com/track/0NLL5lJAhtUa2hXmh7Eyqx)
+- [Back To You by Lost Frequencies, Elley Duhé, X Ambassadors](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e)
+- [Forever Young by Goldistic](https://open.spotify.com/track/4iloEnz4WMeffiwGE8uhQJ)
+- [The Best by Thomas Geelens, sleepy dude](https://open.spotify.com/track/3HH9Hu8rGpTPsZlmb0J8t5)
+- [Body by Elderbrook](https://open.spotify.com/track/5nbq4CyzheTl7BLPR3caJY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
