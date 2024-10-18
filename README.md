@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Until I Found Myself by Fargro](https://open.spotify.com/track/6CZ0cjjsPrVENB2AmCkAJ8)
-- [Stay by Dtrch](https://open.spotify.com/track/66QKPoQuTSFRk3NggN4i1v)
-- [Feel My Needs - Purple Disco Machine Remix by WEISS, Purple Disco Machine](https://open.spotify.com/track/3RiRFyvasDtAv8n0AQUKFG)
-- [if we never met - remix by John K, Sigala](https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd)
-- [Right For You by SHKHR, Josiah Nichols](https://open.spotify.com/track/6U7N9Avvc1ZHt1ffuSN5cI)
+- [Safe House by LOWKEY, Steam Phunk, JAIKO](https://open.spotify.com/track/09fYMdR8lPHQKgyQ2URs7a)
+- [Lemonade (feat. SEM) by outset island, Spijk, SEM](https://open.spotify.com/track/35VTDdIaIuTg6G8UWg7IMN)
+- [My Call by TEMP!E, James Lacey](https://open.spotify.com/track/5AZEgjgFgUSFxczcQSzU13)
+- [Before I Let You Go (feat. MarcLo) by CYRIL, MarcLo](https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs)
+- [Save Me Now by FLX](https://open.spotify.com/track/1m7JH2anPjNzUDmusvbOyL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
