@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (3 days ago)
 
 #### 🎧 What I have been listening
-- [Angel Face Disaster by Besso, Charlie Besso, blue my mind](https://open.spotify.com/track/4o3KCsVVSDOmyp0tTYyw8S)
-- [Can You Feel It? by Coffee Cub](https://open.spotify.com/track/5ebQzc6OSS8o4Iztb0cPw2)
-- [Daydreams by Calm Springs, Donna Senders, Cal1](https://open.spotify.com/track/5LsKH0xvpdlKdE0RUR023Q)
-- [Makeda by Alice DiMar](https://open.spotify.com/track/4kar5EtR271EvY3FIFsnJP)
-- [Sunny by Deepend, LAST CALL](https://open.spotify.com/track/5W8wJVjLdQanAq7boqQ7c8)
+- [Julia (deep diving) by Fred again..](https://open.spotify.com/track/4obJRBmV1AnO09jj03zIqk)
+- [Sleep by ConKi, Rolipso, Runforrest](https://open.spotify.com/track/0rMuFOja3DhVSuXQeae25C)
+- [Be Back Soon by Steeg, just Fede, James Stefano](https://open.spotify.com/track/4cMnwdMh43iquJL4n16RSs)
+- [Places by Elderbrook, Shimza](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw)
+- [(It Goes Like) Nanana - Edit by Peggy Gou](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
