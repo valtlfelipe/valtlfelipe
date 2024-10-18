@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (3 days ago)
 
 #### 🎧 What I have been listening
-- [Just Say by Coco &amp; Breezy, Tara Carosielli](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO)
-- [Say It by Marsias, Gianluca Dimeo](https://open.spotify.com/track/1mwVnkMf6BtqYSU2UDgDa9)
-- [Fighting by Doreus, MoodahСhillah](https://open.spotify.com/track/2bBQJm2L9xXJRVvvdBx1Zi)
-- [Lullaby by Acko, Ola Martin, David Emde](https://open.spotify.com/track/7AmhrMd70FuXsn1uCd1DML)
-- [Open Sky by Duce, terro, FARLEY](https://open.spotify.com/track/4Qv2LPz6qyh3vuFq0MyB0U)
+- [Head Down For You by Freyer, Odeon, Senes](https://open.spotify.com/track/4Ty57TyhUNvVHQXsH5vrSD)
+- [Paradise by Thierry Von Der Warth, Modi](https://open.spotify.com/track/45Q8FBzKZSIG5KsIe7VabG)
+- [Follow the Sun by NEIMY](https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute)
+- [Fall At Your Feet (with Dean Lewis) by CYRIL, Dean Lewis](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931)
+- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
