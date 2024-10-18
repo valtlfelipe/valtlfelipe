@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[heyform/heyform](https://github.com/heyform/heyform)** - Open-Source Form Builder (3 days ago)
 
 #### 🎧 What I have been listening
-- [Dreamin&#39; by Fargro, RVLE](https://open.spotify.com/track/3UPtRj3lH32FG8yZc4ooWa)
-- [Stand Up by RAZZ](https://open.spotify.com/track/1ir8ns7QddbM18F7UOa096)
-- [Make Me Feel by Steam Phunk, maybealice](https://open.spotify.com/track/3oeTpxPTiC7mf618t37O9J)
-- [Jewels (Stuck On You) by Bastyan, Annahita](https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW)
-- [Need You by Horizon Blue, S3DA, Coulson](https://open.spotify.com/track/0ujT2z8Pz9Z4PPdLSYsuw1)
+- [Angel Face Disaster by Besso, Charlie Besso, blue my mind](https://open.spotify.com/track/4o3KCsVVSDOmyp0tTYyw8S)
+- [Can You Feel It? by Coffee Cub](https://open.spotify.com/track/5ebQzc6OSS8o4Iztb0cPw2)
+- [Daydreams by Calm Springs, Donna Senders, Cal1](https://open.spotify.com/track/5LsKH0xvpdlKdE0RUR023Q)
+- [Makeda by Alice DiMar](https://open.spotify.com/track/4kar5EtR271EvY3FIFsnJP)
+- [Sunny by Deepend, LAST CALL](https://open.spotify.com/track/5W8wJVjLdQanAq7boqQ7c8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
