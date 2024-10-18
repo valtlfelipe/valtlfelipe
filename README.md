@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Safe House by LOWKEY, Steam Phunk, JAIKO](https://open.spotify.com/track/09fYMdR8lPHQKgyQ2URs7a)
-- [Lemonade (feat. SEM) by outset island, Spijk, SEM](https://open.spotify.com/track/35VTDdIaIuTg6G8UWg7IMN)
-- [My Call by TEMP!E, James Lacey](https://open.spotify.com/track/5AZEgjgFgUSFxczcQSzU13)
-- [Before I Let You Go (feat. MarcLo) by CYRIL, MarcLo](https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs)
-- [Save Me Now by FLX](https://open.spotify.com/track/1m7JH2anPjNzUDmusvbOyL)
+- [Just A Sunset by Cale, Rachel Morgan Perry](https://open.spotify.com/track/1K7vWwvhNFi8oDWX66OYHg)
+- [How Deep Is Your Love by fwd/slash](https://open.spotify.com/track/6whE9W4LkAaTyltd0Y44jm)
+- [Blew My Mind by Mike D&#39; Jais, Fabio Vee](https://open.spotify.com/track/5lppspIY80fgqiYVZsbaAw)
+- [Fire in You by Fargro](https://open.spotify.com/track/5TwKgFNIieJyFP9Phhvhjo)
+- [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
