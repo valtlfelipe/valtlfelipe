@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Off Limits by Welcome2hills, Calm Springs, BABY TITA](https://open.spotify.com/track/1XpRZiCQrNGLwFJBpiNIz0)
-- [Something About You by Hayden James](https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n)
-- [Body on Fire by SOMMA, Dillistone](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV)
-- [Yamore by MoBlack, Salif Keita, Benja (NL), Franc Fala, Cesária Evora](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm)
-- [coffee on ibiza (feat. SIR NOTCH) by Mathieu Koss, SIR NOTCH](https://open.spotify.com/track/1mScgcBij2Yy1rsBHh5U3d)
+- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
+- [End of Time by LO, Baked Moon](https://open.spotify.com/track/20w31R2Jdg599kjTQW3jDF)
+- [Feel Good Inc. by nowifi, Dūne](https://open.spotify.com/track/2vOrd0cfy84Wsx2j5BSqlZ)
+- [Lunar Eclipse by Besso, Miriam Cooper](https://open.spotify.com/track/5kJcizlIh307M97sktNJ1y)
+- [June by Thierry Von Der Warth, Carston, Horizon Blue](https://open.spotify.com/track/1xfj8i1OvEhqJmWncOV2d5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
