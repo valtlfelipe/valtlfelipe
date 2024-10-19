@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (4 days ago)
 
 #### 🎧 What I have been listening
+- [The Sky Is Clear by Niicap, Robertson](https://open.spotify.com/track/1vbgLS25gmomRIPRNTGW55)
+- [Nights Like This by TIANBO, Lind, Indicate, Melissa Lamm](https://open.spotify.com/track/5CkBf0VwcR2cqfmoJuPAUE)
+- [Lose My Mind by Jamie Jones](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS)
+- [Rise by Lost Frequencies](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf)
 - [Pieces by AVAION](https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1)
-- [Music is Better by RÜFÜS DU SOL](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw)
-- [New Religion by Vowed](https://open.spotify.com/track/2rp75MWlFCfO0TgA2sqGvY)
-- [The Best Part by gardenstate, Bien](https://open.spotify.com/track/2OBaoP7DfWvlm4gc0QPkgg)
-- [Want You Here by aericsn](https://open.spotify.com/track/0Nfnpl44CTP9RcE3jRLhYQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
