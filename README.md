@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (4 days ago)
 
 #### 🎧 What I have been listening
-- [It&#39;s Alright by blue my mind, Indy Seven, J.O.Y](https://open.spotify.com/track/0NLL5lJAhtUa2hXmh7Eyqx)
-- [Back To You by Lost Frequencies, Elley Duhé, X Ambassadors](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e)
-- [Forever Young by Goldistic](https://open.spotify.com/track/4iloEnz4WMeffiwGE8uhQJ)
-- [The Best by Thomas Geelens, sleepy dude](https://open.spotify.com/track/3HH9Hu8rGpTPsZlmb0J8t5)
-- [Body by Elderbrook](https://open.spotify.com/track/5nbq4CyzheTl7BLPR3caJY)
+- [Pieces by AVAION](https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1)
+- [Music is Better by RÜFÜS DU SOL](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw)
+- [New Religion by Vowed](https://open.spotify.com/track/2rp75MWlFCfO0TgA2sqGvY)
+- [The Best Part by gardenstate, Bien](https://open.spotify.com/track/2OBaoP7DfWvlm4gc0QPkgg)
+- [Want You Here by aericsn](https://open.spotify.com/track/0Nfnpl44CTP9RcE3jRLhYQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
