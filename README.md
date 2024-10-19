@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (4 days ago)
 
 #### 🎧 What I have been listening
-- [The Sky Is Clear by Niicap, Robertson](https://open.spotify.com/track/1vbgLS25gmomRIPRNTGW55)
-- [Nights Like This by TIANBO, Lind, Indicate, Melissa Lamm](https://open.spotify.com/track/5CkBf0VwcR2cqfmoJuPAUE)
-- [Lose My Mind by Jamie Jones](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS)
-- [Rise by Lost Frequencies](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf)
-- [Pieces by AVAION](https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1)
+- [Off Limits by Welcome2hills, Calm Springs, BABY TITA](https://open.spotify.com/track/1XpRZiCQrNGLwFJBpiNIz0)
+- [Something About You by Hayden James](https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n)
+- [Body on Fire by SOMMA, Dillistone](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV)
+- [Yamore by MoBlack, Salif Keita, Benja (NL), Franc Fala, Cesária Evora](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm)
+- [coffee on ibiza (feat. SIR NOTCH) by Mathieu Koss, SIR NOTCH](https://open.spotify.com/track/1mScgcBij2Yy1rsBHh5U3d)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
