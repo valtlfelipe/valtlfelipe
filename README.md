@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
-- [Morning Light - Kayote Remix by Dion Isaiah, Kayote](https://open.spotify.com/track/715ifzvhUmXYTPNbFnpxG4)
-- [Hurt by Does it matter](https://open.spotify.com/track/3xwys3gdpqhoMh2KagQt7w)
-- [Around We Go - Revered Remix by The Orange Cave, Revered](https://open.spotify.com/track/7JcyVU9InqaFWeDlLMGZRG)
-- [Walking On A Dream by Foínix, Yann Muller, Jordan Grace, Rolipso](https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo)
+- [Life by ConKi](https://open.spotify.com/track/5LOTtadWBsGDLMQMC0tl2z)
+- [New Rules - KREAM Remix by Dua Lipa, KREAM](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4)
+- [Reload - Radio Edit by Sebastian Ingrosso, Tommy Trash, John Martin](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO)
+- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
+- [Stars (feat. Steve Winwood) by BURNS, Steve Winwood](https://open.spotify.com/track/1YQ7HRuo0LwRcWab3IaDJc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
