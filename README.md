@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
-- [End of Time by LO, Baked Moon](https://open.spotify.com/track/20w31R2Jdg599kjTQW3jDF)
-- [Feel Good Inc. by nowifi, Dūne](https://open.spotify.com/track/2vOrd0cfy84Wsx2j5BSqlZ)
-- [Lunar Eclipse by Besso, Miriam Cooper](https://open.spotify.com/track/5kJcizlIh307M97sktNJ1y)
-- [June by Thierry Von Der Warth, Carston, Horizon Blue](https://open.spotify.com/track/1xfj8i1OvEhqJmWncOV2d5)
+- [Halo by Kayote, Gabriel Wittner, Ola Martin](https://open.spotify.com/track/0lBESSkKhjXWOlBz7KD9YZ)
+- [Woods by Tobias Bergson](https://open.spotify.com/track/53yJeEdRCPyo1GddFzjW7W)
+- [Scared Of The Dark by Friends &amp; I](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ)
+- [Djon maya maï (feat. Victor Démé) by Synapson, Victor Démé](https://open.spotify.com/track/3hxRKXzZS0XRYGZ123JDNH)
+- [What If We Let Go (feat. Sam Welch) by LEDUC, Bastyan, Sam Welch](https://open.spotify.com/track/094ytaIC90FNjxPFpdgcHP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
