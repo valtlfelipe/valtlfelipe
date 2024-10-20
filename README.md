@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Stupid Man (feat. Michael Hausted) by Rolih, Michael Hausted](https://open.spotify.com/track/2otm2XRW176CP0OFIcdJyl)
-- [Home by Klangkarussell](https://open.spotify.com/track/2S5Ddttb7db90WNDde1UJx)
-- [Fade Out Lines - The Avener Rework by The Avener, Phoebe Killdeer](https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV)
-- [Always Feel by Willow, Miravo](https://open.spotify.com/track/3YIu4iBTh7Z4pK7HEyaXkk)
-- [Oceans Away by Moonkids](https://open.spotify.com/track/13ZGGIr9CyzOsHWI1mlOrK)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [Morning Light - Kayote Remix by Dion Isaiah, Kayote](https://open.spotify.com/track/715ifzvhUmXYTPNbFnpxG4)
+- [Hurt by Does it matter](https://open.spotify.com/track/3xwys3gdpqhoMh2KagQt7w)
+- [Around We Go - Revered Remix by The Orange Cave, Revered](https://open.spotify.com/track/7JcyVU9InqaFWeDlLMGZRG)
+- [Walking On A Dream by Foínix, Yann Muller, Jordan Grace, Rolipso](https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
