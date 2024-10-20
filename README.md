@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Life by ConKi](https://open.spotify.com/track/5LOTtadWBsGDLMQMC0tl2z)
-- [New Rules - KREAM Remix by Dua Lipa, KREAM](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4)
-- [Reload - Radio Edit by Sebastian Ingrosso, Tommy Trash, John Martin](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO)
-- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
-- [Stars (feat. Steve Winwood) by BURNS, Steve Winwood](https://open.spotify.com/track/1YQ7HRuo0LwRcWab3IaDJc)
+- [greedy - cassö remix by Tate McRae, cassö](https://open.spotify.com/track/4MhxagNeAqtTdy9ht8tQo5)
+- [Lavender Haze - Felix Jaehn Remix by Taylor Swift, Felix Jaehn](https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi)
+- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL)
+- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
+- [Cold Heart - PS1 Remix by Elton John, Dua Lipa, PS1](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
