@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (5 days ago)
 
 #### 🎧 What I have been listening
+- [2 Be Loved (Am I Ready) [PNAU Remix] by Lizzo, PNAU](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q)
+- [Sunshine (My Girl) - Sofi Tukker Remix by Wuki, Sofi Tukker](https://open.spotify.com/track/5cdauxzCnViQEruce9myFV)
+- [My Oh My by Ava Max](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx)
 - [greedy - cassö remix by Tate McRae, cassö](https://open.spotify.com/track/4MhxagNeAqtTdy9ht8tQo5)
 - [Lavender Haze - Felix Jaehn Remix by Taylor Swift, Felix Jaehn](https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi)
-- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL)
-- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
-- [Cold Heart - PS1 Remix by Elton John, Dua Lipa, PS1](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
