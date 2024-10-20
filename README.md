@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Halo by Kayote, Gabriel Wittner, Ola Martin](https://open.spotify.com/track/0lBESSkKhjXWOlBz7KD9YZ)
-- [Woods by Tobias Bergson](https://open.spotify.com/track/53yJeEdRCPyo1GddFzjW7W)
-- [Scared Of The Dark by Friends &amp; I](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ)
-- [Djon maya maï (feat. Victor Démé) by Synapson, Victor Démé](https://open.spotify.com/track/3hxRKXzZS0XRYGZ123JDNH)
-- [What If We Let Go (feat. Sam Welch) by LEDUC, Bastyan, Sam Welch](https://open.spotify.com/track/094ytaIC90FNjxPFpdgcHP)
+- [Stupid Man (feat. Michael Hausted) by Rolih, Michael Hausted](https://open.spotify.com/track/2otm2XRW176CP0OFIcdJyl)
+- [Home by Klangkarussell](https://open.spotify.com/track/2S5Ddttb7db90WNDde1UJx)
+- [Fade Out Lines - The Avener Rework by The Avener, Phoebe Killdeer](https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV)
+- [Always Feel by Willow, Miravo](https://open.spotify.com/track/3YIu4iBTh7Z4pK7HEyaXkk)
+- [Oceans Away by Moonkids](https://open.spotify.com/track/13ZGGIr9CyzOsHWI1mlOrK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
