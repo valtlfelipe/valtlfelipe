@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Dancing With A Stranger by KYRIL](https://open.spotify.com/track/2kd18BPu7WfVef3v3zU9gb)
-- [Wildfire by Alterlite, Aexcit](https://open.spotify.com/track/2MiMohacTqTf8upgaTRlOy)
-- [A Blessing in Disguise by Homem, lunne.](https://open.spotify.com/track/6s0lRuSmYHZG7cDXkPGx4o)
-- [Never Let You Go by Robin Tayger](https://open.spotify.com/track/4DPOZ4tuBMFJfRw2kn4eSj)
-- [Clocks - Sign of the Times Remix by Ituana](https://open.spotify.com/track/45jsSaCyemHxEw0LMQETtr)
+- [Tell Me by D3EPANK](https://open.spotify.com/track/1mrnWxqlr5ynXWTS0L0Bcp)
+- [All the Way by Piece Wise, Eloi El](https://open.spotify.com/track/5mHt8xsbIW661fnMBOwlTw)
+- [Hit Me Up by Relŭm](https://open.spotify.com/track/57buA4rb3l8Ranm7xqF9GD)
+- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
+- [Losing Sight by Eijk, CLOVER](https://open.spotify.com/track/4e5BPVd9A4UBLZBsRPxJ9E)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
