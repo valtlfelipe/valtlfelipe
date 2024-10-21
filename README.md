@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (6 days ago)
 
 #### 🎧 What I have been listening
-- [How Will I Know by Dallien, Danny CLLS, nøya.](https://open.spotify.com/track/48B3FbaoxaYKbZo5uIHoBU)
-- [Sun Goes Down by Lust.](https://open.spotify.com/track/3kPIZSLfDSolV56G8c7wMi)
-- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
-- [Flower by Piece Wise, AURIq, ALLKNIGHT](https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh)
-- [Say Say Say - Lost Coconut Remix by Eve St. Jones, Lost Coconut](https://open.spotify.com/track/3wzhp85h98vtAGRZ6W1bUO)
+- [That Feeling by Ruffnux, LuvLess](https://open.spotify.com/track/5K1TYB2NvGDJ0aWabAXlzc)
+- [the møre that i dø by birø, JAIKO](https://open.spotify.com/track/1AWmsq8nATWMglHeWeup0B)
+- [Boardwalk Lullaby by Sum Wave](https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc)
+- [Emotion by Amphitryon, Drics, lunne.](https://open.spotify.com/track/65B1HcgEbUiCcuySno863b)
+- [beautiful mind by rayn, Kusko, River Atley](https://open.spotify.com/track/0qi9yGpX9CO5s5rvYIXkvH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
