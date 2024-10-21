@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
-- [Saxophone Beat by Small ToK, Michael FAY, Elamar](https://open.spotify.com/track/0T15gVTsijhN7yeMKINBwf)
-- [Memories by Sunmoon](https://open.spotify.com/track/2YEx4eDIQ6Bj7CWDXQQiMv)
-- [Don&#39;t Know How by D3EPANK](https://open.spotify.com/track/5YXBazSdhGyFw1ZWSqWCqN)
-- [Promises by Adrian Knows, Aexcit](https://open.spotify.com/track/10cB40FA9AnOPvwJdHd1Ni)
+- [Slow Ride by Tom Kha](https://open.spotify.com/track/0XctMMb3RQ3HNQwn04jAd5)
+- [On The Run by NVRT](https://open.spotify.com/track/2qI55suh5Otdu3NdxLeBzY)
+- [This Game by Jane Good, Aimi](https://open.spotify.com/track/28FAzgnGO0PWpUUoiflHKT)
+- [Life Goes On by Friends &amp; I](https://open.spotify.com/track/3nJCkXH6iLaF9T2vBeHPcw)
+- [Sunday Vibe by James Lacey](https://open.spotify.com/track/0R4rV2BoKcNz1gIALk76HH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
