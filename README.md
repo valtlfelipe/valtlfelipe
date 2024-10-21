@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Walking On a Dream by NEIMY](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf)
-- [With You by Junerule, Daïtshi, Yvette Adams](https://open.spotify.com/track/0RtuTYxFWbNizF1rhgPYcv)
-- [Breathe by Mateo](https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn)
-- [Slow Ride by Tom Kha](https://open.spotify.com/track/0XctMMb3RQ3HNQwn04jAd5)
-- [On The Run by NVRT](https://open.spotify.com/track/2qI55suh5Otdu3NdxLeBzY)
+- [Over The Moon (feat. ARI.) by NIVEK, ARI.](https://open.spotify.com/track/7wL01RC9lYtRR593d6KdOZ)
+- [Night Drive by Relŭm](https://open.spotify.com/track/1O7lD7lSbZaR6zaRBfPyj5)
+- [Sitting Down Here by James Lacey, Mallou](https://open.spotify.com/track/57uIbqGJo7Ko0W5B45a2Vq)
+- [follow by puulse](https://open.spotify.com/track/2BZkzlFZx4XZSSLPONjdt3)
+- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
