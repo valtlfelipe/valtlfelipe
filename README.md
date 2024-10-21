@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Summertime Sadness by Fransii, Modern Culture](https://open.spotify.com/track/5dYVesofi4rE4W9csQEfP7)
-- [Never Let You Go by Daïtshi, Teva, Tim d&#39;Aboville](https://open.spotify.com/track/1Pd5wADGQFTDKZsSpuMlVS)
-- [Rescue by OLWIK, Davis Mallory](https://open.spotify.com/track/6Nt2GFBD6D5MIBqid8MUjG)
-- [2 Be Loved (Am I Ready) [PNAU Remix] by Lizzo, PNAU](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q)
-- [Sunshine (My Girl) - Sofi Tukker Remix by Wuki, Sofi Tukker](https://open.spotify.com/track/5cdauxzCnViQEruce9myFV)
+- [I Know by SAINT., RAZZ](https://open.spotify.com/track/2wuvdG3KCdfOnXt63yZ5Do)
+- [Return of the Mack by Jaxx Inc.](https://open.spotify.com/track/3xqDDeKwslgBwccnXfsqfk)
+- [Wonderwall by John Skyfield](https://open.spotify.com/track/3bwXeNdNrk4flEXGLZ6YiZ)
+- [Kingdom - Bless You Remix by PRISMA, Bless You](https://open.spotify.com/track/6N19eFizGDxZs9sCSalsaX)
+- [Deep Down by Cookie Crumble, Ludona](https://open.spotify.com/track/3g58PKTK6IXfo9DSLsMJgW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
