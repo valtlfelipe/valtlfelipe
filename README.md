@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (6 days ago)
 
 #### 🎧 What I have been listening
-- [That Feeling by Ruffnux, LuvLess](https://open.spotify.com/track/5K1TYB2NvGDJ0aWabAXlzc)
-- [the møre that i dø by birø, JAIKO](https://open.spotify.com/track/1AWmsq8nATWMglHeWeup0B)
-- [Boardwalk Lullaby by Sum Wave](https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc)
-- [Emotion by Amphitryon, Drics, lunne.](https://open.spotify.com/track/65B1HcgEbUiCcuySno863b)
-- [beautiful mind by rayn, Kusko, River Atley](https://open.spotify.com/track/0qi9yGpX9CO5s5rvYIXkvH)
+- [Don&#39;t Know How by D3EPANK](https://open.spotify.com/track/5YXBazSdhGyFw1ZWSqWCqN)
+- [Promises by Adrian Knows, Aexcit](https://open.spotify.com/track/10cB40FA9AnOPvwJdHd1Ni)
+- [Sunset Memories by Sum Wave](https://open.spotify.com/track/6N4PYS4Go8XrcRMAwJW0Go)
+- [Million Little Stars by Lust.](https://open.spotify.com/track/2oe8iA4MHQnMD93f4cbcsN)
+- [Miss You More by Tom Kha](https://open.spotify.com/track/2UiZ4MN04um3IDCz89sCG3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
