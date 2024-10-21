@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Sunbeams by NSH](https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA)
-- [Another Lie by Panuma, Vice Vrsa, Mark Vayne](https://open.spotify.com/track/7L7K5rblvGEuRGGJLyR6lV)
-- [King Of My Castle by P.A.V](https://open.spotify.com/track/5LxyquGewR6aslYfqXfW24)
-- [A Million Suns by Piece Wise, YVMV, DTT Felix](https://open.spotify.com/track/4pfkkhXNUrzzQH11CjBYcv)
-- [Fire in You by Fargro](https://open.spotify.com/track/5TwKgFNIieJyFP9Phhvhjo)
+- [How Will I Know by Dallien, Danny CLLS, nøya.](https://open.spotify.com/track/48B3FbaoxaYKbZo5uIHoBU)
+- [Sun Goes Down by Lust.](https://open.spotify.com/track/3kPIZSLfDSolV56G8c7wMi)
+- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
+- [Flower by Piece Wise, AURIq, ALLKNIGHT](https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh)
+- [Say Say Say - Lost Coconut Remix by Eve St. Jones, Lost Coconut](https://open.spotify.com/track/3wzhp85h98vtAGRZ6W1bUO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
