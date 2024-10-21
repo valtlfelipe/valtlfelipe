@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (6 days ago)
 
 #### 🎧 What I have been listening
-- [I Know by SAINT., RAZZ](https://open.spotify.com/track/2wuvdG3KCdfOnXt63yZ5Do)
-- [Return of the Mack by Jaxx Inc.](https://open.spotify.com/track/3xqDDeKwslgBwccnXfsqfk)
-- [Wonderwall by John Skyfield](https://open.spotify.com/track/3bwXeNdNrk4flEXGLZ6YiZ)
-- [Kingdom - Bless You Remix by PRISMA, Bless You](https://open.spotify.com/track/6N19eFizGDxZs9sCSalsaX)
-- [Deep Down by Cookie Crumble, Ludona](https://open.spotify.com/track/3g58PKTK6IXfo9DSLsMJgW)
+- [Dancing With A Stranger by KYRIL](https://open.spotify.com/track/2kd18BPu7WfVef3v3zU9gb)
+- [Wildfire by Alterlite, Aexcit](https://open.spotify.com/track/2MiMohacTqTf8upgaTRlOy)
+- [A Blessing in Disguise by Homem, lunne.](https://open.spotify.com/track/6s0lRuSmYHZG7cDXkPGx4o)
+- [Never Let You Go by Robin Tayger](https://open.spotify.com/track/4DPOZ4tuBMFJfRw2kn4eSj)
+- [Clocks - Sign of the Times Remix by Ituana](https://open.spotify.com/track/45jsSaCyemHxEw0LMQETtr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
