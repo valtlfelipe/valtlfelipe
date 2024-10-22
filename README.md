@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Faded Rose by NSH](https://open.spotify.com/track/5dSDf2TwSNtW3BSxceyxNt)
-- [The One That Got Away by Jane Good, Makado, Quinn Casado](https://open.spotify.com/track/1xIn3CVcM7kXJy3yEgzv4W)
-- [Interstate by Farlight](https://open.spotify.com/track/5oZQDQNtHaYNEyhKH53sBc)
-- [How Deep Is My Love by TauTou](https://open.spotify.com/track/08yN1LynMDfNZvaEoXwN3M)
-- [nostalgia by Altero, Courtney Storm](https://open.spotify.com/track/6P145UblEPK6eXBtQYcbLG)
+- [Waiting For Tonight by TWOPILOTS](https://open.spotify.com/track/6eKxQoGNNxvHy8R2W0Pmlg)
+- [Used To Believe by NSH](https://open.spotify.com/track/6ErCBDr5mfwDIVXE5uIGYp)
+- [Come Alive by Jake and the colors](https://open.spotify.com/track/4uqls8UNqKMx34XMwvUrGm)
+- [Free by Coffee Cub](https://open.spotify.com/track/2Shm6zYtlexG45xAu1oxg8)
+- [Chasing Time by Thierry Von Der Warth, Jay Mason, Edwardo Atlas](https://open.spotify.com/track/6vg9PnlpahS0y0Tuuix442)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
