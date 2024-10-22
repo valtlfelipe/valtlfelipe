@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Moves She Makes by Merdy, Badscandal](https://open.spotify.com/track/4hYH1GsbcNIw9VlPh0K70C)
-- [All The Songs by Nick Peters, Louis III](https://open.spotify.com/track/5oA3tiyOv8pNM7yh4YwY4q)
-- [Follow the Sun by NEIMY](https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute)
-- [Blossom by Willow, YVMV](https://open.spotify.com/track/4SgjQcULlbOSQQqdpPQyHW)
-- [Seasons by James Lacey, Aimi](https://open.spotify.com/track/1yjBLNNJ5Ysk2dPKfbYngk)
+- [Summertime Sadness by A17N, NAAC](https://open.spotify.com/track/13N5QeYhchuiUmchfwjs8m)
+- [Sunset Sessions Part 2 by Tobÿ](https://open.spotify.com/track/1JT1l1FgOFV9UHviYSqNTG)
+- [Dreaming by MUNICH MONSTRS](https://open.spotify.com/track/6jRrwGlHkkd9d6C5AMUKGE)
+- [Pineapple Fields by NSH](https://open.spotify.com/track/0Azm5zjNW7scVyUnVzFne4)
+- [So Dumb by Deep Chills, Felix Samuel](https://open.spotify.com/track/58ePgow5ettzpeMijr9Vto)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
