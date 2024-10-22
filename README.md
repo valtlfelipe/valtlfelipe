@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Waiting For Tonight by TWOPILOTS](https://open.spotify.com/track/6eKxQoGNNxvHy8R2W0Pmlg)
-- [Used To Believe by NSH](https://open.spotify.com/track/6ErCBDr5mfwDIVXE5uIGYp)
-- [Come Alive by Jake and the colors](https://open.spotify.com/track/4uqls8UNqKMx34XMwvUrGm)
-- [Free by Coffee Cub](https://open.spotify.com/track/2Shm6zYtlexG45xAu1oxg8)
-- [Chasing Time by Thierry Von Der Warth, Jay Mason, Edwardo Atlas](https://open.spotify.com/track/6vg9PnlpahS0y0Tuuix442)
+- [Sky Full of Stars by Deep Chills, ROBINS](https://open.spotify.com/track/4UpYakQ4KGKtebDsZ6Hx1w)
+- [Let Go by Alex Martura](https://open.spotify.com/track/0Bary1wm0KXq4SaU5Cv1Co)
+- [Blame by D3EPANK, EDGR](https://open.spotify.com/track/2ldTkNft1AEe2HvegQwoy7)
+- [Everything by Mateo, Cotton Duck](https://open.spotify.com/track/2uFNb6giZA7zhyXjM5kFnJ)
+- [Ride It by SAKKO, Danna Max](https://open.spotify.com/track/37Wt5QGJvlow37dziZw4Y6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
