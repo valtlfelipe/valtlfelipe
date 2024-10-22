@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
-- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
-- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
-- [Free My Mind by ENLIV3N](https://open.spotify.com/track/4ysacrZnJmUjvvseHfFlvn)
-- [Give Me The Love by D3EPANK, ENLIV3N](https://open.spotify.com/track/58iQWJZhzStie1hsYJt3a0)
+- [Green Lime by Nymano, Suuna](https://open.spotify.com/track/1WHjbLodpNRRU7QZVRvPV5)
+- [Still Looking by J.Folk](https://open.spotify.com/track/3JTOqE6ZHjGaNDeUtrBOHO)
+- [Haïku by Kissamilé](https://open.spotify.com/track/2hZVPO0zMuVTOd12Ckq8fV)
+- [Rain or Shine by Birocratic, Middle School](https://open.spotify.com/track/13a7moFPldTMda8068bVa8)
+- [Power Plant by Mama Aiuto](https://open.spotify.com/track/0htw0ShUySzDoVR08YW8h0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
