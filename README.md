@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Summertime Sadness by A17N, NAAC](https://open.spotify.com/track/13N5QeYhchuiUmchfwjs8m)
-- [Sunset Sessions Part 2 by Tobÿ](https://open.spotify.com/track/1JT1l1FgOFV9UHviYSqNTG)
-- [Dreaming by MUNICH MONSTRS](https://open.spotify.com/track/6jRrwGlHkkd9d6C5AMUKGE)
-- [Pineapple Fields by NSH](https://open.spotify.com/track/0Azm5zjNW7scVyUnVzFne4)
-- [So Dumb by Deep Chills, Felix Samuel](https://open.spotify.com/track/58ePgow5ettzpeMijr9Vto)
+- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
+- [Letting Go by Farlight](https://open.spotify.com/track/1QNBWBATEoI7J0JO68SKA1)
+- [see it too by Altero, Megggi](https://open.spotify.com/track/4XFrGc9OyYWpsnhjqSgEl2)
+- [Weightless by NSH, Kidd Thorn](https://open.spotify.com/track/1MHc8EaFqSSgWb3WrqN2iq)
+- [I Gotta Know by Friends &amp; I](https://open.spotify.com/track/1Nqu11rkbyktIQgYEwHKDW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
