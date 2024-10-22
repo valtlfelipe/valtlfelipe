@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Over The Moon (feat. ARI.) by NIVEK, ARI.](https://open.spotify.com/track/7wL01RC9lYtRR593d6KdOZ)
-- [Night Drive by Relŭm](https://open.spotify.com/track/1O7lD7lSbZaR6zaRBfPyj5)
-- [Sitting Down Here by James Lacey, Mallou](https://open.spotify.com/track/57uIbqGJo7Ko0W5B45a2Vq)
-- [follow by puulse](https://open.spotify.com/track/2BZkzlFZx4XZSSLPONjdt3)
-- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
+- [Moves She Makes by Merdy, Badscandal](https://open.spotify.com/track/4hYH1GsbcNIw9VlPh0K70C)
+- [All The Songs by Nick Peters, Louis III](https://open.spotify.com/track/5oA3tiyOv8pNM7yh4YwY4q)
+- [Follow the Sun by NEIMY](https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute)
+- [Blossom by Willow, YVMV](https://open.spotify.com/track/4SgjQcULlbOSQQqdpPQyHW)
+- [Seasons by James Lacey, Aimi](https://open.spotify.com/track/1yjBLNNJ5Ysk2dPKfbYngk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
