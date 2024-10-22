@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sky Full of Stars by Deep Chills, ROBINS](https://open.spotify.com/track/4UpYakQ4KGKtebDsZ6Hx1w)
-- [Let Go by Alex Martura](https://open.spotify.com/track/0Bary1wm0KXq4SaU5Cv1Co)
-- [Blame by D3EPANK, EDGR](https://open.spotify.com/track/2ldTkNft1AEe2HvegQwoy7)
-- [Everything by Mateo, Cotton Duck](https://open.spotify.com/track/2uFNb6giZA7zhyXjM5kFnJ)
-- [Ride It by SAKKO, Danna Max](https://open.spotify.com/track/37Wt5QGJvlow37dziZw4Y6)
+- [Kingdom - Bless You Remix by PRISMA, Bless You](https://open.spotify.com/track/6N19eFizGDxZs9sCSalsaX)
+- [Deep Down by Cookie Crumble, Ludona](https://open.spotify.com/track/3g58PKTK6IXfo9DSLsMJgW)
+- [Nice To Meet You by Charlie Boulala, Summer Vibes](https://open.spotify.com/track/5I2FgyaNJMvr2dwO8ZqldD)
+- [Remember Me by aiden, Amaranth Skies, nika jane](https://open.spotify.com/track/6i7p1ebvBqZGW0snZGwUiX)
+- [Oh No You Didn&#39;t (Clear Six Remix) by Hix, Kelli-Leigh, Clear Six](https://open.spotify.com/track/7LHpkmMCScjJAwVFTRKy0X)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
