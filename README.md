@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Catch Another Tide by Thierry Von Der Warth, NSH](https://open.spotify.com/track/6VvUHvbrWKrVvlndasAAgv)
-- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
-- [Letting Go by Farlight](https://open.spotify.com/track/1QNBWBATEoI7J0JO68SKA1)
-- [see it too by Altero, Megggi](https://open.spotify.com/track/4XFrGc9OyYWpsnhjqSgEl2)
-- [Weightless by NSH, Kidd Thorn](https://open.spotify.com/track/1MHc8EaFqSSgWb3WrqN2iq)
+- [Faded Rose by NSH](https://open.spotify.com/track/5dSDf2TwSNtW3BSxceyxNt)
+- [The One That Got Away by Jane Good, Makado, Quinn Casado](https://open.spotify.com/track/1xIn3CVcM7kXJy3yEgzv4W)
+- [Interstate by Farlight](https://open.spotify.com/track/5oZQDQNtHaYNEyhKH53sBc)
+- [How Deep Is My Love by TauTou](https://open.spotify.com/track/08yN1LynMDfNZvaEoXwN3M)
+- [nostalgia by Altero, Courtney Storm](https://open.spotify.com/track/6P145UblEPK6eXBtQYcbLG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
