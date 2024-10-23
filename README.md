@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control)** - A highly configurable cookie banner for Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Last Hand by Bao, Venuz Beats](https://open.spotify.com/track/1KDPieiNDmhSsLtn52Q1Rh)
-- [n64 by Masked Man](https://open.spotify.com/track/5VpZaGRpOtWB0IQJprV5aX)
-- [Petaldrift by Birocratic, Sweeps, Enluv](https://open.spotify.com/track/0kGhrrjQrxPP7GB1ZrbhH0)
-- [melina by Ward Wills](https://open.spotify.com/track/59NDzVdOqQwEIx2PXI1Ipv)
-- [even though i tried by Ward Wills](https://open.spotify.com/track/3owoh4wKmcbMfOUnFGaZ1Z)
+- [Shards by Plusma, Frogman](https://open.spotify.com/track/6c5hmRMe6X7t6xNNdQapC0)
+- [Bliss by Parkbench Epiphany](https://open.spotify.com/track/5qzTEI2FidM7zACt8bzd9n)
+- [Watermill by C4C, Leavv](https://open.spotify.com/track/2NZ6ajXt2n92xkkRaUN6zl)
+- [Dream Girl by Strehlow](https://open.spotify.com/track/3aiqgRAbtibEmjMvpZgb4Q)
+- [Roadtrips by Arbour](https://open.spotify.com/track/1Tc5vjg3ZNpnplp0UgVEv9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
