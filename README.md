@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control)** - A highly configurable cookie banner for Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Ish Happens by Masked Man](https://open.spotify.com/track/2zwdrNQJa3ITt6eTTydBdK)
-- [Let Go (Philanthrope Remix) by Boukas, A D M B, Philanthrope](https://open.spotify.com/track/64wGM72SQ29IoQ8nsy3fGz)
-- [Cafe – Remix by Leavv by Leavv](https://open.spotify.com/track/6FyZcSoBzfREuwBj7x39qm)
-- [Spring by Thelonious Coltrane](https://open.spotify.com/track/0kyUCdSbweZ5l8hBlKgDcj)
-- [Loup Solitaire by Lascko](https://open.spotify.com/track/3uVppRCCnlTPHyWpf08Ejh)
+- [Timelapse by Kissamilé](https://open.spotify.com/track/1wlPzXujZbhu88wezMtvSR)
+- [Summer in Cotuit by Teddy Roxpin](https://open.spotify.com/track/4WOxbnprwScrFppYjslr7X)
+- [Anglers Rest by Stan Forebee](https://open.spotify.com/track/7sqOHafpzC06PUHeDjYig1)
+- [Flight 1 by Bao, Aaron Terrapin](https://open.spotify.com/track/0FvtvEdiJC7LskIoVcUeUj)
+- [Camp Friends by Strehlow, azayaka](https://open.spotify.com/track/4rzl926ps9oGPHpB7btUUu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
