@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Looming by Birocratic, Dotlights](https://open.spotify.com/track/7HSbTmUjROd5iOHkWkNhQq)
-- [Castles by SwuM, Chris Mazuera](https://open.spotify.com/track/7LfmWyvDwCsBIdSV7jCK76)
-- [Woodlander by invention_](https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs)
-- [Clementine. by chromo, the dreamer](https://open.spotify.com/track/7KKJgqd6EpJRAulRTVldRw)
-- [Foresight by Enough Cereals](https://open.spotify.com/track/5HJkjmNBU30nCwMIphmy0g)
+- [Dahri by Afroham](https://open.spotify.com/track/4vLEjosTXyhmvJOyHIzJJ1)
+- [Things Fall Apart Pt.2 by Philanthrope](https://open.spotify.com/track/4rvKsd4SDvsHutqQBlsaXP)
+- [Spanish by Tesk](https://open.spotify.com/track/6XpHgm5BEFv2pRirw6cS5U)
+- [rosemary whispers by santpoort](https://open.spotify.com/track/2cviOWo4YY8Fg5vvjX94VP)
+- [Growing Pains by Arbour](https://open.spotify.com/track/0OnEjssDb9Me5EfiKxY2WO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
