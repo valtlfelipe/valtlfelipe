@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control)** - A highly configurable cookie banner for Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Timelapse by Kissamilé](https://open.spotify.com/track/1wlPzXujZbhu88wezMtvSR)
-- [Summer in Cotuit by Teddy Roxpin](https://open.spotify.com/track/4WOxbnprwScrFppYjslr7X)
-- [Anglers Rest by Stan Forebee](https://open.spotify.com/track/7sqOHafpzC06PUHeDjYig1)
-- [Flight 1 by Bao, Aaron Terrapin](https://open.spotify.com/track/0FvtvEdiJC7LskIoVcUeUj)
-- [Camp Friends by Strehlow, azayaka](https://open.spotify.com/track/4rzl926ps9oGPHpB7btUUu)
+- [Tether by Makzo, Bcalm](https://open.spotify.com/track/3jNZ1Rjlq9dByI1jvAYzyD)
+- [Wherever You Are by DESH](https://open.spotify.com/track/5O598vz5kl36tXEW0l3hKV)
+- [Impossible by Chris Mazuera](https://open.spotify.com/track/1pbuzWPsy4oqmH4YeQTY0J)
+- [Mujo by SwuM](https://open.spotify.com/track/2xAYYJoeI9hbG5IOzFrWRF)
+- [autumn breeze by Nymano, j&#39;san](https://open.spotify.com/track/40Qz4L9b200KldNemzMvGl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
