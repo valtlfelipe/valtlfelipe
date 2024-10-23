@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Depart by SwuM](https://open.spotify.com/track/4b53lUfdGEJQp4qmVxgZi6)
-- [moonstone by Ian Ewing](https://open.spotify.com/track/1YY2lkGfEpClofFJDjgyTI)
-- [Long Term Parking by Dotlights, lst drm](https://open.spotify.com/track/6fanE3yCNrl6Arei2fa0S2)
-- [Belly Breathing by Birocratic](https://open.spotify.com/track/62vsJLMFvUpSEdT6Lop89a)
-- [Daylight by Kissamilé](https://open.spotify.com/track/0LBwWEvSSZG22RMEmnqGkP)
+- [Bloom by Leavv, Midan](https://open.spotify.com/track/3h3ioAl9ks6UMJ77Gjuzsk)
+- [Childhood Dream by Masked Man](https://open.spotify.com/track/4RH4FbTG8vAUTli3X4ro9f)
+- [Old Bridge by Leavv](https://open.spotify.com/track/1hBY1U727lpCcxmtx7aPjr)
+- [Slow Burn by Blue Wednesday](https://open.spotify.com/track/4Oogk5tMPLaS5prGURgsjk)
+- [Rhodes Less Traveled by Teddy Roxpin, MAXIMILLIAN](https://open.spotify.com/track/0rhCJkDqiecLZGcnDG1Vs7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
