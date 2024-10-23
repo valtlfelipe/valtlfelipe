@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control)** - A highly configurable cookie banner for Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Tether by Makzo, Bcalm](https://open.spotify.com/track/3jNZ1Rjlq9dByI1jvAYzyD)
-- [Wherever You Are by DESH](https://open.spotify.com/track/5O598vz5kl36tXEW0l3hKV)
-- [Impossible by Chris Mazuera](https://open.spotify.com/track/1pbuzWPsy4oqmH4YeQTY0J)
-- [Mujo by SwuM](https://open.spotify.com/track/2xAYYJoeI9hbG5IOzFrWRF)
-- [autumn breeze by Nymano, j&#39;san](https://open.spotify.com/track/40Qz4L9b200KldNemzMvGl)
+- [Shelterlude by Philanthrope](https://open.spotify.com/track/5plJesIAxOAGcudkX85J95)
+- [Misty by Mac Kay](https://open.spotify.com/track/33mAVPnTnYnq4IWNS3aQZv)
+- [Poetry in Pain by Jay Prince](https://open.spotify.com/track/2Nx49oFazF585ZsyoPNsAY)
+- [Solemn by Philanthrope, Beats for Trees](https://open.spotify.com/track/6trG48RX8cb6SydE89NL52)
+- [Dreams come True by Drips Zacheer](https://open.spotify.com/track/1czSCpfBDoLhjyWaXrYUTp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
