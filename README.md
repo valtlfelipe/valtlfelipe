@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dahri by Afroham](https://open.spotify.com/track/4vLEjosTXyhmvJOyHIzJJ1)
-- [Things Fall Apart Pt.2 by Philanthrope](https://open.spotify.com/track/4rvKsd4SDvsHutqQBlsaXP)
-- [Spanish by Tesk](https://open.spotify.com/track/6XpHgm5BEFv2pRirw6cS5U)
-- [rosemary whispers by santpoort](https://open.spotify.com/track/2cviOWo4YY8Fg5vvjX94VP)
-- [Growing Pains by Arbour](https://open.spotify.com/track/0OnEjssDb9Me5EfiKxY2WO)
+- [Late Night Drive by C Y G N](https://open.spotify.com/track/25rsq4NmnxdhiOqp0h1wtI)
+- [Goodbye by Ian Ewing](https://open.spotify.com/track/6QjyPj8u80hvjl7wmBHGm8)
+- [Free Fall by Ian Ewing](https://open.spotify.com/track/5SYCZESB4VhORlIo1TPiLX)
+- [Winterhold by Parkbench Epiphany](https://open.spotify.com/track/43Mb0MlhsiUVZ0J28IypOd)
+- [You Bring Me Life by Psalm Trees, ALEXANDER](https://open.spotify.com/track/77wNV4xA0ULPzYGoHrKyt6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
