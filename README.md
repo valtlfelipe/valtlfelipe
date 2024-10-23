@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vercel/platforms](https://github.com/vercel/platforms)** - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Cozy af by Aves](https://open.spotify.com/track/257k49gWEn4G8IothaT5Cn)
-- [Illvibe by Mindscape](https://open.spotify.com/track/0FD2x5gnuac9LPSQuRLEC6)
-- [Growing Apart by Swørn](https://open.spotify.com/track/5EqKfj18yKrpLrBgr9o2p5)
-- [Envy You by J.Folk](https://open.spotify.com/track/0K26aBzWMgQDkMOzVJMNpm)
-- [Pine away by oddfish](https://open.spotify.com/track/7db2BY8DDmk3TCtrqucwLJ)
+- [Looming by Birocratic, Dotlights](https://open.spotify.com/track/7HSbTmUjROd5iOHkWkNhQq)
+- [Castles by SwuM, Chris Mazuera](https://open.spotify.com/track/7LfmWyvDwCsBIdSV7jCK76)
+- [Woodlander by invention_](https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs)
+- [Clementine. by chromo, the dreamer](https://open.spotify.com/track/7KKJgqd6EpJRAulRTVldRw)
+- [Foresight by Enough Cereals](https://open.spotify.com/track/5HJkjmNBU30nCwMIphmy0g)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
