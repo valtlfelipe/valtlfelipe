@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[RihanArfan/chat-with-pdf](https://github.com/RihanArfan/chat-with-pdf)** - Chat with PDF lets you ask questions to PDF documents. Built and deployed with NuxtHub, and powered by Cloudflare Workers AI and Vectorize. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Still Need People by Camisade](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j)
-- [Bloom by Petronella Dice](https://open.spotify.com/track/6pEOQbxwG0PdJQm13y8cBj)
-- [Naxos Sunset by Pink Villa](https://open.spotify.com/track/0qriqL4uIcM7tSRvd2nsbF)
-- [Rooftop Lunch by Pat Jr](https://open.spotify.com/track/0BbV9NJYb32Hdf8KIPHLiO)
-- [From the Heart by Ballpoint](https://open.spotify.com/track/0EdgohABs9avmcSSI71aBh)
+- [Beautiful Mistakes by Maurice Mills](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z)
+- [dune tune by ben bocker](https://open.spotify.com/track/5QtdJrToHaXfshcANRpnDd)
+- [Let It Out by [felt&amp;key]](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r)
+- [Sima Deli by Stockset](https://open.spotify.com/track/6CdVgngqmmLWvbPzPZ596U)
+- [Barcelona by Salavant](https://open.spotify.com/track/6wzwzB0s3Hzf17QuPemhHR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
