@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control)** - A highly configurable cookie banner for Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Beau by Cámille](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni)
 - [Talamanca by Ferngoord](https://open.spotify.com/track/412qLSn3VTrm6bzHH1x2E8)
 - [champagne and kisses by far away mei](https://open.spotify.com/track/4UKnKyvCDI9QhMD2jRC0ma)
 - [Just Waiting 4 You by Sum Wave](https://open.spotify.com/track/0VVMvXcchR5HUWRU0zefNs)
 - [Elevate by Molinerd](https://open.spotify.com/track/3UNkKybunQxyPE6y0PD74i)
-- [Summer flower by Petrossi](https://open.spotify.com/track/1FZ8DbYXBExoMZpVYlILR1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
