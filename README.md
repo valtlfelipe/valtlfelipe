@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[RihanArfan/chat-with-pdf](https://github.com/RihanArfan/chat-with-pdf)** - Chat with PDF lets you ask questions to PDF documents. Built and deployed with NuxtHub, and powered by Cloudflare Workers AI and Vectorize. (1 week ago)
 
 #### 🎧 What I have been listening
-- [bubbly fun by fxhash](https://open.spotify.com/track/4EgmPP8fBkVxL4jDUEhQ8n)
-- [Informalité by Nyhuis](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK)
-- [Beatin&#39; Hearts by David Kuro](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS)
-- [June Summer by Rebecca Arzoian](https://open.spotify.com/track/5o7Di648YijIAZ54xrqZ1q)
-- [Souls by Del Risa](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz)
+- [Sexy in the Morning by Reel Waves](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE)
+- [Bloom by Kacey View](https://open.spotify.com/track/4t487YqFwbxrqFziKX396O)
+- [Summer Haze by André Aguado](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol)
+- [Stay up all night by Sunset-buff](https://open.spotify.com/track/0a8auZkTOntPzSmPsR4nAe)
+- [Alright - Instrumental by LUXXURY](https://open.spotify.com/track/7vgJUNJWIrKhH2WXdWHaXc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
