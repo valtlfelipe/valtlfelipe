@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control)** - A highly configurable cookie banner for Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Shelterlude by Philanthrope](https://open.spotify.com/track/5plJesIAxOAGcudkX85J95)
-- [Misty by Mac Kay](https://open.spotify.com/track/33mAVPnTnYnq4IWNS3aQZv)
-- [Poetry in Pain by Jay Prince](https://open.spotify.com/track/2Nx49oFazF585ZsyoPNsAY)
-- [Solemn by Philanthrope, Beats for Trees](https://open.spotify.com/track/6trG48RX8cb6SydE89NL52)
-- [Dreams come True by Drips Zacheer](https://open.spotify.com/track/1czSCpfBDoLhjyWaXrYUTp)
+- [Amaryllis by jacuzzi jefferson](https://open.spotify.com/track/5bMswOm7CwpHxRvUjqiAUO)
+- [Home Sweet Home by Philanthrope](https://open.spotify.com/track/1UqXKHCjo1i79GKjtXCzUc)
+- [Flows by anbuu](https://open.spotify.com/track/1zygCwnDemsLbUSTv35JIy)
+- [30 by G Mills](https://open.spotify.com/track/3fVqbVAdgOXqOoIWoxF34z)
+- [Air Castles by Mama Aiuto, Daphné](https://open.spotify.com/track/5X3CITRC5JTdzDGfDiIymX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
