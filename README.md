@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control)** - A highly configurable cookie banner for Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Amaryllis by jacuzzi jefferson](https://open.spotify.com/track/5bMswOm7CwpHxRvUjqiAUO)
-- [Home Sweet Home by Philanthrope](https://open.spotify.com/track/1UqXKHCjo1i79GKjtXCzUc)
-- [Flows by anbuu](https://open.spotify.com/track/1zygCwnDemsLbUSTv35JIy)
-- [30 by G Mills](https://open.spotify.com/track/3fVqbVAdgOXqOoIWoxF34z)
-- [Air Castles by Mama Aiuto, Daphné](https://open.spotify.com/track/5X3CITRC5JTdzDGfDiIymX)
+- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
+- [Sunroof - Loud Luxury Remix by Nicky Youre, dazy, Loud Luxury](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj)
+- [On My Mind by Diplo, SIDEPIECE](https://open.spotify.com/track/54hA0ldJYyT1huGfSeOjdQ)
+- [I&#39;ll Be There - Cahill Remix by Jess Glynne, Cahill](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy)
+- [Take Me Home, Country Roads by KSHMR](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
