@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control)** - A highly configurable cookie banner for Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Morning Breeze by Ali Neroli](https://open.spotify.com/track/5mvApCKNT9vTMqtmVnutvi)
-- [Day in the Sun by Co Kluin](https://open.spotify.com/track/1bfxkN23k0KStToEYlTRNC)
-- [Lord by Sogal](https://open.spotify.com/track/2LQyhtzUZBkz60eirVVaRi)
-- [I&#39;ve Got The Feeling by Cymbal Dealers](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC)
-- [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
+- [Relax (Hold On) by Autohacker](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD)
+- [Dance Around by Dove Tales](https://open.spotify.com/track/5GyoQHJLwBr7yjqZSrOdri)
+- [Green Leafs by Carlo Azure](https://open.spotify.com/track/6HlFrgdDGdyz9eKQZzb2UG)
+- [Summersome by Damian Holden](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G)
+- [Symbios by Floral Gloam](https://open.spotify.com/track/6XLqfDYv8a9H0aoWX348L7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
