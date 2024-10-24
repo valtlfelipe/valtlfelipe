@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[RihanArfan/chat-with-pdf](https://github.com/RihanArfan/chat-with-pdf)** - Chat with PDF lets you ask questions to PDF documents. Built and deployed with NuxtHub, and powered by Cloudflare Workers AI and Vectorize. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Beautiful Mistakes by Maurice Mills](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z)
-- [dune tune by ben bocker](https://open.spotify.com/track/5QtdJrToHaXfshcANRpnDd)
-- [Let It Out by [felt&amp;key]](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r)
-- [Sima Deli by Stockset](https://open.spotify.com/track/6CdVgngqmmLWvbPzPZ596U)
-- [Barcelona by Salavant](https://open.spotify.com/track/6wzwzB0s3Hzf17QuPemhHR)
+- [bubbly fun by fxhash](https://open.spotify.com/track/4EgmPP8fBkVxL4jDUEhQ8n)
+- [Informalité by Nyhuis](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK)
+- [Beatin&#39; Hearts by David Kuro](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS)
+- [June Summer by Rebecca Arzoian](https://open.spotify.com/track/5o7Di648YijIAZ54xrqZ1q)
+- [Souls by Del Risa](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
