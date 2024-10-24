@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[RihanArfan/chat-with-pdf](https://github.com/RihanArfan/chat-with-pdf)** - Chat with PDF lets you ask questions to PDF documents. Built and deployed with NuxtHub, and powered by Cloudflare Workers AI and Vectorize. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Palm Beach by Blissmo](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh)
+- [Bellagio by Paul Rietz](https://open.spotify.com/track/44vcTNxN1PUjZxsi7apRLK)
 - [Sexy in the Morning by Reel Waves](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE)
 - [Bloom by Kacey View](https://open.spotify.com/track/4t487YqFwbxrqFziKX396O)
 - [Summer Haze by André Aguado](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol)
-- [Stay up all night by Sunset-buff](https://open.spotify.com/track/0a8auZkTOntPzSmPsR4nAe)
-- [Alright - Instrumental by LUXXURY](https://open.spotify.com/track/7vgJUNJWIrKhH2WXdWHaXc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
