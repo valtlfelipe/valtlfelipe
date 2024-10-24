@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control)** - A highly configurable cookie banner for Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
-- [Sunroof - Loud Luxury Remix by Nicky Youre, dazy, Loud Luxury](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj)
-- [On My Mind by Diplo, SIDEPIECE](https://open.spotify.com/track/54hA0ldJYyT1huGfSeOjdQ)
-- [I&#39;ll Be There - Cahill Remix by Jess Glynne, Cahill](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy)
-- [Take Me Home, Country Roads by KSHMR](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov)
+- [Waves by Navagio](https://open.spotify.com/track/1A2pH62d1USSUsxuoiRD8l)
+- [lemon fizz by roumr](https://open.spotify.com/track/4s28VI3QU9kRBKY5ssorlP)
+- [Maduix by Nyhuis](https://open.spotify.com/track/3fmWdfU1ia3PfAFq106Ysi)
+- [For the Sunshine by Plastik Flamingos](https://open.spotify.com/track/0Sb12h28YoddF5aSvtmbgo)
+- [Back to Java by RaFa Sessions](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
