@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Radiance by Delphine Dekker](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj)
-- [Beaches by Paul Rietz](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG)
-- [Out Late by Stenkil](https://open.spotify.com/track/1gjW2RMESNkfWVJCyObu1v)
-- [Restart The Sun by Robo Rat](https://open.spotify.com/track/3gvLr8fEhn74EU2LArj5wN)
-- [Elysian Breeze by Cogitation](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM)
+- [Crazy What Love Can Do (with Becky Hill) [Öwnboss Remix] by David Guetta, Ella Henderson, Öwnboss, Becky Hill](https://open.spotify.com/track/0UV1xzcuNfWs4fWc8ZsB3Y)
+- [Homesick by MÆDM, Bright Hinze](https://open.spotify.com/track/1B7vmkDa7jdzvrU8grO68N)
+- [Satisfaction by David Guetta, Benny Benassi](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo)
+- [When We Were Young (The Logical Song) by David Guetta, Kim Petras](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq)
+- [I Promise You by Florem Ipsum](https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
