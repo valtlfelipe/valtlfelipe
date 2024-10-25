@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[better-auth/better-auth](https://github.com/better-auth/better-auth)** - The most comprehensive authentication library for TypeScript (1 week ago)
 
 #### 🎧 What I have been listening
+- [Dance The Occasion by Camisade](https://open.spotify.com/track/30j0gaJZmJeIQGMKfrQN1Y)
+- [Mope Amok by Robo Rat](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6)
 - [Outside Of Love by Becky Hill](https://open.spotify.com/track/3LcXzMeyG4jy8ERxtzHGgP)
 - [The Music Began To Play by Mark Knight, Armand Van Helden](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj)
 - [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
-- [In The Dark by Armin van Buuren, David Guetta, Aldae](https://open.spotify.com/track/492Ms0eG4ylkf1m50ORty7)
-- [Baby Don&#39;t Hurt Me (feat. Anne-Marie &amp; Coi Leray) - Sofi Tukker Remix by David Guetta, Sofi Tukker, Anne-Marie, Coi Leray](https://open.spotify.com/track/5js0S06HeHofz7ZtlXV7In)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
