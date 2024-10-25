@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[better-auth/better-auth](https://github.com/better-auth/better-auth)** - The most comprehensive authentication library for TypeScript (1 week ago)
 
 #### 🎧 What I have been listening
-- [Freeze Frame by Phoenix Rouge](https://open.spotify.com/track/5qgA8T7EBuJdfZLIKhwlvN)
-- [Moon by Safe Tock](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb)
-- [Passport by flooww](https://open.spotify.com/track/586M28IA5dAPdwvMdBZ5cd)
-- [Cradle Beach by Julian Tremolino](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F)
-- [Polarity by Sum Wave](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv)
+- [Pink by Francois Lé](https://open.spotify.com/track/5hAAIFnYe7uZRQBqodvNLe)
+- [Out There by flooww](https://open.spotify.com/track/1451qMk0vSvxFbR0WZ6mPk)
+- [I Believe in You by Duckmaw](https://open.spotify.com/track/4BV9srmcvMsuGglNB4B2pY)
+- [Campion by Valante](https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi)
+- [Cabriz by OYUKA](https://open.spotify.com/track/3oJnQIAYfgRKfocVucvwkf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
