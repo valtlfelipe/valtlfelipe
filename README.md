@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[better-auth/better-auth](https://github.com/better-auth/better-auth)** - The most comprehensive authentication library for TypeScript (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dance The Occasion by Camisade](https://open.spotify.com/track/30j0gaJZmJeIQGMKfrQN1Y)
-- [Mope Amok by Robo Rat](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6)
-- [Outside Of Love by Becky Hill](https://open.spotify.com/track/3LcXzMeyG4jy8ERxtzHGgP)
-- [The Music Began To Play by Mark Knight, Armand Van Helden](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj)
-- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
+- [Freeze Frame by Phoenix Rouge](https://open.spotify.com/track/5qgA8T7EBuJdfZLIKhwlvN)
+- [Moon by Safe Tock](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb)
+- [Passport by flooww](https://open.spotify.com/track/586M28IA5dAPdwvMdBZ5cd)
+- [Cradle Beach by Julian Tremolino](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F)
+- [Polarity by Sum Wave](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
