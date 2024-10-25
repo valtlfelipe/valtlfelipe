@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [infinity by Greene Labyrinth](https://open.spotify.com/track/3RKywy0zmUseiC48cMvYpk)
-- [Carte blanche by Sennhofer](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5)
-- [Move In Space by Midnight Side Eye](https://open.spotify.com/track/3DpZoWO5g77GIDp3aGWHEp)
-- [Lifted by A.L.I.S.O.N, Hotel Pools](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz)
-- [Valleys by Mikayl Blu](https://open.spotify.com/track/3Hh8gjI0VKmqLCLlEHYtKS)
+- [Côte d&#39;Azur by Parker Wilkins](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe)
+- [Sunset In Miami by Modern Clouds](https://open.spotify.com/track/3P1f3w1gl4K88om3T9WwOi)
+- [Small Victorys by Cratouille](https://open.spotify.com/track/4WIG3yl5UjG4kuNXs5TgjU)
+- [locking lips by Manic Twister](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW)
+- [OFF DAY by Suuunday](https://open.spotify.com/track/5ZZZRpzWasI2ZU2XGXzP70)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
