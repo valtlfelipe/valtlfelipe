@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Back In My Life by Ian Storm, Michael Ford](https://open.spotify.com/track/2cOtRrePQfWN4GtSAxG34j)
-- [Three Little Words by BOCIGE, Mac Morris, Sydney Jo Jackson](https://open.spotify.com/track/0OFNQMqQLaFRx7oBYb0Ffc)
-- [Somewhere Only We Know by Ian Storm, Menno, Mark Coles](https://open.spotify.com/track/66bnX8ozY4o8FATgrQ7Bd0)
-- [Sometimes by Ian Storm](https://open.spotify.com/track/4YuDEvqr5HMvlm4umvInkL)
-- [Hearing Your Name by NATE SEBSIBE, LÜDO](https://open.spotify.com/track/44TjjkWkJPyUXyWmgZ2iOe)
+- [Everything You Have Done - Meduza Edit by GENESI, MEDUZA](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77)
+- [Transmission - Joris Voorn Remix by Eelke Kleijn, Joris Voorn](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH)
+- [Memories (feat. Kid Cudi) - 2021 Remix by David Guetta, Kid Cudi](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa)
+- [Drums (Feat. Kim Petras) by James Hype, Kim Petras](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc)
+- [Family Affair (Dance For Me) by David Guetta](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
