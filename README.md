@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Côte d&#39;Azur by Parker Wilkins](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe)
-- [Sunset In Miami by Modern Clouds](https://open.spotify.com/track/3P1f3w1gl4K88om3T9WwOi)
-- [Small Victorys by Cratouille](https://open.spotify.com/track/4WIG3yl5UjG4kuNXs5TgjU)
-- [locking lips by Manic Twister](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW)
-- [OFF DAY by Suuunday](https://open.spotify.com/track/5ZZZRpzWasI2ZU2XGXzP70)
+- [Radiance by Delphine Dekker](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj)
+- [Beaches by Paul Rietz](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG)
+- [Out Late by Stenkil](https://open.spotify.com/track/1gjW2RMESNkfWVJCyObu1v)
+- [Restart The Sun by Robo Rat](https://open.spotify.com/track/3gvLr8fEhn74EU2LArj5wN)
+- [Elysian Breeze by Cogitation](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
