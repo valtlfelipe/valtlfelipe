@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Crazy What Love Can Do (with Becky Hill) [Öwnboss Remix] by David Guetta, Ella Henderson, Öwnboss, Becky Hill](https://open.spotify.com/track/0UV1xzcuNfWs4fWc8ZsB3Y)
-- [Homesick by MÆDM, Bright Hinze](https://open.spotify.com/track/1B7vmkDa7jdzvrU8grO68N)
-- [Satisfaction by David Guetta, Benny Benassi](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo)
-- [When We Were Young (The Logical Song) by David Guetta, Kim Petras](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq)
-- [I Promise You by Florem Ipsum](https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF)
+- [Back In My Life by Ian Storm, Michael Ford](https://open.spotify.com/track/2cOtRrePQfWN4GtSAxG34j)
+- [Three Little Words by BOCIGE, Mac Morris, Sydney Jo Jackson](https://open.spotify.com/track/0OFNQMqQLaFRx7oBYb0Ffc)
+- [Somewhere Only We Know by Ian Storm, Menno, Mark Coles](https://open.spotify.com/track/66bnX8ozY4o8FATgrQ7Bd0)
+- [Sometimes by Ian Storm](https://open.spotify.com/track/4YuDEvqr5HMvlm4umvInkL)
+- [Hearing Your Name by NATE SEBSIBE, LÜDO](https://open.spotify.com/track/44TjjkWkJPyUXyWmgZ2iOe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
