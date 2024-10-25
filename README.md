@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Everything You Have Done - Meduza Edit by GENESI, MEDUZA](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77)
-- [Transmission - Joris Voorn Remix by Eelke Kleijn, Joris Voorn](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH)
-- [Memories (feat. Kid Cudi) - 2021 Remix by David Guetta, Kid Cudi](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa)
-- [Drums (Feat. Kim Petras) by James Hype, Kim Petras](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc)
-- [Family Affair (Dance For Me) by David Guetta](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY)
+- [Be My Lover (feat. La Bouche) - 2023 Mix by Hypaton, David Guetta, La Bouche](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV)
+- [The Business by Tiësto](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN)
+- [Ocean Drive by David Atsman](https://open.spotify.com/track/3NuM9FD8IWiRaEmMbkz1HV)
+- [Mockingbird by Tiësto, Dimitri Vegas &amp; Like Mike, Gabry Ponte](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG)
+- [Tell It To My Heart by MEDUZA, Hozier](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
