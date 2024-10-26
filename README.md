@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Can You Feel My Heart by Luca Lazza](https://open.spotify.com/track/7J2f8746P57guK7BUWCqOk)
-- [Be My Lover (feat. La Bouche) - 2023 Mix by Hypaton, David Guetta, La Bouche](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV)
-- [The Business by Tiësto](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN)
-- [Ocean Drive by David Atsman](https://open.spotify.com/track/3NuM9FD8IWiRaEmMbkz1HV)
-- [Mockingbird by Tiësto, Dimitri Vegas &amp; Like Mike, Gabry Ponte](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG)
+- [TEXAS HOLD &#39;EM by Beyoncé](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5)
+- [Yes I&#39;m A Mess by AJR](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [As It Was by Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
+- [Gimme! Gimme! Gimme! (A Man After Midnight) by ABBA](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
