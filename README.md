@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
+- [B.O.T.A. (Baddest of Them All) - Edit by Eliza Rose, Interplanetary Criminal](https://open.spotify.com/track/3k8G7AqDiG6zAkQcEJg13u)
+- [Ascend by Dezko](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2)
+- [Gotta Be You by NERVO, Carla Monroe](https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf)
 - [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
 - [Shivers (Dillon Francis Remix) [Main Mix] by Ed Sheeran, Dillon Francis](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b)
-- [Body Say by XANDRA, GiGi Grombacher](https://open.spotify.com/track/25ArkZpdsdxliawDn8mRMb)
-- [Body Say by XANDRA, GiGi Grombacher](https://open.spotify.com/track/25ArkZpdsdxliawDn8mRMb)
-- [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
