@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Hell N Back (feat. Summer Walker) by Bakar, Summer Walker](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC)
-- [Come and Get Your Love - Single Version by Redbone](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD)
-- [Come and Get Your Love - Single Version by Redbone](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD)
-- [Something About You by Eyedress, Dent May](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe)
-- [Save Your Tears (with Ariana Grande) (Remix) by The Weeknd, Ariana Grande](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy)
+- [In My Mind by Lavern](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk)
+- [Roses x Children by TommyMuzzic](https://open.spotify.com/track/3GxXPHTRn4vQArX83QprqZ)
+- [Chihiro by Gravagerz](https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
