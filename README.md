@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Waffle House by Jonas Brothers](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU)
-- [Stick Season by Noah Kahan](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv)
-- [Murder On The Dancefloor by Sophie Ellis-Bextor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)
-- [Unstoppable by Sia](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS)
-- [Belong Together by Mark Ambor](https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy)
+- [Hell N Back (feat. Summer Walker) by Bakar, Summer Walker](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC)
+- [Come and Get Your Love - Single Version by Redbone](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD)
+- [Come and Get Your Love - Single Version by Redbone](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD)
+- [Something About You by Eyedress, Dent May](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe)
+- [Save Your Tears (with Ariana Grande) (Remix) by The Weeknd, Ariana Grande](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
