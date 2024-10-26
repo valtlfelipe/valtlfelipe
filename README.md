@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
+- [Fever by Lewis Thompson, Punctual, Hight](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt)
+- [Doses &amp; Mimosas (Vintage Culture &amp; Zerky Remix) - Radio Edit by Vintage Culture, Zerky, Cherub](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu)
+- [Life by ConKi](https://open.spotify.com/track/5LOTtadWBsGDLMQMC0tl2z)
+- [True by CYRIL, Kita Alexander](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm)
 - [In My Mind by Lavern](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk)
-- [Roses x Children by TommyMuzzic](https://open.spotify.com/track/3GxXPHTRn4vQArX83QprqZ)
-- [Chihiro by Gravagerz](https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C)
-- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
