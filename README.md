@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [feelslikeimfallinginlove - Single Version by Coldplay](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea)
-- [A Bar Song (Tipsy) by Shaboozey](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf)
-- [I Can Do It With a Broken Heart by Taylor Swift](https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8)
-- [SNAP by Rosa Linn](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6)
-- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
+- [Waffle House by Jonas Brothers](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU)
+- [Stick Season by Noah Kahan](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv)
+- [Murder On The Dancefloor by Sophie Ellis-Bextor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)
+- [Unstoppable by Sia](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS)
+- [Belong Together by Mark Ambor](https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
