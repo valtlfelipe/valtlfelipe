@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [TEXAS HOLD &#39;EM by Beyoncé](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5)
-- [Yes I&#39;m A Mess by AJR](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [As It Was by Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
-- [Gimme! Gimme! Gimme! (A Man After Midnight) by ABBA](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6)
+- [Bye Bye Bye by Dasha](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F)
+- [A Symptom Of Being Human by Shinedown](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4)
+- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
+- [greedy by Tate McRae](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)
+- [Someone To You by BANNERS](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
