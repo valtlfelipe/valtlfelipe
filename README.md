@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
-- [Green Green Grass - Sam Feldt Remix by George Ezra, Sam Feldt](https://open.spotify.com/track/0nmHVEKnBniX3DOmMwCOZi)
-- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
-- [Fever by Lewis Thompson, Punctual, Hight](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt)
-- [Doses &amp; Mimosas (Vintage Culture &amp; Zerky Remix) - Radio Edit by Vintage Culture, Zerky, Cherub](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu)
+- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
+- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL)
+- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
+- [Cold Heart - PS1 Remix by Elton John, Dua Lipa, PS1](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl)
+- [Runaway (U &amp; I) by Galantis](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
