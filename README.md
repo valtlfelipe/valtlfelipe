@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
+- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
+- [CAVE (with Tove Lo) by Dom Dolla, Tove Lo](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm)
+- [Hold Me Closer - Joel Corry Remix by Elton John, Britney Spears, Joel Corry](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl)
 - [Free (with Ellie Goulding) by Calvin Harris, Ellie Goulding](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC)
 - [yes, and? - Felix Jaehn Remix by Ariana Grande, Felix Jaehn](https://open.spotify.com/track/6R5licKQW6P3UD64RWtKxb)
-- [Vois sur ton chemin - Techno Mix by BENNETT](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5)
-- [Bad Memories - Felix Jaehn Remix by MEDUZA, James Carter, Felix Jaehn, Elley Duhé, FAST BOY](https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep)
-- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
