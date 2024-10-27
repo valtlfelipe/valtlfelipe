@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Cold Heart - PS1 Remix by Elton John, Dua Lipa, PS1](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl)
-- [Runaway (U &amp; I) by Galantis](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo)
-- [New Rules - KREAM Remix by Dua Lipa, KREAM](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4)
-- [Reload - Radio Edit by Sebastian Ingrosso, Tommy Trash, John Martin](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO)
-- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
+- [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
+- [Shivers (Dillon Francis Remix) [Main Mix] by Ed Sheeran, Dillon Francis](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b)
+- [Body Say by XANDRA, GiGi Grombacher](https://open.spotify.com/track/25ArkZpdsdxliawDn8mRMb)
+- [Outside Of Love by Becky Hill](https://open.spotify.com/track/3LcXzMeyG4jy8ERxtzHGgP)
+- [The Music Began To Play by Mark Knight, Armand Van Helden](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
