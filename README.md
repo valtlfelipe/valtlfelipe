@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
-- [CAVE (with Tove Lo) by Dom Dolla, Tove Lo](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm)
-- [Hold Me Closer - Joel Corry Remix by Elton John, Britney Spears, Joel Corry](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl)
-- [Free (with Ellie Goulding) by Calvin Harris, Ellie Goulding](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC)
-- [yes, and? - Felix Jaehn Remix by Ariana Grande, Felix Jaehn](https://open.spotify.com/track/6R5licKQW6P3UD64RWtKxb)
+- [Cold Heart - PS1 Remix by Elton John, Dua Lipa, PS1](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl)
+- [Runaway (U &amp; I) by Galantis](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo)
+- [New Rules - KREAM Remix by Dua Lipa, KREAM](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4)
+- [Reload - Radio Edit by Sebastian Ingrosso, Tommy Trash, John Martin](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO)
+- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
