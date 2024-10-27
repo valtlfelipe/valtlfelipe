@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
+- [Free (with Ellie Goulding) by Calvin Harris, Ellie Goulding](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC)
+- [yes, and? - Felix Jaehn Remix by Ariana Grande, Felix Jaehn](https://open.spotify.com/track/6R5licKQW6P3UD64RWtKxb)
+- [Vois sur ton chemin - Techno Mix by BENNETT](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5)
+- [Bad Memories - Felix Jaehn Remix by MEDUZA, James Carter, Felix Jaehn, Elley Duhé, FAST BOY](https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep)
 - [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
-- [Do It To It by ACRAZE, Cherish](https://open.spotify.com/track/20on25jryn53hWghthWWW3)
-- [Castles - Sam Feldt Remix by Freya Ridings, Sam Feldt](https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP)
-- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn)
-- [I&#39;ll Be There - Cahill Remix by Jess Glynne, Cahill](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
