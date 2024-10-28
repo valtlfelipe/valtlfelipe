@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [She&#39;s so High by Viva La Panda, Her Majesty](https://open.spotify.com/track/0tJvXxa4QmpVopRJypSlLy)
-- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
-- [hold me now by rayn](https://open.spotify.com/track/6S2K24ezbw8PY7ALKoGxA7)
-- [Dark Nights by Panuma, Tim Hughes, Kayla](https://open.spotify.com/track/2Ixv55zR4IqrZdtNGWqHit)
-- [Illuminate by Astrality, Leo Stannard](https://open.spotify.com/track/6SpS3512xzHKapz4plRuZW)
+- [Sunrise Under Palms by Relŭm](https://open.spotify.com/track/3T3w1EwODkr2moNzjoT0Xx)
+- [Sunset by just here.](https://open.spotify.com/track/4J3y4fCVLr5C4zkuI2v8cT)
+- [Movin&#39; by Alatra](https://open.spotify.com/track/5DLruTfxyD9ZMPpV0qE4QY)
+- [Need To Breathe by Jane Good](https://open.spotify.com/track/7hzJdwyCUV35Iuw7QXSWC9)
+- [Your Body by le moon](https://open.spotify.com/track/0nl942hhvEAeF6w4qfw919)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
