@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sunrise Under Palms by Relŭm](https://open.spotify.com/track/3T3w1EwODkr2moNzjoT0Xx)
-- [Sunset by just here.](https://open.spotify.com/track/4J3y4fCVLr5C4zkuI2v8cT)
-- [Movin&#39; by Alatra](https://open.spotify.com/track/5DLruTfxyD9ZMPpV0qE4QY)
-- [Need To Breathe by Jane Good](https://open.spotify.com/track/7hzJdwyCUV35Iuw7QXSWC9)
-- [Your Body by le moon](https://open.spotify.com/track/0nl942hhvEAeF6w4qfw919)
+- [Belong by Astrality, soleil, Kleeve](https://open.spotify.com/track/5LcGjaGobr1U6bsl6qpuWi)
+- [Come Alive by Jake and the colors](https://open.spotify.com/track/4uqls8UNqKMx34XMwvUrGm)
+- [with you by le moon, Florezca](https://open.spotify.com/track/70BgCloirn8qzLksRnER9G)
+- [Feels Like Summer by ay-Mill, Lucas Meyer](https://open.spotify.com/track/4d9z72rrCWE0mXFqdhCQtm)
+- [Memories by Sunmoon](https://open.spotify.com/track/2YEx4eDIQ6Bj7CWDXQQiMv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
