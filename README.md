@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
+- [Here with Me by Tom Polo, Tripssono](https://open.spotify.com/track/76KQgrhOqs59ZMHH8PPpkg)
+- [Palm Trees by COLIN](https://open.spotify.com/track/6Ul3uAxFeiGN1nOoYfS77V)
+- [Skydream by Radush](https://open.spotify.com/track/2n71gzCwkR6411Dt3dIydf)
+- [Journey by Lost Coconut](https://open.spotify.com/track/1VS9Bdbh2GbkioCXr7iSwa)
 - [Need You Right Now by Lunar Echoes](https://open.spotify.com/track/4S6wdhYQb7W7hngejRa2Li)
-- [The Sunset by Alatra](https://open.spotify.com/track/7626y08aXVmRQBazHbUrwt)
-- [Story Of Mine by NSH](https://open.spotify.com/track/7uP1eFrIfdztnFdBne1w8q)
-- [Far Beyond by Munch, Piece Wise](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA)
-- [Movie - Taped Remix by Jane Good](https://open.spotify.com/track/3bIzqfYK8ZldbNikkYEikd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
