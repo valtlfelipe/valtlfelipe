@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Here with Me by Tom Polo, Tripssono](https://open.spotify.com/track/76KQgrhOqs59ZMHH8PPpkg)
-- [Palm Trees by COLIN](https://open.spotify.com/track/6Ul3uAxFeiGN1nOoYfS77V)
-- [Skydream by Radush](https://open.spotify.com/track/2n71gzCwkR6411Dt3dIydf)
-- [Journey by Lost Coconut](https://open.spotify.com/track/1VS9Bdbh2GbkioCXr7iSwa)
-- [Need You Right Now by Lunar Echoes](https://open.spotify.com/track/4S6wdhYQb7W7hngejRa2Li)
+- [Slow Down by Ryan Shade, Robotone](https://open.spotify.com/track/0Xof1bu6NRRn289tfPGxDP)
+- [Going Back by Indigo Pool](https://open.spotify.com/track/1DEbksmFoxwwlM7jvRytoJ)
+- [Speak Your Name by Lake Matisse](https://open.spotify.com/track/3WnDdthPb9CCqOERBoSHvb)
+- [Erase by LAR, Nu-La](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt)
+- [Dreamer by Tom Bailey, Joel Coopa](https://open.spotify.com/track/5lWLgI8XMT42A0ZM7ukvTE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
