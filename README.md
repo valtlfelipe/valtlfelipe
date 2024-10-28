@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Night Drive by Relŭm](https://open.spotify.com/track/1O7lD7lSbZaR6zaRBfPyj5)
-- [Wishing by Sean Blanc](https://open.spotify.com/track/2ipr8HboTyHZkeLj7DPvqh)
-- [Would I Lie To You by Thierry Von Der Warth, YKATI](https://open.spotify.com/track/0UDJ89q8XurKWYs26bnVxx)
-- [The Depths by JARP, Tenjo](https://open.spotify.com/track/0o7de9GRm39xN16GpElekn)
-- [Moment by le moon, Tenjo, Jakob Dreams](https://open.spotify.com/track/51GgGdWzwT8YhpDgEY2Bnr)
+- [Need You Right Now by Lunar Echoes](https://open.spotify.com/track/4S6wdhYQb7W7hngejRa2Li)
+- [The Sunset by Alatra](https://open.spotify.com/track/7626y08aXVmRQBazHbUrwt)
+- [Story Of Mine by NSH](https://open.spotify.com/track/7uP1eFrIfdztnFdBne1w8q)
+- [Far Beyond by Munch, Piece Wise](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA)
+- [Movie - Taped Remix by Jane Good](https://open.spotify.com/track/3bIzqfYK8ZldbNikkYEikd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
