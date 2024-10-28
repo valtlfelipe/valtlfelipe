@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Belong by Astrality, soleil, Kleeve](https://open.spotify.com/track/5LcGjaGobr1U6bsl6qpuWi)
-- [Come Alive by Jake and the colors](https://open.spotify.com/track/4uqls8UNqKMx34XMwvUrGm)
-- [with you by le moon, Florezca](https://open.spotify.com/track/70BgCloirn8qzLksRnER9G)
-- [Feels Like Summer by ay-Mill, Lucas Meyer](https://open.spotify.com/track/4d9z72rrCWE0mXFqdhCQtm)
-- [Memories by Sunmoon](https://open.spotify.com/track/2YEx4eDIQ6Bj7CWDXQQiMv)
+- [Night Drive by Relŭm](https://open.spotify.com/track/1O7lD7lSbZaR6zaRBfPyj5)
+- [Wishing by Sean Blanc](https://open.spotify.com/track/2ipr8HboTyHZkeLj7DPvqh)
+- [Would I Lie To You by Thierry Von Der Warth, YKATI](https://open.spotify.com/track/0UDJ89q8XurKWYs26bnVxx)
+- [The Depths by JARP, Tenjo](https://open.spotify.com/track/0o7de9GRm39xN16GpElekn)
+- [Moment by le moon, Tenjo, Jakob Dreams](https://open.spotify.com/track/51GgGdWzwT8YhpDgEY2Bnr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
