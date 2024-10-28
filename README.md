@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
+- [Speak Your Name by Lake Matisse](https://open.spotify.com/track/3WnDdthPb9CCqOERBoSHvb)
+- [See You by Shallou](https://open.spotify.com/track/1KV9l5CLucQ8L4IqBFzEFI)
+- [Gotta Be You by NERVO, Carla Monroe](https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf)
 - [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
 - [Shivers (Dillon Francis Remix) [Main Mix] by Ed Sheeran, Dillon Francis](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b)
-- [Body Say by XANDRA, GiGi Grombacher](https://open.spotify.com/track/25ArkZpdsdxliawDn8mRMb)
-- [Outside Of Love by Becky Hill](https://open.spotify.com/track/3LcXzMeyG4jy8ERxtzHGgP)
-- [The Music Began To Play by Mark Knight, Armand Van Helden](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
