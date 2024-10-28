@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Speak Your Name by Lake Matisse](https://open.spotify.com/track/3WnDdthPb9CCqOERBoSHvb)
-- [See You by Shallou](https://open.spotify.com/track/1KV9l5CLucQ8L4IqBFzEFI)
-- [Gotta Be You by NERVO, Carla Monroe](https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf)
-- [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
-- [Shivers (Dillon Francis Remix) [Main Mix] by Ed Sheeran, Dillon Francis](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b)
+- [Palm Trees by COLIN](https://open.spotify.com/track/6Ul3uAxFeiGN1nOoYfS77V)
+- [Toxic by FRENCHGRL](https://open.spotify.com/track/1Efuhe5pbP6oBeBZ9VbGw8)
+- [Rule The World by ricky retro, Scorz](https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t)
+- [Here with Me by Tom Polo, Tripssono](https://open.spotify.com/track/76KQgrhOqs59ZMHH8PPpkg)
+- [Dreamer by Tom Bailey, Joel Coopa](https://open.spotify.com/track/5lWLgI8XMT42A0ZM7ukvTE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
