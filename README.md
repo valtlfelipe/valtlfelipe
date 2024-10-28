@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Palm Trees by COLIN](https://open.spotify.com/track/6Ul3uAxFeiGN1nOoYfS77V)
-- [Toxic by FRENCHGRL](https://open.spotify.com/track/1Efuhe5pbP6oBeBZ9VbGw8)
-- [Rule The World by ricky retro, Scorz](https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t)
-- [Here with Me by Tom Polo, Tripssono](https://open.spotify.com/track/76KQgrhOqs59ZMHH8PPpkg)
-- [Dreamer by Tom Bailey, Joel Coopa](https://open.spotify.com/track/5lWLgI8XMT42A0ZM7ukvTE)
+- [Close To You by Tripton, JAIKO, Namté](https://open.spotify.com/track/0ONuv4rQSS2Td8tZh9gSfF)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
+- [high love by rayn, cloudseven, MELINA](https://open.spotify.com/track/13bFmkWzbZSmUvJ7QKNUOt)
+- [Free My Mind by ENLIV3N](https://open.spotify.com/track/4ysacrZnJmUjvvseHfFlvn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
