@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Close To You by Tripton, JAIKO, Namté](https://open.spotify.com/track/0ONuv4rQSS2Td8tZh9gSfF)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
-- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
-- [high love by rayn, cloudseven, MELINA](https://open.spotify.com/track/13bFmkWzbZSmUvJ7QKNUOt)
-- [Free My Mind by ENLIV3N](https://open.spotify.com/track/4ysacrZnJmUjvvseHfFlvn)
+- [beautiful mind by rayn, Kusko, River Atley](https://open.spotify.com/track/0qi9yGpX9CO5s5rvYIXkvH)
+- [Rain by Astrality, MNRT, S:NE](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO)
+- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
+- [Born to Be Free by Ruffnux](https://open.spotify.com/track/1SG8N1R6jboiXkfboZGxVX)
+- [Sinking Feeling by KAAJO, ODBLU](https://open.spotify.com/track/3P2xBMOaRPnziqk3tV70eM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
