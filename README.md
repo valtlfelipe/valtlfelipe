@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
-- [Life Goes On by Friends &amp; I](https://open.spotify.com/track/3nJCkXH6iLaF9T2vBeHPcw)
-- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
-- [All The Songs by Nick Peters, Louis III](https://open.spotify.com/track/5oA3tiyOv8pNM7yh4YwY4q)
-- [Out of Body by Ruffnux, le moon, soleil](https://open.spotify.com/track/3MBAedkX9Al5Yfn8xMxvMa)
-- [Drowning (feat. LU) - HYPAUX &amp; Spijk Remix by Open Rim, HYPAUX, Spijk, LU](https://open.spotify.com/track/5UU9REeORMW9vKvJW2GJg4)
+- [She&#39;s so High by Viva La Panda, Her Majesty](https://open.spotify.com/track/0tJvXxa4QmpVopRJypSlLy)
+- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
+- [hold me now by rayn](https://open.spotify.com/track/6S2K24ezbw8PY7ALKoGxA7)
+- [Dark Nights by Panuma, Tim Hughes, Kayla](https://open.spotify.com/track/2Ixv55zR4IqrZdtNGWqHit)
+- [Illuminate by Astrality, Leo Stannard](https://open.spotify.com/track/6SpS3512xzHKapz4plRuZW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
