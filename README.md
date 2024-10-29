@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[LerianStudio/midaz](https://github.com/LerianStudio/midaz)** - Midaz, an open-source, cloud-native, immutable, multi-currency, multi-asset, Core Ledger Application for storing and tracking transactions.  (1 week ago)
 
 #### 🎧 What I have been listening
+- [Crazy by Sander W., Sönnefelt, Victor Perry, Quinn Casado](https://open.spotify.com/track/1riNd5X0AUjLDl9Vk9mXTu)
+- [Lost In Your Love by NIIMO, AVNT:GRD](https://open.spotify.com/track/6PZRYmqXmtPkV7TAPLVOaW)
 - [Slow Down by Ryan Shade, Robotone](https://open.spotify.com/track/0Xof1bu6NRRn289tfPGxDP)
 - [Going Back by Indigo Pool](https://open.spotify.com/track/1DEbksmFoxwwlM7jvRytoJ)
 - [Speak Your Name by Lake Matisse](https://open.spotify.com/track/3WnDdthPb9CCqOERBoSHvb)
-- [Erase by LAR, Nu-La](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt)
-- [Dreamer by Tom Bailey, Joel Coopa](https://open.spotify.com/track/5lWLgI8XMT42A0ZM7ukvTE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
