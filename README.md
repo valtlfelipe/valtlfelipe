@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[supa-kit/auth-ui-vue](https://github.com/supa-kit/auth-ui-vue)** - 🔒 Pre-built Auth UI base on Supabase for Vue (5 days ago)
 
 #### 🎧 What I have been listening
-- [Movin&#39; by Alatra](https://open.spotify.com/track/5DLruTfxyD9ZMPpV0qE4QY)
-- [Catch Another Tide by Thierry Von Der Warth, NSH](https://open.spotify.com/track/6VvUHvbrWKrVvlndasAAgv)
-- [Miss You More by Tom Kha](https://open.spotify.com/track/2UiZ4MN04um3IDCz89sCG3)
-- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
-- [Kendall Park by Duce, Piece Wise, Courtney Storm](https://open.spotify.com/track/2SXi0cldambE2930H18LoL)
+- [golden hour - R3HAB Remix by JVKE, R3HAB](https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6)
+- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
+- [Disco Cone (Take It High) [ft. WENZL] by Enisa, WENZL](https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM)
+- [Unholy (feat. Kim Petras) by Sam Smith, Kim Petras](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
