@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[milesj/emojibase](https://github.com/milesj/emojibase)** - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Hypnotized by Alex Keeper, Tom Kha](https://open.spotify.com/track/2dTAg5ah9zgEo7bh8suyxo)
-- [Born to Be Free by Ruffnux](https://open.spotify.com/track/1SG8N1R6jboiXkfboZGxVX)
-- [Rest of My Life by Piece Wise, Eloi El](https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW)
-- [oasis by rayn](https://open.spotify.com/track/0l89lwh30Y1XZR5velToYA)
-- [Feel So Close by Y.V.E. 48, Aaron Pfeiffer](https://open.spotify.com/track/0o5SMckKtlPqLMJ3mokdMN)
+- [Feel Good Inc. by NORRA, four30](https://open.spotify.com/track/4O96X0jatfW7WuIQ1Qaeb2)
+- [Sunrise Under Palms by Relŭm](https://open.spotify.com/track/3T3w1EwODkr2moNzjoT0Xx)
+- [Paradise Found by Sunset Oasis, Sean Blanc](https://open.spotify.com/track/0AL8mdNKiApXRUfUxOaKcZ)
+- [She&#39;s so High by Viva La Panda, Her Majesty](https://open.spotify.com/track/0tJvXxa4QmpVopRJypSlLy)
+- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
