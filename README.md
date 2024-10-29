@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[milesj/emojibase](https://github.com/milesj/emojibase)** - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Losing Sight by Eijk, CLOVER](https://open.spotify.com/track/4e5BPVd9A4UBLZBsRPxJ9E)
-- [see it too by Altero, Megggi](https://open.spotify.com/track/4XFrGc9OyYWpsnhjqSgEl2)
-- [Night Drive by Relŭm](https://open.spotify.com/track/1O7lD7lSbZaR6zaRBfPyj5)
-- [Dark Nights by Panuma, Tim Hughes, Kayla](https://open.spotify.com/track/2Ixv55zR4IqrZdtNGWqHit)
-- [My Love by Gianluca Dimeo, Daniel Santoro](https://open.spotify.com/track/55yl2jVMuB0yPUJzWjJM7p)
+- [Habits (Stay High) by NORRA, AVNT:GRD](https://open.spotify.com/track/06pqBQTjITx3HYExoOYe3T)
+- [Goosebumps by Astrality](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz)
+- [crazy about you by SITHEA, LissA, clarity.](https://open.spotify.com/track/22Kg9zkWePQpMdAAY3gplQ)
+- [Your Body by le moon](https://open.spotify.com/track/0nl942hhvEAeF6w4qfw919)
+- [I&#39;ll Be Around by Elderbrook, Amtrac](https://open.spotify.com/track/32v4XcJEaB3c3NbETfJ3uV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
