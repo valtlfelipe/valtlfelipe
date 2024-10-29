@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (4 days ago)
 
 #### 🎧 What I have been listening
+- [Gemini - Ocean Edit by David Bay](https://open.spotify.com/track/7jL8WUz7wuko9csqPjElyJ)
+- [Love Cost by Zach Golden, QBSmith](https://open.spotify.com/track/50OkYBKaEf9H4apzq5opHj)
+- [Talamanca - Robin Schulz Remix by BURNS, Robin Schulz](https://open.spotify.com/track/6kZnMNLj1MnIJTM98yHsz5)
 - [I Love You, Always Forever by RadioClub, NEEKA](https://open.spotify.com/track/5pCj2jYkId4bVp3JssibLN)
 - [Always There by Weston &amp; Teston, Belle Gent](https://open.spotify.com/track/6dEWV1RKUaAyAlHTGkeFGr)
-- [Promises by Eauki](https://open.spotify.com/track/7HNzUtyXHKuNC7Dnr5jZm8)
-- [I&#39;m Good (Blue) - R3HAB Remix by David Guetta, Bebe Rexha, R3HAB](https://open.spotify.com/track/4NPJY8yFbu6YpgsgsKiEu1)
-- [Get with Me by Afgo](https://open.spotify.com/track/4u5xFwCYnQilZBeOMFXTGh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
