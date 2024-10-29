@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[milesj/emojibase](https://github.com/milesj/emojibase)** - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more. (6 days ago)
 
 #### 🎧 What I have been listening
-- [hold me now by rayn](https://open.spotify.com/track/6S2K24ezbw8PY7ALKoGxA7)
-- [The Depths by JARP, Tenjo](https://open.spotify.com/track/0o7de9GRm39xN16GpElekn)
-- [Goodbye by Lost Synths, Avondzy](https://open.spotify.com/track/2VC9g3XKfUeLHIsgQQgunF)
-- [Walking On a Dream by NEIMY](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf)
-- [Heart By Dawn by The Sunnefield, Olly Wall, Michel Fannoun](https://open.spotify.com/track/21mBE3LlK1H3Vb6NHWt8wp)
+- [All the Way by Piece Wise, Eloi El](https://open.spotify.com/track/5mHt8xsbIW661fnMBOwlTw)
+- [Rain by Astrality, MNRT, S:NE](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO)
+- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
+- [On the Line by aiden](https://open.spotify.com/track/5gD2gvgmlo72qdS7uVUH86)
+- [just like this by rayn, imallryt](https://open.spotify.com/track/4dMqhVB9JoIorQqbxBvvkC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
