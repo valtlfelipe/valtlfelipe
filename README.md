@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[milesj/emojibase](https://github.com/milesj/emojibase)** - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Habits (Stay High) by NORRA, AVNT:GRD](https://open.spotify.com/track/06pqBQTjITx3HYExoOYe3T)
-- [Goosebumps by Astrality](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz)
-- [crazy about you by SITHEA, LissA, clarity.](https://open.spotify.com/track/22Kg9zkWePQpMdAAY3gplQ)
-- [Your Body by le moon](https://open.spotify.com/track/0nl942hhvEAeF6w4qfw919)
-- [I&#39;ll Be Around by Elderbrook, Amtrac](https://open.spotify.com/track/32v4XcJEaB3c3NbETfJ3uV)
+- [Dream About You by Cloudy Bubbles](https://open.spotify.com/track/4OHXs82HQ65Ic5CLXK95rh)
+- [I Want You by Lust.](https://open.spotify.com/track/1XHQLzy4awKP4sgLK1H3zI)
+- [Morning Sun by NSH, Atch, Hobes](https://open.spotify.com/track/4FBsQTjkURcX5p9eMliVx9)
+- [søund øf yøur heartbeat by birø, KROO, Ariana Celaeno](https://open.spotify.com/track/56TaFtRKGyIYKXHta008HY)
+- [Daylight by Ayana](https://open.spotify.com/track/1NF7uZbBMpEJ1InSV76hRK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
