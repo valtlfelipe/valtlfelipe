@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[milesj/emojibase](https://github.com/milesj/emojibase)** - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more. (6 days ago)
 
 #### 🎧 What I have been listening
-- [All the Way by Piece Wise, Eloi El](https://open.spotify.com/track/5mHt8xsbIW661fnMBOwlTw)
-- [Rain by Astrality, MNRT, S:NE](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO)
-- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
-- [On the Line by aiden](https://open.spotify.com/track/5gD2gvgmlo72qdS7uVUH86)
-- [just like this by rayn, imallryt](https://open.spotify.com/track/4dMqhVB9JoIorQqbxBvvkC)
+- [Hypnotized by Alex Keeper, Tom Kha](https://open.spotify.com/track/2dTAg5ah9zgEo7bh8suyxo)
+- [Born to Be Free by Ruffnux](https://open.spotify.com/track/1SG8N1R6jboiXkfboZGxVX)
+- [Rest of My Life by Piece Wise, Eloi El](https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW)
+- [oasis by rayn](https://open.spotify.com/track/0l89lwh30Y1XZR5velToYA)
+- [Feel So Close by Y.V.E. 48, Aaron Pfeiffer](https://open.spotify.com/track/0o5SMckKtlPqLMJ3mokdMN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
