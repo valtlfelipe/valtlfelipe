@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[milesj/emojibase](https://github.com/milesj/emojibase)** - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Feel Good Inc. by NORRA, four30](https://open.spotify.com/track/4O96X0jatfW7WuIQ1Qaeb2)
-- [Sunrise Under Palms by Relŭm](https://open.spotify.com/track/3T3w1EwODkr2moNzjoT0Xx)
-- [Paradise Found by Sunset Oasis, Sean Blanc](https://open.spotify.com/track/0AL8mdNKiApXRUfUxOaKcZ)
-- [She&#39;s so High by Viva La Panda, Her Majesty](https://open.spotify.com/track/0tJvXxa4QmpVopRJypSlLy)
-- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
+- [Losing Sight by Eijk, CLOVER](https://open.spotify.com/track/4e5BPVd9A4UBLZBsRPxJ9E)
+- [see it too by Altero, Megggi](https://open.spotify.com/track/4XFrGc9OyYWpsnhjqSgEl2)
+- [Night Drive by Relŭm](https://open.spotify.com/track/1O7lD7lSbZaR6zaRBfPyj5)
+- [Dark Nights by Panuma, Tim Hughes, Kayla](https://open.spotify.com/track/2Ixv55zR4IqrZdtNGWqHit)
+- [My Love by Gianluca Dimeo, Daniel Santoro](https://open.spotify.com/track/55yl2jVMuB0yPUJzWjJM7p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
