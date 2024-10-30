@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (5 days ago)
 
 #### 🎧 What I have been listening
-- [Barely Alive by Ian Storm, Ron van den Beuken](https://open.spotify.com/track/1VRuEa4Si9rPXJZFBJJQnl)
-- [Light by Ardiyan](https://open.spotify.com/track/7KXwbvrsu9xPavuNo8ElgQ)
-- [Still (I Got Summer On My Mind) - FORTELLA Remix by JJ, FORTELLA](https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW)
-- [She Don&#39;t Dance by Ian Storm](https://open.spotify.com/track/3EeWwrhRMcPPgcJTefPdOV)
-- [Unholy (feat. Kim Petras) - ACRAZE Remix by Sam Smith, Kim Petras, ACRAZE](https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft)
+- [Belly Dancer by Imanbek, BYOR](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil)
+- [Want You - Radio Edit by ISVEL, Monroe](https://open.spotify.com/track/6f7cu55UzXIFTyQfStstNn)
+- [Fear of the Dark by ConKi, MaMan, Anna-Sophia Henry](https://open.spotify.com/track/6HRxngZoLiaEnf7Sh4UC6s)
+- [Move That Body by DAN:ROS](https://open.spotify.com/track/2uV7is59UjMXZkXPj44hwv)
+- [Strings Attached by Sha7an, AndyBear, Roads We Walk](https://open.spotify.com/track/3KODh7bd88JHjEE6dmKuwf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
