@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (5 days ago)
 
 #### 🎧 What I have been listening
-- [Belly Dancer by Imanbek, BYOR](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil)
-- [Want You - Radio Edit by ISVEL, Monroe](https://open.spotify.com/track/6f7cu55UzXIFTyQfStstNn)
-- [Fear of the Dark by ConKi, MaMan, Anna-Sophia Henry](https://open.spotify.com/track/6HRxngZoLiaEnf7Sh4UC6s)
-- [Move That Body by DAN:ROS](https://open.spotify.com/track/2uV7is59UjMXZkXPj44hwv)
-- [Strings Attached by Sha7an, AndyBear, Roads We Walk](https://open.spotify.com/track/3KODh7bd88JHjEE6dmKuwf)
+- [See Me Like This by Maui Sam, Bexxie](https://open.spotify.com/track/7gBJDMaTdWodedKfp1BKbY)
+- [Bad Days by YYVON](https://open.spotify.com/track/5x6VcHpdyBzwRYh88bkFQb)
+- [Without You by Admess](https://open.spotify.com/track/6dCHHXNqrzQCzOXNz9KEVU)
+- [Safer - Radio Edit by Berkai, ATHOS](https://open.spotify.com/track/6g3SlCXimky8SMVzs69Eon)
+- [Losing Grip by Mark Coles, 2Crimes, N@OM1](https://open.spotify.com/track/2K2N04RidwQSoSp9WsawUz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
