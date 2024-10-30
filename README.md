@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (5 days ago)
 
 #### 🎧 What I have been listening
+- [All My Life - Lucas &amp; Steve Edit by Bassjackers, Lucas &amp; Steve](https://open.spotify.com/track/7I3efKFkjTMBoFKCrwQfeF)
+- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
+- [Give It To Me by Mike Conville](https://open.spotify.com/track/06PdXgb9liL0yZRRMrhGx3)
+- [Ecletric by EDX](https://open.spotify.com/track/779p7HaX7hYS0irMq30kIy)
 - [Impossible (feat. John Martin) by David Guetta, MORTEN, John Martin](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y)
-- [Your Call (Adore You) by Joe Kox, Wace](https://open.spotify.com/track/6SPAltlzw05PXwe0BFVCax)
-- [Feel Your Love by Bhaskar, Lucas Estrada, EEVA](https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI)
-- [Superpowers - Dimitri Vegas Edit by Ilkay Sencan, Vintage Culture, Yoelle, Dimitri Vegas](https://open.spotify.com/track/1eWsKIHgYzYCMRwSwnNVE9)
-- [Cry About It Later (feat. Luísa Sonza &amp; Bruno Martini) by Katy Perry, Luísa Sonza, Bruno Martini](https://open.spotify.com/track/43WYPxyEfIxlIjNlxQGYzc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
