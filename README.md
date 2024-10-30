@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (5 days ago)
 
 #### 🎧 What I have been listening
-- [Looking For Your Love by Admess, Guille Alvarez, Sams](https://open.spotify.com/track/1JaJzSP069E3K6n1CXJdd4)
-- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/3j11iDncb7ZeDMw7lFucqM)
-- [Stop The Drama by Simon Dekkers](https://open.spotify.com/track/6aVG4WgwlWcAmeAd5KlwUZ)
-- [Tell Me Why by Jacala, Khealo, Lemon Solstice](https://open.spotify.com/track/4b6QqUDaM4UizKBRDXWs6K)
-- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ)
+- [Barely Alive by Ian Storm, Ron van den Beuken](https://open.spotify.com/track/1VRuEa4Si9rPXJZFBJJQnl)
+- [Light by Ardiyan](https://open.spotify.com/track/7KXwbvrsu9xPavuNo8ElgQ)
+- [Still (I Got Summer On My Mind) - FORTELLA Remix by JJ, FORTELLA](https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW)
+- [She Don&#39;t Dance by Ian Storm](https://open.spotify.com/track/3EeWwrhRMcPPgcJTefPdOV)
+- [Unholy (feat. Kim Petras) - ACRAZE Remix by Sam Smith, Kim Petras, ACRAZE](https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
