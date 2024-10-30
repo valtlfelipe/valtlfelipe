@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (5 days ago)
 
 #### 🎧 What I have been listening
-- [You Were Right by RÜFÜS DU SOL](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz)
-- [Drivers License by Karma Child, WISEKIDS](https://open.spotify.com/track/6xg4Auc6lQ75fTuzckPdMF)
-- [So Sorry by Rudimental, Skream](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU)
-- [Elements Of A New Life by VER:WEST, Tiësto](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs)
-- [Baltasound by Marco Dalla Villa](https://open.spotify.com/track/3KDcZtyZnYAK8eagMQWcc5)
+- [Impossible (feat. John Martin) by David Guetta, MORTEN, John Martin](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y)
+- [Your Call (Adore You) by Joe Kox, Wace](https://open.spotify.com/track/6SPAltlzw05PXwe0BFVCax)
+- [Feel Your Love by Bhaskar, Lucas Estrada, EEVA](https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI)
+- [Superpowers - Dimitri Vegas Edit by Ilkay Sencan, Vintage Culture, Yoelle, Dimitri Vegas](https://open.spotify.com/track/1eWsKIHgYzYCMRwSwnNVE9)
+- [Cry About It Later (feat. Luísa Sonza &amp; Bruno Martini) by Katy Perry, Luísa Sonza, Bruno Martini](https://open.spotify.com/track/43WYPxyEfIxlIjNlxQGYzc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
