@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (5 days ago)
 
 #### 🎧 What I have been listening
-- [Vuelta Al Sol by Tomas Novoa](https://open.spotify.com/track/2Tc7bA1t9DaphQLjpOUfJf)
-- [Side Effect (feat. Au/Ra) by Alok, Au/Ra](https://open.spotify.com/track/4oGo7473OiyYAxpx4UpCIR)
-- [Pepas - David Guetta Remix by Farruko, David Guetta](https://open.spotify.com/track/75sMhi81W5Tw2AGlOGATuy)
-- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC)
-- [Gemini - Ocean Edit by David Bay](https://open.spotify.com/track/7jL8WUz7wuko9csqPjElyJ)
+- [You Were Right by RÜFÜS DU SOL](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz)
+- [Drivers License by Karma Child, WISEKIDS](https://open.spotify.com/track/6xg4Auc6lQ75fTuzckPdMF)
+- [So Sorry by Rudimental, Skream](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU)
+- [Elements Of A New Life by VER:WEST, Tiësto](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs)
+- [Baltasound by Marco Dalla Villa](https://open.spotify.com/track/3KDcZtyZnYAK8eagMQWcc5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
