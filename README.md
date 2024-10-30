@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (5 days ago)
 
 #### 🎧 What I have been listening
-- [ROCKSTAR (feat. Roddy Ricch) by DaBaby, Roddy Ricch](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4)
-- [The Riddle by Zuffo, Gabzy](https://open.spotify.com/track/11Ep3GPwHbZZzW6kZqe3Bm)
-- [Belong To Me by YONE, Player1](https://open.spotify.com/track/0DkrGuRjHI3rH03O6cdwjo)
-- [Like Home by Robby East](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A)
-- [Hotel California - 2013 Remaster by Eagles](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv)
+- [Looking For Your Love by Admess, Guille Alvarez, Sams](https://open.spotify.com/track/1JaJzSP069E3K6n1CXJdd4)
+- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/3j11iDncb7ZeDMw7lFucqM)
+- [Stop The Drama by Simon Dekkers](https://open.spotify.com/track/6aVG4WgwlWcAmeAd5KlwUZ)
+- [Tell Me Why by Jacala, Khealo, Lemon Solstice](https://open.spotify.com/track/4b6QqUDaM4UizKBRDXWs6K)
+- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
