@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (5 days ago)
 
 #### 🎧 What I have been listening
-- [See Me Like This by Maui Sam, Bexxie](https://open.spotify.com/track/7gBJDMaTdWodedKfp1BKbY)
-- [Bad Days by YYVON](https://open.spotify.com/track/5x6VcHpdyBzwRYh88bkFQb)
-- [Without You by Admess](https://open.spotify.com/track/6dCHHXNqrzQCzOXNz9KEVU)
-- [Safer - Radio Edit by Berkai, ATHOS](https://open.spotify.com/track/6g3SlCXimky8SMVzs69Eon)
-- [Losing Grip by Mark Coles, 2Crimes, N@OM1](https://open.spotify.com/track/2K2N04RidwQSoSp9WsawUz)
+- [Love Really Hurts Without You by Amfree, Galisha](https://open.spotify.com/track/2DMSC8XDbOoWERVCZblcCC)
+- [REACT by Switch Disco, Ella Henderson, Robert Miles](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi)
+- [I Never Want This Night To End by DJ Soushi, Roads We Walk, Adam Lyons](https://open.spotify.com/track/62K37H1YxhnTJNnESzKoRW)
+- [Mind Be Free by ACAY, Michael Ford](https://open.spotify.com/track/5Mud6JOs11M9mzxBz9VoLG)
+- [Sinners - Radio Edit by Indicate](https://open.spotify.com/track/1Kfb0LTK1HAVlXZbP6VKti)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
