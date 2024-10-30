@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (5 days ago)
 
 #### 🎧 What I have been listening
-- [Love Really Hurts Without You by Amfree, Galisha](https://open.spotify.com/track/2DMSC8XDbOoWERVCZblcCC)
-- [REACT by Switch Disco, Ella Henderson, Robert Miles](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi)
-- [I Never Want This Night To End by DJ Soushi, Roads We Walk, Adam Lyons](https://open.spotify.com/track/62K37H1YxhnTJNnESzKoRW)
-- [Mind Be Free by ACAY, Michael Ford](https://open.spotify.com/track/5Mud6JOs11M9mzxBz9VoLG)
-- [Sinners - Radio Edit by Indicate](https://open.spotify.com/track/1Kfb0LTK1HAVlXZbP6VKti)
+- [Wish You Were Here by midkeys, BETASTIC](https://open.spotify.com/track/4PU5pkAAb3VyckFx0dkan3)
+- [Can&#39;t Say No by MARE](https://open.spotify.com/track/4Pd2NJeHjNosBiw6yZE7g6)
+- [Hear My Call - Radio Edit by Tom Pulse, Ron van den Beuken](https://open.spotify.com/track/7nFI8NuWavlt3qQSBpSrBf)
+- [Give In To You by Salasnich, Ynnox](https://open.spotify.com/track/1zGXavCqgIzACNm9AHopYB)
+- [This Is The End by So Worry](https://open.spotify.com/track/6PQtQRexaWewHMZmx0PrCo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
