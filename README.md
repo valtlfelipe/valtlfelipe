@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (6 days ago)
 
 #### 🎧 What I have been listening
-- [Rock My Body by R3HAB, INNA, Sash!](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU)
-- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
-- [Friday (feat. Mufasa &amp; Hypeman) - Dopamine Re-Edit by Riton, Nightcrawlers, Mufasa &amp; Hypeman, Mufasa, Dopamine](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl)
-- [Prada by cassö, RAYE, D-Block Europe](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i)
-- [WIWU by Gianluca Dimeo, Oscar Duke](https://open.spotify.com/track/2MrZG26Qi7BeQTDHlX1C1o)
+- [All Or Nothing by Topic, HRVY](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH)
+- [Every Breath You Take by Ian Storm, Ron van den Beuken, Menno](https://open.spotify.com/track/1AhJvwSNM0VcQClYZkpyZd)
+- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
+- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
+- [Missing by Ian Storm, SilkandStones, Menno](https://open.spotify.com/track/6MWqosLyBiQi4myJ86PnVj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
