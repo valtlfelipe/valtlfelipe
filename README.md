@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (6 days ago)
 
 #### 🎧 What I have been listening
-- [Scared To Be Lonely by Futosé, Halfway, Chelsea Nicole](https://open.spotify.com/track/0t035AdKuD4p1aC4yBG1a6)
-- [My Heart Goes (La Di Da) (feat. Topic) by Becky Hill, Topic](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe)
-- [In My Heart by Hugo Carter](https://open.spotify.com/track/6Rdo71xXRpmWbfOYWbAUAh)
-- [Holding On by Harry Bolton](https://open.spotify.com/track/0s4xhRPu3mksDPQdvs2zy2)
-- [Billie (loving arms) by Fred again..](https://open.spotify.com/track/1vW12BfxjOQKYElBm9ttW9)
+- [Eyes On You by Balynt](https://open.spotify.com/track/0ghxdsiQAV2GpbWannJzHS)
+- [The Motto by Carl Clarks, Michael Ford, Falko Niestolik](https://open.spotify.com/track/6H2ZYODJDjQ2idzI5tCVAy)
+- [Eat Your Man (with Nelly Furtado) by Dom Dolla, Nelly Furtado](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW)
+- [Break My Heart by Futosé, Halfway](https://open.spotify.com/track/3gcKdPmHVgXo4VBJn4MSQ7)
+- [Guilty by Blrrdpctrs](https://open.spotify.com/track/6Ja8DS0zRGnNKlLKtui9Xn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
