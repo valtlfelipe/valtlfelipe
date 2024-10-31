@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (6 days ago)
 
 #### 🎧 What I have been listening
-- [Eyes On You by Balynt](https://open.spotify.com/track/0ghxdsiQAV2GpbWannJzHS)
-- [The Motto by Carl Clarks, Michael Ford, Falko Niestolik](https://open.spotify.com/track/6H2ZYODJDjQ2idzI5tCVAy)
-- [Eat Your Man (with Nelly Furtado) by Dom Dolla, Nelly Furtado](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW)
-- [Break My Heart by Futosé, Halfway](https://open.spotify.com/track/3gcKdPmHVgXo4VBJn4MSQ7)
-- [Guilty by Blrrdpctrs](https://open.spotify.com/track/6Ja8DS0zRGnNKlLKtui9Xn)
+- [Someone Else &#39;s Love by SAINT.](https://open.spotify.com/track/4xU6cA6qRH4iGHSMfffdbe)
+- [Lights by BIONT, Ale Poe](https://open.spotify.com/track/2Boc6HLOlZatOtefwmMHnP)
+- [True Colors by Mark Coles, Ron van den Beuken, Menno](https://open.spotify.com/track/35q5bE3HNS08S0NBFoXQGE)
+- [Good Love by Hannah Laing, RoRo](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP)
+- [You Say by nineveh.](https://open.spotify.com/track/5EgDn8vxaZ7qLpP3amICiO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
