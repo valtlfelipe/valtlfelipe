@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (6 days ago)
 
 #### 🎧 What I have been listening
-- [Unseen Paths by Amphose](https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm)
-- [Serendipity by Sol Reya](https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N)
-- [Solstice Waves by Eternalistic](https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu)
-- [Celestial Bliss by Felix Lancaster](https://open.spotify.com/track/7KM2IzL238AnUMw7FqWrRB)
-- [Placid Echoes by Leon White](https://open.spotify.com/track/7ybzymL0w0XYyJaBeqFSRy)
+- [Rock My Body by R3HAB, INNA, Sash!](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU)
+- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
+- [Friday (feat. Mufasa &amp; Hypeman) - Dopamine Re-Edit by Riton, Nightcrawlers, Mufasa &amp; Hypeman, Mufasa, Dopamine](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl)
+- [Prada by cassö, RAYE, D-Block Europe](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i)
+- [WIWU by Gianluca Dimeo, Oscar Duke](https://open.spotify.com/track/2MrZG26Qi7BeQTDHlX1C1o)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
