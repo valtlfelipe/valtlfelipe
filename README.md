@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (6 days ago)
 
 #### 🎧 What I have been listening
-- [All Or Nothing by Topic, HRVY](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH)
-- [Every Breath You Take by Ian Storm, Ron van den Beuken, Menno](https://open.spotify.com/track/1AhJvwSNM0VcQClYZkpyZd)
-- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
-- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
-- [Missing by Ian Storm, SilkandStones, Menno](https://open.spotify.com/track/6MWqosLyBiQi4myJ86PnVj)
+- [Lost by MARE, TWINNS, Dolphan](https://open.spotify.com/track/2jsFMbqYY8YItrHZQw8WQh)
+- [Upside Down by REVERSE](https://open.spotify.com/track/0L7HxBGhRCCSsp9OLXI56R)
+- [Peaches by Dressy](https://open.spotify.com/track/0t8R9yqjuKvJBfJ876FB6H)
+- [Love You by Ex Music, Lintrepy](https://open.spotify.com/track/4tRbPCxbmdnMIggrxGT07U)
+- [Time - Radio Edit by Tom Brownlow, JenJammin Sax](https://open.spotify.com/track/0A2JHTrcWEdRdZsUd9SzHB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
