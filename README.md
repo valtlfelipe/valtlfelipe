@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (6 days ago)
 
 #### 🎧 What I have been listening
-- [Tides by Manuel Wall](https://open.spotify.com/track/6RPNnOJ5l8PsTea79JNWej)
-- [For a moment by Benjin Blund](https://open.spotify.com/track/3jpblyEuLgkdrhGm6nKJz5)
-- [Along by Decanõe](https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj)
-- [Wish You Were Here by midkeys, BETASTIC](https://open.spotify.com/track/4PU5pkAAb3VyckFx0dkan3)
-- [Can&#39;t Say No by MARE](https://open.spotify.com/track/4Pd2NJeHjNosBiw6yZE7g6)
+- [Unseen Paths by Amphose](https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm)
+- [Serendipity by Sol Reya](https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N)
+- [Solstice Waves by Eternalistic](https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu)
+- [Celestial Bliss by Felix Lancaster](https://open.spotify.com/track/7KM2IzL238AnUMw7FqWrRB)
+- [Placid Echoes by Leon White](https://open.spotify.com/track/7ybzymL0w0XYyJaBeqFSRy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
