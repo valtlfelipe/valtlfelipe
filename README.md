@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (6 days ago)
 
 #### 🎧 What I have been listening
+- [Don’t Need Your Love by Enrey](https://open.spotify.com/track/3EQcIduDpzULHCtBtbcHbR)
 - [Faded Lights by Hobes, Kidd Thorn](https://open.spotify.com/track/7ftDNs7zqZj5xXrvY8sMrD)
 - [Honey by Hugo Carter](https://open.spotify.com/track/4XFliHcv5CvnM8ywM2LoEi)
 - [You - Radio Edit by Skyles](https://open.spotify.com/track/6d5OLkd7LDzyaGUz3k0XI1)
 - [Something Was Missing by RAZZ, Lotus](https://open.spotify.com/track/245RyaFVnJkLT7wPjWDp6s)
-- [Somebody That I Used To Know by James Cole, Kevin McKay, Darcey, Simon Ellis](https://open.spotify.com/track/6h49997adA3XWCX9zMQKbX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
