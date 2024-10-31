@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo)** - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (6 days ago)
 
 #### 🎧 What I have been listening
-- [Feel Like Dancing by Ian Storm](https://open.spotify.com/track/3tVozuW2Tzd4qX3ZxQ4zfU)
-- [Angel Numbers - Radio Edit by DJ Zaro, Mark Coles](https://open.spotify.com/track/0v5NxL3Btp9AYNVn1rJ2Tf)
-- [Ain&#39;t No Sunshine - Radio Edit by Horbatso](https://open.spotify.com/track/3ZOM3L1rGv5wwWBuYGAYw8)
-- [Danielle (smile on my face) by Fred again.., 070 Shake](https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8)
-- [Sunny by Mr. Black &amp; Blue, Dalton Brothers](https://open.spotify.com/track/7mXapHdPatBtGfR1M48qdW)
+- [Helium - Radio Edit by Malpa, Deepest, AMHouse](https://open.spotify.com/track/3zF673YHYEQFUthQfQ3W8h)
+- [All Feels New - Radio Edit by AZON](https://open.spotify.com/track/5gevZRxuCYC94OWpqhHQFf)
+- [Lovefool by twocolors](https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4)
+- [Stayin&#39; Alive by Mr. Black &amp; Blue, Wesley Verstegen](https://open.spotify.com/track/7IDzSquVaC1XgxJPhhaLI8)
+- [One (Your Name) - Radio Edit by Swedish House Mafia, Pharrell Williams](https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
