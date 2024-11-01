@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[freeedcom/ai-codereviewer](https://github.com/freeedcom/ai-codereviewer)** - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI&#39;s GPT-4 API, improving code quality and saving developers time. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Feel It by Under Above](https://open.spotify.com/track/02aX4VxgAEgigAKrb2NWyR)
+- [Close To You by Ardiyan](https://open.spotify.com/track/1uyosRshFcdYCeLegnFzQj)
+- [All Night by Michael Ford](https://open.spotify.com/track/0Zo7pvdoNfjDTzN7RkO5vc)
+- [When Doves Cry by Michael Ford](https://open.spotify.com/track/0I7OqRXF1B3iLQocXNKQX7)
 - [Don&#39;t Mess by Michael Ford, H.I.S.E.](https://open.spotify.com/track/3Buq2slVJfiCugm9HU3nEF)
-- [You Can&#39;t Stop Me Now by PINKFISH](https://open.spotify.com/track/3aQZ7e513FU2Nv426d36QC)
-- [Cult by Ritmo Kartel, Chris Ultranova](https://open.spotify.com/track/4UK3s3HrOJHKN9pE6pK3sL)
-- [Divine by YYVON](https://open.spotify.com/track/6aDHfuXiEdwliIssgLweam)
-- [You Know by Wallbrane](https://open.spotify.com/track/7s9DmsCSLiiXn3DVPaGbFz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
