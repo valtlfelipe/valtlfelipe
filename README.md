@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[freeedcom/ai-codereviewer](https://github.com/freeedcom/ai-codereviewer)** - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI&#39;s GPT-4 API, improving code quality and saving developers time. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Done With Your Love by Skyles](https://open.spotify.com/track/7Hj5xReDCPahGVAWMLQqrS)
+- [Self Control by Red Lemon, Michael Ford, POLINA, WERDY](https://open.spotify.com/track/61gOeD0Kc5IytE6L5ru5RK)
+- [For You - Radio Edit by Bytes](https://open.spotify.com/track/0pPe0raqvqitErFIsbcuTF)
+- [Take Me High by Freddie Mudge](https://open.spotify.com/track/6y46S7U3m3gajqEmNMfSAr)
 - [My Focus Is You by KaVn](https://open.spotify.com/track/2NxeZ4SKtzjrlj4vuYr18g)
-- [Another Day In Paradise by Ricky Gazetta](https://open.spotify.com/track/4iJQwEWqYRMWXXlk0AzyEv)
-- [Never Going Home by Kungs](https://open.spotify.com/track/6ju5Ntn5pYksvkKxVkjEPK)
-- [Let The Music Take Control by PINKFISH](https://open.spotify.com/track/4pvoOCoh4uhBGcMEdHQ3kP)
-- [Flowers by Vic Laos, Tazmin](https://open.spotify.com/track/4HxAjhDDxI03vW25lVaceO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
