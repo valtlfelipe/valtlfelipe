@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[freeedcom/ai-codereviewer](https://github.com/freeedcom/ai-codereviewer)** - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI&#39;s GPT-4 API, improving code quality and saving developers time. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Latch by Disclosure, Sam Smith](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr)
-- [Killing Me Softly (feat. Kate Aster) by DJ Blighty, Kate Aster](https://open.spotify.com/track/6tZVfJMk9iuLNLmagoensg)
-- [Your Body by PRINSH](https://open.spotify.com/track/33MryBXt7Zc7lO8aWLKPvF)
-- [My My My by Armand Van Helden](https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS)
-- [Memories by Futosé, Halfway](https://open.spotify.com/track/0A3Cof0Zfq1YaZbmjUDsrB)
+- [Don&#39;t Mess by Michael Ford, H.I.S.E.](https://open.spotify.com/track/3Buq2slVJfiCugm9HU3nEF)
+- [You Can&#39;t Stop Me Now by PINKFISH](https://open.spotify.com/track/3aQZ7e513FU2Nv426d36QC)
+- [Cult by Ritmo Kartel, Chris Ultranova](https://open.spotify.com/track/4UK3s3HrOJHKN9pE6pK3sL)
+- [Divine by YYVON](https://open.spotify.com/track/6aDHfuXiEdwliIssgLweam)
+- [You Know by Wallbrane](https://open.spotify.com/track/7s9DmsCSLiiXn3DVPaGbFz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
