@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)** - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (3 days ago)
 
 #### 🎧 What I have been listening
+- [Let Me Go - Radio Edit by Lee Morris, Conor Robertson](https://open.spotify.com/track/6uigz600yh6k1GIRSJ9yWI)
+- [Dance so Well by Wadi](https://open.spotify.com/track/5lvzxnQGXQIVXXtqgBiiZB)
 - [Playing For Time by PINKFISH](https://open.spotify.com/track/7KCVNAQAivhQ9GaYUwmX5x)
 - [Something to Chase by Rufus Palma, VEME, Gabby Patrice](https://open.spotify.com/track/4SHsf4kGCiFuwPuTbMkwBd)
 - [Wreck by EMDI, B.R.T, Lexi White](https://open.spotify.com/track/1WNTVfd9C5FsXH3c89phe3)
-- [Pa Que Sude - Radio Edit by Carlos Pintor, Seiken, Kra Martinez, Aroa Fernandez](https://open.spotify.com/track/0Z4xBtCQPotqtRmyLCf8Pw)
-- [Moon Roof by Bless You](https://open.spotify.com/track/3M4wp9qPWthNKulepKwsc1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
