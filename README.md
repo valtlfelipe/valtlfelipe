@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)** - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Easy To Love - Radio Edit by Capsalon](https://open.spotify.com/track/420MmMpP4kqrFETpkIDQiz)
-- [Million Voices - Radio Edit by Otto Knows](https://open.spotify.com/track/1gJbFyxVnTF8RTGCLyQxCL)
-- [Missing You - Radio Edit by Scott Forshaw](https://open.spotify.com/track/2D7hGWADliEQ4TNQQLkrH0)
-- [You (Shouldn’t Be Here) by mimiiQ](https://open.spotify.com/track/5Iv76gglqEC9zcZwiqsQ6p)
-- [Now Or Never by Dallax](https://open.spotify.com/track/5jhzsdFLZUQxWqjRkZEqbO)
+- [Playing For Time by PINKFISH](https://open.spotify.com/track/7KCVNAQAivhQ9GaYUwmX5x)
+- [Something to Chase by Rufus Palma, VEME, Gabby Patrice](https://open.spotify.com/track/4SHsf4kGCiFuwPuTbMkwBd)
+- [Wreck by EMDI, B.R.T, Lexi White](https://open.spotify.com/track/1WNTVfd9C5FsXH3c89phe3)
+- [Pa Que Sude - Radio Edit by Carlos Pintor, Seiken, Kra Martinez, Aroa Fernandez](https://open.spotify.com/track/0Z4xBtCQPotqtRmyLCf8Pw)
+- [Moon Roof by Bless You](https://open.spotify.com/track/3M4wp9qPWthNKulepKwsc1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
