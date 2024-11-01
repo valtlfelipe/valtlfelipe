@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)** - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (3 days ago)
 
 #### 🎧 What I have been listening
-- [I Know by James Godfrey, MELØ](https://open.spotify.com/track/5PUWrDSgi6x2aGHZG2VtEd)
-- [Kodak Moment by Maikko](https://open.spotify.com/track/7qBzQPL48WnIhKtceURlem)
-- [Bulletproof by La Roux, GAMPER &amp; DADONI](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon)
-- [Maybe Just For Tonight by LEØN TARØ, Yasmin Jane](https://open.spotify.com/track/0oezb5HSh8So2grwRnAHxY)
-- [Together by Coco de Sax, Rob Eyez](https://open.spotify.com/track/4c79UOotXIBuxiIIAaM9Ws)
+- [Don&#39;t You Go by Mariline, Robbie Hutton](https://open.spotify.com/track/46ynJJlCAHdu8hZdCGKtIk)
+- [Than Ever by Toni Brand](https://open.spotify.com/track/5TeFZ4WK1oq5NMYJzkKaBK)
+- [Fight For Love - Radio Edit by Jeanway](https://open.spotify.com/track/3dJmD9T7Z2uS1Fkr1ECIMY)
+- [Ain&#39;t Right by Rob Eyez](https://open.spotify.com/track/5Ng1mfUY2nncQAjFwBJVZB)
+- [It&#39;s You by Mariline, Anzo Gronso](https://open.spotify.com/track/1yVTHGtc9b9Q1Ln9xAZai9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
