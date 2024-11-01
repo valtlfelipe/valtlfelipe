@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[freeedcom/ai-codereviewer](https://github.com/freeedcom/ai-codereviewer)** - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI&#39;s GPT-4 API, improving code quality and saving developers time. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Alone - Radio Edit by Mant Deep, Indicate](https://open.spotify.com/track/1vvKqxjZpVe7FG1yWirAib)
+- [My Paradise by Jamie Jones](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu)
+- [Ready For This - Radio Edit by DAN:ROS](https://open.spotify.com/track/202gOUWevwVBnpMrpUnw42)
+- [Got The Feeling by Under Above, Donny Snipes](https://open.spotify.com/track/0BAgWj4ZJthYRpBFGfEkP3)
 - [Feel It by Under Above](https://open.spotify.com/track/02aX4VxgAEgigAKrb2NWyR)
-- [Close To You by Ardiyan](https://open.spotify.com/track/1uyosRshFcdYCeLegnFzQj)
-- [All Night by Michael Ford](https://open.spotify.com/track/0Zo7pvdoNfjDTzN7RkO5vc)
-- [When Doves Cry by Michael Ford](https://open.spotify.com/track/0I7OqRXF1B3iLQocXNKQX7)
-- [Don&#39;t Mess by Michael Ford, H.I.S.E.](https://open.spotify.com/track/3Buq2slVJfiCugm9HU3nEF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
