@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[freeedcom/ai-codereviewer](https://github.com/freeedcom/ai-codereviewer)** - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI&#39;s GPT-4 API, improving code quality and saving developers time. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lose Control by Heim](https://open.spotify.com/track/3vOvfUbkrRzC5gxzy9CBqr)
-- [Not Fair by Niklas Dee, Old Jim, Enny-Mae](https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU)
-- [Living For The Moment by SOULF](https://open.spotify.com/track/6JjOVpvBzPQT00Yz4bPHIX)
-- [Don&#39;t Let Me Break - Radio Edit by Vennom, Linus Bruhn](https://open.spotify.com/track/3JLZj9FgHVZPncREfDPHJd)
-- [So Much In Love by D.O.D](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL)
+- [Latch by Disclosure, Sam Smith](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr)
+- [Killing Me Softly (feat. Kate Aster) by DJ Blighty, Kate Aster](https://open.spotify.com/track/6tZVfJMk9iuLNLmagoensg)
+- [Your Body by PRINSH](https://open.spotify.com/track/33MryBXt7Zc7lO8aWLKPvF)
+- [My My My by Armand Van Helden](https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS)
+- [Memories by Futosé, Halfway](https://open.spotify.com/track/0A3Cof0Zfq1YaZbmjUDsrB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
