@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[tw93/Pake](https://github.com/tw93/Pake)** - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (today)
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 day ago)
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (3 days ago)
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (3 days ago)
 - **[FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)** - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (3 days ago)
-- **[freeedcom/ai-codereviewer](https://github.com/freeedcom/ai-codereviewer)** - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI&#39;s GPT-4 API, improving code quality and saving developers time. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Alone - Radio Edit by Mant Deep, Indicate](https://open.spotify.com/track/1vvKqxjZpVe7FG1yWirAib)
-- [My Paradise by Jamie Jones](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu)
-- [Ready For This - Radio Edit by DAN:ROS](https://open.spotify.com/track/202gOUWevwVBnpMrpUnw42)
-- [Got The Feeling by Under Above, Donny Snipes](https://open.spotify.com/track/0BAgWj4ZJthYRpBFGfEkP3)
-- [Feel It by Under Above](https://open.spotify.com/track/02aX4VxgAEgigAKrb2NWyR)
+- [I Know by James Godfrey, MELØ](https://open.spotify.com/track/5PUWrDSgi6x2aGHZG2VtEd)
+- [Kodak Moment by Maikko](https://open.spotify.com/track/7qBzQPL48WnIhKtceURlem)
+- [Bulletproof by La Roux, GAMPER &amp; DADONI](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon)
+- [Maybe Just For Tonight by LEØN TARØ, Yasmin Jane](https://open.spotify.com/track/0oezb5HSh8So2grwRnAHxY)
+- [Together by Coco de Sax, Rob Eyez](https://open.spotify.com/track/4c79UOotXIBuxiIIAaM9Ws)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
