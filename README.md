@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)** - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Don&#39;t You Go by Mariline, Robbie Hutton](https://open.spotify.com/track/46ynJJlCAHdu8hZdCGKtIk)
-- [Than Ever by Toni Brand](https://open.spotify.com/track/5TeFZ4WK1oq5NMYJzkKaBK)
-- [Fight For Love - Radio Edit by Jeanway](https://open.spotify.com/track/3dJmD9T7Z2uS1Fkr1ECIMY)
-- [Ain&#39;t Right by Rob Eyez](https://open.spotify.com/track/5Ng1mfUY2nncQAjFwBJVZB)
-- [It&#39;s You by Mariline, Anzo Gronso](https://open.spotify.com/track/1yVTHGtc9b9Q1Ln9xAZai9)
+- [Easy To Love - Radio Edit by Capsalon](https://open.spotify.com/track/420MmMpP4kqrFETpkIDQiz)
+- [Million Voices - Radio Edit by Otto Knows](https://open.spotify.com/track/1gJbFyxVnTF8RTGCLyQxCL)
+- [Missing You - Radio Edit by Scott Forshaw](https://open.spotify.com/track/2D7hGWADliEQ4TNQQLkrH0)
+- [You (Shouldn’t Be Here) by mimiiQ](https://open.spotify.com/track/5Iv76gglqEC9zcZwiqsQ6p)
+- [Now Or Never by Dallax](https://open.spotify.com/track/5jhzsdFLZUQxWqjRkZEqbO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
