@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)** - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Something In The Water - Radio Edit by Naizon](https://open.spotify.com/track/1sMO4s1RyZafyjdxkFbvOr)
-- [Make Luv by Room 5, Oliver Cheatham](https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH)
-- [Dark Side Of The Moon by Kadett](https://open.spotify.com/track/0HXNcx9L3SP4pNl2DnSACC)
-- [Feel It by PINKFISH](https://open.spotify.com/track/7pS4ztoYxgBiXjZqkgWpML)
-- [California Nights - Radio Edit by Under Above, Recap, Leela D](https://open.spotify.com/track/4no5BKoO7x2vA96oAoNEYS)
+- [Show My Heart by Elkana Paz](https://open.spotify.com/track/2sSyHBIF65eVc9dxFH88gW)
+- [Never Enough by Jayanth Ak, Anup4m](https://open.spotify.com/track/251hjFcZ0LdFVWUES8WrOg)
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
+- [Drown by Marbez](https://open.spotify.com/track/69BjChIU1bGtQaDCzr4exG)
+- [Summer Of Love - Radio Edit by Joan Ember, Leo Teran](https://open.spotify.com/track/6Q0nLXvvUR7t6QluhLqejx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
