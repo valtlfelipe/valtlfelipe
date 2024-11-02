@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)** - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Sun Is Up - Play &amp; Win Radio Version by INNA](https://open.spotify.com/track/3ftzYJHTnDFHUFw5C3Tnuh)
-- [Turn Me On (feat. Vula) by Riton, Oliver Heldens, Vula](https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9)
-- [I Need You - Radio Edit by Red Lemon](https://open.spotify.com/track/2ycfPHbSoY2stOh2legiFG)
-- [Crying On The Dancefloor by Sam Feldt, Jonas Blue, Endless Summer, Violet Days](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6)
-- [Back For You by GUESSWHO, DVNY, POURIA](https://open.spotify.com/track/3CNqygqLuDK2MDxCKaKXnl)
+- [Something In The Water - Radio Edit by Naizon](https://open.spotify.com/track/1sMO4s1RyZafyjdxkFbvOr)
+- [Make Luv by Room 5, Oliver Cheatham](https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH)
+- [Dark Side Of The Moon by Kadett](https://open.spotify.com/track/0HXNcx9L3SP4pNl2DnSACC)
+- [Feel It by PINKFISH](https://open.spotify.com/track/7pS4ztoYxgBiXjZqkgWpML)
+- [California Nights - Radio Edit by Under Above, Recap, Leela D](https://open.spotify.com/track/4no5BKoO7x2vA96oAoNEYS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
