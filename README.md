@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)** - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Let Me Go - Radio Edit by Lee Morris, Conor Robertson](https://open.spotify.com/track/6uigz600yh6k1GIRSJ9yWI)
-- [Dance so Well by Wadi](https://open.spotify.com/track/5lvzxnQGXQIVXXtqgBiiZB)
-- [Playing For Time by PINKFISH](https://open.spotify.com/track/7KCVNAQAivhQ9GaYUwmX5x)
-- [Something to Chase by Rufus Palma, VEME, Gabby Patrice](https://open.spotify.com/track/4SHsf4kGCiFuwPuTbMkwBd)
-- [Wreck by EMDI, B.R.T, Lexi White](https://open.spotify.com/track/1WNTVfd9C5FsXH3c89phe3)
+- [Sun Is Up - Play &amp; Win Radio Version by INNA](https://open.spotify.com/track/3ftzYJHTnDFHUFw5C3Tnuh)
+- [Turn Me On (feat. Vula) by Riton, Oliver Heldens, Vula](https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9)
+- [I Need You - Radio Edit by Red Lemon](https://open.spotify.com/track/2ycfPHbSoY2stOh2legiFG)
+- [Crying On The Dancefloor by Sam Feldt, Jonas Blue, Endless Summer, Violet Days](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6)
+- [Back For You by GUESSWHO, DVNY, POURIA](https://open.spotify.com/track/3CNqygqLuDK2MDxCKaKXnl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
