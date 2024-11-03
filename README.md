@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (5 days ago)
 
 #### 🎧 What I have been listening
-- [Children - Edit Mix by Tinlicker, Robert Miles](https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV)
-- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
-- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
-- [This Is What It Feels Like - Armin van Buuren 2023 Remix by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK)
-- [Better Off (Alone, Pt. III) by Alan Walker, Dash Berlin, Vikkstar](https://open.spotify.com/track/0SML6wWerD0yI2Xd4OUC1R)
+- [Jamming - FISHER Rework by Bob Marley &amp; The Wailers, FISHER](https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [yes, and? - Felix Jaehn Remix by Ariana Grande, Felix Jaehn](https://open.spotify.com/track/6R5licKQW6P3UD64RWtKxb)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [Vois sur ton chemin - Techno Mix by BENNETT](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
