@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (5 days ago)
 
 #### 🎧 What I have been listening
-- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
-- [Free by Third Party](https://open.spotify.com/track/1tOTq5hXlLeKbqOVn8ddMF)
-- [10:35 (feat. Tate McRae) - Joel Corry Remix by Tiësto, Joel Corry, Tate McRae](https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB)
-- [Throw Some Ass by Sofi Tukker](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR)
-- [Chasing Highs - Felix Cartal Remix by ALMA, Felix Cartal](https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw)
+- [Children - Edit Mix by Tinlicker, Robert Miles](https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV)
+- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
+- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
+- [This Is What It Feels Like - Armin van Buuren 2023 Remix by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK)
+- [Better Off (Alone, Pt. III) by Alan Walker, Dash Berlin, Vikkstar](https://open.spotify.com/track/0SML6wWerD0yI2Xd4OUC1R)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
