@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (5 days ago)
 
 #### 🎧 What I have been listening
+- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
+- [Baddy On The Floor by Jamie xx, Honey Dijon](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN)
+- [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
 - [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
 - [Show My Heart by Elkana Paz](https://open.spotify.com/track/2sSyHBIF65eVc9dxFH88gW)
-- [Never Enough by Jayanth Ak, Anup4m](https://open.spotify.com/track/251hjFcZ0LdFVWUES8WrOg)
-- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
-- [Drown by Marbez](https://open.spotify.com/track/69BjChIU1bGtQaDCzr4exG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
