@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (5 days ago)
 
 #### 🎧 What I have been listening
-- [i like the way you kiss me - southstar remix by Artemas, southstar](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2)
-- [New Rules - KREAM Remix by Dua Lipa, KREAM](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4)
-- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
-- [Fever by Lewis Thompson, Punctual, Hight](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt)
-- [Is This Love by LP Giobbi, Danielle Ponder](https://open.spotify.com/track/6g9LmVrQJPVYSeBdPVxrrr)
+- [Reload - Radio Edit by Sebastian Ingrosso, Tommy Trash, John Martin](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO)
+- [2 Be Loved (Am I Ready) [PNAU Remix] by Lizzo, PNAU](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q)
+- [What A Life (feat. Stevie Appleton) by John Summit, Guz, Stevie Appleton](https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf)
+- [Doses &amp; Mimosas (Vintage Culture &amp; Zerky Remix) - Radio Edit by Vintage Culture, Zerky, Cherub](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu)
+- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
