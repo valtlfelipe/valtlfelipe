@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (5 days ago)
 
 #### 🎧 What I have been listening
-- [Reload - Radio Edit by Sebastian Ingrosso, Tommy Trash, John Martin](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO)
-- [2 Be Loved (Am I Ready) [PNAU Remix] by Lizzo, PNAU](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q)
-- [What A Life (feat. Stevie Appleton) by John Summit, Guz, Stevie Appleton](https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf)
-- [Doses &amp; Mimosas (Vintage Culture &amp; Zerky Remix) - Radio Edit by Vintage Culture, Zerky, Cherub](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu)
-- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
+- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
+- [Free by Third Party](https://open.spotify.com/track/1tOTq5hXlLeKbqOVn8ddMF)
+- [10:35 (feat. Tate McRae) - Joel Corry Remix by Tiësto, Joel Corry, Tate McRae](https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB)
+- [Throw Some Ass by Sofi Tukker](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR)
+- [Chasing Highs - Felix Cartal Remix by ALMA, Felix Cartal](https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
