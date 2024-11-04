@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (6 days ago)
 
 #### 🎧 What I have been listening
-- [This Moment by Fulmo, Small ToK, Alex Schneider](https://open.spotify.com/track/7foDJ2rr1oVzJjK9bXdVMm)
-- [Running Over (feat. ROBINS) by AKER, ASHKAN, ROBINS](https://open.spotify.com/track/4K8FFOLIf5ZdCHrx5zmZw3)
-- [Broken Down by Woodworks, Riesling, Joey Busse](https://open.spotify.com/track/2bJ4JI0F44VDPdFrR0vOWd)
-- [Why Do You Do This? by Tim Olsson](https://open.spotify.com/track/1NvrY0RF2g9jqMxLrR6jLc)
-- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
+- [Nobody Knows by Ape Drums, Clementine Douglas](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb)
+- [Be Your Friend by XYSM, EDGR](https://open.spotify.com/track/10TsQZCb8QVql2ocirBc6R)
+- [The Depths by JARP, Tenjo](https://open.spotify.com/track/0o7de9GRm39xN16GpElekn)
+- [You Want It Back by Tripton, LOWKEY, OANA](https://open.spotify.com/track/2NzzbHOiwiLuwpFbKEc6p7)
+- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
