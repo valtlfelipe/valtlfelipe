@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (6 days ago)
 
 #### 🎧 What I have been listening
-- [MAGIC (feat. babyidontlikeyou) by Gryffin, babyidontlikeyou](https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi)
-- [Praising You (feat. Fatboy Slim) by Rita Ora, Fatboy Slim](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD)
-- [I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit by Avicii, Nicky Romero](https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua)
-- [Heart Still Beating by Nathan Dawe, Bebe Rexha](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU)
-- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
+- [This Moment by Fulmo, Small ToK, Alex Schneider](https://open.spotify.com/track/7foDJ2rr1oVzJjK9bXdVMm)
+- [Running Over (feat. ROBINS) by AKER, ASHKAN, ROBINS](https://open.spotify.com/track/4K8FFOLIf5ZdCHrx5zmZw3)
+- [Broken Down by Woodworks, Riesling, Joey Busse](https://open.spotify.com/track/2bJ4JI0F44VDPdFrR0vOWd)
+- [Why Do You Do This? by Tim Olsson](https://open.spotify.com/track/1NvrY0RF2g9jqMxLrR6jLc)
+- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
