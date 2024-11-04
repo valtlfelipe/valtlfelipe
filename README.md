@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (6 days ago)
 
 #### 🎧 What I have been listening
-- [Josephine (feat. Apophenia) by HYPAUX, outset island, Apophenia](https://open.spotify.com/track/4Vdg3bigqYqRjyFC0dCq3G)
-- [Take It Back by Little Venice](https://open.spotify.com/track/2W4u4DXbkvBqBYOI3yI0mn)
-- [This Is Love by Ourson](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD)
-- [Tidal Waves by Sol Novaro](https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp)
-- [Reach by Boris Being](https://open.spotify.com/track/5niy0DTKKBWQKruOF3KK7S)
+- [Wanted by Marvin Shadex](https://open.spotify.com/track/6CC0cv0KDIXUwS8GVJwqF7)
+- [Far Beyond by Munch, Piece Wise](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA)
+- [søund øf yøur heartbeat by birø, KROO, Ariana Celaeno](https://open.spotify.com/track/56TaFtRKGyIYKXHta008HY)
+- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
+- [Night Drive by Relŭm](https://open.spotify.com/track/1O7lD7lSbZaR6zaRBfPyj5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
