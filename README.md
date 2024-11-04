@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (6 days ago)
 
 #### 🎧 What I have been listening
+- [Get Off My Mind by Philip Esser](https://open.spotify.com/track/6jWNGbtfVoizBDyMIEtzrM)
+- [One Night by Peer Pressure](https://open.spotify.com/track/6wzjZv68NVIvUwgdk0W9hJ)
+- [Morning Sun by NSH, Atch, Hobes](https://open.spotify.com/track/4FBsQTjkURcX5p9eMliVx9)
+- [Pain by Karma Child, Jameson](https://open.spotify.com/track/3lqgzGIWMWLB7avG8pqSEe)
 - [Again &amp; Again by Bad Space, SANDMO](https://open.spotify.com/track/5UNjnT5jU71LVSOQk00caZ)
-- [Hear You In Every Sound by Matt Steep, GHALIA](https://open.spotify.com/track/6doxk0UkxxEkGp6mdAlH4s)
-- [The Highway by Portugal Sunset](https://open.spotify.com/track/46BdJ7jNK5FhAkaFdsSuMw)
-- [Ain&#39;t Right by Rob Eyez](https://open.spotify.com/track/5Ng1mfUY2nncQAjFwBJVZB)
-- [Frozen Tide by NSH](https://open.spotify.com/track/2nPZts2J87iS1N0tmzvEMO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
