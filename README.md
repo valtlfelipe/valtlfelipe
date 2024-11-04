@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (6 days ago)
 
 #### 🎧 What I have been listening
-- [Sad House by Alex Keeper](https://open.spotify.com/track/77gvI6dndINfQcumO7na2V)
-- [Tijuana Sunrise by Michael FAY, Alex Schneider](https://open.spotify.com/track/0mFj1ZPwlokKhU6JSrOH9z)
-- [Shallow Water - Edit by JLV, Kairos Grove](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG)
-- [Apologize by Sunwaves](https://open.spotify.com/track/0sXqx06ZH2nxpOjl71vtEL)
-- [Fairytale by Last Sun](https://open.spotify.com/track/3dlwhEZtSg1PKtGY22J1Pm)
+- [I Didn&#39;t Make Us Up by AIMÉ, Freyer, noo](https://open.spotify.com/track/0c9OKw5Xpj9bDayVnOKUVK)
+- [Starting Over by MUNICH MONSTRS](https://open.spotify.com/track/6mF7lavNIYRqPoHqvciHKh)
+- [all for u by shiny things](https://open.spotify.com/track/5FVimBUqREQdbgdo3QEqDu)
+- [Feel Good Inc. by nowifi, Dūne](https://open.spotify.com/track/2vOrd0cfy84Wsx2j5BSqlZ)
+- [Live It Up by Nito](https://open.spotify.com/track/0zNShOZDiH8tXFTx349ZQp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
