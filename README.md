@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (6 days ago)
 
 #### 🎧 What I have been listening
-- [Get Off My Mind by Philip Esser](https://open.spotify.com/track/6jWNGbtfVoizBDyMIEtzrM)
-- [One Night by Peer Pressure](https://open.spotify.com/track/6wzjZv68NVIvUwgdk0W9hJ)
-- [Morning Sun by NSH, Atch, Hobes](https://open.spotify.com/track/4FBsQTjkURcX5p9eMliVx9)
-- [Pain by Karma Child, Jameson](https://open.spotify.com/track/3lqgzGIWMWLB7avG8pqSEe)
-- [Again &amp; Again by Bad Space, SANDMO](https://open.spotify.com/track/5UNjnT5jU71LVSOQk00caZ)
+- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
+- [Relax My Eyes by ANOTR, Abel Balder](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH)
+- [Honest by Lovlee](https://open.spotify.com/track/0jb7asCfeo6sZZ2BVsUjxn)
+- [No Bad Vibes by Jazzy, KILIMANJARO](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8)
+- [Get You Alone by Higher Lane](https://open.spotify.com/track/1QWpPdRbTRSWpsmBZzD9cA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
