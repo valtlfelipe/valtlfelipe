@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (6 days ago)
 
 #### 🎧 What I have been listening
-- [I Didn&#39;t Make Us Up by AIMÉ, Freyer, noo](https://open.spotify.com/track/0c9OKw5Xpj9bDayVnOKUVK)
-- [Starting Over by MUNICH MONSTRS](https://open.spotify.com/track/6mF7lavNIYRqPoHqvciHKh)
-- [all for u by shiny things](https://open.spotify.com/track/5FVimBUqREQdbgdo3QEqDu)
-- [Feel Good Inc. by nowifi, Dūne](https://open.spotify.com/track/2vOrd0cfy84Wsx2j5BSqlZ)
-- [Live It Up by Nito](https://open.spotify.com/track/0zNShOZDiH8tXFTx349ZQp)
+- [Again &amp; Again by Bad Space, SANDMO](https://open.spotify.com/track/5UNjnT5jU71LVSOQk00caZ)
+- [Hear You In Every Sound by Matt Steep, GHALIA](https://open.spotify.com/track/6doxk0UkxxEkGp6mdAlH4s)
+- [The Highway by Portugal Sunset](https://open.spotify.com/track/46BdJ7jNK5FhAkaFdsSuMw)
+- [Ain&#39;t Right by Rob Eyez](https://open.spotify.com/track/5Ng1mfUY2nncQAjFwBJVZB)
+- [Frozen Tide by NSH](https://open.spotify.com/track/2nPZts2J87iS1N0tmzvEMO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
