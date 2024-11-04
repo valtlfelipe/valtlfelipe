@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (6 days ago)
 
 #### 🎧 What I have been listening
-- [Too Late by Juan Allenn](https://open.spotify.com/track/1IAfki5FvnqYHDGVd0V39C)
-- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
-- [City of Lights by Dawilk](https://open.spotify.com/track/6djw06D6xYUoAbCkghJWCh)
-- [End Of Me by Eloi El, Lucien, Zen Waves](https://open.spotify.com/track/2nxcHeBNJSsHc0wwrUn53s)
-- [How We Do by Maxxteen](https://open.spotify.com/track/1qM44i3fF16l7vVgMIrzhn)
+- [Rising by Lotus, Jan Liva, Faruk Orman, yara.](https://open.spotify.com/track/1strFFSyp0WcHZ7tA44dgt)
+- [Free My Mind by ENLIV3N](https://open.spotify.com/track/4ysacrZnJmUjvvseHfFlvn)
+- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
+- [Family Affair - LU2VYK Remix by Rotciv &amp; Revilo, MrRevillz, LU2VYK](https://open.spotify.com/track/7HZ0ZiaWffKemYDLTXprDh)
+- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
