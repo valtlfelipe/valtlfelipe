@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (6 days ago)
 
 #### 🎧 What I have been listening
-- [Rising by Lotus, Jan Liva, Faruk Orman, yara.](https://open.spotify.com/track/1strFFSyp0WcHZ7tA44dgt)
-- [Free My Mind by ENLIV3N](https://open.spotify.com/track/4ysacrZnJmUjvvseHfFlvn)
-- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
-- [Family Affair - LU2VYK Remix by Rotciv &amp; Revilo, MrRevillz, LU2VYK](https://open.spotify.com/track/7HZ0ZiaWffKemYDLTXprDh)
-- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
+- [Josephine (feat. Apophenia) by HYPAUX, outset island, Apophenia](https://open.spotify.com/track/4Vdg3bigqYqRjyFC0dCq3G)
+- [Take It Back by Little Venice](https://open.spotify.com/track/2W4u4DXbkvBqBYOI3yI0mn)
+- [This Is Love by Ourson](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD)
+- [Tidal Waves by Sol Novaro](https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp)
+- [Reach by Boris Being](https://open.spotify.com/track/5niy0DTKKBWQKruOF3KK7S)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
