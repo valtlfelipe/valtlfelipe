@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (6 days ago)
 
 #### 🎧 What I have been listening
-- [Wanted by Marvin Shadex](https://open.spotify.com/track/6CC0cv0KDIXUwS8GVJwqF7)
-- [Far Beyond by Munch, Piece Wise](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA)
-- [søund øf yøur heartbeat by birø, KROO, Ariana Celaeno](https://open.spotify.com/track/56TaFtRKGyIYKXHta008HY)
-- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
-- [Night Drive by Relŭm](https://open.spotify.com/track/1O7lD7lSbZaR6zaRBfPyj5)
+- [Berlin Sunrise by Surfin&#39; Sam](https://open.spotify.com/track/4sDrZxeb584ogv3BG68M8b)
+- [Feels Like Home (feat. Lacey) by l&#39;essay, Cal1, blue my mind, Lacey](https://open.spotify.com/track/6H9RisDYZ8KRlFFn5Qubyw)
+- [Memories by Sunmoon](https://open.spotify.com/track/2YEx4eDIQ6Bj7CWDXQQiMv)
+- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
+- [Waiting For The Sunshine by aericsn](https://open.spotify.com/track/0Hwy2zQZhUPPF4d8t0D0S6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
