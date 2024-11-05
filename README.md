@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)** - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Shooting Stars by P.A.V, Jordan Grace](https://open.spotify.com/track/0wcFLxNw5xzL8DhkfVA6gN)
-- [Call my name by AVAION](https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG)
-- [Water by Tyla](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw)
-- [Milestones by Patrick Lite, WLZN](https://open.spotify.com/track/6lAiwoQXEmMFV8E43w559r)
-- [Leap Of Faith by DEMR, Pete Shade](https://open.spotify.com/track/40f3ZTMbc0uJwFx0GClJx6)
+- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
+- [Summer Dream by Jordan Grace, Alberto Ciccarini, Poul](https://open.spotify.com/track/6lmFmtxcyLJv9f3rsuX6ll)
+- [I Can&#39;t Help Falling In Love With You by Vic Laos](https://open.spotify.com/track/5ztn3j1aJYJaliNWPuY7zM)
+- [Heart vs Mind by Bjarne Hendrik](https://open.spotify.com/track/7rwGv3hQTyMi5WDWreeYGb)
+- [Alelujah by Rolipso, Nuage, Daramola](https://open.spotify.com/track/5p2rlMbmxEWso65tCF6u62)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
