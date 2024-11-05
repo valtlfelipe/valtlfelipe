@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Rhythm of the Night by Marvin Shadex](https://open.spotify.com/track/4pU6bQBEpXp11tUfJXClKt)
-- [Paradise by Blood Druid, Savoi](https://open.spotify.com/track/27af2HEOUnwqcgTkQulRyy)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [Gangsta&#39;s Paradise by Harddope, TRITICUM, Catching Sunrises](https://open.spotify.com/track/2b3f4X6zShq398nWs1vNVf)
-- [Fire by Mr. Sexophone](https://open.spotify.com/track/3NcJg02dyAZu5vHDY8Lk5G)
+- [Seamlessly by Balynt, AXM](https://open.spotify.com/track/6OzCmCFiJ5XwywPRjXY4U6)
+- [Get Lost With You by Kléos, Tanya O](https://open.spotify.com/track/1VAXccHxlba2jVbbrS9TaJ)
+- [Selfish by LU2VYK, we love sunset, The kid in blue](https://open.spotify.com/track/3kk7BiUOrEcuhFizrqv2IT)
+- [All In Your Head by VLX](https://open.spotify.com/track/6ipO8qP8NKcN83bsi0FNDF)
+- [Training Season by LU2VYK, we love sunset, colormeblue.](https://open.spotify.com/track/7tf9gHRb2DSWDRSIppSuLy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
