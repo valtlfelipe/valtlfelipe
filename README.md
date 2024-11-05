@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Moonlight by Lust.](https://open.spotify.com/track/2IHaWOuaQMwohXENwws9Hv)
-- [Like the Sun by Midnight Run](https://open.spotify.com/track/2hKxtQ2mrA9ZknemPlusp9)
-- [Just Want U by CUBY](https://open.spotify.com/track/0M0aVORld1nVYMDcYs2x1L)
-- [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
-- [Moments Away by Edward Maya, Foínix, Jordan Grace, Rolipso](https://open.spotify.com/track/1sR1g3504zuwjd0rv7mM0r)
+- [Unbreakable by ERIICE, LLOVSA](https://open.spotify.com/track/44bO3CuK03hFm9rZSXHxsH)
+- [I&#39;m Good by P.A.V](https://open.spotify.com/track/1H27IgTftbtLwK4HrdGV3x)
+- [Wondering Why by L.A, Dallien, Alia Faye](https://open.spotify.com/track/71usfyu4lteyYq1tGP9m16)
+- [When Is It Enough by Theodor Rosenberg, Vowed, Madishu](https://open.spotify.com/track/1VoJERLr4kuTMoJk74B4A6)
+- [Running Back by Lotus, NOAM](https://open.spotify.com/track/2GgqckMAkIBsatyf35uEGD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
