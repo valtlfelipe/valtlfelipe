@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
+- [The Rhythm of the Night by Marvin Shadex](https://open.spotify.com/track/4pU6bQBEpXp11tUfJXClKt)
+- [Paradise by Blood Druid, Savoi](https://open.spotify.com/track/27af2HEOUnwqcgTkQulRyy)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
 - [Gangsta&#39;s Paradise by Harddope, TRITICUM, Catching Sunrises](https://open.spotify.com/track/2b3f4X6zShq398nWs1vNVf)
 - [Fire by Mr. Sexophone](https://open.spotify.com/track/3NcJg02dyAZu5vHDY8Lk5G)
-- [keep going by a good thought](https://open.spotify.com/track/0vKLGZqlqF0jteoLpE4IV9)
-- [glow by Fred again.., Duskus, Four Tet, Joy Anonymous, Skrillex](https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc)
-- [Gravity by blaank, Petropaul](https://open.spotify.com/track/5fv7WBG6P3JeCfq2r0yQeJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
