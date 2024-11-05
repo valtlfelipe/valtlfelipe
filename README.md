@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [i don&#39;t need another by Altero, maybealice](https://open.spotify.com/track/7qPjV2SQVP0SsLGiImCAU9)
-- [Pony by Karl8 &amp; Andrea Monta](https://open.spotify.com/track/3B5ZUgPPECfhDnkD4iwLsv)
-- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
-- [Beauty in You by Boeuv, joegarratt](https://open.spotify.com/track/3YS6FhKyUJY8sv8t5dGM90)
-- [Goodbye by TEKASAE](https://open.spotify.com/track/4dLhgWfmZhcfqMY59N5k9v)
+- [Moonlight by Lust.](https://open.spotify.com/track/2IHaWOuaQMwohXENwws9Hv)
+- [Like the Sun by Midnight Run](https://open.spotify.com/track/2hKxtQ2mrA9ZknemPlusp9)
+- [Just Want U by CUBY](https://open.spotify.com/track/0M0aVORld1nVYMDcYs2x1L)
+- [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
+- [Moments Away by Edward Maya, Foínix, Jordan Grace, Rolipso](https://open.spotify.com/track/1sR1g3504zuwjd0rv7mM0r)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
