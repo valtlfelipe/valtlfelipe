@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Fall by Eclectic](https://open.spotify.com/track/2r0UgZi0YYbPiVXvoRmtAR)
+- [All Your Problems by Freddie Mudge](https://open.spotify.com/track/6U8dOp36yauVK7bWqhX4d8)
 - [Stars by Balynt](https://open.spotify.com/track/6gZh0dKNYkMRMhC8ZAC63w)
 - [Thrive by Eclectic](https://open.spotify.com/track/0S65vmgZWj1OaAJPT7wzyl)
 - [Colorful Now by Marc Suarez, Anntoine](https://open.spotify.com/track/048wduRQQpu2xV3BUjd4TO)
-- [Jealousy by MidnightSun](https://open.spotify.com/track/3RckJ9G3fuJgpwPJlQq8WW)
-- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
