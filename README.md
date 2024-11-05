@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Heavy Wish by 9Fivey](https://open.spotify.com/track/3yZ9HqGcPmJElydRYDPdNY)
-- [Wherever You Go by Mikayl Blu](https://open.spotify.com/track/2Rc175pRb0yVu01JiZJzrZ)
-- [Cap Roux by Apothec](https://open.spotify.com/track/6jwVPKu3cvhxqtDDoGZI42)
-- [L’avion by Palombi](https://open.spotify.com/track/1TZ3xS8JjAPbvYe5BqIqhW)
-- [Sprout by Yim](https://open.spotify.com/track/7vjXqLwFaCHRjzwUKQI4lY)
+- [Accelerate by LilyPon](https://open.spotify.com/track/0R0HEit8IfFYd20Vzso912)
+- [Coconuts by Mikayl Blu](https://open.spotify.com/track/2NcrKToY2xYRSZ74aWIcR4)
+- [Chaconne by Hoboken](https://open.spotify.com/track/3v6xSvRJ8gj72jjfzXmixs)
+- [Stardust by Spatio](https://open.spotify.com/track/0i518JPYiEqCM0CUTRzq60)
+- [Moonlight by Luminez](https://open.spotify.com/track/5R6s1rVZ8MBsjRGfqh7RlX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
