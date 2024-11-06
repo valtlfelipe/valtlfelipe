@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Only U by LeDorean](https://open.spotify.com/track/1QsHWsHzWiqMFKwNojRZx9)
-- [Accelerate by LilyPon](https://open.spotify.com/track/0R0HEit8IfFYd20Vzso912)
-- [Coconuts by Mikayl Blu](https://open.spotify.com/track/2NcrKToY2xYRSZ74aWIcR4)
-- [Chaconne by Hoboken](https://open.spotify.com/track/3v6xSvRJ8gj72jjfzXmixs)
-- [Stardust by Spatio](https://open.spotify.com/track/0i518JPYiEqCM0CUTRzq60)
+- [Fin De Semaine by Beachwax](https://open.spotify.com/track/7ztX5Qtfb7I7hIYhhFglqF)
+- [Alcove by Hackney](https://open.spotify.com/track/6AYTomZob9bIImQJfQTwyZ)
+- [The Hills by Major Tweaks](https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq)
+- [Midnight Snack by Matt Bleu](https://open.spotify.com/track/3BgBwSOMicBIfxRZpOewrz)
+- [Enough Motion by Jo Lange](https://open.spotify.com/track/1iCtCz9CdI8DbT41f98Ld8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
