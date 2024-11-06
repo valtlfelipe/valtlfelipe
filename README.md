@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Serenity by dim figure](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT)
-- [Sumatra by Bonsaye](https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3)
-- [Places by MAXM2](https://open.spotify.com/track/4bLzsR8A1cPUa2PCEebehR)
-- [Kayser by Milous](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo)
-- [Flume by Milli V](https://open.spotify.com/track/53XQa4c87MqktZqgvNpnYh)
+- [Bee by Maulisé](https://open.spotify.com/track/4QcDFEszWjwcSKe7RyBcUC)
+- [Modula by Lil Harry](https://open.spotify.com/track/01yjYFJkNHfH7b5CVjZfG5)
+- [Smiling Falsifier by under.tone](https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S)
+- [Nightcap by Isla Bonner](https://open.spotify.com/track/16iZLTcnyEYXJ4JvQo5dRf)
+- [free by Wilmer Woo](https://open.spotify.com/track/0O4dDUo1KGQ8xUHHUM91lL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
