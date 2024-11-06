@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Bee by Maulisé](https://open.spotify.com/track/4QcDFEszWjwcSKe7RyBcUC)
-- [Modula by Lil Harry](https://open.spotify.com/track/01yjYFJkNHfH7b5CVjZfG5)
-- [Smiling Falsifier by under.tone](https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S)
-- [Nightcap by Isla Bonner](https://open.spotify.com/track/16iZLTcnyEYXJ4JvQo5dRf)
-- [free by Wilmer Woo](https://open.spotify.com/track/0O4dDUo1KGQ8xUHHUM91lL)
+- [Pendeln by Son-us](https://open.spotify.com/track/3sNJk8AHxK2MMGk1n1bZw3)
+- [Summer Starters by Co Kluin](https://open.spotify.com/track/6Mt18ydq7WJJoV0orYsejJ)
+- [Magic Touch by Tim Olsson](https://open.spotify.com/track/6K43OgWy4rxmz7iKHij6Ua)
+- [Cosmic Dancer by Belloq](https://open.spotify.com/track/53WQnXY1i3ccnQJe4ww0Lv)
+- [Sway by Beleric](https://open.spotify.com/track/7lSYXhETmSj0jFS2pZQGXI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
