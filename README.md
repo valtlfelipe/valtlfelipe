@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [paris by Rosi Peloni](https://open.spotify.com/track/1glNxuJz4qAUyYmauaYD9I)
-- [Sunflower by Peqasus](https://open.spotify.com/track/0CXDewCNTSPql9OhPtLkS2)
-- [Deep Mist by Milous](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H)
-- [NVM by Sobbel Sosch](https://open.spotify.com/track/7b6fkO1E82zlDRAxi03Wt7)
-- [infinity by Greene Labyrinth](https://open.spotify.com/track/3RKywy0zmUseiC48cMvYpk)
+- [Soil by Bush Lily](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd)
+- [Luz de Noche by Far Orange](https://open.spotify.com/track/6vUNJkirCjWnnLyA6pE1o5)
+- [Highlands by Naupaka](https://open.spotify.com/track/1jmSozSHBSDo3MzHdUVpWt)
+- [Mi Amor by Lndoner](https://open.spotify.com/track/3jqBtnZqoecYhGGzf0ZLBO)
+- [Bubbly Vibes by Pool-Man John](https://open.spotify.com/track/1cvX6BDM6QiuPfOFeXXRuM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
