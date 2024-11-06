@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sunset by Rōsu](https://open.spotify.com/track/6u5k1IhbxJDnBNzr9BRL9a)
-- [Slightly Irregular by longwayfromhome](https://open.spotify.com/track/2c04Oaz220QLDR3mP5xC6j)
-- [Grayson by Palo Santo](https://open.spotify.com/track/36XVAEtyB6gBrBso9ZDUcw)
-- [Veesha by Parker Wilkins](https://open.spotify.com/track/40TVYUkRQ5GgLApjXOxq3O)
-- [Fortunella by Baron Malice](https://open.spotify.com/track/2jrkuEIxCZjB4Q8nazTCBN)
+- [paris by Rosi Peloni](https://open.spotify.com/track/1glNxuJz4qAUyYmauaYD9I)
+- [Sunflower by Peqasus](https://open.spotify.com/track/0CXDewCNTSPql9OhPtLkS2)
+- [Deep Mist by Milous](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H)
+- [NVM by Sobbel Sosch](https://open.spotify.com/track/7b6fkO1E82zlDRAxi03Wt7)
+- [infinity by Greene Labyrinth](https://open.spotify.com/track/3RKywy0zmUseiC48cMvYpk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
