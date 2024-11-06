@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Pendeln by Son-us](https://open.spotify.com/track/3sNJk8AHxK2MMGk1n1bZw3)
-- [Summer Starters by Co Kluin](https://open.spotify.com/track/6Mt18ydq7WJJoV0orYsejJ)
-- [Magic Touch by Tim Olsson](https://open.spotify.com/track/6K43OgWy4rxmz7iKHij6Ua)
-- [Cosmic Dancer by Belloq](https://open.spotify.com/track/53WQnXY1i3ccnQJe4ww0Lv)
-- [Sway by Beleric](https://open.spotify.com/track/7lSYXhETmSj0jFS2pZQGXI)
+- [Shadowdoom by Soul to Speak](https://open.spotify.com/track/0AGSlvLptBUmNxqo2HBTdC)
+- [Raven by Tom Tones](https://open.spotify.com/track/1OANYjfP3qm6YuM71ekNiu)
+- [New Jade by dreem](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq)
+- [glacial groove by Goose Groovy](https://open.spotify.com/track/0mdhMQbwDjPZHMkHnYGI05)
+- [Waiting by Moonkids](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
