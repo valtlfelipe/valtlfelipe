@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Shadowdoom by Soul to Speak](https://open.spotify.com/track/0AGSlvLptBUmNxqo2HBTdC)
-- [Raven by Tom Tones](https://open.spotify.com/track/1OANYjfP3qm6YuM71ekNiu)
-- [New Jade by dreem](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq)
-- [glacial groove by Goose Groovy](https://open.spotify.com/track/0mdhMQbwDjPZHMkHnYGI05)
-- [Waiting by Moonkids](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl)
+- [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
+- [bite by Bamba Lamer](https://open.spotify.com/track/0A9L6iHSJlw20569MQReXc)
+- [Sunset Skybar by Palma Dreams](https://open.spotify.com/track/5eqQtD31iK7C3KgNcFTM6Q)
+- [City Bumps by Candrian](https://open.spotify.com/track/4MNC485ddP6YTl8KIZeq5d)
+- [New Creation by Vertical Sight](https://open.spotify.com/track/1yKDappVhFf05peEb9NFR8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
