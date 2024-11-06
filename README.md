@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Rested by Attom](https://open.spotify.com/track/2ssp2O5R8rnNFlZU1BtAkI)
-- [Aurora by Milkweed](https://open.spotify.com/track/0CuGRk2X4Ph3kNHfcu5gZC)
-- [In Possession by Fatehug](https://open.spotify.com/track/1T3SCC0SCXXQ2zM66OFHnu)
-- [Nothing But Flame by Julian Obermann](https://open.spotify.com/track/4akHYbKXfEbQZ7oBpwZM9L)
-- [Late Nights by Blue Daisy](https://open.spotify.com/track/6eIdeEgKCmDLE7uh4r2eaH)
+- [Shore by Gary Luton](https://open.spotify.com/track/6td9IjPLRMXFmUrrxjWF3q)
+- [skin shimmer by Mateo Hill](https://open.spotify.com/track/7FRE4xPjkql1KTJJDHQJn5)
+- [Smoke N&#39; Stuff by Sum Wave](https://open.spotify.com/track/76GzwL91UGF3mczJ5rD1JU)
+- [Ellipse by Young Community](https://open.spotify.com/track/6GFj41kEAfnwTsleGqdoRH)
+- [Base-level Guilt by Camisade](https://open.spotify.com/track/5zKasYyHSZ6oNpxdNGrGZg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
