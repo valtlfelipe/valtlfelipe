@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wet Bravado by R Y K](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L)
-- [bite by Bamba Lamer](https://open.spotify.com/track/0A9L6iHSJlw20569MQReXc)
-- [Sunset Skybar by Palma Dreams](https://open.spotify.com/track/5eqQtD31iK7C3KgNcFTM6Q)
-- [City Bumps by Candrian](https://open.spotify.com/track/4MNC485ddP6YTl8KIZeq5d)
-- [New Creation by Vertical Sight](https://open.spotify.com/track/1yKDappVhFf05peEb9NFR8)
+- [Rested by Attom](https://open.spotify.com/track/2ssp2O5R8rnNFlZU1BtAkI)
+- [Aurora by Milkweed](https://open.spotify.com/track/0CuGRk2X4Ph3kNHfcu5gZC)
+- [In Possession by Fatehug](https://open.spotify.com/track/1T3SCC0SCXXQ2zM66OFHnu)
+- [Nothing But Flame by Julian Obermann](https://open.spotify.com/track/4akHYbKXfEbQZ7oBpwZM9L)
+- [Late Nights by Blue Daisy](https://open.spotify.com/track/6eIdeEgKCmDLE7uh4r2eaH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
