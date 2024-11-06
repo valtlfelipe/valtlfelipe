@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fin De Semaine by Beachwax](https://open.spotify.com/track/7ztX5Qtfb7I7hIYhhFglqF)
-- [Alcove by Hackney](https://open.spotify.com/track/6AYTomZob9bIImQJfQTwyZ)
-- [The Hills by Major Tweaks](https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq)
-- [Midnight Snack by Matt Bleu](https://open.spotify.com/track/3BgBwSOMicBIfxRZpOewrz)
-- [Enough Motion by Jo Lange](https://open.spotify.com/track/1iCtCz9CdI8DbT41f98Ld8)
+- [Sunset by Rōsu](https://open.spotify.com/track/6u5k1IhbxJDnBNzr9BRL9a)
+- [Slightly Irregular by longwayfromhome](https://open.spotify.com/track/2c04Oaz220QLDR3mP5xC6j)
+- [Grayson by Palo Santo](https://open.spotify.com/track/36XVAEtyB6gBrBso9ZDUcw)
+- [Veesha by Parker Wilkins](https://open.spotify.com/track/40TVYUkRQ5GgLApjXOxq3O)
+- [Fortunella by Baron Malice](https://open.spotify.com/track/2jrkuEIxCZjB4Q8nazTCBN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
