@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Still Need People by Camisade](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j)
-- [Shimmer by David Dumeau](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4)
-- [Don&#39;t Wait Blue by Lukall](https://open.spotify.com/track/22lKedeOAiGBpMOPW60PwD)
-- [Sunrider by Relŭm](https://open.spotify.com/track/57BjBUlKLXpzvveTapqUDP)
-- [Seeds by Dj Hindi Bacha](https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws)
+- [Readings by Kacey View](https://open.spotify.com/track/6JMYFarzbRvp8J7YnGdbsP)
+- [To Sea The Sun by Petrossi](https://open.spotify.com/track/3p6KLOfV6xpU09s93UlaIC)
+- [Overthinking by PALM ENGELS](https://open.spotify.com/track/6FbxHFeDTmmo5SQUM4UGVZ)
+- [bubbly fun by fxhash](https://open.spotify.com/track/4EgmPP8fBkVxL4jDUEhQ8n)
+- [wish u were here by Cloode](https://open.spotify.com/track/61nH9WsvcwQJio8J2lDGvq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
