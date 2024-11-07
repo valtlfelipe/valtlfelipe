@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Morning Grass by Sum Wave](https://open.spotify.com/track/5XBCXxhLU0s6gpbL4HoE9U)
-- [envelope by Modern Clouds](https://open.spotify.com/track/4dT3GQBpTmm2c6T6vL7Ig0)
-- [Andlegur by Valante](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM)
-- [Kissing on the Dance Floor by Tyler Greyson](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M)
-- [Copenhagen by Kleo](https://open.spotify.com/track/3rwIf7BFzYPV2vrDhDJeXb)
+- [Still Need People by Camisade](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j)
+- [Shimmer by David Dumeau](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4)
+- [Don&#39;t Wait Blue by Lukall](https://open.spotify.com/track/22lKedeOAiGBpMOPW60PwD)
+- [Sunrider by Relŭm](https://open.spotify.com/track/57BjBUlKLXpzvveTapqUDP)
+- [Seeds by Dj Hindi Bacha](https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
