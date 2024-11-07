@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Xasnas by Crisp Nibblets](https://open.spotify.com/track/0mNJT8uGm19Xwbormh0IXa)
-- [Deseable by Joe Franzoni](https://open.spotify.com/track/0qzUky8XluETMf67vmyAIP)
-- [Spicy - Disco Edit by Curacado](https://open.spotify.com/track/01b16Z7WnxoK8EkZmj8yF6)
-- [Parasol Paradise by Sunrise Collective](https://open.spotify.com/track/0G42P5rpaqBp0dKWxG7OOo)
-- [in deep by genelion](https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX)
+- [Somebody by Moonkids](https://open.spotify.com/track/3H2QL13RLffEoHls92ClHK)
+- [Paradise Found by Sunset Oasis, Sean Blanc](https://open.spotify.com/track/0AL8mdNKiApXRUfUxOaKcZ)
+- [Waiting for Sunshine by AINT](https://open.spotify.com/track/4RWzgYkjVm1klwrKICz1vn)
+- [Skyline by TAPI](https://open.spotify.com/track/3J7rrvS0QqvZiMznQmCBjB)
+- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
