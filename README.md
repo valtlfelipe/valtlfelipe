@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Let It Out by [felt&amp;key]](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r)
+- [Colors by Ran the Man](https://open.spotify.com/track/7IJa0Ac9YB5QrDSofvHy3C)
+- [Won&#39;t Let You Go by POURI X](https://open.spotify.com/track/7yBnbyWted0Q6RAyJnHKk1)
 - [Time To Shine by Moonkids](https://open.spotify.com/track/24Hacii5L2jxfNsiFc27xA)
 - [Remedy by fwd/slash](https://open.spotify.com/track/2K2PVKuP1iuLjisZzF0nP2)
-- [Need To Breathe by Jane Good](https://open.spotify.com/track/7hzJdwyCUV35Iuw7QXSWC9)
-- [Flex Time by Kris Karrey](https://open.spotify.com/track/6obvIIDLxAAgXGpnqKYEhW)
-- [satisfaction upscale by aiXer](https://open.spotify.com/track/6mC1q4r7lATShNXzRo5l84)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
