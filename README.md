@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Morning Grass by Sum Wave](https://open.spotify.com/track/5XBCXxhLU0s6gpbL4HoE9U)
+- [envelope by Modern Clouds](https://open.spotify.com/track/4dT3GQBpTmm2c6T6vL7Ig0)
+- [Andlegur by Valante](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM)
+- [Kissing on the Dance Floor by Tyler Greyson](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M)
 - [Copenhagen by Kleo](https://open.spotify.com/track/3rwIf7BFzYPV2vrDhDJeXb)
-- [Shore by Gary Luton](https://open.spotify.com/track/6td9IjPLRMXFmUrrxjWF3q)
-- [skin shimmer by Mateo Hill](https://open.spotify.com/track/7FRE4xPjkql1KTJJDHQJn5)
-- [Smoke N&#39; Stuff by Sum Wave](https://open.spotify.com/track/76GzwL91UGF3mczJ5rD1JU)
-- [Ellipse by Young Community](https://open.spotify.com/track/6GFj41kEAfnwTsleGqdoRH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
