@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Readings by Kacey View](https://open.spotify.com/track/6JMYFarzbRvp8J7YnGdbsP)
-- [To Sea The Sun by Petrossi](https://open.spotify.com/track/3p6KLOfV6xpU09s93UlaIC)
-- [Overthinking by PALM ENGELS](https://open.spotify.com/track/6FbxHFeDTmmo5SQUM4UGVZ)
-- [bubbly fun by fxhash](https://open.spotify.com/track/4EgmPP8fBkVxL4jDUEhQ8n)
-- [wish u were here by Cloode](https://open.spotify.com/track/61nH9WsvcwQJio8J2lDGvq)
+- [Gate F67 by MAXM2](https://open.spotify.com/track/60PyrG3oFbyyUXSSlQaFtc)
+- [Gardens by Mye](https://open.spotify.com/track/3pkH9qYgYpqdMSF2efqAwJ)
+- [Indigo by Vee Jay](https://open.spotify.com/track/5v5pd290c4Gfdc8zFg7b31)
+- [Inner Sphere by Kiyola](https://open.spotify.com/track/02qZutrIVgi1MaxeWUKUR0)
+- [Days.Spent Alone by Misc.Inc](https://open.spotify.com/track/0ms65AqkeniLWjSmR6y7Iw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
