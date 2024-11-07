@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Euphonia by Aselec](https://open.spotify.com/track/3Pfusfu0swuj3ury7kLTst)
-- [Uphills by Dahtona](https://open.spotify.com/track/4d3TNDKyQuHKla1p56aLeG)
-- [Heavy Wish by 9Fivey](https://open.spotify.com/track/3yZ9HqGcPmJElydRYDPdNY)
-- [bright and breezy by Landayn](https://open.spotify.com/track/1uRStsqQYCBXd1X8fc9n4u)
-- [Beach Wave by Suuunday](https://open.spotify.com/track/0XCqVrAzvWP1kQzu9i83Tw)
+- [Time To Shine by Moonkids](https://open.spotify.com/track/24Hacii5L2jxfNsiFc27xA)
+- [Remedy by fwd/slash](https://open.spotify.com/track/2K2PVKuP1iuLjisZzF0nP2)
+- [Need To Breathe by Jane Good](https://open.spotify.com/track/7hzJdwyCUV35Iuw7QXSWC9)
+- [Flex Time by Kris Karrey](https://open.spotify.com/track/6obvIIDLxAAgXGpnqKYEhW)
+- [satisfaction upscale by aiXer](https://open.spotify.com/track/6mC1q4r7lATShNXzRo5l84)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
