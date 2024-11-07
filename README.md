@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
+- [Veesha by Parker Wilkins](https://open.spotify.com/track/40TVYUkRQ5GgLApjXOxq3O)
+- [We Shall Be Free by bombergirl](https://open.spotify.com/track/7ukdXMeyezREsJaSl7mnpA)
 - [Blue Lagoon by Undefined Space](https://open.spotify.com/track/2mpy5N86A2YZDhiUvY1OGP)
 - [bubbly fun by fxhash](https://open.spotify.com/track/4EgmPP8fBkVxL4jDUEhQ8n)
 - [Sunrider by Relŭm](https://open.spotify.com/track/57BjBUlKLXpzvveTapqUDP)
-- [Pineapple Breeze by Ran the Man](https://open.spotify.com/track/3t7rGBmECt4uBZqTSRwZxf)
-- [Ellipse by Young Community](https://open.spotify.com/track/6GFj41kEAfnwTsleGqdoRH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
