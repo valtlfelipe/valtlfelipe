@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Somebody by Moonkids](https://open.spotify.com/track/3H2QL13RLffEoHls92ClHK)
-- [Paradise Found by Sunset Oasis, Sean Blanc](https://open.spotify.com/track/0AL8mdNKiApXRUfUxOaKcZ)
-- [Waiting for Sunshine by AINT](https://open.spotify.com/track/4RWzgYkjVm1klwrKICz1vn)
-- [Skyline by TAPI](https://open.spotify.com/track/3J7rrvS0QqvZiMznQmCBjB)
-- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
+- [Euphonia by Aselec](https://open.spotify.com/track/3Pfusfu0swuj3ury7kLTst)
+- [Uphills by Dahtona](https://open.spotify.com/track/4d3TNDKyQuHKla1p56aLeG)
+- [Heavy Wish by 9Fivey](https://open.spotify.com/track/3yZ9HqGcPmJElydRYDPdNY)
+- [bright and breezy by Landayn](https://open.spotify.com/track/1uRStsqQYCBXd1X8fc9n4u)
+- [Beach Wave by Suuunday](https://open.spotify.com/track/0XCqVrAzvWP1kQzu9i83Tw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
