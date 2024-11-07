@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB)** - Postgres read replica optimized for analytics (today)
 - **[atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth)** - A demo of using Better Auth with NuxtHub (Cloudflare D1 &amp; KV). (2 days ago)
 - **[JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog)** - Easy to configure &amp; self hostable Changelog Website (4 days ago)
 - **[tw93/Pake](https://github.com/tw93/Pake)** - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (6 days ago)
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
-- **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** - 🔔 An opinionated toast component for Vue &amp; Nuxt. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Let It Out by [felt&amp;key]](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r)
-- [Colors by Ran the Man](https://open.spotify.com/track/7IJa0Ac9YB5QrDSofvHy3C)
-- [Won&#39;t Let You Go by POURI X](https://open.spotify.com/track/7yBnbyWted0Q6RAyJnHKk1)
-- [Time To Shine by Moonkids](https://open.spotify.com/track/24Hacii5L2jxfNsiFc27xA)
-- [Remedy by fwd/slash](https://open.spotify.com/track/2K2PVKuP1iuLjisZzF0nP2)
+- [Blurry Haze by Moonlight Giorgio](https://open.spotify.com/track/6TZnMkjj9GID1vjkvDk9XY)
+- [Tulum by Parker Wilkins](https://open.spotify.com/track/0qSaUrA1iugS188BazCKKx)
+- [feeling good by JAS Ü RAGY](https://open.spotify.com/track/1Np0V3QfuemgSA418CmIrV)
+- [Zero by Pink Lotus](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8)
+- [Twenty Out of Ten by Soft Sea](https://open.spotify.com/track/0AqekcwHFTdk2mbkTnKmna)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
