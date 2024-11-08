@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
-- [Let Her Go by James Stefano, KORFAL, Ernar](https://open.spotify.com/track/6C6yb0X9THq9wrzVH8mgDC)
-- [Going Insane - Radio Edit by HEIN&#43;KLEIN](https://open.spotify.com/track/3e8QtnnxehGdeBHk3JZhae)
-- [Just U &amp; Me by Jon Thomas, Coral Reef, Rachel Philipp](https://open.spotify.com/track/3r60F21EtRExJH1kmKe4iR)
-- [How Do I Sleep Now by Dallerium, Olive](https://open.spotify.com/track/3EtXo9cEurLpblcdWHuBjT)
-- [Say the Words by Alexander Turok, BULIN, Lachi](https://open.spotify.com/track/2ygojLaG163VEZhQfBJFZq)
+- [Wandafut by Mafo](https://open.spotify.com/track/1KhsSynmsC5MqEDY7vhVoK)
+- [This Moment by Fulmo, Small ToK, Alex Schneider](https://open.spotify.com/track/7foDJ2rr1oVzJjK9bXdVMm)
+- [Bellyache by Felkee](https://open.spotify.com/track/7vPImK7wW4wIZ6iedSSMwT)
+- [Tomorrow by Lucien, Lost In Reveries](https://open.spotify.com/track/3ulrYFpuSRYsMN8w3ckYQy)
+- [Cure My Desire (feat. Clementine Douglas) by Hannah Wants, Clementine Douglas](https://open.spotify.com/track/6m3DkpGqoeQJxfekL3ZLHJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
