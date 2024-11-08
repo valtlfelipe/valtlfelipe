@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
+- [This Is What It Feels Like - Armin van Buuren 2023 Remix by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK)
+- [Beautiful Drug (feat. Avicii) - Remix by Zac Brown Band, Avicii](https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck)
+- [Kendall Park by Duce, Piece Wise, Courtney Storm](https://open.spotify.com/track/2SXi0cldambE2930H18LoL)
+- [Beautiful Drug (feat. Avicii) - Remix by Zac Brown Band, Avicii](https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck)
 - [Liar by phil&#39;s ok.](https://open.spotify.com/track/5JV5Hk5zjqoRzwWOeI1yAE)
-- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
-- [Too Late by Juan Allenn](https://open.spotify.com/track/1IAfki5FvnqYHDGVd0V39C)
-- [Dilemma by Slowsho, Nicolas Compain](https://open.spotify.com/track/2VMHxn9jW9IDgw6CRT8PvB)
-- [Waiting for Sunshine by AINT](https://open.spotify.com/track/4RWzgYkjVm1klwrKICz1vn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
