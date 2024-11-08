@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
-- [Why Do You Do This? by Tim Olsson](https://open.spotify.com/track/1NvrY0RF2g9jqMxLrR6jLc)
-- [Running Over (feat. ROBINS) by AKER, ASHKAN, ROBINS](https://open.spotify.com/track/4K8FFOLIf5ZdCHrx5zmZw3)
-- [Stolen Dance by PLÜM, FRENCHGRL](https://open.spotify.com/track/6yc6GZm46yU5lYd9mfKTkw)
-- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
-- [Crystal Waves - Trippynova Mix by Groove Messengers, Trippynova](https://open.spotify.com/track/2SeGhLS9Ny5Yiji4emqAXw)
+- [Let Her Go by James Stefano, KORFAL, Ernar](https://open.spotify.com/track/6C6yb0X9THq9wrzVH8mgDC)
+- [Going Insane - Radio Edit by HEIN&#43;KLEIN](https://open.spotify.com/track/3e8QtnnxehGdeBHk3JZhae)
+- [Just U &amp; Me by Jon Thomas, Coral Reef, Rachel Philipp](https://open.spotify.com/track/3r60F21EtRExJH1kmKe4iR)
+- [How Do I Sleep Now by Dallerium, Olive](https://open.spotify.com/track/3EtXo9cEurLpblcdWHuBjT)
+- [Say the Words by Alexander Turok, BULIN, Lachi](https://open.spotify.com/track/2ygojLaG163VEZhQfBJFZq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
