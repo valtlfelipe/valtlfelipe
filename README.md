@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
-- [everything i wanted (chill version) by Hausk, Tazzy](https://open.spotify.com/track/33NS9FQjjZOhMMiHWeGGWS)
-- [Tonight by MUNICH MONSTRS](https://open.spotify.com/track/7waryW7quIQDOk09921neq)
-- [Wandafut by Mafo](https://open.spotify.com/track/1KhsSynmsC5MqEDY7vhVoK)
-- [This Moment by Fulmo, Small ToK, Alex Schneider](https://open.spotify.com/track/7foDJ2rr1oVzJjK9bXdVMm)
-- [Bellyache by Felkee](https://open.spotify.com/track/7vPImK7wW4wIZ6iedSSMwT)
+- [You&#39;re The One by Jelen](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51)
+- [Drowning (feat. LU) - HYPAUX &amp; Spijk Remix by Open Rim, HYPAUX, Spijk, LU](https://open.spotify.com/track/5UU9REeORMW9vKvJW2GJg4)
+- [Nobody Knows by Ape Drums, Clementine Douglas](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb)
+- [Sunbeams by NSH](https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA)
+- [Lost in Paradise by Relŭm](https://open.spotify.com/track/7xNiLGpPvHIhrBoi7syMST)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
