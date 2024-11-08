@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
+- [everything i wanted (chill version) by Hausk, Tazzy](https://open.spotify.com/track/33NS9FQjjZOhMMiHWeGGWS)
+- [Tonight by MUNICH MONSTRS](https://open.spotify.com/track/7waryW7quIQDOk09921neq)
 - [Wandafut by Mafo](https://open.spotify.com/track/1KhsSynmsC5MqEDY7vhVoK)
 - [This Moment by Fulmo, Small ToK, Alex Schneider](https://open.spotify.com/track/7foDJ2rr1oVzJjK9bXdVMm)
 - [Bellyache by Felkee](https://open.spotify.com/track/7vPImK7wW4wIZ6iedSSMwT)
-- [Tomorrow by Lucien, Lost In Reveries](https://open.spotify.com/track/3ulrYFpuSRYsMN8w3ckYQy)
-- [Cure My Desire (feat. Clementine Douglas) by Hannah Wants, Clementine Douglas](https://open.spotify.com/track/6m3DkpGqoeQJxfekL3ZLHJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
