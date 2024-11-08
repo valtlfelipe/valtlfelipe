@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
-- [You&#39;re The One by Jelen](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51)
-- [Drowning (feat. LU) - HYPAUX &amp; Spijk Remix by Open Rim, HYPAUX, Spijk, LU](https://open.spotify.com/track/5UU9REeORMW9vKvJW2GJg4)
-- [Nobody Knows by Ape Drums, Clementine Douglas](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb)
-- [Sunbeams by NSH](https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA)
-- [Lost in Paradise by Relŭm](https://open.spotify.com/track/7xNiLGpPvHIhrBoi7syMST)
+- [Liar by phil&#39;s ok.](https://open.spotify.com/track/5JV5Hk5zjqoRzwWOeI1yAE)
+- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
+- [Too Late by Juan Allenn](https://open.spotify.com/track/1IAfki5FvnqYHDGVd0V39C)
+- [Dilemma by Slowsho, Nicolas Compain](https://open.spotify.com/track/2VMHxn9jW9IDgw6CRT8PvB)
+- [Waiting for Sunshine by AINT](https://open.spotify.com/track/4RWzgYkjVm1klwrKICz1vn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
