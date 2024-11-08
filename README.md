@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
-- [Jade by Vee Jay](https://open.spotify.com/track/12TAqPz8zq7tiwFsEyZtwD)
-- [Squares by Folta Tres](https://open.spotify.com/track/3Lw2Qj1Adw20rvAApyXIsQ)
-- [Move In Space by Midnight Side Eye](https://open.spotify.com/track/3DpZoWO5g77GIDp3aGWHEp)
-- [Veesha by Parker Wilkins](https://open.spotify.com/track/40TVYUkRQ5GgLApjXOxq3O)
-- [We Shall Be Free by bombergirl](https://open.spotify.com/track/7ukdXMeyezREsJaSl7mnpA)
+- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
+- [Crystal Waves - Trippynova Mix by Groove Messengers, Trippynova](https://open.spotify.com/track/2SeGhLS9Ny5Yiji4emqAXw)
+- [Seasons by Arinity](https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik)
+- [Lovely Day - When I Wake Up In The Morning by Cole Karter, Katy Tiz](https://open.spotify.com/track/5evpD9nBLKJYfiuk9Zzlks)
+- [And The City Was Brooklyn by RaFa Sessions](https://open.spotify.com/track/3kf1qwFXJFwdVWfsNldvw9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
