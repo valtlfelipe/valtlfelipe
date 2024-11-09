@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
+- [Rest Of My Life by Jonas Blue, Sam Feldt, Endless Summer, Sadie Rose Van](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL)
+- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
+- [Sunroof - Loud Luxury Remix by Nicky Youre, dazy, Loud Luxury](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj)
+- [17 by MK](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR)
 - [Right Here by Becky Hill](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO)
-- [stayinit by Fred again.., Lil Yachty, Overmono](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ)
-- [i like the way you kiss me - southstar remix by Artemas, southstar](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2)
-- [Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix by Lana Del Rey, Cedric Gervais](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB)
-- [This Is What It Feels Like - Armin van Buuren 2023 Remix by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
