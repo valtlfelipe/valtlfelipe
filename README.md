@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
-- [Rest Of My Life by Jonas Blue, Sam Feldt, Endless Summer, Sadie Rose Van](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL)
-- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
-- [Sunroof - Loud Luxury Remix by Nicky Youre, dazy, Loud Luxury](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj)
-- [17 by MK](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR)
-- [Right Here by Becky Hill](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO)
+- [We Found Love by Rihanna, Calvin Harris](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py)
+- [2 Be Loved (Am I Ready) [PNAU Remix] by Lizzo, PNAU](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q)
+- [MAGIC (feat. babyidontlikeyou) by Gryffin, babyidontlikeyou](https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi)
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn)
+- [LOOKING FOR JOY by Kaleena Zanders](https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
