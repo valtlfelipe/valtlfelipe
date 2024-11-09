@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
-- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
-- [Rest Of My Life by Jonas Blue, Sam Feldt, Endless Summer, Sadie Rose Van](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL)
-- [Fine Day Anthem by Skrillex, Boys Noize, Opus III](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G)
-- [Pump It Up by Endor](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y)
-- [B.O.T.A. (Baddest of Them All) - Edit by Eliza Rose, Interplanetary Criminal](https://open.spotify.com/track/3k8G7AqDiG6zAkQcEJg13u)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [Ghost Town (Lucas Estrada Remix) by VINAI, John De Sohn, Lucas Estrada](https://open.spotify.com/track/0ndg56b510prqHlImqJoxG)
+- [On Me by Van Herpen, Marcus Mollyhus](https://open.spotify.com/track/3Zulg2rc8paEiKWLIs3TYD)
+- [Running A Mile by CARMA](https://open.spotify.com/track/2fZhXMRioUoAwWSweEIyLJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
