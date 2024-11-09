@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
+- [Losing My Mind by Drippy](https://open.spotify.com/track/55FDzRRQTbt9v97rqAPvBE)
+- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
+- [Rhythm Of My Mind - Chill Edit by Atch, Treetalk](https://open.spotify.com/track/0ZJdZtjF4cjZazBjeG8ql1)
+- [Soul by Xenea, Golowko, Moav](https://open.spotify.com/track/2jJbQ686CTPrQRPLXev28T)
 - [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
-- [Ghost Town (Lucas Estrada Remix) by VINAI, John De Sohn, Lucas Estrada](https://open.spotify.com/track/0ndg56b510prqHlImqJoxG)
-- [On Me by Van Herpen, Marcus Mollyhus](https://open.spotify.com/track/3Zulg2rc8paEiKWLIs3TYD)
-- [Running A Mile by CARMA](https://open.spotify.com/track/2fZhXMRioUoAwWSweEIyLJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
