@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
+- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
 - [Rest Of My Life by Jonas Blue, Sam Feldt, Endless Summer, Sadie Rose Van](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL)
 - [Fine Day Anthem by Skrillex, Boys Noize, Opus III](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G)
 - [Pump It Up by Endor](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y)
 - [B.O.T.A. (Baddest of Them All) - Edit by Eliza Rose, Interplanetary Criminal](https://open.spotify.com/track/3k8G7AqDiG6zAkQcEJg13u)
-- [Pedro by Jaxomy, Agatino Romero, Raffaella Carrà](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
