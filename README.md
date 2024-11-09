@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
-- [Go Back (feat. Julia Church) by John Summit, Sub Focus, Julia Church](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh)
-- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
-- [Bad Memories - Felix Jaehn Remix by MEDUZA, James Carter, Felix Jaehn, Elley Duhé, FAST BOY](https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep)
-- [4U by Matroda, Martin Ikin, Sian-Lee](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx)
-- [Heart Still Beating by Nathan Dawe, Bebe Rexha](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU)
+- [Rest Of My Life by Jonas Blue, Sam Feldt, Endless Summer, Sadie Rose Van](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL)
+- [Fine Day Anthem by Skrillex, Boys Noize, Opus III](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G)
+- [Pump It Up by Endor](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y)
+- [B.O.T.A. (Baddest of Them All) - Edit by Eliza Rose, Interplanetary Criminal](https://open.spotify.com/track/3k8G7AqDiG6zAkQcEJg13u)
+- [Pedro by Jaxomy, Agatino Romero, Raffaella Carrà](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
