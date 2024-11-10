@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
-- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
-- [Castles - Sam Feldt Remix by Freya Ridings, Sam Feldt](https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP)
-- [Cold Heart - PS1 Remix by Elton John, Dua Lipa, PS1](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl)
-- [Shivers (Dillon Francis Remix) [Main Mix] by Ed Sheeran, Dillon Francis](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b)
-- [This Is What It Feels Like - Armin van Buuren 2023 Remix by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK)
+- [17 by MK](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR)
+- [New Rules - KREAM Remix by Dua Lipa, KREAM](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4)
+- [I CAN’T LOSE YOU by Confidence Man](https://open.spotify.com/track/4LJOC3L3wmOqX7jxC7DNTb)
+- [Right Here by Becky Hill](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO)
+- [Heart Still Beating by Nathan Dawe, Bebe Rexha](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
