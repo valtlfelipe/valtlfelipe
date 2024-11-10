@@ -3,9 +3,9 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB)** - Postgres read replica optimized for analytics (2 days ago)
-- **[atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth)** - A demo of using Better Auth with NuxtHub (Cloudflare D1 &amp; KV). (4 days ago)
-- **[JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog)** - Easy to configure &amp; self hostable Changelog Website (6 days ago)
+- **[BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB)** - Postgres read replica optimized for analytics (3 days ago)
+- **[atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth)** - A demo of using Better Auth with NuxtHub (Cloudflare D1 &amp; KV). (5 days ago)
+- **[JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog)** - Easy to configure &amp; self hostable Changelog Website (1 week ago)
 - **[tw93/Pake](https://github.com/tw93/Pake)** - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (1 week ago)
 - **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
