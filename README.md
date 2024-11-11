@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[sst/sst](https://github.com/sst/sst)** - Build full-stack apps on your own infrastructure. (today)
 - **[BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB)** - Postgres read replica optimized for analytics (4 days ago)
 - **[atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth)** - A demo of using Better Auth with NuxtHub (Cloudflare D1 &amp; KV). (6 days ago)
 - **[JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog)** - Easy to configure &amp; self hostable Changelog Website (1 week ago)
 - **[tw93/Pake](https://github.com/tw93/Pake)** - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (1 week ago)
-- **[TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT)** - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf) (1 week ago)
 
 #### 🎧 What I have been listening
-- [Runaway (U &amp; I) by Galantis](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo)
-- [Doses &amp; Mimosas (Vintage Culture &amp; Zerky Remix) - Radio Edit by Vintage Culture, Zerky, Cherub](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu)
-- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
-- [17 by MK](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR)
-- [New Rules - KREAM Remix by Dua Lipa, KREAM](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4)
+- [Chasing Ghosts by Thom Merlin, Her Majesty](https://open.spotify.com/track/59zeHS3oQNaXvjTBPrBhhC)
+- [Hey Now by DANZANTES (ofc), Clara Sofie](https://open.spotify.com/track/3uDHf0RPmMWehor8srROit)
+- [More - Thom Merlin Remix by Dominique Jardin, myne, Thom Merlin](https://open.spotify.com/track/3Lcoav7dE6pt51d9l9SsYK)
+- [Feeling Now by Deun](https://open.spotify.com/track/2hPRuFVBuwMxKl0PjDS6bI)
+- [Gun by LEVII, ODBLU](https://open.spotify.com/track/6lmsqsHbHPmUhNXZASLcs1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
