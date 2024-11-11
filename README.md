@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tw93/Pake](https://github.com/tw93/Pake)** - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (1 week ago)
 
 #### 🎧 What I have been listening
-- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
-- [The Highway by Portugal Sunset](https://open.spotify.com/track/46BdJ7jNK5FhAkaFdsSuMw)
-- [Time Flies by Thom Merlin, Vallia](https://open.spotify.com/track/13bw0L4W3qkqpoo8ethgEM)
-- [Walking On a Dream by NEIMY](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf)
-- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
+- [Where Are You Now by Together Alone](https://open.spotify.com/track/78HLTE5U1H39PAp4BGJB40)
+- [Promises, Promises by Thom Merlin, Maution](https://open.spotify.com/track/0ayX5J5IpyevJDlYpn0fyk)
+- [Paris In The Rain by PLVTO, Natasha Ghosh](https://open.spotify.com/track/22yDehY1PcrZEqlYvgn9yc)
+- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
+- [You&#39;re The One by Jelen](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
