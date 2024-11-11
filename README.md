@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tw93/Pake](https://github.com/tw93/Pake)** - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Driving by Jack Kelly, Julius IV, Lily Denning](https://open.spotify.com/track/2JGBRzIxNJQCk12sZ1n0sh)
-- [To Me by Howie Conyack](https://open.spotify.com/track/30awweiA0sVK1eKks6wkKJ)
-- [Sweater Weather by Nate VanDeusen, VonDeep, Toby Rose](https://open.spotify.com/track/10lrs0iG0pMvbTpFyOVo7U)
-- [Deepest by Alex Deeper, Mary S.K.](https://open.spotify.com/track/10IVn2GFQFWWpYKmEjgNrc)
-- [Tied To You by Elderbrook](https://open.spotify.com/track/4o3hMgZJFGjZqIVNDBmd68)
+- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
+- [The Highway by Portugal Sunset](https://open.spotify.com/track/46BdJ7jNK5FhAkaFdsSuMw)
+- [Time Flies by Thom Merlin, Vallia](https://open.spotify.com/track/13bw0L4W3qkqpoo8ethgEM)
+- [Walking On a Dream by NEIMY](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf)
+- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
