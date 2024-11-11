@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tw93/Pake](https://github.com/tw93/Pake)** - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Chasing Ghosts by Thom Merlin, Her Majesty](https://open.spotify.com/track/59zeHS3oQNaXvjTBPrBhhC)
-- [Hey Now by DANZANTES (ofc), Clara Sofie](https://open.spotify.com/track/3uDHf0RPmMWehor8srROit)
-- [More - Thom Merlin Remix by Dominique Jardin, myne, Thom Merlin](https://open.spotify.com/track/3Lcoav7dE6pt51d9l9SsYK)
-- [Feeling Now by Deun](https://open.spotify.com/track/2hPRuFVBuwMxKl0PjDS6bI)
-- [Gun by LEVII, ODBLU](https://open.spotify.com/track/6lmsqsHbHPmUhNXZASLcs1)
+- [Driving by Jack Kelly, Julius IV, Lily Denning](https://open.spotify.com/track/2JGBRzIxNJQCk12sZ1n0sh)
+- [To Me by Howie Conyack](https://open.spotify.com/track/30awweiA0sVK1eKks6wkKJ)
+- [Sweater Weather by Nate VanDeusen, VonDeep, Toby Rose](https://open.spotify.com/track/10lrs0iG0pMvbTpFyOVo7U)
+- [Deepest by Alex Deeper, Mary S.K.](https://open.spotify.com/track/10IVn2GFQFWWpYKmEjgNrc)
+- [Tied To You by Elderbrook](https://open.spotify.com/track/4o3hMgZJFGjZqIVNDBmd68)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
