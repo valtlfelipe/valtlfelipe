@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog)** - Easy to configure &amp; self hostable Changelog Website (1 week ago)
 
 #### 🎧 What I have been listening
-- [All The Songs by Nick Peters, Louis III](https://open.spotify.com/track/5oA3tiyOv8pNM7yh4YwY4q)
-- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
-- [Follow the Sun by NEIMY](https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute)
-- [I Blame You by Thom Merlin, Felix Samuel](https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6)
-- [Inside My Love by TWOPILOTS](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh)
+- [Hollow Ground by NOTSOBAD, Able Faces](https://open.spotify.com/track/0D3R3tViQUgPvuzcVX5Yku)
+- [Let Go by Alex Martura](https://open.spotify.com/track/0Bary1wm0KXq4SaU5Cv1Co)
+- [Don&#39;t Know How by D3EPANK](https://open.spotify.com/track/5YXBazSdhGyFw1ZWSqWCqN)
+- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
+- [Searching All Around by Coffee Cub](https://open.spotify.com/track/2T3r3RYm4JgH6FOdz6GdcW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
