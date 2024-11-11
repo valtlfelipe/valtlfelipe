@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tw93/Pake](https://github.com/tw93/Pake)** - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Good Times, Bad Vibes by Plastic Jungle, Aimi](https://open.spotify.com/track/1ReEEd8Qq0fbiBNaY7aRGo)
-- [Where Are You Now by Together Alone](https://open.spotify.com/track/78HLTE5U1H39PAp4BGJB40)
-- [Promises, Promises by Thom Merlin, Maution](https://open.spotify.com/track/0ayX5J5IpyevJDlYpn0fyk)
-- [Paris In The Rain by PLVTO, Natasha Ghosh](https://open.spotify.com/track/22yDehY1PcrZEqlYvgn9yc)
-- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
+- [She&#39;s so High by Viva La Panda, Her Majesty](https://open.spotify.com/track/0tJvXxa4QmpVopRJypSlLy)
+- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
+- [Forever In My Mind by Madism, LPW](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB)
+- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
+- [Hold Me Tight by D3EPANK, Xiam, Rukid](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
