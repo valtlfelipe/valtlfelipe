@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (today)
 - **[sst/sst](https://github.com/sst/sst)** - Build full-stack apps on your own infrastructure. (today)
 - **[BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB)** - Postgres read replica optimized for analytics (4 days ago)
 - **[atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth)** - A demo of using Better Auth with NuxtHub (Cloudflare D1 &amp; KV). (6 days ago)
 - **[JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog)** - Easy to configure &amp; self hostable Changelog Website (1 week ago)
-- **[tw93/Pake](https://github.com/tw93/Pake)** - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (1 week ago)
 
 #### 🎧 What I have been listening
-- [She&#39;s so High by Viva La Panda, Her Majesty](https://open.spotify.com/track/0tJvXxa4QmpVopRJypSlLy)
-- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
-- [Forever In My Mind by Madism, LPW](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB)
-- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
-- [Hold Me Tight by D3EPANK, Xiam, Rukid](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF)
+- [All The Songs by Nick Peters, Louis III](https://open.spotify.com/track/5oA3tiyOv8pNM7yh4YwY4q)
+- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
+- [Follow the Sun by NEIMY](https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute)
+- [I Blame You by Thom Merlin, Felix Samuel](https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6)
+- [Inside My Love by TWOPILOTS](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
