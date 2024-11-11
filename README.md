@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog)** - Easy to configure &amp; self hostable Changelog Website (1 week ago)
 
 #### 🎧 What I have been listening
-- [see it too by Altero, Megggi](https://open.spotify.com/track/4XFrGc9OyYWpsnhjqSgEl2)
-- [Celestial by Saimöö, Magnus Gunn](https://open.spotify.com/track/572Lz2UYjWyWhl7gKwApBm)
-- [Rhythm Of My Mind - Chill Edit by Atch, Treetalk](https://open.spotify.com/track/0ZJdZtjF4cjZazBjeG8ql1)
-- [Another Lie by Panuma, Vice Vrsa, Mark Vayne](https://open.spotify.com/track/7L7K5rblvGEuRGGJLyR6lV)
-- [Liar by phil&#39;s ok.](https://open.spotify.com/track/5JV5Hk5zjqoRzwWOeI1yAE)
+- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
+- [Still Standing by aericsn, july](https://open.spotify.com/track/0vDieQMqZRkGtV1TRkoDlb)
+- [Used To Believe by NSH](https://open.spotify.com/track/6ErCBDr5mfwDIVXE5uIGYp)
+- [Will You Be Mine by SAINT.](https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz)
+- [Insight by Ashdown, JOS](https://open.spotify.com/track/2uygIqhXcoLrnT7oA1rsV8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
