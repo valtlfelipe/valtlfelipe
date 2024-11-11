@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog)** - Easy to configure &amp; self hostable Changelog Website (1 week ago)
 
 #### 🎧 What I have been listening
-- [Hollow Ground by NOTSOBAD, Able Faces](https://open.spotify.com/track/0D3R3tViQUgPvuzcVX5Yku)
-- [Let Go by Alex Martura](https://open.spotify.com/track/0Bary1wm0KXq4SaU5Cv1Co)
-- [Don&#39;t Know How by D3EPANK](https://open.spotify.com/track/5YXBazSdhGyFw1ZWSqWCqN)
-- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
-- [Searching All Around by Coffee Cub](https://open.spotify.com/track/2T3r3RYm4JgH6FOdz6GdcW)
+- [see it too by Altero, Megggi](https://open.spotify.com/track/4XFrGc9OyYWpsnhjqSgEl2)
+- [Celestial by Saimöö, Magnus Gunn](https://open.spotify.com/track/572Lz2UYjWyWhl7gKwApBm)
+- [Rhythm Of My Mind - Chill Edit by Atch, Treetalk](https://open.spotify.com/track/0ZJdZtjF4cjZazBjeG8ql1)
+- [Another Lie by Panuma, Vice Vrsa, Mark Vayne](https://open.spotify.com/track/7L7K5rblvGEuRGGJLyR6lV)
+- [Liar by phil&#39;s ok.](https://open.spotify.com/track/5JV5Hk5zjqoRzwWOeI1yAE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
