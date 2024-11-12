@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sst/sst](https://github.com/sst/sst)** - Build full-stack apps on your own infrastructure. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Heart Still Beating by Nathan Dawe, Bebe Rexha](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU)
-- [Life by Jamie xx, Robyn](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am)
-- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
-- [Chasing Highs - Felix Cartal Remix by ALMA, Felix Cartal](https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw)
-- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [On &amp; On by Armin van Buuren, Punctual, Alika](https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB)
+- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
+- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
+- [Overdrive (feat. Norma Jean Martine) by Ofenbach, Norma Jean Martine](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ)
+- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
