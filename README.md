@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth)** - A demo of using Better Auth with NuxtHub (Cloudflare D1 &amp; KV). (1 week ago)
 
 #### 🎧 What I have been listening
-- [Waiting For The Sunshine by aericsn](https://open.spotify.com/track/0Hwy2zQZhUPPF4d8t0D0S6)
-- [Lie by BRETSN, SANDMO](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP)
-- [Thunder by LEVII, Nethy Aber](https://open.spotify.com/track/3OOSCaSLkMEVekUUtuaMgD)
-- [Guiding Light by D3EPANK](https://open.spotify.com/track/6qnhBx6bmKxQpwkKuDdLMl)
-- [LUNCH by Nomore, Tasty Or Not, Queen D](https://open.spotify.com/track/1qXocnPCGMbNpsz9MRiwy6)
+- [søund øf yøur heartbeat by birø, KROO, Ariana Celaeno](https://open.spotify.com/track/56TaFtRKGyIYKXHta008HY)
+- [Rising by Lotus, Jan Liva, Faruk Orman, yara.](https://open.spotify.com/track/1strFFSyp0WcHZ7tA44dgt)
+- [Glass Ceiling by Todd Stucky](https://open.spotify.com/track/2BLwCVU33AphI3n9E1HaS5)
+- [Light Comes Up by Bayza](https://open.spotify.com/track/3PZA5orGDLCDJoQfARGqfX)
+- [Faded Rose by NSH](https://open.spotify.com/track/5dSDf2TwSNtW3BSxceyxNt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
