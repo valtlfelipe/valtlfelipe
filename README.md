@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB)** - Postgres read replica optimized for analytics (5 days ago)
 
 #### 🎧 What I have been listening
-- [Gun by LEVII, ODBLU](https://open.spotify.com/track/6lmsqsHbHPmUhNXZASLcs1)
-- [Sunday Vibe by James Lacey](https://open.spotify.com/track/0R4rV2BoKcNz1gIALk76HH)
-- [Sirens by Dallerium, FARLEY](https://open.spotify.com/track/14tDY4UrwhZbhRktMhZ2v5)
-- [Holding On by Steam Phunk, maybealice](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa)
-- [Fly With Me by Lucien, UnderWater Project](https://open.spotify.com/track/4BJGIPhm7dcBoe1gJ7hkok)
+- [Miss You by Zave](https://open.spotify.com/track/4XQ4w8AkJTrcwzOWXOxk3v)
+- [After Midnite by KaleidoCloud](https://open.spotify.com/track/3JRjy82JSwQS9Z5askUvF8)
+- [Chasing Ghosts by Thom Merlin, Her Majesty](https://open.spotify.com/track/59zeHS3oQNaXvjTBPrBhhC)
+- [Hey Now by DANZANTES (ofc), Clara Sofie](https://open.spotify.com/track/3uDHf0RPmMWehor8srROit)
+- [More - Thom Merlin Remix by Dominique Jardin, myne, Thom Merlin](https://open.spotify.com/track/3Lcoav7dE6pt51d9l9SsYK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
