@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sst/sst](https://github.com/sst/sst)** - Build full-stack apps on your own infrastructure. (1 day ago)
 
 #### 🎧 What I have been listening
-- [PLACE IN MY MIND (feat. shy martin) by Whethan, shy martin](https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N)
-- [Dudada by Tiësto, Goldcher, Irina Rimes](https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm)
-- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
-- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
-- [Take Me Home, Country Roads by KSHMR](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov)
+- [Heart Still Beating by Nathan Dawe, Bebe Rexha](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU)
+- [Life by Jamie xx, Robyn](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am)
+- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
+- [Chasing Highs - Felix Cartal Remix by ALMA, Felix Cartal](https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
