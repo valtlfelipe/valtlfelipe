@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sst/sst](https://github.com/sst/sst)** - Build full-stack apps on your own infrastructure. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
-- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
-- [CAVE (with Tove Lo) by Dom Dolla, Tove Lo](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm)
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
-- [Get What You Give by Seasider](https://open.spotify.com/track/2HcQQMngt5Stl0Pi3vtgbf)
+- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
+- [Sunroof - Loud Luxury Remix by Nicky Youre, dazy, Loud Luxury](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj)
+- [Lighter by Galantis, David Guetta, 5 Seconds of Summer](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3)
+- [Green Green Grass - Sam Feldt Remix by George Ezra, Sam Feldt](https://open.spotify.com/track/0nmHVEKnBniX3DOmMwCOZi)
+- [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
