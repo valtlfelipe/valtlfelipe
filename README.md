@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[atinux/nuxthub-better-auth](https://github.com/atinux/nuxthub-better-auth)** - A demo of using Better Auth with NuxtHub (Cloudflare D1 &amp; KV). (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wanted by Marvin Shadex](https://open.spotify.com/track/6CC0cv0KDIXUwS8GVJwqF7)
-- [Someone Like You by Mason](https://open.spotify.com/track/4cW2Acc84hAKTvN54nZ1ab)
-- [You And I by Friends &amp; I, NVRT](https://open.spotify.com/track/3J217Q4UxPawt2p0ldy419)
-- [Yes, and? by Cupido](https://open.spotify.com/track/5GhiD8A7PlEXQaG4KxjyD2)
-- [Ready For Your Love by Thom Merlin, Raphael DeLove](https://open.spotify.com/track/2KNGqTAuFjtHnOwMHM2pSW)
+- [Favorite Wrong by The NGHBRS](https://open.spotify.com/track/4aGStEuwrSQBynCrHMgsEQ)
+- [This Is Love by Ourson](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD)
+- [Stay Right Here by SAINT., Peer Pressure](https://open.spotify.com/track/2GDh2QfjBoXZ4VRRid8BSB)
+- [Wondering Why by L.A, Dallien, Alia Faye](https://open.spotify.com/track/71usfyu4lteyYq1tGP9m16)
+- [Let You Go by LEVII, Joseph Feinstein](https://open.spotify.com/track/4UrocrKFSEnmMYwqDJbVde)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
