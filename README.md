@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (today)
 - **[thedaviddias/indie-dev-toolkit](https://github.com/thedaviddias/indie-dev-toolkit)** - 🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups. (today)
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** - 🔥 🔥 🔥 Open Source Airtable Alternative (1 day ago)
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (1 day ago)
 - **[sst/sst](https://github.com/sst/sst)** - Build full-stack apps on your own infrastructure. (1 day ago)
-- **[BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB)** - Postgres read replica optimized for analytics (5 days ago)
 
 #### 🎧 What I have been listening
-- [Miss You by Zave](https://open.spotify.com/track/4XQ4w8AkJTrcwzOWXOxk3v)
-- [After Midnite by KaleidoCloud](https://open.spotify.com/track/3JRjy82JSwQS9Z5askUvF8)
-- [Chasing Ghosts by Thom Merlin, Her Majesty](https://open.spotify.com/track/59zeHS3oQNaXvjTBPrBhhC)
-- [Hey Now by DANZANTES (ofc), Clara Sofie](https://open.spotify.com/track/3uDHf0RPmMWehor8srROit)
-- [More - Thom Merlin Remix by Dominique Jardin, myne, Thom Merlin](https://open.spotify.com/track/3Lcoav7dE6pt51d9l9SsYK)
+- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
+- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
+- [CAVE (with Tove Lo) by Dom Dolla, Tove Lo](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm)
+- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
+- [Get What You Give by Seasider](https://open.spotify.com/track/2HcQQMngt5Stl0Pi3vtgbf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
