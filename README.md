@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sst/sst](https://github.com/sst/sst)** - Build full-stack apps on your own infrastructure. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
-- [Sunroof - Loud Luxury Remix by Nicky Youre, dazy, Loud Luxury](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj)
-- [Lighter by Galantis, David Guetta, 5 Seconds of Summer](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3)
-- [Green Green Grass - Sam Feldt Remix by George Ezra, Sam Feldt](https://open.spotify.com/track/0nmHVEKnBniX3DOmMwCOZi)
-- [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn)
+- [Lil Boo Thang - Galantis Remix by Paul Russell, Galantis](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0)
+- [Free by Third Party](https://open.spotify.com/track/1tOTq5hXlLeKbqOVn8ddMF)
+- [B.O.T.A. (Baddest of Them All) - Edit by Eliza Rose, Interplanetary Criminal](https://open.spotify.com/track/3k8G7AqDiG6zAkQcEJg13u)
+- [Ascend by Dezko](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
