@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (2 days ago)
 
 #### 🎧 What I have been listening
-- [Believe (Shooting Stars) by R3HAB, Mufasa &amp; Hypeman, Mufasa, RANI](https://open.spotify.com/track/7fJdto9euM593wybpCdEPV)
-- [Deep End - SIDEPIECE Remix by John Summit, SIDEPIECE](https://open.spotify.com/track/5WNa0eaGNwQ1ZXTHVlULpd)
-- [Can&#39;t Forget You by LUM!X, Lucas &amp; Steve](https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg)
-- [Barcelona by Alan Walker, Ina Wroldsen](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy)
-- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
+- [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
+- [You Give Me A Feeling by Vintage Culture, James Hype](https://open.spotify.com/track/2qRKTg13LJGHO4fmQTWT7x)
+- [MAGIC (feat. babyidontlikeyou) by Gryffin, babyidontlikeyou](https://open.spotify.com/track/1Pr7NQ5DvkKQEflHASvyBF)
+- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
+- [Lose Control - Tiësto Remix by Teddy Swims, Tiësto](https://open.spotify.com/track/6Qw4mOkFM3UjCf3ybd4zCE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
