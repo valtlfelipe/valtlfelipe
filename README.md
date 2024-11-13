@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (2 days ago)
 
 #### 🎧 What I have been listening
-- [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
-- [You Give Me A Feeling by Vintage Culture, James Hype](https://open.spotify.com/track/2qRKTg13LJGHO4fmQTWT7x)
-- [MAGIC (feat. babyidontlikeyou) by Gryffin, babyidontlikeyou](https://open.spotify.com/track/1Pr7NQ5DvkKQEflHASvyBF)
-- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
-- [Lose Control - Tiësto Remix by Teddy Swims, Tiësto](https://open.spotify.com/track/6Qw4mOkFM3UjCf3ybd4zCE)
+- [Lonely Heart by Alesso, John Alto](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [B.O.T.A. (Baddest Of Them All) - Edit by Eliza Rose, Interplanetary Criminal](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft)
+- [Your Love (9PM) by ATB, Topic, A7S](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx)
+- [Animal by R3HAB, Jason Derulo](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
