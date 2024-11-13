@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sst/sst](https://github.com/sst/sst)** - Build full-stack apps on your own infrastructure. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
-- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
-- [No Fun by Armin van Buuren, The Stickmen Project](https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr)
-- [Chihiro by Gravagerz](https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C)
-- [The Boy Is Mine by James Mac, Vall, Rosalie](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF)
+- [On My Knees by RÜFÜS DU SOL](https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu)
+- [Afraid To Feel by LF SYSTEM](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr)
+- [Prada by cassö, RAYE, D-Block Europe](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i)
+- [Love Is A Drug by Armin van Buuren, Anne Gudrun](https://open.spotify.com/track/5BYO2o4tpB4rzzVesxtUuT)
+- [Tell Me Why - MEDUZA Remix by Supermode, MEDUZA](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
