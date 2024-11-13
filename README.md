@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (2 days ago)
 
 #### 🎧 What I have been listening
+- [Out Of Touch - 71 Digits Edit by Madison Mars, 71 Digits](https://open.spotify.com/track/3Uxp6uik4XcT6LGIv8mKNe)
+- [Tell Me What You Want by Oden &amp; Fatzo, Poppy Baskcomb](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq)
 - [Lonely Heart by Alesso, John Alto](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T)
 - [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
 - [B.O.T.A. (Baddest Of Them All) - Edit by Eliza Rose, Interplanetary Criminal](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft)
-- [Your Love (9PM) by ATB, Topic, A7S](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx)
-- [Animal by R3HAB, Jason Derulo](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
