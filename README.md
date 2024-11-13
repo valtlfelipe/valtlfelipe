@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (2 days ago)
 
 #### 🎧 What I have been listening
-- [Love Is The Only Thing by Lost Frequencies](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW)
-- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/37uMiu52DbSIx3SJ3sGDow)
-- [Pump It Up by Endor](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y)
-- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
-- [On Repeat by GAMPER &amp; DADONI, Joe Jury](https://open.spotify.com/track/0HGpMpt4OrGUtdHq8dVuPN)
+- [The Chase - Rebūke Remix by Emmit Fenn, Rebūke](https://open.spotify.com/track/6ZHMVT32TtD6IzvbxBo4eF)
+- [Ready For Your Love by Felix Jaehn, Sophie Ellis-Bextor](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP)
+- [VIRUS - Odd Mob Remix by GEN.KLOUD, Odd Mob](https://open.spotify.com/track/0MyfdGptOUnUnGzJmiyCOG)
+- [Hollow (feat. Bonn) by MORTEN, ARTBAT, Bonn](https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa)
+- [Under Control (feat. Hurts) by Calvin Harris, Alesso, Hurts](https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
