@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[sst/sst](https://github.com/sst/sst)** - Build full-stack apps on your own infrastructure. (2 days ago)
 
 #### 🎧 What I have been listening
-- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
-- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
-- [Turn off the Lights by Chris Lake, Alexis Roberts](https://open.spotify.com/track/7dsImih2L25fa6qjNphBI7)
-- [Lose This Feeling by Armin van Buuren](https://open.spotify.com/track/4tV6C36fjDmz0kzlFIdx3o)
-- [Outside Of Love by Becky Hill](https://open.spotify.com/track/3LcXzMeyG4jy8ERxtzHGgP)
+- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
+- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
+- [No Fun by Armin van Buuren, The Stickmen Project](https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr)
+- [Chihiro by Gravagerz](https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C)
+- [The Boy Is Mine by James Mac, Vall, Rosalie](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
