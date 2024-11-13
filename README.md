@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (2 days ago)
 
 #### 🎧 What I have been listening
-- [Out Of Touch - 71 Digits Edit by Madison Mars, 71 Digits](https://open.spotify.com/track/3Uxp6uik4XcT6LGIv8mKNe)
-- [Tell Me What You Want by Oden &amp; Fatzo, Poppy Baskcomb](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq)
-- [Lonely Heart by Alesso, John Alto](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T)
-- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
-- [B.O.T.A. (Baddest Of Them All) - Edit by Eliza Rose, Interplanetary Criminal](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft)
+- [Love Is The Only Thing by Lost Frequencies](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW)
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/37uMiu52DbSIx3SJ3sGDow)
+- [Pump It Up by Endor](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y)
+- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
+- [On Repeat by GAMPER &amp; DADONI, Joe Jury](https://open.spotify.com/track/0HGpMpt4OrGUtdHq8dVuPN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
