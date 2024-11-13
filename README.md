@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (2 days ago)
 
 #### 🎧 What I have been listening
-- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
-- [Remember (feat. Stevie Appleton) by Sonny Fodera, Gorgon City, Danny Howard, Stevie Appleton](https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5)
-- [In The Dark by Armin van Buuren, David Guetta, Aldae](https://open.spotify.com/track/492Ms0eG4ylkf1m50ORty7)
-- [Lost by RSCL, it&#39;s murph, Twin Diplomacy, Jack August](https://open.spotify.com/track/5XFktAerFHxM4tp7EhzTrh)
-- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
+- [Believe (Shooting Stars) by R3HAB, Mufasa &amp; Hypeman, Mufasa, RANI](https://open.spotify.com/track/7fJdto9euM593wybpCdEPV)
+- [Deep End - SIDEPIECE Remix by John Summit, SIDEPIECE](https://open.spotify.com/track/5WNa0eaGNwQ1ZXTHVlULpd)
+- [Can&#39;t Forget You by LUM!X, Lucas &amp; Steve](https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg)
+- [Barcelona by Alan Walker, Ina Wroldsen](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy)
+- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
