@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (3 days ago)
 
 #### 🎧 What I have been listening
-- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
-- [exes - Regard Remix by Tate McRae, Regard](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA)
-- [Waiting for Tonight - Radio Edit by Jennifer Lopez, FISHER](https://open.spotify.com/track/5GHVp2CCufZ8MJzYE82W7R)
-- [2 Die 4 (Jax Jones Midnight Snacks Remix) by Tove Lo, Jax Jones](https://open.spotify.com/track/1kVPn4Wg6ZIIRSKmdyXMry)
-- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
+- [2 Be Loved (Am I Ready) [PNAU Remix] by Lizzo, PNAU](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q)
+- [Lavender Haze - Snakehips Remix by Taylor Swift, Snakehips](https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs)
+- [Steal My Clothes (ft. Bea Miller) – LP Giobbi Remix by Kito, Bea Miller, LP Giobbi](https://open.spotify.com/track/6Esm09YZlCd58xR08xT021)
+- [Goodies by Dillon Francis](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG)
+- [Satisfaction by David Guetta, Benny Benassi](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
