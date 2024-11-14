@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** - 🔥 🔥 🔥 Open Source Airtable Alternative (3 days ago)
 
 #### 🎧 What I have been listening
-- [I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix by Whitney Houston, David Solomon](https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg)
-- [It&#39;s ok I&#39;m ok - Ian Asher remix by Tate McRae, Ian Asher](https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK)
-- [Bad Memories - Felix Jaehn Remix by MEDUZA, James Carter, Felix Jaehn, Elley Duhé, FAST BOY](https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep)
-- [Pump It Louder by Tiësto, Black Eyed Peas](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br)
-- [Can&#39;t Get You out of My Head - Peggy Gou’s Midnight Remix by Kylie Minogue, Peggy Gou](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb)
+- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz)
+- [All My Life by Purple Disco Machine, The Magician](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs)
+- [Hooligans by Steve Angello](https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg)
+- [MERTHER by Mau P](https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2)
+- [7 Seconds (feat. Shamiya Battles) - Radio Edit by James Hype, Shamiya Battles](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
