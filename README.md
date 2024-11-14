@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** - 🔥 🔥 🔥 Open Source Airtable Alternative (3 days ago)
 
 #### 🎧 What I have been listening
-- [Flood by Sebastian Ingrosso](https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH)
-- [24 (Turn It Up) (&#43;6) by ANOTR, Kurtis Wells](https://open.spotify.com/track/0EWG5cpMUT0Jp0Pye9S0Ne)
-- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
-- [The Deep by Lane 8, Art School Girlfriend](https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4)
-- [Last Night by Rivo](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq)
+- [Got To Change by Caribou](https://open.spotify.com/track/5JVQ5aBwl7QQYIaqzzM7BH)
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn)
+- [Body Say by XANDRA, GiGi Grombacher](https://open.spotify.com/track/25ArkZpdsdxliawDn8mRMb)
+- [It&#39;s ok I&#39;m ok - Ian Asher remix by Tate McRae, Ian Asher](https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
