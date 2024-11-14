@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** - 🔥 🔥 🔥 Open Source Airtable Alternative (3 days ago)
 
 #### 🎧 What I have been listening
-- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz)
-- [All My Life by Purple Disco Machine, The Magician](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs)
-- [Hooligans by Steve Angello](https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg)
-- [MERTHER by Mau P](https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2)
-- [7 Seconds (feat. Shamiya Battles) - Radio Edit by James Hype, Shamiya Battles](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT)
+- [Falling For You by Amelie Lens](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ)
+- [4U by Matroda, Martin Ikin, Sian-Lee](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx)
+- [Brand New (feat. James Vincent McMorrow and A-Trak) by The Blessed Madonna, James Vincent McMorrow, A-Trak](https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4)
+- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
+- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
