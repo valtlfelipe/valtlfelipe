@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** - 🔥 🔥 🔥 Open Source Airtable Alternative (3 days ago)
 
 #### 🎧 What I have been listening
-- [Falling For You by Amelie Lens](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ)
-- [4U by Matroda, Martin Ikin, Sian-Lee](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx)
-- [Brand New (feat. James Vincent McMorrow and A-Trak) by The Blessed Madonna, James Vincent McMorrow, A-Trak](https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4)
-- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
-- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
+- [Flood by Sebastian Ingrosso](https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH)
+- [24 (Turn It Up) (&#43;6) by ANOTR, Kurtis Wells](https://open.spotify.com/track/0EWG5cpMUT0Jp0Pye9S0Ne)
+- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
+- [The Deep by Lane 8, Art School Girlfriend](https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4)
+- [Last Night by Rivo](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
