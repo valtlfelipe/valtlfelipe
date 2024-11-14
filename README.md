@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (3 days ago)
 
 #### 🎧 What I have been listening
-- [Temptation (feat. Poppy Baskcomb) by Jess Bays, Poppy Baskcomb](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ)
-- [Lady Love by Oden &amp; Fatzo, Camden Cox](https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5)
-- [Children - Edit Mix by Tinlicker, Robert Miles](https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV)
-- [The Chase - Rebūke Remix by Emmit Fenn, Rebūke](https://open.spotify.com/track/6ZHMVT32TtD6IzvbxBo4eF)
-- [Ready For Your Love by Felix Jaehn, Sophie Ellis-Bextor](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [exes - Regard Remix by Tate McRae, Regard](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA)
+- [Waiting for Tonight - Radio Edit by Jennifer Lopez, FISHER](https://open.spotify.com/track/5GHVp2CCufZ8MJzYE82W7R)
+- [2 Die 4 (Jax Jones Midnight Snacks Remix) by Tove Lo, Jax Jones](https://open.spotify.com/track/1kVPn4Wg6ZIIRSKmdyXMry)
+- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
