@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (3 days ago)
 
 #### 🎧 What I have been listening
+- [Do It To It - Tiësto Remix by ACRAZE, Tiësto, Cherish](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC)
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) - Felix Jaehn Remix by Calvin Harris, Rag&#39;n&#39;Bone Man, Felix Jaehn](https://open.spotify.com/track/3hHMzB7MDbmj9DYVHqju9T)
+- [Jungle - TELYKAST Remix by Alok, The Chainsmokers, Mae Stephens, TELYKAST](https://open.spotify.com/track/4WRpjpQXCVNBNL67A9HZWX)
 - [Sinnerman - Sofi Tukker Remix by Nina Simone, Sofi Tukker](https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL)
 - [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
-- [feelslikeimfallinginlove - Zerb x Coldplay by Coldplay, Zerb](https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt)
-- [greedy - cassö remix by Tate McRae, cassö](https://open.spotify.com/track/4MhxagNeAqtTdy9ht8tQo5)
-- [Skin and Bones - MEDUZA REMIX by David Kushner, MEDUZA](https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
