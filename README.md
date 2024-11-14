@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (3 days ago)
 
 #### 🎧 What I have been listening
+- [Whatever (with Ava Max) - Tiësto Remix by Kygo, Tiësto](https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO)
+- [Can&#39;t Tame Her - VIZE Remix by Zara Larsson, VIZE](https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK)
+- [Lose You - Felix Jaehn Remix by Sam Smith, Felix Jaehn](https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC)
+- [Praising You (feat. Fatboy Slim) by Rita Ora, Fatboy Slim](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD)
 - [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
-- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5vVND8Mey78LZaljL8Nmpd)
-- [Your Love - Diplo Remix by The Outfield, Diplo](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y)
-- [The Best Part of Life - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel)
-- [Summertime - Imanbek Remix by Lana Del Rey, Imanbek](https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
