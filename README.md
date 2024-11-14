@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[pnpm/pnpm](https://github.com/pnpm/pnpm)** - Fast, disk space efficient package manager (3 days ago)
 
 #### 🎧 What I have been listening
-- [Do It To It - Tiësto Remix by ACRAZE, Tiësto, Cherish](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC)
-- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) - Felix Jaehn Remix by Calvin Harris, Rag&#39;n&#39;Bone Man, Felix Jaehn](https://open.spotify.com/track/3hHMzB7MDbmj9DYVHqju9T)
-- [Jungle - TELYKAST Remix by Alok, The Chainsmokers, Mae Stephens, TELYKAST](https://open.spotify.com/track/4WRpjpQXCVNBNL67A9HZWX)
-- [Sinnerman - Sofi Tukker Remix by Nina Simone, Sofi Tukker](https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL)
-- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
+- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
+- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5vVND8Mey78LZaljL8Nmpd)
+- [Your Love - Diplo Remix by The Outfield, Diplo](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y)
+- [The Best Part of Life - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel)
+- [Summertime - Imanbek Remix by Lana Del Rey, Imanbek](https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
