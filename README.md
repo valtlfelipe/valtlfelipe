@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** - 🔥 🔥 🔥 Open Source Airtable Alternative (4 days ago)
 
 #### 🎧 What I have been listening
-- [Illusion - The Blaze Remix by Dua Lipa, The Blaze](https://open.spotify.com/track/4114yXSCoWhzmu4oF6Hmzl)
-- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
-- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5vVND8Mey78LZaljL8Nmpd)
-- [Memories (feat. Kid Cudi) - 2021 Remix by David Guetta, Kid Cudi](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa)
-- [Eyes Closed - Lost Frequencies Remix by Ed Sheeran, Lost Frequencies](https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB)
+- [Jungle - TELYKAST Remix by Alok, The Chainsmokers, Mae Stephens, TELYKAST](https://open.spotify.com/track/4WRpjpQXCVNBNL67A9HZWX)
+- [The Best Part of Life - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel)
+- [Show Me Love - Dubdogz Remix by Steve Angello, Laidback Luke, Robin S, Dubdogz](https://open.spotify.com/track/5QH3sjtAIJmeUiVuwDOjui)
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) - Felix Jaehn Remix by Calvin Harris, Rag&#39;n&#39;Bone Man, Felix Jaehn](https://open.spotify.com/track/3hHMzB7MDbmj9DYVHqju9T)
+- [More Than A Woman - SG&#39;s Paradise Edit by Bee Gees, SG Lewis](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
