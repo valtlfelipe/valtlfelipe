@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** - 🔥 🔥 🔥 Open Source Airtable Alternative (4 days ago)
 
 #### 🎧 What I have been listening
+- [Escape - John Summit Remix by deadmau5, Kaskade, Kx5, HAYLA, John Summit](https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE)
+- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
+- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5vVND8Mey78LZaljL8Nmpd)
+- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
 - [Jungle - TELYKAST Remix by Alok, The Chainsmokers, Mae Stephens, TELYKAST](https://open.spotify.com/track/4WRpjpQXCVNBNL67A9HZWX)
-- [The Best Part of Life - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel)
-- [Show Me Love - Dubdogz Remix by Steve Angello, Laidback Luke, Robin S, Dubdogz](https://open.spotify.com/track/5QH3sjtAIJmeUiVuwDOjui)
-- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) - Felix Jaehn Remix by Calvin Harris, Rag&#39;n&#39;Bone Man, Felix Jaehn](https://open.spotify.com/track/3hHMzB7MDbmj9DYVHqju9T)
-- [More Than A Woman - SG&#39;s Paradise Edit by Bee Gees, SG Lewis](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
