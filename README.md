@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[thedaviddias/indie-dev-toolkit](https://github.com/thedaviddias/indie-dev-toolkit)** - 🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups. (3 days ago)
 
 #### 🎧 What I have been listening
+- [Lovefool by The Cardigans](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD)
+- [More Than A Woman - SG&#39;s Paradise Edit by Bee Gees, SG Lewis](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J)
 - [About Damn Time - Purple Disco Machine Remix by Lizzo, Purple Disco Machine](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI)
 - [Escape - John Summit Remix by deadmau5, Kaskade, Kx5, HAYLA, John Summit](https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE)
 - [Illusion - The Blaze Remix by Dua Lipa, The Blaze](https://open.spotify.com/track/4114yXSCoWhzmu4oF6Hmzl)
-- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
-- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5vVND8Mey78LZaljL8Nmpd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
