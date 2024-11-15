@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** - 🔥 🔥 🔥 Open Source Airtable Alternative (4 days ago)
 
 #### 🎧 What I have been listening
+- [Illusion - The Blaze Remix by Dua Lipa, The Blaze](https://open.spotify.com/track/4114yXSCoWhzmu4oF6Hmzl)
+- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
+- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5vVND8Mey78LZaljL8Nmpd)
 - [Memories (feat. Kid Cudi) - 2021 Remix by David Guetta, Kid Cudi](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa)
-- [Life by Jamie xx, Robyn](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am)
-- [Stars (feat. Steve Winwood) by BURNS, Steve Winwood](https://open.spotify.com/track/1YQ7HRuo0LwRcWab3IaDJc)
-- [Got To Change by Caribou](https://open.spotify.com/track/5JVQ5aBwl7QQYIaqzzM7BH)
-- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn)
+- [Eyes Closed - Lost Frequencies Remix by Ed Sheeran, Lost Frequencies](https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
