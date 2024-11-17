@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[thedaviddias/indie-dev-toolkit](https://github.com/thedaviddias/indie-dev-toolkit)** - 🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Wonderwall - Remastered by Oasis](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa)
-- [Iris by The Goo Goo Dolls](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)
-- [Missing - Todd Terry Remix / Radio Edit by Everything But The Girl](https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN)
-- [Torn by Natalie Imbruglia](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU)
-- [Don&#39;t Speak by No Doubt](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)
+- [You&#39;re Makin&#39; Me High by DJ Katch, Amira Eldine](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA)
+- [Would U Let Me by Oliver Cricket](https://open.spotify.com/track/37qIRuKZvSQTYqMAJoXFmm)
+- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [Don&#39;t (Fall in Love) by Just Kiddin](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z)
+- [Hey Now by DANZANTES (ofc), Clara Sofie](https://open.spotify.com/track/3uDHf0RPmMWehor8srROit)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
