@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[thedaviddias/indie-dev-toolkit](https://github.com/thedaviddias/indie-dev-toolkit)** - 🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Changes by 2Pac, Talent](https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv)
-- [Kiss Me by Sixpence None The Richer](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp)
-- [Kiss Me by Sixpence None The Richer](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp)
-- [Vogue by Madonna](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt)
-- [Lovefool by The Cardigans](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD)
+- [Wonderwall - Remastered by Oasis](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa)
+- [Iris by The Goo Goo Dolls](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)
+- [Missing - Todd Terry Remix / Radio Edit by Everything But The Girl](https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN)
+- [Torn by Natalie Imbruglia](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU)
+- [Don&#39;t Speak by No Doubt](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
