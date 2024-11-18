@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (6 days ago)
 
 #### 🎧 What I have been listening
-- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
-- [Hold Me Tight by D3EPANK, Xiam, Rukid](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF)
-- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
-- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
-- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
+- [My Love by Gianluca Dimeo, Daniel Santoro](https://open.spotify.com/track/55yl2jVMuB0yPUJzWjJM7p)
+- [Josephine (feat. Apophenia) by HYPAUX, outset island, Apophenia](https://open.spotify.com/track/4Vdg3bigqYqRjyFC0dCq3G)
+- [Sunday Vibe by James Lacey](https://open.spotify.com/track/0R4rV2BoKcNz1gIALk76HH)
+- [Broken Down by Woodworks, Riesling, Joey Busse](https://open.spotify.com/track/2bJ4JI0F44VDPdFrR0vOWd)
+- [Catch Another Tide by Thierry Von Der Warth, NSH](https://open.spotify.com/track/6VvUHvbrWKrVvlndasAAgv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
