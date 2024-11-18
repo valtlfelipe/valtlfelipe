@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[thedaviddias/indie-dev-toolkit](https://github.com/thedaviddias/indie-dev-toolkit)** - 🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Out of My Head by Jack Wins, ManyFew](https://open.spotify.com/track/1e0V7CMEcXaPAMtL4b5VtV)
+- [Grateful by Me &amp; George, KATYA](https://open.spotify.com/track/47CYEfRZNEHq9UXALEP7Z4)
 - [You&#39;re Makin&#39; Me High by DJ Katch, Amira Eldine](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA)
 - [Would U Let Me by Oliver Cricket](https://open.spotify.com/track/37qIRuKZvSQTYqMAJoXFmm)
 - [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
-- [Don&#39;t (Fall in Love) by Just Kiddin](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z)
-- [Hey Now by DANZANTES (ofc), Clara Sofie](https://open.spotify.com/track/3uDHf0RPmMWehor8srROit)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
