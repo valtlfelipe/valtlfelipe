@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (6 days ago)
 
 #### 🎧 What I have been listening
-- [Give Me The Love by D3EPANK, ENLIV3N](https://open.spotify.com/track/58iQWJZhzStie1hsYJt3a0)
-- [Ocean Eyes by Horizon Blue, Carston](https://open.spotify.com/track/68X6mttsMVfPdtmouVTGHo)
-- [So Over You by Matthew Clarck](https://open.spotify.com/track/0ZLLGT0tnoBmC4eBM7RIY2)
-- [Give &amp; Take by Hobes](https://open.spotify.com/track/66r9GYF1oOv4ZYmf17xHBz)
-- [Anywhere by Firevibe, Joel Coopa](https://open.spotify.com/track/7a1v8RwsFOtJwtdRqBfXbN)
+- [Stay With You by Plastic Jungle, Rya Rey](https://open.spotify.com/track/3Nwao5cxiw8UdMEpwDTfLV)
+- [Stay with Me by James Lacey, Sarah Lahn](https://open.spotify.com/track/7afNIjCXcjiKdHlJkVrJ46)
+- [Why Did I by Monde, Addy Ace, J.A.E](https://open.spotify.com/track/2uUUGjdcZfhAKgVhUEyc16)
+- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
+- [All The Songs by Nick Peters, Louis III](https://open.spotify.com/track/5oA3tiyOv8pNM7yh4YwY4q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
