@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[thedaviddias/indie-dev-toolkit](https://github.com/thedaviddias/indie-dev-toolkit)** - 🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Out of My Head by Jack Wins, ManyFew](https://open.spotify.com/track/1e0V7CMEcXaPAMtL4b5VtV)
-- [Grateful by Me &amp; George, KATYA](https://open.spotify.com/track/47CYEfRZNEHq9UXALEP7Z4)
-- [You&#39;re Makin&#39; Me High by DJ Katch, Amira Eldine](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA)
-- [Would U Let Me by Oliver Cricket](https://open.spotify.com/track/37qIRuKZvSQTYqMAJoXFmm)
-- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [Can&#39;t Get You Out Of My Head by Brøder, Alex James](https://open.spotify.com/track/6YaxLesNo8CZtyk5oGlKoR)
+- [Issues by XTEQUILAX, alm0ss, INAMEIT](https://open.spotify.com/track/4jgEQHgFDPQxHG1B26lBkl)
+- [Mine by Horizon Blue, S3DA](https://open.spotify.com/track/4ywz4b9F85rFiyHviTbhls)
+- [Stayin&#39; da Club - Original Mix by Nari, Steve Tosi](https://open.spotify.com/track/5bJRsEafMabGD0AnTFHKMf)
+- [Wicked Game by Alina Love, Svet](https://open.spotify.com/track/7sCSAVkQzd3drBvkgXcSkz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
