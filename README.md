@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (6 days ago)
 
 #### 🎧 What I have been listening
-- [Seasons by James Lacey, Aimi](https://open.spotify.com/track/1yjBLNNJ5Ysk2dPKfbYngk)
-- [Used To Believe by NSH](https://open.spotify.com/track/6ErCBDr5mfwDIVXE5uIGYp)
-- [Can&#39;t Get Enough Of You by Polysun](https://open.spotify.com/track/48aK0C5a6hMVNsA9Cbp6LL)
-- [Let It Slide by AIMÉ, Odeon, Freyer, Sam Welch](https://open.spotify.com/track/4zuodNOafqvTJiAxW61k76)
-- [Let U Go by Marsellie, Jox Music](https://open.spotify.com/track/3gHlewvUOYaqV0LGbIWKLs)
+- [Give Me The Love by D3EPANK, ENLIV3N](https://open.spotify.com/track/58iQWJZhzStie1hsYJt3a0)
+- [Ocean Eyes by Horizon Blue, Carston](https://open.spotify.com/track/68X6mttsMVfPdtmouVTGHo)
+- [So Over You by Matthew Clarck](https://open.spotify.com/track/0ZLLGT0tnoBmC4eBM7RIY2)
+- [Give &amp; Take by Hobes](https://open.spotify.com/track/66r9GYF1oOv4ZYmf17xHBz)
+- [Anywhere by Firevibe, Joel Coopa](https://open.spotify.com/track/7a1v8RwsFOtJwtdRqBfXbN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
