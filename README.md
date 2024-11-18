@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (6 days ago)
 
 #### 🎧 What I have been listening
+- [Seasons by James Lacey, Aimi](https://open.spotify.com/track/1yjBLNNJ5Ysk2dPKfbYngk)
+- [Used To Believe by NSH](https://open.spotify.com/track/6ErCBDr5mfwDIVXE5uIGYp)
+- [Can&#39;t Get Enough Of You by Polysun](https://open.spotify.com/track/48aK0C5a6hMVNsA9Cbp6LL)
 - [Let It Slide by AIMÉ, Odeon, Freyer, Sam Welch](https://open.spotify.com/track/4zuodNOafqvTJiAxW61k76)
 - [Let U Go by Marsellie, Jox Music](https://open.spotify.com/track/3gHlewvUOYaqV0LGbIWKLs)
-- [KEEP DREAMING by TEMPHOUSE](https://open.spotify.com/track/5tCOavMT3BMLpf8yp9TBpS)
-- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
-- [Shallow Water - Edit by JLV, Kairos Grove](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
