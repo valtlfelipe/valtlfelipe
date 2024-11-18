@@ -3,18 +3,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[elie222/inbox-zero](https://github.com/elie222/inbox-zero)** - Open source email app to reach inbox zero fast. (today)
 - **[openmeterio/openmeter](https://github.com/openmeterio/openmeter)** - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing. (3 days ago)
 - **[yorukot/superfile](https://github.com/yorukot/superfile)** - Pretty fancy and modern terminal file manager (4 days ago)
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (5 days ago)
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (6 days ago)
-- **[thedaviddias/indie-dev-toolkit](https://github.com/thedaviddias/indie-dev-toolkit)** - 🚀 A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Can&#39;t Get You Out Of My Head by Brøder, Alex James](https://open.spotify.com/track/6YaxLesNo8CZtyk5oGlKoR)
-- [Issues by XTEQUILAX, alm0ss, INAMEIT](https://open.spotify.com/track/4jgEQHgFDPQxHG1B26lBkl)
-- [Mine by Horizon Blue, S3DA](https://open.spotify.com/track/4ywz4b9F85rFiyHviTbhls)
-- [Stayin&#39; da Club - Original Mix by Nari, Steve Tosi](https://open.spotify.com/track/5bJRsEafMabGD0AnTFHKMf)
-- [Wicked Game by Alina Love, Svet](https://open.spotify.com/track/7sCSAVkQzd3drBvkgXcSkz)
+- [Gonna Be by celestial](https://open.spotify.com/track/3S8wnO5Uo8EdFGb7LB6BbJ)
+- [Sorry by MAFQEES](https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK)
+- [No Faded Love by Steam Phunk, Eliine](https://open.spotify.com/track/05dKDISPuOj5l57vNFcT5E)
+- [Save Me by Dūne](https://open.spotify.com/track/3WuCtioRgRisEqZLS6hyy2)
+- [Waves by Rhea Melvin, Hix](https://open.spotify.com/track/3aWwb5mn1nfPCpOfl8fFMh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
