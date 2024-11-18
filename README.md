@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (6 days ago)
 
 #### 🎧 What I have been listening
-- [Smile by Friends &amp; I](https://open.spotify.com/track/12aZLXVWU1kyC27cDMgwEr)
-- [Casualty (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce)
-- [Celestial by Saimöö, Magnus Gunn](https://open.spotify.com/track/572Lz2UYjWyWhl7gKwApBm)
-- [Inside My Love by TWOPILOTS](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh)
-- [Contagious by Panuma, Maike](https://open.spotify.com/track/0hnWAbE0pBpODu0geQpb2C)
+- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
+- [Shallow Water - Edit by JLV, Kairos Grove](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG)
+- [Walking On a Dream by NEIMY](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf)
+- [Running A Mile by CARMA](https://open.spotify.com/track/2fZhXMRioUoAwWSweEIyLJ)
+- [Too Far Gone by Piece Wise, Eloi El, Pierre Leck](https://open.spotify.com/track/4KcNuc8iofryT1CLiza0DK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
