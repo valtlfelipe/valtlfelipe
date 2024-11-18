@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (6 days ago)
 
 #### 🎧 What I have been listening
-- [Gonna Be by celestial](https://open.spotify.com/track/3S8wnO5Uo8EdFGb7LB6BbJ)
-- [Sorry by MAFQEES](https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK)
-- [No Faded Love by Steam Phunk, Eliine](https://open.spotify.com/track/05dKDISPuOj5l57vNFcT5E)
-- [Save Me by Dūne](https://open.spotify.com/track/3WuCtioRgRisEqZLS6hyy2)
-- [Waves by Rhea Melvin, Hix](https://open.spotify.com/track/3aWwb5mn1nfPCpOfl8fFMh)
+- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
+- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
+- [Family Affair - LU2VYK Remix by Rotciv &amp; Revilo, MrRevillz, LU2VYK](https://open.spotify.com/track/7HZ0ZiaWffKemYDLTXprDh)
+- [Jewels (Stuck On You) by Bastyan, Annahita](https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW)
+- [Heart By Dawn by The Sunnefield, Olly Wall, Michel Fannoun](https://open.spotify.com/track/21mBE3LlK1H3Vb6NHWt8wp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
