@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (6 days ago)
 
 #### 🎧 What I have been listening
+- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
+- [Hold Me Tight by D3EPANK, Xiam, Rukid](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF)
+- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
 - [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
 - [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
-- [Family Affair - LU2VYK Remix by Rotciv &amp; Revilo, MrRevillz, LU2VYK](https://open.spotify.com/track/7HZ0ZiaWffKemYDLTXprDh)
-- [Jewels (Stuck On You) by Bastyan, Annahita](https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW)
-- [Heart By Dawn by The Sunnefield, Olly Wall, Michel Fannoun](https://open.spotify.com/track/21mBE3LlK1H3Vb6NHWt8wp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
