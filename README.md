@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Make Me Feel by Steam Phunk, maybealice](https://open.spotify.com/track/3oeTpxPTiC7mf618t37O9J)
-- [Young by Lake Matisse, Daniel Robinson](https://open.spotify.com/track/7bEehgFqPxoJVOydF1zAZ2)
-- [Over It by F3DE, INAMEIT](https://open.spotify.com/track/0XdVmb4q2je1xw9PWT6Gu0)
-- [Never Leave Me by le moon](https://open.spotify.com/track/298a8yUCkHFx17QFXcSrws)
-- [Will You Be Mine by SAINT.](https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz)
+- [Carousel by Vogel, Olly Wall](https://open.spotify.com/track/5uybQCL4M61f4KVaZBLpgr)
+- [One More Time by Chill Covers](https://open.spotify.com/track/4L30kOfYZ4yQqdbQjVU9H1)
+- [Think Of Me by Venteris](https://open.spotify.com/track/4vngo8M6rHp8U2aSRTeMw0)
+- [Think Of Me by UPHORA, Kiiwi](https://open.spotify.com/track/3f7UTRlyaHtaf8zsUwvTaI)
+- [Searching by MR TOUT LE MONDE](https://open.spotify.com/track/2iwJ7fMxCZSYO46ZwKczjT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
