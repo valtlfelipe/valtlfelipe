@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dark Nights by Panuma, Tim Hughes, Kayla](https://open.spotify.com/track/2Ixv55zR4IqrZdtNGWqHit)
-- [Weight of the World by Oomloud, Willemijn May](https://open.spotify.com/track/7y7o03XAk4HIPseVnnzOVG)
-- [Issues by XTEQUILAX, alm0ss, INAMEIT](https://open.spotify.com/track/4jgEQHgFDPQxHG1B26lBkl)
-- [Rain by Astrality, MNRT, S:NE](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO)
-- [Happy End by Dawilk, phil&#39;s ok.](https://open.spotify.com/track/28N90dyjxly8BhKYseGczc)
+- [White Sand by Sainte Barbe, Jan Aygün](https://open.spotify.com/track/6o60ib1fLhoTQK0sJHhhtW)
+- [Memories by Sunmoon](https://open.spotify.com/track/2YEx4eDIQ6Bj7CWDXQQiMv)
+- [Summer Jam by MrRevillz](https://open.spotify.com/track/3jJPgRFMBVzt7Ny5AB4U0C)
+- [Can&#39;t Get You Out Of My Head by Brøder, Alex James](https://open.spotify.com/track/6YaxLesNo8CZtyk5oGlKoR)
+- [Favorite Wrong by The NGHBRS](https://open.spotify.com/track/4aGStEuwrSQBynCrHMgsEQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
