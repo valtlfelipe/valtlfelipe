@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Feel Right by Daniel Bellomo, Aisac, LYNNE](https://open.spotify.com/track/0Yjtc4bofcw0LnWIsrH8Fj)
-- [All the Way by Piece Wise, Eloi El](https://open.spotify.com/track/5mHt8xsbIW661fnMBOwlTw)
-- [Fairytale by Last Sun](https://open.spotify.com/track/3dlwhEZtSg1PKtGY22J1Pm)
-- [Holding On by Steam Phunk, maybealice](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa)
-- [Free My Mind by ENLIV3N](https://open.spotify.com/track/4ysacrZnJmUjvvseHfFlvn)
+- [Running A Mile by CARMA](https://open.spotify.com/track/2fZhXMRioUoAwWSweEIyLJ)
+- [Too Far Gone by Piece Wise, Eloi El, Pierre Leck](https://open.spotify.com/track/4KcNuc8iofryT1CLiza0DK)
+- [Spirits by l&#39;essay, Cal1, LOEVA](https://open.spotify.com/track/2depsjOpDcxvFamZinXTQS)
+- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
+- [Walking Away by James Lacey](https://open.spotify.com/track/6C7TQ6uRErNgNphsOg7qKj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
