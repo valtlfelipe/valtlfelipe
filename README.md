@@ -11,10 +11,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 
 #### 🎧 What I have been listening
 - [Make Me Feel by Steam Phunk, maybealice](https://open.spotify.com/track/3oeTpxPTiC7mf618t37O9J)
-- [Life Is Good by SILØU](https://open.spotify.com/track/4jXQ0BG5XYsYnAg2LDRebl)
-- [Thinking About You by NM](https://open.spotify.com/track/6g5FQsmLHYDHPp7zwBeK1b)
-- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
-- [Eye To Eye (Refeci Remix) by Lucas Estrada, Refeci](https://open.spotify.com/track/3fKCLCzk0GOimwI3e42wCg)
+- [Young by Lake Matisse, Daniel Robinson](https://open.spotify.com/track/7bEehgFqPxoJVOydF1zAZ2)
+- [Over It by F3DE, INAMEIT](https://open.spotify.com/track/0XdVmb4q2je1xw9PWT6Gu0)
+- [Never Leave Me by le moon](https://open.spotify.com/track/298a8yUCkHFx17QFXcSrws)
+- [Will You Be Mine by SAINT.](https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
