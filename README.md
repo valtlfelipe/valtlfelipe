@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [To Me by Howie Conyack](https://open.spotify.com/track/30awweiA0sVK1eKks6wkKJ)
-- [Honest by Lovlee](https://open.spotify.com/track/0jb7asCfeo6sZZ2BVsUjxn)
-- [Do Better by Peer Pressure, Adam Juhl](https://open.spotify.com/track/6zE3rbRVckLRIb0zjROQST)
-- [Sun Goes Down by Lust.](https://open.spotify.com/track/3kPIZSLfDSolV56G8c7wMi)
-- [Dilemma by Slowsho, Nicolas Compain](https://open.spotify.com/track/2VMHxn9jW9IDgw6CRT8PvB)
+- [Thinking About You by NM](https://open.spotify.com/track/6g5FQsmLHYDHPp7zwBeK1b)
+- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
+- [Eye To Eye (Refeci Remix) by Lucas Estrada, Refeci](https://open.spotify.com/track/3fKCLCzk0GOimwI3e42wCg)
+- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
+- [Illusion by LonelyBrothers, Natasha Ghosh](https://open.spotify.com/track/0CRHBCl37EkUyWmRhmJ8IP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
