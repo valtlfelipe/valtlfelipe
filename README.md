@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Save Me by Dūne](https://open.spotify.com/track/3WuCtioRgRisEqZLS6hyy2)
-- [Waves by Rhea Melvin, Hix](https://open.spotify.com/track/3aWwb5mn1nfPCpOfl8fFMh)
-- [Lovely Day by Bikini Bandits, Alex Grey, House Arrest](https://open.spotify.com/track/3X5D61fZAzuaGNGAsmDW4N)
-- [Flowers by OVRtone, Oly](https://open.spotify.com/track/587E1PYLo5qtJzR5XfoHJ3)
-- [Games by NM](https://open.spotify.com/track/3NQBnmz3PjBcZt4Cr3A5vT)
+- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
+- [Hold Me Tight by D3EPANK, Xiam, Rukid](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF)
+- [Safe House by LOWKEY, Steam Phunk, JAIKO](https://open.spotify.com/track/09fYMdR8lPHQKgyQ2URs7a)
+- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
+- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
