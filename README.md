@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Carousel by Vogel, Olly Wall](https://open.spotify.com/track/5uybQCL4M61f4KVaZBLpgr)
-- [One More Time by Chill Covers](https://open.spotify.com/track/4L30kOfYZ4yQqdbQjVU9H1)
-- [Think Of Me by Venteris](https://open.spotify.com/track/4vngo8M6rHp8U2aSRTeMw0)
-- [Think Of Me by UPHORA, Kiiwi](https://open.spotify.com/track/3f7UTRlyaHtaf8zsUwvTaI)
-- [Searching by MR TOUT LE MONDE](https://open.spotify.com/track/2iwJ7fMxCZSYO46ZwKczjT)
+- [Save Me by Dūne](https://open.spotify.com/track/3WuCtioRgRisEqZLS6hyy2)
+- [Waves by Rhea Melvin, Hix](https://open.spotify.com/track/3aWwb5mn1nfPCpOfl8fFMh)
+- [Lovely Day by Bikini Bandits, Alex Grey, House Arrest](https://open.spotify.com/track/3X5D61fZAzuaGNGAsmDW4N)
+- [Flowers by OVRtone, Oly](https://open.spotify.com/track/587E1PYLo5qtJzR5XfoHJ3)
+- [Games by NM](https://open.spotify.com/track/3NQBnmz3PjBcZt4Cr3A5vT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
