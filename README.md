@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [White Sand by Sainte Barbe, Jan Aygün](https://open.spotify.com/track/6o60ib1fLhoTQK0sJHhhtW)
-- [Memories by Sunmoon](https://open.spotify.com/track/2YEx4eDIQ6Bj7CWDXQQiMv)
-- [Summer Jam by MrRevillz](https://open.spotify.com/track/3jJPgRFMBVzt7Ny5AB4U0C)
-- [Can&#39;t Get You Out Of My Head by Brøder, Alex James](https://open.spotify.com/track/6YaxLesNo8CZtyk5oGlKoR)
-- [Favorite Wrong by The NGHBRS](https://open.spotify.com/track/4aGStEuwrSQBynCrHMgsEQ)
+- [To Me by Howie Conyack](https://open.spotify.com/track/30awweiA0sVK1eKks6wkKJ)
+- [Honest by Lovlee](https://open.spotify.com/track/0jb7asCfeo6sZZ2BVsUjxn)
+- [Do Better by Peer Pressure, Adam Juhl](https://open.spotify.com/track/6zE3rbRVckLRIb0zjROQST)
+- [Sun Goes Down by Lust.](https://open.spotify.com/track/3kPIZSLfDSolV56G8c7wMi)
+- [Dilemma by Slowsho, Nicolas Compain](https://open.spotify.com/track/2VMHxn9jW9IDgw6CRT8PvB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
