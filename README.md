@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
+- [Make Me Feel by Steam Phunk, maybealice](https://open.spotify.com/track/3oeTpxPTiC7mf618t37O9J)
+- [Life Is Good by SILØU](https://open.spotify.com/track/4jXQ0BG5XYsYnAg2LDRebl)
 - [Thinking About You by NM](https://open.spotify.com/track/6g5FQsmLHYDHPp7zwBeK1b)
 - [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
 - [Eye To Eye (Refeci Remix) by Lucas Estrada, Refeci](https://open.spotify.com/track/3fKCLCzk0GOimwI3e42wCg)
-- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
-- [Illusion by LonelyBrothers, Natasha Ghosh](https://open.spotify.com/track/0CRHBCl37EkUyWmRhmJ8IP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
