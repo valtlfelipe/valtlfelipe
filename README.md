@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Let It Slide by AIMÉ, Odeon, Freyer, Sam Welch](https://open.spotify.com/track/4zuodNOafqvTJiAxW61k76)
-- [Let U Go by Marsellie, Jox Music](https://open.spotify.com/track/3gHlewvUOYaqV0LGbIWKLs)
-- [KEEP DREAMING by TEMPHOUSE](https://open.spotify.com/track/5tCOavMT3BMLpf8yp9TBpS)
-- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
-- [Smooth (feat. Rob Thomas) by Santana, Rob Thomas](https://open.spotify.com/track/2pX4FpOgwItRVPPUFdRcxA)
+- [Light Comes Up by Bayza](https://open.spotify.com/track/3PZA5orGDLCDJoQfARGqfX)
+- [Zero Gravity by Dominic Neill](https://open.spotify.com/track/4JRfQNcKrWe9rAuE2e2E0N)
+- [Music Sounds Better With You by Cookie Crumble](https://open.spotify.com/track/1AXXp4FEPsR05O6SW0BoF4)
+- [Another Lie by Panuma, Vice Vrsa, Mark Vayne](https://open.spotify.com/track/7L7K5rblvGEuRGGJLyR6lV)
+- [Sunset Lovers by Thierry Von Der Warth, Horizon Blue, Carston](https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
