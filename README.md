@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
+- [Give Me Love by Zens, BTRN, Robertson](https://open.spotify.com/track/7wb65yboVZykPRuLJSLAmU)
 - [Far From Your Love by James Lacey, Thomas Sykes](https://open.spotify.com/track/3nInAD4aQ1jbYtS58K46WQ)
 - [Family Affair - Secret Source Remix by Rotciv &amp; Revilo, MrRevillz, Secret Source](https://open.spotify.com/track/6MXzTDqtm8PDCroQwLYLsL)
 - [Wondering Why by L.A, Dallien, Alia Faye](https://open.spotify.com/track/71usfyu4lteyYq1tGP9m16)
 - [the møre that i dø by birø, JAIKO](https://open.spotify.com/track/1AWmsq8nATWMglHeWeup0B)
-- [Love Someone by Gianluca Dimeo, AALLAR](https://open.spotify.com/track/2YW737DHuYaluEkwpKfcO2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
