@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Feel Alright by James Lacey, ODBLU](https://open.spotify.com/track/6yFWU2RnhjoMRCFJRG6I3n)
-- [Music Sounds Better With You by Cookie Crumble](https://open.spotify.com/track/1AXXp4FEPsR05O6SW0BoF4)
-- [Wanted by Marvin Shadex](https://open.spotify.com/track/6CC0cv0KDIXUwS8GVJwqF7)
-- [Running A Mile by CARMA](https://open.spotify.com/track/2fZhXMRioUoAwWSweEIyLJ)
-- [Don&#39;t Know How by D3EPANK](https://open.spotify.com/track/5YXBazSdhGyFw1ZWSqWCqN)
+- [Happy End by Dawilk, phil&#39;s ok.](https://open.spotify.com/track/28N90dyjxly8BhKYseGczc)
+- [How Deep Is My Love by TauTou](https://open.spotify.com/track/08yN1LynMDfNZvaEoXwN3M)
+- [On Me by Van Herpen, Marcus Mollyhus](https://open.spotify.com/track/3Zulg2rc8paEiKWLIs3TYD)
+- [Sweet Like Chocolate by James Lacey](https://open.spotify.com/track/2E0HDj1ZuVZuMnp9ZZGqC3)
+- [Let Go by Alex Martura](https://open.spotify.com/track/0Bary1wm0KXq4SaU5Cv1Co)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
