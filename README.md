@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
-- [All the Way by Piece Wise, Eloi El](https://open.spotify.com/track/5mHt8xsbIW661fnMBOwlTw)
-- [I Will Be Alright by MusicbyAden](https://open.spotify.com/track/186i5pBj4goQxfhzdxpN4I)
-- [Memories by Sunmoon](https://open.spotify.com/track/2YEx4eDIQ6Bj7CWDXQQiMv)
-- [Upside - Stripped by PLS&amp;TY, Ben Samama](https://open.spotify.com/track/0cF6JeDBo1Z7VY6JnY37z9)
+- [Too Late by Juan Allenn](https://open.spotify.com/track/1IAfki5FvnqYHDGVd0V39C)
+- [Kendall Park by Duce, Piece Wise, Courtney Storm](https://open.spotify.com/track/2SXi0cldambE2930H18LoL)
+- [Holding On by Steam Phunk, maybealice](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa)
+- [Summer Jam by MrRevillz](https://open.spotify.com/track/3jJPgRFMBVzt7Ny5AB4U0C)
+- [Weightless by NSH, Kidd Thorn](https://open.spotify.com/track/1MHc8EaFqSSgWb3WrqN2iq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
