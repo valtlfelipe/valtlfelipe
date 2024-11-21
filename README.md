@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fairytale by Last Sun](https://open.spotify.com/track/3dlwhEZtSg1PKtGY22J1Pm)
-- [Walking Away by James Lacey](https://open.spotify.com/track/6C7TQ6uRErNgNphsOg7qKj)
-- [Tell Me by D3EPANK](https://open.spotify.com/track/1mrnWxqlr5ynXWTS0L0Bcp)
-- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
-- [Rest of My Life by Piece Wise, Eloi El](https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW)
+- [Too Late For Me by Lotus, Jan Liva, yara.](https://open.spotify.com/track/5Em17sf8ihmDInafRJ9bAO)
+- [Contagious by Panuma, Maike](https://open.spotify.com/track/0hnWAbE0pBpODu0geQpb2C)
+- [How We Do by Maxxteen](https://open.spotify.com/track/1qM44i3fF16l7vVgMIrzhn)
+- [Let Me Love You by Toby Rose, Talksick](https://open.spotify.com/track/69yPM98biPCQK06Yit4ewH)
+- [My Love by Gianluca Dimeo, Daniel Santoro](https://open.spotify.com/track/55yl2jVMuB0yPUJzWjJM7p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
