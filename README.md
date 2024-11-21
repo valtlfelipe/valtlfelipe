@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [To the Moon and Back by Akrol](https://open.spotify.com/track/28Hp6RaEp1Zi6vrZH6iyFR)
-- [Goosebumps by Astrality](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz)
-- [Overcome by Simon Dekkers, D-LEVELS](https://open.spotify.com/track/4BslNG1DUmiVT6qMOYyvlJ)
-- [Light Comes Up by Bayza](https://open.spotify.com/track/3PZA5orGDLCDJoQfARGqfX)
-- [Think Of Me by Venteris](https://open.spotify.com/track/4vngo8M6rHp8U2aSRTeMw0)
+- [Upside - Stripped by PLS&amp;TY, Ben Samama](https://open.spotify.com/track/0cF6JeDBo1Z7VY6JnY37z9)
+- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
+- [Another Lie by Panuma, Vice Vrsa, Mark Vayne](https://open.spotify.com/track/7L7K5rblvGEuRGGJLyR6lV)
+- [Paradise by Thierry Von Der Warth, Modi](https://open.spotify.com/track/45Q8FBzKZSIG5KsIe7VabG)
+- [Let U Go by Marsellie, Jox Music](https://open.spotify.com/track/3gHlewvUOYaqV0LGbIWKLs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
