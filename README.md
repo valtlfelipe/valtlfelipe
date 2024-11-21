@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Searching by MR TOUT LE MONDE](https://open.spotify.com/track/2iwJ7fMxCZSYO46ZwKczjT)
-- [Games by NM](https://open.spotify.com/track/3NQBnmz3PjBcZt4Cr3A5vT)
-- [Mine by Horizon Blue, S3DA](https://open.spotify.com/track/4ywz4b9F85rFiyHviTbhls)
-- [Carousel by Vogel, Olly Wall](https://open.spotify.com/track/5uybQCL4M61f4KVaZBLpgr)
-- [Stare Into Your Eyes by exclap](https://open.spotify.com/track/21YSNocrWGa1vdSeXsOypC)
+- [To the Moon and Back by Akrol](https://open.spotify.com/track/28Hp6RaEp1Zi6vrZH6iyFR)
+- [Goosebumps by Astrality](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz)
+- [Overcome by Simon Dekkers, D-LEVELS](https://open.spotify.com/track/4BslNG1DUmiVT6qMOYyvlJ)
+- [Light Comes Up by Bayza](https://open.spotify.com/track/3PZA5orGDLCDJoQfARGqfX)
+- [Think Of Me by Venteris](https://open.spotify.com/track/4vngo8M6rHp8U2aSRTeMw0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
