@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Why Did I by Monde, Addy Ace, J.A.E](https://open.spotify.com/track/2uUUGjdcZfhAKgVhUEyc16)
-- [Everywhere by Toby Rose, Zita](https://open.spotify.com/track/0pukMyst6uPEtqrvatyUeA)
-- [Stay with Me by James Lacey, Sarah Lahn](https://open.spotify.com/track/7afNIjCXcjiKdHlJkVrJ46)
-- [Far Away from Home by Marvin Shadex](https://open.spotify.com/track/1ahyL5uZZ6yCkOK5JPnSvQ)
-- [Rhythm Of The Night by Amaranth Skies, EFA, Ruocheng](https://open.spotify.com/track/4EQ7B4ELAsOtTTktv0A3S2)
+- [Thinking About You by NM](https://open.spotify.com/track/6g5FQsmLHYDHPp7zwBeK1b)
+- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
+- [King Of My Castle by P.A.V](https://open.spotify.com/track/5LxyquGewR6aslYfqXfW24)
+- [King by TWOPILOTS](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib)
+- [Feel by Daniel Santoro](https://open.spotify.com/track/3V3HFh3y4PWapD3eLn2N5G)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
