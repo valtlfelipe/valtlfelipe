@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Thinking About You by NM](https://open.spotify.com/track/6g5FQsmLHYDHPp7zwBeK1b)
-- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
-- [King Of My Castle by P.A.V](https://open.spotify.com/track/5LxyquGewR6aslYfqXfW24)
-- [King by TWOPILOTS](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib)
-- [Feel by Daniel Santoro](https://open.spotify.com/track/3V3HFh3y4PWapD3eLn2N5G)
+- [Home by MR TOUT LE MONDE](https://open.spotify.com/track/4JlzRiDnBdW45kagu2qXDX)
+- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
+- [Not Your Lover by Daniel Santoro](https://open.spotify.com/track/34qrNS8p7xuc1x5DXn1gp2)
+- [Gun by LEVII, ODBLU](https://open.spotify.com/track/6lmsqsHbHPmUhNXZASLcs1)
+- [Make You Mine by Mahmoud, Lotus](https://open.spotify.com/track/0ynLMgvlZZv3iF9CLZ62QA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
