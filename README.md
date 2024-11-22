@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [In the End by LuxeBeats](https://open.spotify.com/track/2jTfTwVvu0h2LlsKrrcldT)
-- [Children by Constantin Nasiri, Miltiades Pistof](https://open.spotify.com/track/03AdNdIWvdH3wiAN2fAX2Q)
-- [Another Way by l&#39;essay, Cal1](https://open.spotify.com/track/5FdxRbnEDPEGudUu8e28Qi)
-- [I Need Your Love by Felipe Allenn](https://open.spotify.com/track/6ectfxHqVnMj9kb2gfJkPH)
-- [Fly With Me by Lucien, UnderWater Project](https://open.spotify.com/track/4BJGIPhm7dcBoe1gJ7hkok)
+- [One More Time by Chill Covers](https://open.spotify.com/track/4L30kOfYZ4yQqdbQjVU9H1)
+- [Gonna Be by celestial](https://open.spotify.com/track/3S8wnO5Uo8EdFGb7LB6BbJ)
+- [Weight of the World by Oomloud, Willemijn May](https://open.spotify.com/track/7y7o03XAk4HIPseVnnzOVG)
+- [Flowers by OVRtone, Oly](https://open.spotify.com/track/587E1PYLo5qtJzR5XfoHJ3)
+- [Stayin&#39; da Club - Original Mix by Nari, Steve Tosi](https://open.spotify.com/track/5bJRsEafMabGD0AnTFHKMf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
