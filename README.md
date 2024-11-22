@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Endlessly by Novino, Ladina Viva](https://open.spotify.com/track/0R0amVg7jBzXUfvf34GVjN)
-- [Life Goes On by Friends &amp; I](https://open.spotify.com/track/3nJCkXH6iLaF9T2vBeHPcw)
-- [Finding You by Lynnic, Neon Valis](https://open.spotify.com/track/0WzfqSwwcm7hMjJ84b3IoS)
-- [Play Fair by Toby Rose, henrikz, Jaime Deraz](https://open.spotify.com/track/7qnC8viGo5Rqjh2u3rU3OB)
-- [Greedy by Bleu Azur, Queen D](https://open.spotify.com/track/7lxjMD40JXRFRjMSSVHKDU)
+- [In the End by LuxeBeats](https://open.spotify.com/track/2jTfTwVvu0h2LlsKrrcldT)
+- [Children by Constantin Nasiri, Miltiades Pistof](https://open.spotify.com/track/03AdNdIWvdH3wiAN2fAX2Q)
+- [Another Way by l&#39;essay, Cal1](https://open.spotify.com/track/5FdxRbnEDPEGudUu8e28Qi)
+- [I Need Your Love by Felipe Allenn](https://open.spotify.com/track/6ectfxHqVnMj9kb2gfJkPH)
+- [Fly With Me by Lucien, UnderWater Project](https://open.spotify.com/track/4BJGIPhm7dcBoe1gJ7hkok)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
