@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Home by MR TOUT LE MONDE](https://open.spotify.com/track/4JlzRiDnBdW45kagu2qXDX)
-- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
-- [Not Your Lover by Daniel Santoro](https://open.spotify.com/track/34qrNS8p7xuc1x5DXn1gp2)
-- [Gun by LEVII, ODBLU](https://open.spotify.com/track/6lmsqsHbHPmUhNXZASLcs1)
-- [Make You Mine by Mahmoud, Lotus](https://open.spotify.com/track/0ynLMgvlZZv3iF9CLZ62QA)
+- [Endlessly by Novino, Ladina Viva](https://open.spotify.com/track/0R0amVg7jBzXUfvf34GVjN)
+- [Life Goes On by Friends &amp; I](https://open.spotify.com/track/3nJCkXH6iLaF9T2vBeHPcw)
+- [Finding You by Lynnic, Neon Valis](https://open.spotify.com/track/0WzfqSwwcm7hMjJ84b3IoS)
+- [Play Fair by Toby Rose, henrikz, Jaime Deraz](https://open.spotify.com/track/7qnC8viGo5Rqjh2u3rU3OB)
+- [Greedy by Bleu Azur, Queen D](https://open.spotify.com/track/7lxjMD40JXRFRjMSSVHKDU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
