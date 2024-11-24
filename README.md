@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
+- [Searching by MR TOUT LE MONDE](https://open.spotify.com/track/2iwJ7fMxCZSYO46ZwKczjT)
+- [Games by NM](https://open.spotify.com/track/3NQBnmz3PjBcZt4Cr3A5vT)
 - [Carousel by Vogel, Olly Wall](https://open.spotify.com/track/5uybQCL4M61f4KVaZBLpgr)
 - [Stare Into Your Eyes by exclap](https://open.spotify.com/track/21YSNocrWGa1vdSeXsOypC)
 - [Issues by XTEQUILAX, alm0ss, INAMEIT](https://open.spotify.com/track/4jgEQHgFDPQxHG1B26lBkl)
-- [Time by Coolone Shellchew, Ubo](https://open.spotify.com/track/24xW7Aj0ID7n7io6rwMtUW)
-- [Save Me by Dūne](https://open.spotify.com/track/3WuCtioRgRisEqZLS6hyy2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
