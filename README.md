@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Good Thing by DeusExMaschine](https://open.spotify.com/track/7sWddb2SctBHmDwdMEEhUr)
-- [Help Me Up by XYSM, outset island](https://open.spotify.com/track/7bOEpZTEWiv0N9uCZQ8DJQ)
-- [Temptation - Gamper &amp; Dadoni Remix by Bakermat, Elise LeGrow, GAMPER &amp; DADONI](https://open.spotify.com/track/1aTzgrdu0XH1K8Ezdd85aG)
-- [Hush Hush by Harrison, Refeci, Donner](https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa)
-- [King of My Castle (Purple Disco Machine Remix) (Edit) by Wamdue Project, Purple Disco Machine](https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU)
+- [Dark Space by StraitFall](https://open.spotify.com/track/5KEc378cRqmTA8ZATtiHuR)
+- [Broken Love by Ali Bakgor](https://open.spotify.com/track/5wprb1HhEty85ASiHm1ydK)
+- [When We Fall by RAVENS, Anrey](https://open.spotify.com/track/2gVY6igQnaFJOd80VPRF44)
+- [Play it by Cladigal](https://open.spotify.com/track/4U3JPoPtU3EGc6yKnfUIY3)
+- [It&#39;s Not Wrong by Midnight Wanders, Roads We Walk](https://open.spotify.com/track/1T2hHzjccRvDiH8eytiQY4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
