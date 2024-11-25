@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Can&#39;t Forget Your Face by Marsias](https://open.spotify.com/track/1RpKULVooOuEzgpver8hof)
-- [Wicked Game - Eclectic Remix by YOTO, Eclectic](https://open.spotify.com/track/3FBA3fKXCmDUvgktbcpBQs)
-- [Thoughts by Orum Palmer, Jako Diaz](https://open.spotify.com/track/3AXuf2KZ25FKmHHrTYy0YT)
-- [King of My Castle (Purple Disco Machine Remix) (Edit) by Wamdue Project, Purple Disco Machine](https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU)
-- [Because Of You by House Arrest, Alex Grey, Bikini Bandits](https://open.spotify.com/track/4B1aqIZbCTtEvM0hGzv9EG)
+- [BYE by TWO BLOCKS AWAY, ELIJAH](https://open.spotify.com/track/3z5kTK8sgujN4hhrGoWIUT)
+- [Use Somebody by Zerb, Sophia Stedile](https://open.spotify.com/track/1qfYscnDVpCpb1gwPSf1sS)
+- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
+- [So Good by EDX](https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7)
+- [Sometimes by Atella, Digvalley](https://open.spotify.com/track/7kyIwX2twjSvRnrjpDQARD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
