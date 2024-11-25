@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
+- [Good Thing by DeusExMaschine](https://open.spotify.com/track/7sWddb2SctBHmDwdMEEhUr)
+- [Help Me Up by XYSM, outset island](https://open.spotify.com/track/7bOEpZTEWiv0N9uCZQ8DJQ)
+- [Temptation - Gamper &amp; Dadoni Remix by Bakermat, Elise LeGrow, GAMPER &amp; DADONI](https://open.spotify.com/track/1aTzgrdu0XH1K8Ezdd85aG)
+- [Hush Hush by Harrison, Refeci, Donner](https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa)
 - [King of My Castle (Purple Disco Machine Remix) (Edit) by Wamdue Project, Purple Disco Machine](https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU)
-- [Can&#39;t Forget Your Face by Marsias](https://open.spotify.com/track/1RpKULVooOuEzgpver8hof)
-- [Crazy by Max Martis, Kaya](https://open.spotify.com/track/3A6zvZRo7U6tV5LbyVeun1)
-- [Sex On Fire by 2beards, Zoë Phillips](https://open.spotify.com/track/1klCIz6RrwhL2bSe8zYafQ)
-- [Wicked Game - Eclectic Remix by YOTO, Eclectic](https://open.spotify.com/track/3FBA3fKXCmDUvgktbcpBQs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
