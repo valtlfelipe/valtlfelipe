@@ -10,11 +10,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Searching by MR TOUT LE MONDE](https://open.spotify.com/track/2iwJ7fMxCZSYO46ZwKczjT)
-- [Lovely Day by Bikini Bandits, Alex Grey, House Arrest](https://open.spotify.com/track/3X5D61fZAzuaGNGAsmDW4N)
-- [Stayin&#39; da Club - Original Mix by Nari, Steve Tosi](https://open.spotify.com/track/5bJRsEafMabGD0AnTFHKMf)
-- [Stars Ignite by Jozvent, Elirah](https://open.spotify.com/track/2dyrPMpYNx3nyd3Nv9et16)
-- [Strangers by Deep Feels](https://open.spotify.com/track/2Vhf0cLNQCskVfsY1cLgnk)
+- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
+- [Tell Me Why - James Carter Remix by Supermode, James Carter](https://open.spotify.com/track/2nNhJdmG0qEI096xXuC0kr)
+- [All The Stars by Lonely in the Rain, Saavan](https://open.spotify.com/track/3YDjXk0eiQm2Qd8cr5ssBV)
+- [So Good by EDX](https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7)
+- [Forget About You by Two Can](https://open.spotify.com/track/2w3yB83NEuWGSCuKObFhUF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
