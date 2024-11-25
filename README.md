@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Crazy by Max Martis, Kaya](https://open.spotify.com/track/3A6zvZRo7U6tV5LbyVeun1)
-- [Hush Hush by Harrison, Refeci, Donner](https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa)
-- [Gimme Gimme - Club Mix by Kevin McKay, Lee Cabrera, Bleech](https://open.spotify.com/track/7GjZZf77XJYaa5W4S2NbpB)
-- [Mother by Revelle27](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu)
-- [Mine by Horizon Blue, S3DA](https://open.spotify.com/track/4ywz4b9F85rFiyHviTbhls)
+- [Help Me Up by XYSM, outset island](https://open.spotify.com/track/7bOEpZTEWiv0N9uCZQ8DJQ)
+- [Because Of You by House Arrest, Alex Grey, Bikini Bandits](https://open.spotify.com/track/4B1aqIZbCTtEvM0hGzv9EG)
+- [Find the Light by Joey McCrilley](https://open.spotify.com/track/2fMTIOfv8jzsDyHGnHbDlz)
+- [Goosebumps by Astrality](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz)
+- [In My Mind by May Zoean, T&#39;art](https://open.spotify.com/track/0gFz5rnmhfkxutM4hkfUq8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
