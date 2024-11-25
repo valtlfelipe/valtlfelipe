@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sometimes by Atella, Digvalley](https://open.spotify.com/track/7kyIwX2twjSvRnrjpDQARD)
-- [Gimme Gimme - Club Mix by Kevin McKay, Lee Cabrera, Bleech](https://open.spotify.com/track/7GjZZf77XJYaa5W4S2NbpB)
-- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
-- [Tell Me Why - James Carter Remix by Supermode, James Carter](https://open.spotify.com/track/2nNhJdmG0qEI096xXuC0kr)
-- [All The Stars by Lonely in the Rain, Saavan](https://open.spotify.com/track/3YDjXk0eiQm2Qd8cr5ssBV)
+- [King of My Castle (Purple Disco Machine Remix) (Edit) by Wamdue Project, Purple Disco Machine](https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU)
+- [Can&#39;t Forget Your Face by Marsias](https://open.spotify.com/track/1RpKULVooOuEzgpver8hof)
+- [Crazy by Max Martis, Kaya](https://open.spotify.com/track/3A6zvZRo7U6tV5LbyVeun1)
+- [Sex On Fire by 2beards, Zoë Phillips](https://open.spotify.com/track/1klCIz6RrwhL2bSe8zYafQ)
+- [Wicked Game - Eclectic Remix by YOTO, Eclectic](https://open.spotify.com/track/3FBA3fKXCmDUvgktbcpBQs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
