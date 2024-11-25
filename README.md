@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dark Space by StraitFall](https://open.spotify.com/track/5KEc378cRqmTA8ZATtiHuR)
-- [Broken Love by Ali Bakgor](https://open.spotify.com/track/5wprb1HhEty85ASiHm1ydK)
-- [When We Fall by RAVENS, Anrey](https://open.spotify.com/track/2gVY6igQnaFJOd80VPRF44)
-- [Play it by Cladigal](https://open.spotify.com/track/4U3JPoPtU3EGc6yKnfUIY3)
-- [It&#39;s Not Wrong by Midnight Wanders, Roads We Walk](https://open.spotify.com/track/1T2hHzjccRvDiH8eytiQY4)
+- [Crazy by Max Martis, Kaya](https://open.spotify.com/track/3A6zvZRo7U6tV5LbyVeun1)
+- [Hush Hush by Harrison, Refeci, Donner](https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa)
+- [Gimme Gimme - Club Mix by Kevin McKay, Lee Cabrera, Bleech](https://open.spotify.com/track/7GjZZf77XJYaa5W4S2NbpB)
+- [Mother by Revelle27](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu)
+- [Mine by Horizon Blue, S3DA](https://open.spotify.com/track/4ywz4b9F85rFiyHviTbhls)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
