@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (1 week ago)
 
 #### 🎧 What I have been listening
-- [Be Your Friend by XYSM, EDGR](https://open.spotify.com/track/10TsQZCb8QVql2ocirBc6R)
-- [Show Me by JLV, Thandi](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A)
-- [Inside My Love by TWOPILOTS](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh)
-- [Fade by Bondax, SHELLS](https://open.spotify.com/track/1ZjuYhAlovk0Tt4oqRbeDv)
-- [Sometimes by Atella, Digvalley](https://open.spotify.com/track/7kyIwX2twjSvRnrjpDQARD)
+- [Dark Space by StraitFall](https://open.spotify.com/track/5KEc378cRqmTA8ZATtiHuR)
+- [Gimme Gimme - Club Mix by Kevin McKay, Lee Cabrera, Bleech](https://open.spotify.com/track/7GjZZf77XJYaa5W4S2NbpB)
+- [Use Somebody by Zerb, Sophia Stedile](https://open.spotify.com/track/1qfYscnDVpCpb1gwPSf1sS)
+- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
+- [Still Standing by aericsn, july](https://open.spotify.com/track/0vDieQMqZRkGtV1TRkoDlb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
