@@ -13,10 +13,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 
 #### 🎧 What I have been listening
 - [BYE by TWO BLOCKS AWAY, ELIJAH](https://open.spotify.com/track/3z5kTK8sgujN4hhrGoWIUT)
-- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
-- [Good Thing by DeusExMaschine](https://open.spotify.com/track/7sWddb2SctBHmDwdMEEhUr)
-- [Hush Hush by Harrison, Refeci, Donner](https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa)
 - [In My Mind by May Zoean, T&#39;art](https://open.spotify.com/track/0gFz5rnmhfkxutM4hkfUq8)
+- [King of My Castle (Purple Disco Machine Remix) (Edit) by Wamdue Project, Purple Disco Machine](https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU)
+- [BYE by TWO BLOCKS AWAY, ELIJAH](https://open.spotify.com/track/3z5kTK8sgujN4hhrGoWIUT)
+- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
