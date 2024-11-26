@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (1 week ago)
 
 #### 🎧 What I have been listening
-- [Praising You (feat. Fatboy Slim) by Rita Ora, Fatboy Slim](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD)
-- [10:35 (feat. Tate McRae) - Joel Corry Remix by Tiësto, Joel Corry, Tate McRae](https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB)
-- [Life by Jamie xx, Robyn](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am)
-- [Still Into You by CYRIL, maryjo](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL)
 - [What A Life (feat. Stevie Appleton) by John Summit, Guz, Stevie Appleton](https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf)
+- [Take Me Home (feat. Bebe Rexha) by Cash Cash, Bebe Rexha](https://open.spotify.com/track/7L59vVTpoS94JU3KEeolqt)
+- [One More Time by Daft Punk](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV)
+- [BOOM by Tiësto, Sevenn, Gucci Mane](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ)
+- [PLACE IN MY MIND (feat. shy martin) by Whethan, shy martin](https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
