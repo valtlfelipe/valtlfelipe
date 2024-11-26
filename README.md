@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (1 week ago)
 
 #### 🎧 What I have been listening
-- [Jamming - FISHER Rework by Bob Marley &amp; The Wailers, FISHER](https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk)
-- [Beautiful Drug (feat. Avicii) - Remix by Zac Brown Band, Avicii](https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck)
-- [Is This Love by LP Giobbi, Danielle Ponder](https://open.spotify.com/track/6g9LmVrQJPVYSeBdPVxrrr)
-- [No Sleep (feat. Bonn) - DubVision Remix by Martin Garrix, Bonn, DubVision](https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d)
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
+- [Still Into You by CYRIL, maryjo](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL)
+- [Fine Day Anthem by Skrillex, Boys Noize, Opus III](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G)
+- [MAGIC (feat. babyidontlikeyou) by Gryffin, babyidontlikeyou](https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi)
+- [No Reason - Chris Lake Remix by The Chemical Brothers, Chris Lake](https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR)
+- [Heart Still Beating by Nathan Dawe, Bebe Rexha](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
