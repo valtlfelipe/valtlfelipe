@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (1 week ago)
 
 #### 🎧 What I have been listening
+- [Praising You (feat. Fatboy Slim) by Rita Ora, Fatboy Slim](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD)
+- [10:35 (feat. Tate McRae) - Joel Corry Remix by Tiësto, Joel Corry, Tate McRae](https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB)
+- [Life by Jamie xx, Robyn](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am)
 - [Still Into You by CYRIL, maryjo](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL)
-- [Fine Day Anthem by Skrillex, Boys Noize, Opus III](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G)
-- [MAGIC (feat. babyidontlikeyou) by Gryffin, babyidontlikeyou](https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi)
-- [No Reason - Chris Lake Remix by The Chemical Brothers, Chris Lake](https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR)
-- [Heart Still Beating by Nathan Dawe, Bebe Rexha](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU)
+- [What A Life (feat. Stevie Appleton) by John Summit, Guz, Stevie Appleton](https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
