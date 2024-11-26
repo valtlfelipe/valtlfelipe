@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (1 week ago)
 
 #### 🎧 What I have been listening
-- [What A Life (feat. Stevie Appleton) by John Summit, Guz, Stevie Appleton](https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf)
-- [Take Me Home (feat. Bebe Rexha) by Cash Cash, Bebe Rexha](https://open.spotify.com/track/7L59vVTpoS94JU3KEeolqt)
-- [One More Time by Daft Punk](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV)
-- [BOOM by Tiësto, Sevenn, Gucci Mane](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ)
-- [PLACE IN MY MIND (feat. shy martin) by Whethan, shy martin](https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N)
+- [Because Of You by House Arrest, Alex Grey, Bikini Bandits](https://open.spotify.com/track/4B1aqIZbCTtEvM0hGzv9EG)
+- [Fade by Bondax, SHELLS](https://open.spotify.com/track/1ZjuYhAlovk0Tt4oqRbeDv)
+- [Can&#39;t Forget Your Face by Marsias](https://open.spotify.com/track/1RpKULVooOuEzgpver8hof)
+- [It&#39;s Not Wrong by Midnight Wanders, Roads We Walk](https://open.spotify.com/track/1T2hHzjccRvDiH8eytiQY4)
+- [Sometimes by Atella, Digvalley](https://open.spotify.com/track/7kyIwX2twjSvRnrjpDQARD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
