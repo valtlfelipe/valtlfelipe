@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (1 week ago)
 
 #### 🎧 What I have been listening
+- [BYE by TWO BLOCKS AWAY, ELIJAH](https://open.spotify.com/track/3z5kTK8sgujN4hhrGoWIUT)
+- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
+- [Good Thing by DeusExMaschine](https://open.spotify.com/track/7sWddb2SctBHmDwdMEEhUr)
+- [Hush Hush by Harrison, Refeci, Donner](https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa)
 - [In My Mind by May Zoean, T&#39;art](https://open.spotify.com/track/0gFz5rnmhfkxutM4hkfUq8)
-- [Tell Me Why - James Carter Remix by Supermode, James Carter](https://open.spotify.com/track/2nNhJdmG0qEI096xXuC0kr)
-- [So Good by EDX](https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7)
-- [Temptation - Gamper &amp; Dadoni Remix by Bakermat, Elise LeGrow, GAMPER &amp; DADONI](https://open.spotify.com/track/1aTzgrdu0XH1K8Ezdd85aG)
-- [Mother by Revelle27](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
