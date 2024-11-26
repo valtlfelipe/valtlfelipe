@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (1 week ago)
 
 #### 🎧 What I have been listening
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn)
+- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
+- [BOOM by Tiësto, Sevenn, Gucci Mane](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ)
+- [Body Say by XANDRA, GiGi Grombacher](https://open.spotify.com/track/25ArkZpdsdxliawDn8mRMb)
 - [BYE by TWO BLOCKS AWAY, ELIJAH](https://open.spotify.com/track/3z5kTK8sgujN4hhrGoWIUT)
-- [Use Somebody by Zerb, Sophia Stedile](https://open.spotify.com/track/1qfYscnDVpCpb1gwPSf1sS)
-- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
-- [So Good by EDX](https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7)
-- [Sometimes by Atella, Digvalley](https://open.spotify.com/track/7kyIwX2twjSvRnrjpDQARD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
