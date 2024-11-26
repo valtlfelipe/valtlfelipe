@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (1 week ago)
 
 #### 🎧 What I have been listening
-- [Because Of You by House Arrest, Alex Grey, Bikini Bandits](https://open.spotify.com/track/4B1aqIZbCTtEvM0hGzv9EG)
-- [Fade by Bondax, SHELLS](https://open.spotify.com/track/1ZjuYhAlovk0Tt4oqRbeDv)
-- [Can&#39;t Forget Your Face by Marsias](https://open.spotify.com/track/1RpKULVooOuEzgpver8hof)
-- [It&#39;s Not Wrong by Midnight Wanders, Roads We Walk](https://open.spotify.com/track/1T2hHzjccRvDiH8eytiQY4)
-- [Sometimes by Atella, Digvalley](https://open.spotify.com/track/7kyIwX2twjSvRnrjpDQARD)
+- [The Music Began To Play by Mark Knight, Armand Van Helden](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj)
+- [Strangers by Seven Lions, Myon, Shane 54, Tove Lo](https://open.spotify.com/track/4oaOiFsrOQFqRnIU3hg3cM)
+- [Lavender Haze - Felix Jaehn Remix by Taylor Swift, Felix Jaehn](https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi)
+- [You&#39;re Still The One - Frank Walker Remix by Shania Twain, Frank Walker](https://open.spotify.com/track/78Rs4n8DEwaRh7CWeEySx5)
+- [Rise (Sam Feldt Remix) by Calum Scott, Sam Feldt](https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
