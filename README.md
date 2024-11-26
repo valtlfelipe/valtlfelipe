@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn)
-- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
-- [BOOM by Tiësto, Sevenn, Gucci Mane](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ)
-- [Body Say by XANDRA, GiGi Grombacher](https://open.spotify.com/track/25ArkZpdsdxliawDn8mRMb)
-- [BYE by TWO BLOCKS AWAY, ELIJAH](https://open.spotify.com/track/3z5kTK8sgujN4hhrGoWIUT)
+- [Jamming - FISHER Rework by Bob Marley &amp; The Wailers, FISHER](https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk)
+- [Beautiful Drug (feat. Avicii) - Remix by Zac Brown Band, Avicii](https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck)
+- [Is This Love by LP Giobbi, Danielle Ponder](https://open.spotify.com/track/6g9LmVrQJPVYSeBdPVxrrr)
+- [No Sleep (feat. Bonn) - DubVision Remix by Martin Garrix, Bonn, DubVision](https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d)
+- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
