@@ -9,7 +9,7 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[openmeterio/openmeter](https://github.com/openmeterio/openmeter)** - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing. (1 week ago)
 - **[yorukot/superfile](https://github.com/yorukot/superfile)** - Pretty fancy and modern terminal file manager (1 week ago)
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (1 week ago)
-- **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (1 week ago)
+- **[twitter/twemoji](https://github.com/twitter/twemoji)** - Emoji for everyone. https://twemoji.twitter.com/ (2 weeks ago)
 
 #### 🎧 What I have been listening
 - [BYE by TWO BLOCKS AWAY, ELIJAH](https://open.spotify.com/track/3z5kTK8sgujN4hhrGoWIUT)
