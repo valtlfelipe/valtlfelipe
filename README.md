@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[benvinegar/counterscale](https://github.com/benvinegar/counterscale)** - Scalable web analytics you run yourself on Cloudflare (1 week ago)
 
 #### 🎧 What I have been listening
-- [BYE by TWO BLOCKS AWAY, ELIJAH](https://open.spotify.com/track/3z5kTK8sgujN4hhrGoWIUT)
-- [In My Mind by May Zoean, T&#39;art](https://open.spotify.com/track/0gFz5rnmhfkxutM4hkfUq8)
-- [King of My Castle (Purple Disco Machine Remix) (Edit) by Wamdue Project, Purple Disco Machine](https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU)
-- [BYE by TWO BLOCKS AWAY, ELIJAH](https://open.spotify.com/track/3z5kTK8sgujN4hhrGoWIUT)
-- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
+- [Be Your Friend by XYSM, EDGR](https://open.spotify.com/track/10TsQZCb8QVql2ocirBc6R)
+- [Show Me by JLV, Thandi](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A)
+- [Inside My Love by TWOPILOTS](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh)
+- [Fade by Bondax, SHELLS](https://open.spotify.com/track/1ZjuYhAlovk0Tt4oqRbeDv)
+- [Sometimes by Atella, Digvalley](https://open.spotify.com/track/7kyIwX2twjSvRnrjpDQARD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
