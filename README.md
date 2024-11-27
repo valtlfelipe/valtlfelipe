@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[yorukot/superfile](https://github.com/yorukot/superfile)** - Pretty fancy and modern terminal file manager (1 week ago)
 
 #### 🎧 What I have been listening
+- [Garota De Ipanema by Antônio Carlos Jobim](https://open.spotify.com/track/2vTDA7mOYWtuduCylWfiFd)
 - [When We Fall by RAVENS, Anrey](https://open.spotify.com/track/2gVY6igQnaFJOd80VPRF44)
 - [Can&#39;t Forget Your Face by Marsias](https://open.spotify.com/track/1RpKULVooOuEzgpver8hof)
 - [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
 - [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
-- [Envolvidão by Rael](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
