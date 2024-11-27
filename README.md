@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[yorukot/superfile](https://github.com/yorukot/superfile)** - Pretty fancy and modern terminal file manager (1 week ago)
 
 #### 🎧 What I have been listening
-- [Can&#39;t Forget Your Face by Marsias](https://open.spotify.com/track/1RpKULVooOuEzgpver8hof)
-- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
-- [When We Fall by RAVENS, Anrey](https://open.spotify.com/track/2gVY6igQnaFJOd80VPRF44)
-- [Garota De Ipanema by Antônio Carlos Jobim](https://open.spotify.com/track/2vTDA7mOYWtuduCylWfiFd)
-- [When We Fall by RAVENS, Anrey](https://open.spotify.com/track/2gVY6igQnaFJOd80VPRF44)
+- [Lençol Dobrado by João Gustavo e Murilo, Analaga](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY)
+- [Balada - Ao Vivo by Gusttavo Lima](https://open.spotify.com/track/0zZnBbRW4Dt4cJKVtUQFwF)
+- [Eu Mereço Ser Feliz - Ao Vivo by Mumuzinho](https://open.spotify.com/track/3A4SNHZXVTXLg1Tn8zgwMp)
+- [Ela É do Tipo by MC Kevin o Chris](https://open.spotify.com/track/2x8TNY9KwNvD19gVGs4WOP)
+- [Envolver by Anitta](https://open.spotify.com/track/18Pv9tK6iymZWB8yQW6Aoc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
