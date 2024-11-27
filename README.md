@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[yorukot/superfile](https://github.com/yorukot/superfile)** - Pretty fancy and modern terminal file manager (1 week ago)
 
 #### 🎧 What I have been listening
+- [All The Stars by Lonely in the Rain, Saavan](https://open.spotify.com/track/3YDjXk0eiQm2Qd8cr5ssBV)
 - [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
 - [Want U by Hayley May](https://open.spotify.com/track/4PIdTFeeNnJ87nKOf1djuG)
 - [Sleep Talking by Beyond, Marlo Rex](https://open.spotify.com/track/5B8yexFn22KcFZKuf7zFAc)
 - [Grateful by Me &amp; George, KATYA](https://open.spotify.com/track/47CYEfRZNEHq9UXALEP7Z4)
-- [Dive by Taiki Nulight, Rue More](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
