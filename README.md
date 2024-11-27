@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[yorukot/superfile](https://github.com/yorukot/superfile)** - Pretty fancy and modern terminal file manager (1 week ago)
 
 #### 🎧 What I have been listening
-- [Tell Me Why - James Carter Remix by Supermode, James Carter](https://open.spotify.com/track/2nNhJdmG0qEI096xXuC0kr)
-- [Good Thing by DeusExMaschine](https://open.spotify.com/track/7sWddb2SctBHmDwdMEEhUr)
-- [It&#39;s Not Wrong by Midnight Wanders, Roads We Walk](https://open.spotify.com/track/1T2hHzjccRvDiH8eytiQY4)
-- [All The Stars by Lonely in the Rain, Saavan](https://open.spotify.com/track/3YDjXk0eiQm2Qd8cr5ssBV)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [When We Fall by RAVENS, Anrey](https://open.spotify.com/track/2gVY6igQnaFJOd80VPRF44)
+- [Can&#39;t Forget Your Face by Marsias](https://open.spotify.com/track/1RpKULVooOuEzgpver8hof)
+- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
+- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
+- [Envolvidão by Rael](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
