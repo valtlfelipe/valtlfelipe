@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[openmeterio/openmeter](https://github.com/openmeterio/openmeter)** - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Wicked Game - Eclectic Remix by YOTO, Eclectic](https://open.spotify.com/track/3FBA3fKXCmDUvgktbcpBQs)
 - [Help Me Up by XYSM, outset island](https://open.spotify.com/track/7bOEpZTEWiv0N9uCZQ8DJQ)
 - [Passenger by Colone, Kidd Thorn, Patrick Lite](https://open.spotify.com/track/7KYvrq82Tqjr67gBdhCaid)
 - [Broken Love by Ali Bakgor](https://open.spotify.com/track/5wprb1HhEty85ASiHm1ydK)
 - [Can&#39;t Forget Your Face by Marsias](https://open.spotify.com/track/1RpKULVooOuEzgpver8hof)
-- [Blueclap by Sadion](https://open.spotify.com/track/4oAs0uiP81pNvzJvI70yNU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
