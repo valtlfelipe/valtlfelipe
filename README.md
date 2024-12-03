@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[openmeterio/openmeter](https://github.com/openmeterio/openmeter)** - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing. (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [You Got My Heart by Pia De Maio](https://open.spotify.com/track/2kmSwXQQnWNoVIR1Y5GfaJ)
+- [Mama by Nostalgic Feeling, Tripton](https://open.spotify.com/track/73VVZOGSWev1iIUHf6KCsu)
+- [Walking Alone by HERITAGE X, Namic](https://open.spotify.com/track/0geeOS0yKfS6L7HXJCPZ8L)
 - [It&#39;s in your eyes by Deepierro](https://open.spotify.com/track/2ObKzzrC7gIaql6Pkn1pdf)
 - [Take My Hand by Rian Milo, Bibano Beach Club](https://open.spotify.com/track/5jStv9FWFKhxnsUJUVSiAg)
-- [Take Me Home by Lieutenant 71, LU2VYK](https://open.spotify.com/track/4N07uEml4JYUiWxjwOV8Ww)
-- [Everywhere - Lipless Remix by Babsy., Lipless](https://open.spotify.com/track/0w08yeRtEZs3HKdm4tNGyB)
-- [Night Sky by igor, Rory Hope](https://open.spotify.com/track/1DP7VwiyWGiUHQ2xir761m)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
