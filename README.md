@@ -5,9 +5,9 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (4 days ago)
-- **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (5 days ago)
-- **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (6 days ago)
+- **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (5 days ago)
+- **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (6 days ago)
+- **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 - **[elie222/inbox-zero](https://github.com/elie222/inbox-zero)** - Open source email app to reach inbox zero fast. (2 weeks ago)
 - **[openmeterio/openmeter](https://github.com/openmeterio/openmeter)** - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing. (2 weeks ago)
 
