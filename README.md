@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (5 days ago)
-- **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (6 days ago)
+- **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 day ago)
+- **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (6 days ago)
+- **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (1 week ago)
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 - **[elie222/inbox-zero](https://github.com/elie222/inbox-zero)** - Open source email app to reach inbox zero fast. (2 weeks ago)
-- **[openmeterio/openmeter](https://github.com/openmeterio/openmeter)** - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [You Got My Heart by Pia De Maio](https://open.spotify.com/track/2kmSwXQQnWNoVIR1Y5GfaJ)
-- [Mama by Nostalgic Feeling, Tripton](https://open.spotify.com/track/73VVZOGSWev1iIUHf6KCsu)
-- [Walking Alone by HERITAGE X, Namic](https://open.spotify.com/track/0geeOS0yKfS6L7HXJCPZ8L)
-- [It&#39;s in your eyes by Deepierro](https://open.spotify.com/track/2ObKzzrC7gIaql6Pkn1pdf)
-- [Take My Hand by Rian Milo, Bibano Beach Club](https://open.spotify.com/track/5jStv9FWFKhxnsUJUVSiAg)
+- [Good Vibes by Luke Bergs, LiQWYD](https://open.spotify.com/track/4J7veEVojElsASIKa8ZBrx)
+- [Take Me Home by Lieutenant 71, LU2VYK](https://open.spotify.com/track/4N07uEml4JYUiWxjwOV8Ww)
+- [Wait For Me by WHOKNOWS](https://open.spotify.com/track/1QblUM5ANcUVnOoIXg7nbD)
+- [Remember by Pierse, Hitkend House Lab](https://open.spotify.com/track/6PBlWrDHjaXyiDBsCdPdJw)
+- [Rose by Lynhare](https://open.spotify.com/track/5yP9ufq8O8etVdAHenggTa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
