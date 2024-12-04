@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[elie222/inbox-zero](https://github.com/elie222/inbox-zero)** - Open source email app to reach inbox zero fast. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Be My Lover by HALO, Nila, LEØN](https://open.spotify.com/track/2ryy9ZQqy4nQq7QGb0DMJg)
-- [Life Goes On by Ricii Lompeurs, Francesco Ray](https://open.spotify.com/track/2jfNbQZ8VqVhPvOtXOrmon)
-- [Night Sky by igor, Rory Hope](https://open.spotify.com/track/1DP7VwiyWGiUHQ2xir761m)
-- [Use Somebody by KHEMIS, Pierre Leck, Levka Rey](https://open.spotify.com/track/0cRoxleyA0CfcVp3aNDqen)
-- [Birds of a feather x I Remember by Lewis Hanton](https://open.spotify.com/track/2EsK6uao9HmW5uOneHYRVz)
+- [Take My Hand by Rian Milo, Bibano Beach Club](https://open.spotify.com/track/5jStv9FWFKhxnsUJUVSiAg)
+- [Wait For Me by WHOKNOWS](https://open.spotify.com/track/1QblUM5ANcUVnOoIXg7nbD)
+- [Remember by Pierse, Hitkend House Lab](https://open.spotify.com/track/6PBlWrDHjaXyiDBsCdPdJw)
+- [Secret by NCPTN, Keilimei](https://open.spotify.com/track/75ZQMh54KgrumqghnZWC5C)
+- [Mama by Nostalgic Feeling, Tripton](https://open.spotify.com/track/73VVZOGSWev1iIUHf6KCsu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
