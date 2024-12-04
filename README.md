@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[elie222/inbox-zero](https://github.com/elie222/inbox-zero)** - Open source email app to reach inbox zero fast. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Be My Lover by HALO, Nila, LEØN](https://open.spotify.com/track/2ryy9ZQqy4nQq7QGb0DMJg)
-- [Mama by Nostalgic Feeling, Tripton](https://open.spotify.com/track/73VVZOGSWev1iIUHf6KCsu)
-- [It&#39;s in your eyes by Deepierro](https://open.spotify.com/track/2ObKzzrC7gIaql6Pkn1pdf)
-- [Beautiful Strangers by HOMAN, Jasmine Crowe](https://open.spotify.com/track/0MKRSyALmgWeDFtlTGXELt)
-- [Motion (feat. RAZZ) by yara., Lotus, Jan Liva, RAZZ](https://open.spotify.com/track/3qxfwOAi3agIb2JZdN2hvP)
+- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
+- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
+- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
+- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
+- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
