@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[elie222/inbox-zero](https://github.com/elie222/inbox-zero)** - Open source email app to reach inbox zero fast. (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Secret by NCPTN, Keilimei](https://open.spotify.com/track/75ZQMh54KgrumqghnZWC5C)
 - [Take My Hand by Rian Milo, Bibano Beach Club](https://open.spotify.com/track/5jStv9FWFKhxnsUJUVSiAg)
 - [Wait For Me by WHOKNOWS](https://open.spotify.com/track/1QblUM5ANcUVnOoIXg7nbD)
 - [Remember by Pierse, Hitkend House Lab](https://open.spotify.com/track/6PBlWrDHjaXyiDBsCdPdJw)
 - [Secret by NCPTN, Keilimei](https://open.spotify.com/track/75ZQMh54KgrumqghnZWC5C)
-- [Mama by Nostalgic Feeling, Tripton](https://open.spotify.com/track/73VVZOGSWev1iIUHf6KCsu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
