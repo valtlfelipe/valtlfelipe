@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[elie222/inbox-zero](https://github.com/elie222/inbox-zero)** - Open source email app to reach inbox zero fast. (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [How Will I Know by Whitney Houston, Clean Bandit](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL)
-- [Crying On The Dancefloor by Sam Feldt, Jonas Blue, Endless Summer, Violet Days](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6)
-- [For Life (feat. Nile Rodgers) by Kygo, Zak Abel, Nile Rodgers](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP)
-- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
-- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
+- [Deep In Your Love by Alok, Bebe Rexha](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB)
+- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
+- [Strangers by Kenya Grace](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s)
+- [Sunshine (My Girl) by Wuki](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri)
+- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
