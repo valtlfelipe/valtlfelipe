@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Call It Love by Felix Jaehn, Ray Dalton](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B)
-- [If You Really Love Me (How Will I Know) by David Guetta, MistaJam, John Newman](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd)
-- [Alibi (feat. Rudimental) by Ella Henderson, Rudimental](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2)
-- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
-- [(It Goes Like) Nanana - Edit by Peggy Gou](https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK)
+- [Heaven Takes You Home (feat. Connie Constance) by Swedish House Mafia, Connie Constance](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4)
+- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
+- [Tell It To My Heart by MEDUZA, Hozier](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA)
+- [Prada by cassö, RAYE, D-Block Europe](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i)
+- [Dive by Lost Frequencies, Tom Gregory](https://open.spotify.com/track/7d8s1ckbiRSCTasakGGam1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
