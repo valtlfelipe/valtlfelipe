@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
-- [In My Mind by Lavern](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk)
-- [Echo by RSCL, Repiet, Julia Kleijn](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj)
-- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
-- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
+- [The Boy Is Mine by James Mac, Vall, Rosalie](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF)
+- [Lose This Feeling by Armin van Buuren](https://open.spotify.com/track/4tV6C36fjDmz0kzlFIdx3o)
+- [Out Of Touch - 71 Digits Edit by Madison Mars, 71 Digits](https://open.spotify.com/track/3Uxp6uik4XcT6LGIv8mKNe)
+- [On Repeat by GAMPER &amp; DADONI, Joe Jury](https://open.spotify.com/track/0HGpMpt4OrGUtdHq8dVuPN)
+- [Sunroof by Nicky Youre, dazy](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
