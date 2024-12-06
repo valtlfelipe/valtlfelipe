@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Pump It Up by Endor](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y)
-- [Set Me Free by Oliver Heldens, Party Pupils, MAX](https://open.spotify.com/track/0uM8KRrJRcd2W70an8s6bQ)
-- [Rise (Sam Feldt Remix) by Calum Scott, Sam Feldt](https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK)
-- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
-- [One More Time by Daft Punk](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV)
+- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
+- [New Rules - KREAM Remix by Dua Lipa, KREAM](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4)
+- [BOOM by Tiësto, Sevenn, Gucci Mane](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ)
+- [Children - Edit Mix by Tinlicker, Robert Miles](https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV)
+- [Ruin My Life - Steve James Remix by Zara Larsson, Steve James](https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
