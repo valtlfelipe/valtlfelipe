@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Body Type by Badger, Icona Pop](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN)
-- [Still Into You by CYRIL, maryjo](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL)
-- [Free by Third Party](https://open.spotify.com/track/1tOTq5hXlLeKbqOVn8ddMF)
-- [Right Here by Becky Hill](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO)
-- [Beautiful Drug (feat. Avicii) - Remix by Zac Brown Band, Avicii](https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck)
+- [Talk To Me by Champion, Four Tet, Skrillex, Naisha](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv)
+- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
+- [Doses &amp; Mimosas (Vintage Culture &amp; Zerky Remix) - Radio Edit by Vintage Culture, Zerky, Cherub](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu)
+- [Body Say by XANDRA, GiGi Grombacher](https://open.spotify.com/track/25ArkZpdsdxliawDn8mRMb)
+- [Is This Love by LP Giobbi, Danielle Ponder](https://open.spotify.com/track/6g9LmVrQJPVYSeBdPVxrrr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
