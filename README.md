@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
-- [Heat Waves by Glass Animals](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp)
-- [it boy by bbno$](https://open.spotify.com/track/3X1LErJuyzAEjH6X11ooMS)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
+- [greedy by Tate McRae](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)
+- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
+- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
+- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
+- [How Will I Know by Whitney Houston, Clean Bandit](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
