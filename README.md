@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 
 #### 🎧 What I have been listening
-- [greedy by Tate McRae](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
-- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
-- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
-- [How Will I Know by Whitney Houston, Clean Bandit](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL)
+- [NO BAD DAYS (feat. Collett) by Macklemore, Collett](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823)
+- [Never Gonna Not Dance Again by P!nk](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0)
+- [Miles On It by Marshmello, Kane Brown](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf)
+- [Dancing In The Flames by The Weeknd](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9)
+- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
