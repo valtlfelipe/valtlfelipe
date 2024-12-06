@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Talk To Me by Champion, Four Tet, Skrillex, Naisha](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv)
-- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
-- [Doses &amp; Mimosas (Vintage Culture &amp; Zerky Remix) - Radio Edit by Vintage Culture, Zerky, Cherub](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu)
-- [Body Say by XANDRA, GiGi Grombacher](https://open.spotify.com/track/25ArkZpdsdxliawDn8mRMb)
-- [Is This Love by LP Giobbi, Danielle Ponder](https://open.spotify.com/track/6g9LmVrQJPVYSeBdPVxrrr)
+- [Take Me Home (feat. Bebe Rexha) by Cash Cash, Bebe Rexha](https://open.spotify.com/track/7L59vVTpoS94JU3KEeolqt)
+- [CAVE (with Tove Lo) by Dom Dolla, Tove Lo](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm)
+- [LOOKING FOR JOY by Kaleena Zanders](https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu)
+- [Don&#39;t Go by Adam Beyer](https://open.spotify.com/track/70sATkQBjlzawQ0ZAf22AI)
+- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
