@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Criminals by Meghan Trainor](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv)
+- [ALL MY LOVE - PNAU x Coldplay by Coldplay, PNAU](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN)
+- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
+- [FIREFLY by BOABOA](https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR)
 - [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
-- [New Rules - KREAM Remix by Dua Lipa, KREAM](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4)
-- [BOOM by Tiësto, Sevenn, Gucci Mane](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ)
-- [Children - Edit Mix by Tinlicker, Robert Miles](https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV)
-- [Ruin My Life - Steve James Remix by Zara Larsson, Steve James](https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
