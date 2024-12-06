@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 
 #### 🎧 What I have been listening
-- [NO BAD DAYS (feat. Collett) by Macklemore, Collett](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823)
-- [Never Gonna Not Dance Again by P!nk](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0)
-- [Miles On It by Marshmello, Kane Brown](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf)
-- [Dancing In The Flames by The Weeknd](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
+- [Lil Boo Thang by Paul Russell](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3)
+- [Die With A Smile by Lady Gaga, Bruno Mars](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe)
+- [TRUSTFALL by P!nk](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e)
+- [Stick Season by Noah Kahan](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv)
+- [Left and Right (Feat. Jung Kook of BTS) by Charlie Puth, Jung Kook, BTS](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
