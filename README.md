@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Take Me Home (feat. Bebe Rexha) by Cash Cash, Bebe Rexha](https://open.spotify.com/track/7L59vVTpoS94JU3KEeolqt)
-- [CAVE (with Tove Lo) by Dom Dolla, Tove Lo](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm)
-- [LOOKING FOR JOY by Kaleena Zanders](https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu)
-- [Don&#39;t Go by Adam Beyer](https://open.spotify.com/track/70sATkQBjlzawQ0ZAf22AI)
-- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL)
+- [Pump It Up by Endor](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y)
+- [Set Me Free by Oliver Heldens, Party Pupils, MAX](https://open.spotify.com/track/0uM8KRrJRcd2W70an8s6bQ)
+- [Rise (Sam Feldt Remix) by Calum Scott, Sam Feldt](https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK)
+- [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
+- [One More Time by Daft Punk](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
