@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[skymethod/denoflare](https://github.com/skymethod/denoflare)** - Develop, test, and deploy Cloudflare Workers with Deno. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Criminals by Meghan Trainor](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv)
-- [ALL MY LOVE - PNAU x Coldplay by Coldplay, PNAU](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN)
-- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
-- [FIREFLY by BOABOA](https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR)
-- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
+- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
+- [Heat Waves by Glass Animals](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp)
+- [it boy by bbno$](https://open.spotify.com/track/3X1LErJuyzAEjH6X11ooMS)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
