@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (1 week ago)
 
 #### 🎧 What I have been listening
-- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
-- [Last Night by Morgan Wallen](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8)
+- [Our Way by Mark Ambor](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc)
+- [Stick Season by Noah Kahan](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv)
+- [Selfish by Justin Timberlake](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng)
 - [Just the Way You Are by Bruno Mars](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt)
-- [Don&#39;t Blame It On Me by Michael Bublé](https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ)
-- [Love Somebody by Morgan Wallen](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo)
+- [Nice To Meet You by Myles Smith](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
