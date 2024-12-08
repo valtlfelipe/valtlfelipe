@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (1 week ago)
 
 #### 🎧 What I have been listening
-- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
-- [Stargazing by Myles Smith](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10)
-- [Austin (Boots Stop Workin&#39;) by Dasha](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd)
-- [SNAP by Rosa Linn](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6)
-- [Yes I&#39;m A Mess by AJR](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT)
+- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
+- [Last Night by Morgan Wallen](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8)
+- [Just the Way You Are by Bruno Mars](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt)
+- [Don&#39;t Blame It On Me by Michael Bublé](https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ)
+- [Love Somebody by Morgan Wallen](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
