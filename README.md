@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (1 week ago)
 
 #### 🎧 What I have been listening
-- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
-- [My Stupid Heart by Walk off the Earth](https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK)
-- [Lose Control by Teddy Swims](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk)
-- [Until I Found You (with Em Beihold) - Em Beihold Version by Stephen Sanchez, Em Beihold](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN)
-- [favorite kind of high by Kelly Clarkson](https://open.spotify.com/track/63ZSZznbGQhzJhOHPZ6WkT)
+- [Unwritten by Natasha Bedingfield](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf)
+- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
+- [Make You Mine by PUBLIC](https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g)
+- [Born With a Broken Heart by Damiano David](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU)
+- [TRUSTFALL by P!nk](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
