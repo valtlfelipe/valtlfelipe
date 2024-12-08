@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (1 week ago)
 
 #### 🎧 What I have been listening
-- [Unwritten by Natasha Bedingfield](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf)
-- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
-- [Make You Mine by PUBLIC](https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g)
-- [Born With a Broken Heart by Damiano David](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU)
-- [TRUSTFALL by P!nk](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e)
+- [Taste by Sabrina Carpenter](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ)
+- [JOYRIDE by Kesha](https://open.spotify.com/track/5oOZGQnZZToIHI55lw2E97)
+- [Last Night by Morgan Wallen](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8)
+- [Die With A Smile by Lady Gaga, Bruno Mars](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe)
+- [For Cryin&#39; Out Loud! by FINNEAS](https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
