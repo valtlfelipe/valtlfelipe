@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Just Like You by Tom Kha](https://open.spotify.com/track/0ZXAg3ZxNQ4znFNmXuONuZ)
-- [Liar by phil&#39;s ok.](https://open.spotify.com/track/5JV5Hk5zjqoRzwWOeI1yAE)
-- [Otherside by Munch](https://open.spotify.com/track/7MsB6HHVZlm0eDytug3Xga)
-- [Will You Be Mine by SAINT.](https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz)
-- [Do Better by Peer Pressure, Adam Juhl](https://open.spotify.com/track/6zE3rbRVckLRIb0zjROQST)
+- [Feel Alright by James Lacey, ODBLU](https://open.spotify.com/track/6yFWU2RnhjoMRCFJRG6I3n)
+- [Lie by BRETSN, SANDMO](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP)
+- [Soulmate by MR TOUT LE MONDE](https://open.spotify.com/track/6nplz6DNx6eKtfM2SgqEqF)
+- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
+- [Shallow Water - Edit by JLV, Kairos Grove](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
