@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (1 week ago)
 
 #### 🎧 What I have been listening
+- [New Day by Tom Kha](https://open.spotify.com/track/4GS3qJMrYhysBZLyTEvmAc)
+- [I See You by CARMA](https://open.spotify.com/track/5uMFCXXYOwITNq9fauAFYs)
 - [Refuse You by Lavern](https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W)
 - [Kendall Park by Duce, Piece Wise, Courtney Storm](https://open.spotify.com/track/2SXi0cldambE2930H18LoL)
 - [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
-- [Tell Me by D3EPANK](https://open.spotify.com/track/1mrnWxqlr5ynXWTS0L0Bcp)
-- [Heart By Dawn by The Sunnefield, Olly Wall, Michel Fannoun](https://open.spotify.com/track/21mBE3LlK1H3Vb6NHWt8wp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
