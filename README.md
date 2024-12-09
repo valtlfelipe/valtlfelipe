@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Feel Alright by James Lacey, ODBLU](https://open.spotify.com/track/6yFWU2RnhjoMRCFJRG6I3n)
-- [Lie by BRETSN, SANDMO](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP)
-- [Soulmate by MR TOUT LE MONDE](https://open.spotify.com/track/6nplz6DNx6eKtfM2SgqEqF)
-- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
-- [Shallow Water - Edit by JLV, Kairos Grove](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG)
+- [Speak Your Name by Lake Matisse](https://open.spotify.com/track/3WnDdthPb9CCqOERBoSHvb)
+- [Did I Luv U by Friends &amp; I](https://open.spotify.com/track/1UPkeWS6n2vnEhBbpsGpmI)
+- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
+- [Home by Ruffnux](https://open.spotify.com/track/4RjS6z0VA3YEuqVH8fZoT0)
+- [He Doesn&#39;t Know by Jane Good, James Lacey](https://open.spotify.com/track/0P07SzEPF75X2UejJAogFi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
