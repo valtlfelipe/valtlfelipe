@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Speak Your Name by Lake Matisse](https://open.spotify.com/track/3WnDdthPb9CCqOERBoSHvb)
-- [Did I Luv U by Friends &amp; I](https://open.spotify.com/track/1UPkeWS6n2vnEhBbpsGpmI)
-- [The Boy Is Mine by DeejaVu, AALLAR, Idyl](https://open.spotify.com/track/56NsNIWYOTcXATac9zNF9P)
-- [Home by Ruffnux](https://open.spotify.com/track/4RjS6z0VA3YEuqVH8fZoT0)
-- [He Doesn&#39;t Know by Jane Good, James Lacey](https://open.spotify.com/track/0P07SzEPF75X2UejJAogFi)
+- [Chasing The Sun by Tobÿ](https://open.spotify.com/track/2hJAt02WuR6FWOITv5iDWK)
+- [Hold Me Tight by D3EPANK, Xiam, Rukid](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF)
+- [Beautiful Love by James Lacey](https://open.spotify.com/track/2o92guw11u0D9p6A0Uz138)
+- [Rhythm Of The Night by Amaranth Skies, EFA, Ruocheng](https://open.spotify.com/track/4EQ7B4ELAsOtTTktv0A3S2)
+- [Sleep Talking by Beyond, Marlo Rex](https://open.spotify.com/track/5B8yexFn22KcFZKuf7zFAc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
