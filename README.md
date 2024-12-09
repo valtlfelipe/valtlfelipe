@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (1 week ago)
 
 #### 🎧 What I have been listening
+- [To the Moon and Back by Akrol](https://open.spotify.com/track/28Hp6RaEp1Zi6vrZH6iyFR)
+- [A Beautiful Day by Tobÿ, Erlando](https://open.spotify.com/track/65q5Ei9B7MOxzqhyQYB0b5)
+- [come true by clarity.](https://open.spotify.com/track/2OSas6Ys9Z7O8Ci2lLPCfB)
+- [Zero Gravity by Dominic Neill](https://open.spotify.com/track/4JRfQNcKrWe9rAuE2e2E0N)
 - [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
-- [Forever In My Mind by Madism, LPW](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB)
-- [Doubts by SANDMO, Bad Space](https://open.spotify.com/track/2exyWQrACuTVnLCWBX3dnP)
-- [Free My Mind by ENLIV3N](https://open.spotify.com/track/4ysacrZnJmUjvvseHfFlvn)
-- [Walking On a Dream by NEIMY](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
