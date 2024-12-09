@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (1 week ago)
 
 #### 🎧 What I have been listening
+- [Miles Away by AZON, Luxe Agoris, imallryt](https://open.spotify.com/track/394GLqBu5fR3hvHqqI9czF)
+- [All Need Love by Marvin Aloys, Black Prez](https://open.spotify.com/track/3sckFIHgoV5UKFtd4349NT)
+- [Havana by Artesa, Goodscandal, Jasmine Crowe](https://open.spotify.com/track/6cYYc1WoJJwIQMXxEqLiYF)
 - [NO BAD DAYS (feat. Collett) by Macklemore, Collett](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823)
 - [Taste by Sabrina Carpenter](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ)
-- [JOYRIDE by Kesha](https://open.spotify.com/track/5oOZGQnZZToIHI55lw2E97)
-- [Last Night by Morgan Wallen](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8)
-- [Die With A Smile by Lady Gaga, Bruno Mars](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
