@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (1 week ago)
 
 #### 🎧 What I have been listening
-- [My Call by Benedict Ammann](https://open.spotify.com/track/4z1YZVx4MgDCAV7ic6CfHw)
-- [Louga by French Cocotte](https://open.spotify.com/track/6ZNiuDq5UFyeCSq1b79K2K)
-- [Under Control by VADDS, Lost Culturé, Royce Nightly](https://open.spotify.com/track/6KIfJOVtKt0snqHg6OsIr1)
-- [Just Begun by Mojave Grey, Moonshine](https://open.spotify.com/track/45JMHnJVIpb8FqsWVpuclv)
-- [Like a Fever by Ruffnux, Sam Wiseman, Thunder](https://open.spotify.com/track/1Fs5E8w2v3RJom5XG2QFJg)
+- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
+- [Forever In My Mind by Madism, LPW](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB)
+- [Doubts by SANDMO, Bad Space](https://open.spotify.com/track/2exyWQrACuTVnLCWBX3dnP)
+- [Free My Mind by ENLIV3N](https://open.spotify.com/track/4ysacrZnJmUjvvseHfFlvn)
+- [Walking On a Dream by NEIMY](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
