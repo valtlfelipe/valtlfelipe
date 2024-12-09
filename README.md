@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)** - Clean your macOS with a script, not an expensive app (1 week ago)
 
 #### 🎧 What I have been listening
-- [To the Moon and Back by Akrol](https://open.spotify.com/track/28Hp6RaEp1Zi6vrZH6iyFR)
-- [A Beautiful Day by Tobÿ, Erlando](https://open.spotify.com/track/65q5Ei9B7MOxzqhyQYB0b5)
-- [come true by clarity.](https://open.spotify.com/track/2OSas6Ys9Z7O8Ci2lLPCfB)
-- [Zero Gravity by Dominic Neill](https://open.spotify.com/track/4JRfQNcKrWe9rAuE2e2E0N)
-- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
+- [Refuse You by Lavern](https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W)
+- [Kendall Park by Duce, Piece Wise, Courtney Storm](https://open.spotify.com/track/2SXi0cldambE2930H18LoL)
+- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
+- [Tell Me by D3EPANK](https://open.spotify.com/track/1mrnWxqlr5ynXWTS0L0Bcp)
+- [Heart By Dawn by The Sunnefield, Olly Wall, Michel Fannoun](https://open.spotify.com/track/21mBE3LlK1H3Vb6NHWt8wp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
