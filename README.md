@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Your Body on Me by Namté, A27C, Miza](https://open.spotify.com/track/1uN6442j0JiB8cvTsMnEyP)
-- [I Don&#39;t Wanna Know by LUMINAE, USAI, Feb](https://open.spotify.com/track/46wJ9qmZ8Jj1jEYQRbPfNh)
-- [Never Enough by MLVN, Flore](https://open.spotify.com/track/3jI01yQVRFPALmi3KaShMN)
-- [We Made It by Tobÿ, Erlando](https://open.spotify.com/track/3ZtrIFLoOoRAHFJCdlQdog)
-- [Midnight Feelings by Nounours](https://open.spotify.com/track/7aXPP2PcgYed5TYEC0JHIF)
+- [Heart&#39;s Enigma (feat. Madeline Roose) by AL3, Madeline Roose](https://open.spotify.com/track/5WAedtb1xfu4HZwTUcBm9G)
+- [Mad World by Ben Plum, Alosa](https://open.spotify.com/track/6XAKrAA4SkqGn9UDbAT5pB)
+- [Careless Whisper by PACANI, Syntheticsax, Ben Plum](https://open.spotify.com/track/5523XfZJmzdBtVej08fYMd)
+- [My Call by Benedict Ammann](https://open.spotify.com/track/4z1YZVx4MgDCAV7ic6CfHw)
+- [Louga by French Cocotte](https://open.spotify.com/track/6ZNiuDq5UFyeCSq1b79K2K)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
