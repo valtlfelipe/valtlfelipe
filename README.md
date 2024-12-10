@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [One Last Time - Refeci Remix by Lucas Estrada, Sam Gray, Refeci](https://open.spotify.com/track/1eAHMOxdlKr9LQDDvtESJh)
-- [Chasing My Dreams - Pablo Leo Remix by Lonely in the Rain, Pablo Leo, SOMOH](https://open.spotify.com/track/1Q2gUmvHoPeLuPi7WPq8lP)
-- [All Alone by MR TOUT LE MONDE](https://open.spotify.com/track/0GFwzzwfRDkv9guPJSgkvI)
-- [Oxygen by Tobÿ, HILLArious](https://open.spotify.com/track/58wxvl3anAgLjazHXa1uDG)
-- [Journey (Don&#39;t Let Me Go) by ERIICE](https://open.spotify.com/track/1RO0sX148nhh1thfwaLWuA)
+- [Your Body on Me by Namté, A27C, Miza](https://open.spotify.com/track/1uN6442j0JiB8cvTsMnEyP)
+- [I Don&#39;t Wanna Know by LUMINAE, USAI, Feb](https://open.spotify.com/track/46wJ9qmZ8Jj1jEYQRbPfNh)
+- [Never Enough by MLVN, Flore](https://open.spotify.com/track/3jI01yQVRFPALmi3KaShMN)
+- [We Made It by Tobÿ, Erlando](https://open.spotify.com/track/3ZtrIFLoOoRAHFJCdlQdog)
+- [Midnight Feelings by Nounours](https://open.spotify.com/track/7aXPP2PcgYed5TYEC0JHIF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
