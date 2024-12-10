@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Do Better by Peer Pressure, Adam Juhl](https://open.spotify.com/track/6zE3rbRVckLRIb0zjROQST)
-- [So Over You by Matthew Clarck](https://open.spotify.com/track/0ZLLGT0tnoBmC4eBM7RIY2)
-- [Let It Slide by AIMÉ, Odeon, Freyer, Sam Welch](https://open.spotify.com/track/4zuodNOafqvTJiAxW61k76)
-- [Anymore by MISERO, Piece Wise, J.O.Y](https://open.spotify.com/track/13r46dyuKC0N5Dby8SKTHr)
-- [Flowers by Bleu Azur](https://open.spotify.com/track/2jxB6JRcwnyP5nLXStZJxs)
+- [Sunset Stories by Tobÿ, Life&#39;s A Beach](https://open.spotify.com/track/3nWHPuwYP1Umxe1vtdFPXE)
+- [Pumped Up Kicks by Jane Good](https://open.spotify.com/track/2jRxnAczBOOXbAQiJCP4Z2)
+- [My Love by Gianluca Dimeo, Daniel Santoro](https://open.spotify.com/track/55yl2jVMuB0yPUJzWjJM7p)
+- [Wanted by Marvin Shadex](https://open.spotify.com/track/6CC0cv0KDIXUwS8GVJwqF7)
+- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
