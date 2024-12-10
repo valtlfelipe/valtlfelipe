@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Million Little Stars by Lust.](https://open.spotify.com/track/2oe8iA4MHQnMD93f4cbcsN)
-- [Breakeven by Scity](https://open.spotify.com/track/4iMfbffSbT82JdkIT6tY80)
-- [just like this by rayn, imallryt](https://open.spotify.com/track/4dMqhVB9JoIorQqbxBvvkC)
-- [torn by shiny things, Seawayz](https://open.spotify.com/track/6OnHXT1irlu8nx1f6BS33t)
-- [Never Let Go by Munch, Agezzi, MRTY](https://open.spotify.com/track/14dhYQQ6cm6u2xKJuejuEF)
+- [Let Her Go - Lost Coconut Remix by Dual Sessions, Lost Coconut](https://open.spotify.com/track/1ZDOSXroOASzNuoI3d4YGx)
+- [Make Me Feel (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/6qHhWQJq1N3cLmcpxfBxhQ)
+- [BYE by TWO BLOCKS AWAY, ELIJAH](https://open.spotify.com/track/3z5kTK8sgujN4hhrGoWIUT)
+- [Unbreakable by ERIICE, LLOVSA](https://open.spotify.com/track/44bO3CuK03hFm9rZSXHxsH)
+- [Give My Life (feat. Spijk) by blue my mind, XYSM, C3DRIC, Spijk](https://open.spotify.com/track/1tptjtqImGwCykbZ3mBtZy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
