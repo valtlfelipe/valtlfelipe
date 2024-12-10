@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lucky Star by Sol Novaro, ROBINS](https://open.spotify.com/track/0FPs72GvFCFu2sJD5eZkoJ)
-- [Edge Of Seventeen - YOTO Remix by MrRevillz, Secret Source, YOTO](https://open.spotify.com/track/5wuYwxNsETSU0sGnE3CRg7)
-- [Infected by Jack Wins, Thando, Anton Karskiy, Billy Vena](https://open.spotify.com/track/7HCH8oqXmXCnYXDleGlJFP)
-- [Falling Apart by ERIICE, Adlin](https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr)
-- [City of Love by Lonely in the Rain, Nounours](https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk)
+- [One Last Time - Refeci Remix by Lucas Estrada, Sam Gray, Refeci](https://open.spotify.com/track/1eAHMOxdlKr9LQDDvtESJh)
+- [Chasing My Dreams - Pablo Leo Remix by Lonely in the Rain, Pablo Leo, SOMOH](https://open.spotify.com/track/1Q2gUmvHoPeLuPi7WPq8lP)
+- [All Alone by MR TOUT LE MONDE](https://open.spotify.com/track/0GFwzzwfRDkv9guPJSgkvI)
+- [Oxygen by Tobÿ, HILLArious](https://open.spotify.com/track/58wxvl3anAgLjazHXa1uDG)
+- [Journey (Don&#39;t Let Me Go) by ERIICE](https://open.spotify.com/track/1RO0sX148nhh1thfwaLWuA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
