@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Tidal Waves by Sol Novaro](https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp)
-- [New Day by Tom Kha](https://open.spotify.com/track/4GS3qJMrYhysBZLyTEvmAc)
-- [I See You by CARMA](https://open.spotify.com/track/5uMFCXXYOwITNq9fauAFYs)
-- [Refuse You by Lavern](https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W)
-- [Kendall Park by Duce, Piece Wise, Courtney Storm](https://open.spotify.com/track/2SXi0cldambE2930H18LoL)
+- [Do It Again by MISERO, deep dispatch](https://open.spotify.com/track/6Zabg025sA0Bi2n2nQyZjB)
+- [Broken Down by Woodworks, Riesling, Joey Busse](https://open.spotify.com/track/2bJ4JI0F44VDPdFrR0vOWd)
+- [One Too Many [NSH Remix] by Tom Ferry, Masove, Jay Mason, NSH](https://open.spotify.com/track/6jX5QaCRogqc4G5sbf30ui)
+- [Music Sounds Better With You by Cookie Crumble](https://open.spotify.com/track/1AXXp4FEPsR05O6SW0BoF4)
+- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
