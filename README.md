@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sunset Stories by Tobÿ, Life&#39;s A Beach](https://open.spotify.com/track/3nWHPuwYP1Umxe1vtdFPXE)
-- [Pumped Up Kicks by Jane Good](https://open.spotify.com/track/2jRxnAczBOOXbAQiJCP4Z2)
-- [My Love by Gianluca Dimeo, Daniel Santoro](https://open.spotify.com/track/55yl2jVMuB0yPUJzWjJM7p)
-- [Wanted by Marvin Shadex](https://open.spotify.com/track/6CC0cv0KDIXUwS8GVJwqF7)
-- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
+- [Where You Are by John Summit, HAYLA](https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk)
+- [Deep In Your Love by Alok, Bebe Rexha](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB)
+- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
+- [Strangers by Kenya Grace](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s)
+- [Upside - Stripped by PLS&amp;TY, Ben Samama](https://open.spotify.com/track/0cF6JeDBo1Z7VY6JnY37z9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
