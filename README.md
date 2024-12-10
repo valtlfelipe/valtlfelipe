@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Do It Again by MISERO, deep dispatch](https://open.spotify.com/track/6Zabg025sA0Bi2n2nQyZjB)
-- [Broken Down by Woodworks, Riesling, Joey Busse](https://open.spotify.com/track/2bJ4JI0F44VDPdFrR0vOWd)
-- [One Too Many [NSH Remix] by Tom Ferry, Masove, Jay Mason, NSH](https://open.spotify.com/track/6jX5QaCRogqc4G5sbf30ui)
-- [Music Sounds Better With You by Cookie Crumble](https://open.spotify.com/track/1AXXp4FEPsR05O6SW0BoF4)
-- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
+- [Do Better by Peer Pressure, Adam Juhl](https://open.spotify.com/track/6zE3rbRVckLRIb0zjROQST)
+- [So Over You by Matthew Clarck](https://open.spotify.com/track/0ZLLGT0tnoBmC4eBM7RIY2)
+- [Let It Slide by AIMÉ, Odeon, Freyer, Sam Welch](https://open.spotify.com/track/4zuodNOafqvTJiAxW61k76)
+- [Anymore by MISERO, Piece Wise, J.O.Y](https://open.spotify.com/track/13r46dyuKC0N5Dby8SKTHr)
+- [Flowers by Bleu Azur](https://open.spotify.com/track/2jxB6JRcwnyP5nLXStZJxs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
