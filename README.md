@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Waiting For by Eijk, CLOVER](https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5)
-- [Chasing The Sun by Tobÿ](https://open.spotify.com/track/2hJAt02WuR6FWOITv5iDWK)
-- [Hold Me Tight by D3EPANK, Xiam, Rukid](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF)
-- [Beautiful Love by James Lacey](https://open.spotify.com/track/2o92guw11u0D9p6A0Uz138)
-- [Rhythm Of The Night by Amaranth Skies, EFA, Ruocheng](https://open.spotify.com/track/4EQ7B4ELAsOtTTktv0A3S2)
+- [Million Little Stars by Lust.](https://open.spotify.com/track/2oe8iA4MHQnMD93f4cbcsN)
+- [Breakeven by Scity](https://open.spotify.com/track/4iMfbffSbT82JdkIT6tY80)
+- [just like this by rayn, imallryt](https://open.spotify.com/track/4dMqhVB9JoIorQqbxBvvkC)
+- [torn by shiny things, Seawayz](https://open.spotify.com/track/6OnHXT1irlu8nx1f6BS33t)
+- [Never Let Go by Munch, Agezzi, MRTY](https://open.spotify.com/track/14dhYQQ6cm6u2xKJuejuEF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
