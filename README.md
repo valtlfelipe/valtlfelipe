@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Heart&#39;s Enigma (feat. Madeline Roose) by AL3, Madeline Roose](https://open.spotify.com/track/5WAedtb1xfu4HZwTUcBm9G)
-- [Mad World by Ben Plum, Alosa](https://open.spotify.com/track/6XAKrAA4SkqGn9UDbAT5pB)
-- [Careless Whisper by PACANI, Syntheticsax, Ben Plum](https://open.spotify.com/track/5523XfZJmzdBtVej08fYMd)
-- [My Call by Benedict Ammann](https://open.spotify.com/track/4z1YZVx4MgDCAV7ic6CfHw)
-- [Louga by French Cocotte](https://open.spotify.com/track/6ZNiuDq5UFyeCSq1b79K2K)
+- [Tidal Waves by Sol Novaro](https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp)
+- [New Day by Tom Kha](https://open.spotify.com/track/4GS3qJMrYhysBZLyTEvmAc)
+- [I See You by CARMA](https://open.spotify.com/track/5uMFCXXYOwITNq9fauAFYs)
+- [Refuse You by Lavern](https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W)
+- [Kendall Park by Duce, Piece Wise, Courtney Storm](https://open.spotify.com/track/2SXi0cldambE2930H18LoL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
