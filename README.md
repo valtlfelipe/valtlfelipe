@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Let Her Go - Lost Coconut Remix by Dual Sessions, Lost Coconut](https://open.spotify.com/track/1ZDOSXroOASzNuoI3d4YGx)
-- [Make Me Feel (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/6qHhWQJq1N3cLmcpxfBxhQ)
-- [BYE by TWO BLOCKS AWAY, ELIJAH](https://open.spotify.com/track/3z5kTK8sgujN4hhrGoWIUT)
-- [Unbreakable by ERIICE, LLOVSA](https://open.spotify.com/track/44bO3CuK03hFm9rZSXHxsH)
-- [Give My Life (feat. Spijk) by blue my mind, XYSM, C3DRIC, Spijk](https://open.spotify.com/track/1tptjtqImGwCykbZ3mBtZy)
+- [Lucky Star by Sol Novaro, ROBINS](https://open.spotify.com/track/0FPs72GvFCFu2sJD5eZkoJ)
+- [Edge Of Seventeen - YOTO Remix by MrRevillz, Secret Source, YOTO](https://open.spotify.com/track/5wuYwxNsETSU0sGnE3CRg7)
+- [Infected by Jack Wins, Thando, Anton Karskiy, Billy Vena](https://open.spotify.com/track/7HCH8oqXmXCnYXDleGlJFP)
+- [Falling Apart by ERIICE, Adlin](https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr)
+- [City of Love by Lonely in the Rain, Nounours](https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
