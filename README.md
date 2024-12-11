@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [My Lovin&#39; by GAMPER &amp; DADONI](https://open.spotify.com/track/2hSGBHKZgOjWaPckW4mVf9)
-- [Let It Go by NOTSOBAD, MA:RK](https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR)
-- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
-- [Chihiro by Gravagerz](https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C)
-- [Sunshine by Lavern](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH)
+- [Lifeline (feat. Ella Henderson) by Glockenbach, Ella Henderson](https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel)
+- [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
+- [Aftertaste by Loud Luxury, Morgan St. Jean](https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG)
+- [Out Of Touch - Madison Mars Edit by Madison Mars, 71 Digits](https://open.spotify.com/track/7rarIZQ3VhMK96GEv6CUau)
+- [Body Language by James Carter, Punctual, RBZ](https://open.spotify.com/track/01hCzxgttMvy4v9760kXke)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
