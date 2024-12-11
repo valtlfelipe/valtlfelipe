@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fever by Lewis Thompson, Punctual, Hight](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt)
-- [Mind Still (feat. blythe) by Sonny Fodera, blythe](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v)
-- [Check Out by J. Worra, Leo Stannard](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM)
-- [Fireworks by Purple Disco Machine, Moss Kena, The Knocks](https://open.spotify.com/track/0DlKyVTNLz0cxop9vgp92I)
-- [The Feeling by Lost Frequencies, Bonn](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
+- [Always Forever by Dance Yourself Clean, Back Talk](https://open.spotify.com/track/1MkL699XjG9oXs2TmxuNus)
+- [Your Body on Me by Namté, A27C, Miza](https://open.spotify.com/track/1uN6442j0JiB8cvTsMnEyP)
+- [Make You Believe by Nander, Daniel McMillan](https://open.spotify.com/track/4fQsM7rsNigzn96xfmxIoo)
+- [Shallow Walls by LJ MASE, Skyknock, Jessie Lee Thetford](https://open.spotify.com/track/0pQ2qWfc6iGbdTUvEieR3u)
+- [Riplay by Erlando, Momentöm](https://open.spotify.com/track/1yOLPaHFwHydAgjz02mHgj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
