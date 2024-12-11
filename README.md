@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
+- [Miracle (with Ellie Goulding) by Calvin Harris, Ellie Goulding](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ)
+- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
+- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
 - [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
 - [greedy by Tate McRae](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)
-- [Do It To It by ACRAZE, Cherish](https://open.spotify.com/track/20on25jryn53hWghthWWW3)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
