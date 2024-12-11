@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Miracle (with Ellie Goulding) by Calvin Harris, Ellie Goulding](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ)
-- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
-- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
-- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
-- [greedy by Tate McRae](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)
+- [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/1cYyZ1N98GyRS3cMcccFHd)
+- [Remember (with David Guetta) by Becky Hill, David Guetta](https://open.spotify.com/track/6feiJqgHqeSvkGUzf11AYs)
+- [Call It Love by Felix Jaehn, Ray Dalton](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B)
+- [If You Really Love Me (How Will I Know) by David Guetta, MistaJam, John Newman](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd)
+- [Alibi (feat. Rudimental) by Ella Henderson, Rudimental](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
