@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
-- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO)
-- [Bad Memories by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U)
-- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF)
-- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3)
+- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
+- [greedy by Tate McRae](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)
+- [Do It To It by ACRAZE, Cherish](https://open.spotify.com/track/20on25jryn53hWghthWWW3)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
