@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
-- [The Feeling by Lost Frequencies, Bonn](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
-- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
-- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
-- [If Only I (feat. Bebe Rexha) by Two Friends, Loud Luxury, Bebe Rexha](https://open.spotify.com/track/5oOgt1g5fB45ZkHZjjB9Qy)
+- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
+- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO)
+- [Bad Memories by MEDUZA, James Carter, Elley Duhé, FAST BOY](https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U)
+- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF)
+- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
