@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lifeline (feat. Ella Henderson) by Glockenbach, Ella Henderson](https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel)
-- [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
-- [Aftertaste by Loud Luxury, Morgan St. Jean](https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG)
-- [Out Of Touch - Madison Mars Edit by Madison Mars, 71 Digits](https://open.spotify.com/track/7rarIZQ3VhMK96GEv6CUau)
-- [Body Language by James Carter, Punctual, RBZ](https://open.spotify.com/track/01hCzxgttMvy4v9760kXke)
+- [Saturday Night (Feel The Groove) by Brando, Ninetails](https://open.spotify.com/track/3deRcubbfOBaLsjLqYsmLw)
+- [Out Of Touch - 71 Digits Edit by Madison Mars, 71 Digits](https://open.spotify.com/track/3Uxp6uik4XcT6LGIv8mKNe)
+- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
+- [If Only I (feat. Bebe Rexha) by Two Friends, Loud Luxury, Bebe Rexha](https://open.spotify.com/track/5oOgt1g5fB45ZkHZjjB9Qy)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
