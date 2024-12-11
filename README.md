@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Saturday Night (Feel The Groove) by Brando, Ninetails](https://open.spotify.com/track/3deRcubbfOBaLsjLqYsmLw)
-- [Out Of Touch - 71 Digits Edit by Madison Mars, 71 Digits](https://open.spotify.com/track/3Uxp6uik4XcT6LGIv8mKNe)
-- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
-- [If Only I (feat. Bebe Rexha) by Two Friends, Loud Luxury, Bebe Rexha](https://open.spotify.com/track/5oOgt1g5fB45ZkHZjjB9Qy)
-- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
+- [Fireworks by Purple Disco Machine, Moss Kena, The Knocks](https://open.spotify.com/track/0DlKyVTNLz0cxop9vgp92I)
+- [The Feeling by Lost Frequencies, Bonn](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
+- [The Boy Is Mine by James Mac, Vall, Rosalie](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF)
+- [Another World by MEDUZA, HAYLA](https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO)
+- [Drinkin&#39; by Joel Corry, MK, Rita Ora](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
