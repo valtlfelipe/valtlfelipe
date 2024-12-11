@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lay Low by Tiësto](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt)
-- [One in a Million by Bebe Rexha, David Guetta](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz)
-- [Havana by Artesa, Goodscandal, Jasmine Crowe](https://open.spotify.com/track/6cYYc1WoJJwIQMXxEqLiYF)
-- [Riplay by Erlando, Momentöm](https://open.spotify.com/track/1yOLPaHFwHydAgjz02mHgj)
-- [My Call by Benedict Ammann](https://open.spotify.com/track/4z1YZVx4MgDCAV7ic6CfHw)
+- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
+- [The Feeling by Lost Frequencies, Bonn](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
+- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
+- [If Only I (feat. Bebe Rexha) by Two Friends, Loud Luxury, Bebe Rexha](https://open.spotify.com/track/5oOgt1g5fB45ZkHZjjB9Qy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
