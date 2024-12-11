@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
+- [Fever by Lewis Thompson, Punctual, Hight](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt)
+- [Mind Still (feat. blythe) by Sonny Fodera, blythe](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v)
+- [Check Out by J. Worra, Leo Stannard](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM)
 - [Fireworks by Purple Disco Machine, Moss Kena, The Knocks](https://open.spotify.com/track/0DlKyVTNLz0cxop9vgp92I)
 - [The Feeling by Lost Frequencies, Bonn](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
-- [The Boy Is Mine by James Mac, Vall, Rosalie](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF)
-- [Another World by MEDUZA, HAYLA](https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO)
-- [Drinkin&#39; by Joel Corry, MK, Rita Ora](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
