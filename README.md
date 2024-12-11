@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[valeriansaliou/vigil](https://github.com/valeriansaliou/vigil)** - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). (1 day ago)
-- **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (3 days ago)
-- **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (5 days ago)
+- **[valeriansaliou/vigil](https://github.com/valeriansaliou/vigil)** - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). (2 days ago)
+- **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (4 days ago)
+- **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (6 days ago)
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Was It Even Real by Piece Wise, Eijk](https://open.spotify.com/track/2NEWBybTTWrEvb7NDhCF8s)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
-- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
-- [The Feeling by Lost Frequencies, Bonn](https://open.spotify.com/track/25jTLospI6eYVZ5TDDQN7V)
-- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [Havana by Artesa, Goodscandal, Jasmine Crowe](https://open.spotify.com/track/6cYYc1WoJJwIQMXxEqLiYF)
+- [Riplay by Erlando, Momentöm](https://open.spotify.com/track/1yOLPaHFwHydAgjz02mHgj)
+- [My Call by Benedict Ammann](https://open.spotify.com/track/4z1YZVx4MgDCAV7ic6CfHw)
+- [Chase The Sun by Xiam, Rukid, Donner](https://open.spotify.com/track/0iydBOqwHjGPOE2OWBgIFA)
+- [Don&#39;t Worry by Androma](https://open.spotify.com/track/70cYue5as0ZpC2sspqtii8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
