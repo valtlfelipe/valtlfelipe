@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
 
 #### 🎧 What I have been listening
+- [Summer flower by Petrossi](https://open.spotify.com/track/1FZ8DbYXBExoMZpVYlILR1)
 - [Supine by P.A.V](https://open.spotify.com/track/1X8IcPJgn8FVCEuV3qVR2p)
 - [Fallen Angel by Wolfgang Laux](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d)
 - [Bored by Chairten](https://open.spotify.com/track/0zsaCI7LPbR48ws0Yc1ckc)
 - [Secret Chords by Dove Tales](https://open.spotify.com/track/6z1z86T1wK9fFSIZiHb55Q)
-- [Clarity by Dan Awy](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
