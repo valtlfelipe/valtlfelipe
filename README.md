@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[valeriansaliou/vigil](https://github.com/valeriansaliou/vigil)** - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). (2 days ago)
-- **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (4 days ago)
-- **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (6 days ago)
+- **[valeriansaliou/vigil](https://github.com/valeriansaliou/vigil)** - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). (3 days ago)
+- **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (5 days ago)
+- **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
-- **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (1 week ago)
+- **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Always Forever by Dance Yourself Clean, Back Talk](https://open.spotify.com/track/1MkL699XjG9oXs2TmxuNus)
-- [Your Body on Me by Namté, A27C, Miza](https://open.spotify.com/track/1uN6442j0JiB8cvTsMnEyP)
-- [Make You Believe by Nander, Daniel McMillan](https://open.spotify.com/track/4fQsM7rsNigzn96xfmxIoo)
-- [Shallow Walls by LJ MASE, Skyknock, Jessie Lee Thetford](https://open.spotify.com/track/0pQ2qWfc6iGbdTUvEieR3u)
-- [Riplay by Erlando, Momentöm](https://open.spotify.com/track/1yOLPaHFwHydAgjz02mHgj)
+- [Moon by Safe Tock](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb)
+- [Beautiful Mistakes by Maurice Mills](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z)
+- [Again again by Modern Clouds](https://open.spotify.com/track/7siaBvEhAnrEg27iXp2btt)
+- [Let It Out by [felt&amp;key]](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r)
+- [Midnight Feelings by Nounours](https://open.spotify.com/track/7aXPP2PcgYed5TYEC0JHIF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
