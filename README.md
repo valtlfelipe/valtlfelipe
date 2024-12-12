@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Yes I&#39;m A Mess by AJR](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT)
-- [Love Somebody by Morgan Wallen](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo)
-- [Murder On The Dancefloor by Sophie Ellis-Bextor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)
-- [Miles On It by Marshmello, Kane Brown](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf)
-- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
+- [Someone To You by BANNERS](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr)
+- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
+- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
+- [greedy by Tate McRae](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)
+- [Lil Boo Thang by Paul Russell](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
