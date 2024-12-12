@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Bye Bye Bye by Dasha](https://open.spotify.com/track/2hLIuS8Izy0qxhD5TZE9JS)
-- [Back On 74 by Jungle](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO)
-- [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
-- [feelslikeimfallinginlove - Single Version by Coldplay](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea)
-- [I Forgive You - (Chromeo Remix) [radio edit] by Sia, Chromeo](https://open.spotify.com/track/0Y64ssHAJXR643zEnC3R2O)
+- [Restart The Sun by Robo Rat](https://open.spotify.com/track/3gvLr8fEhn74EU2LArj5wN)
+- [Cloud Rotation by Lostlow](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA)
+- [Moon by Safe Tock](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb)
+- [TEXAS HOLD &#39;EM by Beyoncé](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5)
+- [Moon by Safe Tock](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
