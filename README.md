@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [locking lips by Manic Twister](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW)
+- [Beaches by Paul Rietz](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG)
+- [The Walking Lights by MC Baptiste](https://open.spotify.com/track/1YA6h3296OZrrdVC7Fz1in)
+- [Summersome by Damian Holden](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G)
 - [Moon by Safe Tock](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb)
-- [Beautiful Mistakes by Maurice Mills](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z)
-- [Again again by Modern Clouds](https://open.spotify.com/track/7siaBvEhAnrEg27iXp2btt)
-- [Let It Out by [felt&amp;key]](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r)
-- [Midnight Feelings by Nounours](https://open.spotify.com/track/7aXPP2PcgYed5TYEC0JHIF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
