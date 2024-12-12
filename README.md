@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX)** - Voilà, install macOS on ANY Computer! This is really and magic easiest way! (today)
 - **[valeriansaliou/vigil](https://github.com/valeriansaliou/vigil)** - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). (3 days ago)
 - **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (5 days ago)
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
-- **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Pool Crew by Rick Groove](https://open.spotify.com/track/1xO9Aph2qWNtGiun0JwhLR)
-- [Palm Beach by Blissmo](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh)
-- [Back Home by Pascal Marcel](https://open.spotify.com/track/351rejqsz5uECQ7w1mI9dv)
-- [Alright - Instrumental by LUXXURY](https://open.spotify.com/track/7vgJUNJWIrKhH2WXdWHaXc)
-- [Carte blanche by Sennhofer](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5)
+- [Spirit Lovers by Snowman vs](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil)
+- [Souped Up by Jobii](https://open.spotify.com/track/7r3eqnO0ZHi0l9JFZyYRs8)
+- [Freefall by Terminal Grooves](https://open.spotify.com/track/70jLx2QvLoHz4xrQwJA282)
+- [Maraschino Cherry by Trausch](https://open.spotify.com/track/5x7yKdw07UdQ6N6SlCuuFN)
+- [shade by roumr](https://open.spotify.com/track/4EzccXrr8ipyRhOvCoB2xE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
