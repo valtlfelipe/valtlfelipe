@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Pictures by Urban Curls](https://open.spotify.com/track/1rjsmzE5H51NhkH4W9Iwie)
-- [Beau by Cámille](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni)
-- [Fifteen by Beau Vallon](https://open.spotify.com/track/2dhziN5G456z3P2J4inmH1)
-- [Melange by under.tone](https://open.spotify.com/track/7D4jtoVKo69jCz2cgkabG8)
-- [Naxos Sunset by Pink Villa](https://open.spotify.com/track/0qriqL4uIcM7tSRvd2nsbF)
+- [belize by Greene Labyrinth](https://open.spotify.com/track/0P6FeyjuEGafG0cgk8TmVF)
+- [slowly by sugar namnam](https://open.spotify.com/track/0QEuW7A76GbRL5RDochQUb)
+- [Symbios by Floral Gloam](https://open.spotify.com/track/6XLqfDYv8a9H0aoWX348L7)
+- [Waves by Gabriel Morais Jr, Ayla Nova](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM)
+- [floatation by Hayzei](https://open.spotify.com/track/4olfg6tcZF9AZPbIKn4CKj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
