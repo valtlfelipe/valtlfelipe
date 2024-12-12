@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Someone To You by BANNERS](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr)
-- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
-- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
-- [greedy by Tate McRae](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)
-- [Lil Boo Thang by Paul Russell](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3)
+- [Bye Bye Bye by Dasha](https://open.spotify.com/track/2hLIuS8Izy0qxhD5TZE9JS)
+- [Back On 74 by Jungle](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO)
+- [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
+- [feelslikeimfallinginlove - Single Version by Coldplay](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea)
+- [I Forgive You - (Chromeo Remix) [radio edit] by Sia, Chromeo](https://open.spotify.com/track/0Y64ssHAJXR643zEnC3R2O)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
