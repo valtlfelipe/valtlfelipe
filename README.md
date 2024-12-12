@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
 
 #### 🎧 What I have been listening
-- [belize by Greene Labyrinth](https://open.spotify.com/track/0P6FeyjuEGafG0cgk8TmVF)
-- [slowly by sugar namnam](https://open.spotify.com/track/0QEuW7A76GbRL5RDochQUb)
-- [Symbios by Floral Gloam](https://open.spotify.com/track/6XLqfDYv8a9H0aoWX348L7)
-- [Waves by Gabriel Morais Jr, Ayla Nova](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM)
-- [floatation by Hayzei](https://open.spotify.com/track/4olfg6tcZF9AZPbIKn4CKj)
+- [Yes I&#39;m A Mess by AJR](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT)
+- [Love Somebody by Morgan Wallen](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo)
+- [Murder On The Dancefloor by Sophie Ellis-Bextor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)
+- [Miles On It by Marshmello, Kane Brown](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf)
+- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
