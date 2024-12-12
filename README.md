@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[triyanox/lla](https://github.com/triyanox/lla)** - blazing fast `ls` replacement with superpowers (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [locking lips by Manic Twister](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW)
-- [Beaches by Paul Rietz](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG)
-- [The Walking Lights by MC Baptiste](https://open.spotify.com/track/1YA6h3296OZrrdVC7Fz1in)
-- [Summersome by Damian Holden](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G)
-- [Moon by Safe Tock](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb)
+- [Pool Crew by Rick Groove](https://open.spotify.com/track/1xO9Aph2qWNtGiun0JwhLR)
+- [Palm Beach by Blissmo](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh)
+- [Back Home by Pascal Marcel](https://open.spotify.com/track/351rejqsz5uECQ7w1mI9dv)
+- [Alright - Instrumental by LUXXURY](https://open.spotify.com/track/7vgJUNJWIrKhH2WXdWHaXc)
+- [Carte blanche by Sennhofer](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
