@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Spirit Lovers by Snowman vs](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil)
-- [Souped Up by Jobii](https://open.spotify.com/track/7r3eqnO0ZHi0l9JFZyYRs8)
-- [Freefall by Terminal Grooves](https://open.spotify.com/track/70jLx2QvLoHz4xrQwJA282)
-- [Maraschino Cherry by Trausch](https://open.spotify.com/track/5x7yKdw07UdQ6N6SlCuuFN)
-- [shade by roumr](https://open.spotify.com/track/4EzccXrr8ipyRhOvCoB2xE)
+- [Supine by P.A.V](https://open.spotify.com/track/1X8IcPJgn8FVCEuV3qVR2p)
+- [Fallen Angel by Wolfgang Laux](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d)
+- [Bored by Chairten](https://open.spotify.com/track/0zsaCI7LPbR48ws0Yc1ckc)
+- [Secret Chords by Dove Tales](https://open.spotify.com/track/6z1z86T1wK9fFSIZiHb55Q)
+- [Clarity by Dan Awy](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
