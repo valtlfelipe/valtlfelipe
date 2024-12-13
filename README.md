@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Always There by Weston &amp; Teston, Belle Gent](https://open.spotify.com/track/6dEWV1RKUaAyAlHTGkeFGr)
-- [Promises by Eauki](https://open.spotify.com/track/7HNzUtyXHKuNC7Dnr5jZm8)
-- [I&#39;m Good (Blue) - R3HAB Remix by David Guetta, Bebe Rexha, R3HAB](https://open.spotify.com/track/4NPJY8yFbu6YpgsgsKiEu1)
-- [Get with Me by Afgo](https://open.spotify.com/track/4u5xFwCYnQilZBeOMFXTGh)
-- [I Remember - John Summit Remix by deadmau5, Kaskade, John Summit](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz)
+- [Love You So by Manuel Varey](https://open.spotify.com/track/3wILe1tPSi2yYpgptC9tyj)
+- [Happiness (feat. MOGUAI &amp; ILIRA) - Max Bering Remix by Tomcraft, Max Bering, ILIRA, MOGUAI](https://open.spotify.com/track/4Jst8JcUVEYWB33Ifu6Xjv)
+- [I Can&#39;t Get Nothing - Radio by Tiko&#39;s Groove, Gosha](https://open.spotify.com/track/2loRALVpIwCGPgqykI6tPQ)
+- [Leave The Door Open by Bruno Mars, Anderson .Paak, Silk Sonic](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T)
+- [El Incomprendido by Farruko, Victor Cardenas, Dj Adoni](https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
