@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
 - [Give It To Me by Mike Conville](https://open.spotify.com/track/06PdXgb9liL0yZRRMrhGx3)
 - [Ecletric by EDX](https://open.spotify.com/track/779p7HaX7hYS0irMq30kIy)
 - [BED - KREAM Remix by Joel Corry, RAYE, David Guetta, KREAM](https://open.spotify.com/track/00XEHO3SunmqxXLVFbaN1u)
-- [Impossible (feat. John Martin) by David Guetta, MORTEN, John Martin](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y)
-- [Your Call (Adore You) by Joe Kox, Wace](https://open.spotify.com/track/6SPAltlzw05PXwe0BFVCax)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
