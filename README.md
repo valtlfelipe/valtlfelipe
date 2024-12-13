@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [At the top by Mechagnome](https://open.spotify.com/track/1vtF91aXPgNZM9zNquwyOs)
-- [Just Waiting 4 You by Sum Wave](https://open.spotify.com/track/0VVMvXcchR5HUWRU0zefNs)
-- [You And Me by Together Alone](https://open.spotify.com/track/5PH5RpGQSZ6MXIjXU6cDDH)
-- [Generate! by Kacey View](https://open.spotify.com/track/6XAT7NrzHuFjs9laJj5E1u)
-- [Fifteen by Beau Vallon](https://open.spotify.com/track/2dhziN5G456z3P2J4inmH1)
+- [Disconnect - Tiësto Remix by Becky Hill, Chase &amp; Status, Tiësto](https://open.spotify.com/track/72SLU59ZmI3zsWUkkiOi6Q)
+- [Summer In New York - Öwnboss &amp; Fancy Inc Remix by Sofi Tukker, Öwnboss, Fancy Inc](https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE)
+- [golden hour - R3HAB Remix by JVKE, R3HAB](https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6)
+- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
