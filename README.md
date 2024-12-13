@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Disconnect - Tiësto Remix by Becky Hill, Chase &amp; Status, Tiësto](https://open.spotify.com/track/72SLU59ZmI3zsWUkkiOi6Q)
-- [Summer In New York - Öwnboss &amp; Fancy Inc Remix by Sofi Tukker, Öwnboss, Fancy Inc](https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE)
-- [golden hour - R3HAB Remix by JVKE, R3HAB](https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6)
-- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
-- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
+- [Always There by Weston &amp; Teston, Belle Gent](https://open.spotify.com/track/6dEWV1RKUaAyAlHTGkeFGr)
+- [Promises by Eauki](https://open.spotify.com/track/7HNzUtyXHKuNC7Dnr5jZm8)
+- [I&#39;m Good (Blue) - R3HAB Remix by David Guetta, Bebe Rexha, R3HAB](https://open.spotify.com/track/4NPJY8yFbu6YpgsgsKiEu1)
+- [Get with Me by Afgo](https://open.spotify.com/track/4u5xFwCYnQilZBeOMFXTGh)
+- [I Remember - John Summit Remix by deadmau5, Kaskade, John Summit](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
