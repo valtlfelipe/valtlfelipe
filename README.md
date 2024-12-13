@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Unholy (feat. Kim Petras) - Disclosure Remix by Sam Smith, Kim Petras, Disclosure](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5)
-- [Another Love - Tiësto Remix by Tom Odell, Tiësto](https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1)
-- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
-- [Satisfaction by David Guetta, Benny Benassi](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo)
-- [About Damn Time - Purple Disco Machine Remix by Lizzo, Purple Disco Machine](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI)
+- [Drive (feat. Wes Nelson) - Topic VIP Remix by Clean Bandit, Topic, Wes Nelson](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO)
+- [In the Dark (Oliver Heldens Remix) by Purple Disco Machine, Sophie and the Giants, Oliver Heldens](https://open.spotify.com/track/6ve6SoRuWVZ9kBP1frZTW1)
+- [Unstoppable - R3HAB Remix by Sia, R3HAB](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq)
+- [It&#39;s ok I&#39;m ok - Ian Asher remix by Tate McRae, Ian Asher](https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK)
+- [Hide Away - Alan Walker Remix by Daya, Alan Walker](https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
