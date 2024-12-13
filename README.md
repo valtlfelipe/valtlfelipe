@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Ava by JKP](https://open.spotify.com/track/2kn1atk4btnbIjakw1pJnY)
-- [Akacia by Nima Junior](https://open.spotify.com/track/7stPv7cEDdfUlRxu7VpXDR)
-- [Rainfall by Purple Smog](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2)
-- [past and present by Landayn](https://open.spotify.com/track/5hF3YXq3lrW3QnloXeaIxI)
-- [Beatin&#39; Hearts by David Kuro](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS)
+- [sunny day dreaming by Twiggy Fiz](https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV)
+- [Hazy by Sihu](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb)
+- [snoozed by lilibu](https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn)
+- [lille dyp by Cozy Nordic](https://open.spotify.com/track/3QXdIjTThCZP2r2ed3XEiZ)
+- [Glum Look by drawn animal](https://open.spotify.com/track/4ZbgM8IdNDQ1G9atMLvKBf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
