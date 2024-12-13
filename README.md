@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
+- [A Moment Away by Slowheal](https://open.spotify.com/track/4Je74aqRXHa2XlTQqg2obW)
 - [Amor by Spatio](https://open.spotify.com/track/6qGSRmZ9Z8F5AXIARsWmFp)
 - [Cozumel by Hello Papyrus](https://open.spotify.com/track/5ZpQBYi5KcVADcUCjTSrgY)
 - [The Best Part of Life - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel)
 - [Cozumel by Hello Papyrus](https://open.spotify.com/track/5ZpQBYi5KcVADcUCjTSrgY)
-- [Tattoo - Topic Remix by Loreen, Topic](https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
