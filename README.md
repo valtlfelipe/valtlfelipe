@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX)** - Voilà, install macOS on ANY Computer! This is really and magic easiest way! (today)
-- **[valeriansaliou/vigil](https://github.com/valeriansaliou/vigil)** - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). (3 days ago)
-- **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (5 days ago)
+- **[luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX)** - Voilà, install macOS on ANY Computer! This is really and magic easiest way! (1 day ago)
+- **[valeriansaliou/vigil](https://github.com/valeriansaliou/vigil)** - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). (4 days ago)
+- **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (6 days ago)
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 - **[unjs/unpdf](https://github.com/unjs/unpdf)** - 📄 Utilities to work with PDFs in Node.js, browser and workers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Restart The Sun by Robo Rat](https://open.spotify.com/track/3gvLr8fEhn74EU2LArj5wN)
-- [Cloud Rotation by Lostlow](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA)
-- [Moon by Safe Tock](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb)
-- [TEXAS HOLD &#39;EM by Beyoncé](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5)
-- [Moon by Safe Tock](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb)
+- [Beatin&#39; Hearts by David Kuro](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS)
+- [Shimmer by David Dumeau](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4)
+- [Ava by JKP](https://open.spotify.com/track/2kn1atk4btnbIjakw1pJnY)
+- [Akacia by Nima Junior](https://open.spotify.com/track/7stPv7cEDdfUlRxu7VpXDR)
+- [Rainfall by Purple Smog](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
