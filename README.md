@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Hold Me Closer - Joel Corry Remix by Elton John, Britney Spears, Joel Corry](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl)
+- [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
+- [Escape - John Summit Remix by deadmau5, Kaskade, Kx5, HAYLA, John Summit](https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE)
 - [Numb - Alok Remix by Marshmello, Khalid, Alok](https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag)
 - [Steal My Clothes (ft. Bea Miller) – LP Giobbi Remix by Kito, Bea Miller, LP Giobbi](https://open.spotify.com/track/6Esm09YZlCd58xR08xT021)
-- [Drive (feat. Wes Nelson) - Topic VIP Remix by Clean Bandit, Topic, Wes Nelson](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO)
-- [Whatever (with Ava Max) - Tiësto Remix by Kygo, Tiësto](https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO)
-- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
