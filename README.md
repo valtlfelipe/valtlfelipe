@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5vVND8Mey78LZaljL8Nmpd)
-- [Moth To A Flame (feat. The Weeknd) - Adriatique Remix by Swedish House Mafia, Adriatique, The Weeknd](https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID)
-- [Memories (feat. Kid Cudi) - 2021 Remix by David Guetta, Kid Cudi](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa)
-- [Espresso - Mark Ronson x FNZ Working Later Remix by Sabrina Carpenter, Mark Ronson, FNZ](https://open.spotify.com/track/03duS4fiU5jSVOZFR7TTQa)
-- [Fantasy - Alex Chapman Remix by JADE, Alex Chapman](https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT)
+- [End Of Time - Justin Caruso Remix by Zara Larsson, Justin Caruso](https://open.spotify.com/track/1H0VkrtSnxCJKbqUhvwxds)
+- [Waiting for Tonight - Radio Edit by Jennifer Lopez, FISHER](https://open.spotify.com/track/5GHVp2CCufZ8MJzYE82W7R)
+- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
+- [Can&#39;t Tame Her - VIZE Remix by Zara Larsson, VIZE](https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK)
+- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
