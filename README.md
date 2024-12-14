@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Numb - Alok Remix by Marshmello, Khalid, Alok](https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag)
+- [Steal My Clothes (ft. Bea Miller) – LP Giobbi Remix by Kito, Bea Miller, LP Giobbi](https://open.spotify.com/track/6Esm09YZlCd58xR08xT021)
+- [Drive (feat. Wes Nelson) - Topic VIP Remix by Clean Bandit, Topic, Wes Nelson](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO)
+- [Whatever (with Ava Max) - Tiësto Remix by Kygo, Tiësto](https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO)
 - [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
-- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
-- [The Best Part of Life - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel)
-- [Fantasy - Alex Chapman Remix by JADE, Alex Chapman](https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT)
-- [Head Underwater - James Carter Remix by Tom Walker, James Carter](https://open.spotify.com/track/35KLXf3DxBlFM5DJsXMVi2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
