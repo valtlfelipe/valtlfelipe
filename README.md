@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [End Of Time - Justin Caruso Remix by Zara Larsson, Justin Caruso](https://open.spotify.com/track/1H0VkrtSnxCJKbqUhvwxds)
-- [Waiting for Tonight - Radio Edit by Jennifer Lopez, FISHER](https://open.spotify.com/track/5GHVp2CCufZ8MJzYE82W7R)
-- [Stay High by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu)
-- [Can&#39;t Tame Her - VIZE Remix by Zara Larsson, VIZE](https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK)
-- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
+- [Show Me Love - Dubdogz Remix by Steve Angello, Laidback Luke, Robin S, Dubdogz](https://open.spotify.com/track/5QH3sjtAIJmeUiVuwDOjui)
+- [Cruel Summer - LP Giobbi Remix by Taylor Swift, LP Giobbi](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS)
+- [Lose You - Felix Jaehn Remix by Sam Smith, Felix Jaehn](https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC)
+- [Do It To It - Tiësto Remix by ACRAZE, Tiësto, Cherish](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC)
+- [golden hour - R3HAB Remix by JVKE, R3HAB](https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
