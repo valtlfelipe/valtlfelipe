@@ -13,10 +13,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 
 #### 🎧 What I have been listening
 - [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
-- [Give It To Me by Mike Conville](https://open.spotify.com/track/06PdXgb9liL0yZRRMrhGx3)
-- [Ecletric by EDX](https://open.spotify.com/track/779p7HaX7hYS0irMq30kIy)
-- [BED - KREAM Remix by Joel Corry, RAYE, David Guetta, KREAM](https://open.spotify.com/track/00XEHO3SunmqxXLVFbaN1u)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [The Best Part of Life - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel)
+- [Fantasy - Alex Chapman Remix by JADE, Alex Chapman](https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT)
+- [Head Underwater - James Carter Remix by Tom Walker, James Carter](https://open.spotify.com/track/35KLXf3DxBlFM5DJsXMVi2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
