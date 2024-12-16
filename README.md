@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (1 week ago)
 
 #### 🎧 What I have been listening
-- [Backwards by NM](https://open.spotify.com/track/5QnWmkGSkUc2XwKdEjmqbN)
-- [Harder We Fall by SOMMA, YUMA, Austin Tate](https://open.spotify.com/track/675ENLQoyLkIzEGHm5FAqe)
-- [Infected by Jack Wins, Thando, Anton Karskiy, Billy Vena](https://open.spotify.com/track/7HCH8oqXmXCnYXDleGlJFP)
-- [Echo by RSCL, Repiet, Julia Kleijn](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj)
-- [Lie by BRETSN, SANDMO](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP)
+- [Give Me Your Love by LEDUC](https://open.spotify.com/track/2ftN0Aikomqttb2hBJUHSW)
+- [Lost by P.A.V](https://open.spotify.com/track/6LEKH1SVLSEodlxitgKDdU)
+- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
+- [Exhale by T. Matthias, Alimish](https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1)
+- [Tell Me by James Carter, Hanne Mjøen](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
