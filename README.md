@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (1 week ago)
 
 #### 🎧 What I have been listening
-- [Rose by Lynhare](https://open.spotify.com/track/5yP9ufq8O8etVdAHenggTa)
-- [King Of My Castle by P.A.V](https://open.spotify.com/track/5LxyquGewR6aslYfqXfW24)
-- [Born to Be Free by Ruffnux](https://open.spotify.com/track/1SG8N1R6jboiXkfboZGxVX)
-- [Everywhere - Lipless Remix by Babsy., Lipless](https://open.spotify.com/track/0w08yeRtEZs3HKdm4tNGyB)
-- [L.O.V.E. by Sparkee](https://open.spotify.com/track/0tpB8I0piqYRYVw5gbuQQa)
+- [Felt A Little Like by James Carter, Dillistone, Tiffany Aris](https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv)
+- [Out Of Touch - 71 Digits Edit by Madison Mars, 71 Digits](https://open.spotify.com/track/3Uxp6uik4XcT6LGIv8mKNe)
+- [Goosebumps by Astrality](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz)
+- [Not the Same by Munch, DVNB, ENLIV3N](https://open.spotify.com/track/5gXcMNe5uyrEZ2k6fDAdux)
+- [Miss Me by James Lacey](https://open.spotify.com/track/4JxzD8bVc773ErFw7Wl2C8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
