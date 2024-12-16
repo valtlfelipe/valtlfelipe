@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[outerbase/studio](https://github.com/outerbase/studio)** - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Knee Deep by Yanoy](https://open.spotify.com/track/5uGCy8uJgJxZnMzYRgpbad)
-- [Clocks by Ian Storm, Ron van den Beuken](https://open.spotify.com/track/4mq1W0OS7QnbZxQTkBq5XS)
-- [Free by Quarterhead](https://open.spotify.com/track/7e50aVJ3Zpgrk1cpM9Rg3P)
-- [Praising You (feat. Fatboy Slim) by Rita Ora, Fatboy Slim](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD)
-- [Skin and Bones - MEDUZA REMIX by David Kushner, MEDUZA](https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO)
+- [You Got The Love (feat. Eirik Næss) by Rolipso, Yann Muller, Foínix, Eirik Næss](https://open.spotify.com/track/26GJ5EQmQX0vRALciyJAj6)
+- [On &amp; On by Ferreck Dawn, Mila Falls](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me)
+- [The Time Is Now by P.A.V](https://open.spotify.com/track/7CImbCFyj3mMlwXxXxd8wB)
+- [Where did you go by AVAION, MAGNUS](https://open.spotify.com/track/2jw3MwD32xBNUnORMzQaFW)
+- [Winner Loser by Blaikz, Bastiqe, Lena Sue](https://open.spotify.com/track/3FyW4SEaHvMCINhZMMADoS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
