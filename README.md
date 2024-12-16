@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (1 week ago)
 
 #### 🎧 What I have been listening
-- [Belong by Astrality, soleil, Kleeve](https://open.spotify.com/track/5LcGjaGobr1U6bsl6qpuWi)
-- [Lucky Star by Sol Novaro, ROBINS](https://open.spotify.com/track/0FPs72GvFCFu2sJD5eZkoJ)
-- [Searching All Around by Coffee Cub](https://open.spotify.com/track/2T3r3RYm4JgH6FOdz6GdcW)
-- [Doubts by SANDMO, Bad Space](https://open.spotify.com/track/2exyWQrACuTVnLCWBX3dnP)
-- [Catch Another Tide by Thierry Von Der Warth, NSH](https://open.spotify.com/track/6VvUHvbrWKrVvlndasAAgv)
+- [My Lovin&#39; by GAMPER &amp; DADONI](https://open.spotify.com/track/2hSGBHKZgOjWaPckW4mVf9)
+- [On Me by Van Herpen, Marcus Mollyhus](https://open.spotify.com/track/3Zulg2rc8paEiKWLIs3TYD)
+- [Supersonic Love Machine by Dominic Neill](https://open.spotify.com/track/4g1xfULjahCaRBJDtt8z7H)
+- [Summer Jam by MrRevillz](https://open.spotify.com/track/3jJPgRFMBVzt7Ny5AB4U0C)
+- [Fairytale by Last Sun](https://open.spotify.com/track/3dlwhEZtSg1PKtGY22J1Pm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
