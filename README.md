@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (1 week ago)
 
 #### 🎧 What I have been listening
-- [My Lovin&#39; by GAMPER &amp; DADONI](https://open.spotify.com/track/2hSGBHKZgOjWaPckW4mVf9)
-- [On Me by Van Herpen, Marcus Mollyhus](https://open.spotify.com/track/3Zulg2rc8paEiKWLIs3TYD)
-- [Supersonic Love Machine by Dominic Neill](https://open.spotify.com/track/4g1xfULjahCaRBJDtt8z7H)
-- [Summer Jam by MrRevillz](https://open.spotify.com/track/3jJPgRFMBVzt7Ny5AB4U0C)
-- [Fairytale by Last Sun](https://open.spotify.com/track/3dlwhEZtSg1PKtGY22J1Pm)
+- [Rose by Lynhare](https://open.spotify.com/track/5yP9ufq8O8etVdAHenggTa)
+- [King Of My Castle by P.A.V](https://open.spotify.com/track/5LxyquGewR6aslYfqXfW24)
+- [Born to Be Free by Ruffnux](https://open.spotify.com/track/1SG8N1R6jboiXkfboZGxVX)
+- [Everywhere - Lipless Remix by Babsy., Lipless](https://open.spotify.com/track/0w08yeRtEZs3HKdm4tNGyB)
+- [L.O.V.E. by Sparkee](https://open.spotify.com/track/0tpB8I0piqYRYVw5gbuQQa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
