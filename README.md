@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (1 week ago)
 
 #### 🎧 What I have been listening
-- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
-- [You Got My Heart by Pia De Maio](https://open.spotify.com/track/2kmSwXQQnWNoVIR1Y5GfaJ)
-- [Refuse You by Lavern](https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W)
-- [Midnight Zone by Astrality, TAPE ANGEL](https://open.spotify.com/track/6iDQi093BFCGouVa3uXpOu)
+- [Belong by Astrality, soleil, Kleeve](https://open.spotify.com/track/5LcGjaGobr1U6bsl6qpuWi)
+- [Lucky Star by Sol Novaro, ROBINS](https://open.spotify.com/track/0FPs72GvFCFu2sJD5eZkoJ)
+- [Searching All Around by Coffee Cub](https://open.spotify.com/track/2T3r3RYm4JgH6FOdz6GdcW)
+- [Doubts by SANDMO, Bad Space](https://open.spotify.com/track/2exyWQrACuTVnLCWBX3dnP)
+- [Catch Another Tide by Thierry Von Der Warth, NSH](https://open.spotify.com/track/6VvUHvbrWKrVvlndasAAgv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
