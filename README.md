@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[danielroe/unsight.dev](https://github.com/danielroe/unsight.dev)** - Detect duplicate GitHub issues, areas of concern and more across related repositories. (today)
 
 #### 🎧 What I have been listening
+- [King by TWOPILOTS](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib)
+- [Make Me Say - Radio version by Robert Burian, Phil Phauler](https://open.spotify.com/track/1hp02IGQQnjTKQXKJ2Jyri)
+- [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
 - [Sunset Sessions Part 2 by Tobÿ](https://open.spotify.com/track/1JT1l1FgOFV9UHviYSqNTG)
 - [Do Better by Peer Pressure, Adam Juhl](https://open.spotify.com/track/6zE3rbRVckLRIb0zjROQST)
-- [Let Me by NM](https://open.spotify.com/track/66QloDH5jaLn8XCdGho93Z)
-- [Never Leave Me by le moon](https://open.spotify.com/track/298a8yUCkHFx17QFXcSrws)
-- [Shooting Star by Jazzy](https://open.spotify.com/track/4xXJQUEc3lE3W8cgwgMBdW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
