@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)** - A Kubernetes Query Language (1 day ago)
 
 #### 🎧 What I have been listening
-- [You Got The Love (feat. Eirik Næss) by Rolipso, Yann Muller, Foínix, Eirik Næss](https://open.spotify.com/track/26GJ5EQmQX0vRALciyJAj6)
-- [Miami (Majestic Remix) [feat. Nile Rodgers] by Lola Audreys, Nile Rodgers, Majestic](https://open.spotify.com/track/1s3dWckcSSRVdsXCxeMe8d)
-- [Que Pasa by KIRE](https://open.spotify.com/track/1f4InXEVAz3D4zI9ZpyN4t)
-- [Free by Quarterhead](https://open.spotify.com/track/7e50aVJ3Zpgrk1cpM9Rg3P)
-- [On &amp; On by Ferreck Dawn, Mila Falls](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me)
+- [Doubts by SANDMO, Bad Space](https://open.spotify.com/track/2exyWQrACuTVnLCWBX3dnP)
+- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
+- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [Backwards by NM](https://open.spotify.com/track/5QnWmkGSkUc2XwKdEjmqbN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
