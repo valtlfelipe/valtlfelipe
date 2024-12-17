@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)** - A Kubernetes Query Language (1 day ago)
 
 #### 🎧 What I have been listening
+- [Only U by Boone](https://open.spotify.com/track/1WWAM74w7LVWSsMkSbUDEo)
+- [New Day by MOGUAI, Nora Van Elken, Lohrasp Kansara, Norman Alexander](https://open.spotify.com/track/2n8yOaDVFqtuUIzUzNHeKC)
+- [Little Lies by GoldFish](https://open.spotify.com/track/56f7rAwNVbANZjLvWqiQE0)
 - [Where did you go by AVAION, MAGNUS](https://open.spotify.com/track/2jw3MwD32xBNUnORMzQaFW)
 - [Waterfall by Box of Beats](https://open.spotify.com/track/41GYbavIzT40tJD7uTIvoj)
-- [Last Time by Delove](https://open.spotify.com/track/2XVRYYtsb5yyx4LAoN7mDK)
-- [Take Me Up - Erlando Remode by Ri:play, Erlando](https://open.spotify.com/track/0Afuj6VBXU7jF305477tY6)
-- [7 Years by Noa Hope, Josh Dreon](https://open.spotify.com/track/2NXsrmhjQo0beldUHv8GOI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
