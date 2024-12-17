@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (1 week ago)
 
 #### 🎧 What I have been listening
-- [Felt A Little Like by James Carter, Dillistone, Tiffany Aris](https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv)
-- [Out Of Touch - 71 Digits Edit by Madison Mars, 71 Digits](https://open.spotify.com/track/3Uxp6uik4XcT6LGIv8mKNe)
-- [Goosebumps by Astrality](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz)
-- [Not the Same by Munch, DVNB, ENLIV3N](https://open.spotify.com/track/5gXcMNe5uyrEZ2k6fDAdux)
-- [Miss Me by James Lacey](https://open.spotify.com/track/4JxzD8bVc773ErFw7Wl2C8)
+- [Back In Time by Kenan Waters, Sam Harris](https://open.spotify.com/track/3DqebCp4oPcJkaU6NMlxk6)
+- [Have Fun Forgetting About Me by Lucas Nord, Husky](https://open.spotify.com/track/532tXrhlAGohExwprUgERu)
+- [Jewels (Stuck On You) by Bastyan, Annahita](https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW)
+- [In My Head by Anthony Keyrouz, offrami](https://open.spotify.com/track/0UJ55vY4Mn8SYj6o6kWaWi)
+- [hold me now by rayn](https://open.spotify.com/track/6S2K24ezbw8PY7ALKoGxA7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
