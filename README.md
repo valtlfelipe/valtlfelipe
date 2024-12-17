@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[payloadcms/payload](https://github.com/payloadcms/payload)** - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. (today)
+- **[nodejs/corepack](https://github.com/nodejs/corepack)** - Zero-runtime-dependency package acting as bridge between Node projects and their package managers (today)
+- **[danielroe/unsight.dev](https://github.com/danielroe/unsight.dev)** - Detect duplicate GitHub issues, areas of concern and more across related repositories. (today)
 - **[AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)** - A Kubernetes Query Language (1 day ago)
 - **[lucide-icons/lucide](https://github.com/lucide-icons/lucide)** - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (4 days ago)
-- **[luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX)** - Voilà, install macOS on ANY Computer! This is really and magic easiest way! (5 days ago)
-- **[valeriansaliou/vigil](https://github.com/valeriansaliou/vigil)** - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). (1 week ago)
-- **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (1 week ago)
 
 #### 🎧 What I have been listening
-- [so far away by rayn, Senes](https://open.spotify.com/track/1Q7Xf8WCAv9ovOIYASL2Oe)
-- [Let It Bleed by SOMMA, Jamis, Leo Stannard, HIISAK](https://open.spotify.com/track/4u5KbHYUrsO5ZTfAZe9Wa1)
-- [Glad to be Alive - Deep House mix by Doppe &amp; Kokke, Justin Erinn](https://open.spotify.com/track/521AK6gXccc0r7StvAzAjN)
-- [Done To Me by Amés](https://open.spotify.com/track/5WKzeCqFA5gR6BVspkZK6t)
-- [Honesty by Paul Schulze, Able Faces, Callum George](https://open.spotify.com/track/5ZzE5vW4fTPzjLDEe6EjUU)
+- [Last Time by Delove](https://open.spotify.com/track/2XVRYYtsb5yyx4LAoN7mDK)
+- [Take Me Up - Erlando Remode by Ri:play, Erlando](https://open.spotify.com/track/0Afuj6VBXU7jF305477tY6)
+- [7 Years by Noa Hope, Josh Dreon](https://open.spotify.com/track/2NXsrmhjQo0beldUHv8GOI)
+- [Closer To You by Lucas Nord](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh)
+- [I Choose You by CHANEY](https://open.spotify.com/track/6pciypwNijdOfdZG93mZ5I)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
