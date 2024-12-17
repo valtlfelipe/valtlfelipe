@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[danielroe/unsight.dev](https://github.com/danielroe/unsight.dev)** - Detect duplicate GitHub issues, areas of concern and more across related repositories. (today)
 
 #### 🎧 What I have been listening
-- [Your Symphony (feat. Becky Smith) by GAMPER &amp; DADONI, Becky Smith](https://open.spotify.com/track/5X0LYMIqlHdODfelW1f66D)
-- [Waiting For The Sunshine by aericsn](https://open.spotify.com/track/0Hwy2zQZhUPPF4d8t0D0S6)
-- [Heart&#39;s Enigma (feat. Madeline Roose) by AL3, Madeline Roose](https://open.spotify.com/track/5WAedtb1xfu4HZwTUcBm9G)
-- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
-- [Let Go by Alex Martura](https://open.spotify.com/track/0Bary1wm0KXq4SaU5Cv1Co)
+- [Sunset Sessions Part 2 by Tobÿ](https://open.spotify.com/track/1JT1l1FgOFV9UHviYSqNTG)
+- [Do Better by Peer Pressure, Adam Juhl](https://open.spotify.com/track/6zE3rbRVckLRIb0zjROQST)
+- [Let Me by NM](https://open.spotify.com/track/66QloDH5jaLn8XCdGho93Z)
+- [Never Leave Me by le moon](https://open.spotify.com/track/298a8yUCkHFx17QFXcSrws)
+- [Shooting Star by Jazzy](https://open.spotify.com/track/4xXJQUEc3lE3W8cgwgMBdW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
