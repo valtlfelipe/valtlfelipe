@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (1 week ago)
 
 #### 🎧 What I have been listening
-- [King by TWOPILOTS](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib)
-- [Tempo by Sam Smyers, Delove](https://open.spotify.com/track/762OpuiPaIS0KOWWN8peaj)
-- [Paradise by Thierry Von Der Warth, Modi](https://open.spotify.com/track/45Q8FBzKZSIG5KsIe7VabG)
-- [This Is It by Sparkee, Liinks](https://open.spotify.com/track/7du1tQzWcxRcQB3EkBSnIf)
-- [Lose It by Peer Pressure, KITTY VALIUM](https://open.spotify.com/track/4iJRrKw7Wqbm8ocanzXBUN)
+- [so far away by rayn, Senes](https://open.spotify.com/track/1Q7Xf8WCAv9ovOIYASL2Oe)
+- [Let It Bleed by SOMMA, Jamis, Leo Stannard, HIISAK](https://open.spotify.com/track/4u5KbHYUrsO5ZTfAZe9Wa1)
+- [Glad to be Alive - Deep House mix by Doppe &amp; Kokke, Justin Erinn](https://open.spotify.com/track/521AK6gXccc0r7StvAzAjN)
+- [Done To Me by Amés](https://open.spotify.com/track/5WKzeCqFA5gR6BVspkZK6t)
+- [Honesty by Paul Schulze, Able Faces, Callum George](https://open.spotify.com/track/5ZzE5vW4fTPzjLDEe6EjUU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
