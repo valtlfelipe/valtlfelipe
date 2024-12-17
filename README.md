@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)** - A Kubernetes Query Language (1 day ago)
 
 #### 🎧 What I have been listening
-- [Doubts by SANDMO, Bad Space](https://open.spotify.com/track/2exyWQrACuTVnLCWBX3dnP)
-- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
-- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
-- [Backwards by NM](https://open.spotify.com/track/5QnWmkGSkUc2XwKdEjmqbN)
+- [Zero Gravity by Dominic Neill](https://open.spotify.com/track/4JRfQNcKrWe9rAuE2e2E0N)
+- [Walk Away by P.A.V](https://open.spotify.com/track/4nzZYDgs2sOA2DLDpyO1Ui)
+- [Harder We Fall by SOMMA, YUMA, Austin Tate](https://open.spotify.com/track/675ENLQoyLkIzEGHm5FAqe)
+- [Good Life by FAST BOY](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK)
+- [Over My Shoulder by MAGNUS, Zeli](https://open.spotify.com/track/0PZMLgwtacSHiNwAkH2A9B)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
