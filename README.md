@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)** - A Kubernetes Query Language (1 day ago)
 
 #### 🎧 What I have been listening
-- [Only U by Boone](https://open.spotify.com/track/1WWAM74w7LVWSsMkSbUDEo)
-- [New Day by MOGUAI, Nora Van Elken, Lohrasp Kansara, Norman Alexander](https://open.spotify.com/track/2n8yOaDVFqtuUIzUzNHeKC)
-- [Little Lies by GoldFish](https://open.spotify.com/track/56f7rAwNVbANZjLvWqiQE0)
-- [Where did you go by AVAION, MAGNUS](https://open.spotify.com/track/2jw3MwD32xBNUnORMzQaFW)
-- [Waterfall by Box of Beats](https://open.spotify.com/track/41GYbavIzT40tJD7uTIvoj)
+- [You Got The Love (feat. Eirik Næss) by Rolipso, Yann Muller, Foínix, Eirik Næss](https://open.spotify.com/track/26GJ5EQmQX0vRALciyJAj6)
+- [Miami (Majestic Remix) [feat. Nile Rodgers] by Lola Audreys, Nile Rodgers, Majestic](https://open.spotify.com/track/1s3dWckcSSRVdsXCxeMe8d)
+- [Que Pasa by KIRE](https://open.spotify.com/track/1f4InXEVAz3D4zI9ZpyN4t)
+- [Free by Quarterhead](https://open.spotify.com/track/7e50aVJ3Zpgrk1cpM9Rg3P)
+- [On &amp; On by Ferreck Dawn, Mila Falls](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
