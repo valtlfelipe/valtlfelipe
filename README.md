@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SupersaasHQ/essentials-lite](https://github.com/SupersaasHQ/essentials-lite)** - A minimal and simple fullstack notes app made with NuxtHub (1 week ago)
 
 #### 🎧 What I have been listening
-- [Back In Time by Kenan Waters, Sam Harris](https://open.spotify.com/track/3DqebCp4oPcJkaU6NMlxk6)
-- [Have Fun Forgetting About Me by Lucas Nord, Husky](https://open.spotify.com/track/532tXrhlAGohExwprUgERu)
-- [Jewels (Stuck On You) by Bastyan, Annahita](https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW)
-- [In My Head by Anthony Keyrouz, offrami](https://open.spotify.com/track/0UJ55vY4Mn8SYj6o6kWaWi)
-- [hold me now by rayn](https://open.spotify.com/track/6S2K24ezbw8PY7ALKoGxA7)
+- [King by TWOPILOTS](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib)
+- [Tempo by Sam Smyers, Delove](https://open.spotify.com/track/762OpuiPaIS0KOWWN8peaj)
+- [Paradise by Thierry Von Der Warth, Modi](https://open.spotify.com/track/45Q8FBzKZSIG5KsIe7VabG)
+- [This Is It by Sparkee, Liinks](https://open.spotify.com/track/7du1tQzWcxRcQB3EkBSnIf)
+- [Lose It by Peer Pressure, KITTY VALIUM](https://open.spotify.com/track/4iJRrKw7Wqbm8ocanzXBUN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
