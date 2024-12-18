@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli)** - Automatically capture and surface your team&#39;s tribal knowledge (1 day ago)
 
 #### 🎧 What I have been listening
+- [Like That by Lane Boy, LissA](https://open.spotify.com/track/452IPXUtixq2BXVPxsUtHh)
+- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
+- [Hold Me Back by Jason Wats, Claudia Yang](https://open.spotify.com/track/5O4vsXjQ6P0A5Z8ev76MKg)
 - [Little Lies by GoldFish](https://open.spotify.com/track/56f7rAwNVbANZjLvWqiQE0)
 - [I Choose You by CHANEY](https://open.spotify.com/track/6pciypwNijdOfdZG93mZ5I)
-- [I&#39;ve Got The Feeling by Bannie, broke](https://open.spotify.com/track/3d0MXpx0Rm6AKohySUfudA)
-- [clocks by rayn, cloudseven, MELINA](https://open.spotify.com/track/1XYblIVQWnsc0BjTsOiKSV)
-- [All I Care by ROOSTERJAXX](https://open.spotify.com/track/4HyZnGKV3SKCJtEOnnigng)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
