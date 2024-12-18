@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli)** - Automatically capture and surface your team&#39;s tribal knowledge (1 day ago)
 
 #### 🎧 What I have been listening
-- [Love Is Just a Game by Tom Ferry, JONA XX, Sarah Lahn](https://open.spotify.com/track/718NV3Ob8ZQNOytQfwYKSc)
-- [Remember by DRAY](https://open.spotify.com/track/39K1B9yIdTCgwm25z4GYId)
-- [Don&#39;t (Fall in Love) by Just Kiddin](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z)
-- [Chalice by Karma Child](https://open.spotify.com/track/22zuR4MWHFzc2ajWbokkPs)
-- [Not Over Yet (feat. Grace Grundy) by The Stickmen Project, Grace Grundy](https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC)
+- [Little Lies by GoldFish](https://open.spotify.com/track/56f7rAwNVbANZjLvWqiQE0)
+- [I Choose You by CHANEY](https://open.spotify.com/track/6pciypwNijdOfdZG93mZ5I)
+- [I&#39;ve Got The Feeling by Bannie, broke](https://open.spotify.com/track/3d0MXpx0Rm6AKohySUfudA)
+- [clocks by rayn, cloudseven, MELINA](https://open.spotify.com/track/1XYblIVQWnsc0BjTsOiKSV)
+- [All I Care by ROOSTERJAXX](https://open.spotify.com/track/4HyZnGKV3SKCJtEOnnigng)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
