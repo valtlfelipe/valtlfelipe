@@ -5,11 +5,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[scalar/scalar](https://github.com/scalar/scalar)** - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support (today)
-- **[getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli)** - Automatically capture and surface your team&#39;s tribal knowledge (today)
-- **[payloadcms/payload](https://github.com/payloadcms/payload)** - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. (today)
-- **[nodejs/corepack](https://github.com/nodejs/corepack)** - Zero-runtime-dependency package acting as bridge between Node projects and their package managers (today)
-- **[danielroe/unsight.dev](https://github.com/danielroe/unsight.dev)** - Detect duplicate GitHub issues, areas of concern and more across related repositories. (today)
+- **[scalar/scalar](https://github.com/scalar/scalar)** - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support (1 day ago)
+- **[getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli)** - Automatically capture and surface your team&#39;s tribal knowledge (1 day ago)
+- **[payloadcms/payload](https://github.com/payloadcms/payload)** - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. (1 day ago)
+- **[nodejs/corepack](https://github.com/nodejs/corepack)** - Zero-runtime-dependency package acting as bridge between Node projects and their package managers (1 day ago)
+- **[danielroe/unsight.dev](https://github.com/danielroe/unsight.dev)** - Detect duplicate GitHub issues, areas of concern and more across related repositories. (1 day ago)
 
 #### 🎧 What I have been listening
 - [King by TWOPILOTS](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib)
