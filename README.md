@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli)** - Automatically capture and surface your team&#39;s tribal knowledge (1 day ago)
 
 #### 🎧 What I have been listening
+- [How Deep Is My Love by TauTou](https://open.spotify.com/track/08yN1LynMDfNZvaEoXwN3M)
+- [Bonfire by Tudor](https://open.spotify.com/track/736VDbKKgjzvPOoKjjti4R)
+- [Echo by RAZZ, Karim](https://open.spotify.com/track/4JgGN5YPLx1w50O8buY1Lr)
 - [I Like You by James Lacey](https://open.spotify.com/track/44VCpf748U2ODV5EfXnjB3)
 - [Born to Be Free by Ruffnux](https://open.spotify.com/track/1SG8N1R6jboiXkfboZGxVX)
-- [If Only We Could by Cammie Robinson, Madason](https://open.spotify.com/track/5L2AN0eg1XN7SMLX5JEssj)
-- [Name of Love by Moritz Houwen](https://open.spotify.com/track/3ElbOy8W6X78ASAcV4RgTI)
-- [Like That by Lane Boy, LissA](https://open.spotify.com/track/452IPXUtixq2BXVPxsUtHh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
