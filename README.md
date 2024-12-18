@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[scalar/scalar](https://github.com/scalar/scalar)** - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support (1 day ago)
 
 #### 🎧 What I have been listening
-- [You&#39;ve Got The Love - Sistek Remix by Ethan Hodges, Sistek](https://open.spotify.com/track/6xRhFcqq4FX9b0PFZU1j43)
-- [Something Stronger - Extended by Rules, SHYA, Coldabank](https://open.spotify.com/track/15kmNeLNr4OoZSDCwbCMQf)
-- [Keep It Close by LVSN, Finn Kleffmann](https://open.spotify.com/track/7iB7HaKoeqZjv5yfVFiKZf)
-- [I Need You by NM](https://open.spotify.com/track/6ryHTSmigay3EsWre6ecpV)
-- [Persephone by MKJ, Refeci, Anna-Sophia Henry](https://open.spotify.com/track/5JHr64NGbfzD8pj8o5BQ2g)
+- [Read My Mind by Kisch, Ricci G, Ellenor](https://open.spotify.com/track/3dR5GKg1DEjHLEsVl97hu6)
+- [Smell The Roses by Survol, outset island, Gavriel](https://open.spotify.com/track/7nQ74Lp7FvDTCzmP4CXzpy)
+- [Light To My Shade by Bianco](https://open.spotify.com/track/0voWxYWxso9plBQjH5VCXE)
+- [A Feeling by Hyzteria, XIRA](https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu)
+- [City Lights by Nexeri](https://open.spotify.com/track/0lLZqrmmByKy6zaYW2nblI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
