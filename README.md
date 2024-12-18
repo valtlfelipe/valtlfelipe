@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[scalar/scalar](https://github.com/scalar/scalar)** - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support (1 day ago)
 
 #### 🎧 What I have been listening
-- [Read My Mind by Kisch, Ricci G, Ellenor](https://open.spotify.com/track/3dR5GKg1DEjHLEsVl97hu6)
-- [Smell The Roses by Survol, outset island, Gavriel](https://open.spotify.com/track/7nQ74Lp7FvDTCzmP4CXzpy)
-- [Light To My Shade by Bianco](https://open.spotify.com/track/0voWxYWxso9plBQjH5VCXE)
-- [A Feeling by Hyzteria, XIRA](https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu)
-- [City Lights by Nexeri](https://open.spotify.com/track/0lLZqrmmByKy6zaYW2nblI)
+- [Have Fun Forgetting About Me by Lucas Nord, Husky](https://open.spotify.com/track/532tXrhlAGohExwprUgERu)
+- [Out Of The Blue by Punctual](https://open.spotify.com/track/0JVn39lvpRCe0EZi6RMtj0)
+- [lost in space by rayn, River Atley](https://open.spotify.com/track/0NtQQnVV7G2VJBuf5zHoLt)
+- [Always and Forever by Moonsound](https://open.spotify.com/track/2CnaF3kfNKxXtAN8x9C5L8)
+- [Ready by Night Tales](https://open.spotify.com/track/6pY2fOpa9tAhEweq7R2dtS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
