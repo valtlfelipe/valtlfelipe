@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[scalar/scalar](https://github.com/scalar/scalar)** - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support (2 days ago)
 
 #### 🎧 What I have been listening
+- [Heavy by Nick Raff](https://open.spotify.com/track/0qvU7Gi8jD921pmyWGuqI6)
+- [Without Your Love (sunsets &amp; sandals Remix) by Marcus Brodowski, sunsets &amp; sandals](https://open.spotify.com/track/365FYGmERO5qk4W2AvV92P)
+- [What If I by Box of Beats](https://open.spotify.com/track/1ryzZOnwMGcFMJSEWuwPT1)
+- [Groove Guide by STVNS, MelyJones, No ExpressioN](https://open.spotify.com/track/6oX5YDpjCLooteZlDBuoeX)
 - [Better Days by Oliver Cricket](https://open.spotify.com/track/5f9t61TRxZ3ancJadJyrHm)
-- [I&#39;m Good by P.A.V](https://open.spotify.com/track/1H27IgTftbtLwK4HrdGV3x)
-- [Beautiful Day (Take Me Back) by Tobÿ, Erlando](https://open.spotify.com/track/68SdV5sBG4xsj2psJoxaHy)
-- [Give Me Love by THAT KIND](https://open.spotify.com/track/5wx8ilXSkwZ3b9btWZ4e1U)
-- [Out of Love by Jai Nova](https://open.spotify.com/track/3A6hJK3GMyaba2Xqut7KJc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
