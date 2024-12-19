@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[openauthjs/openauth](https://github.com/openauthjs/openauth)** - ▦ Universal, standards-based auth provider. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Shooting Star by Jazzy](https://open.spotify.com/track/4xXJQUEc3lE3W8cgwgMBdW)
-- [Rose by Lynhare](https://open.spotify.com/track/5yP9ufq8O8etVdAHenggTa)
-- [Listen To The Sound by Matvey Emerson, YellowLight](https://open.spotify.com/track/6Isf9LXQ5R65z35cfsjf6c)
-- [Jealous by Pascal Letoublon, IZKO, Jordan Rys](https://open.spotify.com/track/5XwBIBZIkw84eYKXQZjjrG)
-- [Loop by NM](https://open.spotify.com/track/1QHN50FGAkmhtlVzTBvLfA)
+- [Jewels (Stuck On You) by Bastyan, Annahita](https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW)
+- [Got The Love by F3DE](https://open.spotify.com/track/1LddganaIaGO4uV9BVQUFJ)
+- [Colourful by Grey Vision](https://open.spotify.com/track/2FyXyL8ovftr9BeFyjjQ5P)
+- [Make Me Say - Radio version by Robert Burian, Phil Phauler](https://open.spotify.com/track/1hp02IGQQnjTKQXKJ2Jyri)
+- [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
