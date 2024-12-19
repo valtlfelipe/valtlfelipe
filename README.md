@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[openauthjs/openauth](https://github.com/openauthjs/openauth)** - ▦ Universal, standards-based auth provider. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Doubts by SANDMO, Bad Space](https://open.spotify.com/track/2exyWQrACuTVnLCWBX3dnP)
-- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
-- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
-- [Backwards by NM](https://open.spotify.com/track/5QnWmkGSkUc2XwKdEjmqbN)
+- [Over My Shoulder by MAGNUS, Zeli](https://open.spotify.com/track/0PZMLgwtacSHiNwAkH2A9B)
+- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
+- [Forever In My Mind by Madism, LPW](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB)
+- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
+- [Single Summer by PS1, Richard Judge](https://open.spotify.com/track/4RL4c0VVOuadzz2qVcwaOd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
