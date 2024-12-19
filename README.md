@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[nuance-dev/convierto](https://github.com/nuance-dev/convierto)** - A native macOS file converter app (today)
 - **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (1 day ago)
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (1 day ago)
 - **[HugoRCD/canvas](https://github.com/HugoRCD/canvas)** - Portfolio template made with Nuxt 3, Nuxt Content and TailwindCSS (1 day ago)
 - **[openauthjs/openauth](https://github.com/openauthjs/openauth)** - ▦ Universal, standards-based auth provider. (1 day ago)
-- **[scalar/scalar](https://github.com/scalar/scalar)** - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support (2 days ago)
 
 #### 🎧 What I have been listening
-- [Heavy by Nick Raff](https://open.spotify.com/track/0qvU7Gi8jD921pmyWGuqI6)
-- [Without Your Love (sunsets &amp; sandals Remix) by Marcus Brodowski, sunsets &amp; sandals](https://open.spotify.com/track/365FYGmERO5qk4W2AvV92P)
-- [What If I by Box of Beats](https://open.spotify.com/track/1ryzZOnwMGcFMJSEWuwPT1)
-- [Groove Guide by STVNS, MelyJones, No ExpressioN](https://open.spotify.com/track/6oX5YDpjCLooteZlDBuoeX)
-- [Better Days by Oliver Cricket](https://open.spotify.com/track/5f9t61TRxZ3ancJadJyrHm)
+- [Que Pasa by KIRE](https://open.spotify.com/track/1f4InXEVAz3D4zI9ZpyN4t)
+- [Only You by Luminex, Will Knight](https://open.spotify.com/track/0IhWnj0q4RwNG1gdTixqGu)
+- [Free by Quarterhead](https://open.spotify.com/track/7e50aVJ3Zpgrk1cpM9Rg3P)
+- [On &amp; On by Ferreck Dawn, Mila Falls](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me)
+- [The Time Is Now by P.A.V](https://open.spotify.com/track/7CImbCFyj3mMlwXxXxd8wB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
