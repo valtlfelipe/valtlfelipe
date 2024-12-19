@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[openauthjs/openauth](https://github.com/openauthjs/openauth)** - ▦ Universal, standards-based auth provider. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Summer Love by Polar Notes, Tobÿ](https://open.spotify.com/track/1hzeCvQq4ODQSPt9koRac5)
-- [Dive by Taiki Nulight, Rue More](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf)
-- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
-- [Inside My Love by TWOPILOTS](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh)
-- [My Favourite Game by LVNDSCAPE](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa)
+- [Everywhere - Lipless Remix by Babsy., Lipless](https://open.spotify.com/track/0w08yeRtEZs3HKdm4tNGyB)
+- [Lose It by Peer Pressure, KITTY VALIUM](https://open.spotify.com/track/4iJRrKw7Wqbm8ocanzXBUN)
+- [Be My Lover by HALO, Nila, LEØN](https://open.spotify.com/track/2ryy9ZQqy4nQq7QGb0DMJg)
+- [Ride With Me by Zac Samuel](https://open.spotify.com/track/6CnR6eRYGYQc9bEtQeiiZR)
+- [Games by NM](https://open.spotify.com/track/3NQBnmz3PjBcZt4Cr3A5vT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
