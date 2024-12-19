@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[openauthjs/openauth](https://github.com/openauthjs/openauth)** - ▦ Universal, standards-based auth provider. (1 day ago)
 
 #### 🎧 What I have been listening
+- [Thing For You by Tone-Hype, Lena Sue](https://open.spotify.com/track/6NkBO8o6LtyK5LNCZKPle0)
+- [Do Me Like That by Brando](https://open.spotify.com/track/21Ue2abwTWwP5oVMsCHhPD)
+- [hold me now by rayn](https://open.spotify.com/track/6S2K24ezbw8PY7ALKoGxA7)
+- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
 - [Jewels (Stuck On You) by Bastyan, Annahita](https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW)
-- [Got The Love by F3DE](https://open.spotify.com/track/1LddganaIaGO4uV9BVQUFJ)
-- [Colourful by Grey Vision](https://open.spotify.com/track/2FyXyL8ovftr9BeFyjjQ5P)
-- [Make Me Say - Radio version by Robert Burian, Phil Phauler](https://open.spotify.com/track/1hp02IGQQnjTKQXKJ2Jyri)
-- [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
