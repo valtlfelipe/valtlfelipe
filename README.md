@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[openauthjs/openauth](https://github.com/openauthjs/openauth)** - ▦ Universal, standards-based auth provider. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Que Pasa by KIRE](https://open.spotify.com/track/1f4InXEVAz3D4zI9ZpyN4t)
-- [Only You by Luminex, Will Knight](https://open.spotify.com/track/0IhWnj0q4RwNG1gdTixqGu)
-- [Free by Quarterhead](https://open.spotify.com/track/7e50aVJ3Zpgrk1cpM9Rg3P)
-- [On &amp; On by Ferreck Dawn, Mila Falls](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me)
-- [The Time Is Now by P.A.V](https://open.spotify.com/track/7CImbCFyj3mMlwXxXxd8wB)
+- [Doubts by SANDMO, Bad Space](https://open.spotify.com/track/2exyWQrACuTVnLCWBX3dnP)
+- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
+- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [Backwards by NM](https://open.spotify.com/track/5QnWmkGSkUc2XwKdEjmqbN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
