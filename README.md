@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[openauthjs/openauth](https://github.com/openauthjs/openauth)** - ▦ Universal, standards-based auth provider. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Mamanuca by Naupaka](https://open.spotify.com/track/3EFMCEcsRrfDiDIEUlBgRi)
-- [Lonely Sky by Palm 3s](https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2)
-- [Voyage by UPTNS](https://open.spotify.com/track/1WfjJgjKgB1LC10hSVa3Zl)
-- [Moving by Dusty Kiko](https://open.spotify.com/track/2hM24Y2OY4vGuNTtxMrE7N)
-- [Poolside Bliss by Sinee](https://open.spotify.com/track/7Jm2p8fVd12UxlH2RHStuL)
+- [Very Simple by Hasse Hans](https://open.spotify.com/track/6mqNxdwau1QWYX7yChJSYF)
+- [Sunflower by Peqasus](https://open.spotify.com/track/0CXDewCNTSPql9OhPtLkS2)
+- [Moody by Paula Nash](https://open.spotify.com/track/6pq5fUEcDaFPjH2AqEg8Ni)
+- [tanlines by metricity](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo)
+- [Summer Starters by Co Kluin](https://open.spotify.com/track/6Mt18ydq7WJJoV0orYsejJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
