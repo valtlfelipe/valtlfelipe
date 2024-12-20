@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[HugoRCD/canvas](https://github.com/HugoRCD/canvas)** - Portfolio template made with Nuxt 3, Nuxt Content and TailwindCSS (2 days ago)
 
 #### 🎧 What I have been listening
-- [Right Direction by Bending Lights](https://open.spotify.com/track/3PQlWzST5koIKZDgKqV0Pc)
-- [Icebreaker by Thoinas](https://open.spotify.com/track/1PcsHuNrxcui7kEgX4YcZx)
-- [mirage by sir bennett](https://open.spotify.com/track/56Am5PWznL2ea3NGzyUvLy)
-- [Amalfi by Naupaka](https://open.spotify.com/track/2BfwEdLt4TWg97w6GBbyRs)
-- [Poolside Bliss by Sinee](https://open.spotify.com/track/7Jm2p8fVd12UxlH2RHStuL)
+- [Heads Up by Ori Kul](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf)
+- [Falling Faster by Niriko](https://open.spotify.com/track/3YWosF4fKAHglIoSaWUvFy)
+- [Drinks on You by André Aguado](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD)
+- [Aspects by Deeter K](https://open.spotify.com/track/1gH6zJntHHkQLLcCBjSG1H)
+- [Buller by Hula Hoops](https://open.spotify.com/track/4cKxVvow3Rd7cb6yAs7kgp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
