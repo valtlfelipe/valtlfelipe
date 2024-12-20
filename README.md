@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[openauthjs/openauth](https://github.com/openauthjs/openauth)** - ▦ Universal, standards-based auth provider. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Thing For You by Tone-Hype, Lena Sue](https://open.spotify.com/track/6NkBO8o6LtyK5LNCZKPle0)
-- [Do Me Like That by Brando](https://open.spotify.com/track/21Ue2abwTWwP5oVMsCHhPD)
-- [hold me now by rayn](https://open.spotify.com/track/6S2K24ezbw8PY7ALKoGxA7)
-- [I Need To Be by Damaui, Kat Abel](https://open.spotify.com/track/2WW9Ui0oXgDRdUfNQQUrcA)
-- [Jewels (Stuck On You) by Bastyan, Annahita](https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW)
+- [Airglow by Hibiscus](https://open.spotify.com/track/3leeQGS5ZOJRXrQ8I2juxI)
+- [Sea Shell by One Astra](https://open.spotify.com/track/6H3ohshFFru3kg6UDK8ZBD)
+- [Discovery by Chico Rocket](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8)
+- [Veesha by Parker Wilkins](https://open.spotify.com/track/40TVYUkRQ5GgLApjXOxq3O)
+- [limoncello sorbet by moe sizzle](https://open.spotify.com/track/4wL1KCrkyI3h7B3313xl9q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
