@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[HugoRCD/canvas](https://github.com/HugoRCD/canvas)** - Portfolio template made with Nuxt 3, Nuxt Content and TailwindCSS (2 days ago)
 
 #### 🎧 What I have been listening
-- [deep feelings by Jaake Alsonn](https://open.spotify.com/track/4uaWcSrz1nadAGAMxBMBwv)
-- [Antibes (Edit) by Leo Lemón](https://open.spotify.com/track/5hqXlyEW2t0pGCLwyv6VZP)
-- [Gran Via by Sobbel Sosch](https://open.spotify.com/track/00Ed3O2Ru8G51Pli1tg0Ue)
-- [Couture by Sobbel Sosch](https://open.spotify.com/track/3NgwLME9POEkZAQGrJSjE7)
-- [Written on paper by Nino The Dino](https://open.spotify.com/track/4NCTkLOi0BD0ODmpvCVthj)
+- [For Nothing by KD Simon](https://open.spotify.com/track/5jtuH30T8tgSd2IQfVcN09)
+- [C&#39;mon Weekend by bombergirl](https://open.spotify.com/track/7cf6li4brJt4xLVcIqsxz7)
+- [Vows by Milli V](https://open.spotify.com/track/3YM22gJuH8VgRP59PbNyV1)
+- [Iconic by Monic](https://open.spotify.com/track/6mxI6aOzik55H23TKnBbzv)
+- [One for the Road by Mads Nielsen Stolt](https://open.spotify.com/track/5OTfPVotJsfwleFdeT49b2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
