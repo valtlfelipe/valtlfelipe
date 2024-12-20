@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (2 days ago)
 
 #### 🎧 What I have been listening
+- [Sunset by Rōsu](https://open.spotify.com/track/6u5k1IhbxJDnBNzr9BRL9a)
+- [Green Tea by RA DAR](https://open.spotify.com/track/3hsy5ROPWpTufxoushQGxh)
+- [Bonez by Dahtona](https://open.spotify.com/track/2BBqygCwljo8N4XcWk6bCN)
 - [Afterbeach by Flamentone](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J)
 - [One Day Stand by Drunk Archer](https://open.spotify.com/track/5nxeaDc5IfbEPhy5eZcvpN)
-- [Summertide by Edward The Eagle](https://open.spotify.com/track/0PvtqPA5hhMktJGxZzCWJD)
-- [Mountain High by liily day](https://open.spotify.com/track/6KlwKBHBnWTm825JMgR6Ds)
-- [joy love by Goose Groovy](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
