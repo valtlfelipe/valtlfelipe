@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[openauthjs/openauth](https://github.com/openauthjs/openauth)** - ▦ Universal, standards-based auth provider. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Airglow by Hibiscus](https://open.spotify.com/track/3leeQGS5ZOJRXrQ8I2juxI)
-- [Sea Shell by One Astra](https://open.spotify.com/track/6H3ohshFFru3kg6UDK8ZBD)
-- [Discovery by Chico Rocket](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8)
-- [Veesha by Parker Wilkins](https://open.spotify.com/track/40TVYUkRQ5GgLApjXOxq3O)
-- [limoncello sorbet by moe sizzle](https://open.spotify.com/track/4wL1KCrkyI3h7B3313xl9q)
+- [Mamanuca by Naupaka](https://open.spotify.com/track/3EFMCEcsRrfDiDIEUlBgRi)
+- [Lonely Sky by Palm 3s](https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2)
+- [Voyage by UPTNS](https://open.spotify.com/track/1WfjJgjKgB1LC10hSVa3Zl)
+- [Moving by Dusty Kiko](https://open.spotify.com/track/2hM24Y2OY4vGuNTtxMrE7N)
+- [Poolside Bliss by Sinee](https://open.spotify.com/track/7Jm2p8fVd12UxlH2RHStuL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
