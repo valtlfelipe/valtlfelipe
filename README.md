@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[HugoRCD/canvas](https://github.com/HugoRCD/canvas)** - Portfolio template made with Nuxt 3, Nuxt Content and TailwindCSS (2 days ago)
 
 #### 🎧 What I have been listening
-- [Heads Up by Ori Kul](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf)
-- [Falling Faster by Niriko](https://open.spotify.com/track/3YWosF4fKAHglIoSaWUvFy)
-- [Drinks on You by André Aguado](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD)
-- [Aspects by Deeter K](https://open.spotify.com/track/1gH6zJntHHkQLLcCBjSG1H)
-- [Buller by Hula Hoops](https://open.spotify.com/track/4cKxVvow3Rd7cb6yAs7kgp)
+- [deep feelings by Jaake Alsonn](https://open.spotify.com/track/4uaWcSrz1nadAGAMxBMBwv)
+- [Antibes (Edit) by Leo Lemón](https://open.spotify.com/track/5hqXlyEW2t0pGCLwyv6VZP)
+- [Gran Via by Sobbel Sosch](https://open.spotify.com/track/00Ed3O2Ru8G51Pli1tg0Ue)
+- [Couture by Sobbel Sosch](https://open.spotify.com/track/3NgwLME9POEkZAQGrJSjE7)
+- [Written on paper by Nino The Dino](https://open.spotify.com/track/4NCTkLOi0BD0ODmpvCVthj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
