@@ -5,11 +5,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[Puchaczov/Musoq](https://github.com/Puchaczov/Musoq)** - SQL Syntax without any database (today)
-- **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (today)
-- **[nuance-dev/convierto](https://github.com/nuance-dev/convierto)** - A native macOS file converter app (1 day ago)
-- **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (2 days ago)
-- **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (2 days ago)
+- **[Puchaczov/Musoq](https://github.com/Puchaczov/Musoq)** - SQL Syntax without any database (1 day ago)
+- **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 day ago)
+- **[nuance-dev/convierto](https://github.com/nuance-dev/convierto)** - A native macOS file converter app (2 days ago)
+- **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (3 days ago)
+- **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (3 days ago)
 
 #### 🎧 What I have been listening
 - [Sunset by Rōsu](https://open.spotify.com/track/6u5k1IhbxJDnBNzr9BRL9a)
