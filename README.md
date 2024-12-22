@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (4 days ago)
 
 #### 🎧 What I have been listening
-- [Domino Effect by Camisade](https://open.spotify.com/track/0kKr3CifT3nG6QNWiDdCU4)
-- [Below Surface by Souvren](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1)
-- [move over by sugar namnam](https://open.spotify.com/track/7rIBhcLO7nWvDuhxhkWXWj)
-- [Morning Dew by Undefined Space](https://open.spotify.com/track/6w4ODC8ygnMgV5hSy1VyoE)
-- [Antibes (Edit) by Leo Lemón](https://open.spotify.com/track/5hqXlyEW2t0pGCLwyv6VZP)
+- [Mazal by Milous](https://open.spotify.com/track/1VGidY4QvUrjSJDL6lW0iu)
+- [Ibiza Nights by Sean Rivers](https://open.spotify.com/track/0fXohwmo1Ti6D2gZjGRbef)
+- [Amnesia by Tendoi](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ)
+- [Afterhours by Distoboy](https://open.spotify.com/track/53FDaPNsBeM3G7U2wsML7V)
+- [Darling by Pello Esso](https://open.spotify.com/track/5LJEye2tZ0fW693oTumBnW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
