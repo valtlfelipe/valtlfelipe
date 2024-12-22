@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (4 days ago)
 
 #### 🎧 What I have been listening
-- [Sunset by Rōsu](https://open.spotify.com/track/6u5k1IhbxJDnBNzr9BRL9a)
-- [Green Tea by RA DAR](https://open.spotify.com/track/3hsy5ROPWpTufxoushQGxh)
-- [Bonez by Dahtona](https://open.spotify.com/track/2BBqygCwljo8N4XcWk6bCN)
-- [Afterbeach by Flamentone](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J)
-- [One Day Stand by Drunk Archer](https://open.spotify.com/track/5nxeaDc5IfbEPhy5eZcvpN)
+- [Paint by Jones Meadow](https://open.spotify.com/track/3aQ7Zu6BKPMcj6kkHAmt4z)
+- [Salty Sip by Hayzei](https://open.spotify.com/track/4H8pnRgT43YnCHZpfMgMRI)
+- [mirage by sir bennett](https://open.spotify.com/track/56Am5PWznL2ea3NGzyUvLy)
+- [Soil by Bush Lily](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd)
+- [One Day by GIM GAM](https://open.spotify.com/track/23xtj6sfcsi2pZjmLM0m6L)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
