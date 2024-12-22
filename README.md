@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (4 days ago)
 
 #### 🎧 What I have been listening
-- [Paint by Jones Meadow](https://open.spotify.com/track/3aQ7Zu6BKPMcj6kkHAmt4z)
-- [Salty Sip by Hayzei](https://open.spotify.com/track/4H8pnRgT43YnCHZpfMgMRI)
-- [mirage by sir bennett](https://open.spotify.com/track/56Am5PWznL2ea3NGzyUvLy)
-- [Soil by Bush Lily](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd)
-- [One Day by GIM GAM](https://open.spotify.com/track/23xtj6sfcsi2pZjmLM0m6L)
+- [Domino Effect by Camisade](https://open.spotify.com/track/0kKr3CifT3nG6QNWiDdCU4)
+- [Below Surface by Souvren](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1)
+- [move over by sugar namnam](https://open.spotify.com/track/7rIBhcLO7nWvDuhxhkWXWj)
+- [Morning Dew by Undefined Space](https://open.spotify.com/track/6w4ODC8ygnMgV5hSy1VyoE)
+- [Antibes (Edit) by Leo Lemón](https://open.spotify.com/track/5hqXlyEW2t0pGCLwyv6VZP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
