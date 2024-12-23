@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (5 days ago)
 
 #### 🎧 What I have been listening
-- [tear-colored by Sylvani](https://open.spotify.com/track/7z9mqQiRiVkoGy1PlshE2r)
-- [Plexus by Robo Rat](https://open.spotify.com/track/7crYS28xLpwzAEZD9zKq0C)
-- [NBA by Another 13](https://open.spotify.com/track/3iYeKfJ67E6YnmFlRvRAFR)
-- [Fast Lane by racktor](https://open.spotify.com/track/1Px8Qwp440BpyKaP4d6a7h)
-- [Cap d&#39;Ali by ASIV](https://open.spotify.com/track/10NoUYHKS5t7hPGIoNLQrv)
+- [Midnight Drink by Nth Shade](https://open.spotify.com/track/7lchmWucfT0gC8x4aYAvfE)
+- [Disco Resort by Mandarin Low](https://open.spotify.com/track/7GKC0zXjP6q8p5Sy2Csut7)
+- [Think about me (Dub) by Transpiritual](https://open.spotify.com/track/4UKByD9kwgwmGKT8bNH3eF)
+- [Doves by Gnusmas](https://open.spotify.com/track/7iWBKz3hQgJyo9MGx7YgNX)
+- [Shadows by Kit Genova](https://open.spotify.com/track/4U0mDdy2yoCGqmyncWfMOE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
