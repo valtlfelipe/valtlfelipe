@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (5 days ago)
 
 #### 🎧 What I have been listening
-- [Anymore by MISERO, Piece Wise, J.O.Y](https://open.spotify.com/track/13r46dyuKC0N5Dby8SKTHr)
-- [I Feel Like by SANDMO, Bad Space](https://open.spotify.com/track/7AipFlJoLLvV7mjRlExIGr)
-- [Forever In My Mind by Madism, LPW](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB)
-- [We Met In Venice by Jane Good](https://open.spotify.com/track/68jEZRSuehI4rjagZ13uxs)
-- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
+- [Let Go by Alex Martura](https://open.spotify.com/track/0Bary1wm0KXq4SaU5Cv1Co)
+- [Can&#39;t Stay The Same by just Fede, Oke](https://open.spotify.com/track/6GkDwFCNZ4JJiFdpj0Ko6p)
+- [Do It Again by MISERO, deep dispatch](https://open.spotify.com/track/6Zabg025sA0Bi2n2nQyZjB)
+- [Doubts by SANDMO, Bad Space](https://open.spotify.com/track/2exyWQrACuTVnLCWBX3dnP)
+- [Kendall Park by Duce, Piece Wise, Courtney Storm](https://open.spotify.com/track/2SXi0cldambE2930H18LoL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
