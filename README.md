@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (5 days ago)
 
 #### 🎧 What I have been listening
+- [Pheelings by R.I.T.H.](https://open.spotify.com/track/7HVo93xrr2yVYb93RXZYjb)
+- [get on board by Landayn](https://open.spotify.com/track/6CXFseSJ9an5jhuFqhyCJE)
+- [Shelter by Hy_Low](https://open.spotify.com/track/2R9lpSyNQjnNz1C4yrK8Jr)
+- [Uphills by Dahtona](https://open.spotify.com/track/4d3TNDKyQuHKla1p56aLeG)
 - [Love Me Again by Gianluca Dimeo](https://open.spotify.com/track/6EXhqQPfmTmtdz5apO92PE)
-- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
-- [All the Way by Piece Wise, Eloi El](https://open.spotify.com/track/5mHt8xsbIW661fnMBOwlTw)
-- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
-- [Just Let Go by Avi Snow, BIMINI, Yvvan Back](https://open.spotify.com/track/2vrpdYpLEhRoJJWxcwQKm1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
