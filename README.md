@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (5 days ago)
 
 #### 🎧 What I have been listening
-- [Nebula by Spatio](https://open.spotify.com/track/4dVCcW5wGBbjDMjULcQhAm)
-- [Sorrow Stutter by Kris Karrey](https://open.spotify.com/track/0HL6bNzpulo1DRLmPGG6uV)
-- [Flood by BLVKSHP](https://open.spotify.com/track/1fjF7oOBkUDcQaOjKpbkya)
-- [Upside Down by Peqasus](https://open.spotify.com/track/3CSdxbCGzSp5ZUsmzdSfcG)
-- [undercurrent by fxhash](https://open.spotify.com/track/7eCdqwIkAYH1Jik8pd0lCD)
+- [all but functional by SGT DUST](https://open.spotify.com/track/6PLMQdkv3zZpsFgrzcpJP4)
+- [Papaya by Berner Sen](https://open.spotify.com/track/0tSTeua23wX6TkjhcjLLv6)
+- [Maracuya by Francois Lé](https://open.spotify.com/track/3deuB8Du6B94k0BqGUJYnd)
+- [Citrus Poetry by Hello Papyrus](https://open.spotify.com/track/4eT6jga0NpRdbA2g17ZnhC)
+- [Tides by Sean Rivers](https://open.spotify.com/track/1NNgxiHHC21Kos3LeKT92V)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
