@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (5 days ago)
 
 #### 🎧 What I have been listening
-- [Pomaque by West &amp; Zander](https://open.spotify.com/track/6cKJ3veQgBJ5Vc1SHYMHNp)
-- [Sea Me by MOTYL](https://open.spotify.com/track/3x1zrRDZGEMdlR1InGAOl9)
-- [Need You To Know by Kellen Berrios](https://open.spotify.com/track/1yYjxtcHhEIYGwKZl7ux7Y)
-- [Long Time by Costavibe](https://open.spotify.com/track/6aPSS1c4ZvV7QRs5AAfJQN)
-- [Fangs by Talaiio](https://open.spotify.com/track/2AGflbBmSosAWMDgenBI1s)
+- [lady bugs dance by Sylvani](https://open.spotify.com/track/14jlJmh6R2NZ8Alr9vAbNX)
+- [Sunset Blvd by Blyno](https://open.spotify.com/track/15nmKCZMLlEXvFbIW9E4aU)
+- [Take Off by Amsané](https://open.spotify.com/track/1vqF90KZkj53yZdmoJZohR)
+- [Pete&#39;s Castle by One Too Many](https://open.spotify.com/track/2UWliyVj51fHfi5dh5hkb9)
+- [City Dweller by Jaques](https://open.spotify.com/track/1DnRZoHSWwXY83hdhApS2W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
