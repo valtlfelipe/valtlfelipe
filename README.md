@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (5 days ago)
 
 #### 🎧 What I have been listening
-- [Smooth Operator by EC Twins, Mina Tobias](https://open.spotify.com/track/1h6lDsXcQoWQq1nsGmj8ny)
-- [The Clapping Song - Kungs Remix by Mind Enterprises, Kungs](https://open.spotify.com/track/6ExtJw7sxaExSyBs7B0Z48)
-- [DNA (Loving You) [feat. Hannah Boleyn] [Rammor Remix] by Billy Gillies, Rammor, Hannah Boleyn](https://open.spotify.com/track/4vrblNhUlCXbbLNaBPwk6t)
-- [Please Move On by Løvento, Moise](https://open.spotify.com/track/40gVwaaAX3skNhcET08hiA)
-- [Ferrari by danicpeepner](https://open.spotify.com/track/5ymXQFPintJydrnCbItzeb)
+- [Anymore by MISERO, Piece Wise, J.O.Y](https://open.spotify.com/track/13r46dyuKC0N5Dby8SKTHr)
+- [I Feel Like by SANDMO, Bad Space](https://open.spotify.com/track/7AipFlJoLLvV7mjRlExIGr)
+- [Forever In My Mind by Madism, LPW](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB)
+- [We Met In Venice by Jane Good](https://open.spotify.com/track/68jEZRSuehI4rjagZ13uxs)
+- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
