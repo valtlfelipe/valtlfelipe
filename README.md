@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (5 days ago)
 
 #### 🎧 What I have been listening
-- [all but functional by SGT DUST](https://open.spotify.com/track/6PLMQdkv3zZpsFgrzcpJP4)
-- [Papaya by Berner Sen](https://open.spotify.com/track/0tSTeua23wX6TkjhcjLLv6)
-- [Maracuya by Francois Lé](https://open.spotify.com/track/3deuB8Du6B94k0BqGUJYnd)
-- [Citrus Poetry by Hello Papyrus](https://open.spotify.com/track/4eT6jga0NpRdbA2g17ZnhC)
-- [Tides by Sean Rivers](https://open.spotify.com/track/1NNgxiHHC21Kos3LeKT92V)
+- [tear-colored by Sylvani](https://open.spotify.com/track/7z9mqQiRiVkoGy1PlshE2r)
+- [Plexus by Robo Rat](https://open.spotify.com/track/7crYS28xLpwzAEZD9zKq0C)
+- [NBA by Another 13](https://open.spotify.com/track/3iYeKfJ67E6YnmFlRvRAFR)
+- [Fast Lane by racktor](https://open.spotify.com/track/1Px8Qwp440BpyKaP4d6a7h)
+- [Cap d&#39;Ali by ASIV](https://open.spotify.com/track/10NoUYHKS5t7hPGIoNLQrv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
