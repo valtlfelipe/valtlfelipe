@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (5 days ago)
 
 #### 🎧 What I have been listening
-- [under the palm by Mikayl Blu](https://open.spotify.com/track/19lOTWxU0iRPqMIRR2RPEk)
-- [Mazal by Milous](https://open.spotify.com/track/1VGidY4QvUrjSJDL6lW0iu)
-- [Ibiza Nights by Sean Rivers](https://open.spotify.com/track/0fXohwmo1Ti6D2gZjGRbef)
-- [Amnesia by Tendoi](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ)
-- [Afterhours by Distoboy](https://open.spotify.com/track/53FDaPNsBeM3G7U2wsML7V)
+- [Smooth Operator by EC Twins, Mina Tobias](https://open.spotify.com/track/1h6lDsXcQoWQq1nsGmj8ny)
+- [The Clapping Song - Kungs Remix by Mind Enterprises, Kungs](https://open.spotify.com/track/6ExtJw7sxaExSyBs7B0Z48)
+- [DNA (Loving You) [feat. Hannah Boleyn] [Rammor Remix] by Billy Gillies, Rammor, Hannah Boleyn](https://open.spotify.com/track/4vrblNhUlCXbbLNaBPwk6t)
+- [Please Move On by Løvento, Moise](https://open.spotify.com/track/40gVwaaAX3skNhcET08hiA)
+- [Ferrari by danicpeepner](https://open.spotify.com/track/5ymXQFPintJydrnCbItzeb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
