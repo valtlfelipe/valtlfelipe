@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (5 days ago)
 
 #### 🎧 What I have been listening
-- [Midnight Drink by Nth Shade](https://open.spotify.com/track/7lchmWucfT0gC8x4aYAvfE)
-- [Disco Resort by Mandarin Low](https://open.spotify.com/track/7GKC0zXjP6q8p5Sy2Csut7)
-- [Think about me (Dub) by Transpiritual](https://open.spotify.com/track/4UKByD9kwgwmGKT8bNH3eF)
-- [Doves by Gnusmas](https://open.spotify.com/track/7iWBKz3hQgJyo9MGx7YgNX)
-- [Shadows by Kit Genova](https://open.spotify.com/track/4U0mDdy2yoCGqmyncWfMOE)
+- [Pomaque by West &amp; Zander](https://open.spotify.com/track/6cKJ3veQgBJ5Vc1SHYMHNp)
+- [Sea Me by MOTYL](https://open.spotify.com/track/3x1zrRDZGEMdlR1InGAOl9)
+- [Need You To Know by Kellen Berrios](https://open.spotify.com/track/1yYjxtcHhEIYGwKZl7ux7Y)
+- [Long Time by Costavibe](https://open.spotify.com/track/6aPSS1c4ZvV7QRs5AAfJQN)
+- [Fangs by Talaiio](https://open.spotify.com/track/2AGflbBmSosAWMDgenBI1s)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
