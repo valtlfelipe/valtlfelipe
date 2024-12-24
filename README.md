@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
-- [Some People Say - Radio Edit by Semedo, Curtis Gabriel](https://open.spotify.com/track/5GCdBZ6QzW3lWbMJEwYx6k)
-- [places to be by Fred again.., Anderson .Paak, CHIKA](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J)
-- [Talk To Me by DRAY, Tudor](https://open.spotify.com/track/4Zr9cXuM4U7K8xUEiey8ib)
-- [Mother by Revelle27](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu)
+- [Distraction by Nu Aspect, Jem Cooke](https://open.spotify.com/track/2XCc7Y5BhnBK29r9mhFXZG)
+- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
+- [In The Dust by Richard Judge, Jelen, Embody](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7)
+- [Goodbyes by Jerome Price](https://open.spotify.com/track/5DBmzEKUjSlErSYTkiS8PZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
