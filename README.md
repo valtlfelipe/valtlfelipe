@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (6 days ago)
 
 #### 🎧 What I have been listening
-- [My Carousel by Tobtok, Jem Cooke](https://open.spotify.com/track/65tzGxRAwbrZd2yhHcGgLf)
-- [I Don&#39;t Wanna Know by Buzz Low, BACOLE, Kuala](https://open.spotify.com/track/5nUlevjEAdIKeMBKxpSEHm)
-- [In Your Arms by Shift K3Y](https://open.spotify.com/track/1w5HknXbhqJ1hlDKrIBooY)
-- [Body on Fire by SOMMA, Dillistone](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV)
-- [No Sense by Tobtok, STO CULTR](https://open.spotify.com/track/1WWAozjG8X7wI4MLX6tTCB)
+- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
+- [Some People Say - Radio Edit by Semedo, Curtis Gabriel](https://open.spotify.com/track/5GCdBZ6QzW3lWbMJEwYx6k)
+- [places to be by Fred again.., Anderson .Paak, CHIKA](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J)
+- [Talk To Me by DRAY, Tudor](https://open.spotify.com/track/4Zr9cXuM4U7K8xUEiey8ib)
+- [Mother by Revelle27](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
