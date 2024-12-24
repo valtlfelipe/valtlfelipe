@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (today)
 - **[Puchaczov/Musoq](https://github.com/Puchaczov/Musoq)** - SQL Syntax without any database (4 days ago)
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (4 days ago)
 - **[nuance-dev/convierto](https://github.com/nuance-dev/convierto)** - A native macOS file converter app (5 days ago)
 - **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (6 days ago)
-- **[Barbapapazes/slantire](https://github.com/Barbapapazes/slantire)** - Portfolio - A Nuxt Studio theme powered by Nuxt UI Pro, Nuxt Content and ready for Nuxt Studio (6 days ago)
 
 #### 🎧 What I have been listening
+- [Movement 1 by Chimi Berry](https://open.spotify.com/track/6Uju94NXWg87j2J1p2w3u7)
+- [Status Sunshine by Tiles Square](https://open.spotify.com/track/3XUZZywKrSl7D3X7qZzpa0)
+- [Selecta by Da Drüben](https://open.spotify.com/track/6B1MFLa0RUesffyYXZmwl1)
 - [Watch This by Paul Rietz](https://open.spotify.com/track/3TyXhmKIhw9wiC77soz2oB)
-- [Spring by Kajavela](https://open.spotify.com/track/30WWfaOwc8c0s2mrstl5HE)
-- [Music for a lounge lobby (with Eames furniture) by Transpiritual](https://open.spotify.com/track/29F7N23vYlSXGkpcizO0ih)
-- [Vacances by Duplé](https://open.spotify.com/track/5rYOOvByYJs90qJiMKq3aZ)
-- [Life Lesson by Flower Teen](https://open.spotify.com/track/4fsr7FfrEDyH1keiL2dgVS)
+- [Watch This by Paul Rietz](https://open.spotify.com/track/3TyXhmKIhw9wiC77soz2oB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
