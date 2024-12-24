@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Movement 1 by Chimi Berry](https://open.spotify.com/track/6Uju94NXWg87j2J1p2w3u7)
-- [Status Sunshine by Tiles Square](https://open.spotify.com/track/3XUZZywKrSl7D3X7qZzpa0)
-- [Selecta by Da Drüben](https://open.spotify.com/track/6B1MFLa0RUesffyYXZmwl1)
-- [Watch This by Paul Rietz](https://open.spotify.com/track/3TyXhmKIhw9wiC77soz2oB)
-- [Watch This by Paul Rietz](https://open.spotify.com/track/3TyXhmKIhw9wiC77soz2oB)
+- [My Carousel by Tobtok, Jem Cooke](https://open.spotify.com/track/65tzGxRAwbrZd2yhHcGgLf)
+- [I Don&#39;t Wanna Know by Buzz Low, BACOLE, Kuala](https://open.spotify.com/track/5nUlevjEAdIKeMBKxpSEHm)
+- [In Your Arms by Shift K3Y](https://open.spotify.com/track/1w5HknXbhqJ1hlDKrIBooY)
+- [Body on Fire by SOMMA, Dillistone](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV)
+- [No Sense by Tobtok, STO CULTR](https://open.spotify.com/track/1WWAozjG8X7wI4MLX6tTCB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
