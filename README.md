@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t)
-- [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
-- [so far away by rayn, Senes](https://open.spotify.com/track/1Q7Xf8WCAv9ovOIYASL2Oe)
-- [Heaven by James Carter](https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3)
-- [Love Is Just a Game by Tom Ferry, JONA XX, Sarah Lahn](https://open.spotify.com/track/718NV3Ob8ZQNOytQfwYKSc)
+- [Love Me The Same by Astrality, Krysta Youngs](https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW)
+- [Let It Bleed by SOMMA, Jamis, Leo Stannard, HIISAK](https://open.spotify.com/track/4u5KbHYUrsO5ZTfAZe9Wa1)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [Family Affair - LU2VYK Remix by Rotciv &amp; Revilo, MrRevillz, LU2VYK](https://open.spotify.com/track/7HZ0ZiaWffKemYDLTXprDh)
+- [Ride With Me by Zac Samuel](https://open.spotify.com/track/6CnR6eRYGYQc9bEtQeiiZR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
