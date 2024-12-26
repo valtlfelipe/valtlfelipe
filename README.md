@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [About U by Reel Mood, Tima Dee](https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP)
-- [Closer To You by Lucas Nord](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh)
-- [Shallow Water - Edit by JLV, Kairos Grove](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG)
-- [Saturate by Kamil Ghaouti, Big O, Alimish](https://open.spotify.com/track/6lZ8eGS8xEWmHJRY1igdfS)
+- [Colourful by Grey Vision](https://open.spotify.com/track/2FyXyL8ovftr9BeFyjjQ5P)
+- [søund øf yøur heartbeat by birø, KROO, Ariana Celaeno](https://open.spotify.com/track/56TaFtRKGyIYKXHta008HY)
+- [a little bitter by puulse](https://open.spotify.com/track/0CO4XiQn9hYzt1qmgRDm6P)
+- [Change of Heart by SOMMA, Paul Schulze, Louise Harris](https://open.spotify.com/track/7fXupzi3jFgKVED9BUCmUc)
+- [Feel Your Body by Shift K3Y](https://open.spotify.com/track/3cIjfIqsLjCkuO31ycSBxP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
