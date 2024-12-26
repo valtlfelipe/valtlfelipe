@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Roses x Children by TommyMuzzic](https://open.spotify.com/track/3GxXPHTRn4vQArX83QprqZ)
-- [Rain by Astrality, MNRT, S:NE](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO)
-- [Close My Eyes by Rules](https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv)
-- [Remember by DRAY](https://open.spotify.com/track/39K1B9yIdTCgwm25z4GYId)
-- [Jump by Levi](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh)
+- [I Can&#39;t Sleep by SOMMA, Nina Chuba](https://open.spotify.com/track/5xB5b4L2jOylbYhSf15PTq)
+- [Done To Me by Amés](https://open.spotify.com/track/5WKzeCqFA5gR6BVspkZK6t)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [Mother by Revelle27](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
