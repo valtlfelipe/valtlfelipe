@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (1 week ago)
 
 #### 🎧 What I have been listening
-- [No Way Out by Paul Schulze, sadHAPPY](https://open.spotify.com/track/4OoPS9qN7qDv4tqaMb3ScP)
-- [You&#39;re Makin&#39; Me High by DJ Katch, Amira Eldine](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA)
-- [Inner Light by PALASTIC, Malou](https://open.spotify.com/track/4mD6xnWbbhIjVZe4E7oDkk)
-- [Secrets by Tudor, Caroline Byrne](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ)
-- [Don&#39;t (Fall in Love) by Just Kiddin](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z)
+- [Cherish by Badflite](https://open.spotify.com/track/4ZYL4h2sQEWVBXoSuLcMEA)
+- [Ride With Me by Zac Samuel](https://open.spotify.com/track/6CnR6eRYGYQc9bEtQeiiZR)
+- [Grounds for Hope by NOTSOBAD](https://open.spotify.com/track/1qv8ljmszWgX9BERqsZB0y)
+- [Bonfire by Tudor](https://open.spotify.com/track/736VDbKKgjzvPOoKjjti4R)
+- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
