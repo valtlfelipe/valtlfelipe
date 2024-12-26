@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Roses x Children by TommyMuzzic](https://open.spotify.com/track/3GxXPHTRn4vQArX83QprqZ)
+- [Rain by Astrality, MNRT, S:NE](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO)
+- [Close My Eyes by Rules](https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv)
+- [Remember by DRAY](https://open.spotify.com/track/39K1B9yIdTCgwm25z4GYId)
 - [Jump by Levi](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh)
-- [Hold on Me by Why U So, SHELLS](https://open.spotify.com/track/43FNnp0KnanReB8KCTl97p)
-- [Make Me Say - Radio version by Robert Burian, Phil Phauler](https://open.spotify.com/track/1hp02IGQQnjTKQXKJ2Jyri)
-- [Illuminate by Astrality, Leo Stannard](https://open.spotify.com/track/6SpS3512xzHKapz4plRuZW)
-- [Good Thing by DeusExMaschine](https://open.spotify.com/track/7sWddb2SctBHmDwdMEEhUr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
