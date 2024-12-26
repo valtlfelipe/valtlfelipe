@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[raycast/script-commands](https://github.com/raycast/script-commands)** - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Born to Be Free by Ruffnux](https://open.spotify.com/track/1SG8N1R6jboiXkfboZGxVX)
-- [Don&#39;t (Fall in Love) by Just Kiddin](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z)
-- [Secrets by Tudor, Caroline Byrne](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ)
-- [Touch by Kideko, SHELLS](https://open.spotify.com/track/397W12CqjA788iknS81yMB)
-- [Lie by BRETSN, SANDMO](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP)
+- [Refuse You by Lavern](https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W)
+- [Sirens by Dallerium, FARLEY](https://open.spotify.com/track/14tDY4UrwhZbhRktMhZ2v5)
+- [Living In The Darkness by Sven and Jeffrey, Almost Weekend, Sam Heselwood](https://open.spotify.com/track/6ZjPGSwQH1I9srKKLacKKh)
+- [Honesty by Paul Schulze, Able Faces, Callum George](https://open.spotify.com/track/5ZzE5vW4fTPzjLDEe6EjUU)
+- [Leave Town for a Week by Leo Dijon, Havoc Henry](https://open.spotify.com/track/4aexux5ypOuL4IOCN8MxYK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
