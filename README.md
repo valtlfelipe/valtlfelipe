@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[Idered/chalk.ist](https://github.com/Idered/chalk.ist)** - 📷 Create beautiful images of your source code (today)
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
 - **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (3 days ago)
 - **[Puchaczov/Musoq](https://github.com/Puchaczov/Musoq)** - SQL Syntax without any database (1 week ago)
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
-- **[nuance-dev/convierto](https://github.com/nuance-dev/convierto)** - A native macOS file converter app (1 week ago)
 
 #### 🎧 What I have been listening
-- [Strobe - Victor Ruiz Remix by deadmau5, Victor Ruiz](https://open.spotify.com/track/7imzYANu2fpLPkaM92PO2E)
-- [Una Velita by Tiësto](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT)
-- [Trees Have Eyes by Jameson, Karma Child](https://open.spotify.com/track/6GT8xY5wSZBBI0nYCvlv9T)
-- [Dancing Like We Do by Poul, Alberto Ciccarini, Josh Reflex](https://open.spotify.com/track/6OYm8xTLiG3fS5CRu7cgGG)
-- [I Had Some Help by Mecdoux, Chill Covers](https://open.spotify.com/track/5IZzw3Ceeg0w51orUICEiG)
+- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
+- [Shots - Broiler Remix by Imagine Dragons, Broiler](https://open.spotify.com/track/0fsEFwLSJTSHSawhe864Cp)
+- [OK by Robin Schulz, James Blunt](https://open.spotify.com/track/3bWAqKDWg6u1davspr5IkS)
+- [Reality by Lost Frequencies, Janieck](https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
