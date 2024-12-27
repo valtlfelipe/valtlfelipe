@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [My Love (2024) by Alex Wann, Route 94, Jess Glynne](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk)
-- [On My Mind by Tom Everett](https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej)
+- [Never Ever Ever (feat. shiv) by Girls of the Internet, shiv](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk)
 - [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
-- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
-- [Shots - Broiler Remix by Imagine Dragons, Broiler](https://open.spotify.com/track/0fsEFwLSJTSHSawhe864Cp)
+- [All Good - Jasper Tygner Remix by Pretty Girl, Jasper Tygner](https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH)
+- [Rolling Back by TWO LANES, Panama](https://open.spotify.com/track/335EcT0oI5889ZgM0q413d)
+- [Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework by HUGEL](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
