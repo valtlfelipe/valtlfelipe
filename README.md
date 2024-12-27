@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Ready (feat. Art School Girlfriend) by Jasper Tygner, Art School Girlfriend](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj)
-- [Fortress by Kipunji](https://open.spotify.com/track/7faGA4VMnkaMsu3lFN2gxy)
-- [Howl - Chill Mix by Elderbrook, Tourist](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF)
-- [Blackoak by Maribou State](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18)
-- [GLY by Catching Flies](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH)
+- [Take Me Back by Camden Cox](https://open.spotify.com/track/77XWWoOmIporiyZw7WYtiq)
+- [Falling Apart by Catching Flies](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA)
+- [The Message by Naylor](https://open.spotify.com/track/3HszkoBsOy2VLTcznQ64qR)
+- [better by Joy Orbison, Léa Sen](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN)
+- [Wish I Didn&#39;t Miss You by Sonny Noto](https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
