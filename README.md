@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Take Me Back by Camden Cox](https://open.spotify.com/track/77XWWoOmIporiyZw7WYtiq)
-- [Falling Apart by Catching Flies](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA)
-- [The Message by Naylor](https://open.spotify.com/track/3HszkoBsOy2VLTcznQ64qR)
-- [better by Joy Orbison, Léa Sen](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN)
-- [Wish I Didn&#39;t Miss You by Sonny Noto](https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB)
+- [WYD - Jackson Homer Edit by aman!, Jackson Homer](https://open.spotify.com/track/5WstB8qvWGVboK8Uiss0wl)
+- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz)
+- [Lisse by DELACOUR](https://open.spotify.com/track/1avKkhZvBHE8FsGAdrSRsp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
