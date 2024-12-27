@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Talking Like That by Le Youth, EMME](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF)
+- [Never Ever Ever (feat. shiv) by Girls of the Internet, shiv](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk)
+- [Mother by Revelle27](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu)
+- [Never Ever Ever (feat. shiv) by Girls of the Internet, shiv](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk)
 - [Midnight Club by DELACOUR](https://open.spotify.com/track/6cg9Tnerna1V1ZCwPqaJWf)
-- [I Can&#39;t See by ROW, Samuel Miller](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo)
-- [Does It Really Matter by Final Djs](https://open.spotify.com/track/5sBubjl8GsIrUgbYVkx3Dr)
-- [WYD - Jackson Homer Edit by aman!, Jackson Homer](https://open.spotify.com/track/5WstB8qvWGVboK8Uiss0wl)
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
