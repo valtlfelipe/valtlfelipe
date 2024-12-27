@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[nuance-dev/convierto](https://github.com/nuance-dev/convierto)** - A native macOS file converter app (1 week ago)
 
 #### 🎧 What I have been listening
-- [Out of My Head by Jack Wins, ManyFew](https://open.spotify.com/track/1e0V7CMEcXaPAMtL4b5VtV)
-- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
-- [Love Me The Same by Astrality, Krysta Youngs](https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW)
-- [Let It Bleed by SOMMA, Jamis, Leo Stannard, HIISAK](https://open.spotify.com/track/4u5KbHYUrsO5ZTfAZe9Wa1)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [Universe by Wavey](https://open.spotify.com/track/1U5CU26nhNTi2f5xPwkxvc)
+- [Over Again by Chullo](https://open.spotify.com/track/3Rx3SpWxHXfIHL0JTJp5S4)
+- [Kick The Nation by Lost Frequencies, Pickle](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K)
+- [I Adore You - ARTBAT Remix by HUGEL, Topic, ARTBAT, Arash, Daecolm](https://open.spotify.com/track/1Zg16X9sBXpfQbs6fgVJzH)
+- [World Gone Wild (feat. Sam Martin) - Matt Sassari Remix by Robin Schulz, CYRIL, Matt Sassari, Sam Martin](https://open.spotify.com/track/1E3bD3DEr4wtSk7C9EqsFp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
