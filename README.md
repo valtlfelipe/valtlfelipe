@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Never Ever Ever (feat. shiv) by Girls of the Internet, shiv](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk)
-- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
-- [All Good - Jasper Tygner Remix by Pretty Girl, Jasper Tygner](https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH)
-- [Rolling Back by TWO LANES, Panama](https://open.spotify.com/track/335EcT0oI5889ZgM0q413d)
-- [Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework by HUGEL](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg)
+- [Gaze Up (feat. Antonio Blakstad) by Rosbeh, Antonio Blakstad](https://open.spotify.com/track/0TpGRIvJhZuNpGbZ79nM2d)
+- [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
+- [Have U by Caius](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B)
+- [Watching Me Dance by Jackson Homer, Devin Tracy](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM)
+- [Round &amp; Round by YOURS](https://open.spotify.com/track/6yASkBM9miqxp1wTpD56YT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
