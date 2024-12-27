@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Gaze Up (feat. Antonio Blakstad) by Rosbeh, Antonio Blakstad](https://open.spotify.com/track/0TpGRIvJhZuNpGbZ79nM2d)
-- [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
-- [Have U by Caius](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B)
-- [Watching Me Dance by Jackson Homer, Devin Tracy](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM)
-- [Round &amp; Round by YOURS](https://open.spotify.com/track/6yASkBM9miqxp1wTpD56YT)
+- [Ready (feat. Art School Girlfriend) by Jasper Tygner, Art School Girlfriend](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj)
+- [Fortress by Kipunji](https://open.spotify.com/track/7faGA4VMnkaMsu3lFN2gxy)
+- [Howl - Chill Mix by Elderbrook, Tourist](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF)
+- [Blackoak by Maribou State](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18)
+- [GLY by Catching Flies](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
