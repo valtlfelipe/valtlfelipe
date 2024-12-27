@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[nuance-dev/convierto](https://github.com/nuance-dev/convierto)** - A native macOS file converter app (1 week ago)
 
 #### 🎧 What I have been listening
-- [Universe by Wavey](https://open.spotify.com/track/1U5CU26nhNTi2f5xPwkxvc)
-- [Over Again by Chullo](https://open.spotify.com/track/3Rx3SpWxHXfIHL0JTJp5S4)
-- [Kick The Nation by Lost Frequencies, Pickle](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K)
-- [I Adore You - ARTBAT Remix by HUGEL, Topic, ARTBAT, Arash, Daecolm](https://open.spotify.com/track/1Zg16X9sBXpfQbs6fgVJzH)
-- [World Gone Wild (feat. Sam Martin) - Matt Sassari Remix by Robin Schulz, CYRIL, Matt Sassari, Sam Martin](https://open.spotify.com/track/1E3bD3DEr4wtSk7C9EqsFp)
+- [Strobe - Victor Ruiz Remix by deadmau5, Victor Ruiz](https://open.spotify.com/track/7imzYANu2fpLPkaM92PO2E)
+- [Una Velita by Tiësto](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT)
+- [Trees Have Eyes by Jameson, Karma Child](https://open.spotify.com/track/6GT8xY5wSZBBI0nYCvlv9T)
+- [Dancing Like We Do by Poul, Alberto Ciccarini, Josh Reflex](https://open.spotify.com/track/6OYm8xTLiG3fS5CRu7cgGG)
+- [I Had Some Help by Mecdoux, Chill Covers](https://open.spotify.com/track/5IZzw3Ceeg0w51orUICEiG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
