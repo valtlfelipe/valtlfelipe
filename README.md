@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
 - [Shivers (Dillon Francis Remix) [Main Mix] by Ed Sheeran, Dillon Francis](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b)
 - [In the Dark (Oliver Heldens Remix) by Purple Disco Machine, Sophie and the Giants, Oliver Heldens](https://open.spotify.com/track/6ve6SoRuWVZ9kBP1frZTW1)
 - [Drive (feat. Wes Nelson) - Topic VIP Remix by Clean Bandit, Topic, Wes Nelson](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO)
 - [Have U by Caius](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B)
-- [Watching Me Dance by Jackson Homer, Devin Tracy](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
