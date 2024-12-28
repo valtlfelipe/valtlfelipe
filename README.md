@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Liberation by Harold van Lennep](https://open.spotify.com/track/6JgjIRRv7uMSEjzzxHTQoh)
+- [Turn off the Lights - Cages Remix by Chris Lake, Alexis Roberts, Cages](https://open.spotify.com/track/5JeBHduTGxXxytZFXBcIlB)
+- [Little Lies by GoldFish](https://open.spotify.com/track/56f7rAwNVbANZjLvWqiQE0)
+- [Do It To It - Tiësto Remix by ACRAZE, Tiësto, Cherish](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC)
 - [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
-- [Fantasy - Alex Chapman Remix by JADE, Alex Chapman](https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT)
-- [exes - Regard Remix by Tate McRae, Regard](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA)
-- [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
-- [Hold Me Closer - Joel Corry Remix by Elton John, Britney Spears, Joel Corry](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
