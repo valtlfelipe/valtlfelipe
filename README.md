@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Talking Like That by Le Youth, EMME](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF)
-- [Never Ever Ever (feat. shiv) by Girls of the Internet, shiv](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk)
-- [Mother by Revelle27](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu)
-- [Never Ever Ever (feat. shiv) by Girls of the Internet, shiv](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk)
-- [Midnight Club by DELACOUR](https://open.spotify.com/track/6cg9Tnerna1V1ZCwPqaJWf)
+- [In the Dark (Oliver Heldens Remix) by Purple Disco Machine, Sophie and the Giants, Oliver Heldens](https://open.spotify.com/track/6ve6SoRuWVZ9kBP1frZTW1)
+- [Tattoo - Topic Remix by Loreen, Topic](https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp)
+- [Drive (feat. Wes Nelson) - Topic VIP Remix by Clean Bandit, Topic, Wes Nelson](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO)
+- [Drive (feat. Wes Nelson) - Topic VIP Remix by Clean Bandit, Topic, Wes Nelson](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO)
+- [Pressure Makes Diamonds by Folamour](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
