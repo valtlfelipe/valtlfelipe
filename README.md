@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Wings (I Won&#39;t Let You Down) by Armand Van Helden, Karen Harding](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd)
+- [OK by Robin Schulz, James Blunt](https://open.spotify.com/track/3bWAqKDWg6u1davspr5IkS)
+- [Under Control (feat. Hurts) by Calvin Harris, Alesso, Hurts](https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq)
 - [Fast Car by Jonas Blue, Dakota](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW)
 - [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
-- [All Around The World (La La La) by R3HAB, A Touch Of Class](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp)
-- [Unconditional - Sonny Fodera Remix by Sinéad Harnett, Sonny Fodera](https://open.spotify.com/track/2grfK3u0OnqKT9fWDpyiC4)
-- [Moments - Ben Böhmer &amp; Nils Hoffmann Remix by Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
