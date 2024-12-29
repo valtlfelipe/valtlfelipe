@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [If You Really Love Me (How Will I Know) by David Guetta, MistaJam, John Newman](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd)
-- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
-- [New Rules - KREAM Remix by Dua Lipa, KREAM](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4)
-- [Wings (I Won&#39;t Let You Down) by Armand Van Helden, Karen Harding](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd)
-- [OK by Robin Schulz, James Blunt](https://open.spotify.com/track/3bWAqKDWg6u1davspr5IkS)
+- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
+- [Cruel Summer by Taylor Swift](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
+- [Back To You by Lost Frequencies, Elley Duhé, X Ambassadors](https://open.spotify.com/track/4PdSICTVRI1xrXZM1sOSCe)
+- [I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) by Oliver Heldens, Nile Rodgers, House Gospel Choir](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
