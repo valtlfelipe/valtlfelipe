@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Late to Love by EMOCA, Loumé, JeLa](https://open.spotify.com/track/6SEtSmg0dUD9Qug0EVL33e)
-- [Shake It by B&#39;Bach](https://open.spotify.com/track/7Ejbq8E0URz6FgJ9En9PLQ)
-- [If It&#39;s Disco, Let&#39;s Groove by LA CASA, houselife](https://open.spotify.com/track/6A8D8GT7GJ1ov47TV4XxCB)
-- [Believe In Me by Luke Luxe](https://open.spotify.com/track/40ZrV2fQpAW99a1UkxM3Bb)
-- [Valerie by Paratone](https://open.spotify.com/track/7xeHe1pElnsyrZX9N4dsEK)
+- [Sun Goes Down by D.Polo](https://open.spotify.com/track/0J8wOtwMFkHrSYqPv28Irw)
+- [I Feel Like by SANDMO, Bad Space](https://open.spotify.com/track/7AipFlJoLLvV7mjRlExIGr)
+- [Drowning (feat. LU) - HYPAUX &amp; Spijk Remix by Open Rim, HYPAUX, Spijk, LU](https://open.spotify.com/track/5UU9REeORMW9vKvJW2GJg4)
+- [Just Like You by Tom Kha](https://open.spotify.com/track/0ZXAg3ZxNQ4znFNmXuONuZ)
+- [Family Affair - Secret Source Remix by Rotciv &amp; Revilo, MrRevillz, Secret Source](https://open.spotify.com/track/6MXzTDqtm8PDCroQwLYLsL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
