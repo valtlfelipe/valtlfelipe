@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [1&#43;1=1 by XYSM, EDGR](https://open.spotify.com/track/1Uk7cYdAjIukY1naydK11y)
-- [The One by D.Polo](https://open.spotify.com/track/7E29M3kXpuZG8Mn2xRVkli)
-- [Where Do We Go by Coffee Cub](https://open.spotify.com/track/6C7iu3nlOvumrz2SvrVNbM)
-- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
-- [Wanted by Marvin Shadex](https://open.spotify.com/track/6CC0cv0KDIXUwS8GVJwqF7)
+- [I&#39;ll Be There by Sean Blanc](https://open.spotify.com/track/2BWKbYQZOYNn01TS8FSXUU)
+- [Not the Same by Munch, DVNB, ENLIV3N](https://open.spotify.com/track/5gXcMNe5uyrEZ2k6fDAdux)
+- [One Night by Peer Pressure](https://open.spotify.com/track/6wzjZv68NVIvUwgdk0W9hJ)
+- [Golden Coast by Sum Wave, Bye Ocean](https://open.spotify.com/track/5OAzNsvlce77KdVuA2bVah)
+- [Daybreak by Duce, Maynørr, Courtney Storm](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
