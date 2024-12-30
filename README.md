@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [I&#39;ll Be There by Sean Blanc](https://open.spotify.com/track/2BWKbYQZOYNn01TS8FSXUU)
-- [Not the Same by Munch, DVNB, ENLIV3N](https://open.spotify.com/track/5gXcMNe5uyrEZ2k6fDAdux)
-- [One Night by Peer Pressure](https://open.spotify.com/track/6wzjZv68NVIvUwgdk0W9hJ)
-- [Golden Coast by Sum Wave, Bye Ocean](https://open.spotify.com/track/5OAzNsvlce77KdVuA2bVah)
-- [Daybreak by Duce, Maynørr, Courtney Storm](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA)
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
+- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
+- [When Love Takes Over (feat. Kelly Rowland) by David Guetta, Kelly Rowland](https://open.spotify.com/track/619bJQ9uDi8dnXzLebFI7y)
+- [Ain&#39;t Nobody (Loves Me Better) (feat. Jasmine Thompson) by Felix Jaehn, Jasmine Thompson](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
