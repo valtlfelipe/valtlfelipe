@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [So Now It Goes by POURI X](https://open.spotify.com/track/2enFCbJonaJ6XjGsRAK1wX)
-- [Ride You To The Moon by Thom Merlin, Vallia](https://open.spotify.com/track/5WESJl8LIW1tV7pMGZem9e)
-- [Paradise by Thierry Von Der Warth, Modi](https://open.spotify.com/track/45Q8FBzKZSIG5KsIe7VabG)
-- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
-- [Forever In My Mind by Madism, LPW](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB)
+- [Summer Love by Polar Notes, Tobÿ](https://open.spotify.com/track/1hzeCvQq4ODQSPt9koRac5)
+- [Favorite Wrong by The NGHBRS](https://open.spotify.com/track/4aGStEuwrSQBynCrHMgsEQ)
+- [Stay by BLANDOS](https://open.spotify.com/track/6jWCWTRMb6ctQRXF42pXcF)
+- [Beautiful Love by James Lacey](https://open.spotify.com/track/2o92guw11u0D9p6A0Uz138)
+- [follow by puulse](https://open.spotify.com/track/2BZkzlFZx4XZSSLPONjdt3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
