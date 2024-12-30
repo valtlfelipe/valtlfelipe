@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sun Goes Down by D.Polo](https://open.spotify.com/track/0J8wOtwMFkHrSYqPv28Irw)
-- [I Feel Like by SANDMO, Bad Space](https://open.spotify.com/track/7AipFlJoLLvV7mjRlExIGr)
-- [Drowning (feat. LU) - HYPAUX &amp; Spijk Remix by Open Rim, HYPAUX, Spijk, LU](https://open.spotify.com/track/5UU9REeORMW9vKvJW2GJg4)
-- [Just Like You by Tom Kha](https://open.spotify.com/track/0ZXAg3ZxNQ4znFNmXuONuZ)
-- [Family Affair - Secret Source Remix by Rotciv &amp; Revilo, MrRevillz, Secret Source](https://open.spotify.com/track/6MXzTDqtm8PDCroQwLYLsL)
+- [Wishing by Sean Blanc](https://open.spotify.com/track/2ipr8HboTyHZkeLj7DPvqh)
+- [Feel Alright by James Lacey, ODBLU](https://open.spotify.com/track/6yFWU2RnhjoMRCFJRG6I3n)
+- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
+- [Born to Be Free by Ruffnux](https://open.spotify.com/track/1SG8N1R6jboiXkfboZGxVX)
+- [Searching All Around by Coffee Cub](https://open.spotify.com/track/2T3r3RYm4JgH6FOdz6GdcW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
