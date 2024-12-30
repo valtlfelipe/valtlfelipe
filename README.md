@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [2 People - Highpass Deep Mix by Navara](https://open.spotify.com/track/2Ki2aK5Qe9MVyIsFuaJlbU)
-- [Not Alone by Jad Alexander](https://open.spotify.com/track/5xh2BtnjE1OiW8JPWgAWnF)
-- [Gaiola É o Troco by MC Du Black, DJ 2F](https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH)
-- [K.O. by Pabllo Vittar](https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl)
-- [Raspão (feat. Simone &amp; Simaria) - Ao Vivo by Henrique &amp; Diego, Simone &amp; Simaria](https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo)
+- [Late to Love by EMOCA, Loumé, JeLa](https://open.spotify.com/track/6SEtSmg0dUD9Qug0EVL33e)
+- [Shake It by B&#39;Bach](https://open.spotify.com/track/7Ejbq8E0URz6FgJ9En9PLQ)
+- [If It&#39;s Disco, Let&#39;s Groove by LA CASA, houselife](https://open.spotify.com/track/6A8D8GT7GJ1ov47TV4XxCB)
+- [Believe In Me by Luke Luxe](https://open.spotify.com/track/40ZrV2fQpAW99a1UkxM3Bb)
+- [Valerie by Paratone](https://open.spotify.com/track/7xeHe1pElnsyrZX9N4dsEK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
