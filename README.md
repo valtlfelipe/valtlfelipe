@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Let It Slide by AIMÉ, Odeon, Freyer, Sam Welch](https://open.spotify.com/track/4zuodNOafqvTJiAxW61k76)
-- [Young Blood by James Lacey, Jane Good, Lesley Rains](https://open.spotify.com/track/5hFq1TbhidQiOgagJXz56Y)
-- [How Deep Is My Love by TauTou](https://open.spotify.com/track/08yN1LynMDfNZvaEoXwN3M)
-- [søund øf yøur heartbeat by birø, KROO, Ariana Celaeno](https://open.spotify.com/track/56TaFtRKGyIYKXHta008HY)
-- [Blinding Lights by BLANDOS](https://open.spotify.com/track/6aEhJPUJD23Mpmlnb3c7mB)
+- [1&#43;1=1 by XYSM, EDGR](https://open.spotify.com/track/1Uk7cYdAjIukY1naydK11y)
+- [The One by D.Polo](https://open.spotify.com/track/7E29M3kXpuZG8Mn2xRVkli)
+- [Where Do We Go by Coffee Cub](https://open.spotify.com/track/6C7iu3nlOvumrz2SvrVNbM)
+- [førever by birø, JAIKO](https://open.spotify.com/track/6IFhVh2iDJPMKFFKLuPblb)
+- [Wanted by Marvin Shadex](https://open.spotify.com/track/6CC0cv0KDIXUwS8GVJwqF7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
