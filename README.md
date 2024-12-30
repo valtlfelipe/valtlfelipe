@@ -5,9 +5,9 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[Idered/chalk.ist](https://github.com/Idered/chalk.ist)** - 📷 Create beautiful images of your source code (2 days ago)
-- **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 days ago)
-- **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (5 days ago)
+- **[Idered/chalk.ist](https://github.com/Idered/chalk.ist)** - 📷 Create beautiful images of your source code (3 days ago)
+- **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 days ago)
+- **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (6 days ago)
 - **[Puchaczov/Musoq](https://github.com/Puchaczov/Musoq)** - SQL Syntax without any database (1 week ago)
 - **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
