@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)** - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (today)
 - **[Idered/chalk.ist](https://github.com/Idered/chalk.ist)** - 📷 Create beautiful images of your source code (4 days ago)
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (4 days ago)
 - **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (1 week ago)
 - **[Puchaczov/Musoq](https://github.com/Puchaczov/Musoq)** - SQL Syntax without any database (1 week ago)
-- **[healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script)** - Run a security scan on your server and identify common gaps. Get your VPS ready for production. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
-- [Wild Ones (feat. Sia) by Flo Rida, Sia](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3)
-- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
-- [Love Generation - Edit by Bob Sinclar, Gary Pine](https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF)
-- [Stay (feat. Maty Noyes) by Kygo, Maty Noyes](https://open.spotify.com/track/7gBj0VgcuAgkXkiRRYvSmK)
+- [Club Can&#39;t Handle Me (feat. David Guetta) by Flo Rida, David Guetta](https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y)
+- [One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)
+- [One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)
+- [Club Can&#39;t Handle Me (feat. David Guetta) by Flo Rida, David Guetta](https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y)
+- [We Found Love by Rihanna, Calvin Harris](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
