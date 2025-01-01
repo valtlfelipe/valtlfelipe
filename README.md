@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sex by Cheat Codes, Kris Kross Amsterdam](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0)
-- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
-- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
-- [King by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM)
-- [DJ Got Us Fallin&#39; In Love (feat. Pitbull) by USHER, Pitbull](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn)
+- [Love No More by Loud Luxury, anders](https://open.spotify.com/track/0E8WJOFs2eWD67USh7C6Qd)
+- [Prayer in C - Robin Schulz Radio Edit by Lilly Wood and The Prick, Robin Schulz](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck)
+- [STAY (with Justin Bieber) by The Kid LAROI, Justin Bieber](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo)
+- [Adventure of a Lifetime by Coldplay](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M)
+- [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
