@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Feel It Coming by The Weeknd, Daft Punk](https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt)
-- [Shots - Broiler Remix by Imagine Dragons, Broiler](https://open.spotify.com/track/0fsEFwLSJTSHSawhe864Cp)
-- [Safe and Sound by Capital Cities](https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav)
-- [Rude by MAGIC!](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp)
-- [Just the Way You Are by Bruno Mars](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt)
+- [Scared to Be Lonely by Martin Garrix, Dua Lipa](https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH)
+- [Rich Love (with Seeb) by OneRepublic, Seeb](https://open.spotify.com/track/7dOeiXeTSfA1ixaYmQcWu7)
+- [Perfect Strangers by Jonas Blue, JP Cooper](https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o)
+- [Locked out of Heaven by Bruno Mars](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh)
+- [OK by Robin Schulz, James Blunt](https://open.spotify.com/track/3bWAqKDWg6u1davspr5IkS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
