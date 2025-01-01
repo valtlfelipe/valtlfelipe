@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [Love No More by Loud Luxury, anders](https://open.spotify.com/track/0E8WJOFs2eWD67USh7C6Qd)
-- [Prayer in C - Robin Schulz Radio Edit by Lilly Wood and The Prick, Robin Schulz](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck)
-- [STAY (with Justin Bieber) by The Kid LAROI, Justin Bieber](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo)
-- [Adventure of a Lifetime by Coldplay](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M)
-- [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
+- [I Feel It Coming by The Weeknd, Daft Punk](https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt)
+- [Shots - Broiler Remix by Imagine Dragons, Broiler](https://open.spotify.com/track/0fsEFwLSJTSHSawhe864Cp)
+- [Safe and Sound by Capital Cities](https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav)
+- [Rude by MAGIC!](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp)
+- [Just the Way You Are by Bruno Mars](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
