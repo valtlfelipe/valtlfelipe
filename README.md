@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [Don&#39;t You Know - Radio Edit by Kungs, Jamie N Commons](https://open.spotify.com/track/5F2lWCeBZMxpo6SG1Q3PlL)
-- [Sunroof by Nicky Youre, dazy](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA)
-- [Demons by Imagine Dragons](https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR)
-- [Stole the Show by Kygo, Parson James](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7)
-- [Be Right There by Diplo, Sleepy Tom](https://open.spotify.com/track/2egKQvoHiCJyHXn8lRlsrl)
+- [All Around The World (La La La) by R3HAB, A Touch Of Class](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp)
+- [Prada by cassö, RAYE, D-Block Europe](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i)
+- [Stereo Love - Radio Edit by Edward Maya, Vika Jigulina](https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4)
+- [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
+- [Roses - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
