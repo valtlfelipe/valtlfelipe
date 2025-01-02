@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [Budapest by George Ezra](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1)
-- [Nothing Really Matters - Afrojack Remix by Mr. Probz](https://open.spotify.com/track/1FFd5yEjDOnQF6pRvyyaBC)
-- [Scared to Be Lonely by Martin Garrix, Dua Lipa](https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH)
-- [Rich Love (with Seeb) by OneRepublic, Seeb](https://open.spotify.com/track/7dOeiXeTSfA1ixaYmQcWu7)
-- [Perfect Strangers by Jonas Blue, JP Cooper](https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o)
+- [Chasing Highs by ALMA](https://open.spotify.com/track/3TVpk6F6UTLG6uhAxbdUWm)
+- [Wherever I Go by OneRepublic](https://open.spotify.com/track/46jLy47W8rkf8rEX04gMKB)
+- [Who Knew - Edit by P!nk](https://open.spotify.com/track/2hns6Dv29Yrg68AVTJiAyA)
+- [Yellow by Coldplay](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg)
+- [Save Me by LISTENBEE, Naz Tokio](https://open.spotify.com/track/4jNM6l3Amnmyy1kNCLcSWL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
