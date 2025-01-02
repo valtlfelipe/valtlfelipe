@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
 
 #### 🎧 What I have been listening
-- [I Still Think About You by Bassi Fox](https://open.spotify.com/track/2SnP7HVFsQgEYO0dMCqYsL)
-- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
-- [feelings by rayn, 6sept, cloudseven](https://open.spotify.com/track/7EbQKxpYZTqkqxgFlcK2Se)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
-- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
+- [Bowmore Fonk by DJ Daidol](https://open.spotify.com/track/0NS5yKkzoG5NHg5anZhaYA)
+- [Watch This by Paul Rietz](https://open.spotify.com/track/3TyXhmKIhw9wiC77soz2oB)
+- [cirtuiterie by kilowattz](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC)
+- [Feet in Sand by Sum Wave](https://open.spotify.com/track/6YbkG0VobN5rBaN9QW14Ih)
+- [Trucha by Mygg An](https://open.spotify.com/track/5dzC0o9oRwDh5sMu5xheZY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
