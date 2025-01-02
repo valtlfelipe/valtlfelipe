@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
 
 #### 🎧 What I have been listening
-- [U Can Be Lonely by Courage](https://open.spotify.com/track/144L4jXWPTvI0DKh2vhjV3)
-- [Blackoak by Maribou State](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18)
-- [Wish I Didn&#39;t Miss You by Sonny Noto](https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB)
-- [Mind Dimension by Jamy Nox, Bazaart, NeverSeen](https://open.spotify.com/track/59QTrFJ2lD7R0OmgMaX7vJ)
-- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
+- [Umbrella Sellers by Jeff the Human](https://open.spotify.com/track/5isutLrwjcSsYMSbnLl3QY)
+- [My Love (2024) by Alex Wann, Route 94, Jess Glynne](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk)
+- [Gaze Up (feat. Antonio Blakstad) by Rosbeh, Antonio Blakstad](https://open.spotify.com/track/0TpGRIvJhZuNpGbZ79nM2d)
+- [Famax by RAFFA GUIDO](https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz)
+- [Howl - Chill Mix by Elderbrook, Tourist](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
