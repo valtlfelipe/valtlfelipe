@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Music Taught Me Life by Rosbeh](https://open.spotify.com/track/6y7oSnVN2PpNvd4CUrvZBp)
-- [Missing You by Eli &amp; Fur](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq)
-- [Highly Recommended by Gerry Read, DJ Koze](https://open.spotify.com/track/2kyhGp9Okt2kYzgFBxDed6)
-- [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
-- [Jump by Levi](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh)
+- [I Still Think About You by Bassi Fox](https://open.spotify.com/track/2SnP7HVFsQgEYO0dMCqYsL)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [feelings by rayn, 6sept, cloudseven](https://open.spotify.com/track/7EbQKxpYZTqkqxgFlcK2Se)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
