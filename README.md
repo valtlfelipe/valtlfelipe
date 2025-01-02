@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (1 week ago)
 
 #### 🎧 What I have been listening
+- [Blinding Lights by The Weeknd](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
+- [Love Generation - Edit by Bob Sinclar, Gary Pine](https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF)
+- [In My Mind by Dynoro, Gigi D&#39;Agostino](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33)
+- [Levels - Radio Edit by Avicii](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg)
 - [All Around The World (La La La) by R3HAB, A Touch Of Class](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp)
-- [Prada by cassö, RAYE, D-Block Europe](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i)
-- [Stereo Love - Radio Edit by Edward Maya, Vika Jigulina](https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4)
-- [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
-- [Roses - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
