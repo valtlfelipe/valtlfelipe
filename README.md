@@ -5,10 +5,10 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (1 day ago)
-- **[SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)** - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (1 day ago)
-- **[Idered/chalk.ist](https://github.com/Idered/chalk.ist)** - 📷 Create beautiful images of your source code (5 days ago)
-- **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (5 days ago)
+- **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (2 days ago)
+- **[SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)** - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (2 days ago)
+- **[Idered/chalk.ist](https://github.com/Idered/chalk.ist)** - 📷 Create beautiful images of your source code (6 days ago)
+- **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
 - **[Thomascogez/npflared](https://github.com/Thomascogez/npflared)** (1 week ago)
 
 #### 🎧 What I have been listening
