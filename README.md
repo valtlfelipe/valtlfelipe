@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Both Of Us - Edit by Jayda G](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv)
-- [Marabelle by Anish Kumar](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm)
-- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
-- [Feels Like This by Hessian](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC)
-- [Touching My Body by Skepta, Jammer, Etta Bond](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh)
+- [U Can Be Lonely by Courage](https://open.spotify.com/track/144L4jXWPTvI0DKh2vhjV3)
+- [Blackoak by Maribou State](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18)
+- [Wish I Didn&#39;t Miss You by Sonny Noto](https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB)
+- [Mind Dimension by Jamy Nox, Bazaart, NeverSeen](https://open.spotify.com/track/59QTrFJ2lD7R0OmgMaX7vJ)
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
