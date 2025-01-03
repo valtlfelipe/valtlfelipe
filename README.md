@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Crop Top by Main Foyer](https://open.spotify.com/track/7fZOSXCWCsvxIv3Ps5HW5d)
-- [Cherry Pie by Yasumaru](https://open.spotify.com/track/1EvEBc3JNUSC6SXE9tZ7XF)
-- [La Di Da by Sum Wave](https://open.spotify.com/track/58tMnIDpSbrVVksv8pk8ty)
-- [Blooming by Paon Bleu](https://open.spotify.com/track/1wlh4OWp6xtnHheDnzp0Rz)
-- [Papaya by Berner Sen](https://open.spotify.com/track/0tSTeua23wX6TkjhcjLLv6)
+- [Location by Zerb, Ty Dolla $ign, Wiz Khalifa](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP)
+- [Unforgettable by LUMINAE, Feb, USAI](https://open.spotify.com/track/29y04ClehuGyTYVp9wHUfC)
+- [set me FREE by Harrison First, The Good Son](https://open.spotify.com/track/3hZD6wxuZ1ecDzEz6pE1Cq)
+- [Shout It Out by BLOND:ISH, Night Tales](https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm)
+- [Somebody New by Blusher](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
