@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)** - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (3 days ago)
 
 #### 🎧 What I have been listening
-- [Make Me Feel (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/6qHhWQJq1N3cLmcpxfBxhQ)
-- [Lie by BRETSN, SANDMO](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP)
-- [Walking On a Dream by NEIMY](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf)
-- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
-- [Don&#39;t Ever Call Me by Oleria, Swizznife](https://open.spotify.com/track/2JuYOAxZGQm7nF16N0gHsc)
+- [Ibiza by Coffee Cub](https://open.spotify.com/track/3dQkixAA0EprLAfta5lw2S)
+- [Rest of My Life by Piece Wise, Eloi El](https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW)
+- [Weekend by James Lacey](https://open.spotify.com/track/5rJOxqvMT0OYQQaqtj4oVo)
+- [Anywhere by Firevibe, Joel Coopa](https://open.spotify.com/track/7a1v8RwsFOtJwtdRqBfXbN)
+- [Just Let Go by Avi Snow, BIMINI, Yvvan Back](https://open.spotify.com/track/2vrpdYpLEhRoJJWxcwQKm1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
