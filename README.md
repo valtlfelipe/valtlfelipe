@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Avalon by Alan Walker, Anne Gudrun](https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT)
-- [Love Is The Only Thing by Lost Frequencies](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW)
-- [Over You (feat. Justin Jesso) by Ofenbach, Justin Jesso](https://open.spotify.com/track/69GEK9C8nKwiGLMv2NbpiG)
-- [New Energy by Nadia Ali](https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6)
-- [New Kinda Feeling by Sam Tinnesz, LiTTiE](https://open.spotify.com/track/1yvUdBCzugm8Xt4MI6EQbK)
+- [Fantasia by K-391, Syn Cole](https://open.spotify.com/track/1RdNdZqWUBpJichorZiGfl)
+- [Hold On Me by Kygo, Sandro Cavazza](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s)
+- [Right On Time by Felix Cartal, Tegan and Sara](https://open.spotify.com/track/58hTmluDFuN2ZV4bKfgN35)
+- [Born To Make It by La Fuente](https://open.spotify.com/track/6kTN5hzVv7v7OBWkadx3IP)
+- [I&#39;m Going Out by Steve Aoki, Sam Feldt, XANDRA, Nile Rodgers, Zak Abel](https://open.spotify.com/track/70k6autH2nK4fXmigkT4pg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
