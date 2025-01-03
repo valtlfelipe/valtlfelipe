@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Location by Zerb, Ty Dolla $ign, Wiz Khalifa](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP)
-- [Unforgettable by LUMINAE, Feb, USAI](https://open.spotify.com/track/29y04ClehuGyTYVp9wHUfC)
-- [set me FREE by Harrison First, The Good Son](https://open.spotify.com/track/3hZD6wxuZ1ecDzEz6pE1Cq)
-- [Shout It Out by BLOND:ISH, Night Tales](https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm)
-- [Somebody New by Blusher](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb)
+- [Avalon by Alan Walker, Anne Gudrun](https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT)
+- [Love Is The Only Thing by Lost Frequencies](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW)
+- [Over You (feat. Justin Jesso) by Ofenbach, Justin Jesso](https://open.spotify.com/track/69GEK9C8nKwiGLMv2NbpiG)
+- [New Energy by Nadia Ali](https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6)
+- [New Kinda Feeling by Sam Tinnesz, LiTTiE](https://open.spotify.com/track/1yvUdBCzugm8Xt4MI6EQbK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
