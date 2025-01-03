@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (2 days ago)
-- **[SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)** - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (2 days ago)
-- **[Idered/chalk.ist](https://github.com/Idered/chalk.ist)** - 📷 Create beautiful images of your source code (6 days ago)
-- **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
+- **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (3 days ago)
+- **[SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)** - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (3 days ago)
+- **[Idered/chalk.ist](https://github.com/Idered/chalk.ist)** - 📷 Create beautiful images of your source code (1 week ago)
+- **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Bowmore Fonk by DJ Daidol](https://open.spotify.com/track/0NS5yKkzoG5NHg5anZhaYA)
-- [Watch This by Paul Rietz](https://open.spotify.com/track/3TyXhmKIhw9wiC77soz2oB)
-- [cirtuiterie by kilowattz](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC)
-- [Feet in Sand by Sum Wave](https://open.spotify.com/track/6YbkG0VobN5rBaN9QW14Ih)
-- [Trucha by Mygg An](https://open.spotify.com/track/5dzC0o9oRwDh5sMu5xheZY)
+- [Blooming by Paon Bleu](https://open.spotify.com/track/1wlh4OWp6xtnHheDnzp0Rz)
+- [Papaya by Berner Sen](https://open.spotify.com/track/0tSTeua23wX6TkjhcjLLv6)
+- [Swirls by Pool-Man John](https://open.spotify.com/track/3d3lF5sNvkYHe8oL7tDJtH)
+- [Gate F67 by MAXM2](https://open.spotify.com/track/60PyrG3oFbyyUXSSlQaFtc)
+- [No Speed Rewind by Shiruky](https://open.spotify.com/track/6PR5Xi6J9hEh2pxmsWYzTQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
