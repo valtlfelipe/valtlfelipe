@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)** - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (3 days ago)
 
 #### 🎧 What I have been listening
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [All the Way by Piece Wise, Eloi El](https://open.spotify.com/track/5mHt8xsbIW661fnMBOwlTw)
-- [About U by Reel Mood, Tima Dee](https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP)
-- [Show Me by JLV, Thandi](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A)
-- [Veins by MACKS, Able Faces](https://open.spotify.com/track/4g3YQLcyhvEcVJSfiP5s1s)
+- [Speak Your Name by Lake Matisse](https://open.spotify.com/track/3WnDdthPb9CCqOERBoSHvb)
+- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
+- [Wanted by Marvin Shadex](https://open.spotify.com/track/6CC0cv0KDIXUwS8GVJwqF7)
+- [Rhythm Of The Night by Amaranth Skies, EFA, Ruocheng](https://open.spotify.com/track/4EQ7B4ELAsOtTTktv0A3S2)
+- [Searching All Around by Coffee Cub](https://open.spotify.com/track/2T3r3RYm4JgH6FOdz6GdcW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
