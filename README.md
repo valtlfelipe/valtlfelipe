@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Crop Top by Main Foyer](https://open.spotify.com/track/7fZOSXCWCsvxIv3Ps5HW5d)
+- [Cherry Pie by Yasumaru](https://open.spotify.com/track/1EvEBc3JNUSC6SXE9tZ7XF)
+- [La Di Da by Sum Wave](https://open.spotify.com/track/58tMnIDpSbrVVksv8pk8ty)
 - [Blooming by Paon Bleu](https://open.spotify.com/track/1wlh4OWp6xtnHheDnzp0Rz)
 - [Papaya by Berner Sen](https://open.spotify.com/track/0tSTeua23wX6TkjhcjLLv6)
-- [Swirls by Pool-Man John](https://open.spotify.com/track/3d3lF5sNvkYHe8oL7tDJtH)
-- [Gate F67 by MAXM2](https://open.spotify.com/track/60PyrG3oFbyyUXSSlQaFtc)
-- [No Speed Rewind by Shiruky](https://open.spotify.com/track/6PR5Xi6J9hEh2pxmsWYzTQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
