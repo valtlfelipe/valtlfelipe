@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)** - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (4 days ago)
 
 #### 🎧 What I have been listening
+- [Lover by Taylor Swift](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI)
 - [Riptide by Vance Joy](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o)
 - [Sugar by Maroon 5](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk)
 - [For You by Ruffnux](https://open.spotify.com/track/2EX2cxpaX7NiIYcB0FWQNi)
 - [Blooming by Paon Bleu](https://open.spotify.com/track/1wlh4OWp6xtnHheDnzp0Rz)
-- [Holding On by Steam Phunk, maybealice](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
