@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (5 days ago)
 
 #### 🎧 What I have been listening
+- [Issues by Julia Michaels](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0)
+- [Fingers Crossed by Lauren Spencer Smith](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY)
 - [Fast Car by Luke Combs](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT)
 - [Drops of Jupiter (Tell Me) by Train](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA)
 - [you broke me first by Tate McRae](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63)
-- [Night Changes by One Direction](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ)
-- [Riptide by Vance Joy](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
