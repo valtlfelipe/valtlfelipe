@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (5 days ago)
 
 #### 🎧 What I have been listening
+- [Lay It All on Me (feat. Ed Sheeran) by Rudimental, Ed Sheeran](https://open.spotify.com/track/6splO3UF8hSmK33y5fJTNk)
+- [Geronimo by Sheppard](https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en)
+- [Higher by Taio Cruz, Kylie Minogue](https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo)
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
 - [Party Rock Anthem by LMFAO, Lauren Bennett, GoonRock](https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI)
-- [Lush Life by Zara Larsson](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8)
-- [Issues by Julia Michaels](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0)
-- [Fingers Crossed by Lauren Spencer Smith](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY)
-- [Fast Car by Luke Combs](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
