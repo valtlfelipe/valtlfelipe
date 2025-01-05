@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics. (today)
 - **[connet-dev/connet](https://github.com/connet-dev/connet)** - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (2 days ago)
 - **[tembo-io/pgmq](https://github.com/tembo-io/pgmq)** - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (2 days ago)
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
 - **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (5 days ago)
-- **[SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)** - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (5 days ago)
 
 #### 🎧 What I have been listening
-- [Something in the Orange by Zach Bryan](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI)
-- [Lover by Taylor Swift](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI)
-- [I Like Me Better by Lauv](https://open.spotify.com/track/4MagTPnkPiDuIa4P8GtW1b)
-- [Easy On Me by Adele](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX)
-- [Lover by Taylor Swift](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI)
+- [Fast Car by Luke Combs](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT)
+- [Drops of Jupiter (Tell Me) by Train](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA)
+- [you broke me first by Tate McRae](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63)
+- [Night Changes by One Direction](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ)
+- [Riptide by Vance Joy](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
