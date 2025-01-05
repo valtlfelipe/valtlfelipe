@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (5 days ago)
 
 #### 🎧 What I have been listening
-- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
-- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
-- [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/7EH2enDP1q3upRqctbOz3n)
+- [King by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM)
 - [Lay It All on Me (feat. Ed Sheeran) by Rudimental, Ed Sheeran](https://open.spotify.com/track/6splO3UF8hSmK33y5fJTNk)
-- [Geronimo by Sheppard](https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en)
+- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
+- [Mama by Jonas Blue, William Singe](https://open.spotify.com/track/47OVNnZJzIkrsEiZ4n187p)
+- [Love Generation - Edit by Bob Sinclar, Gary Pine](https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
