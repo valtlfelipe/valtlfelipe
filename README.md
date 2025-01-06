@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 
 #### 🎧 What I have been listening
+- [Ride With Me by Zac Samuel](https://open.spotify.com/track/6CnR6eRYGYQc9bEtQeiiZR)
+- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
 - [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
 - [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
 - [Feel Alright by James Lacey, ODBLU](https://open.spotify.com/track/6yFWU2RnhjoMRCFJRG6I3n)
-- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
-- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
