@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 
 #### 🎧 What I have been listening
-- [Fairytale by Last Sun](https://open.spotify.com/track/3dlwhEZtSg1PKtGY22J1Pm)
-- [Reverie by Ruffnux](https://open.spotify.com/track/07cKGKuzEVspIrAvhchPWd)
-- [Sunrise by Keanler](https://open.spotify.com/track/5GAqaoEhGaKVqs65KCiimJ)
-- [søund øf yøur heartbeat by birø, KROO, Ariana Celaeno](https://open.spotify.com/track/56TaFtRKGyIYKXHta008HY)
-- [The One by D.Polo](https://open.spotify.com/track/7E29M3kXpuZG8Mn2xRVkli)
+- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
+- [For You by Ruffnux](https://open.spotify.com/track/2EX2cxpaX7NiIYcB0FWQNi)
+- [Million Little Stars by Lust.](https://open.spotify.com/track/2oe8iA4MHQnMD93f4cbcsN)
+- [Zero Gravity by Dominic Neill](https://open.spotify.com/track/4JRfQNcKrWe9rAuE2e2E0N)
+- [sick før yøu by birø](https://open.spotify.com/track/0DvQ7omIO7Ep8DtoOtNEhZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
