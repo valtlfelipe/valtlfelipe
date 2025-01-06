@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 
 #### 🎧 What I have been listening
+- [Hollow Ground by NOTSOBAD, Able Faces](https://open.spotify.com/track/0D3R3tViQUgPvuzcVX5Yku)
+- [Weekend by James Lacey](https://open.spotify.com/track/5rJOxqvMT0OYQQaqtj4oVo)
+- [Make Me Say - Radio version by Robert Burian, Phil Phauler](https://open.spotify.com/track/1hp02IGQQnjTKQXKJ2Jyri)
 - [Ride With Me by Zac Samuel](https://open.spotify.com/track/6CnR6eRYGYQc9bEtQeiiZR)
 - [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
-- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
-- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
-- [Feel Alright by James Lacey, ODBLU](https://open.spotify.com/track/6yFWU2RnhjoMRCFJRG6I3n)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
