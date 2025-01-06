@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (6 days ago)
 
 #### 🎧 What I have been listening
-- [I Love You by Lunar Echoes](https://open.spotify.com/track/3XVSa1dSRONQ9YUphtFScY)
-- [Faster by Chaël, Aurila](https://open.spotify.com/track/0JqRHptdEIMLOl1golYec6)
-- [I Had Some Help by Chris Ruo, FN Chill](https://open.spotify.com/track/2vrcFG2iPEDCxUMKPk2flU)
-- [Get Down Saturday Night (Italian Disco Mafia Mix) by Gary Caos, Peter Kharma, Italian Disco Mafia](https://open.spotify.com/track/13hvndkXrYJvInEipmAfJt)
-- [falling down by aural, four30, lostinspace](https://open.spotify.com/track/0wQeAm3vPlX0TnqyqUr2J8)
+- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
+- [Love Turn Round by LuvLess](https://open.spotify.com/track/70VjLIOJ7gLGVtD3GFqucT)
+- [Just Let Go by Avi Snow, BIMINI, Yvvan Back](https://open.spotify.com/track/2vrpdYpLEhRoJJWxcwQKm1)
+- [Good Thing by DeusExMaschine](https://open.spotify.com/track/7sWddb2SctBHmDwdMEEhUr)
+- [I Like You by James Lacey](https://open.spotify.com/track/44VCpf748U2ODV5EfXnjB3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
