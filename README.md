@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 
 #### 🎧 What I have been listening
-- [Hollow Ground by NOTSOBAD, Able Faces](https://open.spotify.com/track/0D3R3tViQUgPvuzcVX5Yku)
-- [Weekend by James Lacey](https://open.spotify.com/track/5rJOxqvMT0OYQQaqtj4oVo)
-- [Make Me Say - Radio version by Robert Burian, Phil Phauler](https://open.spotify.com/track/1hp02IGQQnjTKQXKJ2Jyri)
-- [Ride With Me by Zac Samuel](https://open.spotify.com/track/6CnR6eRYGYQc9bEtQeiiZR)
-- [Lingered Love (feat. Courtney Storm) by Steam Phunk, Courtney Storm](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK)
+- [Greedy by Sunseekers](https://open.spotify.com/track/5K5eCruUPad7g4G8R4wUXs)
+- [Paradise Island by Coral Reef, Bikini Bandits, summer sax](https://open.spotify.com/track/0Ti6NRd2IZTfKIUKQ1w5nV)
+- [Creep by GAMPER &amp; DADONI](https://open.spotify.com/track/6KtHzurc7we1i8WbdbDpJD)
+- [Love is wicked by Ødyssey](https://open.spotify.com/track/43NykyiKURBnbz5Hx3gfmF)
+- [The Otherside (feat. Paige Cavell) by ACRAZE, Paige Cavell](https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
