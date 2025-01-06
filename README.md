@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (6 days ago)
 
 #### 🎧 What I have been listening
-- [Love is wicked by Ødyssey](https://open.spotify.com/track/43NykyiKURBnbz5Hx3gfmF)
-- [Paradise Island by Coral Reef, Bikini Bandits, summer sax](https://open.spotify.com/track/0Ti6NRd2IZTfKIUKQ1w5nV)
-- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
-- [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/7EH2enDP1q3upRqctbOz3n)
-- [Barbra Streisand - Radio Edit by Duck Sauce](https://open.spotify.com/track/640AR2YmgcKoJpaqTnCE4R)
+- [I Love You by Lunar Echoes](https://open.spotify.com/track/3XVSa1dSRONQ9YUphtFScY)
+- [Faster by Chaël, Aurila](https://open.spotify.com/track/0JqRHptdEIMLOl1golYec6)
+- [I Had Some Help by Chris Ruo, FN Chill](https://open.spotify.com/track/2vrcFG2iPEDCxUMKPk2flU)
+- [Get Down Saturday Night (Italian Disco Mafia Mix) by Gary Caos, Peter Kharma, Italian Disco Mafia](https://open.spotify.com/track/13hvndkXrYJvInEipmAfJt)
+- [falling down by aural, four30, lostinspace](https://open.spotify.com/track/0wQeAm3vPlX0TnqyqUr2J8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
