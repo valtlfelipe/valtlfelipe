@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 
 #### 🎧 What I have been listening
-- [Waiting For by Eijk, CLOVER](https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5)
-- [Wild by Tough Love, TAPE ANGEL](https://open.spotify.com/track/7z8grMV3fvfgDgEFrCdaAU)
-- [Somewhere Only We Know by TEEMID, LissA](https://open.spotify.com/track/3nOBFISabnB4a9RJyDd9DK)
-- [Lost in You by Astrality, Thandi](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH)
-- [tø infinity by birø](https://open.spotify.com/track/2ulIVcXhrQJAc2mGjJeYoo)
+- [Far Beyond by Munch, Piece Wise](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA)
+- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
+- [Midnight Zone by Astrality, TAPE ANGEL](https://open.spotify.com/track/6iDQi093BFCGouVa3uXpOu)
+- [Safe and Sound by Gorgon Breath](https://open.spotify.com/track/2Dqxo92YozPfP6926vfUoG)
+- [Young Blood by James Lacey, Jane Good, Lesley Rains](https://open.spotify.com/track/5hFq1TbhidQiOgagJXz56Y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
