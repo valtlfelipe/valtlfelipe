@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries and cloud providers while providing a fluent API for specifying log messages, metadata and errors. (today)
 - **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. (1 day ago)
 - **[connet-dev/connet](https://github.com/connet-dev/connet)** - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (3 days ago)
 - **[tembo-io/pgmq](https://github.com/tembo-io/pgmq)** - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (3 days ago)
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
-- **[jetkvm/kvm](https://github.com/jetkvm/kvm)** - JetKVM - Control any computer remotely (6 days ago)
 
 #### 🎧 What I have been listening
+- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
+- [Can&#39;t Hold Us by Stephen Oaks, AALLAR, Just Mike](https://open.spotify.com/track/55De68ZFn4WG4XupeFeAt0)
+- [Feel Alright by James Lacey, ODBLU](https://open.spotify.com/track/6yFWU2RnhjoMRCFJRG6I3n)
+- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
 - [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
-- [Love Turn Round by LuvLess](https://open.spotify.com/track/70VjLIOJ7gLGVtD3GFqucT)
-- [Just Let Go by Avi Snow, BIMINI, Yvvan Back](https://open.spotify.com/track/2vrpdYpLEhRoJJWxcwQKm1)
-- [Good Thing by DeusExMaschine](https://open.spotify.com/track/7sWddb2SctBHmDwdMEEhUr)
-- [I Like You by James Lacey](https://open.spotify.com/track/44VCpf748U2ODV5EfXnjB3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
