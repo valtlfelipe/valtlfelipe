@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 
 #### 🎧 What I have been listening
-- [Just Let Go by Avi Snow, BIMINI, Yvvan Back](https://open.spotify.com/track/2vrpdYpLEhRoJJWxcwQKm1)
-- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
-- [I Like You by James Lacey](https://open.spotify.com/track/44VCpf748U2ODV5EfXnjB3)
-- [Would U Let Me by Oliver Cricket](https://open.spotify.com/track/37qIRuKZvSQTYqMAJoXFmm)
-- [Secret by NCPTN, Keilimei](https://open.spotify.com/track/75ZQMh54KgrumqghnZWC5C)
+- [Waiting For by Eijk, CLOVER](https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5)
+- [Wild by Tough Love, TAPE ANGEL](https://open.spotify.com/track/7z8grMV3fvfgDgEFrCdaAU)
+- [Somewhere Only We Know by TEEMID, LissA](https://open.spotify.com/track/3nOBFISabnB4a9RJyDd9DK)
+- [Lost in You by Astrality, Thandi](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH)
+- [tø infinity by birø](https://open.spotify.com/track/2ulIVcXhrQJAc2mGjJeYoo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
