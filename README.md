@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 
 #### 🎧 What I have been listening
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
-- [Was It Even Real by Piece Wise, Eijk](https://open.spotify.com/track/2NEWBybTTWrEvb7NDhCF8s)
-- [Sunday Vibe by James Lacey](https://open.spotify.com/track/0R4rV2BoKcNz1gIALk76HH)
-- [California Dreamin by Subriser](https://open.spotify.com/track/6qkK3gxH5S6hF8S7SYVJsf)
-- [City of Lights by Dawilk](https://open.spotify.com/track/6djw06D6xYUoAbCkghJWCh)
+- [Get Down Saturday Night by Gorgon Breath, Monartt, Eliza](https://open.spotify.com/track/6eXKCcEqAU4eJLfDgh8sfG)
+- [Where Do We Go by Coffee Cub](https://open.spotify.com/track/6C7iu3nlOvumrz2SvrVNbM)
+- [Wishing by Sean Blanc](https://open.spotify.com/track/2ipr8HboTyHZkeLj7DPvqh)
+- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
+- [Body on Fire by SOMMA, Dillistone](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
