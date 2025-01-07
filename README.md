@@ -5,11 +5,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries and cloud providers while providing a fluent API for specifying log messages, metadata and errors. (today)
-- **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. (1 day ago)
-- **[connet-dev/connet](https://github.com/connet-dev/connet)** - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (3 days ago)
-- **[tembo-io/pgmq](https://github.com/tembo-io/pgmq)** - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (3 days ago)
-- **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries and cloud providers while providing a fluent API for specifying log messages, metadata and errors. (1 day ago)
+- **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. (2 days ago)
+- **[connet-dev/connet](https://github.com/connet-dev/connet)** - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (4 days ago)
+- **[tembo-io/pgmq](https://github.com/tembo-io/pgmq)** - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (4 days ago)
+- **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 
 #### 🎧 What I have been listening
 - [Far Beyond by Munch, Piece Wise](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA)
