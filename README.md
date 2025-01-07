@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 
 #### 🎧 What I have been listening
-- [All I Care by ROOSTERJAXX](https://open.spotify.com/track/4HyZnGKV3SKCJtEOnnigng)
-- [Howl by SOMMA, SHELLS](https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy)
-- [All I Wanna Know by Dawilk, pinkskies](https://open.spotify.com/track/5KYNaaD5q5bDTyxCvMmAT3)
-- [So Now It Goes by POURI X](https://open.spotify.com/track/2enFCbJonaJ6XjGsRAK1wX)
-- [Get Down Saturday Night - Extended by Gorgon Breath, Monartt, Eliza](https://open.spotify.com/track/0yYm2Fvewg1Q0FIIl1o5mW)
+- [Along Your Way by Dawell, Tripton, Ladina Viva](https://open.spotify.com/track/45wwGXkRdd9H5WMTm1JZHG)
+- [Mind by Alex Martura, MRYN](https://open.spotify.com/track/69WFYs3DrunVbNGnWU9Jsr)
+- [Waiting for Sunshine by AINT](https://open.spotify.com/track/4RWzgYkjVm1klwrKICz1vn)
+- [It Goes Like by Nicolas Haelg, Sam Halabi](https://open.spotify.com/track/7aYLqd2GOz8zQSpivz0OqQ)
+- [Rhythm Of The Night by Amaranth Skies, EFA, Ruocheng](https://open.spotify.com/track/4EQ7B4ELAsOtTTktv0A3S2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
