@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 
 #### 🎧 What I have been listening
-- [Along Your Way by Dawell, Tripton, Ladina Viva](https://open.spotify.com/track/45wwGXkRdd9H5WMTm1JZHG)
-- [Mind by Alex Martura, MRYN](https://open.spotify.com/track/69WFYs3DrunVbNGnWU9Jsr)
-- [Waiting for Sunshine by AINT](https://open.spotify.com/track/4RWzgYkjVm1klwrKICz1vn)
-- [It Goes Like by Nicolas Haelg, Sam Halabi](https://open.spotify.com/track/7aYLqd2GOz8zQSpivz0OqQ)
-- [Rhythm Of The Night by Amaranth Skies, EFA, Ruocheng](https://open.spotify.com/track/4EQ7B4ELAsOtTTktv0A3S2)
+- [Hold on Me by Why U So, SHELLS](https://open.spotify.com/track/43FNnp0KnanReB8KCTl97p)
+- [Holding On by Steam Phunk, maybealice](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa)
+- [Reverie by Ruffnux](https://open.spotify.com/track/07cKGKuzEVspIrAvhchPWd)
+- [To Me by Howie Conyack](https://open.spotify.com/track/30awweiA0sVK1eKks6wkKJ)
+- [Let Go by Alex Martura](https://open.spotify.com/track/0Bary1wm0KXq4SaU5Cv1Co)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
