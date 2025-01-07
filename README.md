@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 
 #### 🎧 What I have been listening
-- [Talk To Me by DRAY, Tudor](https://open.spotify.com/track/4Zr9cXuM4U7K8xUEiey8ib)
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [Heavy by Nick Raff](https://open.spotify.com/track/0qvU7Gi8jD921pmyWGuqI6)
-- [follow by puulse](https://open.spotify.com/track/2BZkzlFZx4XZSSLPONjdt3)
-- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
+- [Listen To The Sound by Matvey Emerson, YellowLight](https://open.spotify.com/track/6Isf9LXQ5R65z35cfsjf6c)
+- [Shallow Walls by LJ MASE, Skyknock, Jessie Lee Thetford](https://open.spotify.com/track/0pQ2qWfc6iGbdTUvEieR3u)
+- [the møre that i dø by birø, JAIKO](https://open.spotify.com/track/1AWmsq8nATWMglHeWeup0B)
+- [Inner Light by PALASTIC, Malou](https://open.spotify.com/track/4mD6xnWbbhIjVZe4E7oDkk)
+- [Echo by RAZZ, Karim](https://open.spotify.com/track/4JgGN5YPLx1w50O8buY1Lr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
