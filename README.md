@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 
 #### 🎧 What I have been listening
-- [Something New by Keanler](https://open.spotify.com/track/7cFwaJ4GtNnWlHWSTsFLrd)
-- [Liar by phil&#39;s ok.](https://open.spotify.com/track/5JV5Hk5zjqoRzwWOeI1yAE)
-- [Searching All Around by Coffee Cub](https://open.spotify.com/track/2T3r3RYm4JgH6FOdz6GdcW)
-- [Tell Me by James Carter, Hanne Mjøen](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg)
-- [Summer Love by Polar Notes, Tobÿ](https://open.spotify.com/track/1hzeCvQq4ODQSPt9koRac5)
+- [All I Care by ROOSTERJAXX](https://open.spotify.com/track/4HyZnGKV3SKCJtEOnnigng)
+- [Howl by SOMMA, SHELLS](https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy)
+- [All I Wanna Know by Dawilk, pinkskies](https://open.spotify.com/track/5KYNaaD5q5bDTyxCvMmAT3)
+- [So Now It Goes by POURI X](https://open.spotify.com/track/2enFCbJonaJ6XjGsRAK1wX)
+- [Get Down Saturday Night - Extended by Gorgon Breath, Monartt, Eliza](https://open.spotify.com/track/0yYm2Fvewg1Q0FIIl1o5mW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
