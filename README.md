@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 
 #### 🎧 What I have been listening
-- [Hold on Me by Why U So, SHELLS](https://open.spotify.com/track/43FNnp0KnanReB8KCTl97p)
-- [Holding On by Steam Phunk, maybealice](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa)
-- [Reverie by Ruffnux](https://open.spotify.com/track/07cKGKuzEVspIrAvhchPWd)
-- [To Me by Howie Conyack](https://open.spotify.com/track/30awweiA0sVK1eKks6wkKJ)
-- [Let Go by Alex Martura](https://open.spotify.com/track/0Bary1wm0KXq4SaU5Cv1Co)
+- [Talk To Me by DRAY, Tudor](https://open.spotify.com/track/4Zr9cXuM4U7K8xUEiey8ib)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [Heavy by Nick Raff](https://open.spotify.com/track/0qvU7Gi8jD921pmyWGuqI6)
+- [follow by puulse](https://open.spotify.com/track/2BZkzlFZx4XZSSLPONjdt3)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
