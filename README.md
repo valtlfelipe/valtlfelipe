@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 
 #### 🎧 What I have been listening
-- [Get Down Saturday Night by Gorgon Breath, Monartt, Eliza](https://open.spotify.com/track/6eXKCcEqAU4eJLfDgh8sfG)
-- [Where Do We Go by Coffee Cub](https://open.spotify.com/track/6C7iu3nlOvumrz2SvrVNbM)
-- [Wishing by Sean Blanc](https://open.spotify.com/track/2ipr8HboTyHZkeLj7DPvqh)
-- [Pour It Up by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/6zqH5LgRuYXOgXXIsEe522)
-- [Body on Fire by SOMMA, Dillistone](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV)
+- [Stay by Gorgon Breath, Monartt, Maren](https://open.spotify.com/track/7Mvgu9fckBZMgwsBXRkqne)
+- [My Sunshine by Coffee Cub](https://open.spotify.com/track/3ZNZqvp0s1oc7ZtnrDLpsx)
+- [Will You Be Mine by SAINT.](https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz)
+- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
+- [hold me now by rayn](https://open.spotify.com/track/6S2K24ezbw8PY7ALKoGxA7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
