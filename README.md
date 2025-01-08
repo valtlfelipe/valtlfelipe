@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 
 #### 🎧 What I have been listening
-- [Forever In My Mind by Madism, LPW](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB)
-- [Rhythm Of My Mind - Chill Edit by Atch, Treetalk](https://open.spotify.com/track/0ZJdZtjF4cjZazBjeG8ql1)
-- [feelings don&#39;t lie by Ofenbach, salem ilese](https://open.spotify.com/track/1Un4BctmbaAaQJtv6Mk79r)
-- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
-- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
+- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [Colourful by Grey Vision](https://open.spotify.com/track/2FyXyL8ovftr9BeFyjjQ5P)
+- [Not the Same by Munch, DVNB, ENLIV3N](https://open.spotify.com/track/5gXcMNe5uyrEZ2k6fDAdux)
+- [In The Dust by Richard Judge, Jelen, Embody](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
