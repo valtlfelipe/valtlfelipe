@@ -6,7 +6,7 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 
 #### ⭐ Recent Stars
 - **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries and cloud providers while providing a fluent API for specifying log messages, metadata and errors. (2 days ago)
-- **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. (3 days ago)
+- **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. Get started - free. (3 days ago)
 - **[connet-dev/connet](https://github.com/connet-dev/connet)** - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (5 days ago)
 - **[tembo-io/pgmq](https://github.com/tembo-io/pgmq)** - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (5 days ago)
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
