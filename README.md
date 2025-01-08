@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 
 #### 🎧 What I have been listening
+- [call your name by puulse, maybealice](https://open.spotify.com/track/64nHffSg8vjbefneTeIK0r)
 - [Listen To The Sound by Matvey Emerson, YellowLight](https://open.spotify.com/track/6Isf9LXQ5R65z35cfsjf6c)
 - [Shallow Walls by LJ MASE, Skyknock, Jessie Lee Thetford](https://open.spotify.com/track/0pQ2qWfc6iGbdTUvEieR3u)
 - [the møre that i dø by birø, JAIKO](https://open.spotify.com/track/1AWmsq8nATWMglHeWeup0B)
 - [Inner Light by PALASTIC, Malou](https://open.spotify.com/track/4mD6xnWbbhIjVZe4E7oDkk)
-- [Echo by RAZZ, Karim](https://open.spotify.com/track/4JgGN5YPLx1w50O8buY1Lr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
