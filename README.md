@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 
 #### 🎧 What I have been listening
-- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
-- [Far Beyond by Munch, Piece Wise](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA)
-- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
-- [Midnight Zone by Astrality, TAPE ANGEL](https://open.spotify.com/track/6iDQi093BFCGouVa3uXpOu)
-- [Safe and Sound by Gorgon Breath](https://open.spotify.com/track/2Dqxo92YozPfP6926vfUoG)
+- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
+- [About U by Reel Mood, Tima Dee](https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP)
+- [Body Language by James Carter, Punctual, RBZ](https://open.spotify.com/track/01hCzxgttMvy4v9760kXke)
+- [Give Me Your Love by LEDUC](https://open.spotify.com/track/2ftN0Aikomqttb2hBJUHSW)
+- [Check Out by J. Worra, Leo Stannard](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
