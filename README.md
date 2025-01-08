@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 
 #### 🎧 What I have been listening
-- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
-- [Need To Breathe by Jane Good](https://open.spotify.com/track/7hzJdwyCUV35Iuw7QXSWC9)
-- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
-- [Young Again by SAINT., RAZZ](https://open.spotify.com/track/7bTwbUO1lbj2zjnZWYCcjI)
-- [LUNCH by Nomore, Tasty Or Not, Queen D](https://open.spotify.com/track/1qXocnPCGMbNpsz9MRiwy6)
+- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
+- [Far Beyond by Munch, Piece Wise](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA)
+- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
+- [Midnight Zone by Astrality, TAPE ANGEL](https://open.spotify.com/track/6iDQi093BFCGouVa3uXpOu)
+- [Safe and Sound by Gorgon Breath](https://open.spotify.com/track/2Dqxo92YozPfP6926vfUoG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
