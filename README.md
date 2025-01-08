@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 
 #### 🎧 What I have been listening
-- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
-- [About U by Reel Mood, Tima Dee](https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP)
-- [Body Language by James Carter, Punctual, RBZ](https://open.spotify.com/track/01hCzxgttMvy4v9760kXke)
-- [Give Me Your Love by LEDUC](https://open.spotify.com/track/2ftN0Aikomqttb2hBJUHSW)
-- [Check Out by J. Worra, Leo Stannard](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM)
+- [Harder We Fall by SOMMA, YUMA, Austin Tate](https://open.spotify.com/track/675ENLQoyLkIzEGHm5FAqe)
+- [Heaven by James Carter](https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3)
+- [I Like You by James Lacey](https://open.spotify.com/track/44VCpf748U2ODV5EfXnjB3)
+- [Weekend by James Lacey](https://open.spotify.com/track/5rJOxqvMT0OYQQaqtj4oVo)
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/2QMnxA6R1PD0dYyUi5AxZZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
