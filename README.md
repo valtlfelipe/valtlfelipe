@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 
 #### 🎧 What I have been listening
-- [Living In The Darkness by Sven and Jeffrey, Almost Weekend, Sam Heselwood](https://open.spotify.com/track/6ZjPGSwQH1I9srKKLacKKh)
-- [Never Last by Keanler](https://open.spotify.com/track/51Ubg1pFEBA7PSg3v7pgkx)
-- [Waiting For by Eijk, CLOVER](https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5)
-- [Can You Feel It? by Coffee Cub](https://open.spotify.com/track/5ebQzc6OSS8o4Iztb0cPw2)
-- [Both of Us by BangLoud](https://open.spotify.com/track/1gOllheZuTZKLB2760D7H9)
+- [I Can&#39;t See by ROW, Samuel Miller](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo)
+- [The One by Jane Good, Samuel Miller](https://open.spotify.com/track/2hT9vWmKp6uduKzmalqeMA)
+- [Heart By Dawn by The Sunnefield, Olly Wall, Michel Fannoun](https://open.spotify.com/track/21mBE3LlK1H3Vb6NHWt8wp)
+- [I Feel Like by SANDMO, Bad Space](https://open.spotify.com/track/7AipFlJoLLvV7mjRlExIGr)
+- [Your Heart by Urban Love](https://open.spotify.com/track/0VDk6RcCB0B2iViJjFk6ks)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
