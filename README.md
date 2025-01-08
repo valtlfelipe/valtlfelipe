@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 
 #### 🎧 What I have been listening
-- [I Can&#39;t See by ROW, Samuel Miller](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo)
-- [The One by Jane Good, Samuel Miller](https://open.spotify.com/track/2hT9vWmKp6uduKzmalqeMA)
-- [Heart By Dawn by The Sunnefield, Olly Wall, Michel Fannoun](https://open.spotify.com/track/21mBE3LlK1H3Vb6NHWt8wp)
-- [I Feel Like by SANDMO, Bad Space](https://open.spotify.com/track/7AipFlJoLLvV7mjRlExIGr)
-- [Your Heart by Urban Love](https://open.spotify.com/track/0VDk6RcCB0B2iViJjFk6ks)
+- [Young Again by SAINT., RAZZ](https://open.spotify.com/track/7bTwbUO1lbj2zjnZWYCcjI)
+- [LUNCH by Nomore, Tasty Or Not, Queen D](https://open.spotify.com/track/1qXocnPCGMbNpsz9MRiwy6)
+- [just listen.. by Luca](https://open.spotify.com/track/39ApO75jBG1tTyL9958Bdd)
+- [How We Do by Maxxteen](https://open.spotify.com/track/1qM44i3fF16l7vVgMIrzhn)
+- [If You Wait by Thunder](https://open.spotify.com/track/1uS6GEK89trnBdmsTEkFAi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
