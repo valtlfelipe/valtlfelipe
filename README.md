@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
-- [Shooting Stars by Solven](https://open.spotify.com/track/3O8cUTgeU37uII7wZotxLp)
-- [I Like You by James Lacey](https://open.spotify.com/track/44VCpf748U2ODV5EfXnjB3)
-- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
-- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
-- [Stay The Night by Kintexa, NYLA](https://open.spotify.com/track/7GFxNhPxE4mwnx1lIVWNwh)
+- [Don&#39;t (Fall in Love) by Just Kiddin](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z)
+- [Euphoria (with Alok) by Armin van Buuren, Alok, Norma Jean Martine, LAWRENT](https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
+- [Forever Young by David Guetta, Alphaville, Ava Max](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk)
+- [Secrets by Tudor, Caroline Byrne](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
