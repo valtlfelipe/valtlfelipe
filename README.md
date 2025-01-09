@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/1cYyZ1N98GyRS3cMcccFHd)
-- [Stars Ignite - Radio Edit by Jozvent, Elirah](https://open.spotify.com/track/2dyrPMpYNx3nyd3Nv9et16)
-- [No Bad Vibes by Jazzy, KILIMANJARO](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8)
-- [Heartbeat by Eric Lund](https://open.spotify.com/track/3isT7Ow2kCq1ZtV7ryTa5v)
-- [Weekend by James Lacey](https://open.spotify.com/track/5rJOxqvMT0OYQQaqtj4oVo)
+- [About U by Reel Mood, Tima Dee](https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP)
+- [You&#39;ve Got The Love - Sistek Remix by Ethan Hodges, Sistek](https://open.spotify.com/track/6xRhFcqq4FX9b0PFZU1j43)
+- [Girl by DRAY](https://open.spotify.com/track/2GACO8LMjI2yufAhOHQvsw)
+- [I Adore You - ARTBAT Remix by HUGEL, Topic, ARTBAT, Arash, Daecolm](https://open.spotify.com/track/1Zg16X9sBXpfQbs6fgVJzH)
+- [Honesty by Paul Schulze, Able Faces, Callum George](https://open.spotify.com/track/5ZzE5vW4fTPzjLDEe6EjUU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
