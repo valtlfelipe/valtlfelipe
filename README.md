@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
+- [Skin and Bones - MEDUZA REMIX by David Kushner, MEDUZA](https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO)
 - [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
 - [When I Hear Your Name (Baby Don&#39;t Stop) by Yanoy](https://open.spotify.com/track/6QvHXosopVKisr2n55moDq)
 - [I Follow Rivers x Meet Me Halfway - Medley Version by smashup](https://open.spotify.com/track/35CXS5il66nJkKjAiSzyQl)
 - [If We Have Each Other (Nightcore) by NightcoreMuzzic, TommyMuzzic](https://open.spotify.com/track/4gbAX1vCXJEy2e4cbj8Y7R)
-- [Shooting Stars by Solven](https://open.spotify.com/track/3O8cUTgeU37uII7wZotxLp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
