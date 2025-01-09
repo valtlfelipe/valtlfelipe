@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
-- [Better Days by Oliver Cricket](https://open.spotify.com/track/5f9t61TRxZ3ancJadJyrHm)
-- [Wildfire by PALASTIC](https://open.spotify.com/track/7iIzan4uOlOeXZ8iE3b91F)
-- [Goodbyes by Jerome Price](https://open.spotify.com/track/5DBmzEKUjSlErSYTkiS8PZ)
-- [Sleep Walking by Franklin](https://open.spotify.com/track/11KXhIzhMQvUZBqiwkEShR)
-- [Your Touch by Why U So, SHELLS](https://open.spotify.com/track/0rfsaQbCQQGu5mfytzH5z8)
+- [Shooting Stars by Solven](https://open.spotify.com/track/3O8cUTgeU37uII7wZotxLp)
+- [I Like You by James Lacey](https://open.spotify.com/track/44VCpf748U2ODV5EfXnjB3)
+- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
+- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
+- [Stay The Night by Kintexa, NYLA](https://open.spotify.com/track/7GFxNhPxE4mwnx1lIVWNwh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
