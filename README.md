@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [My Love by THAT KIND](https://open.spotify.com/track/52Ei6XM9evOhYavdKfnaUo)
-- [Sitting Down Here by James Lacey, Mallou](https://open.spotify.com/track/57uIbqGJo7Ko0W5B45a2Vq)
-- [Family Affair - Secret Source Remix by Rotciv &amp; Revilo, MrRevillz, Secret Source](https://open.spotify.com/track/6MXzTDqtm8PDCroQwLYLsL)
-- [Feel So Good by Ryan Shepherd, Malou](https://open.spotify.com/track/0zuRqJfzMeqjwzJ56OhalZ)
+- [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/1cYyZ1N98GyRS3cMcccFHd)
+- [Stars Ignite - Radio Edit by Jozvent, Elirah](https://open.spotify.com/track/2dyrPMpYNx3nyd3Nv9et16)
+- [No Bad Vibes by Jazzy, KILIMANJARO](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8)
+- [Heartbeat by Eric Lund](https://open.spotify.com/track/3isT7Ow2kCq1ZtV7ryTa5v)
+- [Weekend by James Lacey](https://open.spotify.com/track/5rJOxqvMT0OYQQaqtj4oVo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
