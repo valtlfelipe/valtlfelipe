@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
-- [About U by Reel Mood, Tima Dee](https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP)
-- [You&#39;ve Got The Love - Sistek Remix by Ethan Hodges, Sistek](https://open.spotify.com/track/6xRhFcqq4FX9b0PFZU1j43)
-- [Girl by DRAY](https://open.spotify.com/track/2GACO8LMjI2yufAhOHQvsw)
-- [I Adore You - ARTBAT Remix by HUGEL, Topic, ARTBAT, Arash, Daecolm](https://open.spotify.com/track/1Zg16X9sBXpfQbs6fgVJzH)
-- [Honesty by Paul Schulze, Able Faces, Callum George](https://open.spotify.com/track/5ZzE5vW4fTPzjLDEe6EjUU)
+- [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
+- [When I Hear Your Name (Baby Don&#39;t Stop) by Yanoy](https://open.spotify.com/track/6QvHXosopVKisr2n55moDq)
+- [I Follow Rivers x Meet Me Halfway - Medley Version by smashup](https://open.spotify.com/track/35CXS5il66nJkKjAiSzyQl)
+- [If We Have Each Other (Nightcore) by NightcoreMuzzic, TommyMuzzic](https://open.spotify.com/track/4gbAX1vCXJEy2e4cbj8Y7R)
+- [Shooting Stars by Solven](https://open.spotify.com/track/3O8cUTgeU37uII7wZotxLp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
