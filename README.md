@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
+- [Feel So Good by Ryan Shepherd, Malou](https://open.spotify.com/track/0zuRqJfzMeqjwzJ56OhalZ)
+- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
+- [When I Hear Your Name (Baby Don&#39;t Stop) by Yanoy](https://open.spotify.com/track/6QvHXosopVKisr2n55moDq)
 - [Would U Let Me by Oliver Cricket](https://open.spotify.com/track/37qIRuKZvSQTYqMAJoXFmm)
 - [Beautiful Love by James Lacey](https://open.spotify.com/track/2o92guw11u0D9p6A0Uz138)
-- [Don&#39;t (Fall in Love) by Just Kiddin](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z)
-- [Euphoria (with Alok) by Armin van Buuren, Alok, Norma Jean Martine, LAWRENT](https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc)
-- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
