@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [My Love by THAT KIND](https://open.spotify.com/track/52Ei6XM9evOhYavdKfnaUo)
+- [Sitting Down Here by James Lacey, Mallou](https://open.spotify.com/track/57uIbqGJo7Ko0W5B45a2Vq)
+- [Family Affair - Secret Source Remix by Rotciv &amp; Revilo, MrRevillz, Secret Source](https://open.spotify.com/track/6MXzTDqtm8PDCroQwLYLsL)
 - [Feel So Good by Ryan Shepherd, Malou](https://open.spotify.com/track/0zuRqJfzMeqjwzJ56OhalZ)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
-- [When I Hear Your Name (Baby Don&#39;t Stop) by Yanoy](https://open.spotify.com/track/6QvHXosopVKisr2n55moDq)
-- [Would U Let Me by Oliver Cricket](https://open.spotify.com/track/37qIRuKZvSQTYqMAJoXFmm)
-- [Beautiful Love by James Lacey](https://open.spotify.com/track/2o92guw11u0D9p6A0Uz138)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
