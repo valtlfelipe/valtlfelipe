@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
-- [Feedback by Amtrac](https://open.spotify.com/track/4Io7rS6x4YWYK99UdnBFkc)
-- [Envy by Christian Löffler, Mogli](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9)
-- [Nightcall by Iman Hanzo](https://open.spotify.com/track/6dcmqwpZ00IXjmg8ZVxQZP)
-- [Nostalgic by Col Lawton](https://open.spotify.com/track/10LSigkAHxT3yBe1rQJpBv)
-- [Chabo roof party by Baron Malice](https://open.spotify.com/track/5VYpujj2K9CVKEq1Ct8vFe)
+- [Karizma by Moe Turk](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM)
+- [Verden by MEUTE, pølaroit](https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj)
+- [howfar by Tom Liar](https://open.spotify.com/track/1NlGzqoEeQzkO0wynxuZ5Z)
+- [Saturday Morning by Rules](https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp)
+- [Blasphemy by Moullinex, GPU Panic, MXGPU](https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
