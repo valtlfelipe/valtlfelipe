@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (today)
 - **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries and cloud providers while providing a fluent API for specifying log messages, metadata and errors. (4 days ago)
 - **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. Get started - free. (5 days ago)
 - **[connet-dev/connet](https://github.com/connet-dev/connet)** - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (1 week ago)
 - **[tembo-io/pgmq](https://github.com/tembo-io/pgmq)** - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (1 week ago)
-- **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
-- [Karizma by Moe Turk](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM)
-- [Verden by MEUTE, pølaroit](https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj)
-- [howfar by Tom Liar](https://open.spotify.com/track/1NlGzqoEeQzkO0wynxuZ5Z)
-- [Saturday Morning by Rules](https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp)
-- [Blasphemy by Moullinex, GPU Panic, MXGPU](https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym)
+- [Ascension by Marsh, Volen Sentir](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA)
+- [Not Forever by AK](https://open.spotify.com/track/71IiKGC3OzbmRcUJEO5rWC)
+- [Sweetest Thing by Jody Wisternoff](https://open.spotify.com/track/44mvLsJEYGvKbLbwzbTYpd)
+- [Need Some Space by birø, ALLKNIGHT](https://open.spotify.com/track/7GLT8yTNRIkSCTVEm6ZjUu)
+- [Atlas by Lane 8](https://open.spotify.com/track/6YFRyll4isFUJrbHSeM1oJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
