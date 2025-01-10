@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
-- [Like This by Mallin](https://open.spotify.com/track/6mGA7mSuXx8o1ytfnImc7s)
-- [been here before by warner case, Dylan Yem](https://open.spotify.com/track/5LwAKCJlEo30A3DcObcRgW)
-- [One Sunrise At A Time by MYRNE](https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD)
-- [Designer Love - Short Version by MARIA Die RUHE](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6)
-- [Mancora by Sinca](https://open.spotify.com/track/2pmbbUP1lTKZ7voVz0zwmP)
+- [Storyteller by Solatic](https://open.spotify.com/track/6orLdkInD3V663dCniGqbf)
+- [Her Eyes by Charlie Jeer](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B)
+- [Satellite Girl by Lee Burridge](https://open.spotify.com/track/4Knpot2CFgsU9VtAXHENlV)
+- [At Peace by Loverground](https://open.spotify.com/track/4byjEiPkQDNTnmHMU0izqA)
+- [malo okoma - Radio Edit by dj poolboi, Theresa Ng&#39;ambi](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
