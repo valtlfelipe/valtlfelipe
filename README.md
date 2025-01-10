@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[tembo-io/pgmq](https://github.com/tembo-io/pgmq)** - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Ascension by Marsh, Volen Sentir](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA)
-- [Not Forever by AK](https://open.spotify.com/track/71IiKGC3OzbmRcUJEO5rWC)
-- [Sweetest Thing by Jody Wisternoff](https://open.spotify.com/track/44mvLsJEYGvKbLbwzbTYpd)
-- [Need Some Space by birø, ALLKNIGHT](https://open.spotify.com/track/7GLT8yTNRIkSCTVEm6ZjUu)
-- [Atlas by Lane 8](https://open.spotify.com/track/6YFRyll4isFUJrbHSeM1oJ)
+- [I Can Make It by CRi](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY)
+- [Wonder by Oliver Schories, Tobias Bergson](https://open.spotify.com/track/5fnoZCg3VQjKYgx0J0uWA6)
+- [Lost by Le Youth, Jerro, Lizzy Land](https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg)
+- [Fade by Alex Lustig, Sølv](https://open.spotify.com/track/1bNo2ybJL8rmZzOdd6T3sG)
+- [Left Behind (Oliver Schories Remix) by TWO LANES, Panama, Oliver Schories](https://open.spotify.com/track/56hg2LjYQ9RFp5ffnUPetE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
