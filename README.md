@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
-- [Storyteller by Solatic](https://open.spotify.com/track/6orLdkInD3V663dCniGqbf)
-- [Her Eyes by Charlie Jeer](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B)
-- [Satellite Girl by Lee Burridge](https://open.spotify.com/track/4Knpot2CFgsU9VtAXHENlV)
-- [At Peace by Loverground](https://open.spotify.com/track/4byjEiPkQDNTnmHMU0izqA)
-- [malo okoma - Radio Edit by dj poolboi, Theresa Ng&#39;ambi](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27)
+- [Chabo roof party by Baron Malice](https://open.spotify.com/track/5VYpujj2K9CVKEq1Ct8vFe)
+- [Wait For You by Bound to Divide](https://open.spotify.com/track/74Jw6mRLWJZFj05fTrx4p9)
+- [Evaporate (feat. PaulWetz) - Edit by Durante, PaulWetz](https://open.spotify.com/track/6ZaR7Fb1N0bI40eqT0Do0W)
+- [Follow The Dark by Eli &amp; Fur](https://open.spotify.com/track/3KiO6COi4F8INOuXU5Q1Wc)
+- [Call My Name by Franky Wah, Rae Morris](https://open.spotify.com/track/4vI94CkCfDXotFMcSPujvK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
