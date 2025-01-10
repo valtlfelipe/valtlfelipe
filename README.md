@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[dunglas/mercure](https://github.com/dunglas/mercure)** - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🎧 What I have been listening
+- [Envy by Christian Löffler, Mogli](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9)
+- [Nightcall by Iman Hanzo](https://open.spotify.com/track/6dcmqwpZ00IXjmg8ZVxQZP)
+- [Nostalgic by Col Lawton](https://open.spotify.com/track/10LSigkAHxT3yBe1rQJpBv)
 - [Chabo roof party by Baron Malice](https://open.spotify.com/track/5VYpujj2K9CVKEq1Ct8vFe)
 - [Wait For You by Bound to Divide](https://open.spotify.com/track/74Jw6mRLWJZFj05fTrx4p9)
-- [Evaporate (feat. PaulWetz) - Edit by Durante, PaulWetz](https://open.spotify.com/track/6ZaR7Fb1N0bI40eqT0Do0W)
-- [Follow The Dark by Eli &amp; Fur](https://open.spotify.com/track/3KiO6COi4F8INOuXU5Q1Wc)
-- [Call My Name by Franky Wah, Rae Morris](https://open.spotify.com/track/4vI94CkCfDXotFMcSPujvK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
