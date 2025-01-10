@@ -13,10 +13,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 
 #### 🎧 What I have been listening
 - [Skin and Bones - MEDUZA REMIX by David Kushner, MEDUZA](https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO)
+- [Skin and Bones - MEDUZA REMIX by David Kushner, MEDUZA](https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO)
 - [MONEY ON THE DASH by Elley Duhé, Whethan](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE)
 - [When I Hear Your Name (Baby Don&#39;t Stop) by Yanoy](https://open.spotify.com/track/6QvHXosopVKisr2n55moDq)
 - [I Follow Rivers x Meet Me Halfway - Medley Version by smashup](https://open.spotify.com/track/35CXS5il66nJkKjAiSzyQl)
-- [If We Have Each Other (Nightcore) by NightcoreMuzzic, TommyMuzzic](https://open.spotify.com/track/4gbAX1vCXJEy2e4cbj8Y7R)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
