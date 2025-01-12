@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[connet-dev/connet](https://github.com/connet-dev/connet)** - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (1 week ago)
 
 #### 🎧 What I have been listening
+- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
+- [I Gotta Feeling by Black Eyed Peas](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR)
+- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
 - [I Can Make It by CRi](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY)
 - [Wonder by Oliver Schories, Tobias Bergson](https://open.spotify.com/track/5fnoZCg3VQjKYgx0J0uWA6)
-- [Lost by Le Youth, Jerro, Lizzy Land](https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg)
-- [Fade by Alex Lustig, Sølv](https://open.spotify.com/track/1bNo2ybJL8rmZzOdd6T3sG)
-- [Left Behind (Oliver Schories Remix) by TWO LANES, Panama, Oliver Schories](https://open.spotify.com/track/56hg2LjYQ9RFp5ffnUPetE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
