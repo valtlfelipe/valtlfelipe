@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries, cloud providers, and OpenTelemetry while providing a fluent API for specifying log messages, metadata and errors. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Paradise by Vic Roz, Ykonic](https://open.spotify.com/track/5UT29zcH5o56FDvhwtI0r5)
-- [Do It Again by MISERO, deep dispatch](https://open.spotify.com/track/6Zabg025sA0Bi2n2nQyZjB)
-- [Too Late by Juan Allenn](https://open.spotify.com/track/1IAfki5FvnqYHDGVd0V39C)
-- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
-- [Sleep Walking by Franklin](https://open.spotify.com/track/11KXhIzhMQvUZBqiwkEShR)
+- [Ordinary by Planetopia](https://open.spotify.com/track/55oM3yTqeY3qwLwgLI2foI)
+- [Fairytale by Last Sun](https://open.spotify.com/track/3dlwhEZtSg1PKtGY22J1Pm)
+- [Games by Fedders, ENLIV3N](https://open.spotify.com/track/4txZjW8nI7o1MibEGJDaJC)
+- [One More Time by Jai Nova](https://open.spotify.com/track/4A6sKVOjxn8wpLv7GNuAZS)
+- [Saturate by Kamil Ghaouti, Big O, Alimish](https://open.spotify.com/track/6lZ8eGS8xEWmHJRY1igdfS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
