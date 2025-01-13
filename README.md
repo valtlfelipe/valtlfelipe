@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[WillieBeek/txtlog](https://github.com/WillieBeek/txtlog)** - Txtlog.net main repository (today)
 - **[rorkai/21st](https://github.com/rorkai/21st)** - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (today)
 - **[t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)** - I&#39;ve built with Stripe for years. This is how I do it without going mad. (1 day ago)
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (3 days ago)
 - **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries, cloud providers, and OpenTelemetry while providing a fluent API for specifying log messages, metadata and errors. (1 week ago)
-- **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. Get started - free. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Memory by Solven](https://open.spotify.com/track/4BZoOQjoqd9qGaGGI1kvg5)
-- [Let Go by Erlando](https://open.spotify.com/track/782sanPA05AAo5GpoiLkX7)
-- [Your Touch by Why U So, SHELLS](https://open.spotify.com/track/0rfsaQbCQQGu5mfytzH5z8)
-- [Colourful by Grey Vision](https://open.spotify.com/track/2FyXyL8ovftr9BeFyjjQ5P)
-- [No Way Out by Paul Schulze, sadHAPPY](https://open.spotify.com/track/4OoPS9qN7qDv4tqaMb3ScP)
+- [I Don&#39;t Wanna Know by Buzz Low, BACOLE, Kuala](https://open.spotify.com/track/5nUlevjEAdIKeMBKxpSEHm)
+- [Rose by Lynhare](https://open.spotify.com/track/5yP9ufq8O8etVdAHenggTa)
+- [Let It Slide by AIMÉ, Odeon, Freyer, Sam Welch](https://open.spotify.com/track/4zuodNOafqvTJiAxW61k76)
+- [Hold on Me by Why U So, SHELLS](https://open.spotify.com/track/43FNnp0KnanReB8KCTl97p)
+- [Stay The Night by Kintexa, NYLA](https://open.spotify.com/track/7GFxNhPxE4mwnx1lIVWNwh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
