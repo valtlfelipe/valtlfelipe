@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries, cloud providers, and OpenTelemetry while providing a fluent API for specifying log messages, metadata and errors. (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Don&#39;t Wanna Know by Buzz Low, BACOLE, Kuala](https://open.spotify.com/track/5nUlevjEAdIKeMBKxpSEHm)
-- [Rose by Lynhare](https://open.spotify.com/track/5yP9ufq8O8etVdAHenggTa)
-- [Let It Slide by AIMÉ, Odeon, Freyer, Sam Welch](https://open.spotify.com/track/4zuodNOafqvTJiAxW61k76)
-- [Hold on Me by Why U So, SHELLS](https://open.spotify.com/track/43FNnp0KnanReB8KCTl97p)
-- [Stay The Night by Kintexa, NYLA](https://open.spotify.com/track/7GFxNhPxE4mwnx1lIVWNwh)
+- [Focus Is You by EMOCA](https://open.spotify.com/track/27PE627XsedarZvy5tlC8c)
+- [Push Me Away by Julien Fade, Ekzail, GHALIA](https://open.spotify.com/track/7mq3rhlIgwIDNh4FNT2WgX)
+- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
+- [Getting By by Rock Da Cat](https://open.spotify.com/track/23XaFtPGUUjzLPqOcfZJRo)
+- [Tell Me That by igor](https://open.spotify.com/track/0PYXMXiikfMvJqVcLhCBpz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
