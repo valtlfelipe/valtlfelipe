@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. Get started - free. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dance With Me by JustLuke](https://open.spotify.com/track/2nxiTK6JVQ0Gk5TssVolaW)
-- [Shine Your Light by MusicbyAden](https://open.spotify.com/track/79Ye4C1XgYRv1WjWwbfSGj)
-- [Let Me Be by Lauwz](https://open.spotify.com/track/2PAOtBG4jfB9pg64vHSrYQ)
-- [Saved Me by T. Matthias, Adam Griffin, ALLKNIGHT](https://open.spotify.com/track/4dommUGxfkJZCuWf9qx4z8)
-- [Dancing on the Shoreline by Ayla Jay](https://open.spotify.com/track/4y8aKU52NUd0lPi8Gxq6ru)
+- [Sunshine by Luna](https://open.spotify.com/track/5Yqbxwf9d77arYvZjYE78O)
+- [Safe &amp; Sound by Rico 56, miksklim](https://open.spotify.com/track/2KtKSknuf5TzlSND14u6wW)
+- [Feel This Too by LUCØ](https://open.spotify.com/track/4FJr3Il9uh42V0C1COCQb7)
+- [Dream in Color by Greg Elenis](https://open.spotify.com/track/7sgjmvjSVVCfTlfYa4H6oG)
+- [Under The Moon by Don Gianni, LO, Donner](https://open.spotify.com/track/2dg3nspDchKh5LyF2IwGvi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
