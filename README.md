@@ -7,7 +7,7 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 #### ⭐ Recent Stars
 - **[t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)** - I&#39;ve built with Stripe for years. This is how I do it without going mad. (1 day ago)
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (3 days ago)
-- **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries and cloud providers while providing a fluent API for specifying log messages, metadata and errors. (1 week ago)
+- **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries, cloud providers, and OpenTelemetry while providing a fluent API for specifying log messages, metadata and errors. (1 week ago)
 - **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. Get started - free. (1 week ago)
 - **[connet-dev/connet](https://github.com/connet-dev/connet)** - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (1 week ago)
 
