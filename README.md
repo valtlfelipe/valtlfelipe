@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. Get started - free. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Poison by Kisaya](https://open.spotify.com/track/6ze4x4wln8QKd8jc3cy3ET)
-- [All I Ever Wanted by Meanetik](https://open.spotify.com/track/4ec0Ipdgp4KZyn3htjPY6f)
-- [I Don&#39;t Care by Wann, Tim Riehm](https://open.spotify.com/track/0WrtBvPrfrdvXyKuEnxEd2)
-- [Spectrum (Say My Name) by sunset groove](https://open.spotify.com/track/1dCvksuKVdf98ljmI2LCHk)
-- [Freeze Remix - Mapso Remix by Jimmy Sax, Mapso](https://open.spotify.com/track/3EKjJFB5frZvTnml08DNRa)
+- [Memory by Solven](https://open.spotify.com/track/4BZoOQjoqd9qGaGGI1kvg5)
+- [Let Go by Erlando](https://open.spotify.com/track/782sanPA05AAo5GpoiLkX7)
+- [Your Touch by Why U So, SHELLS](https://open.spotify.com/track/0rfsaQbCQQGu5mfytzH5z8)
+- [Colourful by Grey Vision](https://open.spotify.com/track/2FyXyL8ovftr9BeFyjjQ5P)
+- [No Way Out by Paul Schulze, sadHAPPY](https://open.spotify.com/track/4OoPS9qN7qDv4tqaMb3ScP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
