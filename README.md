@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. Get started - free. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Poison by Kisaya](https://open.spotify.com/track/6ze4x4wln8QKd8jc3cy3ET)
+- [All I Ever Wanted by Meanetik](https://open.spotify.com/track/4ec0Ipdgp4KZyn3htjPY6f)
+- [I Don&#39;t Care by Wann, Tim Riehm](https://open.spotify.com/track/0WrtBvPrfrdvXyKuEnxEd2)
+- [Spectrum (Say My Name) by sunset groove](https://open.spotify.com/track/1dCvksuKVdf98ljmI2LCHk)
 - [Freeze Remix - Mapso Remix by Jimmy Sax, Mapso](https://open.spotify.com/track/3EKjJFB5frZvTnml08DNRa)
-- [Sunshine by Luna](https://open.spotify.com/track/5Yqbxwf9d77arYvZjYE78O)
-- [Safe &amp; Sound by Rico 56, miksklim](https://open.spotify.com/track/2KtKSknuf5TzlSND14u6wW)
-- [Feel This Too by LUCØ](https://open.spotify.com/track/4FJr3Il9uh42V0C1COCQb7)
-- [Dream in Color by Greg Elenis](https://open.spotify.com/track/7sgjmvjSVVCfTlfYa4H6oG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
