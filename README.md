@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno)** - Open source security user analytics platform. Get started - free. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Dance With Me by JustLuke](https://open.spotify.com/track/2nxiTK6JVQ0Gk5TssVolaW)
+- [Shine Your Light by MusicbyAden](https://open.spotify.com/track/79Ye4C1XgYRv1WjWwbfSGj)
 - [Let Me Be by Lauwz](https://open.spotify.com/track/2PAOtBG4jfB9pg64vHSrYQ)
 - [Saved Me by T. Matthias, Adam Griffin, ALLKNIGHT](https://open.spotify.com/track/4dommUGxfkJZCuWf9qx4z8)
 - [Dancing on the Shoreline by Ayla Jay](https://open.spotify.com/track/4y8aKU52NUd0lPi8Gxq6ru)
-- [Where Are You Now by Saimöö](https://open.spotify.com/track/1VeC0GED67c2XW4gtANkqf)
-- [Big Jet Plane by No Relation](https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
