@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries, cloud providers, and OpenTelemetry while providing a fluent API for specifying log messages, metadata and errors. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Focus Is You by EMOCA](https://open.spotify.com/track/27PE627XsedarZvy5tlC8c)
-- [Push Me Away by Julien Fade, Ekzail, GHALIA](https://open.spotify.com/track/7mq3rhlIgwIDNh4FNT2WgX)
-- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
-- [Getting By by Rock Da Cat](https://open.spotify.com/track/23XaFtPGUUjzLPqOcfZJRo)
-- [Tell Me That by igor](https://open.spotify.com/track/0PYXMXiikfMvJqVcLhCBpz)
+- [Paradise by Vic Roz, Ykonic](https://open.spotify.com/track/5UT29zcH5o56FDvhwtI0r5)
+- [Do It Again by MISERO, deep dispatch](https://open.spotify.com/track/6Zabg025sA0Bi2n2nQyZjB)
+- [Too Late by Juan Allenn](https://open.spotify.com/track/1IAfki5FvnqYHDGVd0V39C)
+- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
+- [Sleep Walking by Franklin](https://open.spotify.com/track/11KXhIzhMQvUZBqiwkEShR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
