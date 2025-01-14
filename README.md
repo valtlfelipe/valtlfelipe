@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[WillieBeek/txtlog](https://github.com/WillieBeek/txtlog)** - Txtlog.net main repository (today)
-- **[rorkai/21st](https://github.com/rorkai/21st)** - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (today)
-- **[t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)** - I&#39;ve built with Stripe for years. This is how I do it without going mad. (1 day ago)
-- **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (3 days ago)
+- **[WillieBeek/txtlog](https://github.com/WillieBeek/txtlog)** - Txtlog.net main repository (1 day ago)
+- **[rorkai/21st](https://github.com/rorkai/21st)** - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (1 day ago)
+- **[t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)** - I&#39;ve built with Stripe for years. This is how I do it without going mad. (2 days ago)
+- **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (4 days ago)
 - **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries, cloud providers, and OpenTelemetry while providing a fluent API for specifying log messages, metadata and errors. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Riders Of The Storm by Fedders, Kezano](https://open.spotify.com/track/41okWjRoBk1elD1XD88MGu)
 - [Reminds Me Of You by Hii Spirits, Rromarin](https://open.spotify.com/track/4WWdzgApSRfHVfKve4DqBx)
 - [Give Me Love by THAT KIND](https://open.spotify.com/track/5wx8ilXSkwZ3b9btWZ4e1U)
 - [Paralyzed by YUMA, JEWELS, MAGNUS](https://open.spotify.com/track/1wHDTJulNyumFWqSBVFXvl)
 - [Body on Fire by SOMMA, Dillistone](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
