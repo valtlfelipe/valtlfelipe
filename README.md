@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Good Enough by MAGNUS, Zeli](https://open.spotify.com/track/1OlNYBgxkEL41GqBnN1X68)
-- [Holding On by Don Gianni, OMERGY, Kezano](https://open.spotify.com/track/37IC9NrKjg2kkwilj2FBDw)
-- [Reminds Me Of You by Hii Spirits, Rromarin](https://open.spotify.com/track/4WWdzgApSRfHVfKve4DqBx)
-- [Feeling The Same by Nyday](https://open.spotify.com/track/4a9WGmpSTpy2C7mYixenDq)
-- [Fall Again (feat. Alimish) by T. Matthias, Alfie Cridland, Alimish](https://open.spotify.com/track/07IkV3yqm1dDXr41gpcMSh)
+- [Premonition by Able Faces, NOTSOBAD](https://open.spotify.com/track/4RMMKp9TioZdnc9M8iq3oR)
+- [No More by Alexxi](https://open.spotify.com/track/287dOpeWtu9E9qhfCK1m1V)
+- [Pretty Little Things by Kovan, Poylux, liquidfive](https://open.spotify.com/track/6GNUPnL8wM0usAYNnmDrmJ)
+- [Incendies by Joël Fabrice](https://open.spotify.com/track/1LxThuHAWPpOjeGlzJZ7gJ)
+- [Runaway by SwitchBlade, Before 95](https://open.spotify.com/track/0vPxvvK03US5eWwkzNFIRW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
