@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries, cloud providers, and OpenTelemetry while providing a fluent API for specifying log messages, metadata and errors. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Give Me Your Love by LEDUC](https://open.spotify.com/track/2ftN0Aikomqttb2hBJUHSW)
-- [You &amp; I by HotLap, SHELLS](https://open.spotify.com/track/7k0kq03bs3micRAVvYgzg8)
-- [Voodoo by T. Matthias, Tep No, Émilie Rachel](https://open.spotify.com/track/1EfX4ziNSM3ZU8Hj82yxcl)
-- [Lie by BRETSN, SANDMO](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP)
-- [I Can&#39;t See by ROW, Samuel Miller](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo)
+- [You&#39;ve Got The Love - Sistek Remix by Ethan Hodges, Sistek](https://open.spotify.com/track/6xRhFcqq4FX9b0PFZU1j43)
+- [Override by Dave Silcox, Ferington, Nikki Ambers](https://open.spotify.com/track/40DjjsuODwdlRZ4XFfhcwH)
+- [Blame by T. Matthias, JONA XX](https://open.spotify.com/track/4FIjVfheCiQ8DYjnGcajJv)
+- [Skin and Bones - MEDUZA REMIX by David Kushner, MEDUZA](https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO)
+- [feelings by rayn, 6sept, cloudseven](https://open.spotify.com/track/7EbQKxpYZTqkqxgFlcK2Se)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
