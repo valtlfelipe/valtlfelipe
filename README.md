@@ -13,10 +13,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 
 #### 🎧 What I have been listening
 - [Riders Of The Storm by Fedders, Kezano](https://open.spotify.com/track/41okWjRoBk1elD1XD88MGu)
+- [Riders Of The Storm by Fedders, Kezano](https://open.spotify.com/track/41okWjRoBk1elD1XD88MGu)
 - [Reminds Me Of You by Hii Spirits, Rromarin](https://open.spotify.com/track/4WWdzgApSRfHVfKve4DqBx)
 - [Give Me Love by THAT KIND](https://open.spotify.com/track/5wx8ilXSkwZ3b9btWZ4e1U)
 - [Paralyzed by YUMA, JEWELS, MAGNUS](https://open.spotify.com/track/1wHDTJulNyumFWqSBVFXvl)
-- [Body on Fire by SOMMA, Dillistone](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
