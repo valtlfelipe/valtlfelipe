@@ -5,11 +5,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[campsite/campsite](https://github.com/campsite/campsite)** - The Campsite monorepo (today)
 - **[WillieBeek/txtlog](https://github.com/WillieBeek/txtlog)** - Txtlog.net main repository (1 day ago)
 - **[rorkai/21st](https://github.com/rorkai/21st)** - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (1 day ago)
 - **[t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)** - I&#39;ve built with Stripe for years. This is how I do it without going mad. (2 days ago)
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (4 days ago)
-- **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries, cloud providers, and OpenTelemetry while providing a fluent API for specifying log messages, metadata and errors. (1 week ago)
 
 #### 🎧 What I have been listening
 - [You&#39;ve Got The Love - Sistek Remix by Ethan Hodges, Sistek](https://open.spotify.com/track/6xRhFcqq4FX9b0PFZU1j43)
