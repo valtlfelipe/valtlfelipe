@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Tell Me That by igor](https://open.spotify.com/track/0PYXMXiikfMvJqVcLhCBpz)
-- [Give Me Love by THAT KIND](https://open.spotify.com/track/5wx8ilXSkwZ3b9btWZ4e1U)
-- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
-- [Why Does My Heart Feel So Bad? ft. Moby by AVALAN ROKSTON, Avalan, Rokston, Moby](https://open.spotify.com/track/32To9xdbuIG2QWqpRlcBHZ)
-- [Paralyzed by YUMA, JEWELS, MAGNUS](https://open.spotify.com/track/1wHDTJulNyumFWqSBVFXvl)
+- [Good Enough by MAGNUS, Zeli](https://open.spotify.com/track/1OlNYBgxkEL41GqBnN1X68)
+- [Holding On by Don Gianni, OMERGY, Kezano](https://open.spotify.com/track/37IC9NrKjg2kkwilj2FBDw)
+- [Reminds Me Of You by Hii Spirits, Rromarin](https://open.spotify.com/track/4WWdzgApSRfHVfKve4DqBx)
+- [Feeling The Same by Nyday](https://open.spotify.com/track/4a9WGmpSTpy2C7mYixenDq)
+- [Fall Again (feat. Alimish) by T. Matthias, Alfie Cridland, Alimish](https://open.spotify.com/track/07IkV3yqm1dDXr41gpcMSh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
