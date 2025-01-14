@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Premonition by Able Faces, NOTSOBAD](https://open.spotify.com/track/4RMMKp9TioZdnc9M8iq3oR)
-- [No More by Alexxi](https://open.spotify.com/track/287dOpeWtu9E9qhfCK1m1V)
-- [Pretty Little Things by Kovan, Poylux, liquidfive](https://open.spotify.com/track/6GNUPnL8wM0usAYNnmDrmJ)
-- [Incendies by Joël Fabrice](https://open.spotify.com/track/1LxThuHAWPpOjeGlzJZ7gJ)
-- [Runaway by SwitchBlade, Before 95](https://open.spotify.com/track/0vPxvvK03US5eWwkzNFIRW)
+- [Hey Now by VisionV, Surf Mesa, MKLA](https://open.spotify.com/track/1tiUDs0Hikbz6MvwNog3A8)
+- [Honesty by Paul Schulze, Able Faces, Callum George](https://open.spotify.com/track/5ZzE5vW4fTPzjLDEe6EjUU)
+- [Let You Down by Lotus](https://open.spotify.com/track/2EEh0wMQmlETzPQvuAV3sC)
+- [Beautiful Strangers by HOMAN, Jasmine Crowe](https://open.spotify.com/track/0MKRSyALmgWeDFtlTGXELt)
+- [Only Me &amp; You by Thunder, Dizaro](https://open.spotify.com/track/41TGVZy7cVA9XRCiPuneKY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
