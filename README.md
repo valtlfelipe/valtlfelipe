@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Hey Now by VisionV, Surf Mesa, MKLA](https://open.spotify.com/track/1tiUDs0Hikbz6MvwNog3A8)
-- [Honesty by Paul Schulze, Able Faces, Callum George](https://open.spotify.com/track/5ZzE5vW4fTPzjLDEe6EjUU)
-- [Let You Down by Lotus](https://open.spotify.com/track/2EEh0wMQmlETzPQvuAV3sC)
-- [Beautiful Strangers by HOMAN, Jasmine Crowe](https://open.spotify.com/track/0MKRSyALmgWeDFtlTGXELt)
-- [Only Me &amp; You by Thunder, Dizaro](https://open.spotify.com/track/41TGVZy7cVA9XRCiPuneKY)
+- [hold me now by rayn](https://open.spotify.com/track/6S2K24ezbw8PY7ALKoGxA7)
+- [Falling Underwater by Maxomar](https://open.spotify.com/track/6xGVCczlvoqMRPCSX9IDH5)
+- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
+- [Love or Die by Ardiyan, MARE](https://open.spotify.com/track/3pB0Dprmvibh84EQaOAggE)
+- [Heart Back by Sevenn, Jem Cooke](https://open.spotify.com/track/0OSgkdebxTRNXLwwzD2b8s)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
