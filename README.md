@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
-- [Harder We Fall by SOMMA, YUMA, Austin Tate](https://open.spotify.com/track/675ENLQoyLkIzEGHm5FAqe)
-- [You&#39;re Makin&#39; Me High by DJ Katch, Amira Eldine](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA)
-- [In The Dust by Richard Judge, Jelen, Embody](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7)
-- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
+- [Tell Me That by igor](https://open.spotify.com/track/0PYXMXiikfMvJqVcLhCBpz)
+- [Give Me Love by THAT KIND](https://open.spotify.com/track/5wx8ilXSkwZ3b9btWZ4e1U)
+- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
+- [Why Does My Heart Feel So Bad? ft. Moby by AVALAN ROKSTON, Avalan, Rokston, Moby](https://open.spotify.com/track/32To9xdbuIG2QWqpRlcBHZ)
+- [Paralyzed by YUMA, JEWELS, MAGNUS](https://open.spotify.com/track/1wHDTJulNyumFWqSBVFXvl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
