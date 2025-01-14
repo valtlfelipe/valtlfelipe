@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Touch by Kideko, SHELLS](https://open.spotify.com/track/397W12CqjA788iknS81yMB)
-- [Waves by Kilian K, Blaze U](https://open.spotify.com/track/1Dyk7PhHC6B1Rg1rTku4o3)
-- [One Night by Dallerium, Marsias](https://open.spotify.com/track/5H4QiSCbHW28zFn25155Fl)
-- [Dive by Taiki Nulight, Rue More](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf)
-- [VULNERABLE by Bad Intentions, Dayna Madison](https://open.spotify.com/track/2BeZRiTS2JtPwqNr0uUmjO)
+- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [Harder We Fall by SOMMA, YUMA, Austin Tate](https://open.spotify.com/track/675ENLQoyLkIzEGHm5FAqe)
+- [You&#39;re Makin&#39; Me High by DJ Katch, Amira Eldine](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA)
+- [In The Dust by Richard Judge, Jelen, Embody](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7)
+- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
