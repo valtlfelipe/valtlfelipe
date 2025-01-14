@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (4 days ago)
 
 #### 🎧 What I have been listening
-- [You&#39;ve Got The Love - Sistek Remix by Ethan Hodges, Sistek](https://open.spotify.com/track/6xRhFcqq4FX9b0PFZU1j43)
-- [Override by Dave Silcox, Ferington, Nikki Ambers](https://open.spotify.com/track/40DjjsuODwdlRZ4XFfhcwH)
-- [Blame by T. Matthias, JONA XX](https://open.spotify.com/track/4FIjVfheCiQ8DYjnGcajJv)
-- [Skin and Bones - MEDUZA REMIX by David Kushner, MEDUZA](https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO)
-- [feelings by rayn, 6sept, cloudseven](https://open.spotify.com/track/7EbQKxpYZTqkqxgFlcK2Se)
+- [Touch by Kideko, SHELLS](https://open.spotify.com/track/397W12CqjA788iknS81yMB)
+- [Waves by Kilian K, Blaze U](https://open.spotify.com/track/1Dyk7PhHC6B1Rg1rTku4o3)
+- [One Night by Dallerium, Marsias](https://open.spotify.com/track/5H4QiSCbHW28zFn25155Fl)
+- [Dive by Taiki Nulight, Rue More](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf)
+- [VULNERABLE by Bad Intentions, Dayna Madison](https://open.spotify.com/track/2BeZRiTS2JtPwqNr0uUmjO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
