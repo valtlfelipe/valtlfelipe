@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[loglayer/loglayer](https://github.com/loglayer/loglayer)** - A unified logger that routes logs to various logging libraries, cloud providers, and OpenTelemetry while providing a fluent API for specifying log messages, metadata and errors. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Riders Of The Storm by Fedders, Kezano](https://open.spotify.com/track/41okWjRoBk1elD1XD88MGu)
-- [Riders Of The Storm by Fedders, Kezano](https://open.spotify.com/track/41okWjRoBk1elD1XD88MGu)
-- [Reminds Me Of You by Hii Spirits, Rromarin](https://open.spotify.com/track/4WWdzgApSRfHVfKve4DqBx)
-- [Give Me Love by THAT KIND](https://open.spotify.com/track/5wx8ilXSkwZ3b9btWZ4e1U)
-- [Paralyzed by YUMA, JEWELS, MAGNUS](https://open.spotify.com/track/1wHDTJulNyumFWqSBVFXvl)
+- [Give Me Your Love by LEDUC](https://open.spotify.com/track/2ftN0Aikomqttb2hBJUHSW)
+- [You &amp; I by HotLap, SHELLS](https://open.spotify.com/track/7k0kq03bs3micRAVvYgzg8)
+- [Voodoo by T. Matthias, Tep No, Émilie Rachel](https://open.spotify.com/track/1EfX4ziNSM3ZU8Hj82yxcl)
+- [Lie by BRETSN, SANDMO](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP)
+- [I Can&#39;t See by ROW, Samuel Miller](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
