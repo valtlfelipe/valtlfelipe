@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Real by PLVTO](https://open.spotify.com/track/0AzPG8A1cRlklqf612L6eM)
-- [No Gravity (feat. Bava) by Zedd, Bava](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g)
-- [Wondering Why by L.A, Dallien, Alia Faye](https://open.spotify.com/track/71usfyu4lteyYq1tGP9m16)
-- [Tore Me Up by Refeci, Treyy G, BUBU](https://open.spotify.com/track/2lzE9brm1tR9gCv1Ibbo9g)
-- [No Way Back by Sultan &#43; Shepard, Shallou](https://open.spotify.com/track/0klunNsJiM2FZDDLQsDNUt)
+- [Illusion by LonelyBrothers, Natasha Ghosh](https://open.spotify.com/track/0CRHBCl37EkUyWmRhmJ8IP)
+- [Small Talk by Adon](https://open.spotify.com/track/4Ii6BNT9Ee69APmNn98Mwq)
+- [Ms. Maple by stillachild](https://open.spotify.com/track/6HNAPkbVuRN1niOFDCR2VZ)
+- [Water by Tyla](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/6NIJqFHB5cHAn064JCP7Li)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
