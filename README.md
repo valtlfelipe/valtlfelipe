@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (5 days ago)
 
 #### 🎧 What I have been listening
+- [Olvidarte (feat. Emilia) by Gordo, Emilia](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH)
+- [Every Breath You Take by Viva La Panda, Swizznife](https://open.spotify.com/track/1QHfR4yonUKMmCLmpoU1XG)
+- [Anywhere by Chullo](https://open.spotify.com/track/46tr0tpqWbaH6B9Q2aOYo8)
 - [Illusion by LonelyBrothers, Natasha Ghosh](https://open.spotify.com/track/0CRHBCl37EkUyWmRhmJ8IP)
 - [Small Talk by Adon](https://open.spotify.com/track/4Ii6BNT9Ee69APmNn98Mwq)
-- [Ms. Maple by stillachild](https://open.spotify.com/track/6HNAPkbVuRN1niOFDCR2VZ)
-- [Water by Tyla](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw)
-- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/6NIJqFHB5cHAn064JCP7Li)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
