@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (5 days ago)
 
 #### 🎧 What I have been listening
-- [My All by L.B. One, Jordan Grace](https://open.spotify.com/track/5c659LiGm7aRKScsvJ9jXI)
-- [I&#39;m Good by P.A.V](https://open.spotify.com/track/1H27IgTftbtLwK4HrdGV3x)
-- [Do You? by RAZZ, CUBY](https://open.spotify.com/track/7agT62ZexUHrtiuqtspXiB)
-- [Blame The Messiah by Delove, Fargro](https://open.spotify.com/track/1sAGfDjxTrYz5BD131flfV)
-- [I&#39;ll Be Here by Sultan &#43; Shepard, Elderbrook](https://open.spotify.com/track/5UTjWT7qr0ltzTTzifQETi)
+- [Hide Away by EXÜMA, Lotus](https://open.spotify.com/track/0AVObwIWlzhkwHVC8QPRwv)
+- [Holding Me Back by Nils Hoffmann, The Kite String Tangle](https://open.spotify.com/track/0rUUb15kaMPxOV4RwtxdTP)
+- [When Is It Enough by Theodor Rosenberg, Vowed, Madishu](https://open.spotify.com/track/1VoJERLr4kuTMoJk74B4A6)
+- [Control by Sunwaves](https://open.spotify.com/track/3iQZpauUSGFJpojlXxf79F)
+- [Like I Do by MARE, MissingR, Bassline Bunny](https://open.spotify.com/track/0jayDBo89CuiNVrNBkfqlk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
