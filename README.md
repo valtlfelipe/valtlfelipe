@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (5 days ago)
 
 #### 🎧 What I have been listening
+- [Your Arms by Golowko, Stupid Goldfish](https://open.spotify.com/track/6niJ4hw5aFo1jal68HW8r9)
+- [Take Me Back by Wavey](https://open.spotify.com/track/7pnafMRId4OszC54spzzTP)
+- [Kathmandu by Bjarne Hendrik](https://open.spotify.com/track/3xLkGqfXLWvNo1TVzuEYLO)
+- [Unforgettable by Yves V, Sirona, Sonaba](https://open.spotify.com/track/1eGYvOvJfwKg7ua90ynBei)
 - [Another Life by AFRONOM, Emre K., Tyler James Bellinger](https://open.spotify.com/track/6efkQohYCLWsV8wPVjKbpJ)
-- [Breeze by D.Polo](https://open.spotify.com/track/57nxQGDHMkXUKoG3G4pQaL)
-- [True by edapollo, Shallou](https://open.spotify.com/track/6BUboGsbk4M4eed4pfKGbz)
-- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
-- [For Me by Dallien, RVPTR, Spagbo](https://open.spotify.com/track/0PJCvbrQc5Dbccq5pcQ2D3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
