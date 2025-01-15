@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Hide Away by EXÜMA, Lotus](https://open.spotify.com/track/0AVObwIWlzhkwHVC8QPRwv)
-- [Holding Me Back by Nils Hoffmann, The Kite String Tangle](https://open.spotify.com/track/0rUUb15kaMPxOV4RwtxdTP)
-- [When Is It Enough by Theodor Rosenberg, Vowed, Madishu](https://open.spotify.com/track/1VoJERLr4kuTMoJk74B4A6)
-- [Control by Sunwaves](https://open.spotify.com/track/3iQZpauUSGFJpojlXxf79F)
-- [Like I Do by MARE, MissingR, Bassline Bunny](https://open.spotify.com/track/0jayDBo89CuiNVrNBkfqlk)
+- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
+- [Lowest by Embody, Kyle Reynolds, So Damn Easy](https://open.spotify.com/track/168CHo0nA7qis8zx4fOdzn)
+- [King Of My Castle by P.A.V](https://open.spotify.com/track/5LxyquGewR6aslYfqXfW24)
+- [Toxic by P.A.V](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C)
+- [Hero by mavzy grx, Medusa, Lonelysoul.](https://open.spotify.com/track/48rgL3mJHqVif2aiynBxND)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
