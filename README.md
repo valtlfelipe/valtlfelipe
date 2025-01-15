@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Your Arms by Golowko, Stupid Goldfish](https://open.spotify.com/track/6niJ4hw5aFo1jal68HW8r9)
-- [Take Me Back by Wavey](https://open.spotify.com/track/7pnafMRId4OszC54spzzTP)
-- [Kathmandu by Bjarne Hendrik](https://open.spotify.com/track/3xLkGqfXLWvNo1TVzuEYLO)
-- [Unforgettable by Yves V, Sirona, Sonaba](https://open.spotify.com/track/1eGYvOvJfwKg7ua90ynBei)
-- [Another Life by AFRONOM, Emre K., Tyler James Bellinger](https://open.spotify.com/track/6efkQohYCLWsV8wPVjKbpJ)
+- [Dreaming by Chullo](https://open.spotify.com/track/6Q6VXwLYZjZKq24QrPrP7o)
+- [Raven by Hobes](https://open.spotify.com/track/56D0jZ2r8ESxoMvqXodcbL)
+- [If You Go by Vanilla Sky, Alena Kita](https://open.spotify.com/track/4tiRTd6EtdQkBLZ00xRSx6)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
+- [High Above by Floating Club](https://open.spotify.com/track/5XOCxmGbG3IzVRJXnPyTb9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
