@@ -5,18 +5,18 @@
 I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[campsite/campsite](https://github.com/campsite/campsite)** - The Campsite monorepo (today)
-- **[WillieBeek/txtlog](https://github.com/WillieBeek/txtlog)** - Txtlog.net main repository (1 day ago)
-- **[rorkai/21st](https://github.com/rorkai/21st)** - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (1 day ago)
-- **[t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)** - I&#39;ve built with Stripe for years. This is how I do it without going mad. (2 days ago)
-- **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (4 days ago)
+- **[campsite/campsite](https://github.com/campsite/campsite)** - The Campsite monorepo (1 day ago)
+- **[WillieBeek/txtlog](https://github.com/WillieBeek/txtlog)** - Txtlog.net main repository (2 days ago)
+- **[rorkai/21st](https://github.com/rorkai/21st)** - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (2 days ago)
+- **[t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)** - I&#39;ve built with Stripe for years. This is how I do it without going mad. (3 days ago)
+- **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (5 days ago)
 
 #### 🎧 What I have been listening
-- [hold me now by rayn](https://open.spotify.com/track/6S2K24ezbw8PY7ALKoGxA7)
-- [Falling Underwater by Maxomar](https://open.spotify.com/track/6xGVCczlvoqMRPCSX9IDH5)
-- [Dancing With Your Ghost by beyondlight.](https://open.spotify.com/track/05SFJTcTuJkcnwneEYy3WJ)
-- [Love or Die by Ardiyan, MARE](https://open.spotify.com/track/3pB0Dprmvibh84EQaOAggE)
-- [Heart Back by Sevenn, Jem Cooke](https://open.spotify.com/track/0OSgkdebxTRNXLwwzD2b8s)
+- [Another Life by AFRONOM, Emre K., Tyler James Bellinger](https://open.spotify.com/track/6efkQohYCLWsV8wPVjKbpJ)
+- [Breeze by D.Polo](https://open.spotify.com/track/57nxQGDHMkXUKoG3G4pQaL)
+- [True by edapollo, Shallou](https://open.spotify.com/track/6BUboGsbk4M4eed4pfKGbz)
+- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
+- [For Me by Dallien, RVPTR, Spagbo](https://open.spotify.com/track/0PJCvbrQc5Dbccq5pcQ2D3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
