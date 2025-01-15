@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Alone by 2FarAway, Plaha, Sonam](https://open.spotify.com/track/0kkHRmVqNdn3sumqVmegdD)
-- [Who Do You Love by Fedders, ROBINS](https://open.spotify.com/track/6OdcnXIojpHuDM2NFBfwoA)
-- [The Best by Thomas Geelens, sleepy dude](https://open.spotify.com/track/3HH9Hu8rGpTPsZlmb0J8t5)
-- [1985 by Scity](https://open.spotify.com/track/59nVAsEhZCBh6XPo3Xyfu0)
-- [The Best Part by anamē, gardenstate, Bien](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP)
+- [Pull Me In by Bayshore Court, CUBY, SECMOS](https://open.spotify.com/track/4ggu5X43oCl0Z1P2V91jcI)
+- [Sunshine by Chullo](https://open.spotify.com/track/59OqoGxSN5nw7qJicX4jtt)
+- [Rude by Alberto Ciccarini, Poul, Jordan Grace](https://open.spotify.com/track/7oIOijXjeWBBqbuEB0yp06)
+- [Too Heavy by 2FarAway, Black Winter](https://open.spotify.com/track/4GvZd5v38uCJc8kjgFvQ1s)
+- [All My Love by Stridon, Rik Weber](https://open.spotify.com/track/2j7ZND0OOYJLI1bREiI4Oa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
