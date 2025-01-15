@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Olvidarte (feat. Emilia) by Gordo, Emilia](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH)
-- [Every Breath You Take by Viva La Panda, Swizznife](https://open.spotify.com/track/1QHfR4yonUKMmCLmpoU1XG)
-- [Anywhere by Chullo](https://open.spotify.com/track/46tr0tpqWbaH6B9Q2aOYo8)
-- [Illusion by LonelyBrothers, Natasha Ghosh](https://open.spotify.com/track/0CRHBCl37EkUyWmRhmJ8IP)
-- [Small Talk by Adon](https://open.spotify.com/track/4Ii6BNT9Ee69APmNn98Mwq)
+- [Alone by 2FarAway, Plaha, Sonam](https://open.spotify.com/track/0kkHRmVqNdn3sumqVmegdD)
+- [Who Do You Love by Fedders, ROBINS](https://open.spotify.com/track/6OdcnXIojpHuDM2NFBfwoA)
+- [The Best by Thomas Geelens, sleepy dude](https://open.spotify.com/track/3HH9Hu8rGpTPsZlmb0J8t5)
+- [1985 by Scity](https://open.spotify.com/track/59nVAsEhZCBh6XPo3Xyfu0)
+- [The Best Part by anamē, gardenstate, Bien](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
