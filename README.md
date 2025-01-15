@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Pull Me In by Bayshore Court, CUBY, SECMOS](https://open.spotify.com/track/4ggu5X43oCl0Z1P2V91jcI)
-- [Sunshine by Chullo](https://open.spotify.com/track/59OqoGxSN5nw7qJicX4jtt)
-- [Rude by Alberto Ciccarini, Poul, Jordan Grace](https://open.spotify.com/track/7oIOijXjeWBBqbuEB0yp06)
-- [Too Heavy by 2FarAway, Black Winter](https://open.spotify.com/track/4GvZd5v38uCJc8kjgFvQ1s)
-- [All My Love by Stridon, Rik Weber](https://open.spotify.com/track/2j7ZND0OOYJLI1bREiI4Oa)
+- [Higher by Calm Springs, Andrea Hamilton](https://open.spotify.com/track/25fPcLcmcl8Mp7rRZGg7Sj)
+- [Silence by Andrew Dum, Dara](https://open.spotify.com/track/5npS9wjViku0ij9KylMkjo)
+- [Poetry In Motion - Slow Down Version by Horagel](https://open.spotify.com/track/0v1v4a1bEFyMKQ1ttkZeBJ)
+- [Something Right by Willow](https://open.spotify.com/track/4a7Nlp8P52v6ehW0BxD4YL)
+- [Memories by Swizznife, May Li](https://open.spotify.com/track/0qsWnMBzGcwbt3TTEpDxUR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
