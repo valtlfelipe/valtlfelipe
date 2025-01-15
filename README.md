@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Dreaming by Chullo](https://open.spotify.com/track/6Q6VXwLYZjZKq24QrPrP7o)
-- [Raven by Hobes](https://open.spotify.com/track/56D0jZ2r8ESxoMvqXodcbL)
-- [If You Go by Vanilla Sky, Alena Kita](https://open.spotify.com/track/4tiRTd6EtdQkBLZ00xRSx6)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
-- [High Above by Floating Club](https://open.spotify.com/track/5XOCxmGbG3IzVRJXnPyTb9)
+- [Real by PLVTO](https://open.spotify.com/track/0AzPG8A1cRlklqf612L6eM)
+- [No Gravity (feat. Bava) by Zedd, Bava](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g)
+- [Wondering Why by L.A, Dallien, Alia Faye](https://open.spotify.com/track/71usfyu4lteyYq1tGP9m16)
+- [Tore Me Up by Refeci, Treyy G, BUBU](https://open.spotify.com/track/2lzE9brm1tR9gCv1Ibbo9g)
+- [No Way Back by Sultan &#43; Shepard, Shallou](https://open.spotify.com/track/0klunNsJiM2FZDDLQsDNUt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
