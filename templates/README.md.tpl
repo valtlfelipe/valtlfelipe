@@ -16,10 +16,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 
-_Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
+_Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
 #### 📄 Latest posts on my newsletter
 
-{{- range rss "https://felipevm.substack.com/feed" 3 }}
+{{- range rss "https://felipevm.substack.com/feed.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
