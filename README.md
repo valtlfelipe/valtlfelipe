@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Let Me Love You by Viva La Panda, The Chillers](https://open.spotify.com/track/5mSFt5jcLv0mMG8XvQ9Lr5)
-- [For You by Floating Club](https://open.spotify.com/track/3hEXVxmaCvEtSJQ5oo75C1)
-- [Hollow Ground by Arley, Descend, Nina Carr](https://open.spotify.com/track/74yu3pT1ZAc8Fm8ZQtdFy6)
-- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
-- [Lowest by Embody, Kyle Reynolds, So Damn Easy](https://open.spotify.com/track/168CHo0nA7qis8zx4fOdzn)
+- [they tell you secrets by Roman Müller](https://open.spotify.com/track/5EU9blgTmzpKdrLaqn3TfT)
+- [I Took A Pill In Ibiza - Seeb Remix by Mike Posner, Seeb](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)
+- [The Deep by Lane 8, Art School Girlfriend](https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4)
+- [The Breeze by Alex Breitling, Golowko](https://open.spotify.com/track/2LScaKsuBC2ZczEuJr2iR4)
+- [Deep End by Poul, Alberto Ciccarini](https://open.spotify.com/track/2gsS0hNfJQevyPv8Ubj3QS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
