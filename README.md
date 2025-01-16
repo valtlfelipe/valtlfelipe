@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Head Down For You by Freyer, Odeon, Senes](https://open.spotify.com/track/4Ty57TyhUNvVHQXsH5vrSD)
-- [Make Me Move by Leshii, KEFI](https://open.spotify.com/track/09G5JWvI9UubMTE6yxgLo9)
-- [All In A Dream by LP Giobbi, DJ Tennis, Joseph Ashworth](https://open.spotify.com/track/03jQHo0HFj5onzoexiaMPI)
-- [Are You With Me by Lost Frequencies](https://open.spotify.com/track/4255amV4enzl28KAn16rUO)
-- [No Bad Vibes by Jazzy, KILIMANJARO](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8)
+- [Cold Water by LØST SIGNAL, Ben Plum, TEZIS](https://open.spotify.com/track/3rhqWq48OL3vyJZNCfNqTg)
+- [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
+- [Silence by Wavey](https://open.spotify.com/track/1bYrsptzXjoGP4iJ9cJ4gF)
+- [Awoken by San Mateo Drive](https://open.spotify.com/track/2D5Ocww5PsqzRcyeUUWCmL)
+- [drown by AVAION](https://open.spotify.com/track/6qKGw4mPngMJ43oING2nTV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
