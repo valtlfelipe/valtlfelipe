@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
 - [Cold Water by LØST SIGNAL, Ben Plum, TEZIS](https://open.spotify.com/track/3rhqWq48OL3vyJZNCfNqTg)
 - [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
 - [Silence by Wavey](https://open.spotify.com/track/1bYrsptzXjoGP4iJ9cJ4gF)
 - [Awoken by San Mateo Drive](https://open.spotify.com/track/2D5Ocww5PsqzRcyeUUWCmL)
-- [drown by AVAION](https://open.spotify.com/track/6qKGw4mPngMJ43oING2nTV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
