@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)** - I&#39;ve built with Stripe for years. This is how I do it without going mad. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Higher by PLVTO](https://open.spotify.com/track/4dJOblIWElZy9wFNwbZrgG)
-- [In The Shadows by Alberto Ciccarini, Poul, Alexia Di Lorenzo](https://open.spotify.com/track/00ZRZlwPUgdgug5fKqeQbp)
-- [Young Again by SAINT., RAZZ](https://open.spotify.com/track/7bTwbUO1lbj2zjnZWYCcjI)
-- [Weekend by James Lacey](https://open.spotify.com/track/5rJOxqvMT0OYQQaqtj4oVo)
-- [Vital by Bjarne Hendrik](https://open.spotify.com/track/5TAoSZDhmbqcT2h8OhuIIy)
+- [Zora - Birrd Remix by Makoto San, Birrd](https://open.spotify.com/track/1NLnxStnWIpyvpPK1J4s4F)
+- [Everlast (Interplay 490) by Alexander Popov, Otnicka](https://open.spotify.com/track/0mGrx6o6AsVCyIgWQDjQKf)
+- [Leave Me by secondsun](https://open.spotify.com/track/5X2hvBLLk9nPbSWsoy17TL)
+- [Mellow by Nico Belucci](https://open.spotify.com/track/3yfjg8QvQqiS0wsO7r5BPK)
+- [Maybe by PLVTO](https://open.spotify.com/track/3py2NTUFKbroDYaiFi0XUE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
