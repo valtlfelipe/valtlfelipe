@@ -12,19 +12,12 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)** - A beautiful config generator for Ghostty terminal. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
-- [Cold Water by LØST SIGNAL, Ben Plum, TEZIS](https://open.spotify.com/track/3rhqWq48OL3vyJZNCfNqTg)
-- [Lights by P.A.V](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh)
-- [Silence by Wavey](https://open.spotify.com/track/1bYrsptzXjoGP4iJ9cJ4gF)
-- [Awoken by San Mateo Drive](https://open.spotify.com/track/2D5Ocww5PsqzRcyeUUWCmL)
+- [wild for the night by Dominic Neill](https://open.spotify.com/track/04kGR7jjWKNFmh4ymVBUg9)
+- [Sun Comes Up by CARMA](https://open.spotify.com/track/6HinX6DutfU6IESHW8UAy6)
+- [There For You by Dallien, Spagbo, Danny CLLS](https://open.spotify.com/track/0qa5MaW67bE98a2X5SIGaV)
+- [Clouds Over Twin Lakes by Eijk, Duce, Jessie Lee Thetford](https://open.spotify.com/track/1oAb696G6NX1Ym6OUxjT0F)
+- [Apollo by Flow Loris](https://open.spotify.com/track/7HpnoVS2NtL7QAd1K95Bix)
 
-_Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
-
-#### 🚀 Latest releases I've contributed to
+_Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
 
-- [valtlfelipe/secret-editor @ 0.0.2](https://github.com/valtlfelipe/secret-editor/releases/tag/0.0.2) (8 months ago)
-
-#### 📄 Latest blog posts
-- [Creating my first mobile app](https://felipevm.com/posts/creating-my-first-mobile-app/) (4 years ago)
-- [Using Sequelize With Hapijs](https://felipevm.com/posts/using-sequelize-with-hapijs/) (6 years ago)
