@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)** - I&#39;ve built with Stripe for years. This is how I do it without going mad. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Zora - Birrd Remix by Makoto San, Birrd](https://open.spotify.com/track/1NLnxStnWIpyvpPK1J4s4F)
-- [Everlast (Interplay 490) by Alexander Popov, Otnicka](https://open.spotify.com/track/0mGrx6o6AsVCyIgWQDjQKf)
-- [Leave Me by secondsun](https://open.spotify.com/track/5X2hvBLLk9nPbSWsoy17TL)
-- [Mellow by Nico Belucci](https://open.spotify.com/track/3yfjg8QvQqiS0wsO7r5BPK)
-- [Maybe by PLVTO](https://open.spotify.com/track/3py2NTUFKbroDYaiFi0XUE)
+- [To Be Free by Thunder](https://open.spotify.com/track/3CNzFn5Cc4NUpOCM3TLdkV)
+- [BYEBYE by ERIICE, Aidan Auci](https://open.spotify.com/track/38G56WQYHuYN8yk94lScXi)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [Let’s Dance Together by FamillySad](https://open.spotify.com/track/6mOZtCPf1fByXLUF2kCrWH)
+- [Above The Clouds by Æj, Mati Troglia, Eliine](https://open.spotify.com/track/6ailmWR6N9x1ayhJTS6a7b)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
