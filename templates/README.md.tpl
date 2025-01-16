@@ -18,14 +18,8 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=valtlfelipe-gh-profile)_ 
 
-#### 🚀 Latest releases I've contributed to
+#### 📄 Latest posts on my newsletter
 
-{{ range recentReleases 3 }}
-- [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
-{{- end }}
-
-#### 📄 Latest blog posts
-
-{{- range rss "https://felipevm.com/posts/index.xml" 3 }}
+{{- range rss "https://felipevm.substack.com/feed" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
