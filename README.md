@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)** - I&#39;ve built with Stripe for years. This is how I do it without going mad. (4 days ago)
 
 #### 🎧 What I have been listening
-- [To Be Free by Thunder](https://open.spotify.com/track/3CNzFn5Cc4NUpOCM3TLdkV)
-- [BYEBYE by ERIICE, Aidan Auci](https://open.spotify.com/track/38G56WQYHuYN8yk94lScXi)
-- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
-- [Let’s Dance Together by FamillySad](https://open.spotify.com/track/6mOZtCPf1fByXLUF2kCrWH)
-- [Above The Clouds by Æj, Mati Troglia, Eliine](https://open.spotify.com/track/6ailmWR6N9x1ayhJTS6a7b)
+- [Colourful by Grey Vision](https://open.spotify.com/track/2FyXyL8ovftr9BeFyjjQ5P)
+- [Up To Something by P.A.V](https://open.spotify.com/track/0LhIZ0kLCfsYLQwMtyXVvO)
+- [Sunset Sessions Part 2 by Tobÿ](https://open.spotify.com/track/1JT1l1FgOFV9UHviYSqNTG)
+- [Last Breath of Summer by Discognition](https://open.spotify.com/track/0o3UNyu6wpmiWeXk9YN8CC)
+- [Autumn by Bjarne Hendrik](https://open.spotify.com/track/3KejX8CjjXm2AAk4VztH3d)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
