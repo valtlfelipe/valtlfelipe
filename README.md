@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[serafimcloud/21st](https://github.com/serafimcloud/21st)** - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (4 days ago)
 
 #### 🎧 What I have been listening
-- [KUMBAYA by ANDER](https://open.spotify.com/track/5LeYzjiiLINJIAQgzOD3qz)
-- [Night Time Bliss by Phello](https://open.spotify.com/track/3sZZDhEVYJ8tyTiYEGCcg6)
-- [Summersome by Damian Holden](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G)
-- [I Call You by Pableno](https://open.spotify.com/track/45h1MEiWX3VKcxSCQLW0Vk)
-- [Ray Of Sun by Pink Villa](https://open.spotify.com/track/3i2EyWC04DDRnGwCw6ovoI)
+- [Passage by Ben Travel](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL)
+- [Santorini by Beau Vallon](https://open.spotify.com/track/6VGUeTXGsyKU44hkPtAqHY)
+- [Come Along by Hello Papyrus](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes)
+- [orange mist by Greene Labyrinth](https://open.spotify.com/track/6LbkUmfjv3AEwWK3xBGF08)
+- [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
