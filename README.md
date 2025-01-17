@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[campsite/campsite](https://github.com/campsite/campsite)** - The Campsite monorepo (3 days ago)
 
 #### 🎧 What I have been listening
-- [Shut Up and Dance by WALK THE MOON](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA)
-- [Higher by Taio Cruz, Kylie Minogue](https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo)
-- [Sex by Cheat Codes, Kris Kross Amsterdam](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0)
-- [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
-- [When Love Takes Over (feat. Kelly Rowland) by David Guetta, Kelly Rowland](https://open.spotify.com/track/619bJQ9uDi8dnXzLebFI7y)
+- [King by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM)
+- [Adventure of a Lifetime by Coldplay](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M)
+- [Scared to Be Lonely by Martin Garrix, Dua Lipa](https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH)
+- [If I Lose Myself - Alesso vs OneRepublic by OneRepublic, Alesso](https://open.spotify.com/track/3ScJy88F8KqGDfWu8XJhHx)
+- [Sun Goes Down (feat. Jasmine Thompson) - Radio Mix by Robin Schulz, Jasmine Thompson](https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
