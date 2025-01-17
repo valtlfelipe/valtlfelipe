@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[serafimcloud/21st](https://github.com/serafimcloud/21st)** - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (4 days ago)
 
 #### 🎧 What I have been listening
+- [Para Sol by Teide Garcia](https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4)
+- [Small Victorys by Cratouille](https://open.spotify.com/track/4WIG3yl5UjG4kuNXs5TgjU)
+- [Summer High by Palo Santo](https://open.spotify.com/track/0hnTSQUrWBcI4cSAJipBOw)
 - [Falling Faster by Niriko](https://open.spotify.com/track/3YWosF4fKAHglIoSaWUvFy)
 - [shade by roumr](https://open.spotify.com/track/4EzccXrr8ipyRhOvCoB2xE)
-- [Feign Life by Merry Lo](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT)
-- [dune tune by ben bocker](https://open.spotify.com/track/5QtdJrToHaXfshcANRpnDd)
-- [satisfaction upscale by aiXer](https://open.spotify.com/track/6mC1q4r7lATShNXzRo5l84)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
