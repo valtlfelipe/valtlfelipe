@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)** - I&#39;ve built with Stripe for years. This is how I do it without going mad. (5 days ago)
 
 #### 🎧 What I have been listening
+- [Can&#39;t Get Enough by Bjarne Hendrik](https://open.spotify.com/track/1qs59CetwuLl8EsnE0f210)
+- [Sunrise by Alena Kita](https://open.spotify.com/track/5YnDcgKkkwoU0dpaqnxoYx)
 - [Colourful by Grey Vision](https://open.spotify.com/track/2FyXyL8ovftr9BeFyjjQ5P)
 - [Up To Something by P.A.V](https://open.spotify.com/track/0LhIZ0kLCfsYLQwMtyXVvO)
 - [Sunset Sessions Part 2 by Tobÿ](https://open.spotify.com/track/1JT1l1FgOFV9UHviYSqNTG)
-- [Last Breath of Summer by Discognition](https://open.spotify.com/track/0o3UNyu6wpmiWeXk9YN8CC)
-- [Autumn by Bjarne Hendrik](https://open.spotify.com/track/3KejX8CjjXm2AAk4VztH3d)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
