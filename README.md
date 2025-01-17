@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[campsite/campsite](https://github.com/campsite/campsite)** - The Campsite monorepo (3 days ago)
 
 #### 🎧 What I have been listening
-- [Chasing Highs by ALMA](https://open.spotify.com/track/3TVpk6F6UTLG6uhAxbdUWm)
-- [Lay It All on Me (feat. Ed Sheeran) by Rudimental, Ed Sheeran](https://open.spotify.com/track/6splO3UF8hSmK33y5fJTNk)
-- [All Day And Night by Jax Jones, Martin Solveig, Madison Beer, Europa](https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK)
-- [Sugar (feat. Francesco Yates) by Robin Schulz, Francesco Yates](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)
-- [Breathe by Seeb, Neev](https://open.spotify.com/track/0CvTKt7jr68v4YEg9oATjX)
+- [Demons by Imagine Dragons](https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR)
+- [Good Life by OneRepublic](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4)
+- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
+- [I Feel It Coming by The Weeknd, Daft Punk](https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt)
+- [Dancing With A Stranger (with Normani) by Sam Smith, Normani](https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
