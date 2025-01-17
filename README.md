@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[WillieBeek/txtlog](https://github.com/WillieBeek/txtlog)** - Txtlog.net main repository (4 days ago)
 
 #### 🎧 What I have been listening
+- [Glad You Came by The Wanted](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj)
+- [This Is What You Came For by Calvin Harris, Rihanna](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y)
+- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
+- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
 - [MEL by Branko, Traz Água](https://open.spotify.com/track/3TwlArpDKgcCjJfzIzuiUR)
-- [Timber by Pitbull, Kesha](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)
-- [Shower by Becky G](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ)
-- [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
-- [Get Down by Pafka](https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
