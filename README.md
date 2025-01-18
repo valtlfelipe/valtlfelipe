@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api)** - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Demons by Imagine Dragons](https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR)
-- [Good Life by OneRepublic](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4)
-- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
-- [I Feel It Coming by The Weeknd, Daft Punk](https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt)
-- [Dancing With A Stranger (with Normani) by Sam Smith, Normani](https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp)
+- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
+- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
+- [Ongoing Thing by 20syl, Oddisee](https://open.spotify.com/track/3DjYU54tU6YCEy822r8TcY)
+- [Strobe - Radio Edit by deadmau5](https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U)
+- [Strobe - Radio Edit by deadmau5](https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
