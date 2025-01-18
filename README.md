@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api)** - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (2 days ago)
 
 #### 🎧 What I have been listening
-- [I Got You - Radio by Cristian Marchi, Nari &amp; Milani, Max&#39;C&#39;](https://open.spotify.com/track/5TBlTcMBjfiuNC4h2RN0Fw)
-- [Turn The Tide 2k8 - R.I.O. Radio Mix by Manian, R.I.O.](https://open.spotify.com/track/2Ckf0hMDb1KE14AisEL2cY)
-- [Shine On - Spencer &amp; Hill Radio edit by R.I.O., Spencer &amp; Hill, Manuel Reuter, Yann Peifer](https://open.spotify.com/track/5qPhBxyybefHUxW9lpQqlX)
-- [Monday by Carlo Dall Anese, Fabio Castro](https://open.spotify.com/track/138R79FEPdJ64NoTuCGK18)
-- [Cry for You by September](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao)
+- [Prayer in C - Robin Schulz Radio Edit by Lilly Wood and The Prick, Robin Schulz](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck)
+- [Várias Queixas (Remix) (feat. Gilsons) by Malifoo, Cazt, Gilsons](https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7)
+- [Outside Of Love - Zerb Remix by Becky Hill, Zerb](https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5)
+- [Are You Mine by Alex Schulz, Rakan](https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn)
+- [Quero Ir pra Bahia Com Você (feat. Fullmode &amp; LEMON DROPS) - Remix by Julio Secchin, Rebeca, KVSH, Fullmode, LEMON DROPS](https://open.spotify.com/track/6KZ3fRoXzE9ksxfjdwTblu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
