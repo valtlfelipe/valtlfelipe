@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api)** - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Prayer in C - Robin Schulz Radio Edit by Lilly Wood and The Prick, Robin Schulz](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck)
-- [Várias Queixas (Remix) (feat. Gilsons) by Malifoo, Cazt, Gilsons](https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7)
-- [Outside Of Love - Zerb Remix by Becky Hill, Zerb](https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5)
-- [Are You Mine by Alex Schulz, Rakan](https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn)
-- [Quero Ir pra Bahia Com Você (feat. Fullmode &amp; LEMON DROPS) - Remix by Julio Secchin, Rebeca, KVSH, Fullmode, LEMON DROPS](https://open.spotify.com/track/6KZ3fRoXzE9ksxfjdwTblu)
+- [Learn to Fly by Foo Fighters](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT)
+- [Use Your Heart - Interlude by SWV](https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep)
+- [The Horses by Daryl Braithwaite](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE)
+- [They Don&#39;t Care About Us by Michael Jackson](https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv)
+- [It&#39;s Gonna Be Me by *NSYNC](https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
