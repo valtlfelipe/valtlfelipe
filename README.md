@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api)** - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Streets of Philadelphia - Single Edit by Bruce Springsteen](https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd)
-- [Two Princes by Spin Doctors](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90)
-- [Scar Tissue by Red Hot Chili Peppers](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1)
-- [Inside Out by Eve 6](https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m)
-- [All By Myself by Céline Dion](https://open.spotify.com/track/49tbDrswKv7ivUgGlEddQQ)
+- [I Don&#39;t Know Why - Viale &amp; Dj Ross Radio Cut by Moony](https://open.spotify.com/track/2wGjwatu3E4gkw2H6ZVTHA)
+- [Cry for You by September](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao)
+- [Dance with Me by Saint, MDP](https://open.spotify.com/track/1E7ZNYv3QN2WB1rPWjSWiv)
+- [Lose Control by Double You](https://open.spotify.com/track/4KoWdGiifw8FjMiFg8mWiD)
+- [Keep On Rising (feat. Michelle Shellers) by Ian Carey, Michelle Shellers](https://open.spotify.com/track/3D8mVCWw5xXZSh6kB0ZtWQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
