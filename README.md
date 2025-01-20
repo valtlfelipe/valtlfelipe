@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[frappe/helpdesk](https://github.com/frappe/helpdesk)** - Modern, Streamlined, Free and Open Source Customer Service Software (3 days ago)
 
 #### 🎧 What I have been listening
-- [Oceans Away by Moonkids](https://open.spotify.com/track/13ZGGIr9CyzOsHWI1mlOrK)
-- [Holding On by Steam Phunk, maybealice](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa)
-- [Give Me Love by Zens, BTRN, Robertson](https://open.spotify.com/track/7wb65yboVZykPRuLJSLAmU)
-- [Feel Alright by James Lacey, ODBLU](https://open.spotify.com/track/6yFWU2RnhjoMRCFJRG6I3n)
-- [All My Love by Stridon, Rik Weber](https://open.spotify.com/track/2j7ZND0OOYJLI1bREiI4Oa)
+- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
+- [Running A Mile by CARMA](https://open.spotify.com/track/2fZhXMRioUoAwWSweEIyLJ)
+- [VULNERABLE by Bad Intentions, Dayna Madison](https://open.spotify.com/track/2BeZRiTS2JtPwqNr0uUmjO)
+- [Can You Feel It? by Coffee Cub](https://open.spotify.com/track/5ebQzc6OSS8o4Iztb0cPw2)
+- [Your Touch by Why U So, SHELLS](https://open.spotify.com/track/0rfsaQbCQQGu5mfytzH5z8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
