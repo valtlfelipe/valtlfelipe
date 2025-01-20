@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (3 days ago)
 
 #### 🎧 What I have been listening
-- [Head Down For You by Freyer, Odeon, Senes](https://open.spotify.com/track/4Ty57TyhUNvVHQXsH5vrSD)
-- [Guiding Light by D3EPANK](https://open.spotify.com/track/6qnhBx6bmKxQpwkKuDdLMl)
-- [Looking Back by Nicolas Haelg](https://open.spotify.com/track/3nM8bteGCXUt1Rcd04lPyE)
-- [Till I Die by Frignoize](https://open.spotify.com/track/7C1jccskyd3PzEMWOXrXib)
-- [Neverland by Avi Snow, Sync, KOIL](https://open.spotify.com/track/4SG5yceUikHS7sQ3Ugy6c3)
+- [Running Back by Lotus, NOAM](https://open.spotify.com/track/2GgqckMAkIBsatyf35uEGD)
+- [Dream in Color by Greg Elenis](https://open.spotify.com/track/7sgjmvjSVVCfTlfYa4H6oG)
+- [Just Let Go by Avi Snow, BIMINI, Yvvan Back](https://open.spotify.com/track/2vrpdYpLEhRoJJWxcwQKm1)
+- [Wondering Why by L.A, Dallien, Alia Faye](https://open.spotify.com/track/71usfyu4lteyYq1tGP9m16)
+- [Games by Fedders, ENLIV3N](https://open.spotify.com/track/4txZjW8nI7o1MibEGJDaJC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
