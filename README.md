@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[frappe/helpdesk](https://github.com/frappe/helpdesk)** - Modern, Streamlined, Free and Open Source Customer Service Software (3 days ago)
 
 #### 🎧 What I have been listening
-- [Sunday Vibe by James Lacey](https://open.spotify.com/track/0R4rV2BoKcNz1gIALk76HH)
-- [Memory by Solven](https://open.spotify.com/track/4BZoOQjoqd9qGaGGI1kvg5)
-- [Make Me Feel (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/6qHhWQJq1N3cLmcpxfBxhQ)
-- [Pictures by LuvLess](https://open.spotify.com/track/4KCuUouFL7xcPwLWHGFxmz)
-- [Will You Be Mine by SAINT.](https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz)
+- [Oceans Away by Moonkids](https://open.spotify.com/track/13ZGGIr9CyzOsHWI1mlOrK)
+- [Holding On by Steam Phunk, maybealice](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa)
+- [Give Me Love by Zens, BTRN, Robertson](https://open.spotify.com/track/7wb65yboVZykPRuLJSLAmU)
+- [Feel Alright by James Lacey, ODBLU](https://open.spotify.com/track/6yFWU2RnhjoMRCFJRG6I3n)
+- [All My Love by Stridon, Rik Weber](https://open.spotify.com/track/2j7ZND0OOYJLI1bREiI4Oa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
