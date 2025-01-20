@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[frappe/helpdesk](https://github.com/frappe/helpdesk)** - Modern, Streamlined, Free and Open Source Customer Service Software (3 days ago)
 
 #### 🎧 What I have been listening
-- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
-- [Running A Mile by CARMA](https://open.spotify.com/track/2fZhXMRioUoAwWSweEIyLJ)
-- [VULNERABLE by Bad Intentions, Dayna Madison](https://open.spotify.com/track/2BeZRiTS2JtPwqNr0uUmjO)
-- [Can You Feel It? by Coffee Cub](https://open.spotify.com/track/5ebQzc6OSS8o4Iztb0cPw2)
-- [Your Touch by Why U So, SHELLS](https://open.spotify.com/track/0rfsaQbCQQGu5mfytzH5z8)
+- [Sweet Harmony by Alberto Ciccarini, Poul, Alexia Di Lorenzo](https://open.spotify.com/track/2iFDiQOjPyYCstBOesduwN)
+- [Pretty Little Things by Kovan, Poylux, liquidfive](https://open.spotify.com/track/6GNUPnL8wM0usAYNnmDrmJ)
+- [About Us by Julien Fade, Gamuel Sori](https://open.spotify.com/track/6uvs8KisT9CAorJRT3Kx9r)
+- [Every Day Every Night by TEEMID](https://open.spotify.com/track/5OUQ2Kx3o1EUfabSpiuqta)
+- [On Your Mind by Roman Müller](https://open.spotify.com/track/4Le5KyIsbNLPODIzRVbov3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
