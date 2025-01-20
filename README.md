@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[frappe/helpdesk](https://github.com/frappe/helpdesk)** - Modern, Streamlined, Free and Open Source Customer Service Software (3 days ago)
 
 #### 🎧 What I have been listening
-- [For Us by aiden, TAPI](https://open.spotify.com/track/3CVgJxpE0WiS7ZZshGu5WX)
-- [More Than You Know by Scity](https://open.spotify.com/track/5Onp6M1x0tN6UE3iPfEQXJ)
-- [I Like You by James Lacey](https://open.spotify.com/track/44VCpf748U2ODV5EfXnjB3)
-- [LUNCH by Nomore, Tasty Or Not, Queen D](https://open.spotify.com/track/1qXocnPCGMbNpsz9MRiwy6)
-- [Slide by Jelen](https://open.spotify.com/track/0AuhmtIh2NH5L4LoeGK9Fj)
+- [Sunday Vibe by James Lacey](https://open.spotify.com/track/0R4rV2BoKcNz1gIALk76HH)
+- [Memory by Solven](https://open.spotify.com/track/4BZoOQjoqd9qGaGGI1kvg5)
+- [Make Me Feel (feat. maybealice) by Steam Phunk, maybealice](https://open.spotify.com/track/6qHhWQJq1N3cLmcpxfBxhQ)
+- [Pictures by LuvLess](https://open.spotify.com/track/4KCuUouFL7xcPwLWHGFxmz)
+- [Will You Be Mine by SAINT.](https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
