@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (4 days ago)
 
 #### 🎧 What I have been listening
-- [By Your Side by Imad, offrami](https://open.spotify.com/track/33pkvSE2Bh9KHLz7X4fLeS)
-- [Lost You by oskar med k](https://open.spotify.com/track/2Z6UTk8VRdn0I6mwM98FCG)
-- [Endless Summer by Goodline, Adrian Planitz](https://open.spotify.com/track/4Ld9eBPBsvXSdkldy7Gldq)
-- [Back To You by Summer Dusk, Amaranth Skies, Brandon Chase](https://open.spotify.com/track/2etEFDcsiFwQLnuBVPa8Po)
-- [Falling In Love by Sherman de Vries, Navaro, Leaha, Cymatic Audio, Luigi Society](https://open.spotify.com/track/0ABebuoLjfqxIuh7pTA0Tv)
+- [Thought You Would Like It by Blines](https://open.spotify.com/track/4RkhoVP5qEv9Fun5z1jDjq)
+- [Down by Ryan Blu, Jordan Marcel](https://open.spotify.com/track/2NgU76NhBdyKCTgFKctSu3)
+- [Half Your Heart by Audrey Floyd, Plastic Jungle](https://open.spotify.com/track/1ppjDQhupHGwEaUbe4YM9P)
+- [Burning Lies - Edit by DSF](https://open.spotify.com/track/41pAFDHNwudq45irU1lhB3)
+- [Still Be There (feat. Josh Tobias) by Tim Hughes, Josh Tobias](https://open.spotify.com/track/0AjLqMYDsBjpVIeWLoiG9x)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
