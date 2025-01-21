@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (4 days ago)
 
 #### 🎧 What I have been listening
-- [Far Away From Me by ERIICE, Jethro](https://open.spotify.com/track/5CY2mOkbdEGCP5ZrYgWnTz)
-- [Tumaudu by Kapuzen](https://open.spotify.com/track/2igHRg6dPkDWeDbbcbadyM)
-- [Happy It Happened by Rayasa, Idun Nicoline](https://open.spotify.com/track/6cUWWwem9BnJ5hR4HD36tV)
-- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
-- [Running Back by Lotus, NOAM](https://open.spotify.com/track/2GgqckMAkIBsatyf35uEGD)
+- [Getting By by Rock Da Cat](https://open.spotify.com/track/23XaFtPGUUjzLPqOcfZJRo)
+- [On The Run by NVRT](https://open.spotify.com/track/2qI55suh5Otdu3NdxLeBzY)
+- [Raven by Hobes](https://open.spotify.com/track/56D0jZ2r8ESxoMvqXodcbL)
+- [Family Affair - Secret Source Remix by Rotciv &amp; Revilo, MrRevillz, Secret Source](https://open.spotify.com/track/6MXzTDqtm8PDCroQwLYLsL)
+- [So Over You by Matthew Clarck](https://open.spotify.com/track/0ZLLGT0tnoBmC4eBM7RIY2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
