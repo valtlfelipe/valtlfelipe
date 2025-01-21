@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (4 days ago)
 
 #### 🎧 What I have been listening
+- [Far Away From Me by ERIICE, Jethro](https://open.spotify.com/track/5CY2mOkbdEGCP5ZrYgWnTz)
+- [Tumaudu by Kapuzen](https://open.spotify.com/track/2igHRg6dPkDWeDbbcbadyM)
+- [Happy It Happened by Rayasa, Idun Nicoline](https://open.spotify.com/track/6cUWWwem9BnJ5hR4HD36tV)
+- [When I&#39;m With You by henrikz, Gianluca Dimeo](https://open.spotify.com/track/2utekQhDecc0eUeAOBOTEs)
 - [Running Back by Lotus, NOAM](https://open.spotify.com/track/2GgqckMAkIBsatyf35uEGD)
-- [Dream in Color by Greg Elenis](https://open.spotify.com/track/7sgjmvjSVVCfTlfYa4H6oG)
-- [Just Let Go by Avi Snow, BIMINI, Yvvan Back](https://open.spotify.com/track/2vrpdYpLEhRoJJWxcwQKm1)
-- [Wondering Why by L.A, Dallien, Alia Faye](https://open.spotify.com/track/71usfyu4lteyYq1tGP9m16)
-- [Games by Fedders, ENLIV3N](https://open.spotify.com/track/4txZjW8nI7o1MibEGJDaJC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
