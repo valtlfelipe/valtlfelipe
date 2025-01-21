@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (4 days ago)
 
 #### 🎧 What I have been listening
-- [Thought You Would Like It by Blines](https://open.spotify.com/track/4RkhoVP5qEv9Fun5z1jDjq)
-- [Down by Ryan Blu, Jordan Marcel](https://open.spotify.com/track/2NgU76NhBdyKCTgFKctSu3)
-- [Half Your Heart by Audrey Floyd, Plastic Jungle](https://open.spotify.com/track/1ppjDQhupHGwEaUbe4YM9P)
-- [Burning Lies - Edit by DSF](https://open.spotify.com/track/41pAFDHNwudq45irU1lhB3)
-- [Still Be There (feat. Josh Tobias) by Tim Hughes, Josh Tobias](https://open.spotify.com/track/0AjLqMYDsBjpVIeWLoiG9x)
+- [Now I Don&#39;t Feel by Planetopia](https://open.spotify.com/track/0gA9Zq4QvRz4AMuMfY85WA)
+- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
+- [All I Care by ROOSTERJAXX](https://open.spotify.com/track/4HyZnGKV3SKCJtEOnnigng)
+- [You&#39;re The One by Jelen](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51)
+- [Weight of the World by Oomloud, Willemijn May](https://open.spotify.com/track/7y7o03XAk4HIPseVnnzOVG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
