@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (4 days ago)
 
 #### 🎧 What I have been listening
-- [I Remember (Strobelight Edit) by deadmau5, Kaskade](https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm)
-- [Cry for You by September](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao)
-- [Missing - Todd Terry Remix Radio Edit by Everything But The Girl, Todd Terry](https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt)
-- [When Love Takes Over (feat. Kelly Rowland) by David Guetta, Kelly Rowland](https://open.spotify.com/track/0GWGZA5mxo9nHuSyrj70uo)
-- [Lola&#39;s Theme - Radio Edit by The Shapeshifters](https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0)
+- [Rent by RA DAR](https://open.spotify.com/track/19iugsWjMy6wDD225VT35E)
+- [under water by super8memory](https://open.spotify.com/track/2CfvtzLblpnUl1n4Uzz5Rn)
+- [Sleepwalking by longwayfromhome](https://open.spotify.com/track/0YMHoNyvFq4pHf8ASTSG2f)
+- [For An Angel - PvD Angel In Heaven Radio Edit by Paul van Dyk](https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP)
+- [The Longest Road - deadmau5 Remix Edit by Morgan Page, Lissie, deadmau5](https://open.spotify.com/track/77w8cBOdasP7aNcPD9Dec8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
