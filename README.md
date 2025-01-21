@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (4 days ago)
 
 #### 🎧 What I have been listening
-- [Now I Don&#39;t Feel by Planetopia](https://open.spotify.com/track/0gA9Zq4QvRz4AMuMfY85WA)
-- [Fading Melodies by Gabriel Wittner, LUDVIC, Luciana Silva](https://open.spotify.com/track/0ufnG53X8ceZjTt5tfj4f6)
-- [All I Care by ROOSTERJAXX](https://open.spotify.com/track/4HyZnGKV3SKCJtEOnnigng)
-- [You&#39;re The One by Jelen](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51)
-- [Weight of the World by Oomloud, Willemijn May](https://open.spotify.com/track/7y7o03XAk4HIPseVnnzOVG)
+- [I Remember (Strobelight Edit) by deadmau5, Kaskade](https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm)
+- [Cry for You by September](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao)
+- [Missing - Todd Terry Remix Radio Edit by Everything But The Girl, Todd Terry](https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt)
+- [When Love Takes Over (feat. Kelly Rowland) by David Guetta, Kelly Rowland](https://open.spotify.com/track/0GWGZA5mxo9nHuSyrj70uo)
+- [Lola&#39;s Theme - Radio Edit by The Shapeshifters](https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
