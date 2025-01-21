@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (4 days ago)
 
 #### 🎧 What I have been listening
-- [One for Me by Retrac](https://open.spotify.com/track/72wAXN8FFG7daJ2Pc9GKUZ)
-- [Dark Nights by Panuma, Tim Hughes, Kayla](https://open.spotify.com/track/2Ixv55zR4IqrZdtNGWqHit)
-- [Sing To You by Amaranth Skies, Æj, FIXL, Gavriel](https://open.spotify.com/track/3n8PdsOSOYbzYquEDDy3WB)
-- [City Lights by Planetopia](https://open.spotify.com/track/2yRmdbTYGHTCteJBZv9Ybn)
-- [Valerie by Paratone](https://open.spotify.com/track/7xeHe1pElnsyrZX9N4dsEK)
+- [Wishing by Sean Blanc](https://open.spotify.com/track/2ipr8HboTyHZkeLj7DPvqh)
+- [Waste My Love by Oliver Cricket, DAV5, RAGUZZA](https://open.spotify.com/track/0zHaPkZcEMiAgzdL6hgh1v)
+- [Love by Sherman de Vries, REVERSE, Isha Adoré](https://open.spotify.com/track/0XgpdAVBVNe9WpgyG3XaXl)
+- [For Me by Dallien, RVPTR, Spagbo](https://open.spotify.com/track/0PJCvbrQc5Dbccq5pcQ2D3)
+- [Come Back to Me by Eijk, Jessie Lee Thetford](https://open.spotify.com/track/6uE8L1DTJdHk9PriaM78q5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
