@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 
 #### 🎧 What I have been listening
-- [Wayside by Qrion, Josie Man](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld)
-- [Polar Lights by Nora En Pure](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi)
-- [Wait For You by Elderbrook, Carlita](https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW)
-- [The Deep by Lane 8, Art School Girlfriend](https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4)
-- [Desire by Olly Alexander (Years &amp; Years), Tove Lo](https://open.spotify.com/track/6TMzuNLw1ZPgBqPKmnnObm)
+- [Escape (feat. Hayla) by Kx5, deadmau5, Kaskade, HAYLA](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK)
+- [You by Mondingo](https://open.spotify.com/track/4UUA57IJP5b5N2lJEOJD3g)
+- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
+- [Rise Above by Jones Meadow, Nina Carr](https://open.spotify.com/track/30qiELbAZ83xKkj23MhdhH)
+- [Goosebumps by Astrality](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
