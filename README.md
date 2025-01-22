@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 
 #### 🎧 What I have been listening
-- [Hand Me Downs by makers mask](https://open.spotify.com/track/0VrzsKXYAqpabjzbD6Yx3Y)
-- [Tropicana by Pierre Sloane](https://open.spotify.com/track/0rSCtkQ7F8QdunymZPZRgb)
-- [Salty Blossom by Coahira](https://open.spotify.com/track/4v1o7hP3BqS2LtlcI2CSG4)
-- [The Sweetness by Peacefullie](https://open.spotify.com/track/1845FL0Rp89SWsjxYKJgS6)
-- [Competitive Edge by Himari Aoki](https://open.spotify.com/track/2737XH7tnOWNXkOBZnS3Sa)
+- [Next in line by Dove Tales](https://open.spotify.com/track/3cuLUAo08KMeLzsJnBxExv)
+- [Organics by Comfykids](https://open.spotify.com/track/3gAjJQh87hW5RaXyxG8xaH)
+- [Someone Else&#39;s Garden by makers mask](https://open.spotify.com/track/3dpCtL7mPQG0B3MkaTKxHw)
+- [Reserved Only by Sunset-buff](https://open.spotify.com/track/6ZGntxXkwV2rEKEdARBYIM)
+- [Sunshine by Palo Santo](https://open.spotify.com/track/6bhFPCl8Q4wkbR5sEDLovv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
