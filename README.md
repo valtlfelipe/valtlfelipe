@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 
 #### 🎧 What I have been listening
+- [Lonely by CLOVER, Plaha, Piece Wise](https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ)
+- [Into The Bloom by Tobtok, Jack Kelly, Betty Bloom](https://open.spotify.com/track/5CGwVoSCM3jHWpZi4u6Jgc)
 - [Escape (feat. Hayla) by Kx5, deadmau5, Kaskade, HAYLA](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK)
 - [You by Mondingo](https://open.spotify.com/track/4UUA57IJP5b5N2lJEOJD3g)
 - [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
-- [Rise Above by Jones Meadow, Nina Carr](https://open.spotify.com/track/30qiELbAZ83xKkj23MhdhH)
-- [Goosebumps by Astrality](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
