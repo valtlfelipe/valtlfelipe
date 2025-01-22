@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 
 #### 🎧 What I have been listening
-- [Sexy in the Morning by Reel Waves](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE)
-- [Out There by flooww](https://open.spotify.com/track/1451qMk0vSvxFbR0WZ6mPk)
-- [Sharp Looking by MC Baptiste](https://open.spotify.com/track/0sjxyeYQUKfX8uHYoYHU2T)
-- [Myst by The Pleasure Principle](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW)
-- [Come Along by Hello Papyrus](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes)
+- [orange mist by Greene Labyrinth](https://open.spotify.com/track/6LbkUmfjv3AEwWK3xBGF08)
+- [Rose by Drofty](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn)
+- [Night Visions by Thirsty Ear](https://open.spotify.com/track/3kIaZnczSu1uoCQ78P7TxD)
+- [Polarity by Sum Wave](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv)
+- [Feet in Sand by Sum Wave](https://open.spotify.com/track/6YbkG0VobN5rBaN9QW14Ih)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
