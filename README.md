@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 
 #### 🎧 What I have been listening
+- [Shine On - Spencer &amp; Hill Radio edit by R.I.O., Spencer &amp; Hill, Manuel Reuter, Yann Peifer](https://open.spotify.com/track/5qPhBxyybefHUxW9lpQqlX)
 - [Children - Club Radio Mix by Dave Darell](https://open.spotify.com/track/58VBHxAElmbrutz9EkUz7G)
 - [After The Rain - Radio Edit by Fedo Mora, Camurri](https://open.spotify.com/track/4ZLRO2XTyaAEJ8UbfLp21r)
 - [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
 - [After The Rain - Radio Edit by Fedo Mora, Camurri](https://open.spotify.com/track/4ZLRO2XTyaAEJ8UbfLp21r)
-- [Lonely by CLOVER, Plaha, Piece Wise](https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
