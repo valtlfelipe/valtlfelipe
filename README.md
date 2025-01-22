@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 
 #### 🎧 What I have been listening
-- [orange mist by Greene Labyrinth](https://open.spotify.com/track/6LbkUmfjv3AEwWK3xBGF08)
-- [Rose by Drofty](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn)
-- [Night Visions by Thirsty Ear](https://open.spotify.com/track/3kIaZnczSu1uoCQ78P7TxD)
-- [Polarity by Sum Wave](https://open.spotify.com/track/1LPwtnf0ErVnTcVGWwE2Iv)
-- [Feet in Sand by Sum Wave](https://open.spotify.com/track/6YbkG0VobN5rBaN9QW14Ih)
+- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
+- [These Words by Badger, Natasha Bedingfield](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz)
+- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG)
+- [Shades Of Love (feat. The Joy) by The Blessed Madonna, The Joy](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK)
+- [I Only Smoke When I Drink by nimino](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
