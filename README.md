@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 
 #### 🎧 What I have been listening
-- [Organic Future by Costavibe](https://open.spotify.com/track/4sN1oCw4jCUAKRXteJDE1r)
-- [Don&#39;t Need To Worry by Simple Jim](https://open.spotify.com/track/3KvSUFp8MX70Yd6am0Fp7s)
-- [on my mind by Good Kings](https://open.spotify.com/track/79A8xKMQDj3mPY0J7CNpLy)
-- [Limestone by Faux Facet](https://open.spotify.com/track/5qpafrgoeAb7Hff4KkhUAZ)
-- [head east by bonaira](https://open.spotify.com/track/47BhuJCF6i496FcleIShvI)
+- [Sexy in the Morning by Reel Waves](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE)
+- [Out There by flooww](https://open.spotify.com/track/1451qMk0vSvxFbR0WZ6mPk)
+- [Sharp Looking by MC Baptiste](https://open.spotify.com/track/0sjxyeYQUKfX8uHYoYHU2T)
+- [Myst by The Pleasure Principle](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW)
+- [Come Along by Hello Papyrus](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
