@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 
 #### 🎧 What I have been listening
-- [Clarity by Dan Awy](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ)
-- [10pm by Maea Sid](https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV)
-- [Bit of Window by Conte Prad](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2)
-- [Sun Soaked by Pool Villa](https://open.spotify.com/track/4CFOO0ALDRXw6eVkFBVQXs)
-- [Tropics by Jay Arrow](https://open.spotify.com/track/5Q76GfbKmkLoJuXMbdMrbX)
+- [Organic Future by Costavibe](https://open.spotify.com/track/4sN1oCw4jCUAKRXteJDE1r)
+- [Don&#39;t Need To Worry by Simple Jim](https://open.spotify.com/track/3KvSUFp8MX70Yd6am0Fp7s)
+- [on my mind by Good Kings](https://open.spotify.com/track/79A8xKMQDj3mPY0J7CNpLy)
+- [Limestone by Faux Facet](https://open.spotify.com/track/5qpafrgoeAb7Hff4KkhUAZ)
+- [head east by bonaira](https://open.spotify.com/track/47BhuJCF6i496FcleIShvI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
