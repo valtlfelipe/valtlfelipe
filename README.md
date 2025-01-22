@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 
 #### 🎧 What I have been listening
-- [misty mind by kilowattz](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q)
-- [Melange by under.tone](https://open.spotify.com/track/7D4jtoVKo69jCz2cgkabG8)
-- [Workspace by Buysea](https://open.spotify.com/track/1C6vxuyg7SFbdMcNifMAbq)
-- [past and present by Landayn](https://open.spotify.com/track/5hF3YXq3lrW3QnloXeaIxI)
-- [Kinkaku-ji by Yasumaru](https://open.spotify.com/track/7lNECdcPTy9GLiEGyXIqfO)
+- [Clarity by Dan Awy](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ)
+- [10pm by Maea Sid](https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV)
+- [Bit of Window by Conte Prad](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2)
+- [Sun Soaked by Pool Villa](https://open.spotify.com/track/4CFOO0ALDRXw6eVkFBVQXs)
+- [Tropics by Jay Arrow](https://open.spotify.com/track/5Q76GfbKmkLoJuXMbdMrbX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
