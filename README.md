@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 
 #### 🎧 What I have been listening
-- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
-- [These Words by Badger, Natasha Bedingfield](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz)
-- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG)
-- [Shades Of Love (feat. The Joy) by The Blessed Madonna, The Joy](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK)
-- [I Only Smoke When I Drink by nimino](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR)
+- [Wayside by Qrion, Josie Man](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld)
+- [Polar Lights by Nora En Pure](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi)
+- [Wait For You by Elderbrook, Carlita](https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW)
+- [The Deep by Lane 8, Art School Girlfriend](https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4)
+- [Desire by Olly Alexander (Years &amp; Years), Tove Lo](https://open.spotify.com/track/6TMzuNLw1ZPgBqPKmnnObm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
