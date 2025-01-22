@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (5 days ago)
 
 #### 🎧 What I have been listening
-- [Bottom of the Planet by Co Kluin](https://open.spotify.com/track/1lIRzvFbQpX7eiFOttAeXT)
-- [1927 Swim Club by People Safari](https://open.spotify.com/track/4G8vy74V2geCTu8YqKL8jq)
-- [Champagne Breakfast by Gea](https://open.spotify.com/track/33QH3fO3g9s5NFi62p8TDr)
-- [locking lips by Manic Twister](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW)
-- [Sound Crown by Generation.](https://open.spotify.com/track/1IZDP1zsV0wq7IgZyBTi5E)
+- [misty mind by kilowattz](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q)
+- [Melange by under.tone](https://open.spotify.com/track/7D4jtoVKo69jCz2cgkabG8)
+- [Workspace by Buysea](https://open.spotify.com/track/1C6vxuyg7SFbdMcNifMAbq)
+- [past and present by Landayn](https://open.spotify.com/track/5hF3YXq3lrW3QnloXeaIxI)
+- [Kinkaku-ji by Yasumaru](https://open.spotify.com/track/7lNECdcPTy9GLiEGyXIqfO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
