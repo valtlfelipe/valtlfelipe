@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (6 days ago)
 
 #### 🎧 What I have been listening
-- [Reserved For Two by Evan St. Claire](https://open.spotify.com/track/6LS1Tx9asjgb4VG2xiGq4E)
-- [Spa Intervention by makers mask](https://open.spotify.com/track/3zHpn1533zXCxXqzHBn3cE)
-- [Livre by Alex Caipirinha](https://open.spotify.com/track/66pR9ncrh4tOz1Ox9K5dXU)
-- [Heads Up by Ori Kul](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf)
-- [Doja Dojo by Harvio](https://open.spotify.com/track/3y0raD8eU9EHrxTCSr9AvL)
+- [GlamLife by David Kuro](https://open.spotify.com/track/1YilzehYmkU2He5hrZJysC)
+- [Far Away by Mygg An](https://open.spotify.com/track/1cFU29X7CFSlTIhLZPkfX4)
+- [Bloom by VLD](https://open.spotify.com/track/25iM0QNqK1SIVvs2JLksw2)
+- [tongueswirl by Gabri From France](https://open.spotify.com/track/5HNfmZ82xCakjt01ULnvbW)
+- [Open Fields by Toby Tech](https://open.spotify.com/track/6PsPRjRVQpuxltouIiGJfu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
