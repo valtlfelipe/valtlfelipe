@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (6 days ago)
 
 #### 🎧 What I have been listening
-- [Invisible by Aneto](https://open.spotify.com/track/4n94rR0i171llDsLO6psCn)
-- [Lost by Greene Labyrinth](https://open.spotify.com/track/6JvU8SkO8ohlpYJOk5dpjp)
-- [In Brevi by Valante](https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl)
-- [I Can’t Even by Drunk Archer](https://open.spotify.com/track/1hZDvLGzGTvbBRP8CqU0rD)
-- [Your Eyes by incovent](https://open.spotify.com/track/6UZ8vkpOmjHPiWs0SPxNd8)
+- [Seven Miles by West &amp; Zander](https://open.spotify.com/track/3hjDl8XgcaA4HEqu4T4MRg)
+- [Glisten by Azoraê](https://open.spotify.com/track/3TOqtuy7L6LiMokG289AXD)
+- [Inflections by Lndonfox](https://open.spotify.com/track/2BANJeYC53KTE0h3iDBbpm)
+- [Meatballs by Part2](https://open.spotify.com/track/0rxfUJEZRNE1yQRldFWdSR)
+- [Airwaves by Jorja X](https://open.spotify.com/track/11Tv1YCBNDHcQQd0vhKgbi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
