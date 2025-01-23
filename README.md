@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (6 days ago)
 
 #### 🎧 What I have been listening
-- [Neon Love by Folta Tres](https://open.spotify.com/track/0c1hYWkQFcp1ZaGvZEQOju)
-- [Late Night Rewind by Reglisse](https://open.spotify.com/track/65ynCVpc1h5xE9JZ9URl2Y)
-- [Ease by Niriko](https://open.spotify.com/track/6CIivwfmcmCVUYDmGibkys)
-- [Home Again by Pocket Nine](https://open.spotify.com/track/2Fy3Gx4TPeJ69bzFkQrFdl)
-- [cloudless by Paon Bleu](https://open.spotify.com/track/5XCUn3nfOkGJYOyGshdFhC)
+- [Lonely Sky by Palm 3s](https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2)
+- [Electric Moments by Reza Solhi](https://open.spotify.com/track/3T24DOXoiTHkzRxgnSX0SI)
+- [blu sparks by xThiago](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno)
+- [Blooms by Kacey View](https://open.spotify.com/track/6fwHeGMfIOEjPajVQzeBRM)
+- [Waves by Deep Sea Society](https://open.spotify.com/track/7xOeXABPteFfNMEkfEe1aM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
