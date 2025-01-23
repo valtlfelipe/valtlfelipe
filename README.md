@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (6 days ago)
 
 #### 🎧 What I have been listening
-- [Lonely Sky by Palm 3s](https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2)
-- [Electric Moments by Reza Solhi](https://open.spotify.com/track/3T24DOXoiTHkzRxgnSX0SI)
-- [blu sparks by xThiago](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno)
-- [Blooms by Kacey View](https://open.spotify.com/track/6fwHeGMfIOEjPajVQzeBRM)
-- [Waves by Deep Sea Society](https://open.spotify.com/track/7xOeXABPteFfNMEkfEe1aM)
+- [Glowing Skyline by Twin Iguana](https://open.spotify.com/track/3dOJoGoX686rDrFnjiYtqn)
+- [Drinks on You by André Aguado](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD)
+- [Watchtower by Werlie](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT)
+- [Tropics by Jay Arrow](https://open.spotify.com/track/5Q76GfbKmkLoJuXMbdMrbX)
+- [Hideout by Martin Bloumy](https://open.spotify.com/track/3FHwRoXwNekPQ1tek89VxL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
