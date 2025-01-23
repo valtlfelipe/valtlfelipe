@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (6 days ago)
 
 #### 🎧 What I have been listening
-- [Flume by Milli V](https://open.spotify.com/track/53XQa4c87MqktZqgvNpnYh)
-- [One Thing Left by DJ Eely](https://open.spotify.com/track/4yan0C3Y58BK6Upn2NRtSw)
-- [Daily Routine by Hans Blu](https://open.spotify.com/track/148cKiMKKgS98w6hQHniGD)
-- [Pluck Theory by Hans Blu](https://open.spotify.com/track/7MwPgk6XoSyDt2aD6ssCOS)
-- [Sanctuary by Ze Bastien](https://open.spotify.com/track/1FuzDLB36P5vkEB8Mycm8y)
+- [Watchtower by Werlie](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT)
+- [Take My Time by Archie Wells](https://open.spotify.com/track/0JAYqGAXpGQ2LZoUso7XVu)
+- [Saints by Asha Lin](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X)
+- [Missing Daylight by Helio Lush](https://open.spotify.com/track/2B8abTUyycIzH4Taw1r4Je)
+- [Marmor by Baijings](https://open.spotify.com/track/3qqoPKOVlw0s0oiXbSGKBC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
