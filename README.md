@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (6 days ago)
 
 #### 🎧 What I have been listening
-- [Shine On - Spencer &amp; Hill Radio edit by R.I.O., Spencer &amp; Hill, Manuel Reuter, Yann Peifer](https://open.spotify.com/track/5qPhBxyybefHUxW9lpQqlX)
-- [Children - Club Radio Mix by Dave Darell](https://open.spotify.com/track/58VBHxAElmbrutz9EkUz7G)
-- [After The Rain - Radio Edit by Fedo Mora, Camurri](https://open.spotify.com/track/4ZLRO2XTyaAEJ8UbfLp21r)
-- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
-- [After The Rain - Radio Edit by Fedo Mora, Camurri](https://open.spotify.com/track/4ZLRO2XTyaAEJ8UbfLp21r)
+- [Invisible by Aneto](https://open.spotify.com/track/4n94rR0i171llDsLO6psCn)
+- [Lost by Greene Labyrinth](https://open.spotify.com/track/6JvU8SkO8ohlpYJOk5dpjp)
+- [In Brevi by Valante](https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl)
+- [I Can’t Even by Drunk Archer](https://open.spotify.com/track/1hZDvLGzGTvbBRP8CqU0rD)
+- [Your Eyes by incovent](https://open.spotify.com/track/6UZ8vkpOmjHPiWs0SPxNd8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
