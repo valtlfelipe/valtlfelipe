@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (6 days ago)
 
 #### 🎧 What I have been listening
+- [Heads Up by Ori Kul](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf)
+- [Doja Dojo by Harvio](https://open.spotify.com/track/3y0raD8eU9EHrxTCSr9AvL)
+- [Newark by Pedro Amblar](https://open.spotify.com/track/3VSL6qzD1jjXGzp99rncwE)
+- [Plush Velvet Vibes by Part2](https://open.spotify.com/track/3WTyFCHsp6FE2XsTMw5lmq)
 - [Lemon Chill by Roffe &amp; Friends](https://open.spotify.com/track/68ftFeFDbVK08MUF1NyMAI)
-- [Cheers Mate by Dia Louge](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb)
-- [Counting Hours by Kilada](https://open.spotify.com/track/5a7UqQzTOUoflrTummczHT)
-- [Sunshine Vibes by Rick Groove](https://open.spotify.com/track/5HuThga5Yx4My1HXtx3T4U)
-- [Starter by Mos Becka](https://open.spotify.com/track/02pLjUmpp5pctB8HIqpxuL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
