@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (6 days ago)
 
 #### 🎧 What I have been listening
-- [Seven Miles by West &amp; Zander](https://open.spotify.com/track/3hjDl8XgcaA4HEqu4T4MRg)
-- [Glisten by Azoraê](https://open.spotify.com/track/3TOqtuy7L6LiMokG289AXD)
-- [Inflections by Lndonfox](https://open.spotify.com/track/2BANJeYC53KTE0h3iDBbpm)
-- [Meatballs by Part2](https://open.spotify.com/track/0rxfUJEZRNE1yQRldFWdSR)
-- [Airwaves by Jorja X](https://open.spotify.com/track/11Tv1YCBNDHcQQd0vhKgbi)
+- [Lemon Chill by Roffe &amp; Friends](https://open.spotify.com/track/68ftFeFDbVK08MUF1NyMAI)
+- [Cheers Mate by Dia Louge](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb)
+- [Counting Hours by Kilada](https://open.spotify.com/track/5a7UqQzTOUoflrTummczHT)
+- [Sunshine Vibes by Rick Groove](https://open.spotify.com/track/5HuThga5Yx4My1HXtx3T4U)
+- [Starter by Mos Becka](https://open.spotify.com/track/02pLjUmpp5pctB8HIqpxuL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
