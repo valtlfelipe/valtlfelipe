@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (6 days ago)
 
 #### 🎧 What I have been listening
-- [GlamLife by David Kuro](https://open.spotify.com/track/1YilzehYmkU2He5hrZJysC)
-- [Far Away by Mygg An](https://open.spotify.com/track/1cFU29X7CFSlTIhLZPkfX4)
-- [Bloom by VLD](https://open.spotify.com/track/25iM0QNqK1SIVvs2JLksw2)
-- [tongueswirl by Gabri From France](https://open.spotify.com/track/5HNfmZ82xCakjt01ULnvbW)
-- [Open Fields by Toby Tech](https://open.spotify.com/track/6PsPRjRVQpuxltouIiGJfu)
+- [Neon Love by Folta Tres](https://open.spotify.com/track/0c1hYWkQFcp1ZaGvZEQOju)
+- [Late Night Rewind by Reglisse](https://open.spotify.com/track/65ynCVpc1h5xE9JZ9URl2Y)
+- [Ease by Niriko](https://open.spotify.com/track/6CIivwfmcmCVUYDmGibkys)
+- [Home Again by Pocket Nine](https://open.spotify.com/track/2Fy3Gx4TPeJ69bzFkQrFdl)
+- [cloudless by Paon Bleu](https://open.spotify.com/track/5XCUn3nfOkGJYOyGshdFhC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
