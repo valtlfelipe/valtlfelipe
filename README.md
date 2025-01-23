@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (6 days ago)
 
 #### 🎧 What I have been listening
-- [Glowing Skyline by Twin Iguana](https://open.spotify.com/track/3dOJoGoX686rDrFnjiYtqn)
-- [Drinks on You by André Aguado](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD)
-- [Watchtower by Werlie](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT)
-- [Tropics by Jay Arrow](https://open.spotify.com/track/5Q76GfbKmkLoJuXMbdMrbX)
-- [Hideout by Martin Bloumy](https://open.spotify.com/track/3FHwRoXwNekPQ1tek89VxL)
+- [Flume by Milli V](https://open.spotify.com/track/53XQa4c87MqktZqgvNpnYh)
+- [One Thing Left by DJ Eely](https://open.spotify.com/track/4yan0C3Y58BK6Upn2NRtSw)
+- [Daily Routine by Hans Blu](https://open.spotify.com/track/148cKiMKKgS98w6hQHniGD)
+- [Pluck Theory by Hans Blu](https://open.spotify.com/track/7MwPgk6XoSyDt2aD6ssCOS)
+- [Sanctuary by Ze Bastien](https://open.spotify.com/track/1FuzDLB36P5vkEB8Mycm8y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
