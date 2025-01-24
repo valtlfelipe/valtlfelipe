@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Paradise by Le Youth, Oaks](https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy)
-- [Floodlights by Marsh](https://open.spotify.com/track/25MUejD4yKny9H6Ho5CGE0)
-- [Lotus by offrails, Lilly Ahlberg](https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr)
-- [Hold You by CRi](https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l)
-- [It Can Be Better Now by anamē, Welt](https://open.spotify.com/track/4sQ7BGTw2GOnMvtwdCp25R)
+- [golden by Le Youth, MYRNE, Bertie Scott](https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf)
+- [Midnight Sun by Jan Blomqvist, Natascha Polké](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI)
+- [Sunshine by Luttrell](https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml)
+- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
+- [Essentialism. by Misc.Inc, Oliver River](https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
