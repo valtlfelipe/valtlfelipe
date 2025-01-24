@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Hydralove by Jade Shade](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6)
-- [Sunny Sky by Aneto](https://open.spotify.com/track/2x0SZYl1K2gjIHdlc7HDwN)
-- [Rising Higher by Faux Facet](https://open.spotify.com/track/5UQJY2DKNKUxpeFmXi2c3d)
-- [A New Leap by Nicolello](https://open.spotify.com/track/6gigmc4n6PbZbOSh8IkCAi)
-- [Buenos Aires Bound by Jack&#39;s Mistress Frida](https://open.spotify.com/track/3ZP0pxXCj7L4iEOTFAVlJ9)
+- [Weekend At Ibiza by Leon Cox](https://open.spotify.com/track/4Dwp8PVZL99b2neUZ5qSgW)
+- [Touched by Ran the Man](https://open.spotify.com/track/7n7hbRwWN1BJ0TPq0PpSBO)
+- [don&#39;t blame the daylight by aiXer](https://open.spotify.com/track/4IlJCdoYJOqg5mnSJdCI5h)
+- [Aquarium by André Aguado](https://open.spotify.com/track/7Kd4VtEu0Zsl72p7wWX7KJ)
+- [Bluebird by Cámille](https://open.spotify.com/track/63aopDtRkZd3bRaMCjo6nj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
