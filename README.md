@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Kind of Love by Luca](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG)
-- [Call my name by AVAION](https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG)
-- [Give It A Try (Why Don&#39;t We) by Freyer, Idun Nicoline](https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX)
-- [Train of Thoughts by Nora En Pure](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM)
-- [Dust by HNE, maybealice](https://open.spotify.com/track/13R5q2nJrYuUEHy0l7fSt9)
+- [Scared Of The Dark by Friends &amp; I](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ)
+- [Lost In Time by Adrian Knows](https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp)
+- [Memories by Sultan &#43; Shepard, The Kite String Tangle](https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI)
+- [Burnin&#39; by Rinzen, Shallou](https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV)
+- [Colors - Refeci Remix by Vogel, James Stefano, Refeci](https://open.spotify.com/track/36TrBrSaRPb1rMVcDrnNMD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
