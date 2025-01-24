@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
+- [Shimmer by David Dumeau](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4)
 - [Grouptext by Blé Hill](https://open.spotify.com/track/3V2n4fDX9MQlx8jSH4tX4F)
 - [solastic breeze by aiXer](https://open.spotify.com/track/5gZMmubNmIuHCT3dcFv5nW)
 - [Small Victorys by Cratouille](https://open.spotify.com/track/4WIG3yl5UjG4kuNXs5TgjU)
 - [Without You by Phello](https://open.spotify.com/track/36Ll2b3ebrSKSSmL7Qq6VJ)
-- [Wherever You Are by Spatio](https://open.spotify.com/track/0V9SRP3unE66Wc9POfJitu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
