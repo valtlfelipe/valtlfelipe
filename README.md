@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Weekend At Ibiza by Leon Cox](https://open.spotify.com/track/4Dwp8PVZL99b2neUZ5qSgW)
-- [Touched by Ran the Man](https://open.spotify.com/track/7n7hbRwWN1BJ0TPq0PpSBO)
-- [don&#39;t blame the daylight by aiXer](https://open.spotify.com/track/4IlJCdoYJOqg5mnSJdCI5h)
-- [Aquarium by André Aguado](https://open.spotify.com/track/7Kd4VtEu0Zsl72p7wWX7KJ)
-- [Bluebird by Cámille](https://open.spotify.com/track/63aopDtRkZd3bRaMCjo6nj)
+- [cirtuiterie by kilowattz](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC)
+- [Heartwaves by Ran the Man](https://open.spotify.com/track/7lAlAj51QcERavf1Z4403S)
+- [Enjoy by Square Fruit](https://open.spotify.com/track/5660H3fk6EW0XdHK98gngo)
+- [summer somewhere by Kacey View](https://open.spotify.com/track/6vXYQh5NKBSDjOxgKXjXr6)
+- [Aerobic Float by Kris Karrey](https://open.spotify.com/track/4aP3t84CNic7OwGoZsatmR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
