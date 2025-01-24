@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Scared Of The Dark by Friends &amp; I](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ)
-- [Lost In Time by Adrian Knows](https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp)
-- [Memories by Sultan &#43; Shepard, The Kite String Tangle](https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI)
-- [Burnin&#39; by Rinzen, Shallou](https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV)
-- [Colors - Refeci Remix by Vogel, James Stefano, Refeci](https://open.spotify.com/track/36TrBrSaRPb1rMVcDrnNMD)
+- [Paradise by Le Youth, Oaks](https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy)
+- [Floodlights by Marsh](https://open.spotify.com/track/25MUejD4yKny9H6Ho5CGE0)
+- [Lotus by offrails, Lilly Ahlberg](https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr)
+- [Hold You by CRi](https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l)
+- [It Can Be Better Now by anamē, Welt](https://open.spotify.com/track/4sQ7BGTw2GOnMvtwdCp25R)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
