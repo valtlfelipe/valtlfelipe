@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Winter Sun by One Astra](https://open.spotify.com/track/2dnqHctmOYFgLGs8AM6vKF)
-- [Watchtower by Werlie](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT)
-- [Take My Time by Archie Wells](https://open.spotify.com/track/0JAYqGAXpGQ2LZoUso7XVu)
-- [Saints by Asha Lin](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X)
-- [Missing Daylight by Helio Lush](https://open.spotify.com/track/2B8abTUyycIzH4Taw1r4Je)
+- [Hydralove by Jade Shade](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6)
+- [Sunny Sky by Aneto](https://open.spotify.com/track/2x0SZYl1K2gjIHdlc7HDwN)
+- [Rising Higher by Faux Facet](https://open.spotify.com/track/5UQJY2DKNKUxpeFmXi2c3d)
+- [A New Leap by Nicolello](https://open.spotify.com/track/6gigmc4n6PbZbOSh8IkCAi)
+- [Buenos Aires Bound by Jack&#39;s Mistress Frida](https://open.spotify.com/track/3ZP0pxXCj7L4iEOTFAVlJ9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
