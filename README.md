@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Hold On by Kygo, Emmit Fenn](https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz)
-- [Fresh Air by Iaco, HNE](https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns)
-- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
-- [All We Ever Do by Keanler, Leo Stannard](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [The Kind of Love by Luca](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG)
+- [Call my name by AVAION](https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG)
+- [Give It A Try (Why Don&#39;t We) by Freyer, Idun Nicoline](https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX)
+- [Train of Thoughts by Nora En Pure](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM)
+- [Dust by HNE, maybealice](https://open.spotify.com/track/13R5q2nJrYuUEHy0l7fSt9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
