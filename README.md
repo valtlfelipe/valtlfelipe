@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
-- [Goosebumps by Astrality](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz)
-- [Rise Above by Jones Meadow, Nina Carr](https://open.spotify.com/track/30qiELbAZ83xKkj23MhdhH)
-- [Colder by anamē, Moyka](https://open.spotify.com/track/3VrTveHXhlLGHtnSK1riuT)
-- [Tug Of War by Massane, LeyeT](https://open.spotify.com/track/74DwvNKN1OCl9vvHgTP7AV)
+- [Hold On by Kygo, Emmit Fenn](https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz)
+- [Fresh Air by Iaco, HNE](https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns)
+- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
+- [All We Ever Do by Keanler, Leo Stannard](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
