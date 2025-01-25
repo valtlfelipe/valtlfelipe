@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [golden by Le Youth, MYRNE, Bertie Scott](https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf)
-- [Midnight Sun by Jan Blomqvist, Natascha Polké](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI)
-- [Sunshine by Luttrell](https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml)
-- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
-- [Essentialism. by Misc.Inc, Oliver River](https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR)
+- [One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa](https://open.spotify.com/track/76dIZzTdrNO15mGBrU3MHi)
+- [Moments - Ben Böhmer &amp; Nils Hoffmann Remix by Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0)
+- [Sun Goes Down (feat. Jasmine Thompson) - Radio Mix by Robin Schulz, Jasmine Thompson](https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3)
+- [Higher by Taio Cruz, Kylie Minogue](https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo)
+- [Hold On - Forester Remix by Kygo, Emmit Fenn, Forester](https://open.spotify.com/track/5AdRkGSR5F3SiGaYWkFjlO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
