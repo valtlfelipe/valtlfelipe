@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
+- [More by Jan Blomqvist, Elena Pitoulis](https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE)
+- [Under Control (feat. Hurts) by Calvin Harris, Alesso, Hurts](https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq)
+- [OK by Robin Schulz, James Blunt](https://open.spotify.com/track/3bWAqKDWg6u1davspr5IkS)
+- [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
 - [Turn off the Lights - Cages Remix by Chris Lake, Alexis Roberts, Cages](https://open.spotify.com/track/5JeBHduTGxXxytZFXBcIlB)
-- [Silhouettes - Original Radio Edit by Avicii](https://open.spotify.com/track/06h3McKzmxS8Bx58USHiMq)
-- [Prayer in C - Robin Schulz Radio Edit by Lilly Wood and The Prick, Robin Schulz](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck)
-- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
-- [Wings (I Won&#39;t Let You Down) by Armand Van Helden, Karen Harding](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
