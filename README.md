@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
+- [All Around The World (La La La) by R3HAB, A Touch Of Class](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [Nevermind by Dennis Lloyd](https://open.spotify.com/track/63SevszngYpZOwf63o61K4)
+- [Scared to Be Lonely by Martin Garrix, Dua Lipa](https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH)
 - [Body by Loud Luxury, Brando](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9)
-- [Roses - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI)
-- [Love No More by Loud Luxury, anders](https://open.spotify.com/track/0E8WJOFs2eWD67USh7C6Qd)
-- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
-- [Hide Away - Alan Walker Remix by Daya, Alan Walker](https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
