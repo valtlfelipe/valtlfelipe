@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
+- [Turn off the Lights - Cages Remix by Chris Lake, Alexis Roberts, Cages](https://open.spotify.com/track/5JeBHduTGxXxytZFXBcIlB)
+- [Silhouettes - Original Radio Edit by Avicii](https://open.spotify.com/track/06h3McKzmxS8Bx58USHiMq)
+- [Prayer in C - Robin Schulz Radio Edit by Lilly Wood and The Prick, Robin Schulz](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck)
 - [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
 - [Wings (I Won&#39;t Let You Down) by Armand Van Helden, Karen Harding](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd)
-- [Shots - Broiler Remix by Imagine Dragons, Broiler](https://open.spotify.com/track/0fsEFwLSJTSHSawhe864Cp)
-- [Cruel Summer - LP Giobbi Remix by Taylor Swift, LP Giobbi](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS)
-- [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
