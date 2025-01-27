@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Following the Sun - Monte Fino Dub Remix by SUPER-Hi, NEEKA, Monte Fino](https://open.spotify.com/track/1xtJV4Da7OxWPOzmq7Vg4W)
-- [Feels Like Home by Tom Kha](https://open.spotify.com/track/1CkCxtFAJ4GWMEQ9eXkFEg)
-- [Back To The Roots by Makebo, Amonita](https://open.spotify.com/track/09ctjXoWwXxYcvqIkmIFas)
-- [Memories by Lane Boy, LissA](https://open.spotify.com/track/6L3AbPy2MhugXGVi9BoL97)
-- [Can&#39;t Sleep by HAK3N](https://open.spotify.com/track/7bo3JSUUiiM9BfcZYtitpa)
+- [Hear My Voice by Cuish, RAZZ, ONENESS](https://open.spotify.com/track/7kzS0K0Tq7pHfegz77Yqwe)
+- [Dream Path by Illogical Post](https://open.spotify.com/track/7ppTIlAO8YZ1WrPfxk5ZQR)
+- [Deep Into The Blue - Radio Edit by Night Breeze, Dias Ridge](https://open.spotify.com/track/6ev5q8vaTxhCQWEDtaliK3)
+- [If You Never Leave by Martiniii](https://open.spotify.com/track/337K3Mk1zy0S3nXxjNcasf)
+- [Secrets by TROYMER](https://open.spotify.com/track/2Mc2X6JTDOFGz6ZvbuoPip)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
