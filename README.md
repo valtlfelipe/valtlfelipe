@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Blame (feat. John Newman) by Calvin Harris, John Newman](https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn)
-- [Desire - Gryffin Remix by Olly Alexander (Years &amp; Years), Gryffin](https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS)
-- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4vvnuJlgBeNVwq3TNmLMNX)
-- [Lush Life by Zara Larsson](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8)
-- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
+- [Dance with Me by Saint, MDP](https://open.spotify.com/track/1E7ZNYv3QN2WB1rPWjSWiv)
+- [Shine On - Spencer &amp; Hill Radio edit by R.I.O., Spencer &amp; Hill, Manuel Reuter, Yann Peifer](https://open.spotify.com/track/5qPhBxyybefHUxW9lpQqlX)
+- [All I Need - Original Edit by Get Far, Sagi Rei](https://open.spotify.com/track/0YFtLHFfx7UCNgvPLA7gQm)
+- [I Don&#39;t Know Why - Viale &amp; Dj Ross Radio Cut by Moony](https://open.spotify.com/track/2wGjwatu3E4gkw2H6ZVTHA)
+- [Children of the Sun - R.I.O. Radio Edit by Yanou, R.I.O.](https://open.spotify.com/track/5As6bX4GsBqkCLzz7GgBLt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
