@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Hear My Voice by Cuish, RAZZ, ONENESS](https://open.spotify.com/track/7kzS0K0Tq7pHfegz77Yqwe)
-- [Dream Path by Illogical Post](https://open.spotify.com/track/7ppTIlAO8YZ1WrPfxk5ZQR)
-- [Deep Into The Blue - Radio Edit by Night Breeze, Dias Ridge](https://open.spotify.com/track/6ev5q8vaTxhCQWEDtaliK3)
-- [If You Never Leave by Martiniii](https://open.spotify.com/track/337K3Mk1zy0S3nXxjNcasf)
-- [Secrets by TROYMER](https://open.spotify.com/track/2Mc2X6JTDOFGz6ZvbuoPip)
+- [Blame (feat. John Newman) by Calvin Harris, John Newman](https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn)
+- [Desire - Gryffin Remix by Olly Alexander (Years &amp; Years), Gryffin](https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS)
+- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4vvnuJlgBeNVwq3TNmLMNX)
+- [Lush Life by Zara Larsson](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8)
+- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
