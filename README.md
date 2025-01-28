@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dream in Color by Greg Elenis](https://open.spotify.com/track/7sgjmvjSVVCfTlfYa4H6oG)
-- [The Pledge by Polar Inc.](https://open.spotify.com/track/7g8BFogBJZR0IFxZKduXNi)
-- [I can share my love with you by Bassi Fox](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl)
-- [Explore by Melosense](https://open.spotify.com/track/1iWaxxAN8mryBxC4ORf02n)
-- [Hope by Bound to Divide, imallryt](https://open.spotify.com/track/064t2wBqC4I5XqGix1TvY7)
+- [Glimmer In The Dark by Trilucid, Esque](https://open.spotify.com/track/5IHV2auKjplu0iYgqazjjG)
+- [Samaria by Dokho](https://open.spotify.com/track/6ASE6LRIQsGM7fWLz2NY1P)
+- [Moonlight by Night Breeze](https://open.spotify.com/track/0nrI60N0B6JTvdVaO7g2D5)
+- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
+- [Daybreak by w.ill](https://open.spotify.com/track/0WGtaEi5PE16mCOjhCM23h)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
