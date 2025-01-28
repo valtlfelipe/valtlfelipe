@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wait For Me by robrobrob, Tailor](https://open.spotify.com/track/6cYoKxvw88rUQ4FEKWcaDI)
-- [Daybreak by w.ill](https://open.spotify.com/track/0WGtaEi5PE16mCOjhCM23h)
-- [Monday by Carlo Dall Anese, Diego Logic, Fabio Castro](https://open.spotify.com/track/3SHlLjw9DVvlKt2u4ktbUb)
-- [I Got You - Radio by Cristian Marchi, Nari &amp; Milani, Max&#39;C&#39;](https://open.spotify.com/track/5TBlTcMBjfiuNC4h2RN0Fw)
-- [Happy - Happy Mix by Square Heads](https://open.spotify.com/track/4yPJfWvlMkLOF9PbcfE345)
+- [Alone by Lipless, Blue Noir](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln)
+- [Keep Tryin by Chris Malinchak](https://open.spotify.com/track/0XxzxwVacAdRS1yb2w8EoS)
+- [Disappear by THEMBA, Nico de Andrea, Tasan](https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE)
+- [Hear My Voice by Cuish, RAZZ, ONENESS](https://open.spotify.com/track/7kzS0K0Tq7pHfegz77Yqwe)
+- [Can&#39;t Sleep by HAK3N](https://open.spotify.com/track/7bo3JSUUiiM9BfcZYtitpa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
