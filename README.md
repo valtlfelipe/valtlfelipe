@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
+- [The Stones by Heard Right, Biishop](https://open.spotify.com/track/5hmxT6TaggGmDzb1Lqc1cM)
+- [Deep Into The Blue - Radio Edit by Night Breeze, Dias Ridge](https://open.spotify.com/track/6ev5q8vaTxhCQWEDtaliK3)
+- [Be With Me - VIP Mix by Zoey Jones](https://open.spotify.com/track/72BdXHZjv4IsicrW4WuDQC)
+- [Keep Tryin by Chris Malinchak](https://open.spotify.com/track/0XxzxwVacAdRS1yb2w8EoS)
 - [Hear My Voice by Cuish, RAZZ, ONENESS](https://open.spotify.com/track/7kzS0K0Tq7pHfegz77Yqwe)
-- [Ibiza Calling by Traumton](https://open.spotify.com/track/6wC0Rmr8huuwilX25lygKn)
-- [Never Enough by Modera, Hessian, Tailor](https://open.spotify.com/track/7ytgzwRBN7DYMcIgH8uovo)
-- [Floating by Klur](https://open.spotify.com/track/4qzIWW9yArNdpuqc9SbtJH)
-- [Keep On Rising (feat. Michelle Shellers) - ManyFew &amp; Joe Stone Remix by Ian Carey, ManyFew, Joe Stone, Michelle Shellers](https://open.spotify.com/track/16875gBT6JDTkstpu22ESZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
