@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
+- [Wait For Me by robrobrob, Tailor](https://open.spotify.com/track/6cYoKxvw88rUQ4FEKWcaDI)
+- [Daybreak by w.ill](https://open.spotify.com/track/0WGtaEi5PE16mCOjhCM23h)
 - [Monday by Carlo Dall Anese, Diego Logic, Fabio Castro](https://open.spotify.com/track/3SHlLjw9DVvlKt2u4ktbUb)
 - [I Got You - Radio by Cristian Marchi, Nari &amp; Milani, Max&#39;C&#39;](https://open.spotify.com/track/5TBlTcMBjfiuNC4h2RN0Fw)
 - [Happy - Happy Mix by Square Heads](https://open.spotify.com/track/4yPJfWvlMkLOF9PbcfE345)
-- [If You... - Radio Mix by Magic Box](https://open.spotify.com/track/010BPI2rSCU9BzD1VB1s0P)
-- [I Kissed A Girl by Katy Perry](https://open.spotify.com/track/1pXrR5Y9OgcIV2JEAl2lCB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
