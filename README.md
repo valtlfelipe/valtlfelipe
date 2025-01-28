@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Slowly by Abroad](https://open.spotify.com/track/4R2k0jJXI6KcZjUaSVCWH0)
-- [Markantonata by Polar Inc.](https://open.spotify.com/track/0bWod9TYYrJySFebKA5Pbj)
-- [Sunrise by Solo](https://open.spotify.com/track/5xRkmf3q1USkHuicVHBLtn)
-- [Shimmer by Keanler](https://open.spotify.com/track/72PYVket9T7CDkEIgM80b2)
-- [Serene by Hessian](https://open.spotify.com/track/4cBshIyiiAzbl61Ij0FjHD)
+- [Dream in Color by Greg Elenis](https://open.spotify.com/track/7sgjmvjSVVCfTlfYa4H6oG)
+- [The Pledge by Polar Inc.](https://open.spotify.com/track/7g8BFogBJZR0IFxZKduXNi)
+- [I can share my love with you by Bassi Fox](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl)
+- [Explore by Melosense](https://open.spotify.com/track/1iWaxxAN8mryBxC4ORf02n)
+- [Hope by Bound to Divide, imallryt](https://open.spotify.com/track/064t2wBqC4I5XqGix1TvY7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
