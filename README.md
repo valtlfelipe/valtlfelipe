@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [feelings by rayn, 6sept, cloudseven](https://open.spotify.com/track/7EbQKxpYZTqkqxgFlcK2Se)
-- [Marea Turquesa by Flexible Fire](https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
-- [Waves by Abroad](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM)
-- [Hurry Up We&#39;re Dreaming by Ourson, Francis Skyes](https://open.spotify.com/track/3niUHZZ9CPbiJv77ERRRKs)
+- [Slowly by Abroad](https://open.spotify.com/track/4R2k0jJXI6KcZjUaSVCWH0)
+- [Markantonata by Polar Inc.](https://open.spotify.com/track/0bWod9TYYrJySFebKA5Pbj)
+- [Sunrise by Solo](https://open.spotify.com/track/5xRkmf3q1USkHuicVHBLtn)
+- [Shimmer by Keanler](https://open.spotify.com/track/72PYVket9T7CDkEIgM80b2)
+- [Serene by Hessian](https://open.spotify.com/track/4cBshIyiiAzbl61Ij0FjHD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
