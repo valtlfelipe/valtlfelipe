@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [The World by Abroad](https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7)
-- [lOnDn by EMBRZ](https://open.spotify.com/track/16vsw3UO3DmSmRDzmoaHx7)
-- [I Can&#39;t Help Myself by Rosin Taylor](https://open.spotify.com/track/3PwJgdiMNJIPc1vjO6wOA0)
-- [Into The Sun - Chill Mix by Latroit, Pretty Garter, Charlz](https://open.spotify.com/track/0S9RnYlNFdPN0EzL7k6J7J)
-- [Losing My Religion by Samantha Loveridge, Treetalk](https://open.spotify.com/track/7xF4m3N4NhUeLVbMnnwOnk)
+- [Come Closer by Shingo Nakamura](https://open.spotify.com/track/45Vgw12kFugNF15bLJqCwm)
+- [Get To You by Abroad](https://open.spotify.com/track/0OjD5Pql1zUIGNS7oSjST7)
+- [Thus Far by Hessian](https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN)
+- [Dancing on the Shoreline by Ayla Jay](https://open.spotify.com/track/4y8aKU52NUd0lPi8Gxq6ru)
+- [In My Head by Trilucid](https://open.spotify.com/track/1KCqxAWsSoXC9abnWLiYqH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
