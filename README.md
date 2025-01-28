@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Stones by Heard Right, Biishop](https://open.spotify.com/track/5hmxT6TaggGmDzb1Lqc1cM)
-- [Deep Into The Blue - Radio Edit by Night Breeze, Dias Ridge](https://open.spotify.com/track/6ev5q8vaTxhCQWEDtaliK3)
-- [Be With Me - VIP Mix by Zoey Jones](https://open.spotify.com/track/72BdXHZjv4IsicrW4WuDQC)
-- [Keep Tryin by Chris Malinchak](https://open.spotify.com/track/0XxzxwVacAdRS1yb2w8EoS)
-- [Hear My Voice by Cuish, RAZZ, ONENESS](https://open.spotify.com/track/7kzS0K0Tq7pHfegz77Yqwe)
+- [Now You&#39;re Gone - Extended Mix by ARTO](https://open.spotify.com/track/1x27NXP1zCx00Hyy9rc2bK)
+- [Calling by Abroad](https://open.spotify.com/track/6Z7jqjOqJimTfrcFJ6yN3u)
+- [Say Nothing by edapollo](https://open.spotify.com/track/4bhqoBrKQngj2kv2IPTGOE)
+- [your voice by aural](https://open.spotify.com/track/2NiZpEr4srbANG9GaQNEcD)
+- [Like You Do by Klur, Holochrome](https://open.spotify.com/track/5CzlTfYerCpNY30BgF2IOG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
