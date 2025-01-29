@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Best Of Times by Enviado Vida](https://open.spotify.com/track/4mIc4MPYoOLXwq9y75sQaY)
-- [Nostalgia by Melosense](https://open.spotify.com/track/0Vtwa1eRykSFTGXbDBq7d2)
-- [Upbeat Fashion Lounge Summer Ambient by Gold-Tiger](https://open.spotify.com/track/18VNxGXLRsGR9aq1yruXvn)
-- [You Shine - Farves Remix by Arkangel, Farves](https://open.spotify.com/track/57ZpSmwAHDpEuVgiON6EMm)
-- [Solis Occasum by Tommy Loude](https://open.spotify.com/track/5rxly1bPJsZustp3IiXwtF)
+- [Over The Water by ATTLAS, Mango, MAYLYN](https://open.spotify.com/track/5zXyoTtfe1YRXWeilcPcaJ)
+- [Mystic Flow by Saxity](https://open.spotify.com/track/6kpqSM3DABX4FckzPWt0my)
+- [Daylight by Nico Belucci](https://open.spotify.com/track/7GmDdBXzfYeAVyJYLY6jIj)
+- [Pastel by Polar Inc.](https://open.spotify.com/track/5QpKqIBqSBy5ji4GPJ1UIN)
+- [Forget You by Lemon &amp; Herb, Julia Church](https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
