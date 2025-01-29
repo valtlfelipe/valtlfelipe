@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Glimmer In The Dark by Trilucid, Esque](https://open.spotify.com/track/5IHV2auKjplu0iYgqazjjG)
-- [Samaria by Dokho](https://open.spotify.com/track/6ASE6LRIQsGM7fWLz2NY1P)
-- [Moonlight by Night Breeze](https://open.spotify.com/track/0nrI60N0B6JTvdVaO7g2D5)
-- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
-- [Daybreak by w.ill](https://open.spotify.com/track/0WGtaEi5PE16mCOjhCM23h)
+- [Heartbreak In Seychelles by Thom Merlin](https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ)
+- [Sunset On Falassarna by Dokho](https://open.spotify.com/track/3ubhW8S2y68Rv34AubYifW)
+- [Touch You by Nora Van Elken, LissA](https://open.spotify.com/track/6Iy2FLPDqdFb7ZYVlor25C)
+- [Run by Abroad](https://open.spotify.com/track/2IBiOC9z8CukWZtXo8f9Lj)
+- [Moment Apart by Keanler](https://open.spotify.com/track/2vLeJwL2M4J1MmnVeoAaBL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
