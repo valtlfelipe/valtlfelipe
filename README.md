@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Mystery by Klur, Julian Schwarz, Tailor](https://open.spotify.com/track/78Rb1uEqXJUCKkMQJ05uzf)
-- [The Deepest Truth by Sofinski](https://open.spotify.com/track/5ZZuaCTakqTIwglJ8vsiRn)
-- [Hold Me Down by D.Polo](https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt)
-- [Venice Beach by Kozua](https://open.spotify.com/track/3S1ANvfLwD21P0A8Jvy6LX)
-- [I&#39;d Rather Be Alone by XYSM, EDGR](https://open.spotify.com/track/3e3NPloQESLLcs1ftn04AV)
+- [Best Of Times by Enviado Vida](https://open.spotify.com/track/4mIc4MPYoOLXwq9y75sQaY)
+- [Nostalgia by Melosense](https://open.spotify.com/track/0Vtwa1eRykSFTGXbDBq7d2)
+- [Upbeat Fashion Lounge Summer Ambient by Gold-Tiger](https://open.spotify.com/track/18VNxGXLRsGR9aq1yruXvn)
+- [You Shine - Farves Remix by Arkangel, Farves](https://open.spotify.com/track/57ZpSmwAHDpEuVgiON6EMm)
+- [Solis Occasum by Tommy Loude](https://open.spotify.com/track/5rxly1bPJsZustp3IiXwtF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
