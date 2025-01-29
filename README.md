@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
+- [Mystery by Klur, Julian Schwarz, Tailor](https://open.spotify.com/track/78Rb1uEqXJUCKkMQJ05uzf)
+- [The Deepest Truth by Sofinski](https://open.spotify.com/track/5ZZuaCTakqTIwglJ8vsiRn)
 - [Hold Me Down by D.Polo](https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt)
 - [Venice Beach by Kozua](https://open.spotify.com/track/3S1ANvfLwD21P0A8Jvy6LX)
 - [I&#39;d Rather Be Alone by XYSM, EDGR](https://open.spotify.com/track/3e3NPloQESLLcs1ftn04AV)
-- [Moments by Melosense](https://open.spotify.com/track/0BVCCuHQTb2z2XPbNIukLM)
-- [Made It Here by Hessian](https://open.spotify.com/track/4rw8ZJEGDiAk3VEiSpgTJl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
