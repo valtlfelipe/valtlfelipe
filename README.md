@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Over The Water by ATTLAS, Mango, MAYLYN](https://open.spotify.com/track/5zXyoTtfe1YRXWeilcPcaJ)
-- [Mystic Flow by Saxity](https://open.spotify.com/track/6kpqSM3DABX4FckzPWt0my)
-- [Daylight by Nico Belucci](https://open.spotify.com/track/7GmDdBXzfYeAVyJYLY6jIj)
-- [Pastel by Polar Inc.](https://open.spotify.com/track/5QpKqIBqSBy5ji4GPJ1UIN)
-- [Forget You by Lemon &amp; Herb, Julia Church](https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD)
+- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
+- [Entangled by Klur](https://open.spotify.com/track/4A5Ebpn121lJi0UfGTXqUD)
+- [Wishful Thinking by Jay FM](https://open.spotify.com/track/3h92POKPLz8JV7bVXMZJYb)
+- [Tube Riding - Original Mix by Traumton](https://open.spotify.com/track/3bOHZkE9lIAwYaqlNEpAoF)
+- [Long Ago by Wassu, Lumynesynth](https://open.spotify.com/track/3qfMRghmtjtuHTFG3gTjtE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
