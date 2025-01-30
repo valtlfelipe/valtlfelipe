@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [CARMEN by Airmow, Reiyo The Giant](https://open.spotify.com/track/3NlJsIgHPFhEPUoTCmXV9A)
-- [Because You Move Me - VIP Mix by Tinlicker, Helsloot](https://open.spotify.com/track/3oHVwd7algLocPL4SY62MO)
-- [Lost In Gruvv - Extended Mix by Melosense](https://open.spotify.com/track/6eedkvPYmDdjTlWrt3SjSL)
-- [El Refugio by Flexible Fire](https://open.spotify.com/track/6T8y2QBWEsOVjyRiJ45yVp)
-- [Pearly by Polar Inc.](https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn)
+- [Never Enough by Modera, Hessian, Tailor](https://open.spotify.com/track/7ytgzwRBN7DYMcIgH8uovo)
+- [Nostalgia by Bless You](https://open.spotify.com/track/4ZuEukSYORnCT1nAH5cBqa)
+- [Speak Your Mind by VEHA, Extra Special](https://open.spotify.com/track/3ixuxoVAfb3EbrwPVJ4z45)
+- [Floating by Klur](https://open.spotify.com/track/4qzIWW9yArNdpuqc9SbtJH)
+- [Back To The Roots by Makebo, Amonita](https://open.spotify.com/track/09ctjXoWwXxYcvqIkmIFas)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
