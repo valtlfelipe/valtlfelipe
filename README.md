@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dance My Tears Away - (Latroit Club Mix) by Latroit, Charlz](https://open.spotify.com/track/4XNn3iaEu6MLiOnt5makMJ)
-- [Shelter by Heard Right](https://open.spotify.com/track/1g5v7prEvy1025EjEkLiEC)
-- [Up Here by djimboh, Lumynesynth](https://open.spotify.com/track/4Bhvds0QIzg1Gp0WRXCJGN)
-- [The Mountain by Andrew Nagy, Joel Winterflood](https://open.spotify.com/track/25DrHc6fsJ1UumUHHHXppc)
-- [Heart To Heart by Klur, Hildur Ottilia](https://open.spotify.com/track/7MLb9m5z7ullTT5u6vXBad)
+- [Luna&#39;s Dream by Dokho](https://open.spotify.com/track/6yDwrSuGafugPjhmAfTr0i)
+- [Before I Sleep by Cloudcage](https://open.spotify.com/track/6wAZNiRrveSq7SsvPG4Y4p)
+- [Sivonium by djimboh](https://open.spotify.com/track/4rnygryGjmPswNMpIUrVPR)
+- [Supermassive by Jack Willard](https://open.spotify.com/track/2ZsvbXnRPuCBOqZqbvKFcX)
+- [Frangipani by Kaiyan](https://open.spotify.com/track/4I7u21ZlgZzCR0cmv30PuN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
