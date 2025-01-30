@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
+- [Ibiza Calling by Traumton](https://open.spotify.com/track/6wC0Rmr8huuwilX25lygKn)
+- [Zima by Sultan &#43; Shepard, Delhia De France](https://open.spotify.com/track/4Xt7JriSe3E1mHC4B7f8FF)
 - [Alone by Lipless, Blue Noir](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln)
 - [No Alarm by Late Man](https://open.spotify.com/track/6HNt5b2gszFzQT0i7QRY99)
 - [Wiki by Eclectic](https://open.spotify.com/track/20IJ8puKe6SC3YoYivDThv)
-- [Underneath the Sun - Radio Edit by Thomas Foster](https://open.spotify.com/track/5KJkAbTr4rkwIhsbtOhn4p)
-- [The Stones by Heard Right, Biishop](https://open.spotify.com/track/5hmxT6TaggGmDzb1Lqc1cM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
