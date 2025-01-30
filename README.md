@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Never Enough by Modera, Hessian, Tailor](https://open.spotify.com/track/7ytgzwRBN7DYMcIgH8uovo)
-- [Nostalgia by Bless You](https://open.spotify.com/track/4ZuEukSYORnCT1nAH5cBqa)
-- [Speak Your Mind by VEHA, Extra Special](https://open.spotify.com/track/3ixuxoVAfb3EbrwPVJ4z45)
-- [Floating by Klur](https://open.spotify.com/track/4qzIWW9yArNdpuqc9SbtJH)
-- [Back To The Roots by Makebo, Amonita](https://open.spotify.com/track/09ctjXoWwXxYcvqIkmIFas)
+- [Alone by Lipless, Blue Noir](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln)
+- [No Alarm by Late Man](https://open.spotify.com/track/6HNt5b2gszFzQT0i7QRY99)
+- [Wiki by Eclectic](https://open.spotify.com/track/20IJ8puKe6SC3YoYivDThv)
+- [Underneath the Sun - Radio Edit by Thomas Foster](https://open.spotify.com/track/5KJkAbTr4rkwIhsbtOhn4p)
+- [The Stones by Heard Right, Biishop](https://open.spotify.com/track/5hmxT6TaggGmDzb1Lqc1cM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
