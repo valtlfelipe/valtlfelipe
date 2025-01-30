@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Can&#39;t See - Extended by ROW, Samuel Miller](https://open.spotify.com/track/7v4CkKgv07ZztFpeZDcro3)
-- [Zima by Sultan &#43; Shepard, Delhia De France](https://open.spotify.com/track/4Xt7JriSe3E1mHC4B7f8FF)
-- [Wiki by Eclectic](https://open.spotify.com/track/20IJ8puKe6SC3YoYivDThv)
-- [Crispy by Phlowsum](https://open.spotify.com/track/5B6twCLP2ufIy2Mc4L1rS0)
-- [I Can&#39;t Help Myself by Rosin Taylor](https://open.spotify.com/track/3PwJgdiMNJIPc1vjO6wOA0)
+- [Nous - Extended Mix by Melosense](https://open.spotify.com/track/45UZBJpPcnqVXrtccMGzMu)
+- [Faded and Pale by VEHA, Teesalu](https://open.spotify.com/track/0JKxOfsBgyp8jYb1fs19p5)
+- [Roots by Klur](https://open.spotify.com/track/04F3ezdihPP6qeEOWI4ehJ)
+- [Think You Are by djimboh](https://open.spotify.com/track/4vJu4JIMlSL1az9Jlx6SZk)
+- [Dancing Shadows by Kaiyan](https://open.spotify.com/track/5iets69Dfnu1ZCpWjN7GfX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
