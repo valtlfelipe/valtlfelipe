@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Deep Into The Blue - Radio Edit by Night Breeze, Dias Ridge](https://open.spotify.com/track/6ev5q8vaTxhCQWEDtaliK3)
-- [Into The Sun - Chill Mix by Latroit, Pretty Garter, Charlz](https://open.spotify.com/track/0S9RnYlNFdPN0EzL7k6J7J)
-- [Coming Up (Hold On) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/0pAKG0jaOC5Zc6RykZzvgC)
-- [lOnDn by EMBRZ](https://open.spotify.com/track/16vsw3UO3DmSmRDzmoaHx7)
-- [Daybreak by w.ill](https://open.spotify.com/track/0WGtaEi5PE16mCOjhCM23h)
+- [I Can&#39;t See - Extended by ROW, Samuel Miller](https://open.spotify.com/track/7v4CkKgv07ZztFpeZDcro3)
+- [Zima by Sultan &#43; Shepard, Delhia De France](https://open.spotify.com/track/4Xt7JriSe3E1mHC4B7f8FF)
+- [Wiki by Eclectic](https://open.spotify.com/track/20IJ8puKe6SC3YoYivDThv)
+- [Crispy by Phlowsum](https://open.spotify.com/track/5B6twCLP2ufIy2Mc4L1rS0)
+- [I Can&#39;t Help Myself by Rosin Taylor](https://open.spotify.com/track/3PwJgdiMNJIPc1vjO6wOA0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
