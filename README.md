@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
+- [Until We Leave the Ground - Steve James Remix by Emmit Fenn, Steve James](https://open.spotify.com/track/3LX6Bv3jfbABw1KQsYOYtZ)
 - [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
 - [Entangled by Klur](https://open.spotify.com/track/4A5Ebpn121lJi0UfGTXqUD)
 - [Wishful Thinking by Jay FM](https://open.spotify.com/track/3h92POKPLz8JV7bVXMZJYb)
 - [Tube Riding - Original Mix by Traumton](https://open.spotify.com/track/3bOHZkE9lIAwYaqlNEpAoF)
-- [Long Ago by Wassu, Lumynesynth](https://open.spotify.com/track/3qfMRghmtjtuHTFG3gTjtE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
