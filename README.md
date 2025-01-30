@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Until We Leave the Ground - Steve James Remix by Emmit Fenn, Steve James](https://open.spotify.com/track/3LX6Bv3jfbABw1KQsYOYtZ)
-- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
-- [Entangled by Klur](https://open.spotify.com/track/4A5Ebpn121lJi0UfGTXqUD)
-- [Wishful Thinking by Jay FM](https://open.spotify.com/track/3h92POKPLz8JV7bVXMZJYb)
-- [Tube Riding - Original Mix by Traumton](https://open.spotify.com/track/3bOHZkE9lIAwYaqlNEpAoF)
+- [CARMEN by Airmow, Reiyo The Giant](https://open.spotify.com/track/3NlJsIgHPFhEPUoTCmXV9A)
+- [Because You Move Me - VIP Mix by Tinlicker, Helsloot](https://open.spotify.com/track/3oHVwd7algLocPL4SY62MO)
+- [Lost In Gruvv - Extended Mix by Melosense](https://open.spotify.com/track/6eedkvPYmDdjTlWrt3SjSL)
+- [El Refugio by Flexible Fire](https://open.spotify.com/track/6T8y2QBWEsOVjyRiJ45yVp)
+- [Pearly by Polar Inc.](https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
