@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
 
 #### 🎧 What I have been listening
-- [Golden Leaves by Shingo Nakamura](https://open.spotify.com/track/2zsqByaznN4gXEqC7y280D)
-- [Eau De Vie by Kaiyan](https://open.spotify.com/track/4k84XaNsd7C8QNnpwIZ07f)
-- [Polarization - Extended Mix by Melosense](https://open.spotify.com/track/1QpxJX7FX0vvX3vT6ck0Yl)
-- [Aquarius - Club Mix by Traumton](https://open.spotify.com/track/08Pin4PPH2wXHRDyD3OYUp)
-- [Oceade by Dokho](https://open.spotify.com/track/2FuSwMHdRSmooL6lxpLlTm)
+- [Dance My Tears Away - (Latroit Club Mix) by Latroit, Charlz](https://open.spotify.com/track/4XNn3iaEu6MLiOnt5makMJ)
+- [Shelter by Heard Right](https://open.spotify.com/track/1g5v7prEvy1025EjEkLiEC)
+- [Up Here by djimboh, Lumynesynth](https://open.spotify.com/track/4Bhvds0QIzg1Gp0WRXCJGN)
+- [The Mountain by Andrew Nagy, Joel Winterflood](https://open.spotify.com/track/25DrHc6fsJ1UumUHHHXppc)
+- [Heart To Heart by Klur, Hildur Ottilia](https://open.spotify.com/track/7MLb9m5z7ullTT5u6vXBad)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
