@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Saving My Love by Chris Malinchak](https://open.spotify.com/track/1T4250qLd3U3QaxaiuIs1U)
-- [Do You Feel The Same? by Emmit Fenn](https://open.spotify.com/track/6srLLyUp8cfTdU7rG8Txcp)
-- [Faded and Pale - Extended Mix by VEHA, Teesalu](https://open.spotify.com/track/39UMwix5LEy4FDgJujxk8Q)
-- [Skin Deep by Jay FM](https://open.spotify.com/track/1CAozfu6bPDxaKe39x030x)
-- [Limania by Dokho, Moon Kyoo](https://open.spotify.com/track/2B6aHcgVRAqbuyfPDSLtYv)
+- [Jangitau by Meeting Molly](https://open.spotify.com/track/31aNzE7z3pTX2TIt7D8kEx)
+- [We Keep Coming Back by MXV, djimboh](https://open.spotify.com/track/5J6POzF23aYsZGyRRdfLCJ)
+- [River Of Dreams by Kaiyan, EMBLM](https://open.spotify.com/track/6RfncGOXKpLWQLWvjBSNt7)
+- [Falling - Extended Mix by Spark030](https://open.spotify.com/track/4zCjsQWkbylA3Xzg6yotwN)
+- [Between by Klur](https://open.spotify.com/track/3eO18fwspUHDXShPy7ch4G)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
