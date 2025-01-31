@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Can&#39;t Replace You by Melosense](https://open.spotify.com/track/2hF8PIGeIqcSIwGlQCwpwo)
-- [Sunrise Song by Luttrell](https://open.spotify.com/track/2gsa8ffLRpj0QrgsTWdJxF)
-- [pwdr Blu (feat. Brother.) by Kx5, deadmau5, Kaskade, Brother.](https://open.spotify.com/track/6HIAIAWnanFhBtmIjtAtAr)
-- [Another Dawn by Massane, Kinnship](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA)
-- [Assassin by Sultan &#43; Shepard](https://open.spotify.com/track/2wLkOJ9pwMu0kfV5tlPDUp)
+- [You&#39;re The One by Jelen](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51)
+- [Falling by Chris Malinchak, KOLIDESCOPES](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc)
+- [Pull Me Through by Klur, Diana Miro](https://open.spotify.com/track/1K1QXB1EziC8QYPomW42hw)
+- [From The Start by Ourson, Ren Ocean](https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P)
+- [Desire by Kozua](https://open.spotify.com/track/7nKCCCvkdY3vmR10AeUBKH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
