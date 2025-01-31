@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Luna&#39;s Dream by Dokho](https://open.spotify.com/track/6yDwrSuGafugPjhmAfTr0i)
-- [Before I Sleep by Cloudcage](https://open.spotify.com/track/6wAZNiRrveSq7SsvPG4Y4p)
-- [Sivonium by djimboh](https://open.spotify.com/track/4rnygryGjmPswNMpIUrVPR)
-- [Supermassive by Jack Willard](https://open.spotify.com/track/2ZsvbXnRPuCBOqZqbvKFcX)
-- [Frangipani by Kaiyan](https://open.spotify.com/track/4I7u21ZlgZzCR0cmv30PuN)
+- [Saving My Love by Chris Malinchak](https://open.spotify.com/track/1T4250qLd3U3QaxaiuIs1U)
+- [Do You Feel The Same? by Emmit Fenn](https://open.spotify.com/track/6srLLyUp8cfTdU7rG8Txcp)
+- [Faded and Pale - Extended Mix by VEHA, Teesalu](https://open.spotify.com/track/39UMwix5LEy4FDgJujxk8Q)
+- [Skin Deep by Jay FM](https://open.spotify.com/track/1CAozfu6bPDxaKe39x030x)
+- [Limania by Dokho, Moon Kyoo](https://open.spotify.com/track/2B6aHcgVRAqbuyfPDSLtYv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
