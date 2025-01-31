@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Away With Me - Fideles Remix by Ross Quinn, Fideles](https://open.spotify.com/track/3w0NSQwB6Tj2tJfcHAIRCL)
-- [Mirrorball by A.M.R, Fractures](https://open.spotify.com/track/4Jb9Dm0jb9MTEy0I0k5e1u)
-- [Firmoral by Polar Inc.](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ)
-- [Free by Luden, w.ill](https://open.spotify.com/track/2FsaKOAjfqla5vYFfIykAv)
-- [Sonic Serenity by fwd/slash](https://open.spotify.com/track/1QSATY0asrdgRYwiAFUKDX)
+- [Can&#39;t Replace You by Melosense](https://open.spotify.com/track/2hF8PIGeIqcSIwGlQCwpwo)
+- [Sunrise Song by Luttrell](https://open.spotify.com/track/2gsa8ffLRpj0QrgsTWdJxF)
+- [pwdr Blu (feat. Brother.) by Kx5, deadmau5, Kaskade, Brother.](https://open.spotify.com/track/6HIAIAWnanFhBtmIjtAtAr)
+- [Another Dawn by Massane, Kinnship](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA)
+- [Assassin by Sultan &#43; Shepard](https://open.spotify.com/track/2wLkOJ9pwMu0kfV5tlPDUp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
