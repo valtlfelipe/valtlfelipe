@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [You&#39;re The One by Jelen](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51)
-- [Falling by Chris Malinchak, KOLIDESCOPES](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc)
-- [Pull Me Through by Klur, Diana Miro](https://open.spotify.com/track/1K1QXB1EziC8QYPomW42hw)
-- [From The Start by Ourson, Ren Ocean](https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P)
-- [Desire by Kozua](https://open.spotify.com/track/7nKCCCvkdY3vmR10AeUBKH)
+- [Distant Memories - Otherwise Fine Remix by Attom, Otherwise Fine](https://open.spotify.com/track/06nO0IZUK6oS4wt3owXqhd)
+- [Waves (feat. Grace Tither) by BLOND:ISH, Grace Tither](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu)
+- [Always Will by Tinlicker, Nathan Nicholson](https://open.spotify.com/track/6MGloAOjmUvjTW82ugoZBf)
+- [Precious Time by MXV, Yasin](https://open.spotify.com/track/7tEtQEA5Jl7oMs3pacLNTc)
+- [Illume - fwd/slash Edit by Louis Mercier, fwd/slash](https://open.spotify.com/track/6NwhgMxC0eYoveYzfhXDyK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
