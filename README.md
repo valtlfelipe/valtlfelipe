@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Away With Me - Fideles Remix by Ross Quinn, Fideles](https://open.spotify.com/track/3w0NSQwB6Tj2tJfcHAIRCL)
+- [Mirrorball by A.M.R, Fractures](https://open.spotify.com/track/4Jb9Dm0jb9MTEy0I0k5e1u)
+- [Firmoral by Polar Inc.](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ)
 - [Free by Luden, w.ill](https://open.spotify.com/track/2FsaKOAjfqla5vYFfIykAv)
 - [Sonic Serenity by fwd/slash](https://open.spotify.com/track/1QSATY0asrdgRYwiAFUKDX)
-- [Raymo by MXV](https://open.spotify.com/track/7zpxgaoaixzogb59CJy3EV)
-- [All My Light - Mixed by Boy North](https://open.spotify.com/track/4CTQzXaQZpeVVMXKjc782s)
-- [Terra Incognita by Tommy Loude](https://open.spotify.com/track/4yw3KfMyoQwlCr6ZEKT65p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
