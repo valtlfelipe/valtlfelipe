@@ -9,7 +9,7 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)** - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  (1 week ago)
 - **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** - 🙌 OpenHands: Code Less, Make More (1 week ago)
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (1 week ago)
-- **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (1 week ago)
+- **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
 - [Luna&#39;s Dream by Dokho](https://open.spotify.com/track/6yDwrSuGafugPjhmAfTr0i)
