@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Distant Memories - Otherwise Fine Remix by Attom, Otherwise Fine](https://open.spotify.com/track/06nO0IZUK6oS4wt3owXqhd)
-- [Waves (feat. Grace Tither) by BLOND:ISH, Grace Tither](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu)
-- [Always Will by Tinlicker, Nathan Nicholson](https://open.spotify.com/track/6MGloAOjmUvjTW82ugoZBf)
-- [Precious Time by MXV, Yasin](https://open.spotify.com/track/7tEtQEA5Jl7oMs3pacLNTc)
-- [Illume - fwd/slash Edit by Louis Mercier, fwd/slash](https://open.spotify.com/track/6NwhgMxC0eYoveYzfhXDyK)
+- [Gubei by West &amp; Zander](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j)
+- [Still by Parallel Voices](https://open.spotify.com/track/0geU6xmEUcLBxOXSc2yntJ)
+- [Making Time by Sultan &#43; Shepard, Julia Church](https://open.spotify.com/track/4hIj1YNfEdcYnYawKK0eYd)
+- [Choir To The Wild by Tinlicker, Solomon Grey](https://open.spotify.com/track/1Roz7FfvXU50hWjdjEPvDo)
+- [New Love by Le Youth, Sultan &#43; Shepard, Panama](https://open.spotify.com/track/7CAsrtI5Df8ZOrKZ2ImrVO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
