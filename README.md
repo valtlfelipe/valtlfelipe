@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [After Dark by LTN, Ghostbeat](https://open.spotify.com/track/2B2vTMJ6vcsHAsbkcSWJRR)
+- [Coming Up (Hold On) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/0pAKG0jaOC5Zc6RykZzvgC)
+- [lOnDn by EMBRZ](https://open.spotify.com/track/16vsw3UO3DmSmRDzmoaHx7)
+- [lOnDn by EMBRZ](https://open.spotify.com/track/16vsw3UO3DmSmRDzmoaHx7)
 - [I&#39;ll Be Around by Elderbrook, Amtrac](https://open.spotify.com/track/32v4XcJEaB3c3NbETfJ3uV)
-- [Corporate Fashion Lounge by Maksym Tkhoryk](https://open.spotify.com/track/6c0rZdGOLrdW822y8qriIa)
-- [Shades of Blue (Late Man Remix) by The English Disco, Late Man](https://open.spotify.com/track/0TaxsZc6QNjCVsn6WFEBPm)
-- [Cold Water by Kidnap, LYDY MAY](https://open.spotify.com/track/6DwLUz3AgfafXHx3DlD22r)
-- [Gubei by West &amp; Zander](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
