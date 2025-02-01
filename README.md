@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Speak Your Mind by VEHA, Extra Special](https://open.spotify.com/track/3ixuxoVAfb3EbrwPVJ4z45)
+- [Into The Sun - Chill Mix by Latroit, Pretty Garter, Charlz](https://open.spotify.com/track/0S9RnYlNFdPN0EzL7k6J7J)
 - [Eu Me Amarrei - Ao Vivo by Daniel, João Neto &amp; Frederico](https://open.spotify.com/track/762Gv3IssX7e3wwCoTkEjP)
 - [After Dark by LTN, Ghostbeat](https://open.spotify.com/track/2B2vTMJ6vcsHAsbkcSWJRR)
 - [Coming Up (Hold On) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/0pAKG0jaOC5Zc6RykZzvgC)
-- [lOnDn by EMBRZ](https://open.spotify.com/track/16vsw3UO3DmSmRDzmoaHx7)
-- [lOnDn by EMBRZ](https://open.spotify.com/track/16vsw3UO3DmSmRDzmoaHx7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
