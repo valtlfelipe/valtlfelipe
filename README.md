@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Keep Tryin by Chris Malinchak](https://open.spotify.com/track/0XxzxwVacAdRS1yb2w8EoS)
+- [Coming Up (Hold On) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/0pAKG0jaOC5Zc6RykZzvgC)
+- [Coming Up (Hold On) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/0pAKG0jaOC5Zc6RykZzvgC)
 - [Deep Into The Blue - Radio Edit by Night Breeze, Dias Ridge](https://open.spotify.com/track/6ev5q8vaTxhCQWEDtaliK3)
 - [I Can&#39;t Help Myself by Rosin Taylor](https://open.spotify.com/track/3PwJgdiMNJIPc1vjO6wOA0)
-- [Speak Your Mind by VEHA, Extra Special](https://open.spotify.com/track/3ixuxoVAfb3EbrwPVJ4z45)
-- [Into The Sun - Chill Mix by Latroit, Pretty Garter, Charlz](https://open.spotify.com/track/0S9RnYlNFdPN0EzL7k6J7J)
-- [Eu Me Amarrei - Ao Vivo by Daniel, João Neto &amp; Frederico](https://open.spotify.com/track/762Gv3IssX7e3wwCoTkEjP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
