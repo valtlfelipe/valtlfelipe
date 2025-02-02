@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[TabbyML/tabby](https://github.com/TabbyML/tabby)** - Self-hosted AI coding assistant (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [We Found Love by Rihanna, Calvin Harris](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py)
+- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
+- [Higher by Taio Cruz, Kylie Minogue](https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo)
 - [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
 - [Stay (feat. Maty Noyes) by Kygo, Maty Noyes](https://open.spotify.com/track/7gBj0VgcuAgkXkiRRYvSmK)
-- [King by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM)
-- [Love Generation - Edit by Bob Sinclar, Gary Pine](https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF)
-- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
