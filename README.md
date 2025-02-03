@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [All Good - Mixed by Crade](https://open.spotify.com/track/0y5o1oSImKFtvqpUpZg9Vn)
-- [Breathe In by PRAANA, Klur, Kuala](https://open.spotify.com/track/5e9cNRqPsdn6fyf5f2qwzJ)
-- [Antidote by Murmur Tooth, Lars Moston](https://open.spotify.com/track/6Iw7W2xAS3L889qISJew7t)
-- [Life by Thaylo, S:NE](https://open.spotify.com/track/1cbTtMT1nXnvZf93ZYnSSj)
-- [Tomorrow by Eccko](https://open.spotify.com/track/51arqEwJzgSxiPDh9i74dR)
+- [Lost In Gruvv by Melosense](https://open.spotify.com/track/0x1KxLkN62BeqstQTeLCV5)
+- [This Version Of You - Joseph Ray Remix by ODESZA, Joseph Ray, Julianna Barwick](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy)
+- [Journal by Polar Inc.](https://open.spotify.com/track/7uBr4fZvDFskB5CvxXGOi2)
+- [Come by Jay FM](https://open.spotify.com/track/5vIvc0FgxsAaf4dMZJ2KcZ)
+- [One Day At A Time by Trilucid](https://open.spotify.com/track/5WHtYopcNXTHKZLBylpczo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
