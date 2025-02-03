@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Fragments by Farlight](https://open.spotify.com/track/4RMTBpotJmOSAbZRVhymHi)
-- [Crush by Jophil](https://open.spotify.com/track/1Tn2EQQiBdU2wtpWVeZQe2)
-- [Antidote by Murmur Tooth, Lars Moston](https://open.spotify.com/track/6Iw7W2xAS3L889qISJew7t)
-- [Leave You by Einmusik, Lexer, Jyll](https://open.spotify.com/track/3p1j9R2oZG7GG9OtJxphWX)
-- [All Good - Mixed by Crade](https://open.spotify.com/track/0y5o1oSImKFtvqpUpZg9Vn)
+- [Breathe In by PRAANA, Klur, Kuala](https://open.spotify.com/track/5e9cNRqPsdn6fyf5f2qwzJ)
+- [Life by Thaylo, S:NE](https://open.spotify.com/track/1cbTtMT1nXnvZf93ZYnSSj)
+- [The Other Side by Nora En Pure](https://open.spotify.com/track/15FGYyh6rOlVkac0T6owa7)
+- [Leave U Here by Sebastian Davidson, Melosense](https://open.spotify.com/track/1PitUEpajJb3g3zLpJHp0c)
+- [Polaroid by Manda, Elianne, INAMEIT](https://open.spotify.com/track/5sCur7k1nGtFO5oBMEMRtH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
