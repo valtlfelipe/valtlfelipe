@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Explore by Melosense](https://open.spotify.com/track/1iWaxxAN8mryBxC4ORf02n)
+- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
+- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
 - [Venice Beach by Kozua](https://open.spotify.com/track/3S1ANvfLwD21P0A8Jvy6LX)
 - [Best Of Times by Enviado Vida](https://open.spotify.com/track/4mIc4MPYoOLXwq9y75sQaY)
-- [Big Sky by Jack Willard](https://open.spotify.com/track/1yv6MpP9hHtPnoxkNGVnUw)
-- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
-- [The Longest Beach by Stray Bandit](https://open.spotify.com/track/709JTRA1JjL0mJnjbwuIwi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
