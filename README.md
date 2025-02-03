@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
-- [Waves by Abroad](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM)
-- [To The End by Trilucid, Esque](https://open.spotify.com/track/77a4iUk7a9Rtzqzd4gHuTz)
-- [Fall Forward by ARTO](https://open.spotify.com/track/6kJC3RXlNGCmqqWfx1I0WO)
-- [Lost In Gruvv by Melosense](https://open.spotify.com/track/0x1KxLkN62BeqstQTeLCV5)
+- [Pull Me Through by Klur, Diana Miro](https://open.spotify.com/track/1K1QXB1EziC8QYPomW42hw)
+- [Adventure by Melosense](https://open.spotify.com/track/0xt2aktJvKXAtUkuHQKmeG)
+- [Swimming by VEHA](https://open.spotify.com/track/65TFI9kVXjZnHx4chwZmyh)
+- [Pearly by Polar Inc.](https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn)
+- [Sea Through Me by ARTO](https://open.spotify.com/track/398nWMrEWkwZUUf4GEEeQL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
