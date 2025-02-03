@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Pull Me Through by Klur, Diana Miro](https://open.spotify.com/track/1K1QXB1EziC8QYPomW42hw)
-- [Adventure by Melosense](https://open.spotify.com/track/0xt2aktJvKXAtUkuHQKmeG)
-- [Swimming by VEHA](https://open.spotify.com/track/65TFI9kVXjZnHx4chwZmyh)
-- [Pearly by Polar Inc.](https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn)
-- [Sea Through Me by ARTO](https://open.spotify.com/track/398nWMrEWkwZUUf4GEEeQL)
+- [Klapp (feat. Claes Rosen) by Sebastian Davidson, Claes Rosen](https://open.spotify.com/track/1oVCezWQA35HQLcPa9WNUG)
+- [Story to Remember by Melosense](https://open.spotify.com/track/5jpEBnl7zk7zbs8dNXnvxn)
+- [Eyes Off You by Polar Inc., XIRA](https://open.spotify.com/track/5YQ4BJs60OgPVEwisLNiu3)
+- [Love at First Sight by TEEMID](https://open.spotify.com/track/2XR0wxwBDgOxZ3m5LtfCj4)
+- [Wishful Thinking by Jay FM](https://open.spotify.com/track/3h92POKPLz8JV7bVXMZJYb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
