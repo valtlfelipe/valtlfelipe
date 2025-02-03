@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Can&#39;t Get Over You by KVSH, The Otherz, Gabriel Froede](https://open.spotify.com/track/3dTmgecC7MCMbteWjf8Ls7)
 - [Wherever You Go (feat. John Martin) [Bhaskar &amp; Kohen Remix] by Alok, John Martin, Bhaskar, Kohen](https://open.spotify.com/track/61V14bxhzKr6YevYaZbR2e)
 - [Lilás by Pic Schmitz, Windy City Classics, Lucas Borchardt](https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP)
 - [Boa Sorte (Alok, Vanessa da Mata e Cat Dealers) by Alok, Vanessa Da Mata, Cat Dealers](https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh)
 - [Tides by Farves, Sebastian Moriarty, Ellysse Mason](https://open.spotify.com/track/68vmAMQR3pAIYVeyBJKur4)
-- [Klapp (feat. Claes Rosen) by Sebastian Davidson, Claes Rosen](https://open.spotify.com/track/1oVCezWQA35HQLcPa9WNUG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
