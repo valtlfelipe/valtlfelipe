@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Breathe In by PRAANA, Klur, Kuala](https://open.spotify.com/track/5e9cNRqPsdn6fyf5f2qwzJ)
-- [Life by Thaylo, S:NE](https://open.spotify.com/track/1cbTtMT1nXnvZf93ZYnSSj)
-- [The Other Side by Nora En Pure](https://open.spotify.com/track/15FGYyh6rOlVkac0T6owa7)
-- [Leave U Here by Sebastian Davidson, Melosense](https://open.spotify.com/track/1PitUEpajJb3g3zLpJHp0c)
-- [Polaroid by Manda, Elianne, INAMEIT](https://open.spotify.com/track/5sCur7k1nGtFO5oBMEMRtH)
+- [Venice Beach by Kozua](https://open.spotify.com/track/3S1ANvfLwD21P0A8Jvy6LX)
+- [Best Of Times by Enviado Vida](https://open.spotify.com/track/4mIc4MPYoOLXwq9y75sQaY)
+- [Big Sky by Jack Willard](https://open.spotify.com/track/1yv6MpP9hHtPnoxkNGVnUw)
+- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
+- [The Longest Beach by Stray Bandit](https://open.spotify.com/track/709JTRA1JjL0mJnjbwuIwi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
