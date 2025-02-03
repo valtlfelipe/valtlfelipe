@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Afterglow by Klangkarussell, GIVVEN](https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7)
-- [Runaway by Holen, Robin Dylan, fakelife](https://open.spotify.com/track/1kCdu6meOha1iIez4qapQ3)
-- [Youth Thoughts by N-ZTON, Mitrani](https://open.spotify.com/track/2Mfpd9jeLeWKiflkErVhEf)
-- [Follow by OPLURE](https://open.spotify.com/track/5CB8XvEye2GywwloAFCR7F)
-- [Closure by Simon Field, SverreV](https://open.spotify.com/track/3TxgzTW5ZszAghaL7XJo11)
+- [All Good - Mixed by Crade](https://open.spotify.com/track/0y5o1oSImKFtvqpUpZg9Vn)
+- [Breathe In by PRAANA, Klur, Kuala](https://open.spotify.com/track/5e9cNRqPsdn6fyf5f2qwzJ)
+- [Antidote by Murmur Tooth, Lars Moston](https://open.spotify.com/track/6Iw7W2xAS3L889qISJew7t)
+- [Life by Thaylo, S:NE](https://open.spotify.com/track/1cbTtMT1nXnvZf93ZYnSSj)
+- [Tomorrow by Eccko](https://open.spotify.com/track/51arqEwJzgSxiPDh9i74dR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
