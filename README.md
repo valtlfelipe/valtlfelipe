@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Explore by Melosense](https://open.spotify.com/track/1iWaxxAN8mryBxC4ORf02n)
-- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
-- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
-- [Venice Beach by Kozua](https://open.spotify.com/track/3S1ANvfLwD21P0A8Jvy6LX)
-- [Best Of Times by Enviado Vida](https://open.spotify.com/track/4mIc4MPYoOLXwq9y75sQaY)
+- [Afterglow by Klangkarussell, GIVVEN](https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7)
+- [Runaway by Holen, Robin Dylan, fakelife](https://open.spotify.com/track/1kCdu6meOha1iIez4qapQ3)
+- [Youth Thoughts by N-ZTON, Mitrani](https://open.spotify.com/track/2Mfpd9jeLeWKiflkErVhEf)
+- [Follow by OPLURE](https://open.spotify.com/track/5CB8XvEye2GywwloAFCR7F)
+- [Closure by Simon Field, SverreV](https://open.spotify.com/track/3TxgzTW5ZszAghaL7XJo11)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
