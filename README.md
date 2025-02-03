@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
+- [Waves by Abroad](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM)
+- [To The End by Trilucid, Esque](https://open.spotify.com/track/77a4iUk7a9Rtzqzd4gHuTz)
+- [Fall Forward by ARTO](https://open.spotify.com/track/6kJC3RXlNGCmqqWfx1I0WO)
 - [Lost In Gruvv by Melosense](https://open.spotify.com/track/0x1KxLkN62BeqstQTeLCV5)
-- [This Version Of You - Joseph Ray Remix by ODESZA, Joseph Ray, Julianna Barwick](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy)
-- [Journal by Polar Inc.](https://open.spotify.com/track/7uBr4fZvDFskB5CvxXGOi2)
-- [Come by Jay FM](https://open.spotify.com/track/5vIvc0FgxsAaf4dMZJ2KcZ)
-- [One Day At A Time by Trilucid](https://open.spotify.com/track/5WHtYopcNXTHKZLBylpczo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
