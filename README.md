@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Vista by Jack Willard](https://open.spotify.com/track/2NXdccGwej9QethnRpOT6s)
-- [Light Of Day - Parra for Cuva Remix by ODESZA, Ólafur Arnalds, Parra for Cuva](https://open.spotify.com/track/6f8gNNCNSveUl4gxt7tzp0)
-- [Terra Incognita by Tommy Loude](https://open.spotify.com/track/4yw3KfMyoQwlCr6ZEKT65p)
-- [Disconnected by Naws](https://open.spotify.com/track/38eLdh3v9ABbWh05ndzVpF)
-- [Summer&#39;s End by Massane](https://open.spotify.com/track/0ad22SFsPKkHtI22ghecQe)
+- [Leaving by Naws, Leo Wood](https://open.spotify.com/track/3yVsJMfcWrASEI4Fv7stRe)
+- [La Valse by Cordeliers](https://open.spotify.com/track/1xhThomLWSG9UWxkPgv70Q)
+- [Paralia by Dokho](https://open.spotify.com/track/1WXias1FHh0Kyl2zGdYQnC)
+- [Out Of Time by Ross Quinn](https://open.spotify.com/track/51cgJEFd8FPzkUZeXyV1rp)
+- [Sweet World by Mar Vei](https://open.spotify.com/track/57c2CZPepaTQQDheGpZlIN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
