@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [I&#39;m Not Here To Be Your Friend by Abroad](https://open.spotify.com/track/5hFpBwKpOEcpA2NEikHMSU)
-- [River Of Dreams by Kaiyan, EMBLM](https://open.spotify.com/track/6RfncGOXKpLWQLWvjBSNt7)
-- [Autumn Leaves by Planetopia](https://open.spotify.com/track/5iknC3vD76dPL8qobqdZCV)
-- [Leaving by Naws, Leo Wood](https://open.spotify.com/track/3yVsJMfcWrASEI4Fv7stRe)
-- [La Valse by Cordeliers](https://open.spotify.com/track/1xhThomLWSG9UWxkPgv70Q)
+- [Dance My Tears Away - (Latroit Club Mix) by Latroit, Charlz](https://open.spotify.com/track/4XNn3iaEu6MLiOnt5makMJ)
+- [Faded Dreams by Baan Sabai, Johannes Jungleson](https://open.spotify.com/track/27p1TpBvBCkmOAK5Ay7o16)
+- [Love or Lust by UOAK, Lara Nord, Ceci](https://open.spotify.com/track/23j6H6ro9ROzREhMDhcRbM)
+- [Thoughts by Aselec](https://open.spotify.com/track/5oIyPohK4bGaACMIjSToC0)
+- [Nous by Melosense](https://open.spotify.com/track/2THuPK6bfhZt3CtdGHGkpQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
