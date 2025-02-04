@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Live Your Life by Rooftime](https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR)
-- [DÁKITI by BOOTY LEAK, TARS., PHURS, LO RA](https://open.spotify.com/track/12UKG8o3WWlSdvK7zInWh8)
-- [Outside Of Love - Zerb Remix by Becky Hill, Zerb](https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5)
-- [Can&#39;t Get Over You by KVSH, The Otherz, Gabriel Froede](https://open.spotify.com/track/3dTmgecC7MCMbteWjf8Ls7)
-- [Wherever You Go (feat. John Martin) [Bhaskar &amp; Kohen Remix] by Alok, John Martin, Bhaskar, Kohen](https://open.spotify.com/track/61V14bxhzKr6YevYaZbR2e)
+- [Nostalgia by Melosense](https://open.spotify.com/track/0Vtwa1eRykSFTGXbDBq7d2)
+- [Lose Myself by Plaha](https://open.spotify.com/track/1CaIKSaYbeMoc892N00h4b)
+- [Yours by djimboh](https://open.spotify.com/track/4py97jkt3UjrYu73lPzvIS)
+- [Rising Above Thought by MXV](https://open.spotify.com/track/4hLN7QtDPxr1J53JJNd0hA)
+- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
