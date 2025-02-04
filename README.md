@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Holding Anchor by Giants&#39; Nest](https://open.spotify.com/track/73l7YNceUVRyggXqCajwlZ)
-- [Heart To Heart by Klur, Hildur Ottilia](https://open.spotify.com/track/7MLb9m5z7ullTT5u6vXBad)
-- [Now You&#39;re Gone by ARTO](https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW)
-- [Lost In Gruvv - Extended Mix by Melosense](https://open.spotify.com/track/6eedkvPYmDdjTlWrt3SjSL)
-- [AROSE by Lyke](https://open.spotify.com/track/1TlFcqw1hBb3VOx5VFTiuV)
+- [Vista by Jack Willard](https://open.spotify.com/track/2NXdccGwej9QethnRpOT6s)
+- [Light Of Day - Parra for Cuva Remix by ODESZA, Ólafur Arnalds, Parra for Cuva](https://open.spotify.com/track/6f8gNNCNSveUl4gxt7tzp0)
+- [Terra Incognita by Tommy Loude](https://open.spotify.com/track/4yw3KfMyoQwlCr6ZEKT65p)
+- [Disconnected by Naws](https://open.spotify.com/track/38eLdh3v9ABbWh05ndzVpF)
+- [Summer&#39;s End by Massane](https://open.spotify.com/track/0ad22SFsPKkHtI22ghecQe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
