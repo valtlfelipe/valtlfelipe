@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Nostalgia by Melosense](https://open.spotify.com/track/0Vtwa1eRykSFTGXbDBq7d2)
-- [Lose Myself by Plaha](https://open.spotify.com/track/1CaIKSaYbeMoc892N00h4b)
-- [Yours by djimboh](https://open.spotify.com/track/4py97jkt3UjrYu73lPzvIS)
-- [Rising Above Thought by MXV](https://open.spotify.com/track/4hLN7QtDPxr1J53JJNd0hA)
-- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
+- [Holding Anchor by Giants&#39; Nest](https://open.spotify.com/track/73l7YNceUVRyggXqCajwlZ)
+- [Heart To Heart by Klur, Hildur Ottilia](https://open.spotify.com/track/7MLb9m5z7ullTT5u6vXBad)
+- [Now You&#39;re Gone by ARTO](https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW)
+- [Lost In Gruvv - Extended Mix by Melosense](https://open.spotify.com/track/6eedkvPYmDdjTlWrt3SjSL)
+- [AROSE by Lyke](https://open.spotify.com/track/1TlFcqw1hBb3VOx5VFTiuV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
