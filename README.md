@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Still Be There (feat. Josh Tobias) by Tim Hughes, Josh Tobias](https://open.spotify.com/track/0AjLqMYDsBjpVIeWLoiG9x)
-- [Catalina by sunbvrn](https://open.spotify.com/track/12OdSJ3IuzHYzGaeVpqHVI)
-- [Someday (Latroit Edition) by Lliam Taylor, Latroit, Brea](https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp)
-- [Up Here by djimboh, Lumynesynth](https://open.spotify.com/track/4Bhvds0QIzg1Gp0WRXCJGN)
-- [Solitude by Sum Wave, Bye Ocean](https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7)
+- [Moving On by Spark030](https://open.spotify.com/track/25ANK11yNrLh9FMZCEFWiG)
+- [The Longest Beach by Stray Bandit](https://open.spotify.com/track/709JTRA1JjL0mJnjbwuIwi)
+- [Highest Love by Sultan &#43; Shepard, LANKS](https://open.spotify.com/track/2amj2auYcmzfTLyQhMTKDr)
+- [Golden Age by Sebastian Davidson](https://open.spotify.com/track/6hRmFO1wGkEu7cHueBt5om)
+- [Paragon by Jack Willard](https://open.spotify.com/track/1TERufExull32JvrOr8din)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
