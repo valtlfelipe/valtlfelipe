@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Last Call of Summer by Maiwan](https://open.spotify.com/track/6N4YRb1jH4pS8ybTOy0SYj)
-- [Run by Abroad](https://open.spotify.com/track/2IBiOC9z8CukWZtXo8f9Lj)
-- [Everyday &amp; Everynight - Kant Remix by Nolan, Amber Jolene, KANT](https://open.spotify.com/track/07xoVeEbE8WCVuMW5NCCmU)
-- [Free by Luden, w.ill](https://open.spotify.com/track/2FsaKOAjfqla5vYFfIykAv)
-- [Untamed by 6sept, Afnan Prince](https://open.spotify.com/track/0w2TCDxeJs053BojGKsYI3)
+- [Treat Me Right - Instrumental by Crade](https://open.spotify.com/track/4esP3wH2EUJmPwiPFo6dEd)
+- [Dark Horses: Latroit Edition - Chill Mix by Latroit, Charlz](https://open.spotify.com/track/7BwOCpQjeXHgWrgpdzLX2K)
+- [Defrost (feat. Melosense) by Sebastian Davidson, Melosense](https://open.spotify.com/track/5ruAKSIgn5xYSE5Wv1Aq3p)
+- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
+- [Children by Sum Wave](https://open.spotify.com/track/6HnZ4voVHJmmx8eLz809dX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
