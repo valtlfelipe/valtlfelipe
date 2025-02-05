@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Lies by GONE](https://open.spotify.com/track/1e0KOOJPgsILGkAPGBuhB2)
-- [Evermore - Radio-Edit by Rich Vom Dorf](https://open.spotify.com/track/6ZUvKV4ocfRl3troasuumX)
-- [Love by THBD](https://open.spotify.com/track/3yVeeLN6uJ6CqMy0GpCHip)
-- [Wicked Game by MaMan, Anna-Sophia Henry](https://open.spotify.com/track/1MtVe8pqD3gqaDUUviiSYU)
-- [Everyday &amp; Everynight - Kant Remix by Nolan, Amber Jolene, KANT](https://open.spotify.com/track/07xoVeEbE8WCVuMW5NCCmU)
+- [Disconnected - Album Mix by Stereoclip](https://open.spotify.com/track/6LlmFHVYJR1bx4BiVY7rA9)
+- [The Other Side by Nora En Pure](https://open.spotify.com/track/15FGYyh6rOlVkac0T6owa7)
+- [Written in Sand by Stray Bandit](https://open.spotify.com/track/5LwhNaSPJ7EjusBYfyb0UL)
+- [Crush by Jophil](https://open.spotify.com/track/1Tn2EQQiBdU2wtpWVeZQe2)
+- [Pelican Bej by farfetch&#39;d](https://open.spotify.com/track/1quivUPZXNHEz8nA2MR7Kv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
