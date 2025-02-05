@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Disconnected - Album Mix by Stereoclip](https://open.spotify.com/track/6LlmFHVYJR1bx4BiVY7rA9)
-- [The Other Side by Nora En Pure](https://open.spotify.com/track/15FGYyh6rOlVkac0T6owa7)
-- [Written in Sand by Stray Bandit](https://open.spotify.com/track/5LwhNaSPJ7EjusBYfyb0UL)
-- [Crush by Jophil](https://open.spotify.com/track/1Tn2EQQiBdU2wtpWVeZQe2)
-- [Pelican Bej by farfetch&#39;d](https://open.spotify.com/track/1quivUPZXNHEz8nA2MR7Kv)
+- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
+- [Glad I Found You (feat. George FitzGerald) - Club Mix by Elderbrook, George FitzGerald](https://open.spotify.com/track/1QFELwSMIxkz07RkZHq3Vl)
+- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi)
+- [Rust by Ben Böhmer](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ)
+- [Yebba&#39;s Heartbreak (I Do) by PLÜM](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
