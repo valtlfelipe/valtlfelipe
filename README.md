@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Treat Me Right - Instrumental by Crade](https://open.spotify.com/track/4esP3wH2EUJmPwiPFo6dEd)
-- [Dark Horses: Latroit Edition - Chill Mix by Latroit, Charlz](https://open.spotify.com/track/7BwOCpQjeXHgWrgpdzLX2K)
-- [Defrost (feat. Melosense) by Sebastian Davidson, Melosense](https://open.spotify.com/track/5ruAKSIgn5xYSE5Wv1Aq3p)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
-- [Children by Sum Wave](https://open.spotify.com/track/6HnZ4voVHJmmx8eLz809dX)
+- [Lies by GONE](https://open.spotify.com/track/1e0KOOJPgsILGkAPGBuhB2)
+- [Evermore - Radio-Edit by Rich Vom Dorf](https://open.spotify.com/track/6ZUvKV4ocfRl3troasuumX)
+- [Love by THBD](https://open.spotify.com/track/3yVeeLN6uJ6CqMy0GpCHip)
+- [Wicked Game by MaMan, Anna-Sophia Henry](https://open.spotify.com/track/1MtVe8pqD3gqaDUUviiSYU)
+- [Everyday &amp; Everynight - Kant Remix by Nolan, Amber Jolene, KANT](https://open.spotify.com/track/07xoVeEbE8WCVuMW5NCCmU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
