@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Closure by Simon Field, SverreV](https://open.spotify.com/track/3TxgzTW5ZszAghaL7XJo11)
-- [Ocean Pass by just here., CLOVER](https://open.spotify.com/track/4KX4lgScLric00Mn6iulvf)
-- [Pink Sunrise by Crade](https://open.spotify.com/track/7kRQXO05We38fs7zPndaSE)
-- [Summer Rain by Misc.Inc, Oliver River](https://open.spotify.com/track/3UQv7zRiQnK4iuhuQDcqjS)
-- [Deeper Love by Sean Blanc](https://open.spotify.com/track/6QzZttn02WhXFxvpCSRVJI)
+- [Last Call of Summer by Maiwan](https://open.spotify.com/track/6N4YRb1jH4pS8ybTOy0SYj)
+- [Run by Abroad](https://open.spotify.com/track/2IBiOC9z8CukWZtXo8f9Lj)
+- [Everyday &amp; Everynight - Kant Remix by Nolan, Amber Jolene, KANT](https://open.spotify.com/track/07xoVeEbE8WCVuMW5NCCmU)
+- [Free by Luden, w.ill](https://open.spotify.com/track/2FsaKOAjfqla5vYFfIykAv)
+- [Untamed by 6sept, Afnan Prince](https://open.spotify.com/track/0w2TCDxeJs053BojGKsYI3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
