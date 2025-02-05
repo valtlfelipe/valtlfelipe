@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Brisa by Etza](https://open.spotify.com/track/2ZlwyosdaQ0oc6GJQjqWvj)
-- [Illuminant by Trilucid, Esque](https://open.spotify.com/track/0T0SUtaClnMJ8DnZs8V5DT)
-- [Para Fiction by Crade](https://open.spotify.com/track/6p3MeRKhSTGmZlxbMJUCft)
-- [Moving On by Spark030](https://open.spotify.com/track/25ANK11yNrLh9FMZCEFWiG)
-- [The Longest Beach by Stray Bandit](https://open.spotify.com/track/709JTRA1JjL0mJnjbwuIwi)
+- [Closure by Simon Field, SverreV](https://open.spotify.com/track/3TxgzTW5ZszAghaL7XJo11)
+- [Ocean Pass by just here., CLOVER](https://open.spotify.com/track/4KX4lgScLric00Mn6iulvf)
+- [Pink Sunrise by Crade](https://open.spotify.com/track/7kRQXO05We38fs7zPndaSE)
+- [Summer Rain by Misc.Inc, Oliver River](https://open.spotify.com/track/3UQv7zRiQnK4iuhuQDcqjS)
+- [Deeper Love by Sean Blanc](https://open.spotify.com/track/6QzZttn02WhXFxvpCSRVJI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
