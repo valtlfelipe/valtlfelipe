@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Stop by Sebastian Davidson](https://open.spotify.com/track/1j42mGbNyyMGJIoKfoT4nP)
-- [Leave Me by secondsun](https://open.spotify.com/track/5X2hvBLLk9nPbSWsoy17TL)
-- [Afterlife by Spark030](https://open.spotify.com/track/1o0M2d6ciiLBZxpt4vdHMv)
-- [Big Sky by Jack Willard](https://open.spotify.com/track/1yv6MpP9hHtPnoxkNGVnUw)
-- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
+- [A Day Outside by Stray Bandit](https://open.spotify.com/track/3wGhglkn6mFxO3i8NP5MjO)
+- [Ebb &amp; Flow by Midnight Pass](https://open.spotify.com/track/1cWednRp2CUjfFU5tfhj7B)
+- [On The Edge by UOAK, Damaui, Lisa Mechelina](https://open.spotify.com/track/2S2Sd6cTqg1sCcrUtGWInb)
+- [Saltwater Dreams by Sum Wave](https://open.spotify.com/track/6pRocudXtLnKRd61gtotIk)
+- [90 days by Dimside](https://open.spotify.com/track/16k0IlZHe3P2TYnT3vKOTw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
