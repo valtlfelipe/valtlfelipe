@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Brisa by Etza](https://open.spotify.com/track/2ZlwyosdaQ0oc6GJQjqWvj)
+- [Illuminant by Trilucid, Esque](https://open.spotify.com/track/0T0SUtaClnMJ8DnZs8V5DT)
+- [Para Fiction by Crade](https://open.spotify.com/track/6p3MeRKhSTGmZlxbMJUCft)
 - [Moving On by Spark030](https://open.spotify.com/track/25ANK11yNrLh9FMZCEFWiG)
 - [The Longest Beach by Stray Bandit](https://open.spotify.com/track/709JTRA1JjL0mJnjbwuIwi)
-- [Highest Love by Sultan &#43; Shepard, LANKS](https://open.spotify.com/track/2amj2auYcmzfTLyQhMTKDr)
-- [Golden Age by Sebastian Davidson](https://open.spotify.com/track/6hRmFO1wGkEu7cHueBt5om)
-- [Paragon by Jack Willard](https://open.spotify.com/track/1TERufExull32JvrOr8din)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
