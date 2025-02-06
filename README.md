@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
-- [Glad I Found You (feat. George FitzGerald) - Club Mix by Elderbrook, George FitzGerald](https://open.spotify.com/track/1QFELwSMIxkz07RkZHq3Vl)
-- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi)
-- [Rust by Ben Böhmer](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ)
-- [Yebba&#39;s Heartbreak (I Do) by PLÜM](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa)
+- [nightvision by sellar](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d)
+- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
+- [Lost In The Melody by ItsArius, Lynnic, Dinia](https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz)
+- [All We Ever Do by Keanler, Leo Stannard](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw)
+- [Sunrise (feat. Madeline Megery) by Forester, OCULA, Madeline Megery](https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
