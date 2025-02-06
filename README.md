@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [nightvision by sellar](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d)
-- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
-- [Lost In The Melody by ItsArius, Lynnic, Dinia](https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz)
-- [All We Ever Do by Keanler, Leo Stannard](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw)
-- [Sunrise (feat. Madeline Megery) by Forester, OCULA, Madeline Megery](https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL)
+- [honey sweet by louke&#39;s beats](https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x)
+- [calm nights by giannis wang](https://open.spotify.com/track/57KG77P6mmQvQassZqe5BI)
+- [Battery by Mbrs Gear](https://open.spotify.com/track/2R1q865i7OzATBbZCoX1YI)
+- [Estelle by Samara Milli](https://open.spotify.com/track/39j1lrsLa9jZ72Qx6PxJ2r)
+- [Quiet Pulse by poems](https://open.spotify.com/track/7F3aYjhN3tF2s9d57s6IiC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
