@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Haute Dreams by Low Couture](https://open.spotify.com/track/38TURpPXTyCdAOaNrUJXdm)
-- [Norwood Gardens by Gael Rico](https://open.spotify.com/track/6wluXwFG3GkUNhrsdPv7EO)
-- [Tailwind by arithmetic underflow](https://open.spotify.com/track/4fwDAHzAXT7r55nGJ5JZKj)
-- [Entangled by joorla](https://open.spotify.com/track/5YjyRNNS28iHVbrwrSyO0P)
-- [I WISH I WAS LIKE YOU by Leevs](https://open.spotify.com/track/2uvuagXuHwY0WQuUsWJUuM)
+- [A Place To Start by Fires In The Dark](https://open.spotify.com/track/0QK6YzIcxKDXMmNwdsA6Tf)
+- [Midnight by Joe Lee Noire](https://open.spotify.com/track/2ot6dciYtrBq1agHgjwojD)
+- [Sax and Violins by Shierro, Ale Fillman](https://open.spotify.com/track/1PcrDxcQLHsk88iz0H6Oy2)
+- [chillin by Gloomey](https://open.spotify.com/track/3QJdDT1QJNy61VvOWZVTty)
+- [Easy Beginnings by Bobblan Trams](https://open.spotify.com/track/4HQELL0HSLA3TPzpZ3GgkV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
