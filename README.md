@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Seven Seas by Kupla](https://open.spotify.com/track/2yHEcXbsG36FNM9QNtTsNg)
-- [golden lanterns by bby knife](https://open.spotify.com/track/5iZP8lfBCmz2oEwBfFvgh2)
-- [Urban Summer by Alkis Siokis](https://open.spotify.com/track/1Km3xwYKto5U2xdsPv8HTc)
-- [Fonts by Manganese Sprinter](https://open.spotify.com/track/0R59jpigi9VVdPo9DA6VA4)
-- [Day by Yankolo, Patiotic Records](https://open.spotify.com/track/4Hty9VBHYWpU7DEDePrLp8)
+- [I WISH I WAS LIKE YOU by Leevs](https://open.spotify.com/track/2uvuagXuHwY0WQuUsWJUuM)
+- [nighttimez by Kisiaria](https://open.spotify.com/track/6j5nBipBPT7wS8p8p2QZme)
+- [Liar by Flôr](https://open.spotify.com/track/4Q6lcRdTZBcrQMIpGPSNUf)
+- [Ancient Waters by Louie Bee](https://open.spotify.com/track/0obqB3BecWV8AUWYLJFY3U)
+- [butter by lilibu](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
