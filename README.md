@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [A Place To Start by Fires In The Dark](https://open.spotify.com/track/0QK6YzIcxKDXMmNwdsA6Tf)
-- [Midnight by Joe Lee Noire](https://open.spotify.com/track/2ot6dciYtrBq1agHgjwojD)
-- [Sax and Violins by Shierro, Ale Fillman](https://open.spotify.com/track/1PcrDxcQLHsk88iz0H6Oy2)
-- [chillin by Gloomey](https://open.spotify.com/track/3QJdDT1QJNy61VvOWZVTty)
-- [Easy Beginnings by Bobblan Trams](https://open.spotify.com/track/4HQELL0HSLA3TPzpZ3GgkV)
+- [Ten Ocean by Grandmaster Tilden](https://open.spotify.com/track/4rgjOcbLnEyakVKfbvACRL)
+- [silk umbrella by gamuri shun](https://open.spotify.com/track/6AGzhBwJugJ1koUC5PcVcM)
+- [after dark by takemefaraway, Nick&#39;s chill factory](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14)
+- [Give in to you by Gachagchi](https://open.spotify.com/track/2GYrasXjMJuZKD5WMKrLHs)
+- [messy by luvuto](https://open.spotify.com/track/5nvL2YxmnbQyuu7aGrI68K)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
