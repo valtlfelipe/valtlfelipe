@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [exhibit by knock on wood](https://open.spotify.com/track/1fpsnAclSI1pNpcujuFCgr)
-- [73 Spaceloop by BluntOne](https://open.spotify.com/track/6NpJrkwYfrBXppjRbyjoL8)
-- [Drowsy Delight by Young Coyotes](https://open.spotify.com/track/7BxIPN6c4yp0aM9BPGDwsq)
-- [Past Midnight by Tune in with Chewie](https://open.spotify.com/track/59r1YiitNAquPACNQgsMGg)
-- [passion by Zatsuma](https://open.spotify.com/track/61gU1pAQvkVNk634ziWeAJ)
+- [Karina by Paper Street Company](https://open.spotify.com/track/1vShSwC2aTrJmpcaGxvkhb)
+- [Smooth Fields by Harvest Emotions](https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH)
+- [mumbling by Meliona](https://open.spotify.com/track/5Rcl118NjsWCa1PIQSnztI)
+- [calm the mind by May-Flowa](https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC)
+- [New York Is Asleep by ATONED](https://open.spotify.com/track/6Eb37wwzE1vtmMxqf9toe7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
