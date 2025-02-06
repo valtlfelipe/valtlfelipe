@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Karina by Paper Street Company](https://open.spotify.com/track/1vShSwC2aTrJmpcaGxvkhb)
-- [Smooth Fields by Harvest Emotions](https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH)
-- [mumbling by Meliona](https://open.spotify.com/track/5Rcl118NjsWCa1PIQSnztI)
-- [calm the mind by May-Flowa](https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC)
-- [New York Is Asleep by ATONED](https://open.spotify.com/track/6Eb37wwzE1vtmMxqf9toe7)
+- [EASY by SLOWIFI](https://open.spotify.com/track/2udu8PBjGpmWh8iHYcKYQh)
+- [Meridian by Sundaze, Mujo, Hakone](https://open.spotify.com/track/1LdTVVYYXOD6Xq0RjQ0OSu)
+- [still images by slowburn](https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt)
+- [spinal chords by fontatron](https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi)
+- [Paper Boat by Juliàn, Pierson Booth](https://open.spotify.com/track/1GqGr7qbXXg6FxSNoJyqls)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
