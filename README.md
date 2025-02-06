@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Glitter Space by Unsuspected Noise, Lola](https://open.spotify.com/track/16cGLCoy5hR0D02M0jzS3w)
-- [Anti-Gravity by Space Time](https://open.spotify.com/track/7bzarmiobBm1oOCSBmTevV)
-- [Remedies by Illum Noyz](https://open.spotify.com/track/2UKmdTfUbFrOacKeS3qkJS)
-- [adjustment by Ryder 003](https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln)
-- [dreams by red tractor](https://open.spotify.com/track/0yOOs2EQ7TVdWgyqCgyPHt)
+- [Seven Seas by Kupla](https://open.spotify.com/track/2yHEcXbsG36FNM9QNtTsNg)
+- [golden lanterns by bby knife](https://open.spotify.com/track/5iZP8lfBCmz2oEwBfFvgh2)
+- [Urban Summer by Alkis Siokis](https://open.spotify.com/track/1Km3xwYKto5U2xdsPv8HTc)
+- [Fonts by Manganese Sprinter](https://open.spotify.com/track/0R59jpigi9VVdPo9DA6VA4)
+- [Day by Yankolo, Patiotic Records](https://open.spotify.com/track/4Hty9VBHYWpU7DEDePrLp8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
