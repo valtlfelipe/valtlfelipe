@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Stay by Baril](https://open.spotify.com/track/5ippmCJ4ZQBow7qef2PK8I)
-- [Keep Going by Stephan Jolk](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN)
-- [anywhere by Carinth](https://open.spotify.com/track/1jKBME4tJGPwtEUELTEPRH)
-- [Sweetest Thing by Jody Wisternoff](https://open.spotify.com/track/44mvLsJEYGvKbLbwzbTYpd)
-- [No Stress in Cres by Sound Nomaden](https://open.spotify.com/track/0gRVYjk3IFVQBUtfdoLc5W)
+- [malo okoma - Radio Edit by dj poolboi, Theresa Ng&#39;ambi](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27)
+- [Vajkoczy - Edit by Sofia Kourtesis](https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW)
+- [Far Away by jackLNDN, ZEMBU](https://open.spotify.com/track/0owkRiLsjtXe3JKYxt9tf5)
+- [Say You Want To Fly by Otherwish](https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W)
+- [Like This by Mallin](https://open.spotify.com/track/6mGA7mSuXx8o1ytfnImc7s)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
