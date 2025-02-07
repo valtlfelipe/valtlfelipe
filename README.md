@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [malo okoma - Radio Edit by dj poolboi, Theresa Ng&#39;ambi](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27)
-- [Vajkoczy - Edit by Sofia Kourtesis](https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW)
-- [Far Away by jackLNDN, ZEMBU](https://open.spotify.com/track/0owkRiLsjtXe3JKYxt9tf5)
-- [Say You Want To Fly by Otherwish](https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W)
-- [Like This by Mallin](https://open.spotify.com/track/6mGA7mSuXx8o1ytfnImc7s)
+- [Save Me by Kaskade, Lauren L&#39;aimant](https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR)
+- [Call by Mascolo](https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO)
+- [Feedback by Amtrac](https://open.spotify.com/track/4Io7rS6x4YWYK99UdnBFkc)
+- [Over You by Dillistone](https://open.spotify.com/track/7dTkiXLxCLpAquNt3MulYB)
+- [One Sunrise At A Time by MYRNE](https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
