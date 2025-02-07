@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Tears by Bound to Divide, Lauren L&#39;aimant](https://open.spotify.com/track/2dpzs6UBVMvB4zHM6ly1iq)
-- [Again by Saive](https://open.spotify.com/track/5FZHoGKTKpkWeIuGacBLgS)
-- [A Power Over Me by Joseph Ray, Elliot Vast](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di)
-- [Saturday Morning by Rules](https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp)
-- [Indulgence by Nora En Pure](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q)
+- [Stay by Baril](https://open.spotify.com/track/5ippmCJ4ZQBow7qef2PK8I)
+- [Keep Going by Stephan Jolk](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN)
+- [anywhere by Carinth](https://open.spotify.com/track/1jKBME4tJGPwtEUELTEPRH)
+- [Sweetest Thing by Jody Wisternoff](https://open.spotify.com/track/44mvLsJEYGvKbLbwzbTYpd)
+- [No Stress in Cres by Sound Nomaden](https://open.spotify.com/track/0gRVYjk3IFVQBUtfdoLc5W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
