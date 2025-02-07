@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Left Behind (Oliver Schories Remix) by TWO LANES, Panama, Oliver Schories](https://open.spotify.com/track/56hg2LjYQ9RFp5ffnUPetE)
-- [Your Love by Qrion](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX)
-- [In My Head by Trilucid](https://open.spotify.com/track/1KCqxAWsSoXC9abnWLiYqH)
-- [Alfa by Crackazat](https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V)
-- [Break Silent by David Hasert, Minoas Cirillo](https://open.spotify.com/track/6G9tVTEeSxmJZ80us9Lx3f)
+- [Tears by Bound to Divide, Lauren L&#39;aimant](https://open.spotify.com/track/2dpzs6UBVMvB4zHM6ly1iq)
+- [Again by Saive](https://open.spotify.com/track/5FZHoGKTKpkWeIuGacBLgS)
+- [A Power Over Me by Joseph Ray, Elliot Vast](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di)
+- [Saturday Morning by Rules](https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp)
+- [Indulgence by Nora En Pure](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
