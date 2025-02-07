@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [oceanic (feat. Vagabon) [rebirth] by Logic1000, Vagabon](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
-- [been here before by warner case, Dylan Yem](https://open.spotify.com/track/5LwAKCJlEo30A3DcObcRgW)
-- [Not Forever by AK](https://open.spotify.com/track/71IiKGC3OzbmRcUJEO5rWC)
-- [There For You by Y.V.E. 48](https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z)
+- [On My Way by Massane, Artonal](https://open.spotify.com/track/1oUQXAmLFtTNRIwgRfWOTf)
+- [Tears by Tim Green](https://open.spotify.com/track/5KYdRygDWQcWoFeo6dOBRY)
+- [Karizma by Moe Turk](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM)
+- [Call My Name by Franky Wah, Rae Morris](https://open.spotify.com/track/4vI94CkCfDXotFMcSPujvK)
+- [Need Some Space by birø, ALLKNIGHT](https://open.spotify.com/track/7GLT8yTNRIkSCTVEm6ZjUu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
