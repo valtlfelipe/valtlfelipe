@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [After The Rain - Radio Edit by Fedo Mora, Camurri](https://open.spotify.com/track/4ZLRO2XTyaAEJ8UbfLp21r)
 - [Ascension by Marsh, Volen Sentir](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA)
 - [Lose Control by Double You](https://open.spotify.com/track/4KoWdGiifw8FjMiFg8mWiD)
 - [Cry for You by September](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao)
 - [Children - Club Radio Mix by Dave Darell](https://open.spotify.com/track/58VBHxAElmbrutz9EkUz7G)
-- [On My Way by Massane, Artonal](https://open.spotify.com/track/1oUQXAmLFtTNRIwgRfWOTf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
