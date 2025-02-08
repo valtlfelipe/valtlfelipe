@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [Chasing Paradise by Kygo, OneRepublic](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv)
+- [5AM At Bagleys by Gorgon City](https://open.spotify.com/track/3nKFvxs17ez3awL6S0IS8k)
+- [Run by Elderbrook, Vintage Culture](https://open.spotify.com/track/5dievmIbYB9iazzRM2qgEn)
 - [Angel In The Dark by Anyma, Massano, Nathan Nicholson](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb)
 - [Say My Name - Remix by Morgan Seatree, Florence &#43; The Machine](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32)
-- [It Feels So Good by Matt Sassari, HUGEL, Sonique](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi)
-- [Hot &amp; Mysterious by Austin Millz, Kah-Lo](https://open.spotify.com/track/0fs75XwQHj1mdIWUhvNohh)
-- [Upside Down by Eats Everything](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
