@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [take your vibes and go by Kito, Kah-Lo, brazy, Baauer](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg)
-- [In My Head by Gryffin, Kaskade, Nu-La](https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM)
-- [Next To Me by Don Diablo, MK, Gaby Gerlis](https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO)
-- [Still Into You by CYRIL, maryjo](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL)
-- [Chasing Paradise by Kygo, OneRepublic](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv)
+- [Cheers Mate by Dia Louge](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb)
+- [Pluck Theory by Hans Blu](https://open.spotify.com/track/7MwPgk6XoSyDt2aD6ssCOS)
+- [Relinquish by Daryl Dane](https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy)
+- [Glowing Skyline by Twin Iguana](https://open.spotify.com/track/3dOJoGoX686rDrFnjiYtqn)
+- [Can&#39;t Let You Go by BLOND:ISH, Bantu](https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
