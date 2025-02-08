@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [Angel In The Dark by Anyma, Massano, Nathan Nicholson](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb)
+- [Say My Name - Remix by Morgan Seatree, Florence &#43; The Machine](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32)
+- [It Feels So Good by Matt Sassari, HUGEL, Sonique](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi)
+- [Hot &amp; Mysterious by Austin Millz, Kah-Lo](https://open.spotify.com/track/0fs75XwQHj1mdIWUhvNohh)
 - [Upside Down by Eats Everything](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W)
-- [Body Talk (feat. Clementine Douglas) by Alok, Clementine Douglas](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf)
-- [shake!the!city! by Knock2, Naliya](https://open.spotify.com/track/0AdQigPVEFZrgzdBGHEnuC)
-- [MERTHER by Mau P](https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2)
-- [Focus (feat. CLOVES) by John Summit, CLOVES](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
