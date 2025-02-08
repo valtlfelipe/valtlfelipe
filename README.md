@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Lay It All on Me (feat. Ed Sheeran) by Rudimental, Ed Sheeran](https://open.spotify.com/track/6splO3UF8hSmK33y5fJTNk)
-- [Hula Hoop by OMI](https://open.spotify.com/track/0wsXdby1T3PWLauIkGUZzg)
-- [I Know You Want Me (Calle Ocho) by Pitbull](https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45)
-- [Good Life by OneRepublic](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4)
-- [Trem das Onze by Vitor Bueno](https://open.spotify.com/track/4TjmNdH82Zn3DGTxuRGFuf)
+- [CAN&#39;T STOP THE FEELING! (from DreamWorks Animation&#39;s &#34;TROLLS&#34;) by Justin Timberlake](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc)
+- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
+- [When Love Takes Over (feat. Kelly Rowland) by David Guetta, Kelly Rowland](https://open.spotify.com/track/619bJQ9uDi8dnXzLebFI7y)
+- [My House by Flo Rida](https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1)
+- [Dreams by GABRIELLE](https://open.spotify.com/track/4rV3AYCf4BBBCkIpyLPwUP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
