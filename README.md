@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
-- [Ethnic Wave by Ganger Baster](https://open.spotify.com/track/6Q5Y3MuRFUgVcyczREtHnz)
-- [Just Like A Devil by Jackyl](https://open.spotify.com/track/1QiMqB28k3FS9WvqsNKunh)
-- [I Know a Little (2003 - Live At Amsouth Amphitheatre, TN) by Lynyrd Skynyrd](https://open.spotify.com/track/4oF0t1yTbhbgARvipLApVW)
-- [Eu Não Pertenço À Você by Reação Em Cadeia](https://open.spotify.com/track/0E6nXDxzkdaD0SNRCsQdeA)
+- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
+- [Dixie Highway by The Outlaws](https://open.spotify.com/track/23U5t0XCiBumneuYGntSN1)
+- [Gimme - Reverb Slowed by 毕春喜, HLHS](https://open.spotify.com/track/5HOstobEL1TBbbC42cTR4k)
+- [Trouble Man - Live at Nassau Coliseum, Uniondale, NY - March 1990 by The Highwaymen, Willie Nelson, Johnny Cash, Waylon Jennings, Kris Kristofferson](https://open.spotify.com/track/677WxxyEWuf2Re4SaxjPGH)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
