@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
-- [Thank You (Not So Bad) by Dimitri Vegas &amp; Like Mike, Tiësto, Dido, W&amp;W, Dimitri Vegas, Like Mike](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt)
-- [Be My Lover (feat. La Bouche) - 2023 Mix by Hypaton, David Guetta, La Bouche](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV)
-- [Summertime Blues (feat. Nathan Nicholson) by Chris Lake, Sammy Virji, Nathan Nicholson](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp)
-- [Desire (with Sam Smith) by Calvin Harris, Sam Smith](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv)
+- [Sad Love (feat. JAIKO) by Kayote, Bastyan, JAIKO](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt)
+- [Ethnic Wave by Ganger Baster](https://open.spotify.com/track/6Q5Y3MuRFUgVcyczREtHnz)
+- [Just Like A Devil by Jackyl](https://open.spotify.com/track/1QiMqB28k3FS9WvqsNKunh)
+- [I Know a Little (2003 - Live At Amsouth Amphitheatre, TN) by Lynyrd Skynyrd](https://open.spotify.com/track/4oF0t1yTbhbgARvipLApVW)
+- [Eu Não Pertenço À Você by Reação Em Cadeia](https://open.spotify.com/track/0E6nXDxzkdaD0SNRCsQdeA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
