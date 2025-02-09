@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
-- [Dixie Highway by The Outlaws](https://open.spotify.com/track/23U5t0XCiBumneuYGntSN1)
-- [Gimme - Reverb Slowed by 毕春喜, HLHS](https://open.spotify.com/track/5HOstobEL1TBbbC42cTR4k)
-- [Trouble Man - Live at Nassau Coliseum, Uniondale, NY - March 1990 by The Highwaymen, Willie Nelson, Johnny Cash, Waylon Jennings, Kris Kristofferson](https://open.spotify.com/track/677WxxyEWuf2Re4SaxjPGH)
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h)
+- [Prove It All Night - Live at Madison Square Garden, New York, NY - June/July 2000 by Bruce Springsteen](https://open.spotify.com/track/2tN6w5bSagvt7kL5LiB0p5)
+- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
+- [Rollin&#39; Stoned by Great White](https://open.spotify.com/track/0lmzRoEAZ3OKqnocLC5ByY)
+- [Kryptonite by 3 Doors Down](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6)
+- [What&#39;s Your Name (2003 - Live At Amsouth Amphitheatre, TN) by Lynyrd Skynyrd](https://open.spotify.com/track/5nP46vcnAI3erxYTrehyI4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
