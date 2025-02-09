@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Mammas Don&#39;t Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990 by The Highwaymen, Willie Nelson, Johnny Cash, Waylon Jennings, Kris Kristofferson](https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP)
-- [Slow Hands by Niall Horan](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN)
-- [When The Darkness Comes by Jeris Johnson](https://open.spotify.com/track/6b1z0YOAobJHJNUXGml6i5)
-- [The Look (feat. Blümchen) by Lord Of The Lost, Blümchen](https://open.spotify.com/track/2kB3y4qAJ7t6GNVK4Isu2z)
-- [Walked In by LupoBianco, LAUWE](https://open.spotify.com/track/0RYxiZWFrxlP5dUnsjSoe3)
+- [I Know a Little (2003 - Live At Amsouth Amphitheatre, TN) by Lynyrd Skynyrd](https://open.spotify.com/track/4oF0t1yTbhbgARvipLApVW)
+- [Eu Não Pertenço À Você by Reação Em Cadeia](https://open.spotify.com/track/0E6nXDxzkdaD0SNRCsQdeA)
+- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
+- [Jumento Celestino by Mamonas Assassinas](https://open.spotify.com/track/7xoHOdi16mVPcB0Fd0hRyk)
+- [A mais pedida (feat. Érika Martins) by Raimundos, Érika Martins](https://open.spotify.com/track/349flwjNbqIaE0Mph3jLGD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
