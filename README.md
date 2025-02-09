@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Going Home Alone by Marvin Shadex](https://open.spotify.com/track/7HehjIk9R8k2RTZZnMw1dW)
-- [Dixie Highway by The Outlaws](https://open.spotify.com/track/23U5t0XCiBumneuYGntSN1)
-- [Gimme - Reverb Slowed by 毕春喜, HLHS](https://open.spotify.com/track/5HOstobEL1TBbbC42cTR4k)
-- [Trouble Man - Live at Nassau Coliseum, Uniondale, NY - March 1990 by The Highwaymen, Willie Nelson, Johnny Cash, Waylon Jennings, Kris Kristofferson](https://open.spotify.com/track/677WxxyEWuf2Re4SaxjPGH)
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h)
+- [Pintura íntima by Kid Abelha](https://open.spotify.com/track/4s7Me2OrjR7tIeeiWmZnK5)
+- [Bete Balanço by Barão Vermelho](https://open.spotify.com/track/3j7dPWGbvPBTLWiYvXOS95)
+- [Tempo Perdido by Legião Urbana](https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB)
+- [Meu Erro by Os Paralamas Do Sucesso](https://open.spotify.com/track/6P694ZjCWctbgzgh9qAmW8)
+- [The Bard&#39;s Song - In the Forest - Remastered 2007 by Blind Guardian](https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
