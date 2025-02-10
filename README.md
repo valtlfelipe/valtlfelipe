@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [Passenger by Pausé](https://open.spotify.com/track/08ScAb6KMrEtvSxpQTz9yK)
+- [Home In My Hand by Dirty South, Julia Church](https://open.spotify.com/track/3TAZUZfPkUWwf2ncERajnO)
+- [Sunshine by Tensnake, Panama](https://open.spotify.com/track/0vZSG4Sbbv2xSeHqXEHBsk)
+- [Afterglow by Bob Moses, Kasablanca](https://open.spotify.com/track/1Aic3Xbzma3Nb0sSwqGCdf)
 - [I GOT THAT by P.O.D.](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI)
-- [The Falling Sky by Greta Van Fleet](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn)
-- [Too Close / Too Late by Spiritbox](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3)
-- [Happiness by U2](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR)
-- [72 Seasons by Metallica](https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
