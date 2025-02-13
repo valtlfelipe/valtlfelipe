@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[highlight/highlight](https://github.com/highlight/highlight)** - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Saltwater Dreams by Sum Wave](https://open.spotify.com/track/6pRocudXtLnKRd61gtotIk)
-- [Away With Me by Ross Quinn](https://open.spotify.com/track/0qCkgaivWlgcv6SCSQ2AjY)
-- [Big Sky by Jack Willard](https://open.spotify.com/track/1yv6MpP9hHtPnoxkNGVnUw)
-- [Sea Through Me by ARTO](https://open.spotify.com/track/398nWMrEWkwZUUf4GEEeQL)
-- [Solis Occasum by Tommy Loude](https://open.spotify.com/track/5rxly1bPJsZustp3IiXwtF)
+- [Run Deep - Extended by Nu Aspect](https://open.spotify.com/track/4UBbQTYl5gv4DOIYjsbMdq)
+- [Dancing on the Shoreline by Ayla Jay](https://open.spotify.com/track/4y8aKU52NUd0lPi8Gxq6ru)
+- [I Can&#39;t See - Extended by ROW, Samuel Miller](https://open.spotify.com/track/7v4CkKgv07ZztFpeZDcro3)
+- [Archipelago by André Aguado](https://open.spotify.com/track/1sSb3ybaaZgTz8VjhBNWc6)
+- [Always by Ross Quinn](https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
