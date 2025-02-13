@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Now You&#39;re Gone by ARTO](https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW)
-- [Nous - Extended Mix by Melosense](https://open.spotify.com/track/45UZBJpPcnqVXrtccMGzMu)
-- [Fade Into You by Polar Inc., Linney](https://open.spotify.com/track/4ju5MwqZML5T2GMKPKxxyJ)
-- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
-- [Faded and Pale by VEHA, Teesalu](https://open.spotify.com/track/0JKxOfsBgyp8jYb1fs19p5)
+- [We Belong by ARTO](https://open.spotify.com/track/0jyJnMIS79KdTG6tthJgrt)
+- [Alone by Lipless, Blue Noir](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln)
+- [Highest Love by Sultan &#43; Shepard, LANKS](https://open.spotify.com/track/2amj2auYcmzfTLyQhMTKDr)
+- [AROSE (Mixed) by Lyke](https://open.spotify.com/track/6mfMk6CRotYJfacnWYrx0c)
+- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
