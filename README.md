@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [God Put a Smile upon My Face by Youngr](https://open.spotify.com/track/0UKDqtZFcATkBLbOsTGw3N)
-- [Spring Fever by Mia Vice](https://open.spotify.com/track/5exzj1Laf5Yl3sAq8Thjvb)
-- [Deepest Thoughts by Mantu](https://open.spotify.com/track/3BI9Am4t4QRpavMi47vt48)
-- [Reset by Ben Haydie, Zee Essential, Descend](https://open.spotify.com/track/23f4xgXT53SIQdZLhxvAn1)
-- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) - Extended Mix by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/0n2wfEHL5VtVYodLhNAFwN)
+- [Done Talking - Instrumental Version by NIGHTCAP](https://open.spotify.com/track/57ZljpKeFlkcXy4iPxCqLq)
+- [Para Mi by ARTO](https://open.spotify.com/track/3RFESPIpvob2mdNyHyNcWY)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [Reflections by Melosense](https://open.spotify.com/track/4RYKXNgejydhpRq1Kx2P1K)
+- [Heart of Gold - PIANIKA Remix by TÂCHES, Jackson Englund, Lyell Roeder, PIANIKA](https://open.spotify.com/track/6HrmwkSkuLyUDhhiHzEeDB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
