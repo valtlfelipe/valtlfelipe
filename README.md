@@ -12,11 +12,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 - **[vinceanalytics/vince](https://github.com/vinceanalytics/vince)** - Self Hosted Alternative To Google Analytics (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Done Talking - Instrumental Version by NIGHTCAP](https://open.spotify.com/track/57ZljpKeFlkcXy4iPxCqLq)
-- [Para Mi by ARTO](https://open.spotify.com/track/3RFESPIpvob2mdNyHyNcWY)
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [Reflections by Melosense](https://open.spotify.com/track/4RYKXNgejydhpRq1Kx2P1K)
-- [Heart of Gold - PIANIKA Remix by TÂCHES, Jackson Englund, Lyell Roeder, PIANIKA](https://open.spotify.com/track/6HrmwkSkuLyUDhhiHzEeDB)
+- [Now You&#39;re Gone by ARTO](https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW)
+- [Nous - Extended Mix by Melosense](https://open.spotify.com/track/45UZBJpPcnqVXrtccMGzMu)
+- [Fade Into You by Polar Inc., Linney](https://open.spotify.com/track/4ju5MwqZML5T2GMKPKxxyJ)
+- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
+- [Faded and Pale by VEHA, Teesalu](https://open.spotify.com/track/0JKxOfsBgyp8jYb1fs19p5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
 
