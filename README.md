@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish)** - 🐡 Text Expansions for Fish (1 day ago)
 
 #### 🎧 What I have been listening
-- [never leave by dreem](https://open.spotify.com/track/4k2H47XgGwFsW1zD57hFjX)
-- [Oceade (Tritonia 464) by Dokho](https://open.spotify.com/track/6dyEkYWC8sPvG3UpHYVGgz)
-- [Hold Me Tight by Ourson](https://open.spotify.com/track/6VTEbVqiTuYDoorR8C4N6v)
-- [Corporate Fashion Lounge by Maksym Tkhoryk](https://open.spotify.com/track/6c0rZdGOLrdW822y8qriIa)
-- [Stop by Sebastian Davidson](https://open.spotify.com/track/1j42mGbNyyMGJIoKfoT4nP)
+- [Supermassive - Mixed by Jack Willard](https://open.spotify.com/track/6sBkVR85WefGRrswch9jLz)
+- [Essentialism. by Misc.Inc, Oliver River](https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR)
+- [Eyes Off You - Extended Mix by Polar Inc., XIRA](https://open.spotify.com/track/70NkXpCVnSlKP3neuxiemd)
+- [Moment Apart by Keanler](https://open.spotify.com/track/2vLeJwL2M4J1MmnVeoAaBL)
+- [Give Me Love by Zens, BTRN, Robertson](https://open.spotify.com/track/7wb65yboVZykPRuLJSLAmU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
