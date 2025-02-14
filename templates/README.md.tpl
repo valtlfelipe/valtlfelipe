@@ -1,8 +1,6 @@
-<a href="https://starsense.app/developer-types" target="_blank"><img src="https://starsense.app/api/badge/?user=valtlfelipe" alt="StarSense Badge"></a>
-
 ### Hi there 👋
 
-I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
+I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
 
@@ -17,5 +15,3 @@ I'm [Felipe](https://felipevm.com), currently working as a Engineering Manager a
 {{- end }}
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
-
-
