@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish)** - 🐡 Text Expansions for Fish (1 day ago)
 
 #### 🎧 What I have been listening
+- [Wish You Could Stay by NIGHTCAP](https://open.spotify.com/track/1Oj6RTiv5an9Yprzq7DJnB)
 - [Juno Love by Nico Morano, Mewhy](https://open.spotify.com/track/3FLkS2oPHsvaQUBRCU7pFc)
 - [Wandering Nights by DJ San](https://open.spotify.com/track/6MhG1NtHedKyWUZWGtixxI)
 - [Broke My Heart by Mismatch (UK)](https://open.spotify.com/track/1LzVmxwyn7ASsiFOFW9VOP)
 - [Can You Feel It? by Coffee Cub](https://open.spotify.com/track/5ebQzc6OSS8o4Iztb0cPw2)
-- [Say It by Piece Wise, Abroad](https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
