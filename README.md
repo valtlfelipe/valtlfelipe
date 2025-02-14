@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish)** - 🐡 Text Expansions for Fish (1 day ago)
 
 #### 🎧 What I have been listening
-- [searchingforthelights by Tonic Walter](https://open.spotify.com/track/1Uzc6TAWKBBbp60GDJE1LR)
-- [I&#39;d Rather Be Alone by XYSM, EDGR](https://open.spotify.com/track/3e3NPloQESLLcs1ftn04AV)
-- [Solstice by farfetch&#39;d](https://open.spotify.com/track/1y6EYB29J5PpiA6EEuBaGH)
-- [Little To None by Andrew Nagy, Joel Winterflood](https://open.spotify.com/track/1MRxLdtt4qFQNqH3CnzQHs)
-- [Supermassive - Mixed by Jack Willard](https://open.spotify.com/track/6sBkVR85WefGRrswch9jLz)
+- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
+- [WONDER by me n ü](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s)
+- [To the Unknown by Yescene, Noe&#39; Solange](https://open.spotify.com/track/3PQR8ljh5t6zlHQuRCW4x5)
+- [Cassell by Polar Inc.](https://open.spotify.com/track/68H9sQfYKVZSkIHWIQ1LMg)
+- [I&#39;ll Be There by Sean Blanc](https://open.spotify.com/track/2BWKbYQZOYNn01TS8FSXUU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
