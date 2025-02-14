@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish)** - 🐡 Text Expansions for Fish (1 day ago)
 
 #### 🎧 What I have been listening
-- [Sooner Or Later by Cratouille](https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp)
-- [We Were Wild Once - Extended Mix by Holter &amp; Mogyoro, Farewell Dear Ghost](https://open.spotify.com/track/60uBfAxRvFdRbORdTwTwWB)
-- [Heva by Not Now Please](https://open.spotify.com/track/2aU8KuewLXjAzXckAw1sUb)
-- [Find by aiden](https://open.spotify.com/track/0ahwXxlike9WfVVzhJOdCT)
-- [Sweet Release by Nu Aspect](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq)
+- [Southern Glow by Ran the Man](https://open.spotify.com/track/75LCexY9ogEzKzQBxeFeBf)
+- [Through The Night by André Aguado](https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp)
+- [Swim for Me by Dye O](https://open.spotify.com/track/3OAIYHj1rIJMg7nACZ2mQF)
+- [How Did We Get Here by Andrew Nagy, Lovlee](https://open.spotify.com/track/6rObeWLiabZriNlsKwVt5N)
+- [Words by Nu Aspect](https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
