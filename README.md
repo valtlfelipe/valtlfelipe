@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[fosrl/pangolin](https://github.com/fosrl/pangolin)** - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (today)
 - **[pure-fish/pure](https://github.com/pure-fish/pure)** - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (1 day ago)
 - **[IlanCosman/tide](https://github.com/IlanCosman/tide)** - 🌊 The ultimate Fish prompt. (1 day ago)
 - **[bluesky-social/jetstream](https://github.com/bluesky-social/jetstream)** - A simplified JSON event stream for AT Proto (2 days ago)
 - **[justserdar/nuxt-creem](https://github.com/justserdar/nuxt-creem)** - This Nuxt module provides an easy way to integrate Creem.io into your Nuxt application. It utilizes the official Creem.io API for server-side operations. (2 days ago)
-- **[nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish)** - 🐡 Text Expansions for Fish (2 days ago)
 
 #### 🎧 What I have been listening
 - [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
