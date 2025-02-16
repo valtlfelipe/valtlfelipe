@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[pure-fish/pure](https://github.com/pure-fish/pure)** - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (2 days ago)
 
 #### 🎧 What I have been listening
-- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
-- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
-- [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/7EH2enDP1q3upRqctbOz3n)
-- [Good Feeling by Flo Rida](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8)
-- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
+- [Words - Extended by Nu Aspect](https://open.spotify.com/track/1aOhHEqxaIPe2mCboC0ETN)
+- [Best Friend (Never Let Me Down) by Bolier](https://open.spotify.com/track/570qUweM1PIJgVGULARgw5)
+- [Heart of Gold - PIANIKA Remix by TÂCHES, Jackson Englund, Lyell Roeder, PIANIKA](https://open.spotify.com/track/6HrmwkSkuLyUDhhiHzEeDB)
+- [Between Us by Tomas Skyldeberg](https://open.spotify.com/track/3qQa0CHSvgYUoeP5RnD8bU)
+- [On My Way - Chill Mix by Kaskade](https://open.spotify.com/track/6uV61BzrjlVwmbpZs9WvQi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
