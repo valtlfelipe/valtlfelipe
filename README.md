@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[pure-fish/pure](https://github.com/pure-fish/pure)** - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (2 days ago)
 
 #### 🎧 What I have been listening
+- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
+- [Lay It All on Me (feat. Ed Sheeran) by Rudimental, Ed Sheeran](https://open.spotify.com/track/6splO3UF8hSmK33y5fJTNk)
+- [Cake By The Ocean by DNCE](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC)
+- [Cake By The Ocean by DNCE](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC)
 - [Words - Extended by Nu Aspect](https://open.spotify.com/track/1aOhHEqxaIPe2mCboC0ETN)
-- [Best Friend (Never Let Me Down) by Bolier](https://open.spotify.com/track/570qUweM1PIJgVGULARgw5)
-- [Heart of Gold - PIANIKA Remix by TÂCHES, Jackson Englund, Lyell Roeder, PIANIKA](https://open.spotify.com/track/6HrmwkSkuLyUDhhiHzEeDB)
-- [Between Us by Tomas Skyldeberg](https://open.spotify.com/track/3qQa0CHSvgYUoeP5RnD8bU)
-- [On My Way - Chill Mix by Kaskade](https://open.spotify.com/track/6uV61BzrjlVwmbpZs9WvQi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
