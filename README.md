@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[pure-fish/pure](https://github.com/pure-fish/pure)** - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (3 days ago)
 
 #### 🎧 What I have been listening
+- [Kaku by Badjack, MANI](https://open.spotify.com/track/4arkv3EGjTJCpeOeza1FAx)
+- [I Love You by Patrick Lite, Vitaly Gray](https://open.spotify.com/track/33vdDZDNBKsllkbZXFYUD4)
+- [Duvida by Saint Tropics](https://open.spotify.com/track/3KhRsuQ7tkEOkjhLeVwz4u)
+- [Innerbloom by Weir, Tanner Fruit, Cassie Wilson](https://open.spotify.com/track/3g0ttBqaTLUPzrj3KeHTgd)
 - [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
-- [Scatman (ski-ba-bop-ba-dop-bop) by Scatman John](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh)
-- [I Gotta Feeling by Black Eyed Peas](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR)
-- [Stay (feat. Maty Noyes) by Kygo, Maty Noyes](https://open.spotify.com/track/7gBj0VgcuAgkXkiRRYvSmK)
-- [King by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
