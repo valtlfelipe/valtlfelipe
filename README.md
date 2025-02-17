@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[pure-fish/pure](https://github.com/pure-fish/pure)** - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure (3 days ago)
 
 #### 🎧 What I have been listening
+- [Pigeon Lake by Daniel Steidtmann](https://open.spotify.com/track/7yvZgPEl80idsm6i5zs47W)
+- [Alouma by UOAK, CallumCantSleep](https://open.spotify.com/track/2tTicbDuCXvjeRUJWcycEt)
+- [Juno Love by Nico Morano, Mewhy](https://open.spotify.com/track/3FLkS2oPHsvaQUBRCU7pFc)
 - [Innerbloom by Weir, Tanner Fruit, Cassie Wilson](https://open.spotify.com/track/3g0ttBqaTLUPzrj3KeHTgd)
 - [Walk Away (MVCA Remix) by Julietta, MVCA](https://open.spotify.com/track/16rhfXyIkPkKOefeXIrE66)
-- [Shine by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7KM7AeGDIWKxrMN7E4ljRA)
-- [Kaku by Badjack, MANI](https://open.spotify.com/track/4arkv3EGjTJCpeOeza1FAx)
-- [I Love You by Patrick Lite, Vitaly Gray](https://open.spotify.com/track/33vdDZDNBKsllkbZXFYUD4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
