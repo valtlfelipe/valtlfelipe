@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[henrygd/beszel](https://github.com/henrygd/beszel)** - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Breathe by VisionV, Kiiwi](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8)
-- [Whatever (with Ava Max) - Klangkarussell Remix by Kygo, Klangkarussell](https://open.spotify.com/track/44pNIf7jXvqEcjcf59q2TJ)
-- [Breathe by JAS1X, Golowko](https://open.spotify.com/track/76RSDJum61eM5g49wIE8j9)
-- [Treasure by Blu Attic, Parallel Voices, ved](https://open.spotify.com/track/4TaeMT5Z7pKKIAVsWIJVBU)
-- [Memories by Ferjo De Gery](https://open.spotify.com/track/5o2IZigBlkgVHePDgJXOco)
+- [Shadows by Panuma, TwoWorldsApart, Dan Soleil](https://open.spotify.com/track/73ts8OmqhuvzrwAP3qFGwC)
+- [Jupiter by Abroad](https://open.spotify.com/track/20V6Rd5HMa9fP9bt56lgdd)
+- [Tell Me - Extended by Falden, Fare](https://open.spotify.com/track/5ybzwoZUSwa7Iohv5Omt2P)
+- [Raymo by MXV](https://open.spotify.com/track/7zpxgaoaixzogb59CJy3EV)
+- [Can You See by UOAK, Jope](https://open.spotify.com/track/7CRdvO49IiymJSzodIur4f)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
