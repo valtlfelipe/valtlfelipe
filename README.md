@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lupomontero/psl](https://github.com/lupomontero/psl)** - JavaScript domain name parser based on the Public Suffix List (3 days ago)
 
 #### 🎧 What I have been listening
-- [Mirage by Dye O](https://open.spotify.com/track/23OkFq80s4pbMSP33qYTuB)
-- [AROSE - Extended Mix by Lyke](https://open.spotify.com/track/15TDCivmjhmQL1VER0cV8L)
-- [Floating by Panuma, Kayla](https://open.spotify.com/track/5S7gO8HL9hvYPBxp1nz0Xc)
-- [Slowly by Abroad](https://open.spotify.com/track/4R2k0jJXI6KcZjUaSVCWH0)
-- [Neverland by Avi Snow, Sync, KOIL](https://open.spotify.com/track/4SG5yceUikHS7sQ3Ugy6c3)
+- [Blue Marlin by Café Du MIDI](https://open.spotify.com/track/3mva2lp2Cm6W9gnoqStyhC)
+- [We Belong by ARTO](https://open.spotify.com/track/0jyJnMIS79KdTG6tthJgrt)
+- [Say It by Piece Wise, Abroad](https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt)
+- [Run Deep by Nu Aspect](https://open.spotify.com/track/4gBkrpJoPBZKY0T1gyJ4iU)
+- [Waking Life by Thom Merlin](https://open.spotify.com/track/6CmALZQI0RuznERCsXGJL1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
