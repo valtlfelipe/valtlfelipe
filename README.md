@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lupomontero/psl](https://github.com/lupomontero/psl)** - JavaScript domain name parser based on the Public Suffix List (3 days ago)
 
 #### 🎧 What I have been listening
-- [Run Deep - Extended by Nu Aspect](https://open.spotify.com/track/4UBbQTYl5gv4DOIYjsbMdq)
-- [Alouma by UOAK, CallumCantSleep](https://open.spotify.com/track/2tTicbDuCXvjeRUJWcycEt)
-- [Waiting by Naws, Krysta Youngs](https://open.spotify.com/track/6HPN1q4XGQwtHnZYhyry2J)
-- [We Keep Coming Back by MXV, djimboh](https://open.spotify.com/track/5J6POzF23aYsZGyRRdfLCJ)
-- [Change by Abroad](https://open.spotify.com/track/15Ow2PvOPr3Qf2yLgVSZBu)
+- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
+- [Fly Home by UOAK, Ceci, Matt Leger](https://open.spotify.com/track/56uvUDBTcVXAlkIdcEG4Ec)
+- [Disconnected by Naws](https://open.spotify.com/track/38eLdh3v9ABbWh05ndzVpF)
+- [Teenage Heart by Jones Meadow, Nina Carr](https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a)
+- [Our Love by Abroad](https://open.spotify.com/track/5OsteYAkta5T6mfLEdJ4NQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
