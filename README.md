@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lupomontero/psl](https://github.com/lupomontero/psl)** - JavaScript domain name parser based on the Public Suffix List (3 days ago)
 
 #### 🎧 What I have been listening
-- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
-- [Fly Home by UOAK, Ceci, Matt Leger](https://open.spotify.com/track/56uvUDBTcVXAlkIdcEG4Ec)
-- [Disconnected by Naws](https://open.spotify.com/track/38eLdh3v9ABbWh05ndzVpF)
-- [Teenage Heart by Jones Meadow, Nina Carr](https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a)
-- [Our Love by Abroad](https://open.spotify.com/track/5OsteYAkta5T6mfLEdJ4NQ)
+- [Mirage by Dye O](https://open.spotify.com/track/23OkFq80s4pbMSP33qYTuB)
+- [AROSE - Extended Mix by Lyke](https://open.spotify.com/track/15TDCivmjhmQL1VER0cV8L)
+- [Floating by Panuma, Kayla](https://open.spotify.com/track/5S7gO8HL9hvYPBxp1nz0Xc)
+- [Slowly by Abroad](https://open.spotify.com/track/4R2k0jJXI6KcZjUaSVCWH0)
+- [Neverland by Avi Snow, Sync, KOIL](https://open.spotify.com/track/4SG5yceUikHS7sQ3Ugy6c3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
