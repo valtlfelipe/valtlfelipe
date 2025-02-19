@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)** - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
 
 #### 🎧 What I have been listening
-- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
-- [Straight To LA by Thom Merlin, Raïko](https://open.spotify.com/track/5pzsLJOWNvef2OFcYqPmi3)
-- [Stay by Falden](https://open.spotify.com/track/4z2DiFW5DlkVrG5lM4hOvM)
-- [My Place by Fabio Vee](https://open.spotify.com/track/4pbp77vYtisGTGusfZRVjh)
-- [Wash Away by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/0x973wsmuY1Ub96Z4vVHLq)
+- [To the Unknown by Yescene, Noe&#39; Solange](https://open.spotify.com/track/3PQR8ljh5t6zlHQuRCW4x5)
+- [Gypsy Woman by Vic Laos, Emilie McDade](https://open.spotify.com/track/6RY0DRzzioX4wjkc47iL8N)
+- [Shaking Hands by Panuma, Aludra](https://open.spotify.com/track/6Gu2hmGJXRiLivaDUim9Vs)
+- [Maybe It&#39;s You by Diego Rimbaud](https://open.spotify.com/track/5cLU488pm7kWl0ODQmgI8T)
+- [This Is Love by Ourson](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
