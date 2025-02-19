@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)** - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
 
 #### 🎧 What I have been listening
-- [Leave Me by secondsun](https://open.spotify.com/track/5X2hvBLLk9nPbSWsoy17TL)
-- [Venice Beach by Kozua](https://open.spotify.com/track/3S1ANvfLwD21P0A8Jvy6LX)
-- [When You Want It by Damaui](https://open.spotify.com/track/1WZhY0v1jfC7AoROmRVInh)
-- [Altea Y Lanzarote - Thom Merlin Afro House Edit by Thom Merlin, Koa](https://open.spotify.com/track/6sOHdjZhRT45T0L3PqAOSu)
-- [Diva by Alex Deeper](https://open.spotify.com/track/3YD2yOyUWckdffEhOjbikf)
+- [Strings Attached - Extended by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/68FcC7rZFftR7krAKayPlq)
+- [Give Me Love by Zens, BTRN, Robertson](https://open.spotify.com/track/7wb65yboVZykPRuLJSLAmU)
+- [Metaphysical by Panuma, Alande, Nina Carr](https://open.spotify.com/track/3ZBWNN7focL8SRvLePFiKp)
+- [Shelter by Heard Right](https://open.spotify.com/track/1g5v7prEvy1025EjEkLiEC)
+- [In Time by Jad Alexander, Fractures](https://open.spotify.com/track/57X6QLqPNqe7za0praP5tj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
