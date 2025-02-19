@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)** - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
 
 #### 🎧 What I have been listening
-- [I Need Your Love by Mandarin Plaza](https://open.spotify.com/track/0XGQMDDtkZBNPZoSlBViZ1)
-- [Afterglow by Klangkarussell, GIVVEN](https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7)
-- [Out Of Time by Ross Quinn](https://open.spotify.com/track/51cgJEFd8FPzkUZeXyV1rp)
-- [You Make Me Feel Alive by Fabio Vee](https://open.spotify.com/track/30O8RbU8FldyPXDfvp289U)
-- [Deepest by Alex Deeper, Mary S.K.](https://open.spotify.com/track/10IVn2GFQFWWpYKmEjgNrc)
+- [High On Love by Falden, Renze](https://open.spotify.com/track/57zJmqa0l3pwYPWv6QArz3)
+- [Let It Go by Ross Quinn](https://open.spotify.com/track/6vs2JoHlRqH5OmgUNFPrGi)
+- [Poeesa by Max Marchisio, Gaia Rose](https://open.spotify.com/track/5KLP2FyJSfblAywALeXxYU)
+- [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
+- [Don&#39;t Be Shine by Fly O Tech](https://open.spotify.com/track/74DM7deFNImqP9G0dMEj1U)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
