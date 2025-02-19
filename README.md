@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)** - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
 
 #### 🎧 What I have been listening
-- [Strings Attached - Extended by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/68FcC7rZFftR7krAKayPlq)
-- [Give Me Love by Zens, BTRN, Robertson](https://open.spotify.com/track/7wb65yboVZykPRuLJSLAmU)
-- [Metaphysical by Panuma, Alande, Nina Carr](https://open.spotify.com/track/3ZBWNN7focL8SRvLePFiKp)
-- [Shelter by Heard Right](https://open.spotify.com/track/1g5v7prEvy1025EjEkLiEC)
-- [In Time by Jad Alexander, Fractures](https://open.spotify.com/track/57X6QLqPNqe7za0praP5tj)
+- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
+- [Straight To LA by Thom Merlin, Raïko](https://open.spotify.com/track/5pzsLJOWNvef2OFcYqPmi3)
+- [Stay by Falden](https://open.spotify.com/track/4z2DiFW5DlkVrG5lM4hOvM)
+- [My Place by Fabio Vee](https://open.spotify.com/track/4pbp77vYtisGTGusfZRVjh)
+- [Wash Away by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/0x973wsmuY1Ub96Z4vVHLq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
