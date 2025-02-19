@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)** - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
 
 #### 🎧 What I have been listening
-- [High On Love by Falden, Renze](https://open.spotify.com/track/57zJmqa0l3pwYPWv6QArz3)
-- [Let It Go by Ross Quinn](https://open.spotify.com/track/6vs2JoHlRqH5OmgUNFPrGi)
-- [Poeesa by Max Marchisio, Gaia Rose](https://open.spotify.com/track/5KLP2FyJSfblAywALeXxYU)
-- [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
-- [Don&#39;t Be Shine by Fly O Tech](https://open.spotify.com/track/74DM7deFNImqP9G0dMEj1U)
+- [Enlightenment by MXV](https://open.spotify.com/track/4oT0X49TqvE9SgS0iWKHc5)
+- [Fuse by aiden, Tom Bailey](https://open.spotify.com/track/4t98oZ446ObFhBEF5T0LGw)
+- [Relevance by Naws](https://open.spotify.com/track/3YPmmVcyoj992loM9lyyFS)
+- [Always by Ross Quinn](https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE)
+- [Untamed by 6sept, Afnan Prince](https://open.spotify.com/track/0w2TCDxeJs053BojGKsYI3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
