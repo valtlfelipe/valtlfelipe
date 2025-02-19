@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)** - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
 
 #### 🎧 What I have been listening
-- [Places We&#39;ve Never Been by Ourson, MEGGO](https://open.spotify.com/track/422OmmECEfVybbV3z5YF9q)
-- [Never Been - Chill Mix by Deep Deluxe](https://open.spotify.com/track/0GzlkW3cuVSlwA9abs7zcc)
-- [To the Unknown by Yescene, Noe&#39; Solange](https://open.spotify.com/track/3PQR8ljh5t6zlHQuRCW4x5)
-- [Gypsy Woman by Vic Laos, Emilie McDade](https://open.spotify.com/track/6RY0DRzzioX4wjkc47iL8N)
-- [Shaking Hands by Panuma, Aludra](https://open.spotify.com/track/6Gu2hmGJXRiLivaDUim9Vs)
+- [I Need Your Love by Mandarin Plaza](https://open.spotify.com/track/0XGQMDDtkZBNPZoSlBViZ1)
+- [Afterglow by Klangkarussell, GIVVEN](https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7)
+- [Out Of Time by Ross Quinn](https://open.spotify.com/track/51cgJEFd8FPzkUZeXyV1rp)
+- [You Make Me Feel Alive by Fabio Vee](https://open.spotify.com/track/30O8RbU8FldyPXDfvp289U)
+- [Deepest by Alex Deeper, Mary S.K.](https://open.spotify.com/track/10IVn2GFQFWWpYKmEjgNrc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
