@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)** - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
 
 #### 🎧 What I have been listening
-- [Fantasy by Ferjo De Gery, M.a.o.s. Beats](https://open.spotify.com/track/4xYInCM3QwWnS3Q0rSTDkB)
-- [All We Ever Do by Keanler, Leo Stannard](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw)
-- [Midnight Cherry by Café Du MIDI, Jay Nemor](https://open.spotify.com/track/0cmTnG9H3HHxcH9l316WSX)
-- [I Can&#39;t See - Extended by ROW, Samuel Miller](https://open.spotify.com/track/7v4CkKgv07ZztFpeZDcro3)
-- [Glow by Holen, Garlington](https://open.spotify.com/track/0agNugvVObWqrc4TBHoe59)
+- [Leave Me by secondsun](https://open.spotify.com/track/5X2hvBLLk9nPbSWsoy17TL)
+- [Venice Beach by Kozua](https://open.spotify.com/track/3S1ANvfLwD21P0A8Jvy6LX)
+- [When You Want It by Damaui](https://open.spotify.com/track/1WZhY0v1jfC7AoROmRVInh)
+- [Altea Y Lanzarote - Thom Merlin Afro House Edit by Thom Merlin, Koa](https://open.spotify.com/track/6sOHdjZhRT45T0L3PqAOSu)
+- [Diva by Alex Deeper](https://open.spotify.com/track/3YD2yOyUWckdffEhOjbikf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
