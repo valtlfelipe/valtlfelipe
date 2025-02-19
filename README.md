@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)** - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
 
 #### 🎧 What I have been listening
+- [Places We&#39;ve Never Been by Ourson, MEGGO](https://open.spotify.com/track/422OmmECEfVybbV3z5YF9q)
+- [Never Been - Chill Mix by Deep Deluxe](https://open.spotify.com/track/0GzlkW3cuVSlwA9abs7zcc)
 - [To the Unknown by Yescene, Noe&#39; Solange](https://open.spotify.com/track/3PQR8ljh5t6zlHQuRCW4x5)
 - [Gypsy Woman by Vic Laos, Emilie McDade](https://open.spotify.com/track/6RY0DRzzioX4wjkc47iL8N)
 - [Shaking Hands by Panuma, Aludra](https://open.spotify.com/track/6Gu2hmGJXRiLivaDUim9Vs)
-- [Maybe It&#39;s You by Diego Rimbaud](https://open.spotify.com/track/5cLU488pm7kWl0ODQmgI8T)
-- [This Is Love by Ourson](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
