@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nizzyabi/Mail0](https://github.com/nizzyabi/Mail0)** - open source gmail alternative (coming soon). join the discord: https://discord.gg/adkjqMUK (1 day ago)
 
 #### 🎧 What I have been listening
-- [Lotus by Tommy Loude](https://open.spotify.com/track/7wxDGT1TxqAQeMgSjVycfS)
-- [Body by 6sept, aiden](https://open.spotify.com/track/2OYfzPLOK48tpQmhy0duHm)
-- [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
-- [Raindrops by Tolga Mahmut](https://open.spotify.com/track/53JEvpQWyUQNmcW7baN2Vo)
-- [Godspeed by Maone, Sam Welch](https://open.spotify.com/track/3xbVLhTrZH7tlEnMnMhLMr)
+- [Tell Me - Extended by Falden, Fare](https://open.spotify.com/track/5ybzwoZUSwa7Iohv5Omt2P)
+- [Talk It Over by Yorina, warner case](https://open.spotify.com/track/0XafrYWJ9cIiJW5klEDHAa)
+- [Chase the Sun by La Giang](https://open.spotify.com/track/24Yz9uDygbyWGhnxpfvHKN)
+- [Sundays In June by MXV](https://open.spotify.com/track/1v8v7qoxmiKMHCgeAsD1Am)
+- [Pigeon Lake by Daniel Steidtmann](https://open.spotify.com/track/7yvZgPEl80idsm6i5zs47W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
