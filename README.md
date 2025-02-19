@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nizzyabi/Mail0](https://github.com/nizzyabi/Mail0)** - open source gmail alternative (coming soon). join the discord: https://discord.gg/adkjqMUK (1 day ago)
 
 #### 🎧 What I have been listening
-- [Tell Me - Extended by Falden, Fare](https://open.spotify.com/track/5ybzwoZUSwa7Iohv5Omt2P)
-- [Talk It Over by Yorina, warner case](https://open.spotify.com/track/0XafrYWJ9cIiJW5klEDHAa)
-- [Chase the Sun by La Giang](https://open.spotify.com/track/24Yz9uDygbyWGhnxpfvHKN)
-- [Sundays In June by MXV](https://open.spotify.com/track/1v8v7qoxmiKMHCgeAsD1Am)
-- [Pigeon Lake by Daniel Steidtmann](https://open.spotify.com/track/7yvZgPEl80idsm6i5zs47W)
+- [I Love You by Patrick Lite, Vitaly Gray](https://open.spotify.com/track/33vdDZDNBKsllkbZXFYUD4)
+- [Best Friend (Never Let Me Down) by Bolier](https://open.spotify.com/track/570qUweM1PIJgVGULARgw5)
+- [Creep by Filogy, Briana Timari, Danny Burg](https://open.spotify.com/track/4V1UIphkLDWNybh1Asyowk)
+- [I Don&#39;t Wanna Be Alone by DJ Style, Francoise Sanders](https://open.spotify.com/track/65VkCZYwAo3HFpa1H20ua1)
+- [What I Need - Radio Cut by Mika Olson, Jermaine Fleur](https://open.spotify.com/track/0x9Vs4wnuW5Juzq22pSkYy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
