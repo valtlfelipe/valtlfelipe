@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Mail-0/Mail-0](https://github.com/Mail-0/Mail-0)** - open source gmail alternative (coming soon). join the discord: https://discord.gg/adkjqMUK (2 days ago)
 
 #### 🎧 What I have been listening
-- [Fall Forward by ARTO](https://open.spotify.com/track/6kJC3RXlNGCmqqWfx1I0WO)
-- [Talk It Over by Yorina, warner case](https://open.spotify.com/track/0XafrYWJ9cIiJW5klEDHAa)
-- [Be Mine - Radio Edit by Alex Kentucky, Zhanna Ona](https://open.spotify.com/track/4WV3g9bv58HmG9Ftlka68m)
-- [My Time by Naws](https://open.spotify.com/track/1QFKOdlrnzZu0hg91IgaDe)
-- [Húmido by Café Du MIDI](https://open.spotify.com/track/4vdmkxdMnBg4CLziDfl16q)
+- [One for Me by Retrac](https://open.spotify.com/track/72wAXN8FFG7daJ2Pc9GKUZ)
+- [Want Me by Late Man](https://open.spotify.com/track/3sm4pTsg48UncwfwhPfWpb)
+- [Hold My Breath by Misc.Inc, Oliver River, Senes](https://open.spotify.com/track/1LQb3f8mJZngeWMxBhspXm)
+- [My Way by horn &amp; bermann](https://open.spotify.com/track/007GrN20DmVcGpxhF8Kdjo)
+- [Departure by Blu Attic, Jujh](https://open.spotify.com/track/3kOnfwdMyw9mOuYUSOFGR0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
