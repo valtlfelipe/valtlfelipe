@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Mail-0/Mail-0](https://github.com/Mail-0/Mail-0)** - open source gmail alternative (coming soon). join the discord: https://discord.gg/adkjqMUK (2 days ago)
 
 #### 🎧 What I have been listening
+- [Alouma by UOAK, CallumCantSleep](https://open.spotify.com/track/2tTicbDuCXvjeRUJWcycEt)
 - [Waiting by Naws, Krysta Youngs](https://open.spotify.com/track/6HPN1q4XGQwtHnZYhyry2J)
 - [We Keep Coming Back by MXV, djimboh](https://open.spotify.com/track/5J6POzF23aYsZGyRRdfLCJ)
 - [Change by Abroad](https://open.spotify.com/track/15Ow2PvOPr3Qf2yLgVSZBu)
 - [We Were Wild Once - Extended Mix by Holter &amp; Mogyoro, Farewell Dear Ghost](https://open.spotify.com/track/60uBfAxRvFdRbORdTwTwWB)
-- [Moving On by Spark030](https://open.spotify.com/track/25ANK11yNrLh9FMZCEFWiG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
