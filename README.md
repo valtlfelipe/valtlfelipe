@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Mail-0/Mail-0](https://github.com/Mail-0/Mail-0)** - open source gmail alternative (coming soon). join the discord: https://discord.gg/adkjqMUK (2 days ago)
 
 #### 🎧 What I have been listening
-- [Coming Up (Hold On) (Tritonia 414) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/54MhDL8Q3zAvXXQLhbncU9)
-- [Precious Time by MXV, Yasin](https://open.spotify.com/track/7tEtQEA5Jl7oMs3pacLNTc)
-- [On The Edge by UOAK, Damaui, Lisa Mechelina](https://open.spotify.com/track/2S2Sd6cTqg1sCcrUtGWInb)
-- [Deep Into The Blue - Radio Edit by Night Breeze, Dias Ridge](https://open.spotify.com/track/6ev5q8vaTxhCQWEDtaliK3)
-- [Shadows by Panuma, TwoWorldsApart, Dan Soleil](https://open.spotify.com/track/73ts8OmqhuvzrwAP3qFGwC)
+- [Change by Abroad](https://open.spotify.com/track/15Ow2PvOPr3Qf2yLgVSZBu)
+- [We Were Wild Once - Extended Mix by Holter &amp; Mogyoro, Farewell Dear Ghost](https://open.spotify.com/track/60uBfAxRvFdRbORdTwTwWB)
+- [Moving On by Spark030](https://open.spotify.com/track/25ANK11yNrLh9FMZCEFWiG)
+- [Love or Lust by UOAK, Lara Nord, Ceci](https://open.spotify.com/track/23j6H6ro9ROzREhMDhcRbM)
+- [Leaving by Naws, Leo Wood](https://open.spotify.com/track/3yVsJMfcWrASEI4Fv7stRe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
