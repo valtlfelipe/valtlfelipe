@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Mail-0/Mail-0](https://github.com/Mail-0/Mail-0)** - open source gmail alternative (coming soon). join the discord: https://discord.gg/adkjqMUK (2 days ago)
 
 #### 🎧 What I have been listening
-- [Memories - M.a.o.s. Beats Remix by Ferjo De Gery, M.a.o.s. Beats](https://open.spotify.com/track/64IXNJQpqMiDNgaWwMsLCU)
-- [Emote by Naws](https://open.spotify.com/track/62ANOXW6BoFihaxKex8ArL)
-- [Another Lie by Panuma, Vice Vrsa, Mark Vayne](https://open.spotify.com/track/7L7K5rblvGEuRGGJLyR6lV)
-- [Conversation by Abroad](https://open.spotify.com/track/3WbrwpnYWEGDcEvJ5AtKPh)
-- [Fall For Me by NORRA](https://open.spotify.com/track/5QXYVJJcrQ6iNPSmWl1WAR)
+- [Fall Forward by ARTO](https://open.spotify.com/track/6kJC3RXlNGCmqqWfx1I0WO)
+- [Talk It Over by Yorina, warner case](https://open.spotify.com/track/0XafrYWJ9cIiJW5klEDHAa)
+- [Be Mine - Radio Edit by Alex Kentucky, Zhanna Ona](https://open.spotify.com/track/4WV3g9bv58HmG9Ftlka68m)
+- [My Time by Naws](https://open.spotify.com/track/1QFKOdlrnzZu0hg91IgaDe)
+- [Húmido by Café Du MIDI](https://open.spotify.com/track/4vdmkxdMnBg4CLziDfl16q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
