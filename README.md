@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Mail-0/Mail-0](https://github.com/Mail-0/Mail-0)** - open source gmail alternative (coming soon). join the discord: https://discord.gg/adkjqMUK (2 days ago)
 
 #### 🎧 What I have been listening
-- [This Dance by Lou Wilson](https://open.spotify.com/track/1Jl9uIFODn3EEiVzu9cycy)
-- [Bottles &amp; Bay (Freakpass Remix) by Panuma, Nina Carr, FREAKPASS](https://open.spotify.com/track/1hNE9ih7kmerbUbfLcDH5G)
-- [I Love You by Patrick Lite, Vitaly Gray](https://open.spotify.com/track/33vdDZDNBKsllkbZXFYUD4)
-- [Best Friend (Never Let Me Down) by Bolier](https://open.spotify.com/track/570qUweM1PIJgVGULARgw5)
-- [Creep by Filogy, Briana Timari, Danny Burg](https://open.spotify.com/track/4V1UIphkLDWNybh1Asyowk)
+- [Sundays In June by MXV](https://open.spotify.com/track/1v8v7qoxmiKMHCgeAsD1Am)
+- [The World by Abroad](https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7)
+- [Kaku by Badjack, MANI](https://open.spotify.com/track/4arkv3EGjTJCpeOeza1FAx)
+- [Before Dawn by Something Good, Yotto, Sansa](https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc)
+- [What A Day by Malte Herbst](https://open.spotify.com/track/6NPqQ9t8WV3NrxfEqlt1Lj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
