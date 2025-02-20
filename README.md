@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Mail-0/Mail-0](https://github.com/Mail-0/Mail-0)** - open source gmail alternative (coming soon). join the discord: https://discord.gg/adkjqMUK (2 days ago)
 
 #### 🎧 What I have been listening
-- [One for Me by Retrac](https://open.spotify.com/track/72wAXN8FFG7daJ2Pc9GKUZ)
-- [Want Me by Late Man](https://open.spotify.com/track/3sm4pTsg48UncwfwhPfWpb)
-- [Hold My Breath by Misc.Inc, Oliver River, Senes](https://open.spotify.com/track/1LQb3f8mJZngeWMxBhspXm)
-- [My Way by horn &amp; bermann](https://open.spotify.com/track/007GrN20DmVcGpxhF8Kdjo)
-- [Departure by Blu Attic, Jujh](https://open.spotify.com/track/3kOnfwdMyw9mOuYUSOFGR0)
+- [The Otherside by Ross Quinn](https://open.spotify.com/track/6dVaPIowc4SX9Qm3Zj2KQq)
+- [Something Real by Damaui](https://open.spotify.com/track/5aEoonreKXe3GVFoskItBo)
+- [Bakerman by SRTW, nourii, Dominic Neill](https://open.spotify.com/track/1ewLR3TEW620koUoDOE3FY)
+- [Tangole by Max Marchisio](https://open.spotify.com/track/1CiS161mZAEMqpiZcctIxU)
+- [Summertime - Chillside Remix by Traumton, ENTT, Chillside](https://open.spotify.com/track/1e25oJ7EErjmDLFrxBmZX5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
