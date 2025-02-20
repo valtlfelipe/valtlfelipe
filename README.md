@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Mail-0/Mail-0](https://github.com/Mail-0/Mail-0)** - open source gmail alternative (coming soon). join the discord: https://discord.gg/adkjqMUK (2 days ago)
 
 #### 🎧 What I have been listening
+- [This Dance by Lou Wilson](https://open.spotify.com/track/1Jl9uIFODn3EEiVzu9cycy)
+- [Bottles &amp; Bay (Freakpass Remix) by Panuma, Nina Carr, FREAKPASS](https://open.spotify.com/track/1hNE9ih7kmerbUbfLcDH5G)
 - [I Love You by Patrick Lite, Vitaly Gray](https://open.spotify.com/track/33vdDZDNBKsllkbZXFYUD4)
 - [Best Friend (Never Let Me Down) by Bolier](https://open.spotify.com/track/570qUweM1PIJgVGULARgw5)
 - [Creep by Filogy, Briana Timari, Danny Burg](https://open.spotify.com/track/4V1UIphkLDWNybh1Asyowk)
-- [I Don&#39;t Wanna Be Alone by DJ Style, Francoise Sanders](https://open.spotify.com/track/65VkCZYwAo3HFpa1H20ua1)
-- [What I Need - Radio Cut by Mika Olson, Jermaine Fleur](https://open.spotify.com/track/0x9Vs4wnuW5Juzq22pSkYy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
