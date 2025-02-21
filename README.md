@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Mail-0/Mail-0](https://github.com/Mail-0/Mail-0)** - open source gmail alternative (coming soon). join the discord: discord.gg/0email (3 days ago)
 
 #### 🎧 What I have been listening
-- [Wash Away by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/0x973wsmuY1Ub96Z4vVHLq)
-- [Azur by Café Du MIDI](https://open.spotify.com/track/6xFYjmQKprAkOeBXWmrGsV)
-- [Away With Me by Ross Quinn](https://open.spotify.com/track/0qCkgaivWlgcv6SCSQ2AjY)
-- [Something Missing You by Alex Deeper](https://open.spotify.com/track/5A6SDxlgbqW6afVrH6jVWC)
-- [Your Eyes - Part II by Avi Snow, MVCA, iRO](https://open.spotify.com/track/0vkO2Ft19ZJntqsQly5YVr)
+- [House Of The Sun by Mojave Grey](https://open.spotify.com/track/0oM1hIQNkooh9yvwFOPvWm)
+- [All That I Had by Teddy Beats](https://open.spotify.com/track/5Rv7rAAORQoJoWiMpAZhS7)
+- [What If You Fly by Oliver River](https://open.spotify.com/track/09np57gcBN1dq1gtsZ2uIB)
+- [Ocean Drive by Panuma, ROBINS](https://open.spotify.com/track/6IKkB5aUguZpEXTI9nmLzv)
+- [Everyday &amp; Everynight by Nolan, Amber Jolene](https://open.spotify.com/track/34tA8DKx2tb9gA4ZFrdfY5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
