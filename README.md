@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients)** - List of awesome API clients. Postman and Insomnia alternatives (3 days ago)
 
 #### 🎧 What I have been listening
-- [Innerbloom - Radio Edit by RÜFÜS DU SOL](https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf)
-- [Innerbloom by RÜFÜS DU SOL](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)
-- [Fall On Me by Attom, Kwesi, Lils](https://open.spotify.com/track/4jPicByGCQvhLvUxYU6Va9)
-- [I Can Feel It by Patrick Lite](https://open.spotify.com/track/6nL7UW4RPtFt5g6Lh9twWm)
-- [Preach - Radio Edit by Saint Lanvain](https://open.spotify.com/track/5UMqrjq7Qosj113h7fxYsP)
+- [Levitating by RÜFÜS DU SOL](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj)
+- [Music is Better by RÜFÜS DU SOL](https://open.spotify.com/track/4NlxBNd38G9nXjCVrbBYre)
+- [Breathe by RÜFÜS DU SOL](https://open.spotify.com/track/1qMGujcR5TWGxvCismyc6U)
+- [Lately by RÜFÜS DU SOL](https://open.spotify.com/track/09eWLCCXXypdgrlfLAMy3n)
+- [Inhale by RÜFÜS DU SOL](https://open.spotify.com/track/124hDFQWCBm3PI3RRXU2fH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
