@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Mail-0/Mail-0](https://github.com/Mail-0/Mail-0)** - open source gmail alternative (coming soon). join the discord: discord.gg/0email (3 days ago)
 
 #### 🎧 What I have been listening
-- [Memorie by JAS1X](https://open.spotify.com/track/04ybASUgcbapkb3QCNku0F)
-- [Not Alone by Jad Alexander](https://open.spotify.com/track/5xh2BtnjE1OiW8JPWgAWnF)
-- [Different Places by MVCA, Nina Carr](https://open.spotify.com/track/4LQz1EiZ1GuW4gii1gaQiq)
-- [Do You Do This Often? by Baywood](https://open.spotify.com/track/5gL8trWoq4RVxRiTrojKdp)
-- [Leave Me by secondsun](https://open.spotify.com/track/5X2hvBLLk9nPbSWsoy17TL)
+- [Wash Away by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/0x973wsmuY1Ub96Z4vVHLq)
+- [Azur by Café Du MIDI](https://open.spotify.com/track/6xFYjmQKprAkOeBXWmrGsV)
+- [Away With Me by Ross Quinn](https://open.spotify.com/track/0qCkgaivWlgcv6SCSQ2AjY)
+- [Something Missing You by Alex Deeper](https://open.spotify.com/track/5A6SDxlgbqW6afVrH6jVWC)
+- [Your Eyes - Part II by Avi Snow, MVCA, iRO](https://open.spotify.com/track/0vkO2Ft19ZJntqsQly5YVr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
