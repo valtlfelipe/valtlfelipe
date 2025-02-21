@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Mail-0/Mail-0](https://github.com/Mail-0/Mail-0)** - open source gmail alternative (coming soon). join the discord: discord.gg/0email (3 days ago)
 
 #### 🎧 What I have been listening
+- [Memorie by JAS1X](https://open.spotify.com/track/04ybASUgcbapkb3QCNku0F)
+- [Not Alone by Jad Alexander](https://open.spotify.com/track/5xh2BtnjE1OiW8JPWgAWnF)
+- [Different Places by MVCA, Nina Carr](https://open.spotify.com/track/4LQz1EiZ1GuW4gii1gaQiq)
 - [Do You Do This Often? by Baywood](https://open.spotify.com/track/5gL8trWoq4RVxRiTrojKdp)
 - [Leave Me by secondsun](https://open.spotify.com/track/5X2hvBLLk9nPbSWsoy17TL)
-- [Venice Beach by Kozua](https://open.spotify.com/track/3S1ANvfLwD21P0A8Jvy6LX)
-- [When You Want It by Damaui](https://open.spotify.com/track/1WZhY0v1jfC7AoROmRVInh)
-- [Altea Y Lanzarote - Thom Merlin Afro House Edit by Thom Merlin, Koa](https://open.spotify.com/track/6sOHdjZhRT45T0L3PqAOSu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
