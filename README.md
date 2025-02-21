@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients)** - List of awesome API clients. Postman and Insomnia alternatives (3 days ago)
 
 #### 🎧 What I have been listening
+- [Crazy by DJ Goja, Nito-Onna](https://open.spotify.com/track/2vXV3lIR0ouayIETSh7Fxs)
+- [Kids by Riesling, Deep Mage](https://open.spotify.com/track/2sMyHm7oNeXpPi7JnAxPEO)
 - [Relax by Deepest, AMHouse, Taylor Mosley](https://open.spotify.com/track/0g30Wsmd7yshS7762iWdVv)
 - [Calm Down by DJ Goja, Magic Phase](https://open.spotify.com/track/28Y0lMcpwX7eZyMVfhbaUm)
 - [Supergirl by Dream Chaos, Della, Deep Mage](https://open.spotify.com/track/0d8OzTCvIWtNrZLflzHed0)
-- [24K Gold by Malou Prytz](https://open.spotify.com/track/78NhuVWEaTukGw1I61Wd1c)
-- [The Life by RÜFÜS DU SOL](https://open.spotify.com/track/46KZYSiZk2XxtNkRDTdnHb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
