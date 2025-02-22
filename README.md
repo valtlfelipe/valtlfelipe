@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients)** - List of awesome API clients. Postman and Insomnia alternatives (4 days ago)
 
 #### 🎧 What I have been listening
+- [What A Day by Malte Herbst](https://open.spotify.com/track/6NPqQ9t8WV3NrxfEqlt1Lj)
+- [Moment by FranBroon](https://open.spotify.com/track/5N0gYjiv1nM1Q7pg7PsgYZ)
+- [Breathe by VisionV, Kiiwi](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8)
 - [Treasure by Blu Attic, Parallel Voices, ved](https://open.spotify.com/track/4TaeMT5Z7pKKIAVsWIJVBU)
 - [Memories by Ferjo De Gery](https://open.spotify.com/track/5o2IZigBlkgVHePDgJXOco)
-- [Duvida by Saint Tropics](https://open.spotify.com/track/3KhRsuQ7tkEOkjhLeVwz4u)
-- [Incline by Rolimark, Mary S.K.](https://open.spotify.com/track/319k03R4sQtVd8JrWuWVK8)
-- [I Love You by Patrick Lite, Vitaly Gray](https://open.spotify.com/track/33vdDZDNBKsllkbZXFYUD4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
