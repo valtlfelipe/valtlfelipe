@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)** - A self-hosted open source photo management service. This is the repository of the backend. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Dreaming - Gibson Parker Remix by Rootkit, Cammie Robinson, Gibson Parker](https://open.spotify.com/track/3nXFJJmhSKF4fTUNVcmAG2)
-- [Imagine You by Dye O](https://open.spotify.com/track/5nUtss9FElxOlS5MbmjeYZ)
-- [Turning Away - Parra for Cuva Remix by Monolink, Parra for Cuva](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o)
-- [Sweet Deep by Café Du MIDI](https://open.spotify.com/track/3m1sjvxkWaJOryPwpcck5A)
-- [What A Day by Malte Herbst](https://open.spotify.com/track/6NPqQ9t8WV3NrxfEqlt1Lj)
+- [Alone by Jan Blomqvist, Malou](https://open.spotify.com/track/3b28eJuh4eW50jXjPKpf49)
+- [HEAT WAVES by CALVIN](https://open.spotify.com/track/2Lk83afqoxT0zYPHcDuYoF)
+- [Fashion Lounge by Dmitro Khatskevych](https://open.spotify.com/track/5DZyXbpbLTvtIn1qUo1Idr)
+- [Big Yellow Taxi by Here We Go Go](https://open.spotify.com/track/39Pa3kM7l990YjUZdrSHlf)
+- [Dare Your Move by MAXI MERAKI](https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
