@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)** - A self-hosted open source photo management service. This is the repository of the backend. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Alone by Jan Blomqvist, Malou](https://open.spotify.com/track/3b28eJuh4eW50jXjPKpf49)
-- [HEAT WAVES by CALVIN](https://open.spotify.com/track/2Lk83afqoxT0zYPHcDuYoF)
-- [Fashion Lounge by Dmitro Khatskevych](https://open.spotify.com/track/5DZyXbpbLTvtIn1qUo1Idr)
-- [Big Yellow Taxi by Here We Go Go](https://open.spotify.com/track/39Pa3kM7l990YjUZdrSHlf)
-- [Dare Your Move by MAXI MERAKI](https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9)
+- [Piece of Me by ELEZO](https://open.spotify.com/track/7cAp1U4PoXGogMPdGOKGoz)
+- [Clocks by Alex Baker, Sahara Moon](https://open.spotify.com/track/7nqeKUkuQb3pIiNUas2FEV)
+- [Must Be Dreaming by anamē, Bien](https://open.spotify.com/track/17kDoCyWLuTKgSf0Oxr2dV)
+- [Solaris by Cees, ARTYMA](https://open.spotify.com/track/1GcdWbSmgDENut5yHaoWb6)
+- [Forever In My Mind by Lønely](https://open.spotify.com/track/0q53sOQ3D3dZuW3tFlI7xC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
