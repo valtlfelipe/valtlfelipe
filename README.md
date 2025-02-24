@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)** - A self-hosted open source photo management service. This is the repository of the backend. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Dreaming - Gibson Parker Remix by Rootkit, Cammie Robinson, Gibson Parker](https://open.spotify.com/track/3nXFJJmhSKF4fTUNVcmAG2)
+- [Imagine You by Dye O](https://open.spotify.com/track/5nUtss9FElxOlS5MbmjeYZ)
+- [Turning Away - Parra for Cuva Remix by Monolink, Parra for Cuva](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o)
 - [Sweet Deep by Café Du MIDI](https://open.spotify.com/track/3m1sjvxkWaJOryPwpcck5A)
 - [What A Day by Malte Herbst](https://open.spotify.com/track/6NPqQ9t8WV3NrxfEqlt1Lj)
-- [Moment by FranBroon](https://open.spotify.com/track/5N0gYjiv1nM1Q7pg7PsgYZ)
-- [Breathe by VisionV, Kiiwi](https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8)
-- [Treasure by Blu Attic, Parallel Voices, ved](https://open.spotify.com/track/4TaeMT5Z7pKKIAVsWIJVBU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
