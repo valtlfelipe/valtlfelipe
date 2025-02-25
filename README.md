@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)** - A self-hosted open source photo management service. This is the repository of the backend. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Leave Me by secondsun](https://open.spotify.com/track/5X2hvBLLk9nPbSWsoy17TL)
-- [On the Line by aiden](https://open.spotify.com/track/5gD2gvgmlo72qdS7uVUH86)
-- [One for Me by Retrac](https://open.spotify.com/track/72wAXN8FFG7daJ2Pc9GKUZ)
-- [Where I Find My Mind by Eli &amp; Fur](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ)
-- [Same Mistake - But Different Remix by Jan Blomqvist](https://open.spotify.com/track/7wwA5QBXfOkeYHzNbbVXtT)
+- [Dare Your Move by MAXI MERAKI](https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9)
+- [Kaleidoscope Colours by Jan Blomqvist, Maybemahri](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz)
+- [Drifting by London Topaz, Blush&#39;ko](https://open.spotify.com/track/7uToGdhcxRZ5lo9WCVVQdx)
+- [Treading Water by HAYLA](https://open.spotify.com/track/6yv4uevSRhuDrBGrIgpmEh)
+- [Music Sounds Better With You by Jelen, Yann Muller](https://open.spotify.com/track/5Sv9VqHz9uzSc3U2qtHfSf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
