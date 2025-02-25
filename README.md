@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Zima by Sultan &#43; Shepard, Delhia De France](https://open.spotify.com/track/4Xt7JriSe3E1mHC4B7f8FF)
-- [1&#43;1=1 by XYSM, EDGR](https://open.spotify.com/track/1Uk7cYdAjIukY1naydK11y)
-- [Dare Your Move by MAXI MERAKI](https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9)
-- [Kaleidoscope Colours by Jan Blomqvist, Maybemahri](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz)
-- [Drifting by London Topaz, Blush&#39;ko](https://open.spotify.com/track/7uToGdhcxRZ5lo9WCVVQdx)
+- [Neverland by Avi Snow, Sync, KOIL](https://open.spotify.com/track/4SG5yceUikHS7sQ3Ugy6c3)
+- [Maybe Not by Jan Blomqvist](https://open.spotify.com/track/4YlPfwx8aqehj7eSAhtS23)
+- [Stuck In Between by Ourson](https://open.spotify.com/track/1OEPxzjJz1raNKIiKiKFeI)
+- [Anemoia by MusicbyAden](https://open.spotify.com/track/6I5aaXJplavz1IJT7HHRwG)
+- [Meant It To by Oliver Michael](https://open.spotify.com/track/6WXlf9L89v1RagtP015OnA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
