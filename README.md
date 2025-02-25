@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Neverland by Avi Snow, Sync, KOIL](https://open.spotify.com/track/4SG5yceUikHS7sQ3Ugy6c3)
-- [Maybe Not by Jan Blomqvist](https://open.spotify.com/track/4YlPfwx8aqehj7eSAhtS23)
-- [Stuck In Between by Ourson](https://open.spotify.com/track/1OEPxzjJz1raNKIiKiKFeI)
-- [Anemoia by MusicbyAden](https://open.spotify.com/track/6I5aaXJplavz1IJT7HHRwG)
-- [Meant It To by Oliver Michael](https://open.spotify.com/track/6WXlf9L89v1RagtP015OnA)
+- [Hold Me Tight by Ourson](https://open.spotify.com/track/6VTEbVqiTuYDoorR8C4N6v)
+- [The Poem by Nando Fortunato](https://open.spotify.com/track/4J0lv3CLkopkj95hpifP6P)
+- [Highest Love by Sultan &#43; Shepard, LANKS](https://open.spotify.com/track/2amj2auYcmzfTLyQhMTKDr)
+- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
+- [Who You by Sebastian Davidson](https://open.spotify.com/track/3cMPnyNxur5wIFYdd1btUd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
