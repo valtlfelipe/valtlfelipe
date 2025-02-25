@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [Something Real by Damaui](https://open.spotify.com/track/5aEoonreKXe3GVFoskItBo)
+- [Diva by Alex Deeper](https://open.spotify.com/track/3YD2yOyUWckdffEhOjbikf)
 - [Hold Me Tight by Ourson](https://open.spotify.com/track/6VTEbVqiTuYDoorR8C4N6v)
-- [The Poem by Nando Fortunato](https://open.spotify.com/track/4J0lv3CLkopkj95hpifP6P)
-- [Highest Love by Sultan &#43; Shepard, LANKS](https://open.spotify.com/track/2amj2auYcmzfTLyQhMTKDr)
-- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
-- [Who You by Sebastian Davidson](https://open.spotify.com/track/3cMPnyNxur5wIFYdd1btUd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
