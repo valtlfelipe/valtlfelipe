@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)** - A self-hosted open source photo management service. This is the repository of the backend. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Amman by Emmit Fenn](https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r)
-- [Always You by Ourson](https://open.spotify.com/track/2bNVa6BWSK67w795uwGsLh)
-- [Summertime Sadness by keyløud, Lonely Night, Ari](https://open.spotify.com/track/0OgJHIpmuGNSoph5S8Hrhd)
-- [More Than Friends by Fake ID, JAIKO](https://open.spotify.com/track/648tWKHqTb1jgcqmr6pHe0)
-- [Piece of Me by ELEZO](https://open.spotify.com/track/7cAp1U4PoXGogMPdGOKGoz)
+- [Leave Me by secondsun](https://open.spotify.com/track/5X2hvBLLk9nPbSWsoy17TL)
+- [On the Line by aiden](https://open.spotify.com/track/5gD2gvgmlo72qdS7uVUH86)
+- [One for Me by Retrac](https://open.spotify.com/track/72wAXN8FFG7daJ2Pc9GKUZ)
+- [Where I Find My Mind by Eli &amp; Fur](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ)
+- [Same Mistake - But Different Remix by Jan Blomqvist](https://open.spotify.com/track/7wwA5QBXfOkeYHzNbbVXtT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
