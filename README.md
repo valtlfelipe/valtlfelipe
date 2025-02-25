@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Zima by Sultan &#43; Shepard, Delhia De France](https://open.spotify.com/track/4Xt7JriSe3E1mHC4B7f8FF)
+- [1&#43;1=1 by XYSM, EDGR](https://open.spotify.com/track/1Uk7cYdAjIukY1naydK11y)
 - [Dare Your Move by MAXI MERAKI](https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9)
 - [Kaleidoscope Colours by Jan Blomqvist, Maybemahri](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz)
 - [Drifting by London Topaz, Blush&#39;ko](https://open.spotify.com/track/7uToGdhcxRZ5lo9WCVVQdx)
-- [Treading Water by HAYLA](https://open.spotify.com/track/6yv4uevSRhuDrBGrIgpmEh)
-- [Music Sounds Better With You by Jelen, Yann Muller](https://open.spotify.com/track/5Sv9VqHz9uzSc3U2qtHfSf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
