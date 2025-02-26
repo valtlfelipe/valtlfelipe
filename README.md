@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 week ago)
 
 #### 🎧 What I have been listening
-- [El Incomprendido by Farruko, Victor Cardenas, Dj Adoni](https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf)
-- [I&#39;m into It by Paul Oakenfold, Velvet Cash, ZHU](https://open.spotify.com/track/2cNgIYARHDDUrFsguos6Bo)
-- [Age of Phase by Bonobo](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM)
-- [Saturday Night by Effemar, Nina Carr](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl)
-- [Won&#39;t Fall by Drics](https://open.spotify.com/track/6qSeyDQjR9cBtopcSS626e)
+- [So Many Times by Bruno Be, Sandeville, Alexandra Prince](https://open.spotify.com/track/0O98fmGZF3BwMP8d6ZSK0h)
+- [Love You So by Manuel Varey](https://open.spotify.com/track/3wILe1tPSi2yYpgptC9tyj)
+- [Happiness (feat. MOGUAI &amp; ILIRA) - Max Bering Remix by Tomcraft, Max Bering, ILIRA, MOGUAI](https://open.spotify.com/track/4Jst8JcUVEYWB33Ifu6Xjv)
+- [I Can&#39;t Get Nothing - Radio by Tiko&#39;s Groove, Gosha](https://open.spotify.com/track/2loRALVpIwCGPgqykI6tPQ)
+- [Leave The Door Open by Bruno Mars, Anderson .Paak, Silk Sonic](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
