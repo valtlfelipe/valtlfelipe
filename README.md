@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 week ago)
 
 #### 🎧 What I have been listening
+- [African Dreams by Michael Ford, Ron van den Beuken](https://open.spotify.com/track/2tl5frlBlAyMlNkCDsaLqn)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Alone by Alok, ALOTT, Apophis](https://open.spotify.com/track/3JS1nCTR2jixEUAUHnh4fk)
 - [So Many Times by Bruno Be, Sandeville, Alexandra Prince](https://open.spotify.com/track/0O98fmGZF3BwMP8d6ZSK0h)
 - [Love You So by Manuel Varey](https://open.spotify.com/track/3wILe1tPSi2yYpgptC9tyj)
-- [Happiness (feat. MOGUAI &amp; ILIRA) - Max Bering Remix by Tomcraft, Max Bering, ILIRA, MOGUAI](https://open.spotify.com/track/4Jst8JcUVEYWB33Ifu6Xjv)
-- [I Can&#39;t Get Nothing - Radio by Tiko&#39;s Groove, Gosha](https://open.spotify.com/track/2loRALVpIwCGPgqykI6tPQ)
-- [Leave The Door Open by Bruno Mars, Anderson .Paak, Silk Sonic](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
