@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Way by Mary Mesk, Curol](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo)
-- [Gotta Get Thru This by Le Boeuf](https://open.spotify.com/track/61IqoZPM9h4DVJWHYSZAW5)
-- [Calabria (feat. Fallen Roses, Lujavo &amp; Lunis) by Dance Fruits Music, DMNDS, Fallen Roses, Lunis, Lujavo](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46)
-- [Where The Lights Are Low - Mike Williams Remix by Toby Romeo, Felix Jaehn, FAULHABER, Mike Williams](https://open.spotify.com/track/6k3Oxg6tgRGFxN0ilByxZ4)
-- [Feel The Vibe - Keanu Silva Remix by DJ Kuba, Neitan, Keanu Silva](https://open.spotify.com/track/05rYZ91Ii5ho9MhO9dcSqA)
+- [Rise Up by Dance Fruits Music, DMNDS](https://open.spotify.com/track/1lWMAe5jnniJF6SfHBOuen)
+- [One Dance by Dance Fruits Music, DMNDS](https://open.spotify.com/track/6S5341oiptCqYVzVJvSCTC)
+- [Latin Moon by Jyye, Mia Martina](https://open.spotify.com/track/7LIxRc0X2O5Z6Fgrv88qg2)
+- [Sunset Wave by Tobias Bergson, Michael Shynes](https://open.spotify.com/track/3kD8Ed75AXHuzNmny7BUiO)
+- [Know You Better - Schoonebeek Remix by Bjørn Beck, Schoonebeek](https://open.spotify.com/track/4j0NynOr9MQrAZ0Y6UjwlP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
