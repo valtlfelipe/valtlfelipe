@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 week ago)
 
 #### 🎧 What I have been listening
-- [African Dreams by Michael Ford, Ron van den Beuken](https://open.spotify.com/track/2tl5frlBlAyMlNkCDsaLqn)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [Alone by Alok, ALOTT, Apophis](https://open.spotify.com/track/3JS1nCTR2jixEUAUHnh4fk)
-- [So Many Times by Bruno Be, Sandeville, Alexandra Prince](https://open.spotify.com/track/0O98fmGZF3BwMP8d6ZSK0h)
-- [Love You So by Manuel Varey](https://open.spotify.com/track/3wILe1tPSi2yYpgptC9tyj)
+- [Impossible (feat. John Martin) by David Guetta, MORTEN, John Martin](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y)
+- [Your Call (Adore You) by Joe Kox, Wace](https://open.spotify.com/track/6SPAltlzw05PXwe0BFVCax)
+- [Feel Your Love by Bhaskar, Lucas Estrada, EEVA](https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI)
+- [Superpowers - Dimitri Vegas Edit by Ilkay Sencan, Vintage Culture, Yoelle, Dimitri Vegas](https://open.spotify.com/track/1eWsKIHgYzYCMRwSwnNVE9)
+- [Cry About It Later (feat. Luísa Sonza &amp; Bruno Martini) by Katy Perry, Luísa Sonza, Bruno Martini](https://open.spotify.com/track/43WYPxyEfIxlIjNlxQGYzc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
