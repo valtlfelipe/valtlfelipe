@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Love You, Always Forever by RadioClub, NEEKA](https://open.spotify.com/track/5pCj2jYkId4bVp3JssibLN)
-- [Always There by Weston &amp; Teston, Belle Gent](https://open.spotify.com/track/6dEWV1RKUaAyAlHTGkeFGr)
-- [Promises by Eauki](https://open.spotify.com/track/7HNzUtyXHKuNC7Dnr5jZm8)
-- [I&#39;m Good (Blue) - R3HAB Remix by David Guetta, Bebe Rexha, R3HAB](https://open.spotify.com/track/4NPJY8yFbu6YpgsgsKiEu1)
-- [Get with Me by Afgo](https://open.spotify.com/track/4u5xFwCYnQilZBeOMFXTGh)
+- [El Incomprendido by Farruko, Victor Cardenas, Dj Adoni](https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf)
+- [I&#39;m into It by Paul Oakenfold, Velvet Cash, ZHU](https://open.spotify.com/track/2cNgIYARHDDUrFsguos6Bo)
+- [Age of Phase by Bonobo](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM)
+- [Saturday Night by Effemar, Nina Carr](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl)
+- [Won&#39;t Fall by Drics](https://open.spotify.com/track/6qSeyDQjR9cBtopcSS626e)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
