@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Rise Up by Dance Fruits Music, DMNDS](https://open.spotify.com/track/1lWMAe5jnniJF6SfHBOuen)
-- [One Dance by Dance Fruits Music, DMNDS](https://open.spotify.com/track/6S5341oiptCqYVzVJvSCTC)
-- [Latin Moon by Jyye, Mia Martina](https://open.spotify.com/track/7LIxRc0X2O5Z6Fgrv88qg2)
-- [Sunset Wave by Tobias Bergson, Michael Shynes](https://open.spotify.com/track/3kD8Ed75AXHuzNmny7BUiO)
-- [Know You Better - Schoonebeek Remix by Bjørn Beck, Schoonebeek](https://open.spotify.com/track/4j0NynOr9MQrAZ0Y6UjwlP)
+- [Coffee (Give Me Something) by Tiësto, Vintage Culture](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD)
+- [Pontos de Exclamação - Vintage Culture &amp; Future Class Remix by Jovem Dionisio, Vintage Culture, Future Class](https://open.spotify.com/track/25usEf5iGk9HL0LM9VTxue)
+- [Detour by Oli JT, SoulMe](https://open.spotify.com/track/5Hv0hiEd5eHA9cJGid1QzK)
+- [U By My Side by B4N4N4 G4NG](https://open.spotify.com/track/7we6DFZdPuSaeiTv0zOfvT)
+- [I Don&#39;t Need Love by Karen Harding, Wh0](https://open.spotify.com/track/11YeL3eE19GsSU4EYi6fIs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
