@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Impossible (feat. John Martin) by David Guetta, MORTEN, John Martin](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y)
-- [Your Call (Adore You) by Joe Kox, Wace](https://open.spotify.com/track/6SPAltlzw05PXwe0BFVCax)
-- [Feel Your Love by Bhaskar, Lucas Estrada, EEVA](https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI)
-- [Superpowers - Dimitri Vegas Edit by Ilkay Sencan, Vintage Culture, Yoelle, Dimitri Vegas](https://open.spotify.com/track/1eWsKIHgYzYCMRwSwnNVE9)
-- [Cry About It Later (feat. Luísa Sonza &amp; Bruno Martini) by Katy Perry, Luísa Sonza, Bruno Martini](https://open.spotify.com/track/43WYPxyEfIxlIjNlxQGYzc)
+- [The Way by Mary Mesk, Curol](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo)
+- [Gotta Get Thru This by Le Boeuf](https://open.spotify.com/track/61IqoZPM9h4DVJWHYSZAW5)
+- [Calabria (feat. Fallen Roses, Lujavo &amp; Lunis) by Dance Fruits Music, DMNDS, Fallen Roses, Lunis, Lujavo](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46)
+- [Where The Lights Are Low - Mike Williams Remix by Toby Romeo, Felix Jaehn, FAULHABER, Mike Williams](https://open.spotify.com/track/6k3Oxg6tgRGFxN0ilByxZ4)
+- [Feel The Vibe - Keanu Silva Remix by DJ Kuba, Neitan, Keanu Silva](https://open.spotify.com/track/05rYZ91Ii5ho9MhO9dcSqA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
