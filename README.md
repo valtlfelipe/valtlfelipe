@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Character - Avao Remix by Mark Sixma, AVAO](https://open.spotify.com/track/4IwENtzjW79sF5wNGSdnqe)
-- [Missing by Chris van Dutch, Crystal Rock, Felix Schorn, Natalie Major](https://open.spotify.com/track/4wlWLYAsj9UhvekTtRFVO8)
-- [Moon (And It Went Like) by Kid Francescoli, Julia Minkin](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E)
-- [Uruguay - EDX&#39;s Dubai Skyline Remix by Nora En Pure, Sons Of Maria, EDX](https://open.spotify.com/track/5ooAWPi7WpbPN9ZfY7WBSY)
-- [Loose Myself in You by Michael Feel &amp; Aleco, YARO, Philip Strand](https://open.spotify.com/track/3XIQoPiBl4KG6vlY2R7Bmt)
+- [I&#39;m Not Alright - Zack Martino Remix by Loud Luxury, Bryce Vine, Zack Martino](https://open.spotify.com/track/4AEziiA1GI7NC6xmKhPFqI)
+- [Secrets by Jon Sine](https://open.spotify.com/track/5alZmEwcpSAcOtziB6jHn2)
+- [L.E.D. There Be Light - Cosmic Gate Remix by Rank 1, Cosmic Gate](https://open.spotify.com/track/50RBSXjSa83gltauR6GxkF)
+- [Moonlight (feat. Danyka Nadeau &amp; Badjack) by Disco Fries, Badjack, Danyka Nadeau](https://open.spotify.com/track/4dgkustBLuGq8tjsWtzRoO)
+- [Somebody Real by Schmarx &amp; Savvy](https://open.spotify.com/track/4rfGvJOgGH3YB2dEn1gnl1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
