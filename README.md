@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)** - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Pepas by Farruko](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k)
+- [How I Feel by Slow Motion](https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1)
+- [The Last Goodbye (Live) by ODESZA](https://open.spotify.com/track/6y6vQOD1k3fBySGpjPmIkJ)
 - [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
 - [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
-- [Something Real by Damaui](https://open.spotify.com/track/5aEoonreKXe3GVFoskItBo)
-- [Diva by Alex Deeper](https://open.spotify.com/track/3YD2yOyUWckdffEhOjbikf)
-- [Hold Me Tight by Ourson](https://open.spotify.com/track/6VTEbVqiTuYDoorR8C4N6v)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
