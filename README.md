@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[spider-rs/spider](https://github.com/spider-rs/spider)** - A web crawler and scraper for Rust (1 week ago)
 
 #### 🎧 What I have been listening
+- [Breaking the Doors - Extended Mix by Michael Calfan](https://open.spotify.com/track/5SAo7kdOA5z2vxfDpSTEuo)
+- [Like This by Throttle](https://open.spotify.com/track/0D9z6DQ7UBnp7sPv3y3cgV)
 - [Don&#39;t Give Up On Me - Club Mix by Armin van Buuren, Lucas &amp; Steve, Josh Cumbee](https://open.spotify.com/track/3timLnS1O72NzeRj22KrFd)
 - [Sweet but Psycho - Kat Krazy Remix by Ava Max, Kat Krazy](https://open.spotify.com/track/49xmhJzBfsIHKGIETsfnEY)
 - [Someone Else by Kyle Meehan](https://open.spotify.com/track/0645dqkdt75VSyFknmnIPs)
-- [Inception (Ultra Live Anthem 2019) by Lucas &amp; Steve](https://open.spotify.com/track/5gGr2RvBtngp6dFgshVbl2)
-- [Savannah - Club Mix by FAULHABER, Jake Reese](https://open.spotify.com/track/54DySOMuMmgB98q06ifI9b)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
