@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[spider-rs/spider](https://github.com/spider-rs/spider)** - A web crawler and scraper for Rust (1 week ago)
 
 #### 🎧 What I have been listening
-- [Slow Burn by Moksi, Elayna Boynton](https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc)
-- [I&#39;m Not Alright - Zack Martino Remix by Loud Luxury, Bryce Vine, Zack Martino](https://open.spotify.com/track/4AEziiA1GI7NC6xmKhPFqI)
-- [Secrets by Jon Sine](https://open.spotify.com/track/5alZmEwcpSAcOtziB6jHn2)
-- [L.E.D. There Be Light - Cosmic Gate Remix by Rank 1, Cosmic Gate](https://open.spotify.com/track/50RBSXjSa83gltauR6GxkF)
-- [Moonlight (feat. Danyka Nadeau &amp; Badjack) by Disco Fries, Badjack, Danyka Nadeau](https://open.spotify.com/track/4dgkustBLuGq8tjsWtzRoO)
+- [Grey by Kölsch](https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC)
+- [Children by MATTN, Klaas, Roland Clark](https://open.spotify.com/track/3482GEXcISrZRWMr0DRRre)
+- [Thinking About You by Timmo Hendriks, Lindequist](https://open.spotify.com/track/7GHqMbzxoVONA9wnC02Y5q)
+- [Hope by The Chainsmokers, Winona Oak](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5)
+- [Bluesky by Karmon](https://open.spotify.com/track/6AFREUGEXchC1fVhbMIqeF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
