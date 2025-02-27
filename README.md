@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[spider-rs/spider](https://github.com/spider-rs/spider)** - A web crawler and scraper for Rust (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lucid Dreams by Jyye, Julia Temos](https://open.spotify.com/track/0Nh8CfVJ7k2VIXaGFa04wd)
-- [Override by Dave Silcox, Ferington, Nikki Ambers](https://open.spotify.com/track/40DjjsuODwdlRZ4XFfhcwH)
-- [Tell Me by Sonny Fodera, Clementine Douglas](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8)
-- [Nobody Knows - Belters Only Remix by Ape Drums, Clementine Douglas, Belters Only](https://open.spotify.com/track/1unlWf6dqVy71XhAdlMjH0)
-- [Somebody (2024) by Gotye, FISHER, Chris Lake, Kimbra, Sante Sansone](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO)
+- [I Don&#39;t Wanna Know by Buzz Low, BACOLE, Kuala](https://open.spotify.com/track/5nUlevjEAdIKeMBKxpSEHm)
+- [Breathe in the Blue by Julien Fade, Nu-La](https://open.spotify.com/track/5j2ONNLDz5PwdXqtDU8QI0)
+- [Words by Nu Aspect](https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo)
+- [Howl by SOMMA, SHELLS](https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy)
+- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
