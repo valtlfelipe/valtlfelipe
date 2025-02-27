@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[spider-rs/spider](https://github.com/spider-rs/spider)** - A web crawler and scraper for Rust (1 week ago)
 
 #### 🎧 What I have been listening
-- [Say Something (feat. Chris Stapleton) by Justin Timberlake, Chris Stapleton](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS)
-- [Dancing Alone - BROHUG Remix by Axwell /\ Ingrosso, RØMANS, BROHUG](https://open.spotify.com/track/5oOwyIYnBB7qPi6AwN8d5w)
-- [SOS (feat. Aloe Blacc) by Avicii, Aloe Blacc](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5)
-- [The Stars Are Mine by Chocolate Puma, Pep &amp; Rash](https://open.spotify.com/track/0qF7Piw3F3mLJ1ni5Iw0bb)
-- [Giant (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd)
+- [I’m So Glad by David Spinelli](https://open.spotify.com/track/6m8vpmrQIgqCmFAK1JOlrb)
+- [Exit Lights by Shane Codd, Lilly Ahlberg](https://open.spotify.com/track/6nJQmHVXFRhMLUccveZNdi)
+- [Sweet Release by Nu Aspect](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [Midnight Zone by Astrality, TAPE ANGEL](https://open.spotify.com/track/6iDQi093BFCGouVa3uXpOu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
