@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[spider-rs/spider](https://github.com/spider-rs/spider)** - A web crawler and scraper for Rust (1 week ago)
 
 #### 🎧 What I have been listening
-- [Grey by Kölsch](https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC)
-- [Children by MATTN, Klaas, Roland Clark](https://open.spotify.com/track/3482GEXcISrZRWMr0DRRre)
-- [Thinking About You by Timmo Hendriks, Lindequist](https://open.spotify.com/track/7GHqMbzxoVONA9wnC02Y5q)
-- [Hope by The Chainsmokers, Winona Oak](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5)
-- [Bluesky by Karmon](https://open.spotify.com/track/6AFREUGEXchC1fVhbMIqeF)
+- [Heroes - Bougenvilla Remix by SUPERSPECIAL, Bougenvilla](https://open.spotify.com/track/0f7IIKyRcDMAITGZSGVSLV)
+- [Shadows (feat. Veronica) by Adam K, Veronica](https://open.spotify.com/track/1RbgdZhU9FOKFbDZZKOMrv)
+- [Never Really Over - R3HAB Remix by Katy Perry, R3HAB](https://open.spotify.com/track/2OAylPUDDfwRGfe0lYqlCQ)
+- [Make Believe by Quintino](https://open.spotify.com/track/56oqWZUaA8ZmHQCH3lCRI3)
+- [No Education by Romina, Franck Dona](https://open.spotify.com/track/2aZzjIhclpO0pIvL1vLyVn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
