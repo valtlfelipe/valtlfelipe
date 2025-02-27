@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[spider-rs/spider](https://github.com/spider-rs/spider)** - A web crawler and scraper for Rust (1 week ago)
 
 #### 🎧 What I have been listening
-- [Heroes - Bougenvilla Remix by SUPERSPECIAL, Bougenvilla](https://open.spotify.com/track/0f7IIKyRcDMAITGZSGVSLV)
-- [Shadows (feat. Veronica) by Adam K, Veronica](https://open.spotify.com/track/1RbgdZhU9FOKFbDZZKOMrv)
-- [Never Really Over - R3HAB Remix by Katy Perry, R3HAB](https://open.spotify.com/track/2OAylPUDDfwRGfe0lYqlCQ)
-- [Make Believe by Quintino](https://open.spotify.com/track/56oqWZUaA8ZmHQCH3lCRI3)
-- [No Education by Romina, Franck Dona](https://open.spotify.com/track/2aZzjIhclpO0pIvL1vLyVn)
+- [Sweet but Psycho - Kat Krazy Remix by Ava Max, Kat Krazy](https://open.spotify.com/track/49xmhJzBfsIHKGIETsfnEY)
+- [Someone Else by Kyle Meehan](https://open.spotify.com/track/0645dqkdt75VSyFknmnIPs)
+- [Inception (Ultra Live Anthem 2019) by Lucas &amp; Steve](https://open.spotify.com/track/5gGr2RvBtngp6dFgshVbl2)
+- [Savannah - Club Mix by FAULHABER, Jake Reese](https://open.spotify.com/track/54DySOMuMmgB98q06ifI9b)
+- [Show Me by Mason Lister](https://open.spotify.com/track/458ZiEOZZA13P0yIPyw0rD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
