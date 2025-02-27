@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[spider-rs/spider](https://github.com/spider-rs/spider)** - A web crawler and scraper for Rust (1 week ago)
 
 #### 🎧 What I have been listening
-- [Exhale by T. Matthias, Alimish](https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1)
-- [Rain by Astrality, MNRT, S:NE](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO)
-- [Say My Name by Matvey Emerson, NEVRMIND](https://open.spotify.com/track/3zZwwTNa27TDKUSNj2uuMc)
-- [Moment by Robin M, Dantae The Kid](https://open.spotify.com/track/3DWOrtHvdwpv0nmzEoJikH)
-- [Dive by Taiki Nulight, Rue More](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf)
+- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [Sirens by Dallerium, FARLEY](https://open.spotify.com/track/14tDY4UrwhZbhRktMhZ2v5)
+- [Lighthouse by HRRTZ, Cammie Robinson](https://open.spotify.com/track/3Kz1LSFeZXFhE60Enrp133)
+- [I Guess We&#39;re Not The Same by Sammy Virji](https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
