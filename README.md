@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[palantir/policy-bot](https://github.com/palantir/policy-bot)** - A GitHub App that enforces approval policies on pull requests (1 week ago)
 
 #### 🎧 What I have been listening
-- [Leave Me by secondsun](https://open.spotify.com/track/5X2hvBLLk9nPbSWsoy17TL)
-- [Promise You by Massane](https://open.spotify.com/track/5ihg3KlX5BV7p4ZDLMbfgK)
-- [Surrender by DRAY](https://open.spotify.com/track/3KXXozoDcc8mRrFUIQIoC6)
-- [Affair by Rules](https://open.spotify.com/track/1w7cG5snXdPwOpyLoRdCAM)
-- [Last Time by YUMA, Amadea](https://open.spotify.com/track/3r2FSdNto1jIArfK6WeiIb)
+- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
+- [Weightless by Hyzteria](https://open.spotify.com/track/14Qgz11mmNGbIQ57IZlAUF)
+- [Wake Me Up by ARTO](https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5)
+- [Strings Attached - Extended by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/68FcC7rZFftR7krAKayPlq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
