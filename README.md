@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[spider-rs/spider](https://github.com/spider-rs/spider)** - A web crawler and scraper for Rust (1 week ago)
 
 #### 🎧 What I have been listening
-- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [Sirens by Dallerium, FARLEY](https://open.spotify.com/track/14tDY4UrwhZbhRktMhZ2v5)
-- [Lighthouse by HRRTZ, Cammie Robinson](https://open.spotify.com/track/3Kz1LSFeZXFhE60Enrp133)
-- [I Guess We&#39;re Not The Same by Sammy Virji](https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J)
+- [Goosebumps by Astrality](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz)
+- [Do You Do This Often? by Baywood](https://open.spotify.com/track/5gL8trWoq4RVxRiTrojKdp)
+- [My Reflection by Eli &amp; Fur](https://open.spotify.com/track/6d3mEicaeN9jLDYG8hL2ZD)
+- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
+- [You&#39;re Not Alone - James Carter Remix by Punctual, RY X, James Carter](https://open.spotify.com/track/7C2LB0054Jbb6KRZ9jKyDt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
