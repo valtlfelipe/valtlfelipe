@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[palantir/policy-bot](https://github.com/palantir/policy-bot)** - A GitHub App that enforces approval policies on pull requests (1 week ago)
 
 #### 🎧 What I have been listening
-- [Currency (Count On Me) (ft Cimafunk and PAMÉ) by ANOTR, Cimafunk, PAMÉ](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS)
-- [It Feels So Good by Matt Sassari, HUGEL, Sonique](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi)
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
-- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
-- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [Lady Love by Oden &amp; Fatzo, Camden Cox](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S)
+- [If U Need It by Sammy Virji](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp)
+- [Pasilda - Knee Deep Mix by Afro Medusa, Knee Deep](https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR)
+- [Little Things x Gypsy Woman - L BEATS MASHUP by Jorja Smith](https://open.spotify.com/track/2AlCe2DDxELeESF5IP3t9K)
+- [World Hold On (Children Of The Sky) - FISHER Rework by Bob Sinclar, FISHER, Steve Edwards](https://open.spotify.com/track/6kTwzV93qpcovlRPmBOXmn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
