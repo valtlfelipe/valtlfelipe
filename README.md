@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[palantir/policy-bot](https://github.com/palantir/policy-bot)** - A GitHub App that enforces approval policies on pull requests (1 week ago)
 
 #### 🎧 What I have been listening
-- [Life with You by INNERVERSE, Paul Schulze, Oliver Cricket, Courtney Storm](https://open.spotify.com/track/356zh8gZWsTSQqtJBUpJ3b)
-- [Deep of You by Astrality, Marlo Rex](https://open.spotify.com/track/5lRzNBSLgUQFZhJrEYGqPN)
-- [No Way Out by Paul Schulze, sadHAPPY](https://open.spotify.com/track/4OoPS9qN7qDv4tqaMb3ScP)
-- [Conversation by Abroad](https://open.spotify.com/track/3WbrwpnYWEGDcEvJ5AtKPh)
-- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
+- [Currency (Count On Me) (ft Cimafunk and PAMÉ) by ANOTR, Cimafunk, PAMÉ](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS)
+- [It Feels So Good by Matt Sassari, HUGEL, Sonique](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi)
+- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
+- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
