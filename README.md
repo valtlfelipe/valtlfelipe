@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)** - 🎉 performant confetti animation in the browser (6 days ago)
 
 #### 🎧 What I have been listening
+- [I Don&#39;t Like It, I Love It (feat. Robin Thicke &amp; Verdine White) by Flo Rida, Robin Thicke, Verdine White](https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ)
+- [Feel Your Love by Bhaskar, Lucas Estrada, EEVA](https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI)
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
 - [Aquatic by Nora En Pure](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK)
 - [You Were Right by RÜFÜS DU SOL](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz)
-- [Drivers License by Karma Child, WISEKIDS](https://open.spotify.com/track/6xg4Auc6lQ75fTuzckPdMF)
-- [So Sorry by Rudimental, Skream](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU)
-- [Elements Of A New Life by VER:WEST, Tiësto](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
