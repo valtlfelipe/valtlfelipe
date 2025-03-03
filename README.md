@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)** - 🎉 performant confetti animation in the browser (6 days ago)
 
 #### 🎧 What I have been listening
-- [I Don&#39;t Like It, I Love It (feat. Robin Thicke &amp; Verdine White) by Flo Rida, Robin Thicke, Verdine White](https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ)
-- [Feel Your Love by Bhaskar, Lucas Estrada, EEVA](https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI)
-- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
-- [Aquatic by Nora En Pure](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK)
-- [You Were Right by RÜFÜS DU SOL](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz)
+- [We Found Love by Rihanna, Calvin Harris](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py)
+- [I Gotta Feeling by Black Eyed Peas](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR)
+- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
+- [Firework by Katy Perry](https://open.spotify.com/track/1mXuMM6zjPgjL4asbBsgnt)
+- [Rhythm Divine by Enrique Iglesias](https://open.spotify.com/track/4XifD1V0kWoG4WwsXTwS3y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
