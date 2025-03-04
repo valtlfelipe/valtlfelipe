@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)** - 🎉 performant confetti animation in the browser (1 week ago)
 
 #### 🎧 What I have been listening
+- [I&#39;m Good (Blue) - R3HAB Remix by David Guetta, Bebe Rexha, R3HAB](https://open.spotify.com/track/4NPJY8yFbu6YpgsgsKiEu1)
+- [Get with Me by Afgo](https://open.spotify.com/track/4u5xFwCYnQilZBeOMFXTGh)
+- [Ghost Town (Lucas Estrada Remix) by VINAI, John De Sohn, Lucas Estrada](https://open.spotify.com/track/0ndg56b510prqHlImqJoxG)
+- [Alchemy - Original Mix by Above &amp; Beyond, Zoë Johnston](https://open.spotify.com/track/1DFgEywD1RGDSt1VwqppwS)
 - [I Remember - John Summit Remix by deadmau5, Kaskade, John Summit](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz)
-- [Back 2 Back by Dazy Chain](https://open.spotify.com/track/2CSIUBvjiSFcNZYSwUDVhD)
-- [Selecta by Skrillex, BEAM](https://open.spotify.com/track/2nBswif1hr0AS3ialfIRgy)
-- [Drink Water (feat. Jon Bellion and Fireboy DML) by Jon Batiste, Jon Bellion, Fireboy DML](https://open.spotify.com/track/0vovnhziMYImdMsEDPncA8)
-- [Love Tonight (David Guetta Remix Edit) by Shouse, David Guetta](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
