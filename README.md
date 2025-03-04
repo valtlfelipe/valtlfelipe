@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)** - 🎉 performant confetti animation in the browser (1 week ago)
 
 #### 🎧 What I have been listening
-- [Love Story (Taylor’s Version) by Taylor Swift](https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx)
-- [Anti-Hero by Taylor Swift](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu)
-- [Flowers by Miley Cyrus](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0)
-- [Someone You Loved by Lewis Capaldi](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc)
-- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
+- [How I Feel by Slow Motion](https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1)
+- [The Last Goodbye (Live) by ODESZA](https://open.spotify.com/track/6y6vQOD1k3fBySGpjPmIkJ)
+- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [This Is What It Feels Like - Armin van Buuren 2023 Remix by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
