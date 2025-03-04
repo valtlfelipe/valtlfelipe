@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)** - 🎉 performant confetti animation in the browser (1 week ago)
 
 #### 🎧 What I have been listening
-- [How I Feel by Slow Motion](https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1)
-- [The Last Goodbye (Live) by ODESZA](https://open.spotify.com/track/6y6vQOD1k3fBySGpjPmIkJ)
-- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
-- [This Is What It Feels Like - Armin van Buuren 2023 Remix by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK)
+- [I Remember - John Summit Remix by deadmau5, Kaskade, John Summit](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz)
+- [Back 2 Back by Dazy Chain](https://open.spotify.com/track/2CSIUBvjiSFcNZYSwUDVhD)
+- [Selecta by Skrillex, BEAM](https://open.spotify.com/track/2nBswif1hr0AS3ialfIRgy)
+- [Drink Water (feat. Jon Bellion and Fireboy DML) by Jon Batiste, Jon Bellion, Fireboy DML](https://open.spotify.com/track/0vovnhziMYImdMsEDPncA8)
+- [Love Tonight (David Guetta Remix Edit) by Shouse, David Guetta](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
