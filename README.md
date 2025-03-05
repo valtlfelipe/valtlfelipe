@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)** - 🎉 performant confetti animation in the browser (1 week ago)
 
 #### 🎧 What I have been listening
-- [Heartbeat by Claptone, Nathan Nicholson](https://open.spotify.com/track/68Q6c22JNyLUlZYX4dE2tn)
-- [Silence - Kryder Remix by Delerium, Sarah McLachlan, Kryder](https://open.spotify.com/track/34CtI9lzEVzmq8NcQ6dJLP)
-- [Nothing On Me by Maz, APACHE (FR), MAXI MERAKI, Tabia](https://open.spotify.com/track/1Rh8OSTma2g6BdfBYXiTrq)
-- [Ready For You (feat. Celeste) by Black Coffee, Celeste](https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI)
-- [See Right Through You by Burko, Valentine Byrne](https://open.spotify.com/track/3mrkUkEjzNkKrgb7iBM5r9)
+- [One More Chance by Familiar Faces](https://open.spotify.com/track/5RWaoorATy51bTcKH4iEuF)
+- [Sorry by Ahmet Kilic](https://open.spotify.com/track/2lAfcEYH9e31pcR6MSK2fk)
+- [No Time - RÜFÜS DU SOL Remix by Lastlings, RÜFÜS DU SOL](https://open.spotify.com/track/3cjtV7mrujTD5DjrzMY6km)
+- [Learn To Forget by Adam Swim](https://open.spotify.com/track/44cqeU0MUiYKIGPS50wOfg)
+- [Alive - Anyma Remix by RÜFÜS DU SOL, Anyma](https://open.spotify.com/track/51a3PbfoqGIQsqZXKd2YWf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
