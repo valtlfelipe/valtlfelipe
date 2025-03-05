@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)** - 🎉 performant confetti animation in the browser (1 week ago)
 
 #### 🎧 What I have been listening
-- [Revelation by Ben Böhmer, PBSR](https://open.spotify.com/track/2aknixJwn2sYVF07hITimr)
-- [Waves by Abroad](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM)
-- [Start Again by Kidnap](https://open.spotify.com/track/56s8emjdpq3KjecMlyIBkb)
-- [I Feel It by John Gold](https://open.spotify.com/track/55cWblazmypascy4N82N4V)
-- [One Good Reason by Rezident, Biishop](https://open.spotify.com/track/78rkJWLEiS9xLHoLTvKBMD)
+- [Come Home - Extended Mix by ALPHA 9](https://open.spotify.com/track/6dJxZxcSOMRZ42zKUoZHwC)
+- [Escalate by Ben Böhmer, JONAH](https://open.spotify.com/track/0QWJ9fIB8bBGMV22Ttlf2S)
+- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
+- [Amman by Emmit Fenn](https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r)
+- [Lighthouse by HRRTZ, Cammie Robinson](https://open.spotify.com/track/3Kz1LSFeZXFhE60Enrp133)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
