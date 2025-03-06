@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (6 days ago)
 
 #### 🎧 What I have been listening
-- [Love Ain&#39;t Over by GHALIA, Tim Sanders](https://open.spotify.com/track/6YwI2esxeLZOXdVbnfWCIm)
-- [Alive - Anyma Remix by RÜFÜS DU SOL, Anyma](https://open.spotify.com/track/51a3PbfoqGIQsqZXKd2YWf)
-- [Nature&#39;s Breath by Dumitresku, Nursultan Kun](https://open.spotify.com/track/3zT6L2v1Wyc0lq5sYIC4Ms)
-- [Heartbeat by Claptone, Nathan Nicholson](https://open.spotify.com/track/68Q6c22JNyLUlZYX4dE2tn)
-- [Feel by Avi Snow, MVCA, Zeeba](https://open.spotify.com/track/4scxvvNN8Dhm5y4p54QamD)
+- [Canopée des Cîmes by Jan Blomqvist](https://open.spotify.com/track/2nVUEKKPv9DDilSZwCcMfu)
+- [Emptiness by Giolì &amp; Assia](https://open.spotify.com/track/4Rzjq1BbE2ZDaiUDLFE8Tl)
+- [Wide Awake by ODESZA, Charlie Houston](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB)
+- [AROSE - Extended Mix by Lyke](https://open.spotify.com/track/15TDCivmjhmQL1VER0cV8L)
+- [Love Inc by Booka Shade](https://open.spotify.com/track/5bjXTibRMVzZUQwiT47Z93)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
