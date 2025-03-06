@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (6 days ago)
 
 #### 🎧 What I have been listening
-- [Canopée des Cîmes by Jan Blomqvist](https://open.spotify.com/track/2nVUEKKPv9DDilSZwCcMfu)
-- [Emptiness by Giolì &amp; Assia](https://open.spotify.com/track/4Rzjq1BbE2ZDaiUDLFE8Tl)
-- [Wide Awake by ODESZA, Charlie Houston](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB)
-- [AROSE - Extended Mix by Lyke](https://open.spotify.com/track/15TDCivmjhmQL1VER0cV8L)
-- [Love Inc by Booka Shade](https://open.spotify.com/track/5bjXTibRMVzZUQwiT47Z93)
+- [Leave You by Einmusik, Lexer, Jyll](https://open.spotify.com/track/3p1j9R2oZG7GG9OtJxphWX)
+- [High On Beat by Jan Blomqvist, Bloom Twins](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi)
+- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
+- [This Version Of You - Joseph Ray Remix by ODESZA, Julianna Barwick, Joseph Ray](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy)
+- [Far Away by Lyke](https://open.spotify.com/track/7ixHfExIwVwKu0JApyTvuR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
