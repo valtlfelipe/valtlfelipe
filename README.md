@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (6 days ago)
 
 #### 🎧 What I have been listening
-- [The Space In Between - Ben Böhmer Remix by Jan Blomqvist, Ben Böhmer](https://open.spotify.com/track/6QcU4iwfLjjsrW7zsqyc1D)
-- [Holding Me Like Water by Lastlings](https://open.spotify.com/track/2kYGHUFG70GK4ZuWzLvRJl)
-- [Waiting For You by Anabel Englund](https://open.spotify.com/track/3uuHc2dliwIln1oAmSWEZb)
-- [Made For Each Other - Extended Mix by Clér Letiv](https://open.spotify.com/track/7oOE5x6gtFt5jfu8Iwv91s)
-- [Ready For You (feat. Celeste) by Black Coffee, Celeste](https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI)
+- [Lost (with Angelos feat. Jinadu) by Black Coffee, Angelos, Jinadu](https://open.spotify.com/track/5XsorNI7KEXkUsnhPuaZDB)
+- [See You Again by RÜFÜS DU SOL](https://open.spotify.com/track/1rssm0lgmiUJnUwQ166kZA)
+- [Hanging On - CRi Remix by Bob Moses, CRi](https://open.spotify.com/track/1DkpkxabQnbRmhvdjdmnnW)
+- [Visions - jamesjamesjames Remix by Lastlings, jamesjamesjames](https://open.spotify.com/track/7nbMyWcTfIydxb9iXAtNaE)
+- [Attraction by Jyye](https://open.spotify.com/track/2UmiXqJJ3qQooP5pUuiI0W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
