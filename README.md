@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (6 days ago)
 
 #### 🎧 What I have been listening
-- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [Run Deep by Nu Aspect](https://open.spotify.com/track/4gBkrpJoPBZKY0T1gyJ4iU)
-- [Alive by RÜFÜS DU SOL](https://open.spotify.com/track/1niGC0HGWBVPxhBjYe1Qys)
-- [After Love (feat. Delilah Montagu) by Anyma, Delilah Montagu](https://open.spotify.com/track/4v9YQDXd0Jn85CFBQQb6Xk)
-- [Gravity by Lastlings](https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn)
+- [TALK ABOUT by MAXI MERAKI](https://open.spotify.com/track/5zDePR01scTxDjaLfdO4dw)
+- [Waves (feat. Grace Tither) by BLOND:ISH, Grace Tither](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu)
+- [Turning Away - Parra for Cuva Remix by Monolink, Parra for Cuva](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o)
+- [Raindrops by Tolga Mahmut](https://open.spotify.com/track/53JEvpQWyUQNmcW7baN2Vo)
+- [High &amp; Low by Damiano C, Harper (SEEN), Yulia Niko](https://open.spotify.com/track/6aBk0LOrtlVOYjGmBcU0cW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
