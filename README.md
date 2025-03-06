@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (6 days ago)
 
 #### 🎧 What I have been listening
-- [Leave You by Einmusik, Lexer, Jyll](https://open.spotify.com/track/3p1j9R2oZG7GG9OtJxphWX)
-- [High On Beat by Jan Blomqvist, Bloom Twins](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi)
-- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
-- [This Version Of You - Joseph Ray Remix by ODESZA, Julianna Barwick, Joseph Ray](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy)
-- [Far Away by Lyke](https://open.spotify.com/track/7ixHfExIwVwKu0JApyTvuR)
+- [Inside Your Head by Giolì &amp; Assia](https://open.spotify.com/track/6iRSsdRMHkkJfAqT4Zg5oM)
+- [Over and Over by Ahmet Kilic](https://open.spotify.com/track/3MiGk4CRX8ZqXLSzmoI7ZQ)
+- [The Space In Between by Jan Blomqvist](https://open.spotify.com/track/0BOivei4EFBvk7CKwEwaZf)
+- [Afterglow by Bob Moses, Kasablanca](https://open.spotify.com/track/1Aic3Xbzma3Nb0sSwqGCdf)
+- [Bloom by Piece Wise, Abroad](https://open.spotify.com/track/1s6Cvc0F0xTc6PBIlpnMgK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
