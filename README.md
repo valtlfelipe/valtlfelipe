@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (6 days ago)
 
 #### 🎧 What I have been listening
-- [Lost (with Angelos feat. Jinadu) by Black Coffee, Angelos, Jinadu](https://open.spotify.com/track/5XsorNI7KEXkUsnhPuaZDB)
-- [See You Again by RÜFÜS DU SOL](https://open.spotify.com/track/1rssm0lgmiUJnUwQ166kZA)
-- [Hanging On - CRi Remix by Bob Moses, CRi](https://open.spotify.com/track/1DkpkxabQnbRmhvdjdmnnW)
-- [Visions - jamesjamesjames Remix by Lastlings, jamesjamesjames](https://open.spotify.com/track/7nbMyWcTfIydxb9iXAtNaE)
-- [Attraction by Jyye](https://open.spotify.com/track/2UmiXqJJ3qQooP5pUuiI0W)
+- [Never Give Up On You by Ryan Shepherd, Georgi Kay](https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS)
+- [Make It Happen by RÜFÜS DU SOL](https://open.spotify.com/track/7K1TsEgLCoNxr7tvPRJgrL)
+- [Desire by Bob Moses, ZHU](https://open.spotify.com/track/0tcNM9PPdMYv9S3tjuZSyV)
+- [Held Under by Lastlings](https://open.spotify.com/track/0662xSpC8Gt3batqwHgHiA)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
