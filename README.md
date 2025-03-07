@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Torn by Braxton, Danni Wells](https://open.spotify.com/track/217vqyiEFgxAwcUIbQErB4)
-- [Virgo by Le Youth](https://open.spotify.com/track/4lgEtC1W3xZSRFoJuPLmkk)
-- [Wonder by Avoure, Hexlogic](https://open.spotify.com/track/13mt4biR8En1yZ0zcLNQDD)
-- [Day One by Bound to Divide](https://open.spotify.com/track/0oldHR8gIENRw5l8pBuAL2)
-- [Silence by Kidnap](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5)
+- [Spaces by Braxton](https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY)
+- [Blame on Me - Club Edit by Giolì &amp; Assia, Hang Massive](https://open.spotify.com/track/39gaLOI7E7lmLzSCTbYX5L)
+- [Ardour by Into The Ether](https://open.spotify.com/track/2zdqREDAOMvugQI0UObaAK)
+- [Here To Stay by Jody Wisternoff](https://open.spotify.com/track/1TsTnlxVZMy7vBhdYYbQkr)
+- [Clumsy by Avoure](https://open.spotify.com/track/1SJc3bTWoGqH0KUH3gkk33)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
