@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Silence by Kidnap](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5)
-- [Dapple by Jody Wisternoff, James Grant](https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m)
-- [Meridian by Anderholm](https://open.spotify.com/track/6jHwozb4zx4hIPnqpkAk0H)
-- [Just One Way by Into The Ether](https://open.spotify.com/track/3QBnsAHwmmRdOqH7bzidRs)
-- [Wonder by Avoure, Hexlogic](https://open.spotify.com/track/13mt4biR8En1yZ0zcLNQDD)
+- [Kyrie - Edit by Khåen](https://open.spotify.com/track/78N8CoFJqzmXW2jPCIwdW1)
+- [Blessed - loupstr Remix by Avoure, loupstr](https://open.spotify.com/track/2Pxga2LALLAJ5f0KG2lSwg)
+- [Mope by Anderholm](https://open.spotify.com/track/7GG91wxtHKBS1Y2Yy0Qpxp)
+- [Sea Breeze by Kidnap](https://open.spotify.com/track/1E2bwrGXHxfyzb2DFbVCui)
+- [Froggy by Sound Quelle, Jackarta](https://open.spotify.com/track/5lKDqlxKkoZwyPZNwuKG98)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
