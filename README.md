@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
+- [ANTO by MRTNI, Bruno Martini](https://open.spotify.com/track/3ZdJuPReSadEpmW5o9k6dF)
+- [Turn It Up by Mark State, PACANI, AntiarT](https://open.spotify.com/track/3MASY75KCPRGj58vTGiFsT)
+- [From The Stars by Mochakk, The Rah Band](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp)
+- [CHIHIRO by Vitor Bueno, KAIANN, Lele Allves](https://open.spotify.com/track/3303uMjU1pKbL9cFZEOR6e)
 - [Maré by Antdot, Riascode, Amanda Magalhães](https://open.spotify.com/track/2IAnBtvkFGrbS37G0VeaBy)
-- [Heart by BAF](https://open.spotify.com/track/0w50G1DZWHeKyn8YhRviN1)
-- [Future Hearts by ANNA, Ravid](https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs)
-- [Dancefloor (with Alex D’Rosso) by KVSH, Amero, PUGO, Alex D&#39;Rosso](https://open.spotify.com/track/4NLZnXw1QJVoofvXWgmGc1)
-- [I&#39;m Watching You (So Many Times) by Scorz, Curol, Gadjo](https://open.spotify.com/track/1f26qlC6sa7yjfvyDdyS48)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
