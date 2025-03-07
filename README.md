@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Kyrie - Edit by Khåen](https://open.spotify.com/track/78N8CoFJqzmXW2jPCIwdW1)
-- [Blessed - loupstr Remix by Avoure, loupstr](https://open.spotify.com/track/2Pxga2LALLAJ5f0KG2lSwg)
-- [Mope by Anderholm](https://open.spotify.com/track/7GG91wxtHKBS1Y2Yy0Qpxp)
-- [Sea Breeze by Kidnap](https://open.spotify.com/track/1E2bwrGXHxfyzb2DFbVCui)
-- [Froggy by Sound Quelle, Jackarta](https://open.spotify.com/track/5lKDqlxKkoZwyPZNwuKG98)
+- [Sinus by Anderholm](https://open.spotify.com/track/3HqrQJO8bxiEq6GFgPWYwE)
+- [Pink by Avoure](https://open.spotify.com/track/7jC1ym6zymckGeBH5FlwXq)
+- [Colibrí by BLR](https://open.spotify.com/track/16jegZgDZS5mkhp6KCKrCd)
+- [Another Riff For The Good Times by Yotto](https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7)
+- [Day One by Bound to Divide](https://open.spotify.com/track/0oldHR8gIENRw5l8pBuAL2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
