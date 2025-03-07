@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [ANTO by MRTNI, Bruno Martini](https://open.spotify.com/track/3ZdJuPReSadEpmW5o9k6dF)
-- [Turn It Up by Mark State, PACANI, AntiarT](https://open.spotify.com/track/3MASY75KCPRGj58vTGiFsT)
-- [From The Stars by Mochakk, The Rah Band](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp)
-- [CHIHIRO by Vitor Bueno, KAIANN, Lele Allves](https://open.spotify.com/track/3303uMjU1pKbL9cFZEOR6e)
-- [Maré by Antdot, Riascode, Amanda Magalhães](https://open.spotify.com/track/2IAnBtvkFGrbS37G0VeaBy)
+- [Soft and Nice by Calvin Durant](https://open.spotify.com/track/0vrQTP6dfQsQSohyIfB7SP)
+- [Ultra Vox by Hamasi](https://open.spotify.com/track/5XkvJe4K43yHEIsJpDoj4s)
+- [Arcade Lounge by Palm 3s](https://open.spotify.com/track/3ctC0SWZpD2T2O2qfKvXPy)
+- [raw talent by SCRP](https://open.spotify.com/track/1fiLX6QvjBSo0l0QbIvn24)
+- [Soil by Bush Lily](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
