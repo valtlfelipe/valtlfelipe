@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Red Sun by Avoure](https://open.spotify.com/track/4kk0mKkbvPtNaQy2aKLmF7)
-- [Deep Sea - Outro by Giolì &amp; Assia](https://open.spotify.com/track/6fTSUWqV3phM7w0MthdDOl)
-- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
-- [Weightless by Ben Böhmer, Panama](https://open.spotify.com/track/70kAyzsYTZYAe5a7b0LYJf)
-- [In My Grasp by Khåen, Avoure](https://open.spotify.com/track/1MHGXRiiLeujWR3Kd3M9Er)
+- [Blessed by Avoure](https://open.spotify.com/track/4i2ZJriUtCUMuNHieWEJ08)
+- [Voices by Braxton, Lovlee](https://open.spotify.com/track/2M2zorewLO3B47csyLbRQm)
+- [Hung by Sound Quelle](https://open.spotify.com/track/5KteBzvgHmFUGpjJ8iN3XY)
+- [Feel Myself by Lyke](https://open.spotify.com/track/4zsWgeZjAyevBqc8xDqUDs)
+- [From Me - CRi Remix by CRi, Bernache](https://open.spotify.com/track/5iTvmwlldWLTWo0tA8V3oX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
