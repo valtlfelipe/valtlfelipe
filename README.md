@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Spaces by Braxton](https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY)
-- [Blame on Me - Club Edit by Giolì &amp; Assia, Hang Massive](https://open.spotify.com/track/39gaLOI7E7lmLzSCTbYX5L)
-- [Ardour by Into The Ether](https://open.spotify.com/track/2zdqREDAOMvugQI0UObaAK)
-- [Here To Stay by Jody Wisternoff](https://open.spotify.com/track/1TsTnlxVZMy7vBhdYYbQkr)
-- [Clumsy by Avoure](https://open.spotify.com/track/1SJc3bTWoGqH0KUH3gkk33)
+- [Red Sun by Avoure](https://open.spotify.com/track/4kk0mKkbvPtNaQy2aKLmF7)
+- [Deep Sea - Outro by Giolì &amp; Assia](https://open.spotify.com/track/6fTSUWqV3phM7w0MthdDOl)
+- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
+- [Weightless by Ben Böhmer, Panama](https://open.spotify.com/track/70kAyzsYTZYAe5a7b0LYJf)
+- [In My Grasp by Khåen, Avoure](https://open.spotify.com/track/1MHGXRiiLeujWR3Kd3M9Er)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
