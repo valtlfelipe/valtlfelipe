@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Blessed by Avoure](https://open.spotify.com/track/4i2ZJriUtCUMuNHieWEJ08)
-- [Voices by Braxton, Lovlee](https://open.spotify.com/track/2M2zorewLO3B47csyLbRQm)
-- [Hung by Sound Quelle](https://open.spotify.com/track/5KteBzvgHmFUGpjJ8iN3XY)
-- [Feel Myself by Lyke](https://open.spotify.com/track/4zsWgeZjAyevBqc8xDqUDs)
-- [From Me - CRi Remix by CRi, Bernache](https://open.spotify.com/track/5iTvmwlldWLTWo0tA8V3oX)
+- [Sanctify by Anderholm](https://open.spotify.com/track/7okl8DBMOfSK2CEOtctTBv)
+- [Aura by Avoure](https://open.spotify.com/track/0B2GWovtxzsh0a02PBbNl7)
+- [Cenote by Sainte Vie](https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf)
+- [Vallut Bass by AKA AKA, Junge Junge](https://open.spotify.com/track/6etAsc19pzAmugWALZjpDo)
+- [Come To Life by Scorz, Diana Leah](https://open.spotify.com/track/2Cn42wAQwgQ5qv61UUdKdR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
