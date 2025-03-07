@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sail by Rylan Taggart](https://open.spotify.com/track/2alB4O1qgpBGbU4RrwCayC)
-- [Route by Jad Alexander](https://open.spotify.com/track/2yz4C04AMcaF9E0eqOcpzm)
-- [Illuminate by Avoure, Jem Cooke](https://open.spotify.com/track/30zcSdwEAuoit3gUpmxmMz)
-- [Odyssee - Pt. 2 by BLR](https://open.spotify.com/track/4isQapTCsf1TvF9RkzfrCG)
-- [Third Evangelist by Khåen](https://open.spotify.com/track/6sV5eiW4qnThMt3W8dKH6J)
+- [Room 1.5 - Radio Edit by Joseph Ray](https://open.spotify.com/track/5pNtz0lgqQbUNlu0HyxhmM)
+- [Roots by GRIDD](https://open.spotify.com/track/59QraWR3l4RoHHJgFfvEZt)
+- [Elements Of A New Life by VER:WEST, Tiësto](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs)
+- [Ray by Avoure](https://open.spotify.com/track/7xMVULHKJT2vQRb4i3JYQl)
+- [Ignition by Einmusik](https://open.spotify.com/track/2p70rz3kWT5vB4Wp3J4SAQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
