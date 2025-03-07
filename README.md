@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Room 1.5 - Radio Edit by Joseph Ray](https://open.spotify.com/track/5pNtz0lgqQbUNlu0HyxhmM)
-- [Roots by GRIDD](https://open.spotify.com/track/59QraWR3l4RoHHJgFfvEZt)
-- [Elements Of A New Life by VER:WEST, Tiësto](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs)
-- [Ray by Avoure](https://open.spotify.com/track/7xMVULHKJT2vQRb4i3JYQl)
-- [Ignition by Einmusik](https://open.spotify.com/track/2p70rz3kWT5vB4Wp3J4SAQ)
+- [Maré by Antdot, Riascode, Amanda Magalhães](https://open.spotify.com/track/2IAnBtvkFGrbS37G0VeaBy)
+- [Heart by BAF](https://open.spotify.com/track/0w50G1DZWHeKyn8YhRviN1)
+- [Future Hearts by ANNA, Ravid](https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs)
+- [Dancefloor (with Alex D’Rosso) by KVSH, Amero, PUGO, Alex D&#39;Rosso](https://open.spotify.com/track/4NLZnXw1QJVoofvXWgmGc1)
+- [I&#39;m Watching You (So Many Times) by Scorz, Curol, Gadjo](https://open.spotify.com/track/1f26qlC6sa7yjfvyDdyS48)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
