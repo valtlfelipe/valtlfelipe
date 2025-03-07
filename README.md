@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Virgo by Le Youth](https://open.spotify.com/track/4lgEtC1W3xZSRFoJuPLmkk)
-- [Mordecai by Khåen](https://open.spotify.com/track/5YCQbgbV4hlM6SNcTVg69W)
-- [Maelstrom by Ben Böhmer](https://open.spotify.com/track/4ItMchWCT6d3acnzQfcpmy)
-- [Sanctify by Anderholm](https://open.spotify.com/track/7okl8DBMOfSK2CEOtctTBv)
-- [Aura by Avoure](https://open.spotify.com/track/0B2GWovtxzsh0a02PBbNl7)
+- [Silence by Kidnap](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5)
+- [Dapple by Jody Wisternoff, James Grant](https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m)
+- [Meridian by Anderholm](https://open.spotify.com/track/6jHwozb4zx4hIPnqpkAk0H)
+- [Just One Way by Into The Ether](https://open.spotify.com/track/3QBnsAHwmmRdOqH7bzidRs)
+- [Wonder by Avoure, Hexlogic](https://open.spotify.com/track/13mt4biR8En1yZ0zcLNQDD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
