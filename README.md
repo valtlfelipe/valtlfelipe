@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Only U by LeDorean](https://open.spotify.com/track/1QsHWsHzWiqMFKwNojRZx9)
-- [Soft and Nice by Calvin Durant](https://open.spotify.com/track/0vrQTP6dfQsQSohyIfB7SP)
-- [Ultra Vox by Hamasi](https://open.spotify.com/track/5XkvJe4K43yHEIsJpDoj4s)
-- [Arcade Lounge by Palm 3s](https://open.spotify.com/track/3ctC0SWZpD2T2O2qfKvXPy)
-- [raw talent by SCRP](https://open.spotify.com/track/1fiLX6QvjBSo0l0QbIvn24)
+- [Coconut by Aaron Mathix](https://open.spotify.com/track/0aU8McQ5c04kq15PWhHm1a)
+- [Tide by Solicit](https://open.spotify.com/track/4BBlimMXFek1ZFyCafeEVY)
+- [bright and breezy by Landayn](https://open.spotify.com/track/1uRStsqQYCBXd1X8fc9n4u)
+- [Bubbly Vibes by Pool-Man John](https://open.spotify.com/track/1cvX6BDM6QiuPfOFeXXRuM)
+- [Traveler by Cluster](https://open.spotify.com/track/7sYFnDDJrJLBarGGTyvGfQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
