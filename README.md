@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
-- [Die With A Smile by Lady Gaga, Bruno Mars](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe)
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
-- [Accelerate by LilyPon](https://open.spotify.com/track/0R0HEit8IfFYd20Vzso912)
-- [Accelerate by LilyPon](https://open.spotify.com/track/0R0HEit8IfFYd20Vzso912)
+- [The Last Goodbye (Live) by ODESZA](https://open.spotify.com/track/6y6vQOD1k3fBySGpjPmIkJ)
+- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [Flowers by Miley Cyrus](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0)
+- [Last Night by Morgan Wallen](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
