@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Ghost Town (Lucas Estrada Remix) by VINAI, John De Sohn, Lucas Estrada](https://open.spotify.com/track/0ndg56b510prqHlImqJoxG)
-- [Alchemy - Original Mix by Above &amp; Beyond, Zoë Johnston](https://open.spotify.com/track/1DFgEywD1RGDSt1VwqppwS)
-- [Back 2 Back by Dazy Chain](https://open.spotify.com/track/2CSIUBvjiSFcNZYSwUDVhD)
-- [Selecta by Skrillex, BEAM](https://open.spotify.com/track/2nBswif1hr0AS3ialfIRgy)
-- [Drink Water (feat. Jon Bellion and Fireboy DML) by Jon Batiste, Jon Bellion, Fireboy DML](https://open.spotify.com/track/0vovnhziMYImdMsEDPncA8)
+- [Saturday Night by Effemar, Nina Carr](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl)
+- [Won&#39;t Fall by Drics](https://open.spotify.com/track/6qSeyDQjR9cBtopcSS626e)
+- [Vuelta Al Sol by Tomas Novoa](https://open.spotify.com/track/2Tc7bA1t9DaphQLjpOUfJf)
+- [Side Effect (feat. Au/Ra) by Alok, Au/Ra](https://open.spotify.com/track/4oGo7473OiyYAxpx4UpCIR)
+- [Pepas - David Guetta Remix by Farruko, David Guetta](https://open.spotify.com/track/75sMhi81W5Tw2AGlOGATuy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
