@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Saturday Night by Effemar, Nina Carr](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl)
-- [Won&#39;t Fall by Drics](https://open.spotify.com/track/6qSeyDQjR9cBtopcSS626e)
-- [Vuelta Al Sol by Tomas Novoa](https://open.spotify.com/track/2Tc7bA1t9DaphQLjpOUfJf)
-- [Side Effect (feat. Au/Ra) by Alok, Au/Ra](https://open.spotify.com/track/4oGo7473OiyYAxpx4UpCIR)
-- [Pepas - David Guetta Remix by Farruko, David Guetta](https://open.spotify.com/track/75sMhi81W5Tw2AGlOGATuy)
+- [Love You So by Manuel Varey](https://open.spotify.com/track/3wILe1tPSi2yYpgptC9tyj)
+- [I Can&#39;t Get Nothing - Radio by Tiko&#39;s Groove, Gosha](https://open.spotify.com/track/2loRALVpIwCGPgqykI6tPQ)
+- [Leave The Door Open by Bruno Mars, Anderson .Paak, Silk Sonic](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T)
+- [El Incomprendido by Farruko, Victor Cardenas, Dj Adoni](https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf)
+- [I&#39;m into It by Paul Oakenfold, Velvet Cash, ZHU](https://open.spotify.com/track/2cNgIYARHDDUrFsguos6Bo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
