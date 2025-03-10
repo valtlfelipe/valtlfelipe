@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [Everywhere (I wanna be with you) by Lyrah](https://open.spotify.com/track/2lh1prYnrU9tL843C6rzSq)
-- [Consequences by GATE77](https://open.spotify.com/track/7zoycHROuFlDSkjWUWGpU7)
-- [Sunrise by Jako Diaz](https://open.spotify.com/track/2qsUw1xPsAZIZMIKQlVP7y)
-- [Try by P!nk](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0)
-- [Unstoppable by Sia](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS)
+- [Povoada - Remix by Sued Nunes, Maz, Antdot](https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS)
+- [It&#39;s over Now by Calippo](https://open.spotify.com/track/5KdPdYelW7YPC0dM4Stb0Q)
+- [Lightning Like This (feat. Bambie) (feat. Bambie) by Nightlapse, Bambie](https://open.spotify.com/track/3twwca9GB7GoOiRwGnh6cu)
+- [Enjoy the Moment by Howz](https://open.spotify.com/track/1eCqKfYdOAvATyHri410pv)
+- [It&#39;s over Now by Calippo](https://open.spotify.com/track/5KdPdYelW7YPC0dM4Stb0Q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
