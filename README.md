@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[t3dotgg/unduck](https://github.com/t3dotgg/unduck)** - A fast, local-first &#34;search engine&#34; for !bang users (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Whole World (AIR223) by Dean Mickoski, Francis Mercier, Roland Clark](https://open.spotify.com/track/1TI2RNn4IyDSTsplcwd2Nh)
-- [Home by Adriatique, Marino Canal, Delhia De France](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q)
-- [Povoada - Remix by Sued Nunes, Maz, Antdot](https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS)
-- [Into The Wild by Casino Gold](https://open.spotify.com/track/33INjMAwxX3xORFGCe8ubE)
-- [Strangers (with Mansionair) by Dom Dolla, Mansionair](https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW)
+- [Aurora by Iskarelyn](https://open.spotify.com/track/49MLHM8KIKEIzxEjPhiEIF)
+- [Into The Ocean by MALIAN, twocolouredman](https://open.spotify.com/track/5eY9jGygXyO5x1djxydy6e)
+- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
+- [set me free by Aaron Hibell, Alex Wann](https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK)
+- [Atlas by Sindresu](https://open.spotify.com/track/0MKQSVIPkm5bm45avm7fYM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
