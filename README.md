@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[mem0ai/mem0](https://github.com/mem0ai/mem0)** - The Memory layer for AI Agents (1 week ago)
 
 #### 🎧 What I have been listening
+- [Tides by Andrew Nagy, bailey](https://open.spotify.com/track/4gDJRkaclDdMlwE9tlX9RG)
 - [Love Me The Same by Astrality, Krysta Youngs](https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW)
 - [Not Giving You Up - Vandelux Remix by Rules, Vandelux](https://open.spotify.com/track/1MQ2Wj7spgwcnj1QPkTAvh)
 - [Deja Vu by Steam Phunk, SEM](https://open.spotify.com/track/2rYmLVCRao7S4l3NQ5rPRT)
 - [Tangole by Max Marchisio](https://open.spotify.com/track/1CiS161mZAEMqpiZcctIxU)
-- [Muhuuuuu by Lazare, ADDAM (BE)](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
