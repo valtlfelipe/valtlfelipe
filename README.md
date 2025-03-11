@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[mem0ai/mem0](https://github.com/mem0ai/mem0)** - The Memory layer for AI Agents (1 week ago)
 
 #### 🎧 What I have been listening
-- [Colourful by Grey Vision](https://open.spotify.com/track/2FyXyL8ovftr9BeFyjjQ5P)
-- [Dream in Color by Greg Elenis](https://open.spotify.com/track/7sgjmvjSVVCfTlfYa4H6oG)
-- [How Did We Get Here by Andrew Nagy, Lovlee](https://open.spotify.com/track/6rObeWLiabZriNlsKwVt5N)
-- [Amana by Maz, VXSION](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb)
-- [If Only We Could by Cammie Robinson, Madason](https://open.spotify.com/track/5L2AN0eg1XN7SMLX5JEssj)
+- [Godspeed by Maone, Sam Welch](https://open.spotify.com/track/3xbVLhTrZH7tlEnMnMhLMr)
+- [Start Over by Jako Diaz, Eliine](https://open.spotify.com/track/6JlHSovAYfw0BsujrrBDNe)
+- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
+- [Make It Better by Paul Schulze](https://open.spotify.com/track/5pMOrhDsjGXFjMBdVk7nZ1)
+- [Life with You by INNERVERSE, Paul Schulze, Oliver Cricket, Courtney Storm](https://open.spotify.com/track/356zh8gZWsTSQqtJBUpJ3b)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
