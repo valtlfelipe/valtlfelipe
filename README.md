@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[mem0ai/mem0](https://github.com/mem0ai/mem0)** - The Memory layer for AI Agents (1 week ago)
 
 #### 🎧 What I have been listening
-- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
-- [Your Voice - Adam Port Remix by Caiiro, AWEN, Adam Port](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM)
-- [Hologram by Le Youth, LeyeT](https://open.spotify.com/track/210bt3QeLgxfbcSKikEeNT)
-- [Burn for You by Daww](https://open.spotify.com/track/0Up97joSZf1VU0dlg7aTQG)
-- [Going Under by Vanglowe](https://open.spotify.com/track/7iggDPXLzfM77v2GNzhCzx)
+- [Would U Let Me by Oliver Cricket](https://open.spotify.com/track/37qIRuKZvSQTYqMAJoXFmm)
+- [Tied to You by Lipless, LöKii](https://open.spotify.com/track/3dAUan6b8qL94v2TEbKo9S)
+- [Feelings by farfetch&#39;d, Tobtok](https://open.spotify.com/track/1ZSuGfwnaWCLfIIVS5Qxp7)
+- [Addicted to You by Coverrun, tyler hooks](https://open.spotify.com/track/6ymC8lSSuAn6nMtKAXtnQn)
+- [Fall Apart by Ourson, Benji Lewis](https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
