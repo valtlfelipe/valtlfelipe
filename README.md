@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[mem0ai/mem0](https://github.com/mem0ai/mem0)** - The Memory layer for AI Agents (1 week ago)
 
 #### 🎧 What I have been listening
-- [Tides by Andrew Nagy, bailey](https://open.spotify.com/track/4gDJRkaclDdMlwE9tlX9RG)
-- [Love Me The Same by Astrality, Krysta Youngs](https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW)
-- [Not Giving You Up - Vandelux Remix by Rules, Vandelux](https://open.spotify.com/track/1MQ2Wj7spgwcnj1QPkTAvh)
-- [Deja Vu by Steam Phunk, SEM](https://open.spotify.com/track/2rYmLVCRao7S4l3NQ5rPRT)
-- [Tangole by Max Marchisio](https://open.spotify.com/track/1CiS161mZAEMqpiZcctIxU)
+- [Want by Areo](https://open.spotify.com/track/7LKv3rZaSG2YJ1sopzDcJp)
+- [Time (feat. Jules Buckley) - Edit by Tale Of Us, Pete Tong, Jules Buckley](https://open.spotify.com/track/0fTyEzi3tnz8z6VwNs7Mpf)
+- [Deep of You by Astrality, Marlo Rex](https://open.spotify.com/track/5lRzNBSLgUQFZhJrEYGqPN)
+- [Departure by Blu Attic, Jujh](https://open.spotify.com/track/3kOnfwdMyw9mOuYUSOFGR0)
+- [Different Light by Keanler, Sonam](https://open.spotify.com/track/5Lvp0p9XIS0gROInWJbq8k)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
