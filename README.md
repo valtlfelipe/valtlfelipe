@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[outerbase/starbasedb](https://github.com/outerbase/starbasedb)** - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Take You Further by Keanler](https://open.spotify.com/track/61Wa3nixS9JibHicOp581V)
-- [Daybreak by Duce, Maynørr, Courtney Storm](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA)
-- [Ceasefire by Heard Right, Finley Brückner, MØØNE](https://open.spotify.com/track/1iTB7lUB9UDsMCHqb13fet)
-- [Higher by BLOND:ISH, Black Circle](https://open.spotify.com/track/2y7UV3mw1igF35pj4b3xn7)
-- [I Need You by Damaui, Sick Trumpet](https://open.spotify.com/track/0jkQj1sebojbzkmmpWvYLc)
+- [Another Dawn by Massane, Kinnship](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA)
+- [Lighthouse by Le Youth, RBBTS](https://open.spotify.com/track/5yBIDuyXwZGF0RXRbNak0A)
+- [Lioness - Francis Mercier Remix by Swedish House Mafia, Niki &amp; The Dove, Francis Mercier](https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq)
+- [Better Alone by Ross Quinn](https://open.spotify.com/track/7fsiHd1FrQjjBdHvMA7uY7)
+- [Better Alone by Ross Quinn](https://open.spotify.com/track/7fsiHd1FrQjjBdHvMA7uY7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
