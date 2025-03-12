@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Eckhardt-D/blanq](https://github.com/Eckhardt-D/blanq)** - An opinionated Nuxt starter to avoid the boilerplate work and ship faster (1 week ago)
 
 #### 🎧 What I have been listening
+- [Stay (feat. Maty Noyes) by Kygo, Maty Noyes](https://open.spotify.com/track/7gBj0VgcuAgkXkiRRYvSmK)
+- [I&#39;ve Been Thinking About You by Londonbeat](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d)
 - [Fuego by Edmundo Silva](https://open.spotify.com/track/1MQTBbOIdbUYEIEGptfJ6M)
 - [Fresh - Charles J Remix by Crazibiza, Frank Caro, Alemany, Charles J](https://open.spotify.com/track/5bAchusJf93PFaTKSA5o31)
 - [Solong by KAAJO](https://open.spotify.com/track/07Mxu21oLznRItoo3WCVWB)
-- [Strangers by Ben Böhmer](https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ)
-- [Where I Find My Mind by Eli &amp; Fur](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
