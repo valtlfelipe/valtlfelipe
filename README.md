@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[mem0ai/mem0](https://github.com/mem0ai/mem0)** - The Memory layer for AI Agents (1 week ago)
 
 #### 🎧 What I have been listening
-- [Ride Or Die by Greg Elenis](https://open.spotify.com/track/4bZoa4DJ6p7gwGnbpUzflB)
-- [Into The Wild by Casino Gold](https://open.spotify.com/track/33INjMAwxX3xORFGCe8ubE)
-- [Disappear by THEMBA, Nico de Andrea, Tasan](https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE)
-- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
-- [Far Away by Lyke](https://open.spotify.com/track/7ixHfExIwVwKu0JApyTvuR)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [Bloom Again - Extended by Nu Aspect](https://open.spotify.com/track/3t92gvwuBSsO8rewRZ4t9u)
+- [Light A Fire by Marc Benjamin](https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf)
+- [On The Edge by UOAK, Damaui, Lisa Mechelina](https://open.spotify.com/track/2S2Sd6cTqg1sCcrUtGWInb)
+- [Petrichor - Edit by Klangkarussell, GIVVEN](https://open.spotify.com/track/6UmUCUiczf3vnvWR8HB42N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
