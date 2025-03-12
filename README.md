@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[outerbase/starbasedb](https://github.com/outerbase/starbasedb)** - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. (1 week ago)
 
 #### 🎧 What I have been listening
-- [More Than This by Lipless, Robby East](https://open.spotify.com/track/5LMi97PUZJLg83yVlz9IzW)
-- [Run Deep - Extended by Nu Aspect](https://open.spotify.com/track/4UBbQTYl5gv4DOIYjsbMdq)
-- [Nothing On Me by Maz, APACHE (FR), MAXI MERAKI, Tabia](https://open.spotify.com/track/1Rh8OSTma2g6BdfBYXiTrq)
-- [Underwater by Le Youth](https://open.spotify.com/track/6qnULXVFGfFqPj0Hpj0tIG)
-- [All We Ever Do by Keanler, Leo Stannard](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw)
+- [I Should Let You Go by Heard Right, Lewyn](https://open.spotify.com/track/0c4qq1mWCx1jzrWGO4GwDA)
+- [Sauti by Francis Mercier, Faul &amp; Wad, African Children&#39;s Choir](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz)
+- [Saturday Night - Extended by Effemar, Nina Carr](https://open.spotify.com/track/5wicWonJuh7Ns0X1tS9sCQ)
+- [Eyesight by Mats Westbroek, Damaui](https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA)
+- [Looking For Love by Damaui, Kat Abel](https://open.spotify.com/track/3GSdbgozjUXWw0lcpZUuBj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
