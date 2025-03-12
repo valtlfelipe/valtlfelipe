@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Eckhardt-D/blanq](https://github.com/Eckhardt-D/blanq)** - An opinionated Nuxt starter to avoid the boilerplate work and ship faster (1 week ago)
 
 #### 🎧 What I have been listening
-- [Eyes Off You by Polar Inc., XIRA](https://open.spotify.com/track/5YQ4BJs60OgPVEwisLNiu3)
-- [Alone by Lipless, Blue Noir](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln)
-- [Scent of Wood - Bound to Divide Remix by UOAK, Ceci, Bound to Divide](https://open.spotify.com/track/7hB5XhraRlHeAE5ONIcSWY)
-- [Moments - Ben Böhmer &amp; Nils Hoffmann Remix by Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0)
-- [Only For A Moment by Rezident, Ekko](https://open.spotify.com/track/0PpRPtxo4NFFQCrsnLdDni)
+- [Fuego by Edmundo Silva](https://open.spotify.com/track/1MQTBbOIdbUYEIEGptfJ6M)
+- [Fresh - Charles J Remix by Crazibiza, Frank Caro, Alemany, Charles J](https://open.spotify.com/track/5bAchusJf93PFaTKSA5o31)
+- [Solong by KAAJO](https://open.spotify.com/track/07Mxu21oLznRItoo3WCVWB)
+- [Strangers by Ben Böhmer](https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ)
+- [Where I Find My Mind by Eli &amp; Fur](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
