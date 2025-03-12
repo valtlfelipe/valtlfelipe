@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[Eckhardt-D/blanq](https://github.com/Eckhardt-D/blanq)** - An opinionated Nuxt starter to avoid the boilerplate work and ship faster (1 week ago)
 
 #### 🎧 What I have been listening
-- [Empty by Sindresu](https://open.spotify.com/track/0z13bzrX8mZQd6FUD4n5GV)
-- [Sunrise by Jako Diaz](https://open.spotify.com/track/2qsUw1xPsAZIZMIKQlVP7y)
-- [Lightning Like This (feat. Bambie) (feat. Bambie) by Nightlapse, Bambie](https://open.spotify.com/track/3twwca9GB7GoOiRwGnh6cu)
-- [Enjoy the Moment by Howz](https://open.spotify.com/track/1eCqKfYdOAvATyHri410pv)
-- [Put Down Your Weapon by DCR MILDA](https://open.spotify.com/track/5KW54kEyeKQ79XawKqo3Yq)
+- [Eyes Off You by Polar Inc., XIRA](https://open.spotify.com/track/5YQ4BJs60OgPVEwisLNiu3)
+- [Alone by Lipless, Blue Noir](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln)
+- [Scent of Wood - Bound to Divide Remix by UOAK, Ceci, Bound to Divide](https://open.spotify.com/track/7hB5XhraRlHeAE5ONIcSWY)
+- [Moments - Ben Böhmer &amp; Nils Hoffmann Remix by Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0)
+- [Only For A Moment by Rezident, Ekko](https://open.spotify.com/track/0PpRPtxo4NFFQCrsnLdDni)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
