@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[outerbase/starbasedb](https://github.com/outerbase/starbasedb)** - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Should Let You Go by Heard Right, Lewyn](https://open.spotify.com/track/0c4qq1mWCx1jzrWGO4GwDA)
-- [Sauti by Francis Mercier, Faul &amp; Wad, African Children&#39;s Choir](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz)
-- [Saturday Night - Extended by Effemar, Nina Carr](https://open.spotify.com/track/5wicWonJuh7Ns0X1tS9sCQ)
-- [Eyesight by Mats Westbroek, Damaui](https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA)
-- [Looking For Love by Damaui, Kat Abel](https://open.spotify.com/track/3GSdbgozjUXWw0lcpZUuBj)
+- [Take You Further by Keanler](https://open.spotify.com/track/61Wa3nixS9JibHicOp581V)
+- [Daybreak by Duce, Maynørr, Courtney Storm](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA)
+- [Ceasefire by Heard Right, Finley Brückner, MØØNE](https://open.spotify.com/track/1iTB7lUB9UDsMCHqb13fet)
+- [Higher by BLOND:ISH, Black Circle](https://open.spotify.com/track/2y7UV3mw1igF35pj4b3xn7)
+- [I Need You by Damaui, Sick Trumpet](https://open.spotify.com/track/0jkQj1sebojbzkmmpWvYLc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
