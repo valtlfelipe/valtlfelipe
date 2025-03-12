@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[mem0ai/mem0](https://github.com/mem0ai/mem0)** - The Memory layer for AI Agents (1 week ago)
 
 #### 🎧 What I have been listening
+- [Ride Or Die by Greg Elenis](https://open.spotify.com/track/4bZoa4DJ6p7gwGnbpUzflB)
 - [Into The Wild by Casino Gold](https://open.spotify.com/track/33INjMAwxX3xORFGCe8ubE)
 - [Disappear by THEMBA, Nico de Andrea, Tasan](https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE)
 - [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
 - [Far Away by Lyke](https://open.spotify.com/track/7ixHfExIwVwKu0JApyTvuR)
-- [Remember Me by BLOND:ISH, KeeQ, Tamara Blessa](https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
