@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [Mangoes by Berner Sen](https://open.spotify.com/track/2oHMysSCTWlnImnzJQl0F1)
-- [solar powers by Landayn](https://open.spotify.com/track/4Xu8MFgOBosHWujdY8UKoB)
-- [Politics of the Heart by Soft Sea](https://open.spotify.com/track/25JczHXGPBQ6PZGt5293MR)
-- [Dance Around by Dove Tales](https://open.spotify.com/track/5GyoQHJLwBr7yjqZSrOdri)
-- [Wonder More by Jo Lange](https://open.spotify.com/track/6Ex4RotAvWFZ8Gs72DTOGI)
+- [Mont Fierce by Merry Lo](https://open.spotify.com/track/7cwd5wpamxGtZgp86XFst9)
+- [Magnolia by Bagarn](https://open.spotify.com/track/02MIc4aHuwUfI7G62gO3kl)
+- [Sunset by Rōsu](https://open.spotify.com/track/6u5k1IhbxJDnBNzr9BRL9a)
+- [Rewind by Mandy Mars](https://open.spotify.com/track/1X3ZacDFsFxqwWJud95Iah)
+- [Highlands by Naupaka](https://open.spotify.com/track/1jmSozSHBSDo3MzHdUVpWt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
