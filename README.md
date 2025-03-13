@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lunar Soil by Basaux](https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE)
-- [Waiting by Moonkids](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl)
-- [Fluorescent by Peqasus](https://open.spotify.com/track/4eLEHUHt6D7jMwnxRpfngG)
-- [L.I.E. by MC Baptiste](https://open.spotify.com/track/5XQFjgHLSvzpNIsDZEIEjX)
-- [Catwalk by Mode Donna](https://open.spotify.com/track/2IS0y1hW0E776RI6IkJtUI)
+- [Mamanuca by Naupaka](https://open.spotify.com/track/3EFMCEcsRrfDiDIEUlBgRi)
+- [Gradient Moon by Xavier Manning](https://open.spotify.com/track/0JwbjnzOEsAU9poTCzSv8U)
+- [Moonlight by Luminez](https://open.spotify.com/track/5R6s1rVZ8MBsjRGfqh7RlX)
+- [Blue Lagoon by Undefined Space](https://open.spotify.com/track/2mpy5N86A2YZDhiUvY1OGP)
+- [Figures by Tiles Square](https://open.spotify.com/track/3gW3k4nrod4POzhmV742rt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
