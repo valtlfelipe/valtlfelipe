@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [Alcove by Hackney](https://open.spotify.com/track/6AYTomZob9bIImQJfQTwyZ)
-- [Freedom Banner by Gea](https://open.spotify.com/track/4CRHD77j69bAf9D7ikl7qQ)
-- [Sundays by Peqasus](https://open.spotify.com/track/5zb3ATDc6t0H7tA0F2y1l8)
-- [fantasy by Alex R](https://open.spotify.com/track/3p7Jys62qwEPhp2362FfOY)
-- [Dolphins by Mikayl Blu](https://open.spotify.com/track/33WvgfekFMoqgiO7c1ktv6)
+- [Soft and Nice by Calvin Durant](https://open.spotify.com/track/0vrQTP6dfQsQSohyIfB7SP)
+- [too bright by Lou Kil](https://open.spotify.com/track/3suSesOhgUyg3nMVqqB7Yi)
+- [Lake Como by Me Gic](https://open.spotify.com/track/3MI9nwZQkcZlnLuN0FGPDh)
+- [pleased as punch by Ms. Velvet](https://open.spotify.com/track/5U4oJZhsOEDu4GNxv3LZ2L)
+- [raw talent by SCRP](https://open.spotify.com/track/1fiLX6QvjBSo0l0QbIvn24)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
