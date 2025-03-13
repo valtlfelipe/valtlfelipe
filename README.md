@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [Saltburn by Solmera](https://open.spotify.com/track/0xs6poNvfGEALAg5e3Zhpi)
-- [Enough Motion by Jo Lange](https://open.spotify.com/track/1iCtCz9CdI8DbT41f98Ld8)
-- [Pool Squad by Dr. Stu](https://open.spotify.com/track/17UhZzfi5g69iF7AVmfmat)
-- [Dreaming On The Moon by Thief Traveler](https://open.spotify.com/track/1RMnWLQznAmxh7wVNN7vub)
-- [Soil by Bush Lily](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd)
+- [Oku-Shibu by Yasumaru](https://open.spotify.com/track/2EtdCz6NWsvbSqdqXY3G5X)
+- [Jungle Peace by Lou Kil](https://open.spotify.com/track/3dVNvhYzMqAyMa44MUFDgC)
+- [Mi Amor by Lndoner](https://open.spotify.com/track/3jqBtnZqoecYhGGzf0ZLBO)
+- [Missing Daylight by Helio Lush](https://open.spotify.com/track/2B8abTUyycIzH4Taw1r4Je)
+- [Comrate by Edward The Eagle](https://open.spotify.com/track/3Rd69TLNlUD1LRlq5rx2th)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
