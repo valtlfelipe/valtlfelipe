@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [Give it all by Fabi.](https://open.spotify.com/track/1aUnUW9nPKxjyzYRvr2J3v)
-- [Liquid Dust by LeeDee](https://open.spotify.com/track/1dLB5DEAqbjUPc9C8W7Nfb)
-- [Rodolex by Tom Blacksmith](https://open.spotify.com/track/2xbgIcJoOCn8CksOxpNRpo)
-- [Going Sideways by Yasumaru](https://open.spotify.com/track/2baKBjvzifwHJeONXTFfC4)
-- [Sunset Expresso by Vintage Vanity](https://open.spotify.com/track/4GeYzFsZ70iDwFzAssjEIX)
+- [Saltburn by Solmera](https://open.spotify.com/track/0xs6poNvfGEALAg5e3Zhpi)
+- [Enough Motion by Jo Lange](https://open.spotify.com/track/1iCtCz9CdI8DbT41f98Ld8)
+- [Pool Squad by Dr. Stu](https://open.spotify.com/track/17UhZzfi5g69iF7AVmfmat)
+- [Dreaming On The Moon by Thief Traveler](https://open.spotify.com/track/1RMnWLQznAmxh7wVNN7vub)
+- [Soil by Bush Lily](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
