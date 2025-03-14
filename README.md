@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [Moody by Paula Nash](https://open.spotify.com/track/6pq5fUEcDaFPjH2AqEg8Ni)
-- [Candle by One Astra](https://open.spotify.com/track/1bUXKZBvJjxG2GizStYDHr)
-- [spirit alive by Jaake Alsonn](https://open.spotify.com/track/0pEWOqFc3OVIV0RqKGBBBD)
-- [Sea Me by MOTYL](https://open.spotify.com/track/3x1zrRDZGEMdlR1InGAOl9)
-- [Flume by Milli V](https://open.spotify.com/track/53XQa4c87MqktZqgvNpnYh)
+- [Nights And Days by Moy-ya](https://open.spotify.com/track/1uhbd4sWOAaplom86NLMYI)
+- [Look Who Was Here by Miriamy](https://open.spotify.com/track/1e82eeTd5saBytIIC1rQXO)
+- [Poolside Bliss by Sinee](https://open.spotify.com/track/7Jm2p8fVd12UxlH2RHStuL)
+- [Laurier by UPTNS](https://open.spotify.com/track/7cGtbegZZSQNi7PlakMPvj)
+- [Before Sunset by Milli V](https://open.spotify.com/track/6e5hLCZOkS5Mx2OqQyRaEN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
