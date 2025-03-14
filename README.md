@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [whatcouldbe by Tonic Walter](https://open.spotify.com/track/7mDYG9GGbKeX5j3Y7hMuik)
-- [The Thrill by Wiz Khalifa, Empire Of The Sun](https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3)
-- [Umbrella by Rihanna, JAY-Z](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux)
-- [Numb / Encore by JAY-Z, Linkin Park](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn)
-- [Empire State Of Mind by JAY-Z, Alicia Keys](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO)
+- [Break Silent by David Hasert, Minoas Cirillo](https://open.spotify.com/track/6G9tVTEeSxmJZ80us9Lx3f)
+- [Maria by Mochakk](https://open.spotify.com/track/4y7moiPcmh1naRAZVwLjEL)
+- [Felt (feat. Henry Green) by Christian Löffler, Henry Green](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d)
+- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
+- [EVERYTHINGSALRIGHT by ford.](https://open.spotify.com/track/4Sko63ptJsDz9aP8zX5dT5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
