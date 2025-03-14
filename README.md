@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [paris by Rosi Peloni](https://open.spotify.com/track/1glNxuJz4qAUyYmauaYD9I)
-- [tanlines by metricity](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo)
-- [Out of a Box by Drunk Archer](https://open.spotify.com/track/4Io0zSIjz1qcZtjatpw2ER)
-- [Coze by Meladonica](https://open.spotify.com/track/2mhfB2EriXMA7aWATzVS5m)
-- [sugar coated by kilowattz](https://open.spotify.com/track/0VVYRDwTeoxoaN5Nlja1uC)
+- [Moody by Paula Nash](https://open.spotify.com/track/6pq5fUEcDaFPjH2AqEg8Ni)
+- [Candle by One Astra](https://open.spotify.com/track/1bUXKZBvJjxG2GizStYDHr)
+- [spirit alive by Jaake Alsonn](https://open.spotify.com/track/0pEWOqFc3OVIV0RqKGBBBD)
+- [Sea Me by MOTYL](https://open.spotify.com/track/3x1zrRDZGEMdlR1InGAOl9)
+- [Flume by Milli V](https://open.spotify.com/track/53XQa4c87MqktZqgvNpnYh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
