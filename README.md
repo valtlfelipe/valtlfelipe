@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fin De Semaine by Beachwax](https://open.spotify.com/track/7ztX5Qtfb7I7hIYhhFglqF)
-- [Take Off by Amsané](https://open.spotify.com/track/1vqF90KZkj53yZdmoJZohR)
-- [Mont Blanc by rigii](https://open.spotify.com/track/4IUYXrgnBHuIyv42PsFTxH)
-- [The Rush Hour by Yasumaru](https://open.spotify.com/track/0KPZLD8jgy1JzoQG4wXHEQ)
-- [Cloud Rotation by Lostlow](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA)
+- [Spin by Rick Groove](https://open.spotify.com/track/3SYVkFt9xCEivtpHlia9yT)
+- [Hedged Bet by Far Orange](https://open.spotify.com/track/5E8I5DZ5CBVinIvoCNk6Z4)
+- [Affection by Goose Groovy](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd)
+- [Liquid Sun by Sum Wave, Bye Ocean](https://open.spotify.com/track/6IefXHLqp3GFN7u49Tbe9K)
+- [Rheya by dreem](https://open.spotify.com/track/2oMDxIp1I6uNQkexFBjJWQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
