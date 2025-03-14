@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [Shut Up and Dance by WALK THE MOON](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA)
-- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
-- [Timber by Pitbull, Kesha](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)
-- [We Found Love by Rihanna, Calvin Harris](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py)
-- [We Found Love by Rihanna, Calvin Harris](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py)
+- [whatcouldbe by Tonic Walter](https://open.spotify.com/track/7mDYG9GGbKeX5j3Y7hMuik)
+- [The Thrill by Wiz Khalifa, Empire Of The Sun](https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3)
+- [Umbrella by Rihanna, JAY-Z](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux)
+- [Numb / Encore by JAY-Z, Linkin Park](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn)
+- [Empire State Of Mind by JAY-Z, Alicia Keys](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
