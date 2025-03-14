@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [Break Silent by David Hasert, Minoas Cirillo](https://open.spotify.com/track/6G9tVTEeSxmJZ80us9Lx3f)
-- [Maria by Mochakk](https://open.spotify.com/track/4y7moiPcmh1naRAZVwLjEL)
-- [Felt (feat. Henry Green) by Christian Löffler, Henry Green](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
-- [EVERYTHINGSALRIGHT by ford.](https://open.spotify.com/track/4Sko63ptJsDz9aP8zX5dT5)
+- [Distance by NRMNT](https://open.spotify.com/track/2kI2g20VpLziryb7552XS7)
+- [Flek by pølaroit](https://open.spotify.com/track/37MvOmyPdgyeWOymDgor3O)
+- [Wairau Bay by Duke Boara](https://open.spotify.com/track/3cUUVRG0w6BmUgd4Jvq7MZ)
+- [Like This by Mallin](https://open.spotify.com/track/6mGA7mSuXx8o1ytfnImc7s)
+- [been here before by warner case, Dylan Yem](https://open.spotify.com/track/5LwAKCJlEo30A3DcObcRgW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
