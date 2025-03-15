@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lynx-family/lynx](https://github.com/lynx-family/lynx)** - Empower the Web community and invite more to build across platforms. (5 days ago)
 
 #### 🎧 What I have been listening
+- [I&#39;ve Been Thinking About You by Londonbeat](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d)
+- [Good Life by OneRepublic](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4)
 - [Higher by Taio Cruz, Kylie Minogue](https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo)
 - [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
 - [Something Just Like This by The Chainsmokers, Coldplay](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH)
-- [Summer Air by ItaloBrothers](https://open.spotify.com/track/3MIwc5XzD2VX8ZJAIyURKI)
-- [Price is Right by Plastik Flamingos](https://open.spotify.com/track/4wSlz46D7v1VvKB6RVsUEo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
