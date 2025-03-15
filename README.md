@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lynx-family/lynx](https://github.com/lynx-family/lynx)** - Empower the Web community and invite more to build across platforms. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Without You (feat. Usher) by David Guetta, USHER](https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum)
-- [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
-- [Walking On A Dream by Empire Of The Sun](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)
-- [The Thrill by Wiz Khalifa, Empire Of The Sun](https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3)
-- [Say It Right by Nelly Furtado](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t)
+- [Summer Air by ItaloBrothers](https://open.spotify.com/track/3MIwc5XzD2VX8ZJAIyURKI)
+- [Price is Right by Plastik Flamingos](https://open.spotify.com/track/4wSlz46D7v1VvKB6RVsUEo)
+- [New Beginning by Raphael Creed](https://open.spotify.com/track/7g9qLF2PaFjAt7aej8lKlk)
+- [Heaven by Jordan Moon](https://open.spotify.com/track/5sDlKM21xZl44uULQRadnX)
+- [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
