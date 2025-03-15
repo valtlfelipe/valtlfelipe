@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html)** - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance (1 week ago)
 
 #### 🎧 What I have been listening
-- [Distance by NRMNT](https://open.spotify.com/track/2kI2g20VpLziryb7552XS7)
-- [Flek by pølaroit](https://open.spotify.com/track/37MvOmyPdgyeWOymDgor3O)
-- [Wairau Bay by Duke Boara](https://open.spotify.com/track/3cUUVRG0w6BmUgd4Jvq7MZ)
-- [Like This by Mallin](https://open.spotify.com/track/6mGA7mSuXx8o1ytfnImc7s)
-- [been here before by warner case, Dylan Yem](https://open.spotify.com/track/5LwAKCJlEo30A3DcObcRgW)
+- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
+- [Where You Are by John Summit, HAYLA](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA)
+- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
+- [You &amp; I by HotLap, SHELLS](https://open.spotify.com/track/7k0kq03bs3micRAVvYgzg8)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
