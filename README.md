@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lynx-family/lynx](https://github.com/lynx-family/lynx)** - Empower the Web community and invite more to build across platforms. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Scatman (ski-ba-bop-ba-dop-bop) by Scatman John](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh)
+- [Stay (feat. Maty Noyes) by Kygo, Maty Noyes](https://open.spotify.com/track/7gBj0VgcuAgkXkiRRYvSmK)
+- [Stay (feat. Maty Noyes) by Kygo, Maty Noyes](https://open.spotify.com/track/7gBj0VgcuAgkXkiRRYvSmK)
 - [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/7EH2enDP1q3upRqctbOz3n)
 - [Glad You Came by The Wanted](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj)
-- [Last Friday Night (T.G.I.F.) by Katy Perry](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8)
-- [Paradise by Coldplay](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D)
-- [I&#39;ve Been Thinking About You by Londonbeat](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
