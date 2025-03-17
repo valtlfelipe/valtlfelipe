@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lynx-family/lynx](https://github.com/lynx-family/lynx)** - Empower the Web community and invite more to build across platforms. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Running Up That Hill - House Remix by AMANOKUN](https://open.spotify.com/track/7DWEQxAekmueMLek8nZlAV)
-- [Lovers Game by Cosmicat, Ss.hh.a.n.a](https://open.spotify.com/track/5L3kJPnAMEORynAJrBHMbx)
-- [Rising Star by Bnj](https://open.spotify.com/track/7CSeOtoMrvCbkRiZcwMlNc)
-- [Elderflower by SverreV, Paco Amigó](https://open.spotify.com/track/2K0Uk1PmyMpKqSZir3Mn7N)
-- [Sunshine - Radio Version by Marra Kesh, Khetama](https://open.spotify.com/track/03NKQaq2IK38ebCFTAN9hS)
+- [I&#39;ve Got You by Phello](https://open.spotify.com/track/3w7sZefy3gGULYhOTs93a6)
+- [Moth To A Flame (with The Weeknd, Moojo) - Moojo Remix by Swedish House Mafia, The Weeknd, Moojo](https://open.spotify.com/track/40MXr7BMh3ShPf2b9giSRt)
+- [Craving by Tullio](https://open.spotify.com/track/3jUQzCnEjrZPeysLNoI1Qx)
+- [Wicked Game by Moojo, Demayä, Coco](https://open.spotify.com/track/5s0z9Mpm4xdmTfIympE9Q7)
+- [Space by Nofsky](https://open.spotify.com/track/6JTOcLaZnvQKFxVzhPABJU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
