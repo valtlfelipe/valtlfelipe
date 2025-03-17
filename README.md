@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** - Access your entire server infrastructure from your local desktop (5 days ago)
 
 #### 🎧 What I have been listening
-- [Tides by Sunset Oasis, Sean Blanc](https://open.spotify.com/track/4SD5krynpKUjUAv0wmcBHF)
-- [Kaleidoscope Colours by Jan Blomqvist, Maybemahri](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz)
-- [Come Back to Me by Patrick Lite](https://open.spotify.com/track/77RN4tkW2cwRflJQC3WIFm)
-- [Home - Samm &amp; Ajna Remix by CamelPhat, RHODES, Samm (BE), Ajna (BE)](https://open.spotify.com/track/7qep4UmGpjAXC422BhEYd9)
-- [ghost (feat. HUMAN) - Alex Wann Remix by Aaron Hibell, HUMAN, Alex Wann](https://open.spotify.com/track/37v3bXubm5YbjUKQKDJFAM)
+- [What I Need - Radio Cut by Mika Olson, Jermaine Fleur](https://open.spotify.com/track/0x9Vs4wnuW5Juzq22pSkYy)
+- [With Me by Nofsky, Lukas Goss](https://open.spotify.com/track/2p2aR4DcQHTmhtvSyAUOtk)
+- [Silence by Mandarin Plaza](https://open.spotify.com/track/6xTXPEuI2NGHzl74YX2NeM)
+- [Same Mistake - But Different Remix by Jan Blomqvist](https://open.spotify.com/track/7wwA5QBXfOkeYHzNbbVXtT)
+- [Saturday Morning - Extended Mix by Rules](https://open.spotify.com/track/7cDywbRaG90SF3MQmjTUEZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
