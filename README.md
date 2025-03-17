@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lynx-family/lynx](https://github.com/lynx-family/lynx)** - Empower the Web community and invite more to build across platforms. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Show Me How by Sean Blanc](https://open.spotify.com/track/12dXMqsOXUtE9IBtUDSOvt)
-- [Where Are You Tonight by KREAM](https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8)
-- [Coming Home by Bound to Divide, Lewyn](https://open.spotify.com/track/34IXNMBuEBScydzVVTwBlM)
-- [Muted Mind by Jan Blomqvist](https://open.spotify.com/track/1G37NE6B3QmvPnWas85SIj)
-- [If Only We Could by Cammie Robinson, Madason](https://open.spotify.com/track/5L2AN0eg1XN7SMLX5JEssj)
+- [Golden Sister by Mandarin Plaza](https://open.spotify.com/track/78p9By2zQKkvEZg8HkS5NK)
+- [Paint Something Beautiful by Moonsound](https://open.spotify.com/track/5dLYgcy7fX7Kb1wsR6H7Pv)
+- [So Alone by Bound to Divide](https://open.spotify.com/track/2cCce5bh0Raued0yzFKqTm)
+- [Let Me Out by Einmusik, Diana Miro](https://open.spotify.com/track/67qAVjzBUVVs8RALR2AQ3K)
+- [Turning Stones - Mind Against Remix by CamelPhat, SOHN, Mind Against](https://open.spotify.com/track/1tZMhhllqKYTMku8O2FTgS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
