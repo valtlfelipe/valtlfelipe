@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** - Access your entire server infrastructure from your local desktop (5 days ago)
 
 #### 🎧 What I have been listening
-- [4u by Mandarin Plaza](https://open.spotify.com/track/2GZuD3E4SPl7DzX2v6SEAZ)
-- [Hold Your Tongue by SverreV, Bo Degas](https://open.spotify.com/track/2Ud1A3nRauYVOE12jNScHG)
-- [Loved by You - Rivo Remix by Melih Aydogan, Ria, Rivo](https://open.spotify.com/track/3zllx1t71TrBjPoe77YgQs)
-- [set me free by Aaron Hibell, Alex Wann](https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK)
-- [We Were Wild Once - Extended Mix by Holter &amp; Mogyoro, Farewell Dear Ghost](https://open.spotify.com/track/60uBfAxRvFdRbORdTwTwWB)
+- [Tides by Sunset Oasis, Sean Blanc](https://open.spotify.com/track/4SD5krynpKUjUAv0wmcBHF)
+- [Kaleidoscope Colours by Jan Blomqvist, Maybemahri](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz)
+- [Come Back to Me by Patrick Lite](https://open.spotify.com/track/77RN4tkW2cwRflJQC3WIFm)
+- [Home - Samm &amp; Ajna Remix by CamelPhat, RHODES, Samm (BE), Ajna (BE)](https://open.spotify.com/track/7qep4UmGpjAXC422BhEYd9)
+- [ghost (feat. HUMAN) - Alex Wann Remix by Aaron Hibell, HUMAN, Alex Wann](https://open.spotify.com/track/37v3bXubm5YbjUKQKDJFAM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
