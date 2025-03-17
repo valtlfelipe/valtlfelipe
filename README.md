@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** - Access your entire server infrastructure from your local desktop (5 days ago)
 
 #### 🎧 What I have been listening
-- [Mirage by Dye O](https://open.spotify.com/track/23OkFq80s4pbMSP33qYTuB)
-- [Something Missing You by Alex Deeper](https://open.spotify.com/track/5A6SDxlgbqW6afVrH6jVWC)
-- [Take Me Home by Nu Aspect, TCTS, RAHH](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA)
-- [Our Broken Mind Embassy by Jan Blomqvist](https://open.spotify.com/track/6Oj89UHfmYp9yR4t0t1q8F)
-- [The Line by Mandarin Plaza](https://open.spotify.com/track/4woWrwAkFJsCVOhDXwnLcp)
+- [set me free by Aaron Hibell, Alex Wann](https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK)
+- [We Were Wild Once - Extended Mix by Holter &amp; Mogyoro, Farewell Dear Ghost](https://open.spotify.com/track/60uBfAxRvFdRbORdTwTwWB)
+- [Heaven Takes You Home [feat. Connie Constance] - Moojo Remix by Swedish House Mafia, Moojo, Connie Constance](https://open.spotify.com/track/7Iqz0EPWJZiWjQmPFcxhxN)
+- [Carry On - EarthLife Remix by Jan Blomqvist, EarthLife](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF)
+- [Forever by Mandarin Plaza](https://open.spotify.com/track/1UwMrNulCRpYnXuez2BQSi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
