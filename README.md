@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** - Access your entire server infrastructure from your local desktop (5 days ago)
 
 #### 🎧 What I have been listening
+- [4u by Mandarin Plaza](https://open.spotify.com/track/2GZuD3E4SPl7DzX2v6SEAZ)
+- [Hold Your Tongue by SverreV, Bo Degas](https://open.spotify.com/track/2Ud1A3nRauYVOE12jNScHG)
+- [Loved by You - Rivo Remix by Melih Aydogan, Ria, Rivo](https://open.spotify.com/track/3zllx1t71TrBjPoe77YgQs)
 - [set me free by Aaron Hibell, Alex Wann](https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK)
 - [We Were Wild Once - Extended Mix by Holter &amp; Mogyoro, Farewell Dear Ghost](https://open.spotify.com/track/60uBfAxRvFdRbORdTwTwWB)
-- [Heaven Takes You Home [feat. Connie Constance] - Moojo Remix by Swedish House Mafia, Moojo, Connie Constance](https://open.spotify.com/track/7Iqz0EPWJZiWjQmPFcxhxN)
-- [Carry On - EarthLife Remix by Jan Blomqvist, EarthLife](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF)
-- [Forever by Mandarin Plaza](https://open.spotify.com/track/1UwMrNulCRpYnXuez2BQSi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
