@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)** - Access your entire server infrastructure from your local desktop (5 days ago)
 
 #### 🎧 What I have been listening
-- [Stranger&#39;s Town by Eelke Kleijn, ZOE ASKA](https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF)
-- [Lioness - Francis Mercier Remix by Swedish House Mafia, Niki &amp; The Dove, Francis Mercier](https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq)
-- [Golden Sister by Mandarin Plaza](https://open.spotify.com/track/78p9By2zQKkvEZg8HkS5NK)
-- [Paint Something Beautiful by Moonsound](https://open.spotify.com/track/5dLYgcy7fX7Kb1wsR6H7Pv)
-- [So Alone by Bound to Divide](https://open.spotify.com/track/2cCce5bh0Raued0yzFKqTm)
+- [Mirage by Dye O](https://open.spotify.com/track/23OkFq80s4pbMSP33qYTuB)
+- [Something Missing You by Alex Deeper](https://open.spotify.com/track/5A6SDxlgbqW6afVrH6jVWC)
+- [Take Me Home by Nu Aspect, TCTS, RAHH](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA)
+- [Our Broken Mind Embassy by Jan Blomqvist](https://open.spotify.com/track/6Oj89UHfmYp9yR4t0t1q8F)
+- [The Line by Mandarin Plaza](https://open.spotify.com/track/4woWrwAkFJsCVOhDXwnLcp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
