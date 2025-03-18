@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[egoist/chatwise-releases](https://github.com/egoist/chatwise-releases)** - The fastest AI Chatbot for any LLM (today)
 
 #### 🎧 What I have been listening
-- [Run Deep - Extended by Nu Aspect](https://open.spotify.com/track/4UBbQTYl5gv4DOIYjsbMdq)
-- [You Make Me (Oh Oh Oh) by SverreV](https://open.spotify.com/track/1cxUp6fxG7h3ZGfB7CF1SL)
-- [Simply Falling by Lexa Hill, The Young Punx](https://open.spotify.com/track/7f6x6GRPNkcDoEFlx3oeC8)
-- [The Look of Love by farfetch&#39;d](https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A)
-- [Sometimes by Atella, Digvalley](https://open.spotify.com/track/7kyIwX2twjSvRnrjpDQARD)
+- [I Love You Always Forever by Donna Lewis](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD)
+- [It&#39;s You by Bless You, Adam Juhl](https://open.spotify.com/track/0RpAWvKgWM9fbSyi9mPKxS)
+- [I Don&#39;t Like It, I Love It (feat. Robin Thicke &amp; Verdine White) by Flo Rida, Robin Thicke, Verdine White](https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ)
+- [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
+- [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
