@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[egoist/chatwise-releases](https://github.com/egoist/chatwise-releases)** - The fastest AI Chatbot for any LLM (today)
 
 #### 🎧 What I have been listening
+- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
+- [Endlessly by CamelPhat, Nadia Ali](https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP)
 - [Rising Star by Bnj](https://open.spotify.com/track/7CSeOtoMrvCbkRiZcwMlNc)
 - [Running - Husky Remix by Ridney, Shannon B, Lovely Laura, Husky](https://open.spotify.com/track/0s8P4RvBZ4l63U1mFlEMsL)
-- [Hey Hey - Jack Back Remix by Dennis Ferrer, Jack Back, David Guetta](https://open.spotify.com/track/0n0MTPuiHAxeTNtPsAWeVm)
-- [Summer Love - Jan Blomqvist Remix by Mogli, Jan Blomqvist](https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri)
-- [All Shook Up by Karma Child](https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
