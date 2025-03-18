@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[egoist/chatwise-releases](https://github.com/egoist/chatwise-releases)** - The fastest AI Chatbot for any LLM (today)
 
 #### 🎧 What I have been listening
-- [I Love You Always Forever by Donna Lewis](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD)
-- [It&#39;s You by Bless You, Adam Juhl](https://open.spotify.com/track/0RpAWvKgWM9fbSyi9mPKxS)
-- [I Don&#39;t Like It, I Love It (feat. Robin Thicke &amp; Verdine White) by Flo Rida, Robin Thicke, Verdine White](https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ)
-- [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
-- [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
+- [Every Breath You Take by Simone Vitullo, Seraphiel](https://open.spotify.com/track/7vVvsrRjGtEkKHaLxSG8Pn)
+- [Space by Nofsky](https://open.spotify.com/track/6JTOcLaZnvQKFxVzhPABJU)
+- [The Night Before - Jope Remix by Bound to Divide, Lewyn, Jope](https://open.spotify.com/track/3j6nFWL5VKCqCP7FmHX3VG)
+- [Lovers Game by Cosmicat, Ss.hh.a.n.a](https://open.spotify.com/track/5L3kJPnAMEORynAJrBHMbx)
+- [Running Up That Hill - House Remix by AMANOKUN](https://open.spotify.com/track/7DWEQxAekmueMLek8nZlAV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
