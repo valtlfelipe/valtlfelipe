@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[egoist/chatwise-releases](https://github.com/egoist/chatwise-releases)** - The fastest AI Chatbot for any LLM (1 day ago)
 
 #### 🎧 What I have been listening
-- [Summertime Sadness by LexMorris, HALUNA, Deep Mage](https://open.spotify.com/track/6AAi8tL7pqRG5YGorPyKxU)
-- [Right Here Waiting by DJ Alex Man, Dj Diac, Deep Mage](https://open.spotify.com/track/23KA3l4ItJMlnCTFO0Q3oC)
-- [Kids by Riesling, Deep Mage](https://open.spotify.com/track/2sMyHm7oNeXpPi7JnAxPEO)
-- [Calm Down by DJ Goja, Magic Phase](https://open.spotify.com/track/28Y0lMcpwX7eZyMVfhbaUm)
-- [Keep it movin&#39; by Gea](https://open.spotify.com/track/7sXNSQQkcH3PXS4iCGsWXF)
+- [In The End by Twin, Elise Lieberth, Deep Mage](https://open.spotify.com/track/4M9djF7OPvBWw47XLu8abQ)
+- [All Good Things by Cornel Dascalu, Dj Diac, Margad](https://open.spotify.com/track/3a7sdvMzjQwUjC12Aampe0)
+- [Don’t Be So Shy by Dj Diac, ReMan, Nomeli](https://open.spotify.com/track/0hWJ5ixKLCyTYPhVoKf0Qa)
+- [Hymn For The Weekend by Cale, HALUNA, Deep Mage](https://open.spotify.com/track/4vpn2gI4lX8udF1LALcKWE)
+- [California Dreamin&#39; by Max Martis, HALUNA, Deep Mage](https://open.spotify.com/track/1AMjeJnvLuwIHHne2dVWFp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
