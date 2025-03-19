@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[egoist/chatwise-releases](https://github.com/egoist/chatwise-releases)** - The fastest AI Chatbot for any LLM (1 day ago)
 
 #### 🎧 What I have been listening
+- [Summertime Sadness by LexMorris, HALUNA, Deep Mage](https://open.spotify.com/track/6AAi8tL7pqRG5YGorPyKxU)
+- [Right Here Waiting by DJ Alex Man, Dj Diac, Deep Mage](https://open.spotify.com/track/23KA3l4ItJMlnCTFO0Q3oC)
+- [Kids by Riesling, Deep Mage](https://open.spotify.com/track/2sMyHm7oNeXpPi7JnAxPEO)
 - [Calm Down by DJ Goja, Magic Phase](https://open.spotify.com/track/28Y0lMcpwX7eZyMVfhbaUm)
 - [Keep it movin&#39; by Gea](https://open.spotify.com/track/7sXNSQQkcH3PXS4iCGsWXF)
-- [Tranquil Trails by Gallway Flex](https://open.spotify.com/track/7hjO6QE3mT5CaR11Q2mA3p)
-- [The Rush Hour by Yasumaru](https://open.spotify.com/track/0KPZLD8jgy1JzoQG4wXHEQ)
-- [No Worries by Rick Groove](https://open.spotify.com/track/6rG34cZ4luWfED6PFPSKRy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
