@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[egoist/chatwise-releases](https://github.com/egoist/chatwise-releases)** - The fastest AI Chatbot for any LLM (1 day ago)
 
 #### 🎧 What I have been listening
+- [Don&#39;t Be so Hard on Yourself by Jess Glynne](https://open.spotify.com/track/0sUyqewVzwv0e5tK3hS6vJ)
+- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
 - [Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] by Pharrell Williams, Nile Rodgers, Thomas Bangalter, Guy-Manuel de Homem-Christo, Daft Punk](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof)
 - [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
 - [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
-- [Endlessly by CamelPhat, Nadia Ali](https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP)
-- [Rising Star by Bnj](https://open.spotify.com/track/7CSeOtoMrvCbkRiZcwMlNc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
