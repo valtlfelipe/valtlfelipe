@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[egoist/chatwise-releases](https://github.com/egoist/chatwise-releases)** - The fastest AI Chatbot for any LLM (1 day ago)
 
 #### 🎧 What I have been listening
-- [Sunset by Rōsu](https://open.spotify.com/track/6u5k1IhbxJDnBNzr9BRL9a)
-- [Fast Phenomena by Mechagnome](https://open.spotify.com/track/0e5TeLV9V1bDBIvgspIhse)
-- [Sunset Expresso by Vintage Vanity](https://open.spotify.com/track/4GeYzFsZ70iDwFzAssjEIX)
-- [Star Within A Star by Himari Aoki](https://open.spotify.com/track/4qK7Xqqb6HMyRDe9NsNSNT)
-- [Highlands by Naupaka](https://open.spotify.com/track/1jmSozSHBSDo3MzHdUVpWt)
+- [Calm Down by DJ Goja, Magic Phase](https://open.spotify.com/track/28Y0lMcpwX7eZyMVfhbaUm)
+- [Keep it movin&#39; by Gea](https://open.spotify.com/track/7sXNSQQkcH3PXS4iCGsWXF)
+- [Tranquil Trails by Gallway Flex](https://open.spotify.com/track/7hjO6QE3mT5CaR11Q2mA3p)
+- [The Rush Hour by Yasumaru](https://open.spotify.com/track/0KPZLD8jgy1JzoQG4wXHEQ)
+- [No Worries by Rick Groove](https://open.spotify.com/track/6rG34cZ4luWfED6PFPSKRy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
