@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[egoist/chatwise-releases](https://github.com/egoist/chatwise-releases)** - The fastest AI Chatbot for any LLM (1 day ago)
 
 #### 🎧 What I have been listening
-- [In The End by Twin, Elise Lieberth, Deep Mage](https://open.spotify.com/track/4M9djF7OPvBWw47XLu8abQ)
-- [All Good Things by Cornel Dascalu, Dj Diac, Margad](https://open.spotify.com/track/3a7sdvMzjQwUjC12Aampe0)
-- [Don’t Be So Shy by Dj Diac, ReMan, Nomeli](https://open.spotify.com/track/0hWJ5ixKLCyTYPhVoKf0Qa)
-- [Hymn For The Weekend by Cale, HALUNA, Deep Mage](https://open.spotify.com/track/4vpn2gI4lX8udF1LALcKWE)
-- [California Dreamin&#39; by Max Martis, HALUNA, Deep Mage](https://open.spotify.com/track/1AMjeJnvLuwIHHne2dVWFp)
+- [Safe And Sound by Byond Bliss, Deep Mage](https://open.spotify.com/track/0GwZfmtpOs10hTg2l0gMAL)
+- [Careless Whisper by MARSTEREON, Medusa, Deep Mage](https://open.spotify.com/track/4YiVPy226EeGi3wPtFCqeA)
+- [One In a Million by DJ Alex Man, Dj Diac, The Trendy](https://open.spotify.com/track/5L4ceIWPsmsXPckhG0zarZ)
+- [No So Bad by Deepest, AMHouse, MIVARI](https://open.spotify.com/track/6UqLBXjx1uNpnWl4o8SJcV)
+- [I’m Yours by Dream Chaos, Medusa, Deep Mage](https://open.spotify.com/track/2sR7GO2TNCZkLfrRJw3XNB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
