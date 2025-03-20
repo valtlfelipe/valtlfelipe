@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[bansal/folder](https://github.com/bansal/folder)** - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀 (2 days ago)
 
 #### 🎧 What I have been listening
-- [You and Me by The Magician](https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I)
-- [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
-- [Lady Love by Oden &amp; Fatzo, Camden Cox](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S)
-- [Shades Of Love (feat. The Joy) by The Blessed Madonna, The Joy](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK)
-- [Always Get Through To You by Barry Can&#39;t Swim](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1)
+- [Peace of Mind by Disco Lines, Ship Wrek, Daya](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea)
+- [DO 4 LOVE - Black Coffee Remix by Snoh Aalegra, Black Coffee](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6)
+- [How You Feel (Ft. Leven Kali) by ANOTR, Erik Bandt, Leven Kali](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0)
+- [Happier (feat. Clementine Douglas) by The Blessed Madonna, Clementine Douglas](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv)
+- [Turn Around by KC Lights](https://open.spotify.com/track/0jqakkA9ZSZ7jX60jW6BRZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
