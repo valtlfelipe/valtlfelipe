@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[bansal/folder](https://github.com/bansal/folder)** - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀 (2 days ago)
 
 #### 🎧 What I have been listening
-- [Heaven Knows by Kaskade, Punctual, Poppy Baskcomb](https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH)
-- [Walk The Plank by Lane 8](https://open.spotify.com/track/2UOLMbCUDhHWWXxY3P8Pzk)
-- [Heard It All Before by Amy Wiles, Leena Punks, flowanastasia](https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2)
-- [London To Buenos Aires by Paul Oakenfold, Hernan Cattaneo](https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg)
-- [Insomnia by Eli &amp; Fur](https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg)
+- [Take Five by Rick Groove](https://open.spotify.com/track/1rBQwSrPhKeWsjtCZgmr9J)
+- [Counting Minutes by Tiles Square](https://open.spotify.com/track/4SQCH4rJrVxAHcdlLOWtX9)
+- [Give it all by Fabi.](https://open.spotify.com/track/1aUnUW9nPKxjyzYRvr2J3v)
+- [Bubbly Vibes by Pool-Man John](https://open.spotify.com/track/1cvX6BDM6QiuPfOFeXXRuM)
+- [The Flower Thief by it&#39;s me.](https://open.spotify.com/track/1se6rSnqTnmkLQIqk9F6x0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
