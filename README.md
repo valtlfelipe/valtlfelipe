@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[bansal/folder](https://github.com/bansal/folder)** - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀 (2 days ago)
 
 #### 🎧 What I have been listening
-- [Running Up That Hill - House Remix by AMANOKUN](https://open.spotify.com/track/7DWEQxAekmueMLek8nZlAV)
-- [Feel It Still by LuvLess, Warren](https://open.spotify.com/track/7MKVZqTTMCwuJevnFX8rtu)
-- [Oceanside by Sean Blanc](https://open.spotify.com/track/5a5UTZslVeygi5Rm4R1gjF)
-- [Rising Star by Bnj](https://open.spotify.com/track/7CSeOtoMrvCbkRiZcwMlNc)
-- [Every Breath You Take by Simone Vitullo, Seraphiel](https://open.spotify.com/track/7vVvsrRjGtEkKHaLxSG8Pn)
+- [Hey Hey - Jack Back Remix by Dennis Ferrer, Jack Back, David Guetta](https://open.spotify.com/track/0n0MTPuiHAxeTNtPsAWeVm)
+- [I&#39;ve Got You by Phello](https://open.spotify.com/track/3w7sZefy3gGULYhOTs93a6)
+- [Craving by Tullio](https://open.spotify.com/track/3jUQzCnEjrZPeysLNoI1Qx)
+- [Valleys of Perspective by Sour](https://open.spotify.com/track/37qLCIy8Mp7Gy8eaCFscvC)
+- [Summer Love - Jan Blomqvist Remix by Mogli, Jan Blomqvist](https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
