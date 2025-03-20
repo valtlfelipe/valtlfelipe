@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[bansal/folder](https://github.com/bansal/folder)** - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀 (2 days ago)
 
 #### 🎧 What I have been listening
+- [Glad I Found You by Elderbrook, George FitzGerald](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK)
+- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
+- [I&#39;ll Be There by Sean Blanc](https://open.spotify.com/track/2BWKbYQZOYNn01TS8FSXUU)
 - [What I Need - Radio Cut by Mika Olson, Jermaine Fleur](https://open.spotify.com/track/0x9Vs4wnuW5Juzq22pSkYy)
 - [Sunshine - Club Extended by Marra Kesh, Khetama](https://open.spotify.com/track/3DkQxpWl8kvkTYhnYP8FeU)
-- [Not Alone by Jad Alexander](https://open.spotify.com/track/5xh2BtnjE1OiW8JPWgAWnF)
-- [Holding On by Atella, HOBBS, Digvalley](https://open.spotify.com/track/1j6z3L6JlNONoh1bPxezd9)
-- [Home - Samm &amp; Ajna Remix by CamelPhat, RHODES, Samm (BE), Ajna (BE)](https://open.spotify.com/track/7qep4UmGpjAXC422BhEYd9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
