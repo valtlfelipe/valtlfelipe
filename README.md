@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[bansal/folder](https://github.com/bansal/folder)** - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀 (2 days ago)
 
 #### 🎧 What I have been listening
-- [Hey Hey - Jack Back Remix by Dennis Ferrer, Jack Back, David Guetta](https://open.spotify.com/track/0n0MTPuiHAxeTNtPsAWeVm)
-- [I&#39;ve Got You by Phello](https://open.spotify.com/track/3w7sZefy3gGULYhOTs93a6)
-- [Craving by Tullio](https://open.spotify.com/track/3jUQzCnEjrZPeysLNoI1Qx)
-- [Valleys of Perspective by Sour](https://open.spotify.com/track/37qLCIy8Mp7Gy8eaCFscvC)
-- [Summer Love - Jan Blomqvist Remix by Mogli, Jan Blomqvist](https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri)
+- [What I Need - Radio Cut by Mika Olson, Jermaine Fleur](https://open.spotify.com/track/0x9Vs4wnuW5Juzq22pSkYy)
+- [Sunshine - Club Extended by Marra Kesh, Khetama](https://open.spotify.com/track/3DkQxpWl8kvkTYhnYP8FeU)
+- [Not Alone by Jad Alexander](https://open.spotify.com/track/5xh2BtnjE1OiW8JPWgAWnF)
+- [Holding On by Atella, HOBBS, Digvalley](https://open.spotify.com/track/1j6z3L6JlNONoh1bPxezd9)
+- [Home - Samm &amp; Ajna Remix by CamelPhat, RHODES, Samm (BE), Ajna (BE)](https://open.spotify.com/track/7qep4UmGpjAXC422BhEYd9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
