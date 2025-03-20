@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[bansal/folder](https://github.com/bansal/folder)** - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀 (2 days ago)
 
 #### 🎧 What I have been listening
-- [Peace of Mind by Disco Lines, Ship Wrek, Daya](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea)
-- [DO 4 LOVE - Black Coffee Remix by Snoh Aalegra, Black Coffee](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6)
-- [How You Feel (Ft. Leven Kali) by ANOTR, Erik Bandt, Leven Kali](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0)
-- [Happier (feat. Clementine Douglas) by The Blessed Madonna, Clementine Douglas](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv)
-- [Turn Around by KC Lights](https://open.spotify.com/track/0jqakkA9ZSZ7jX60jW6BRZ)
+- [Lost by Swimming Paul](https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi)
+- [Paradise by SG Lewis, Loods](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w)
+- [Enjoy Your Life by Romy](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS)
+- [Relax My Eyes by ANOTR, Abel Balder](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH)
+- [Hooked On You (feat. Miya Miya) by Nic Fanciulli, Black Circle, MIYA MIYA](https://open.spotify.com/track/1zO8n7thTD0OAFeelfQpte)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
