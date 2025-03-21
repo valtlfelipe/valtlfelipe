@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[bansal/folder](https://github.com/bansal/folder)** - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀 (3 days ago)
 
 #### 🎧 What I have been listening
-- [Next to Me by RÜFÜS DU SOL](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4)
-- [WONDER by me n ü](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s)
-- [Stay There by Tonic Walter](https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk)
-- [Slipstream (feat. Julia Church) by Tinlicker, Julia Church](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB)
-- [See Me by Keanler, Jyll](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt)
+- [All we ever wanted by MVCA, SCHWARZ](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8)
+- [Polar Lights by Nora En Pure](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi)
+- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC)
+- [Keep Going by Stephan Jolk](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN)
+- [Amana by Maz, VXSION](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
