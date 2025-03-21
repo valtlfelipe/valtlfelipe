@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[bansal/folder](https://github.com/bansal/folder)** - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀 (3 days ago)
 
 #### 🎧 What I have been listening
+- [Surrender (feat. Curtis Harding) by RÜFÜS DU SOL, Curtis Harding](https://open.spotify.com/track/1qX3kSjUNJkUlVSPDXGGP1)
+- [Amman by Emmit Fenn](https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r)
+- [Beyond Beliefs by Ben Böhmer](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV)
 - [Insomnia by Eli &amp; Fur](https://open.spotify.com/track/0KzN20etoLfU4HLoD2AzgM)
 - [Away With Me - Fideles Remix by Ross Quinn, Fideles](https://open.spotify.com/track/3w0NSQwB6Tj2tJfcHAIRCL)
-- [Glad I Found You by Elderbrook, George FitzGerald](https://open.spotify.com/track/4k5NNv1kAyfqsxyKDu2mvm)
-- [New Sky by RÜFÜS DU SOL](https://open.spotify.com/track/29tIhq8ByVaG5GVlnS4XRL)
-- [Far Away by Lyke](https://open.spotify.com/track/7ixHfExIwVwKu0JApyTvuR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
