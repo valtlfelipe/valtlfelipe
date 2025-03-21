@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[bansal/folder](https://github.com/bansal/folder)** - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀 (3 days ago)
 
 #### 🎧 What I have been listening
-- [Light Up My Dark by Monolink](https://open.spotify.com/track/2YJUD7E1muMf10UkCjN3lc)
-- [Last Night - Anyma x Layton Giordani Remix by Loofy, Anyma, Layton Giordani](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a)
-- [3 Days Later by Adam Ten, Rhye](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j)
-- [Close Your Eyes - Spotify Singles by LP Giobbi, HANA](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u)
-- [Lonely by VisionV, PHEA](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo)
+- [Insomnia by Eli &amp; Fur](https://open.spotify.com/track/0KzN20etoLfU4HLoD2AzgM)
+- [Away With Me - Fideles Remix by Ross Quinn, Fideles](https://open.spotify.com/track/3w0NSQwB6Tj2tJfcHAIRCL)
+- [Glad I Found You by Elderbrook, George FitzGerald](https://open.spotify.com/track/4k5NNv1kAyfqsxyKDu2mvm)
+- [New Sky by RÜFÜS DU SOL](https://open.spotify.com/track/29tIhq8ByVaG5GVlnS4XRL)
+- [Far Away by Lyke](https://open.spotify.com/track/7ixHfExIwVwKu0JApyTvuR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
