@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[bansal/folder](https://github.com/bansal/folder)** - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀 (3 days ago)
 
 #### 🎧 What I have been listening
-- [Inner Light by Elderbrook, Bob Moses](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj)
-- [Beyond by Teho, Aalson](https://open.spotify.com/track/3gkChSNvZJeTegxz57szLt)
-- [Too Far Down The Trap - Kölsch Remix by Vintage Culture, The Temper Trap, Kölsch](https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq)
-- [Lovestruck by Mona Yim, Strath](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31)
-- [Say What by Rampa, Adam Port, &amp;ME, chuala, Keinemusik](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal)
+- [Light Up My Dark by Monolink](https://open.spotify.com/track/2YJUD7E1muMf10UkCjN3lc)
+- [Last Night - Anyma x Layton Giordani Remix by Loofy, Anyma, Layton Giordani](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a)
+- [3 Days Later by Adam Ten, Rhye](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j)
+- [Close Your Eyes - Spotify Singles by LP Giobbi, HANA](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u)
+- [Lonely by VisionV, PHEA](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
