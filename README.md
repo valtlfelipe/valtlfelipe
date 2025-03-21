@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[bansal/folder](https://github.com/bansal/folder)** - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀 (3 days ago)
 
 #### 🎧 What I have been listening
+- [Slide Into Position by Flx Jayson](https://open.spotify.com/track/6oyYsLP4VAcppKWZFYxK6S)
+- [Fast Phenomena by Mechagnome](https://open.spotify.com/track/0e5TeLV9V1bDBIvgspIhse)
 - [The Year Was 1995 by RaFa Sessions](https://open.spotify.com/track/1XQQOghQ0cQvj1LGe5o74d)
 - [Take Five by Rick Groove](https://open.spotify.com/track/1rBQwSrPhKeWsjtCZgmr9J)
 - [Counting Minutes by Tiles Square](https://open.spotify.com/track/4SQCH4rJrVxAHcdlLOWtX9)
-- [Give it all by Fabi.](https://open.spotify.com/track/1aUnUW9nPKxjyzYRvr2J3v)
-- [Bubbly Vibes by Pool-Man John](https://open.spotify.com/track/1cvX6BDM6QiuPfOFeXXRuM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
