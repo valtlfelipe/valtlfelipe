@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (4 days ago)
 
 #### 🎧 What I have been listening
-- [Moments by Elderbrook](https://open.spotify.com/track/1q9TpHnaObjSKINEJPXaPx)
-- [Erase by Ben Böhmer, lau.ra](https://open.spotify.com/track/22QG2saDLvgToHzeOZPm20)
-- [Remember by Alice DiMar](https://open.spotify.com/track/7B2ytzid2B2D1Wg83Iyt66)
-- [Destination Lost by Jan Blomqvist, Rodriguez Jr.](https://open.spotify.com/track/2YpD9Go9kzxCc325pgJTjM)
-- [Leave You by Einmusik, Lexer, Jyll](https://open.spotify.com/track/3p1j9R2oZG7GG9OtJxphWX)
+- [Apart by Motry](https://open.spotify.com/track/2zJtuEOs2or23S15AHOUtq)
+- [Underwater by Jan Blomqvist](https://open.spotify.com/track/3h8ngkUJ5tFXEM0TyCo0NR)
+- [Lost Home by Keanler](https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy)
+- [Take Me Home by Nu Aspect, TCTS, RAHH](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA)
+- [Shining by Korolova, Ekko](https://open.spotify.com/track/2VO9zYsVMrs0wEFry2nCEX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
