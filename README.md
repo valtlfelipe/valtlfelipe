@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (4 days ago)
 
 #### 🎧 What I have been listening
+- [Mi Reina Del Dolor - 2020 Remasterizado by Maná](https://open.spotify.com/track/1ZmHZku3Vg67QNFz0Cp7rH)
 - [Cómo Diablos by Maná](https://open.spotify.com/track/1cDJScbHkk73wfYQv4ZFY9)
 - [Corazon Espinado (feat. Mana) by Santana, Maná](https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7)
 - [Como Te Deseo by Maná](https://open.spotify.com/track/6kdupfq3aldz65urrIjsyp)
 - [Clavado en Un Bar by Maná](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE)
-- [Manda Una Señal by Maná](https://open.spotify.com/track/33J0xfFaRZO6RzHVdbQkiO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
