@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (4 days ago)
 
 #### 🎧 What I have been listening
+- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
+- [Reactive by Korolova, Monophase (IT)](https://open.spotify.com/track/5B3WvKA7ga5HTeganKqZdE)
+- [Leaving by Naws, Leo Wood](https://open.spotify.com/track/3yVsJMfcWrASEI4Fv7stRe)
 - [Apart by Motry](https://open.spotify.com/track/2zJtuEOs2or23S15AHOUtq)
-- [Underwater by Jan Blomqvist](https://open.spotify.com/track/3h8ngkUJ5tFXEM0TyCo0NR)
-- [Lost Home by Keanler](https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy)
-- [Take Me Home by Nu Aspect, TCTS, RAHH](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA)
-- [Shining by Korolova, Ekko](https://open.spotify.com/track/2VO9zYsVMrs0wEFry2nCEX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
