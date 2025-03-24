@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (6 days ago)
 
 #### 🎧 What I have been listening
+- [Bittersweet Symphony by Mark Coles, Ron van den Beuken](https://open.spotify.com/track/32reVx4R7gYn2phKVbO9ti)
+- [Outta Your Mind - Radio Edit by Xavi del Mundo, Menno](https://open.spotify.com/track/2ZdU81kQJ4T536OhpevdFC)
+- [She Doesn’t Mind by DNVX, IM FIN3](https://open.spotify.com/track/0BaTiJBhrcd3rRClTu0f7u)
 - [Love Really Hurts Without You by Amfree, Galisha](https://open.spotify.com/track/2DMSC8XDbOoWERVCZblcCC)
 - [When We Were Young (The Logical Song) by David Guetta, Kim Petras](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq)
-- [Somewhere Only We Know by Ian Storm, Menno, Mark Coles](https://open.spotify.com/track/66bnX8ozY4o8FATgrQ7Bd0)
-- [Bananza (Belly Dancer) by Kriss Reeve, Swizzy Max](https://open.spotify.com/track/1S5j9eSU4RQ2ztXYH5ncNr)
-- [Bittersweet Symphony by Mark Coles, Ron van den Beuken](https://open.spotify.com/track/32reVx4R7gYn2phKVbO9ti)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
