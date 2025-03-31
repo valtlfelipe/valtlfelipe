@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (1 week ago)
 
 #### 🎧 What I have been listening
-- [World Hold On (Children Of The Sky) - FISHER Rework by Bob Sinclar, FISHER, Steve Edwards](https://open.spotify.com/track/6kTwzV93qpcovlRPmBOXmn)
-- [Music Sounds Better With You - Radio Edit by Stardust, Benjamin Diamond, Alan Braxe, Thomas Bangalter](https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy)
-- [Music Sounds Better With You - Radio Edit by Stardust, Benjamin Diamond, Alan Braxe, Thomas Bangalter](https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy)
-- [When We Were Young (The Logical Song) by David Guetta, Kim Petras](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq)
-- [California Dreamin&#39; by DJ Jurij, The Hattersleys](https://open.spotify.com/track/0HMyGpwfYTE04SRIVI3KZD)
+- [Take My Breath Away by NAJA](https://open.spotify.com/track/1cFxfUS4RcGo2zVEbmVic6)
+- [Love - Radio Edit by Eagles &amp; Butterflies, Richard Judge](https://open.spotify.com/track/2DUBDGPRPU5BhCLxgVZQHG)
+- [My Love for You (Yebba&#39;s Heartbreak) by Marten Lou](https://open.spotify.com/track/1Oj4UgoSBQWUPaUVakr8sc)
+- [Broken Love by Chunkee](https://open.spotify.com/track/5OiCCncTr3Io2Nc8D0eHP8)
+- [Only for a Night by Deepmaniak](https://open.spotify.com/track/2CCP36sE9YxXNMlg1Ut5GW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
