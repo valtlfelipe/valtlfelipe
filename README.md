@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (1 week ago)
 
 #### 🎧 What I have been listening
+- [Something Just Like This by The Chainsmokers, Coldplay](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH)
+- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
+- [Dreams by GABRIELLE](https://open.spotify.com/track/4rV3AYCf4BBBCkIpyLPwUP)
 - [Solo (feat. Demi Lovato) by Clean Bandit, Demi Lovato](https://open.spotify.com/track/3NuK5xMlSlB6K2Qp16zf3h)
 - [Hula Hoop by OMI](https://open.spotify.com/track/0wsXdby1T3PWLauIkGUZzg)
-- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
-- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
-- [I Love You Always Forever by Donna Lewis](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
