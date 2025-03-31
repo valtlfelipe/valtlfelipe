@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (1 week ago)
 
 #### 🎧 What I have been listening
-- [Take My Breath Away by NAJA](https://open.spotify.com/track/1cFxfUS4RcGo2zVEbmVic6)
-- [Love - Radio Edit by Eagles &amp; Butterflies, Richard Judge](https://open.spotify.com/track/2DUBDGPRPU5BhCLxgVZQHG)
-- [My Love for You (Yebba&#39;s Heartbreak) by Marten Lou](https://open.spotify.com/track/1Oj4UgoSBQWUPaUVakr8sc)
-- [Broken Love by Chunkee](https://open.spotify.com/track/5OiCCncTr3Io2Nc8D0eHP8)
-- [Only for a Night by Deepmaniak](https://open.spotify.com/track/2CCP36sE9YxXNMlg1Ut5GW)
+- [Solo (feat. Demi Lovato) by Clean Bandit, Demi Lovato](https://open.spotify.com/track/3NuK5xMlSlB6K2Qp16zf3h)
+- [Hula Hoop by OMI](https://open.spotify.com/track/0wsXdby1T3PWLauIkGUZzg)
+- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
+- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
+- [I Love You Always Forever by Donna Lewis](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
