@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] by Pharrell Williams, Nile Rodgers, Thomas Bangalter, Guy-Manuel de Homem-Christo, Daft Punk](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof)
-- [Forever by Chris Brown](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML)
-- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
-- [Drive By by Train](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9)
-- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
+- [Blurred Lines by Robin Thicke, T.I., Pharrell Williams](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb)
+- [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
+- [Don&#39;t Cha by The Pussycat Dolls, Busta Rhymes](https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB)
+- [So What by P!nk](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt)
+- [Superstar by Jamelia](https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
