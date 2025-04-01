@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Dynamite by Taio Cruz](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV)
-- [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
-- [CAN&#39;T STOP THE FEELING! (from DreamWorks Animation&#39;s &#34;TROLLS&#34;) by Justin Timberlake](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc)
-- [Summer Air by ItaloBrothers](https://open.spotify.com/track/3MIwc5XzD2VX8ZJAIyURKI)
-- [Time of Our Lives by Pitbull, Ne-Yo](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r)
+- [Good Life by OneRepublic](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4)
+- [I Gotta Feeling by Black Eyed Peas](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
+- [Price Tag by Jessie J, B.o.B](https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA)
+- [Good Feeling by Flo Rida](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
