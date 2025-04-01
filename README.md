@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Blurred Lines by Robin Thicke, T.I., Pharrell Williams](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb)
-- [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
-- [Don&#39;t Cha by The Pussycat Dolls, Busta Rhymes](https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB)
-- [So What by P!nk](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt)
-- [Superstar by Jamelia](https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ)
+- [Umbrella by Rihanna, JAY-Z](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux)
+- [Molhando o Volante by Jorge &amp; Mateus](https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P)
+- [One More Time - Radio Edit [Short Radio Edit] by Daft Punk](https://open.spotify.com/track/0ijhkvBpA7OBlY4clWSUZw)
+- [Closer by Galardo, Stage Republic](https://open.spotify.com/track/33u8YjN1pjHnLnwF5uHntV)
+- [My Way by Calvin Harris](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
