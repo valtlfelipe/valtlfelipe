@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Umbrella by Rihanna, JAY-Z](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux)
-- [Molhando o Volante by Jorge &amp; Mateus](https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P)
-- [One More Time - Radio Edit [Short Radio Edit] by Daft Punk](https://open.spotify.com/track/0ijhkvBpA7OBlY4clWSUZw)
-- [Closer by Galardo, Stage Republic](https://open.spotify.com/track/33u8YjN1pjHnLnwF5uHntV)
-- [My Way by Calvin Harris](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm)
+- [In the Name of Love by Martin Garrix, Bebe Rexha](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S)
+- [This Love by Maroon 5](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF)
+- [Only Human by Jonas Brothers](https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk)
+- [Malvada by Zé Felipe](https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0)
+- [Love Cost by Zach Golden, QBSmith](https://open.spotify.com/track/50OkYBKaEf9H4apzq5opHj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
