@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Good Life by OneRepublic](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4)
-- [I Gotta Feeling by Black Eyed Peas](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR)
-- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
-- [Price Tag by Jessie J, B.o.B](https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA)
-- [Good Feeling by Flo Rida](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8)
+- [Macarena - Bayside Boys Remix by Los Del Rio](https://open.spotify.com/track/3ktQWLu1mVhc4GTMrdPLEG)
+- [Shotgun by George Ezra](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC)
+- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
+- [King by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM)
+- [Don&#39;t Be so Hard on Yourself by Jess Glynne](https://open.spotify.com/track/0sUyqewVzwv0e5tK3hS6vJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
