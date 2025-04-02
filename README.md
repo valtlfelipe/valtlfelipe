@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Alane by Robin Schulz, Wes](https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI)
-- [SOS by Avicii, Aloe Blacc](https://open.spotify.com/track/0n2nEtLP3OzDdi12ziIekx)
-- [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
-- [CACHORRINHAS by Luísa Sonza](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion)
-- [Leave The Door Open by Bruno Mars, Anderson .Paak, Silk Sonic](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T)
+- [Moves Like Jagger - Studio Recording From &#34;The Voice&#34; Performance by Maroon 5, Christina Aguilera](https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI)
+- [Payphone by Maroon 5, Wiz Khalifa](https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A)
+- [Side Effect (feat. Au/Ra) by Alok, Au/Ra](https://open.spotify.com/track/4oGo7473OiyYAxpx4UpCIR)
+- [Happier by Marshmello, Bastille](https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1)
+- [DANÇARINA by PEDRO SAMPAIO, Mc Pedrinho](https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
