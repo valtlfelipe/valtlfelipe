@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Mambo No. 5 (a Little Bit of...) by Lou Bega](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs)
+- [Easy Lover by Philip Bailey, Phil Collins](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf)
+- [Sugar (feat. Francesco Yates) by Robin Schulz, Francesco Yates](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)
 - [In the Name of Love by Martin Garrix, Bebe Rexha](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S)
 - [This Love by Maroon 5](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF)
-- [Only Human by Jonas Brothers](https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk)
-- [Malvada by Zé Felipe](https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0)
-- [Love Cost by Zach Golden, QBSmith](https://open.spotify.com/track/50OkYBKaEf9H4apzq5opHj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
