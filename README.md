@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Timber by Pitbull, Kesha](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)
-- [Mambo No. 5 (a Little Bit of...) by Lou Bega](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs)
-- [Easy Lover by Philip Bailey, Phil Collins](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf)
-- [Sugar (feat. Francesco Yates) by Robin Schulz, Francesco Yates](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)
-- [In the Name of Love by Martin Garrix, Bebe Rexha](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S)
+- [Love The Way You Lie by Eminem, Rihanna](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED)
+- [Wake Me Up by Avicii](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2)
+- [There for You by Martin Garrix, Troye Sivan](https://open.spotify.com/track/6jA8HL9i4QGzsj6fjoxp8Y)
+- [Señorita by Shawn Mendes, Camila Cabello](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik)
+- [Just Can’t Get Enough by Black Eyed Peas](https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
