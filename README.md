@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Idiota by Jão](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4)
+- [Mind, Body by UPZ, Bobby Saint](https://open.spotify.com/track/3mqIkgBgZFewsG7rEr3WEv)
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
+- [How Bizarre by OMC](https://open.spotify.com/track/46q5BtHso0ECuTKeq70ZhW)
 - [Clumsy by Fergie](https://open.spotify.com/track/29TqbHtaTUjEDOBGJ5FNZX)
-- [Summer by Calvin Harris](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)
-- [Circus by Britney Spears](https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW)
-- [Dance Monkey by Tones And I](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K)
-- [Crazy by Gnarls Barkley](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
