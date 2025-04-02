@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Idiota by Jão](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4)
-- [Mind, Body by UPZ, Bobby Saint](https://open.spotify.com/track/3mqIkgBgZFewsG7rEr3WEv)
-- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
-- [How Bizarre by OMC](https://open.spotify.com/track/46q5BtHso0ECuTKeq70ZhW)
-- [Clumsy by Fergie](https://open.spotify.com/track/29TqbHtaTUjEDOBGJ5FNZX)
+- [Alane by Robin Schulz, Wes](https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI)
+- [SOS by Avicii, Aloe Blacc](https://open.spotify.com/track/0n2nEtLP3OzDdi12ziIekx)
+- [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
+- [CACHORRINHAS by Luísa Sonza](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion)
+- [Leave The Door Open by Bruno Mars, Anderson .Paak, Silk Sonic](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
