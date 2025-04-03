@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [TRUSTFALL - Drove Remix by P!nk, Drove](https://open.spotify.com/track/0JylJPPllrXMwbogQGNOej)
+- [Escape - John Summit Remix by deadmau5, Kaskade, Kx5, HAYLA, John Summit](https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE)
+- [My Head &amp; My Heart - Claptone Remix by Ava Max, Claptone](https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP)
+- [Cruel Summer - LP Giobbi Remix by Taylor Swift, LP Giobbi](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS)
 - [exes - Regard Remix by Tate McRae, Regard](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA)
-- [Shivers (Dillon Francis Remix) [Main Mix] by Ed Sheeran, Dillon Francis](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b)
-- [Hide Away - Alan Walker Remix by Daya, Alan Walker](https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f)
-- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
-- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
