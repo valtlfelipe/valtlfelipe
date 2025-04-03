@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Gimme Love - Armin van Buuren Remix – Radio Edit by Sia, Armin van Buuren](https://open.spotify.com/track/2cuVIu6c6BHJiUcOXoEivN)
-- [I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix by Whitney Houston, David Solomon](https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg)
-- [Moves Like Jagger - Studio Recording From &#34;The Voice&#34; Performance by Maroon 5, Christina Aguilera](https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI)
-- [Payphone by Maroon 5, Wiz Khalifa](https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A)
-- [Side Effect (feat. Au/Ra) by Alok, Au/Ra](https://open.spotify.com/track/4oGo7473OiyYAxpx4UpCIR)
+- [exes - Regard Remix by Tate McRae, Regard](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA)
+- [Shivers (Dillon Francis Remix) [Main Mix] by Ed Sheeran, Dillon Francis](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b)
+- [Hide Away - Alan Walker Remix by Daya, Alan Walker](https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f)
+- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
+- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
