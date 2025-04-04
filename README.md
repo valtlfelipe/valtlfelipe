@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [DJ Got Us Fallin&#39; In Love (feat. Pitbull) by USHER, Pitbull](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn)
-- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
-- [I&#39;ve Been Thinking About You by Londonbeat](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d)
-- [Party In The U.S.A. by Miley Cyrus](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr)
-- [Lil Boo Thang - Galantis Remix by Paul Russell, Galantis](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0)
+- [Hula Hoop by OMI](https://open.spotify.com/track/0wsXdby1T3PWLauIkGUZzg)
+- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
+- [Moves Like Jagger - Studio Recording From &#34;The Voice&#34; Performance by Maroon 5, Christina Aguilera](https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI)
+- [Time of Our Lives by Pitbull, Ne-Yo](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r)
+- [Price Tag by Jessie J, B.o.B](https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
