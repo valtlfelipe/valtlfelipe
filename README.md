@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Can&#39;t Get You out of My Head - Peggy Gou’s Midnight Remix by Kylie Minogue, Peggy Gou](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb)
-- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5vVND8Mey78LZaljL8Nmpd)
-- [TRUSTFALL - Drove Remix by P!nk, Drove](https://open.spotify.com/track/0JylJPPllrXMwbogQGNOej)
-- [Escape - John Summit Remix by deadmau5, Kaskade, Kx5, HAYLA, John Summit](https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE)
-- [My Head &amp; My Heart - Claptone Remix by Ava Max, Claptone](https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP)
+- [DJ Got Us Fallin&#39; In Love (feat. Pitbull) by USHER, Pitbull](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn)
+- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
+- [I&#39;ve Been Thinking About You by Londonbeat](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d)
+- [Party In The U.S.A. by Miley Cyrus](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr)
+- [Lil Boo Thang - Galantis Remix by Paul Russell, Galantis](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
