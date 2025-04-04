@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Don&#39;t Be so Hard on Yourself by Jess Glynne](https://open.spotify.com/track/0sUyqewVzwv0e5tK3hS6vJ)
-- [Summer Air by ItaloBrothers](https://open.spotify.com/track/3MIwc5XzD2VX8ZJAIyURKI)
-- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
-- [Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] by Pharrell Williams, Nile Rodgers, Thomas Bangalter, Guy-Manuel de Homem-Christo, Daft Punk](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof)
-- [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
+- [Hotter Than Hell by Dua Lipa](https://open.spotify.com/track/5eTNdkstwKaNahHf41fJ9u)
+- [Shine by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7KM7AeGDIWKxrMN7E4ljRA)
+- [Heading Home by Gryffin, Josef Salvat](https://open.spotify.com/track/4iZ3YEN89TU8Uwan4NwkB8)
+- [One More Night by Maroon 5](https://open.spotify.com/track/6cpk00i5TxCqSeqNi2HuIe)
+- [I Bet My Life - Alex Adair Remix by Imagine Dragons](https://open.spotify.com/track/3bnEhDlFFXeCyyYhbRszW7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
