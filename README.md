@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Foundations (feat. Jasmine Thompson) by KOLIDESCOPES, Jasmine Thompson](https://open.spotify.com/track/4Oo4zq02t4mKYSGVYxggHf)
+- [MINDGAMES - (JYRYMY REMIX) by Paulina, JYRYMY](https://open.spotify.com/track/0ycteGsaJrAlhOh1hEBH5X)
+- [African Karma - Radio Edit by Peter Sax, Alora, Senil](https://open.spotify.com/track/1Aks2NhkTnGHj1UysFwdhm)
+- [Home - Extended by Mahalo, Swedish Red Elephant](https://open.spotify.com/track/1pX8W8nB8R08ogzEOZidBQ)
 - [Part Of Me by Armin van Buuren, Louis III](https://open.spotify.com/track/6c9Bq8hESrmVEkY5WBBNAZ)
-- [The Melody - Paul Lock Remix by Marc Philippe, Paul Lock](https://open.spotify.com/track/1T6Hll4tu6IGijRQghsVdp)
-- [From The Start by Morgin Madison, Ryan Lucian](https://open.spotify.com/track/0Q8yHagMvsdI3ZQVPwWo7q)
-- [Don&#39;t Let Go by LöKii, Linney](https://open.spotify.com/track/2euAOmCCo8I9C54m8G3qAT)
-- [In The Dark by Matt Nash](https://open.spotify.com/track/65akqGrZ7T4obDYd8xJ41h)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
