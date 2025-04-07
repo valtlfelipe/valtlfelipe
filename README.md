@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (2 weeks ago)
 
 #### 🎧 What I have been listening
-- [Wrecked by Imagine Dragons](https://open.spotify.com/track/6TEftSkmWdTm1EpThnwqh6)
-- [I Cry by Flo Rida](https://open.spotify.com/track/4bZd0nRuX8HyjeXAUBczvm)
-- [Hotter Than Hell by Dua Lipa](https://open.spotify.com/track/5eTNdkstwKaNahHf41fJ9u)
-- [Shine by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7KM7AeGDIWKxrMN7E4ljRA)
-- [Heading Home by Gryffin, Josef Salvat](https://open.spotify.com/track/4iZ3YEN89TU8Uwan4NwkB8)
+- [golden ticket by joki, CLMD, Seeb](https://open.spotify.com/track/469uECya9GDoi1Siir0bnz)
+- [Waiting For You by Tim van Werd, Banaati, Chris Howard](https://open.spotify.com/track/11N9ghjDoWYS3wB5y16HL7)
+- [Africa - CSM Remix by Claudio Souza Mattos](https://open.spotify.com/track/1Hfxf3cqZ1v5rWFdaOrTcV)
+- [One More Time - Radio Edit [Short Radio Edit] by Daft Punk](https://open.spotify.com/track/2Uy6EhQXAYkXA6MohPgjpV)
+- [Counting Stars by OneRepublic](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
