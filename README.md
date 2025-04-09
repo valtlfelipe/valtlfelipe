@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Gratitude by Above &amp; Beyond, anamē, Marty Longstaff](https://open.spotify.com/track/0KU8W0lHfsNlH7lfV1dz29)
-- [Don&#39;t Wanna Play No More by Brooke &amp; Stonebridge](https://open.spotify.com/track/4kbulVKACgzPg3Fz9JSKX2)
-- [Let&#39;s Not Interrupt (Keep On Dancing) by The Archer](https://open.spotify.com/track/3jPRYZdAdm2JKxkmRAicE5)
-- [BIRDS OF A FEATHER - Afro House Version by JimmX](https://open.spotify.com/track/1nq8Lu7kVCClJvwGD08Wpo)
-- [Problems by Alex Adair](https://open.spotify.com/track/74UR9DSYWKvgTj27NubXAH)
+- [A Bar Song (Tipsy) by Shaboozey](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf)
+- [Sunshine by OneRepublic](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B)
+- [Dance Alone by Sia, Kylie Minogue](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1)
+- [These Walls by Dua Lipa](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py)
+- [Why by Mosimann](https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
