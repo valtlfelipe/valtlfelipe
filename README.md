@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Rock My Body by R3HAB, INNA, Sash!](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU)
-- [Fading Like A Flower by Roxette, Galantis](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2)
-- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
-- [Honey Boy (feat. Nile Rodgers &amp; Shenseea) by Purple Disco Machine, Benjamin Ingrosso, Nile Rodgers, Shenseea](https://open.spotify.com/track/3CTgRPxyTh2w7wBjVFH88e)
-- [Dumb by Jubël](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu)
+- [Glad U Came by Jason Derulo](https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX)
+- [Love Me Now (feat. Zoe Wees) by Kygo, Zoe Wees](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb)
+- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
+- [Never Gonna Not Dance Again by P!nk](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0)
+- [Somebody by Dagny](https://open.spotify.com/track/6pU7kdmhRvhc8twYRl14bD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
