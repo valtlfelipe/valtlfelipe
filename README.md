@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Glad U Came by Jason Derulo](https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX)
-- [Love Me Now (feat. Zoe Wees) by Kygo, Zoe Wees](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb)
-- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
-- [Never Gonna Not Dance Again by P!nk](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0)
-- [Somebody by Dagny](https://open.spotify.com/track/6pU7kdmhRvhc8twYRl14bD)
+- [Back To You by Lost Frequencies, Elley Duhé, X Ambassadors](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e)
+- [Lasting Lover by Sigala, James Arthur](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY)
+- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [Dancing In The Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
+- [Head Shoulders Knees &amp; Toes (feat. Norma Jean Martine) by Ofenbach, Quarterhead, Norma Jean Martine](https://open.spotify.com/track/14ngWWxvUSnIMXgF6rzSk1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
