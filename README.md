@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Summer of Love (Shawn Mendes &amp; Tainy) by Shawn Mendes, Tainy](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6)
-- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
-- [Whistle (feat. Calum Scott) by Jax Jones, Calum Scott](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF)
-- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
-- [Dive by Hot Shade, Mike Perry, Chris James](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd)
+- [Down Under (feat. Colin Hay) by Luude, Colin Hay](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2)
+- [I like u by Tove Lo](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ)
+- [Like I Used To by Sonny Fodera, Paul Woolford, Ella Henderson](https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA)
+- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
+- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
