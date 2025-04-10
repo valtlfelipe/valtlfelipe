@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Down Under (feat. Colin Hay) by Luude, Colin Hay](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2)
-- [I like u by Tove Lo](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ)
-- [Like I Used To by Sonny Fodera, Paul Woolford, Ella Henderson](https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA)
-- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
-- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
+- [Rock My Body by R3HAB, INNA, Sash!](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU)
+- [Fading Like A Flower by Roxette, Galantis](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2)
+- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
+- [Honey Boy (feat. Nile Rodgers &amp; Shenseea) by Purple Disco Machine, Benjamin Ingrosso, Nile Rodgers, Shenseea](https://open.spotify.com/track/3CTgRPxyTh2w7wBjVFH88e)
+- [Dumb by Jubël](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
