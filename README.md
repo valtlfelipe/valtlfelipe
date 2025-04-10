@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
+- [Woke up in Bangkok by Deepend, YouNotUs, Martin Gallop](https://open.spotify.com/track/3x63A5hq4vldKE8hWIi1tE)
+- [Lay Low by Tiësto](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt)
 - [Back To You by Lost Frequencies, Elley Duhé, X Ambassadors](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e)
 - [Lasting Lover by Sigala, James Arthur](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY)
-- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
-- [Dancing In The Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
-- [Head Shoulders Knees &amp; Toes (feat. Norma Jean Martine) by Ofenbach, Quarterhead, Norma Jean Martine](https://open.spotify.com/track/14ngWWxvUSnIMXgF6rzSk1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
