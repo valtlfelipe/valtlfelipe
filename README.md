@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Poison Of Choice by Natascha Polké](https://open.spotify.com/track/72zZ2KOn7JbTFsALUmhpt0)
-- [whatcouldbe by Tonic Walter](https://open.spotify.com/track/7mDYG9GGbKeX5j3Y7hMuik)
-- [oceanic (feat. Vagabon) [rebirth] by Logic1000, Vagabon](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE)
-- [On My Way by Massane, Artonal](https://open.spotify.com/track/1oUQXAmLFtTNRIwgRfWOTf)
-- [Lacuna by A.M.R, Kymira](https://open.spotify.com/track/7DJtpkk5hNrM8AFTjKPlZv)
+- [Sunlight by Lufthaus](https://open.spotify.com/track/595M3e9mqepEd19NGVEABi)
+- [Moss by Duskus](https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ)
+- [Limes by Jasper Tygner](https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR)
+- [Far Away by jackLNDN, ZEMBU](https://open.spotify.com/track/0owkRiLsjtXe3JKYxt9tf5)
+- [Falling Apart by Catching Flies](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
