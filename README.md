@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [oceanic (feat. Vagabon) [rebirth] by Logic1000, Vagabon](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE)
+- [On My Way by Massane, Artonal](https://open.spotify.com/track/1oUQXAmLFtTNRIwgRfWOTf)
+- [Lacuna by A.M.R, Kymira](https://open.spotify.com/track/7DJtpkk5hNrM8AFTjKPlZv)
+- [Storyteller by Solatic](https://open.spotify.com/track/6orLdkInD3V663dCniGqbf)
 - [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
-- [Woke up in Bangkok by Deepend, YouNotUs, Martin Gallop](https://open.spotify.com/track/3x63A5hq4vldKE8hWIi1tE)
-- [Lay Low by Tiësto](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt)
-- [Back To You by Lost Frequencies, Elley Duhé, X Ambassadors](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e)
-- [Lasting Lover by Sigala, James Arthur](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
