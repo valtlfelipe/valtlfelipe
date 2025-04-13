@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [Lottery (feat. LU KALA) by Latto, LU KALA](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir)
+- [Dandelion by Galantis, JVKE](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt)
+- [OUT OUT (feat. Charli XCX &amp; Saweetie) by Joel Corry, Jax Jones, Charli xcx, Saweetie](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ)
+- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
 - [Look Who&#39;s Laughing Now by Benjamin Ingrosso](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7)
-- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
-- [Summer of Love (Shawn Mendes &amp; Tainy) by Shawn Mendes, Tainy](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6)
-- [Bittersweet Symphony by GAMPER &amp; DADONI, Emily Roberts](https://open.spotify.com/track/0Gp23ds4JDUwan98IfNNL5)
-- [Dance Alone by Sia, Kylie Minogue](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
