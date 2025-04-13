@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [Waffle House by Jonas Brothers](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU)
+- [Everything But You (feat. A7S) by Clean Bandit, A7S](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV)
 - [Lottery (feat. LU KALA) by Latto, LU KALA](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir)
 - [Dandelion by Galantis, JVKE](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt)
 - [OUT OUT (feat. Charli XCX &amp; Saweetie) by Joel Corry, Jax Jones, Charli xcx, Saweetie](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ)
-- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
-- [Look Who&#39;s Laughing Now by Benjamin Ingrosso](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
