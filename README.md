@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [Head &amp; Heart (feat. MNEK) by Joel Corry, MNEK](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9)
+- [Paradise by Drew Sycamore](https://open.spotify.com/track/2GsEj8p7jW58xel3U7EMe9)
+- [ily (i love you baby) (Topic Remix) [feat. Emilee] by Surf Mesa, Topic, Emilee](https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84)
 - [Waffle House by Jonas Brothers](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU)
 - [Everything But You (feat. A7S) by Clean Bandit, A7S](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV)
-- [Lottery (feat. LU KALA) by Latto, LU KALA](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir)
-- [Dandelion by Galantis, JVKE](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt)
-- [OUT OUT (feat. Charli XCX &amp; Saweetie) by Joel Corry, Jax Jones, Charli xcx, Saweetie](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
