@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Rasputin by Majestic, Boney M.](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q)
-- [So Close by NOTD, Felix Jaehn, Captain Cuts, Georgia Ku](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK)
-- [Best Is Yet To Come (with Kyle Reynolds) by Gryffin, Kyle Reynolds](https://open.spotify.com/track/2gZwBmkSmsVfEPFWGuWTDk)
-- [Follow Me by Sam Feldt, Rita Ora](https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI)
-- [Run by Becky Hill, Galantis](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ)
+- [You for Me by Sigala, Rita Ora](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp)
+- [I like u by Tove Lo](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ)
+- [Higher Power by Coldplay](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct)
+- [These Walls by Dua Lipa](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py)
+- [Higher Love by Kygo, Whitney Houston](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
