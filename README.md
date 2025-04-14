@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
-- [Lasting Lover by Sigala, James Arthur](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY)
-- [Hot In It (feat. Charli XCX) by Tiësto, Charli xcx](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn)
-- [Head &amp; Heart (feat. MNEK) by Joel Corry, MNEK](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9)
-- [Paradise by Drew Sycamore](https://open.spotify.com/track/2GsEj8p7jW58xel3U7EMe9)
+- [Satellite by Khalid](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY)
+- [Forever Young by UNDRESSD, Ellie May](https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [What Would You Do? by Joel Corry, David Guetta, Bryson Tiller](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv)
+- [All Night Long (All Night) - Recorded at Spotify Studios Stockholm by Benjamin Ingrosso](https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
