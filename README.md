@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [I&#39;m Not Here To Make Friends by Sam Smith, Calvin Harris, Jessie Reyez](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM)
+- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN)
+- [Say My Name by Dimitri Vegas &amp; Like Mike, Regard, Dimitri Vegas](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7)
+- [Murder On The Dancefloor by Sophie Ellis-Bextor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)
 - [Hallucination by Regard, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu)
-- [Get Busy - Odd Mob Club Mix by Sean Paul, Odd Mob](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6)
-- [Call On Me by RAYE](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj)
-- [DANCE by CLMD, Tungevaag](https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J)
-- [Remind Me by Tom Grennan](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
