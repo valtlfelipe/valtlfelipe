@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [Rasputin by Majestic, Boney M.](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q)
+- [So Close by NOTD, Felix Jaehn, Captain Cuts, Georgia Ku](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK)
 - [Best Is Yet To Come (with Kyle Reynolds) by Gryffin, Kyle Reynolds](https://open.spotify.com/track/2gZwBmkSmsVfEPFWGuWTDk)
 - [Follow Me by Sam Feldt, Rita Ora](https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI)
 - [Run by Becky Hill, Galantis](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ)
-- [Dumb by Jubël](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu)
-- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
