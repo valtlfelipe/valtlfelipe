@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[DiceDB/dice](https://github.com/DiceDB/dice)** - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware. (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
-- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
-- [You for Me by Sigala, Rita Ora](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp)
-- [I like u by Tove Lo](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ)
 - [Higher Power by Coldplay](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct)
+- [A Bar Song (Tipsy) by Shaboozey](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf)
+- [I like u by Tove Lo](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ)
+- [Rasputin by Majestic, Boney M.](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q)
+- [Potion (with Dua Lipa &amp; Young Thug) by Calvin Harris, Dua Lipa, Young Thug](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
