@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[dennisadriaans/vue-chrts](https://github.com/dennisadriaans/vue-chrts)** - This is a Vue 3 chart package inspired by Tremor, built on top of Unovis. (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [Closure by Massane, Benjamin Roustaing](https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O)
+- [Creon by GRIDD](https://open.spotify.com/track/3BG69rqoyMleMkx5Izq8FT)
+- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
 - [Beyond Beliefs by Ben Böhmer](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV)
 - [Don&#39;t Give Up - Radio Edit by Nihil Young, Talal, Amy Wawn](https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9)
-- [From The Start by Morgin Madison, Ryan Lucian](https://open.spotify.com/track/0Q8yHagMvsdI3ZQVPwWo7q)
-- [Coming Home - Piece Wise Remix by Bound to Divide, Lewyn, Piece Wise](https://open.spotify.com/track/6htFwwNUkg67OasDBXZeHi)
-- [BIRDS OF A FEATHER - Afro House Version by JimmX](https://open.spotify.com/track/1nq8Lu7kVCClJvwGD08Wpo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
