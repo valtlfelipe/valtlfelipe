@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[mnfst/manifest](https://github.com/mnfst/manifest)** - 🦚 The 1-file backend.  (3 weeks ago)
 
 #### 🎧 What I have been listening
-- [Afterglow by Bob Moses, Kasablanca](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44)
-- [Neverender by Justice, Tame Impala](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj)
-- [Electric Feel - Spotify Singles by Tkay Maidza](https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy)
-- [Move (feat. Camila Cabello &amp; Malachiii) by Adam Port, Stryv, Camila Cabello, Keinemusik, Malachiii, Orso](https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG)
-- [In the Moment - Adriatique Remix by RÜFÜS DU SOL, Adriatique](https://open.spotify.com/track/6YmTRcr74slEya3cvMsR6y)
+- [(It Goes Like) Nanana by SIQUE, Sunseekers](https://open.spotify.com/track/1nZVxPQ4wwjGKAFeHoR9Lh)
+- [Chase The Sun by Giorgio Gee](https://open.spotify.com/track/2mjin0AG05kASbaB5P58Pe)
+- [Hey Now by Paige, Nihil Young, Innarius](https://open.spotify.com/track/0D4jfYqgPUjzAWbXsxvd4n)
+- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
