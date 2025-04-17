@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[mnfst/manifest](https://github.com/mnfst/manifest)** - 🦚 The 1-file backend.  (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [Happy Now by SilkandStones](https://open.spotify.com/track/5k3n2gz1LcBxAKdhRKX4H9)
+- [Self Control by Eelke Kleijn, Lee Cabrera](https://open.spotify.com/track/2hSVC8CYjPWoSge6LtryVO)
+- [Like You by Esteban, Alex Schneider](https://open.spotify.com/track/4PjfO29lQ0WyStVsQvNGaS)
+- [Sex on Fire by Tom Enzy, Sam Welch](https://open.spotify.com/track/2v8ZY6HZKtFllSgaArOPIA)
 - [7 Seconds - Deep Edit by Bellagio, Araas Lee](https://open.spotify.com/track/17GvkTT38EPT5hNeNJSZSK)
-- [Hold On - Ferjo De Gery Remix by Anton Arbuzov, Ferjo De Gery](https://open.spotify.com/track/6c9zToUS3hVriMgTKUuCUG)
-- [Comptine D&#39;un Autre Été by Alex Luciano](https://open.spotify.com/track/6fIEXieofo6dr6qlMcZCO3)
-- [Say My Name by USAI, Feb](https://open.spotify.com/track/18hYNUAYq9YWcfB1bcaMlv)
-- [Treat Me Right ( - Marc Philippe Remix by Pete Bellis &amp; Tommy, Marc Philippe](https://open.spotify.com/track/5oHmGnRtCSSVVFFOaoVKMd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
