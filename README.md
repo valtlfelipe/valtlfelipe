@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[mnfst/manifest](https://github.com/mnfst/manifest)** - 🦚 The 1-file backend.  (3 weeks ago)
 
 #### 🎧 What I have been listening
+- [Ocean Drive by Hitkend House Lab](https://open.spotify.com/track/4cF0x9lNYHrVeG0qLNXlm5)
+- [THINKING ABOUT YOU by Jaden Bojsen](https://open.spotify.com/track/3cRVc5nb6MAh2FiMKZP1BQ)
+- [Self Control by Eelke Kleijn, Lee Cabrera](https://open.spotify.com/track/2hSVC8CYjPWoSge6LtryVO)
 - [How You Feel by Robert Georgescu, White, Diana](https://open.spotify.com/track/7GAwVwebIU8SCbsh7imOkb)
 - [Waves &amp; Wavs by Ahmed Spins, Lizwi](https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7)
-- [Higher by Dutchican Soul, Husky, Elly J Devon](https://open.spotify.com/track/3I4Kbokb3F0VqJeT70s07h)
-- [So Close by NOTD, Felix Jaehn, Captain Cuts, Georgia Ku](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK)
-- [Happy Now by SilkandStones](https://open.spotify.com/track/5k3n2gz1LcBxAKdhRKX4H9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
