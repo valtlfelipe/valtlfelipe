@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[mnfst/manifest](https://github.com/mnfst/manifest)** - 🦚 The 1-file backend.  (4 weeks ago)
 
 #### 🎧 What I have been listening
-- [Con Calma by Daddy Yankee, Snow](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m)
-- [Lasting Lover by Sigala, James Arthur](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY)
-- [Told You So by Martin Garrix, Jex](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll)
-- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
-- [More Than You Know by Axwell /\ Ingrosso](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP)
+- [How You Feel by Robert Georgescu, White, Diana](https://open.spotify.com/track/7GAwVwebIU8SCbsh7imOkb)
+- [House Of The Rising Sun - Afro House Remix by Nora Van Elken](https://open.spotify.com/track/1vIQLo7qFfrdMipT0MzCUe)
+- [Back To Me by Jai Nova](https://open.spotify.com/track/4XwqbVrbyp5PUxHWrNDzQ5)
+- [The First Time Free - Claptone Remix by Ultra Naté, Roland Clark, Claptone](https://open.spotify.com/track/1Jle9gZeFa3QHNTXYLTMOV)
+- [Chase The Sun by Giorgio Gee](https://open.spotify.com/track/2mjin0AG05kASbaB5P58Pe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
