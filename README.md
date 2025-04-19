@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[mnfst/manifest](https://github.com/mnfst/manifest)** - 🦚 The 1-file backend.  (4 weeks ago)
 
 #### 🎧 What I have been listening
-- [SNAP - Luca Schreiner Remix by Rosa Linn, Luca Schreiner](https://open.spotify.com/track/2Ulk7ty4IBIrfrPs0LS4Zj)
-- [Lay Low by Tiësto](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt)
-- [Unstoppable - R3HAB Remix by Sia, R3HAB](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq)
-- [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
-- [Hypnotized by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/4grVkAtmqIipynBu8D9v6G)
+- [My Love by Route 94, Jess Glynne](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU)
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
+- [More Than You Know by Axwell /\ Ingrosso](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP)
+- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [Ferrari by James Hype, Miggy Dela Rosa](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
