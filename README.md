@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ibelick/zola](https://github.com/ibelick/zola)** - Zola is a free, open-source AI chat app with multi-model support. (5 days ago)
 
 #### 🎧 What I have been listening
-- [If You Really Love Me (How Will I Know) by David Guetta, MistaJam, John Newman](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd)
-- [Dance Alone by Sia, Kylie Minogue](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1)
-- [Woke Up in Love by Kygo, Gryffin, Calum Scott](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo)
-- [OUT OUT (feat. Charli XCX &amp; Saweetie) by Joel Corry, Jax Jones, Charli xcx, Saweetie](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ)
-- [Numb by Marshmello, Khalid](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL)
+- [wetlands by Rustique Beats](https://open.spotify.com/track/0RMhdbMSfq33b3rdaRPa30)
+- [sunny days by mxgnetic.](https://open.spotify.com/track/5hqELfATuiNqZchjqMRxUO)
+- [constellations by butterfli](https://open.spotify.com/track/6Tmhesk2tLiJtJ52Al3nQ1)
+- [in a haze by Kaptain Kola](https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER)
+- [morning haze by skyshapes](https://open.spotify.com/track/2Hd40y9JK6sTNstfcM91hN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
