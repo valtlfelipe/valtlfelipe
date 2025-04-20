@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ibelick/zola](https://github.com/ibelick/zola)** - Zola is a free, open-source AI chat app with multi-model support. (5 days ago)
 
 #### 🎧 What I have been listening
-- [I Love You, Always Forever by RadioClub, NEEKA](https://open.spotify.com/track/5pCj2jYkId4bVp3JssibLN)
-- [All Around The World by Alosa, Jessica Chertock, Deep Mage](https://open.spotify.com/track/5KDdVT6W8rPt68kvEzZzA4)
-- [Good Feeling by Flo Rida](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8)
-- [Rhythm Divine by Enrique Iglesias](https://open.spotify.com/track/4XifD1V0kWoG4WwsXTwS3y)
-- [When Love Takes Over (feat. Kelly Rowland) by David Guetta, Kelly Rowland](https://open.spotify.com/track/619bJQ9uDi8dnXzLebFI7y)
+- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
+- [Lips by Aden Foyer](https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV)
+- [Hallucination by Regard, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
