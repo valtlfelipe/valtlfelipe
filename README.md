@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ibelick/zola](https://github.com/ibelick/zola)** - Zola is a free, open-source AI chat app with multi-model support. (5 days ago)
 
 #### 🎧 What I have been listening
-- [wetlands by Rustique Beats](https://open.spotify.com/track/0RMhdbMSfq33b3rdaRPa30)
-- [sunny days by mxgnetic.](https://open.spotify.com/track/5hqELfATuiNqZchjqMRxUO)
-- [constellations by butterfli](https://open.spotify.com/track/6Tmhesk2tLiJtJ52Al3nQ1)
-- [in a haze by Kaptain Kola](https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER)
-- [morning haze by skyshapes](https://open.spotify.com/track/2Hd40y9JK6sTNstfcM91hN)
+- [No Doubt by Lil Leaf](https://open.spotify.com/track/4zo86agUhtHHBHD5AVNHFN)
+- [Shades of Grey by Karen Alice](https://open.spotify.com/track/3ufEq5B3zd2eRx3CcZpcVG)
+- [solace by louke&#39;s beats](https://open.spotify.com/track/4XGhMOaPEVQYmhZbI4LxYG)
+- [Closing Time by A Space for Rent](https://open.spotify.com/track/1eK7qgpd73cmd9qXPDkgPT)
+- [Whispers of the Wind by Yoga at the Disco](https://open.spotify.com/track/3E6NfnkawOsv6QEHDVqdlV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
