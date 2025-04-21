@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/chat](https://github.com/nuxt-ui-pro/chat)** - Nuxt Chat Template made with Nuxt UI Pro on NuxtHub. (2 days ago)
 
 #### 🎧 What I have been listening
-- [The Time Is Now by P.A.V](https://open.spotify.com/track/7CImbCFyj3mMlwXxXxd8wB)
-- [Lies by Nick Raff](https://open.spotify.com/track/32zB0FI9i0WscIAiW18NNQ)
-- [Mas Que Nada by WISEKIDS](https://open.spotify.com/track/4Pz64B7qxDu5k2oG7qOPTX)
-- [Slow Down by Bentley Grey, LaKayte](https://open.spotify.com/track/6oABnZJhcDQVHm8KHKicOr)
-- [Rarest Kind by Lovlee](https://open.spotify.com/track/4x4rdlczL3PzoiYje7sKbR)
+- [I Love You Always Forever by Donna Lewis](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD)
+- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
+- [Time of Our Lives by Pitbull, Ne-Yo](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r)
+- [Dynamite by Taio Cruz](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV)
+- [Summer Air by ItaloBrothers](https://open.spotify.com/track/3MIwc5XzD2VX8ZJAIyURKI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
