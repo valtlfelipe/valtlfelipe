@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/chat](https://github.com/nuxt-ui-pro/chat)** - Nuxt Chat Template made with Nuxt UI Pro on NuxtHub. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Love Changes (Everything) by Climie Fisher](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv)
-- [Stay (feat. Maty Noyes) by Kygo, Maty Noyes](https://open.spotify.com/track/7gBj0VgcuAgkXkiRRYvSmK)
-- [On Top Of The World by Imagine Dragons](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w)
-- [I&#39;ve Been Thinking About You by Londonbeat](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d)
+- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
 - [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
+- [Whenever, Wherever by Shakira](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG)
+- [Baby, I Love Your Way by Big Mountain](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa)
+- [This Is What You Came For by Calvin Harris, Rihanna](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
