@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ibelick/zola](https://github.com/ibelick/zola)** - Zola is a free, open-source AI chat app with multi-model support. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Carribean Queen by Outliers, LAST CALL, Peachy Pete](https://open.spotify.com/track/3mEhX9ttft8OLhs0CdNs8V)
-- [Hey Now by Paige, Nihil Young, Innarius](https://open.spotify.com/track/0D4jfYqgPUjzAWbXsxvd4n)
-- [Self Control by Eelke Kleijn, Lee Cabrera](https://open.spotify.com/track/2hSVC8CYjPWoSge6LtryVO)
-- [The First Time Free - Claptone Remix by Ultra Naté, Roland Clark, Claptone](https://open.spotify.com/track/1Jle9gZeFa3QHNTXYLTMOV)
-- [Higher Ground (feat. Roosevelt) by Purple Disco Machine, Roosevelt](https://open.spotify.com/track/55pgttry6U5AcTMyB6FmEt)
+- [Happy Now by SilkandStones](https://open.spotify.com/track/5k3n2gz1LcBxAKdhRKX4H9)
+- [House Of The Rising Sun - Afro House Remix by Nora Van Elken](https://open.spotify.com/track/1vIQLo7qFfrdMipT0MzCUe)
+- [Treat Me Right ( - Marc Philippe Remix by Pete Bellis &amp; Tommy, Marc Philippe](https://open.spotify.com/track/5oHmGnRtCSSVVFFOaoVKMd)
+- [Higher by Dutchican Soul, Husky, Elly J Devon](https://open.spotify.com/track/3I4Kbokb3F0VqJeT70s07h)
+- [Waves &amp; Wavs by Ahmed Spins, Lizwi](https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
