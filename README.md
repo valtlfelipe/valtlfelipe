@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ibelick/zola](https://github.com/ibelick/zola)** - Zola is a free, open-source AI chat app with multi-model support. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Summer Thing by Dragonette, Sunnery James &amp; Ryan Marciano, Cat Dealers, Bruno Martini](https://open.spotify.com/track/5UbJD3lat3SVDDBXmf8gLc)
+- [Say It Right by fwd/slash](https://open.spotify.com/track/3lB6O98xjnjjPnnuDlEOV5)
+- [Carribean Queen by Outliers, LAST CALL, Peachy Pete](https://open.spotify.com/track/3mEhX9ttft8OLhs0CdNs8V)
+- [Forgiven by Maxi Rozh](https://open.spotify.com/track/3ZzYIxLdI7QUJ2j4j2AMet)
 - [Chase The Sun by Giorgio Gee](https://open.spotify.com/track/2mjin0AG05kASbaB5P58Pe)
-- [Midnight Stuff by Duos On Mars](https://open.spotify.com/track/2MGJydjBonGOlIzDQZL3dQ)
-- [No Doubt by Lil Leaf](https://open.spotify.com/track/4zo86agUhtHHBHD5AVNHFN)
-- [Shades of Grey by Karen Alice](https://open.spotify.com/track/3ufEq5B3zd2eRx3CcZpcVG)
-- [solace by louke&#39;s beats](https://open.spotify.com/track/4XGhMOaPEVQYmhZbI4LxYG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
