@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/chat](https://github.com/nuxt-ui-pro/chat)** - Nuxt Chat Template made with Nuxt UI Pro on NuxtHub. (2 days ago)
 
 #### 🎧 What I have been listening
-- [I Love You Always Forever by Donna Lewis](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD)
-- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
-- [Time of Our Lives by Pitbull, Ne-Yo](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r)
-- [Dynamite by Taio Cruz](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV)
-- [Summer Air by ItaloBrothers](https://open.spotify.com/track/3MIwc5XzD2VX8ZJAIyURKI)
+- [Whatever It Takes by Imagine Dragons](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb)
+- [Can&#39;t Get You out of My Head by Kylie Minogue](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7)
+- [Good Feeling by Flo Rida](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8)
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
+- [Don&#39;t Give Up - Radio Edit by Nihil Young, Talal, Amy Wawn](https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
