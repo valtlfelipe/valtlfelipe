@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/chat](https://github.com/nuxt-ui-pro/chat)** - Nuxt Chat Template made with Nuxt UI Pro on NuxtHub. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Whatever It Takes by Imagine Dragons](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb)
-- [Can&#39;t Get You out of My Head by Kylie Minogue](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7)
-- [Good Feeling by Flo Rida](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8)
-- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
-- [Don&#39;t Give Up - Radio Edit by Nihil Young, Talal, Amy Wawn](https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9)
+- [Love Changes (Everything) by Climie Fisher](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv)
+- [Stay (feat. Maty Noyes) by Kygo, Maty Noyes](https://open.spotify.com/track/7gBj0VgcuAgkXkiRRYvSmK)
+- [On Top Of The World by Imagine Dragons](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w)
+- [I&#39;ve Been Thinking About You by Londonbeat](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d)
+- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
