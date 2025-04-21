@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ibelick/zola](https://github.com/ibelick/zola)** - Zola is a free, open-source AI chat app with multi-model support. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Happy Now by SilkandStones](https://open.spotify.com/track/5k3n2gz1LcBxAKdhRKX4H9)
-- [House Of The Rising Sun - Afro House Remix by Nora Van Elken](https://open.spotify.com/track/1vIQLo7qFfrdMipT0MzCUe)
-- [Treat Me Right ( - Marc Philippe Remix by Pete Bellis &amp; Tommy, Marc Philippe](https://open.spotify.com/track/5oHmGnRtCSSVVFFOaoVKMd)
-- [Higher by Dutchican Soul, Husky, Elly J Devon](https://open.spotify.com/track/3I4Kbokb3F0VqJeT70s07h)
-- [Waves &amp; Wavs by Ahmed Spins, Lizwi](https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7)
+- [Keeping You Close by Lonelysoul.](https://open.spotify.com/track/7FkFR9xyHwU38r5p2JNhSZ)
+- [Galaxy From Home by Aludra](https://open.spotify.com/track/1BTsjlr9xjyhsW8venOXrc)
+- [Paper Plane by Thunder, ODBLU](https://open.spotify.com/track/68hMOJHiI9NPoN5V7vSFJk)
+- [Deepest Blue by Marc Philippe](https://open.spotify.com/track/2xORp5aMlr4I1QAK6HwL2p)
+- [My Way by Robert Georgescu, Menthol, White](https://open.spotify.com/track/3e7Ay5BmgV16azb6AkPBU5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
