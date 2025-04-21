@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/chat](https://github.com/nuxt-ui-pro/chat)** - Nuxt Chat Template made with Nuxt UI Pro on NuxtHub. (2 days ago)
 
 #### 🎧 What I have been listening
+- [Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] by Daft Punk, Pharrell Williams, Nile Rodgers](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof)
 - [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
 - [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
 - [Whenever, Wherever by Shakira](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG)
 - [Baby, I Love Your Way by Big Mountain](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa)
-- [This Is What You Came For by Calvin Harris, Rihanna](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
