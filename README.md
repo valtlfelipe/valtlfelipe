@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wannabespace/connnect](https://github.com/wannabespace/connnect)** - AI-powered tool that makes database operations easier. Built for PostgreSQL. Modern alternative to traditional database management tools. (3 days ago)
 
 #### 🎧 What I have been listening
-- [dreamforever by Tonic Walter, Nina Nst](https://open.spotify.com/track/0yA6WTLMSkRYdwjHBBivLS)
-- [searchingforthelights by Tonic Walter](https://open.spotify.com/track/1Uzc6TAWKBBbp60GDJE1LR)
-- [The Truth by Braxton, Warung](https://open.spotify.com/track/01NrsdUMQkpY9GZCc7ZFyu)
-- [Be Patient by Loverground](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph)
-- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
+- [Marimba by GHEIST](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi)
+- [Childish by Lane 8](https://open.spotify.com/track/2BMhaksbPZEVPUx4U98WgK)
+- [the things that bring me joy by heylucas](https://open.spotify.com/track/3OWoUTFewCAnGIkFHdL6KK)
+- [Moss by Duskus](https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ)
+- [Running up That Hill by Dayne S](https://open.spotify.com/track/3cwl2Mnq8urylYJNCvLJdZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
