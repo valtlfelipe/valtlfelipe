@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wannabespace/connnect](https://github.com/wannabespace/connnect)** - AI-powered tool that makes database operations easier. Built for PostgreSQL. Modern alternative to traditional database management tools. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Good Feeling by Flo Rida](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8)
-- [Amnesia by softclouds](https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN)
-- [Kyoto Nights by Nitta&#39; Gritta&#39;](https://open.spotify.com/track/7kCclmsH5N16EG7eSTmkh4)
-- [Evening Walk by Notation](https://open.spotify.com/track/0M5UurbUntOyAWboXeYAp3)
-- [Nightshade by Slowday](https://open.spotify.com/track/3eC7K8UmwloTRJRom3huLr)
+- [Winter Artifacts by Carl Borg](https://open.spotify.com/track/3J82z7LudT4vCsgj7GfPVV)
+- [sunday by nearly monday](https://open.spotify.com/track/5RZT7iLq4E9hSr6ljE7TXu)
+- [Got It Done by Nixon Lash](https://open.spotify.com/track/0qrC0w1yduJyKPgrBmsQP7)
+- [ethereal by louke&#39;s beats](https://open.spotify.com/track/4fC9s3NtmRHeK1B3xJC45M)
+- [Unwind by Floating Basket](https://open.spotify.com/track/4INlGADt1s5LuKaqbU9UKH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
