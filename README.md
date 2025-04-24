@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[voideditor/void](https://github.com/voideditor/void)** (3 days ago)
 
 #### 🎧 What I have been listening
-- [Say It Right by Elise Lieberth, Le Bober, Deep Mage](https://open.spotify.com/track/0q7jjras28r1KY4iojlkbR)
-- [Payphone by Cale, HALUNA, Deep Mage](https://open.spotify.com/track/1QsH3fHnIUs77NFqZs3waH)
-- [Desert Rose by DJ Goja, Magic Phase, Deep Mage](https://open.spotify.com/track/3r6uh9W5SZoPZnhRnRaWGa)
-- [What Is Love by LexMorris, Michelle Ray, Deep Mage](https://open.spotify.com/track/6sA5BPybxZSmFXwvsyScws)
-- [It’s You by PACANI, Catching Sunrises](https://open.spotify.com/track/5O8WyuvUlz2lWC2sWRttaC)
+- [Rise And Shine by Alosa, Elle Blue, Stayer](https://open.spotify.com/track/0giXxd6skG9vWLNqlfhGQK)
+- [Body by Badscandal](https://open.spotify.com/track/4BJ83GHwyDFvw0HQfjOK1s)
+- [Dynamite by Catching Sunrises, Deep Mage](https://open.spotify.com/track/3Ub6qagNUzBWUkJBPVayYA)
+- [Every Breath You Take by DJ Alex Man, Dj Diac, Timmy Commerford](https://open.spotify.com/track/3jwnFxXMN7nkhiSFjXWcXW)
+- [Touch by Alosa, BOOTY LEAK, Mayvee](https://open.spotify.com/track/1PMxy9yoiTebgFVynpy0eh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
