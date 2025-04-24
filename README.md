@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[voideditor/void](https://github.com/voideditor/void)** (3 days ago)
 
 #### 🎧 What I have been listening
-- [Rise And Shine by Alosa, Elle Blue, Stayer](https://open.spotify.com/track/0giXxd6skG9vWLNqlfhGQK)
-- [Body by Badscandal](https://open.spotify.com/track/4BJ83GHwyDFvw0HQfjOK1s)
-- [Dynamite by Catching Sunrises, Deep Mage](https://open.spotify.com/track/3Ub6qagNUzBWUkJBPVayYA)
-- [Every Breath You Take by DJ Alex Man, Dj Diac, Timmy Commerford](https://open.spotify.com/track/3jwnFxXMN7nkhiSFjXWcXW)
-- [Touch by Alosa, BOOTY LEAK, Mayvee](https://open.spotify.com/track/1PMxy9yoiTebgFVynpy0eh)
+- [Rockabye by MARSTEREON, Polly Belycee, Deep Mage](https://open.spotify.com/track/1cpaZAa0b5wuliBDNpDsI2)
+- [Let Me Go by Neonica, Deep Mage, Jaime Deraz](https://open.spotify.com/track/5VzYeoVo635UBXOOSXdgqM)
+- [Blue by PHURS, May Zoean, Deep Mage](https://open.spotify.com/track/3eFSeRgAIMrk7GoXI2sRaA)
+- [In And Out Of Love by Deepest, AMHouse, May Zoean](https://open.spotify.com/track/40HaJYvvO1jMAdf9U0pcFI)
+- [Take My Breath Away by Anika, Catching Sunrises, Deep Mage](https://open.spotify.com/track/7f3pNv3Hkjhf8PgnxLpXMh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
