@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[voideditor/void](https://github.com/voideditor/void)** (3 days ago)
 
 #### 🎧 What I have been listening
-- [Bring Me Home by LexMorris, Harddope, Elle Blue](https://open.spotify.com/track/3Z01gZjYKXLfRl4mRBxbqU)
-- [YOU &amp; I by PHURS, Timmy Commerford, Deep Mage](https://open.spotify.com/track/6nPh3Cn9n4JR1ywTVGM720)
-- [The Ocean by Byond Bliss, Rachel Morgan Perry, Deep Mage](https://open.spotify.com/track/062qW7RpxcMfsYNLdyXqn6)
-- [Flowers by Harddope, LexMorris, Veronica Bravo](https://open.spotify.com/track/5svDY567MyYZZEALWzovFS)
-- [Numb - VIP EDIT by Nito-Onna, MARSTEREON, Harddope](https://open.spotify.com/track/4WVe5d7vmDYnKLIZ0pZ0hQ)
+- [Say It Right by Elise Lieberth, Le Bober, Deep Mage](https://open.spotify.com/track/0q7jjras28r1KY4iojlkbR)
+- [Payphone by Cale, HALUNA, Deep Mage](https://open.spotify.com/track/1QsH3fHnIUs77NFqZs3waH)
+- [Desert Rose by DJ Goja, Magic Phase, Deep Mage](https://open.spotify.com/track/3r6uh9W5SZoPZnhRnRaWGa)
+- [What Is Love by LexMorris, Michelle Ray, Deep Mage](https://open.spotify.com/track/6sA5BPybxZSmFXwvsyScws)
+- [It’s You by PACANI, Catching Sunrises](https://open.spotify.com/track/5O8WyuvUlz2lWC2sWRttaC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
