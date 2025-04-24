@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[didit-protocol/didit-full-demo](https://github.com/didit-protocol/didit-full-demo)** - Next JS demo implementation of Didit Identity Verification (3 days ago)
 
 #### 🎧 What I have been listening
-- [In The End by Twin, Elise Lieberth, Deep Mage](https://open.spotify.com/track/4M9djF7OPvBWw47XLu8abQ)
-- [All Good Things by Cornel Dascalu, Dj Diac, Margad](https://open.spotify.com/track/3a7sdvMzjQwUjC12Aampe0)
-- [Don’t Be So Shy by Dj Diac, ReMan, Nomeli](https://open.spotify.com/track/0hWJ5ixKLCyTYPhVoKf0Qa)
-- [Hymn For The Weekend by Cale, HALUNA, Deep Mage](https://open.spotify.com/track/4vpn2gI4lX8udF1LALcKWE)
-- [California Dreamin&#39; by Max Martis, HALUNA, Deep Mage](https://open.spotify.com/track/1AMjeJnvLuwIHHne2dVWFp)
+- [Burn by MARSTEREON, Theresia, Deep Mage](https://open.spotify.com/track/5GlAVG4GqJQoedYRr0M7Kc)
+- [Somebody Else by Le Bober, Deep Mage](https://open.spotify.com/track/2bb9Dg1De0s8yzWkQDZsXY)
+- [Mood by ay-Mill, Janet Tung, Deep Mage](https://open.spotify.com/track/6lyliljaf7Ew7sp3uKkmmw)
+- [Safe And Sound by Byond Bliss, Deep Mage](https://open.spotify.com/track/0GwZfmtpOs10hTg2l0gMAL)
+- [Careless Whisper by MARSTEREON, Medusa, Deep Mage](https://open.spotify.com/track/4YiVPy226EeGi3wPtFCqeA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
