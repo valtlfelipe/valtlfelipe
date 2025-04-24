@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[voideditor/void](https://github.com/voideditor/void)** (3 days ago)
 
 #### 🎧 What I have been listening
-- [Rockabye by MARSTEREON, Polly Belycee, Deep Mage](https://open.spotify.com/track/1cpaZAa0b5wuliBDNpDsI2)
-- [Let Me Go by Neonica, Deep Mage, Jaime Deraz](https://open.spotify.com/track/5VzYeoVo635UBXOOSXdgqM)
-- [Blue by PHURS, May Zoean, Deep Mage](https://open.spotify.com/track/3eFSeRgAIMrk7GoXI2sRaA)
-- [In And Out Of Love by Deepest, AMHouse, May Zoean](https://open.spotify.com/track/40HaJYvvO1jMAdf9U0pcFI)
-- [Take My Breath Away by Anika, Catching Sunrises, Deep Mage](https://open.spotify.com/track/7f3pNv3Hkjhf8PgnxLpXMh)
+- [(I Just) Died in Your Arms by Alosa, Taylor Mosley, DRULZ](https://open.spotify.com/track/0CqtzPCUCEUicsxNdZyisW)
+- [Take It Slower by MARSTEREON, Nomeli, Dogmeow](https://open.spotify.com/track/6ULeTLRJIJNGcBmXTy1KxL)
+- [Falling by Byond Bliss, Deep Mage, Jaime Deraz](https://open.spotify.com/track/54c0y5cZBdQN4wIWrN4gJX)
+- [Good Luck, Babe! by Dream Chaos, Janet Tung, Deep Mage](https://open.spotify.com/track/6QwxlH3Yg1Nb8CqxkpXbud)
+- [I Need Your Love by Planet Wave House, Deep Mage, SOULWAY, Kelo](https://open.spotify.com/track/5TONW3SvkZqS0SKw9odOIb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
