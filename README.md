@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[didit-protocol/didit-full-demo](https://github.com/didit-protocol/didit-full-demo)** - Next JS demo implementation of Didit Identity Verification (3 days ago)
 
 #### 🎧 What I have been listening
-- [Renaissance by Honeydripper](https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste)
-- [Vibration - Radio Edit by Filippide](https://open.spotify.com/track/3OshYIuVLmSa2US1TS602H)
-- [Can&#39;t Say No by MARE](https://open.spotify.com/track/4Pd2NJeHjNosBiw6yZE7g6)
-- [Everytime We Touch by Sugar Jesus, LEØN TARØ](https://open.spotify.com/track/46rJi3NrCFuiOXPfX5wq91)
-- [At Peace by Loverground](https://open.spotify.com/track/4byjEiPkQDNTnmHMU0izqA)
+- [In The End by Twin, Elise Lieberth, Deep Mage](https://open.spotify.com/track/4M9djF7OPvBWw47XLu8abQ)
+- [All Good Things by Cornel Dascalu, Dj Diac, Margad](https://open.spotify.com/track/3a7sdvMzjQwUjC12Aampe0)
+- [Don’t Be So Shy by Dj Diac, ReMan, Nomeli](https://open.spotify.com/track/0hWJ5ixKLCyTYPhVoKf0Qa)
+- [Hymn For The Weekend by Cale, HALUNA, Deep Mage](https://open.spotify.com/track/4vpn2gI4lX8udF1LALcKWE)
+- [California Dreamin&#39; by Max Martis, HALUNA, Deep Mage](https://open.spotify.com/track/1AMjeJnvLuwIHHne2dVWFp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
