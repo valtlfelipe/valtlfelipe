@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (2 days ago)
 
 #### 🎧 What I have been listening
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
 - [Real Love by Clean Bandit, Jess Glynne](https://open.spotify.com/track/7M9XTtbz6qDg7LqYJ7OpJB)
 - [Talk To Me by Eli &amp; Fur](https://open.spotify.com/track/0FsdjmePRRQ9wl7MQSkleS)
 - [Moves Like Jagger - Studio Recording From &#34;The Voice&#34; Performance by Maroon 5, Christina Aguilera](https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI)
 - [Moves Like Jagger - Studio Recording From &#34;The Voice&#34; Performance by Maroon 5, Christina Aguilera](https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI)
-- [Tomorrow - Poolside Edit by Caius, Neigh](https://open.spotify.com/track/5Y92emFO3YHKbWL6xTdChf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
