@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (2 days ago)
 
 #### 🎧 What I have been listening
-- [Gaze Up (feat. Antonio Blakstad) by Rosbeh, Antonio Blakstad](https://open.spotify.com/track/0TpGRIvJhZuNpGbZ79nM2d)
-- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
-- [Don&#39;t Stop by Prospa](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt)
-- [Toxic by Chris Lake, Ragie Ban](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO)
-- [Eyes on You by Bolth](https://open.spotify.com/track/3DzxBsy3GI8rshXNv60w5r)
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
+- [Neverender - Rampa Remix by Justice, Tame Impala, Rampa, Keinemusik](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS)
+- [Rolling Back by TWO LANES, Panama](https://open.spotify.com/track/335EcT0oI5889ZgM0q413d)
+- [24 (Turn It Up) (Radio Edit) by ANOTR, Kurtis Wells](https://open.spotify.com/track/5hLiKFmVc7vRUKTvnlpJYR)
+- [Never Ever Ever by Girls of the Internet, shiv](https://open.spotify.com/track/6aonKw3Mdij9LvfPzRykRX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
