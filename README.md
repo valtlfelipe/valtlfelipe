@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (2 days ago)
 
 #### 🎧 What I have been listening
-- [Pressure Makes Diamonds by Folamour](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L)
-- [I&#39;ll miss you by Bassi Fox](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe)
-- [better by Joy Orbison, Léa Sen](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN)
-- [The Message by Naylor](https://open.spotify.com/track/4oTv81REGHx456MYAkccf1)
-- [Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework by HUGEL](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg)
+- [Wish I Didn&#39;t Miss You by Sonny Noto](https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB)
+- [On My Mind by Tom Everett](https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej)
+- [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
+- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
+- [Ready (feat. Art School Girlfriend) by Jasper Tygner, Art School Girlfriend](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
