@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (2 days ago)
 
 #### 🎧 What I have been listening
-- [Round &amp; Round by YOURS](https://open.spotify.com/track/6jJXJ4nuoutCD3hWfeaMfT)
-- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
-- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
-- [Neverender - Rampa Remix by Justice, Tame Impala, Rampa, Keinemusik](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS)
-- [Rolling Back by TWO LANES, Panama](https://open.spotify.com/track/335EcT0oI5889ZgM0q413d)
+- [Pressure Makes Diamonds by Folamour](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L)
+- [I&#39;ll miss you by Bassi Fox](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe)
+- [better by Joy Orbison, Léa Sen](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN)
+- [The Message by Naylor](https://open.spotify.com/track/4oTv81REGHx456MYAkccf1)
+- [Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework by HUGEL](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
