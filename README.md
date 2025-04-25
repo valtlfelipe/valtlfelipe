@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (2 days ago)
 
 #### 🎧 What I have been listening
-- [Wish I Didn&#39;t Miss You by Sonny Noto](https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB)
-- [On My Mind by Tom Everett](https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej)
-- [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
-- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
-- [Ready (feat. Art School Girlfriend) by Jasper Tygner, Art School Girlfriend](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj)
+- [Baille by ERIICE](https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73)
+- [Intro (Rework) - Remix by Vintage Culture, Bruno Be, Öwnboss, Ashibah](https://open.spotify.com/track/27py1Q0fMmpuSYiOAKBZPb)
+- [Electric Feel (feat. Orem) - Levi Version by Levi, Orem](https://open.spotify.com/track/3RBuBtVnzmfM0NyeaTtgBj)
+- [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
+- [You&#39;re so High by Eli &amp; Fur](https://open.spotify.com/track/0PUepC3WMLlc3FaHI9HBW3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
