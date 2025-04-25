@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (2 days ago)
 
 #### 🎧 What I have been listening
-- [Milango - Curol Remix by Dan Bay, Nes Mburu, Curol](https://open.spotify.com/track/6tj119TR26rB6u7f4H3hiD)
-- [Addicted - Argy &amp; Omnya Remix by Zerb, The Chainsmokers, Argy, Omnya, Ink](https://open.spotify.com/track/4Y67RGQnwP30Puzh7aKMlD)
-- [Maré by Antdot, Riascode, Amanda Magalhães](https://open.spotify.com/track/2IAnBtvkFGrbS37G0VeaBy)
-- [Heart by BAF](https://open.spotify.com/track/0w50G1DZWHeKyn8YhRviN1)
-- [Alok, Evinha &amp; Watzgood - Esperar Pra Ver by Evinha, Alok, Watzgood](https://open.spotify.com/track/5mx2gjQx8zdOsSrKvkIxgx)
+- [Gaze Up (feat. Antonio Blakstad) by Rosbeh, Antonio Blakstad](https://open.spotify.com/track/0TpGRIvJhZuNpGbZ79nM2d)
+- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
+- [Don&#39;t Stop by Prospa](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt)
+- [Toxic by Chris Lake, Ragie Ban](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO)
+- [Eyes on You by Bolth](https://open.spotify.com/track/3DzxBsy3GI8rshXNv60w5r)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
