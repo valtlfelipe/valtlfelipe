@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (2 days ago)
 
 #### 🎧 What I have been listening
-- [Baille by ERIICE](https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73)
-- [Intro (Rework) - Remix by Vintage Culture, Bruno Be, Öwnboss, Ashibah](https://open.spotify.com/track/27py1Q0fMmpuSYiOAKBZPb)
-- [Electric Feel (feat. Orem) - Levi Version by Levi, Orem](https://open.spotify.com/track/3RBuBtVnzmfM0NyeaTtgBj)
-- [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
-- [You&#39;re so High by Eli &amp; Fur](https://open.spotify.com/track/0PUepC3WMLlc3FaHI9HBW3)
+- [Silence by WITH U](https://open.spotify.com/track/3xhWhuMQs7X7nGLwKW0XEE)
+- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
+- [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
+- [No Bad Vibes by Jazzy, KILIMANJARO](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8)
+- [Dance With Me by Bassi Fox](https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
