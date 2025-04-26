@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (3 days ago)
 
 #### 🎧 What I have been listening
-- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
-- [Domino by Jessie J](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR)
-- [We Found Love by Rihanna, Calvin Harris](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py)
-- [I Don&#39;t Like It, I Love It (feat. Robin Thicke &amp; Verdine White) by Flo Rida, Robin Thicke, Verdine White](https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ)
-- [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
+- [Stand by Me by Otis Redding](https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu)
+- [Can&#39;t Take My Eyes Off of You - (I Love You Baby) by Ms. Lauryn Hill](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt)
+- [Royals by Walk off the Earth](https://open.spotify.com/track/2omrLJFwsXeZN3wNXxQTrP)
+- [Valerie - Live At BBC Radio 1 Live Lounge, London / 2007 by Amy Winehouse](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr)
+- [Rehab by Amy Winehouse](https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
