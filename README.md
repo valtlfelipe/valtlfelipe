@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (3 days ago)
 
 #### 🎧 What I have been listening
-- [On Top Of The World by Imagine Dragons](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w)
-- [Whatever It Takes by Imagine Dragons](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb)
-- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
-- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
-- [Dynamite by Taio Cruz](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV)
+- [I Don&#39;t Like It, I Love It (feat. Robin Thicke &amp; Verdine White) by Flo Rida, Robin Thicke, Verdine White](https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ)
+- [Shut Up and Dance by WALK THE MOON](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA)
+- [Firework by Katy Perry](https://open.spotify.com/track/1mXuMM6zjPgjL4asbBsgnt)
+- [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/7EH2enDP1q3upRqctbOz3n)
+- [Real Love by Clean Bandit, Jess Glynne](https://open.spotify.com/track/7M9XTtbz6qDg7LqYJ7OpJB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
