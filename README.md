@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (3 days ago)
 
 #### 🎧 What I have been listening
-- [Stand by Me by Otis Redding](https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu)
-- [Can&#39;t Take My Eyes Off of You - (I Love You Baby) by Ms. Lauryn Hill](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt)
-- [Royals by Walk off the Earth](https://open.spotify.com/track/2omrLJFwsXeZN3wNXxQTrP)
-- [Valerie - Live At BBC Radio 1 Live Lounge, London / 2007 by Amy Winehouse](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr)
-- [Rehab by Amy Winehouse](https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw)
+- [Eternity by Anyma, Chris Avantgarde](https://open.spotify.com/track/1GBBbKOarAJ38HwIfLcOji)
+- [Voices In My Head by Anyma, Argy, Son of Son](https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7)
+- [Ain&#39;t No Mountain High Enough by Marvin Gaye, Tammi Terrell](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX)
+- [Hotel California by Emmerson Nogueira](https://open.spotify.com/track/2lurWu1w78gx1nNnKdAuHS)
+- [Loving Every Minute by Lighthouse Family](https://open.spotify.com/track/0fVo4kM3ojDNbUjBh8ut04)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
