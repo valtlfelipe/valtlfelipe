@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (3 days ago)
 
 #### 🎧 What I have been listening
+- [We Found Love by Rihanna, Calvin Harris](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py)
+- [I Love It (feat. Charli XCX) by Icona Pop, Charli xcx](https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH)
+- [On The Floor - Radio Edit by Jennifer Lopez, Pitbull](https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW)
+- [A Sky Full of Stars by Coldplay](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ)
 - [I Don&#39;t Like It, I Love It (feat. Robin Thicke &amp; Verdine White) by Flo Rida, Robin Thicke, Verdine White](https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ)
-- [Shut Up and Dance by WALK THE MOON](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA)
-- [Firework by Katy Perry](https://open.spotify.com/track/1mXuMM6zjPgjL4asbBsgnt)
-- [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/7EH2enDP1q3upRqctbOz3n)
-- [Real Love by Clean Bandit, Jess Glynne](https://open.spotify.com/track/7M9XTtbz6qDg7LqYJ7OpJB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
