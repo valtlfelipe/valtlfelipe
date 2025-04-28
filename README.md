@@ -6,7 +6,7 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)** - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. (today)
 - **[lapce/lapce](https://github.com/lapce/lapce)** - Lightning-fast and Powerful Code Editor written in Rust (today)
 - **[zen-browser/desktop](https://github.com/zen-browser/desktop)** - Welcome to a calmer internet (today)
-- **[simstudioai/sim](https://github.com/simstudioai/sim)** - Open-source AI Agent workflow builder. (today)
+- **[simstudioai/sim](https://github.com/simstudioai/sim)** - Sim Studio is an open-source agent workflow builder. Sim Studio&#39;s interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. (today)
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (3 days ago)
 
 #### 🎧 What I have been listening
