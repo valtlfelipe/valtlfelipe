@@ -3,17 +3,17 @@
 I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)** - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. (today)
+- **[lapce/lapce](https://github.com/lapce/lapce)** - Lightning-fast and Powerful Code Editor written in Rust (today)
+- **[zen-browser/desktop](https://github.com/zen-browser/desktop)** - Welcome to a calmer internet (today)
+- **[simstudioai/sim](https://github.com/simstudioai/sim)** - Open-source AI Agent workflow builder. (today)
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (3 days ago)
-- **[jorgebucaran/hydro](https://github.com/jorgebucaran/hydro)** - Ultra-pure, lag-free prompt with async Git status—just for Fish (3 days ago)
-- **[electric-sql/electric](https://github.com/electric-sql/electric)** - Real-time sync for Postgres. (4 days ago)
-- **[kodustech/kodus-ai](https://github.com/kodustech/kodus-ai)** - Open source AI code reviews — just like your senior dev would do. (4 days ago)
-- **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (5 days ago)
 
 #### 🎧 What I have been listening
-- [Bulletproof by Evan Waves, MrRevillz](https://open.spotify.com/track/7lWw2EbUGkpTlCyVJ6ZC2G)
-- [Why Does My Heart - Sunset Remix by LYOD](https://open.spotify.com/track/6rqEWAhpWjTVZKPchDDebd)
-- [Birds Flying High - Radio Edit by MÖWE](https://open.spotify.com/track/4IjkbMn06CkqRLhbMKbx6J)
-- [Evergreen by Peachy Pete](https://open.spotify.com/track/2JdCpoDfkGcHHrWdLPnuxg)
-- [Irregularity by fwd/slash](https://open.spotify.com/track/5w5JkzUQ6NeSgePXfVIXVZ)
+- [Lies by Nick Raff](https://open.spotify.com/track/32zB0FI9i0WscIAiW18NNQ)
+- [Drifting (SISTEK Remix) by Tiësto, Poppy Baskcomb, Sistek](https://open.spotify.com/track/0wYI9ob0NLlUJTkSC3a4yV)
+- [Messy by Louis Louis](https://open.spotify.com/track/7uSB04kwHRwAr4M8aE6nJZ)
+- [So Sweet by NOVEMBER KID](https://open.spotify.com/track/0wP8EoDlzMK49Gdk1063KL)
+- [Focus by Panski, Leshii](https://open.spotify.com/track/1nit1HbZRuHxDeQRm7PB6C)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
