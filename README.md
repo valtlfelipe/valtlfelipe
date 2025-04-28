@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (3 days ago)
 
 #### 🎧 What I have been listening
-- [Help Me Lose My Mind by Felipe Allenn, Sevenkey](https://open.spotify.com/track/3ZwwR3ep5gkXbkDGtV5UKA)
-- [King by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM)
-- [Sweet Harmony by The Beloved](https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx)
-- [Glow by Rebūke](https://open.spotify.com/track/5Q9m03fBYtSlKwAUnfZ9RB)
-- [Experience X Einaudi (Deep House Remix) by Alexandre Pachabezian](https://open.spotify.com/track/2d1aBjikoXIZZ8LaFon37d)
+- [Whenever (feat. Conor Maynard) by Kris Kross Amsterdam, The Boy Next Door, Conor Maynard](https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z)
+- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
+- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
+- [I&#39;ve Been Thinking About You by Londonbeat](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d)
+- [Shower by Becky G](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
