@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (5 days ago)
 
 #### 🎧 What I have been listening
-- [Hotline Bling by Cale, Mike Archangelo, WISEKIDS](https://open.spotify.com/track/6mgiAU4LzVnpn3fGqFwTfz)
-- [Stranger by Suprafive, Nesco](https://open.spotify.com/track/44aplrpTu2hpDwC0OdMwSx)
-- [Diamonds by POOLSE](https://open.spotify.com/track/69mgjZzSunWh8teh5FAfNV)
-- [Rockingbird by Jameson](https://open.spotify.com/track/2x4c9BD2SOhddb5KDQ4yym)
-- [Magical by ERIICE](https://open.spotify.com/track/5VA2c8Aar01z7Lxzkkis1f)
+- [Sleeping Satellite by Deepend, Peachy Pete](https://open.spotify.com/track/6CWPaj0n9mCcYtuSY8mHcT)
+- [Don&#39;t Shoot The Messenger by Jarod Glawe, Chris Howard](https://open.spotify.com/track/2xt6ZC4m2awWZWeq9WGMZW)
+- [Nifunze by aMouse, Mindblow, Nes Mburu](https://open.spotify.com/track/2huwF3EhpeF7jswjFXD7bK)
+- [Fell In Love With An Alien by Peachy Pete](https://open.spotify.com/track/3RC7Daf66VcRS0ycylScmL)
+- [When You Were Young by Scity](https://open.spotify.com/track/0nZxDiSR6H7askJYC9XPQu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
