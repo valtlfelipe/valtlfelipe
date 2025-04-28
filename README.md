@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (5 days ago)
 
 #### 🎧 What I have been listening
-- [Eternity by Anyma, Chris Avantgarde](https://open.spotify.com/track/1GBBbKOarAJ38HwIfLcOji)
-- [Voices In My Head by Anyma, Argy, Son of Son](https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7)
-- [Ain&#39;t No Mountain High Enough by Marvin Gaye, Tammi Terrell](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX)
-- [Hotel California by Emmerson Nogueira](https://open.spotify.com/track/2lurWu1w78gx1nNnKdAuHS)
-- [Loving Every Minute by Lighthouse Family](https://open.spotify.com/track/0fVo4kM3ojDNbUjBh8ut04)
+- [Out of Touch - Avangart Tabldot Remix by Daryl Hall &amp; John Oates, Avangart Tabldot](https://open.spotify.com/track/7kLcweCtDiEDN52QEEAmrw)
+- [Crazy by Kastelo, Marc Deevo, DEVION](https://open.spotify.com/track/5jx68FA5g4Z0hrTPohORxF)
+- [One Kiss by POOLSE](https://open.spotify.com/track/20mfIKTkXX9LRSIjAfLhde)
+- [Come And Get Your Love by Evan Waves, MrRevillz, Idun Nicoline](https://open.spotify.com/track/7sKNUpM2Oi5dXxe1w0eHky)
+- [Big Jet Plane by Peachy Pete](https://open.spotify.com/track/3rBBZzo89ElD5HDyFAeY0l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
