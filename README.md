@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (5 days ago)
 
 #### 🎧 What I have been listening
-- [Tate (how i feel) by Fred again..](https://open.spotify.com/track/521n5wagIZ1522mA2ynHDL)
-- [Stranger Things by Alex Ender, Salta](https://open.spotify.com/track/64AEcuPgXGM5eJ2v6zX64u)
-- [Shooting Stars - Cassian Remix by Bag Raiders](https://open.spotify.com/track/3HEvzEwP0Jg0hEszE6P8x4)
-- [You &amp; Me by Aéro Jay](https://open.spotify.com/track/0PVQphBPy6QeM1iXjgCC34)
-- [Una Mattina (Deep House Remix) by Alexandre Pachabezian](https://open.spotify.com/track/2lyYZUdytjqxy9a93XI4Da)
+- [Hotline Bling by Cale, Mike Archangelo, WISEKIDS](https://open.spotify.com/track/6mgiAU4LzVnpn3fGqFwTfz)
+- [Stranger by Suprafive, Nesco](https://open.spotify.com/track/44aplrpTu2hpDwC0OdMwSx)
+- [Diamonds by POOLSE](https://open.spotify.com/track/69mgjZzSunWh8teh5FAfNV)
+- [Rockingbird by Jameson](https://open.spotify.com/track/2x4c9BD2SOhddb5KDQ4yym)
+- [Magical by ERIICE](https://open.spotify.com/track/5VA2c8Aar01z7Lxzkkis1f)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
