@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)** - ✨ Magical shell history (5 days ago)
 
 #### 🎧 What I have been listening
-- [Out of Touch - Avangart Tabldot Remix by Daryl Hall &amp; John Oates, Avangart Tabldot](https://open.spotify.com/track/7kLcweCtDiEDN52QEEAmrw)
-- [Crazy by Kastelo, Marc Deevo, DEVION](https://open.spotify.com/track/5jx68FA5g4Z0hrTPohORxF)
-- [One Kiss by POOLSE](https://open.spotify.com/track/20mfIKTkXX9LRSIjAfLhde)
-- [Come And Get Your Love by Evan Waves, MrRevillz, Idun Nicoline](https://open.spotify.com/track/7sKNUpM2Oi5dXxe1w0eHky)
-- [Big Jet Plane by Peachy Pete](https://open.spotify.com/track/3rBBZzo89ElD5HDyFAeY0l)
+- [Tate (how i feel) by Fred again..](https://open.spotify.com/track/521n5wagIZ1522mA2ynHDL)
+- [Stranger Things by Alex Ender, Salta](https://open.spotify.com/track/64AEcuPgXGM5eJ2v6zX64u)
+- [Shooting Stars - Cassian Remix by Bag Raiders](https://open.spotify.com/track/3HEvzEwP0Jg0hEszE6P8x4)
+- [You &amp; Me by Aéro Jay](https://open.spotify.com/track/0PVQphBPy6QeM1iXjgCC34)
+- [Una Mattina (Deep House Remix) by Alexandre Pachabezian](https://open.spotify.com/track/2lyYZUdytjqxy9a93XI4Da)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
