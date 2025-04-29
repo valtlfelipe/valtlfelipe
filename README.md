@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (4 days ago)
 
 #### 🎧 What I have been listening
-- [Won&#39;t Forget You (Edit) by Shouse](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ)
-- [My Heart Goes (La Di Da) by Becky Hill, Topic](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p)
-- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
-- [Lay Low by Tiësto](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt)
-- [Thank You (Not So Bad) by Dimitri Vegas &amp; Like Mike, Tiësto, Dido, W&amp;W, Dimitri Vegas, Like Mike](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt)
+- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
+- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
+- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3)
+- [21 Reasons (feat. Ella Henderson) by Nathan Dawe, Ella Henderson](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR)
+- [Asking by Sonny Fodera, MK, Clementine Douglas](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
