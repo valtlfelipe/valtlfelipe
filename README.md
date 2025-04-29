@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (4 days ago)
 
 #### 🎧 What I have been listening
-- [These Words by Badger, Natasha Bedingfield](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz)
-- [Never Going Home by Kungs](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X)
-- [I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) by Oliver Heldens, Nile Rodgers, House Gospel Choir](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY)
-- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
-- [Giving Me by Jazzy](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR)
+- [Morenita by HUGEL, Cumbiafrica](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj)
+- [Atmosphere by FISHER, Kita Alexander](https://open.spotify.com/track/63HwAAXuSV2tzIUPoHOwZa)
+- [Ascend by Dezko](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2)
+- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
+- [Maria Maria by TECH IT DEEP, Gordo](https://open.spotify.com/track/5MGzRBSlXuNhN19ze9o5GY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
