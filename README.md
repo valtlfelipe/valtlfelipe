@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (4 days ago)
 
 #### 🎧 What I have been listening
-- [Morenita by HUGEL, Cumbiafrica](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj)
-- [Atmosphere by FISHER, Kita Alexander](https://open.spotify.com/track/63HwAAXuSV2tzIUPoHOwZa)
-- [Ascend by Dezko](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
-- [Maria Maria by TECH IT DEEP, Gordo](https://open.spotify.com/track/5MGzRBSlXuNhN19ze9o5GY)
+- [Summertime Blues (feat. Nathan Nicholson) by Chris Lake, Sammy Virji, Nathan Nicholson](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp)
+- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
+- [Alibi (feat. Rudimental) by Ella Henderson, Rudimental](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2)
+- [Bulletproof by La Roux, GAMPER &amp; DADONI](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon)
+- [One in a Million by Bebe Rexha, David Guetta](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
