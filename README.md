@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (4 days ago)
 
 #### 🎧 What I have been listening
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
-- [Smooth Operator by The Good Son, KHEMIS, Diana Martinez](https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8)
-- [Relax by Deepest, AMHouse, Taylor Mosley](https://open.spotify.com/track/0g30Wsmd7yshS7762iWdVv)
-- [California Dreamin&#39; by Max Martis, HALUNA, Deep Mage](https://open.spotify.com/track/1AMjeJnvLuwIHHne2dVWFp)
-- [Summertime Sadness by LexMorris, HALUNA, Deep Mage](https://open.spotify.com/track/6AAi8tL7pqRG5YGorPyKxU)
+- [Desire (with Sam Smith) by Calvin Harris, Sam Smith](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv)
+- [Weekends by Jonas Blue, Felix Jaehn](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2)
+- [Gatluak - Bakermat Remix by Kronan, Nyaruach, Bakermat](https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ)
+- [Rhyme Dust by MK, Dom Dolla](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f)
+- [Monster by Don Diablo, Felix Jaehn](https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
