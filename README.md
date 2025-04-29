@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (4 days ago)
 
 #### 🎧 What I have been listening
-- [Summer Air by ItaloBrothers](https://open.spotify.com/track/3MIwc5XzD2VX8ZJAIyURKI)
-- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
-- [Lush Life by Zara Larsson](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8)
-- [Dynamite by Taio Cruz](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV)
-- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
+- [Smooth Operator by The Good Son, KHEMIS, Diana Martinez](https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8)
+- [Relax by Deepest, AMHouse, Taylor Mosley](https://open.spotify.com/track/0g30Wsmd7yshS7762iWdVv)
+- [California Dreamin&#39; by Max Martis, HALUNA, Deep Mage](https://open.spotify.com/track/1AMjeJnvLuwIHHne2dVWFp)
+- [Summertime Sadness by LexMorris, HALUNA, Deep Mage](https://open.spotify.com/track/6AAi8tL7pqRG5YGorPyKxU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
