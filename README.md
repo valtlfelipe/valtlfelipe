@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (4 days ago)
 
 #### 🎧 What I have been listening
-- [Whenever (feat. Conor Maynard) by Kris Kross Amsterdam, The Boy Next Door, Conor Maynard](https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z)
-- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
-- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
-- [I&#39;ve Been Thinking About You by Londonbeat](https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d)
-- [Shower by Becky G](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ)
+- [Summer Air by ItaloBrothers](https://open.spotify.com/track/3MIwc5XzD2VX8ZJAIyURKI)
+- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
+- [Lush Life by Zara Larsson](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8)
+- [Dynamite by Taio Cruz](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV)
+- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
