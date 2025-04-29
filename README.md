@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (4 days ago)
 
 #### 🎧 What I have been listening
+- [It&#39;s Not Right But It&#39;s Okay by Mr. Belt &amp; Wezol](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj)
+- [Heaven Takes You Home (feat. Connie Constance) by Swedish House Mafia, Connie Constance](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4)
+- [REACT by Switch Disco, Ella Henderson, Robert Miles](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi)
 - [Desire (with Sam Smith) by Calvin Harris, Sam Smith](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv)
 - [Weekends by Jonas Blue, Felix Jaehn](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2)
-- [Gatluak - Bakermat Remix by Kronan, Nyaruach, Bakermat](https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ)
-- [Rhyme Dust by MK, Dom Dolla](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f)
-- [Monster by Don Diablo, Felix Jaehn](https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
