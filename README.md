@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (4 days ago)
 
 #### 🎧 What I have been listening
-- [It&#39;s Not Right But It&#39;s Okay by Mr. Belt &amp; Wezol](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj)
-- [Heaven Takes You Home (feat. Connie Constance) by Swedish House Mafia, Connie Constance](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4)
-- [REACT by Switch Disco, Ella Henderson, Robert Miles](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi)
-- [Desire (with Sam Smith) by Calvin Harris, Sam Smith](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv)
-- [Weekends by Jonas Blue, Felix Jaehn](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2)
+- [These Words by Badger, Natasha Bedingfield](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz)
+- [Never Going Home by Kungs](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X)
+- [I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) by Oliver Heldens, Nile Rodgers, House Gospel Choir](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY)
+- [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
+- [Giving Me by Jazzy](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
