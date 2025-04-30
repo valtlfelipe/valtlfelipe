@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zen-browser/desktop](https://github.com/zen-browser/desktop)** - Welcome to a calmer internet (2 days ago)
 
 #### 🎧 What I have been listening
-- [So High by TaylorX, Meghna](https://open.spotify.com/track/4bLwGEQsjuJA3rWWJ7kcLQ)
-- [Louder by Martin Mix, Anna Leyne](https://open.spotify.com/track/7nMQ1xLuZGKksTOTuOeFAy)
-- [Friends by Mariline, KONNA, Kaita](https://open.spotify.com/track/1a6neV3PJg6lZzQjcMFC0j)
-- [Light Show by Xpilot, Paulik](https://open.spotify.com/track/3wTHrRBxyfrcPKiDnPyfbQ)
-- [Up For You (24/7 365) by Adam Marcos, Földes, SOHBEK](https://open.spotify.com/track/2kcbFULgReiWDn7KF5YX01)
+- [Monsters by Sherman de Vries, SHEREEN](https://open.spotify.com/track/4Te4EmmkJBncS0LCl80k5B)
+- [See Me Like This by Maui Sam, Bexxie](https://open.spotify.com/track/7gBJDMaTdWodedKfp1BKbY)
+- [Voodoo by Finlay C, Becky Smith](https://open.spotify.com/track/0Vfl6pZyiiJLfqykqj51OO)
+- [Don&#39;t Mess by Michael Ford, H.I.S.E.](https://open.spotify.com/track/3Buq2slVJfiCugm9HU3nEF)
+- [Can We Do Better - Radio Edit by Richard Houblon](https://open.spotify.com/track/7LQPt2XTQCwhiFCsoJyelk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
