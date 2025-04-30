@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lapce/lapce](https://github.com/lapce/lapce)** - Lightning-fast and Powerful Code Editor written in Rust (2 days ago)
 
 #### 🎧 What I have been listening
-- [Never Knew You by Ailero, Jay Mark](https://open.spotify.com/track/3AAG6jmalMLLXuSdVUxjrC)
-- [All In by NAVAH, Nicholas Roberts](https://open.spotify.com/track/3kESrDt1y22xrwVs1MrApX)
-- [By Your Side by Jai Nova](https://open.spotify.com/track/4XV1VIsiDBojdA7HtkpKu6)
-- [Bad Days by YYVON](https://open.spotify.com/track/5x6VcHpdyBzwRYh88bkFQb)
-- [My Mind by MÆDM](https://open.spotify.com/track/3aUhuex5yqfj3MG00P9dob)
+- [We Are Young by Ian Storm, SilkandStones, Vanessa Campagna](https://open.spotify.com/track/2VqGShOskOhdENHClTfwy1)
+- [Lost In The Music by Siëndo](https://open.spotify.com/track/5YRpNJ6IOj6StTqfXsVxIY)
+- [Heart Still Beating by Nathan Dawe, Bebe Rexha](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU)
+- [Surrendered by Maui Sam, LÊ IZNER, N@OM1](https://open.spotify.com/track/17iqHYEo7KsACsqrbaKTPg)
+- [Safer - Radio Edit by Berkai, ATHOS](https://open.spotify.com/track/6g3SlCXimky8SMVzs69Eon)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
