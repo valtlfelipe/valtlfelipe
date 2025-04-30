@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lapce/lapce](https://github.com/lapce/lapce)** - Lightning-fast and Powerful Code Editor written in Rust (2 days ago)
 
 #### 🎧 What I have been listening
-- [We Are Young by Ian Storm, SilkandStones, Vanessa Campagna](https://open.spotify.com/track/2VqGShOskOhdENHClTfwy1)
-- [Lost In The Music by Siëndo](https://open.spotify.com/track/5YRpNJ6IOj6StTqfXsVxIY)
-- [Heart Still Beating by Nathan Dawe, Bebe Rexha](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU)
-- [Surrendered by Maui Sam, LÊ IZNER, N@OM1](https://open.spotify.com/track/17iqHYEo7KsACsqrbaKTPg)
-- [Safer - Radio Edit by Berkai, ATHOS](https://open.spotify.com/track/6g3SlCXimky8SMVzs69Eon)
+- [Stars Will Align by Kygo, Imagine Dragons](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs)
+- [Dance In The Sunlight by Lost Frequencies, Bandit](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F)
+- [I Love You Always Forever by Donna Lewis](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD)
+- [Don&#39;t Be so Hard on Yourself by Jess Glynne](https://open.spotify.com/track/0sUyqewVzwv0e5tK3hS6vJ)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
