@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zen-browser/desktop](https://github.com/zen-browser/desktop)** - Welcome to a calmer internet (2 days ago)
 
 #### 🎧 What I have been listening
+- [So High by TaylorX, Meghna](https://open.spotify.com/track/4bLwGEQsjuJA3rWWJ7kcLQ)
+- [Louder by Martin Mix, Anna Leyne](https://open.spotify.com/track/7nMQ1xLuZGKksTOTuOeFAy)
 - [Friends by Mariline, KONNA, Kaita](https://open.spotify.com/track/1a6neV3PJg6lZzQjcMFC0j)
 - [Light Show by Xpilot, Paulik](https://open.spotify.com/track/3wTHrRBxyfrcPKiDnPyfbQ)
 - [Up For You (24/7 365) by Adam Marcos, Földes, SOHBEK](https://open.spotify.com/track/2kcbFULgReiWDn7KF5YX01)
-- [I Feel Better - Radio Edit by Anika, Diegosan](https://open.spotify.com/track/5epwlR7XMUhrbpkzvb0ugu)
-- [True Love by GiBoss](https://open.spotify.com/track/1pyZ1y2PePOZgkBa2WX4pQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
