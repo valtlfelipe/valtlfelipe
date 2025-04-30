@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)** - Collection of leaked system prompts (5 days ago)
 
 #### 🎧 What I have been listening
-- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
-- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3)
-- [21 Reasons (feat. Ella Henderson) by Nathan Dawe, Ella Henderson](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR)
-- [Asking by Sonny Fodera, MK, Clementine Douglas](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR)
+- [Outside My Mind by Luca Lazza](https://open.spotify.com/track/6IibTXIhm1B6ehcZxh3w1N)
+- [I Wanna Dance With Somebody by Ian Storm, Elkana Paz, Pianoman](https://open.spotify.com/track/5Oc5CVdZu2eyQeu8nWpkYp)
+- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
+- [Dynamite by Taio Cruz](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV)
+- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
