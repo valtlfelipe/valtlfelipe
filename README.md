@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (1 day ago)
 
 #### 🎧 What I have been listening
-- [Baianá by Bakermat](https://open.spotify.com/track/780be5fB7823aHG06mwTat)
-- [The Weekend - Funk Wav Remix by SZA, Calvin Harris, Funk Wav](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt)
-- [TEMPO by CAMACHO](https://open.spotify.com/track/1twnX99rkZCxZ4syessz4s)
-- [UNAVAILABLE (feat. Musa Keys) - Major Lazer Remix by Davido, Musa Keys, Major Lazer](https://open.spotify.com/track/4oIhpa8oYIxlADCRq5Zc3g)
-- [No Man&#39;s Land by Marshmello, venbee](https://open.spotify.com/track/2YkICSyEUG87ELpD3Za5AL)
+- [Rise by Lost Frequencies](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf)
+- [What&#39;s Love Got to Do with It by Kygo, Tina Turner](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW)
+- [When Will I See You Again - Amtrac Remix by Shakka, Amtrac](https://open.spotify.com/track/0LRDr7rhv07TA2rz7c3sEP)
+- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
+- [Madness by Frank Walker, Sam Feldt, Zak Abel](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
