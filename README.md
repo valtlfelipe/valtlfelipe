@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)** - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. (3 days ago)
 
 #### 🎧 What I have been listening
-- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
-- [The Way We Were (feat. Plested) by Kygo, Plested](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR)
-- [Die For You by Killen.](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW)
-- [Without You (with HAYLA) by Kygo, HAYLA](https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N)
-- [Real Love by Martin Garrix, Lloyiso](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj)
+- [Summer&#39;s Back by Alok, Jess Glynne](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o)
+- [fault in the stars by Powfu, The Chainsmokers](https://open.spotify.com/track/585DJiJ7LPSNBSUEE4TxNo)
+- [Summer Days (feat. Macklemore &amp; Patrick Stump of Fall Out Boy) by Martin Garrix, Macklemore, Fall Out Boy](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM)
+- [Shallow Waters by Jarand, Sonny Alven](https://open.spotify.com/track/0L6i8WpTKz0eqtKWYmtU36)
+- [All Stand Together by Lost Frequencies](https://open.spotify.com/track/21PF64NXwKLq60rpAYgrnb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
