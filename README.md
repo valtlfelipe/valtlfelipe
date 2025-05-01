@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)** - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Follow The Waves by Sam Feldt, Caden](https://open.spotify.com/track/5kFHq6Z70bf8jKrHHOBfGS)
-- [Questions by Lost Frequencies, James Arthur](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA)
-- [Never Really Loved Me (with Dean Lewis) by Kygo, Dean Lewis](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL)
-- [Me Before You by Kygo, Plested](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72)
-- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
+- [The Way We Were (feat. Plested) by Kygo, Plested](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR)
+- [Die For You by Killen.](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW)
+- [Without You (with HAYLA) by Kygo, HAYLA](https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N)
+- [Real Love by Martin Garrix, Lloyiso](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
