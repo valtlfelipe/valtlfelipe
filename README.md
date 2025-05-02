@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (2 days ago)
 
 #### 🎧 What I have been listening
+- [Time Will Pass by sun &amp; set, Lounge Empire, Samm](https://open.spotify.com/track/0N3sFa0Hwrjd6auleDwg6n)
+- [Domino by Jessie J](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR)
 - [I Never Thought by Gabby Cox, FOOX, kith and kin](https://open.spotify.com/track/2feZAuKKggFV8ZKZijmaiw)
 - [Come Alive by Burna Girl, LENNTO, Liza Kuti](https://open.spotify.com/track/3vhrV2R9wUOOalw4pYG0X1)
 - [Beach Ride by cafenoire, chillout empire, Mars Twins](https://open.spotify.com/track/704oagNzKQWQXqSXENBO9M)
-- [Closer by Tom Polo, divve, Mars Twins](https://open.spotify.com/track/7iYalsd76tedIjyxYHcPgv)
-- [Body Talk by David Tort, Markem, Yas Cepeda](https://open.spotify.com/track/2165t1ex6zVZE4Y6bZqgSz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
