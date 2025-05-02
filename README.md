@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (2 days ago)
 
 #### 🎧 What I have been listening
-- [Time Will Pass by sun &amp; set, Lounge Empire, Samm](https://open.spotify.com/track/0N3sFa0Hwrjd6auleDwg6n)
-- [Domino by Jessie J](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR)
-- [I Never Thought by Gabby Cox, FOOX, kith and kin](https://open.spotify.com/track/2feZAuKKggFV8ZKZijmaiw)
-- [Come Alive by Burna Girl, LENNTO, Liza Kuti](https://open.spotify.com/track/3vhrV2R9wUOOalw4pYG0X1)
-- [Beach Ride by cafenoire, chillout empire, Mars Twins](https://open.spotify.com/track/704oagNzKQWQXqSXENBO9M)
+- [Distant Dreams by cafenoire, sensz, chillout empire](https://open.spotify.com/track/567sOGvpnKIFfooGxGbiNF)
+- [Bring Me Back by keid, FOOX, Samm](https://open.spotify.com/track/3hieXUC2snizB3DV1OBOHK)
+- [It&#39;s Alright by nomadz, kith and kin, sensz](https://open.spotify.com/track/5KhhubQdl3k9dZxs1FGnDP)
+- [Weightless by divve, astrokidzz, Mars Twins](https://open.spotify.com/track/1s9RkT0dmUJfjZoXWjdNSb)
+- [Chasing Shadows by Tom Polo, LENNTO, divve](https://open.spotify.com/track/21uBh0ht2yCmIfm2tpdofa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
