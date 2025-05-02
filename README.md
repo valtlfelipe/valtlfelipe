@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (2 days ago)
 
 #### 🎧 What I have been listening
-- [Distant Dreams by cafenoire, sensz, chillout empire](https://open.spotify.com/track/567sOGvpnKIFfooGxGbiNF)
-- [Bring Me Back by keid, FOOX, Samm](https://open.spotify.com/track/3hieXUC2snizB3DV1OBOHK)
-- [It&#39;s Alright by nomadz, kith and kin, sensz](https://open.spotify.com/track/5KhhubQdl3k9dZxs1FGnDP)
-- [Weightless by divve, astrokidzz, Mars Twins](https://open.spotify.com/track/1s9RkT0dmUJfjZoXWjdNSb)
-- [Chasing Shadows by Tom Polo, LENNTO, divve](https://open.spotify.com/track/21uBh0ht2yCmIfm2tpdofa)
+- [Latch by Disclosure, Sam Smith](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr)
+- [Higher Love by Kygo, Whitney Houston](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY)
+- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
+- [These Days (feat. Jess Glynne, Macklemore &amp; Dan Caplen) - AJR Remix by Rudimental, Jess Glynne, Macklemore, Dan Caplen, AJR](https://open.spotify.com/track/4DMvvYvDNiEv2QUciZCyp7)
+- [Riptide by HAYM, LENNTO, cali state](https://open.spotify.com/track/3iNsUF8ZqIw5894ilwsKer)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
