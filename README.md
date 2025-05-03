@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (3 days ago)
 
 #### 🎧 What I have been listening
-- [Waves - Robin Schulz Radio Edit by Mr. Probz, Robin Schulz](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs)
-- [DESPECHÁ by ROSALÍA](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq)
-- [Levitating (feat. DaBaby) by Dua Lipa, DaBaby](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF)
-- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
-- [SNAP - Luca Schreiner Remix by Rosa Linn, Luca Schreiner](https://open.spotify.com/track/2Ulk7ty4IBIrfrPs0LS4Zj)
+- [I Know You Want Me (Calle Ocho) by Pitbull](https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM)
+- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
+- [ily (i love you baby) (feat. Emilee) by Surf Mesa, Emilee](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS)
+- [The Magic Key by Trinix, One-T](https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa)
+- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
