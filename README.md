@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (3 days ago)
 
 #### 🎧 What I have been listening
-- [I Know You Want Me (Calle Ocho) by Pitbull](https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
-- [ily (i love you baby) (feat. Emilee) by Surf Mesa, Emilee](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS)
-- [The Magic Key by Trinix, One-T](https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa)
-- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
+- [Dancing In The Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
+- [My Love by Route 94, Jess Glynne](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU)
+- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [BED by Joel Corry, RAYE, David Guetta](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS)
+- [How You Samba by Kris Kross Amsterdam, Sofía Reyes, Tinie Tempah](https://open.spotify.com/track/5gl0Sw1FaHzio6Sw0s7sQi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
