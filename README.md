@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (4 days ago)
 
 #### 🎧 What I have been listening
+- [Currency (Count On Me) (ft Cimafunk and PAMÉ) by ANOTR, Cimafunk, PAMÉ](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS)
+- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
+- [Told You So by Martin Garrix, Jex](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll)
+- [Summer by Calvin Harris](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)
 - [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
-- [Rock My Body by R3HAB, INNA, Sash!](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU)
-- [Feel It by Cupidon, Milaa](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH)
-- [Timber by Pitbull, Kesha](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
