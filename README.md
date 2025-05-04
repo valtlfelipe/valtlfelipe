@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (4 days ago)
 
 #### 🎧 What I have been listening
-- [Summer Days (feat. Macklemore &amp; Patrick Stump of Fall Out Boy) by Martin Garrix, Macklemore, Fall Out Boy](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM)
-- [Lean On (feat. MØ &amp; DJ Snake) by Major Lazer, MØ, DJ Snake](https://open.spotify.com/track/2e7s0oEzUoJtDSPtYJuVvD)
-- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
-- [Take You Dancing by Jason Derulo](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3)
-- [Pepas by Farruko](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k)
+- [Call on Me - Ryan Riback Remix by Starley, Ryan Riback](https://open.spotify.com/track/0BZ5YlY2xnwfUmyGdiOMje)
+- [Con Calma by Daddy Yankee, Snow](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
+- [Big Energy by Latto](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT)
+- [Body Talk by Ofenbach, SVEA](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
