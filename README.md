@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (4 days ago)
 
 #### 🎧 What I have been listening
+- [SNAP - Luca Schreiner Remix by Rosa Linn, Luca Schreiner](https://open.spotify.com/track/2Ulk7ty4IBIrfrPs0LS4Zj)
+- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz)
+- [Summer Jam 2003 - Remix by The Underdog Project, Summermix](https://open.spotify.com/track/6eQQLxpKeoNqwT90zSD4Em)
 - [Currency (Count On Me) (ft Cimafunk and PAMÉ) by ANOTR, Cimafunk, PAMÉ](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS)
 - [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
-- [Told You So by Martin Garrix, Jex](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll)
-- [Summer by Calvin Harris](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)
-- [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
