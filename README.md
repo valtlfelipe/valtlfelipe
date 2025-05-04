@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (4 days ago)
 
 #### 🎧 What I have been listening
-- [More Than You Know by Axwell /\ Ingrosso, Axwell, Sebastian Ingrosso](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP)
-- [More Than You Know by Axwell /\ Ingrosso, Axwell, Sebastian Ingrosso](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP)
-- [Dancing In The Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
-- [My Love by Route 94, Jess Glynne](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU)
-- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [Summer Days (feat. Macklemore &amp; Patrick Stump of Fall Out Boy) by Martin Garrix, Macklemore, Fall Out Boy](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM)
+- [Lean On (feat. MØ &amp; DJ Snake) by Major Lazer, MØ, DJ Snake](https://open.spotify.com/track/2e7s0oEzUoJtDSPtYJuVvD)
+- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
+- [Take You Dancing by Jason Derulo](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3)
+- [Pepas by Farruko](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
