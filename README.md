@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (5 days ago)
 
 #### 🎧 What I have been listening
-- [The Piano (Deep House Remix) by Alexandre Pachabezian](https://open.spotify.com/track/3klQRM5dq8DPQsVwBCA2kp)
-- [Like I Do by MARE, MissingR, Bassline Bunny](https://open.spotify.com/track/0jayDBo89CuiNVrNBkfqlk)
-- [Smells Like Teen Spirit by LexMorris, Sam Bagira, Maggie Szabo](https://open.spotify.com/track/3jBPMj6TgGa5E6a653m0hB)
-- [Inside My Head by DJ Mayson](https://open.spotify.com/track/6u1DY2COIYphyVIoFHVfFM)
-- [Summertime Sadness x Children by Luke Muzzic](https://open.spotify.com/track/5sMaWRTbYqV6PyJhYWSIib)
+- [Wicked Game by Steve Reece, MOONLGHT, Youkii](https://open.spotify.com/track/0MipOE6RTEx3WZL3580AIF)
+- [Drifting by LO](https://open.spotify.com/track/5oa7uhpUq50IkuvQGM9Mks)
+- [Pieces by P.A.V](https://open.spotify.com/track/5WtWGWHe0nayFJ8SpKFHTh)
+- [Don&#39;t Let Me Down by fwd/slash](https://open.spotify.com/track/1VjsrzTdX7aUF9tmLP92xB)
+- [In My Arms by Purple Disco Machine](https://open.spotify.com/track/4wAk8NXWYPHDkjY5wPGENC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
