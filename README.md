@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (5 days ago)
 
 #### 🎧 What I have been listening
-- [Lose by Kenan Waters, Ema Feud, Miles Barker](https://open.spotify.com/track/47sr9oPuhpJcNvZ7NOzvZl)
-- [For You by Vandelux](https://open.spotify.com/track/0LQ2LOvrWU6xPH42OM1Zpb)
-- [One More Time by Jai Nova](https://open.spotify.com/track/4A6sKVOjxn8wpLv7GNuAZS)
-- [Without Your Love by MOONLGHT, ATH3NS](https://open.spotify.com/track/04v0Dpv6zxAc00vOeFHtB3)
-- [Champagne Ocean by Ehrling](https://open.spotify.com/track/2QquxgyWjZBt1IZS0Rkvan)
+- [Elenore - Sonnee Remix by Sultan &#43; Shepard, Andrew Belle, Sonnee](https://open.spotify.com/track/4GIlUBxwm42b5Q80hsuCIB)
+- [Keep on Rising by LUMINAE, SENATVS, Femme](https://open.spotify.com/track/1B5eGblMp5sHqROyvx64on)
+- [Fly Away by Vandelux, Tyler Mann](https://open.spotify.com/track/2M1XGpSDyYd1Vo8p0knM3W)
+- [Schizoid by fwd/slash](https://open.spotify.com/track/4OQcdzWN0cRATCcijfIZye)
+- [Porque by Lucas Estrada](https://open.spotify.com/track/2coG41pKGnGq3C84BCD5KK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
