@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (5 days ago)
 
 #### 🎧 What I have been listening
-- [Sunny by Deepend, LAST CALL](https://open.spotify.com/track/5W8wJVjLdQanAq7boqQ7c8)
-- [Hold Me Close by welsoGG](https://open.spotify.com/track/3ACuXyFAI3GpPBmyVkTCE1)
-- [The Best Part - Lost Prince Remix by gardenstate, Bien, Lost Prince](https://open.spotify.com/track/6Jzmhn3m6ukvfNAgYVKLqj)
-- [With Me by DJ Mayson](https://open.spotify.com/track/60ITGJAhpM9UOTv9Kb8ytJ)
-- [The Hills x Say It Right by Luke Muzzic](https://open.spotify.com/track/2IHcQScgtH5ub5TdjmStHQ)
+- [The Piano (Deep House Remix) by Alexandre Pachabezian](https://open.spotify.com/track/3klQRM5dq8DPQsVwBCA2kp)
+- [Like I Do by MARE, MissingR, Bassline Bunny](https://open.spotify.com/track/0jayDBo89CuiNVrNBkfqlk)
+- [Smells Like Teen Spirit by LexMorris, Sam Bagira, Maggie Szabo](https://open.spotify.com/track/3jBPMj6TgGa5E6a653m0hB)
+- [Inside My Head by DJ Mayson](https://open.spotify.com/track/6u1DY2COIYphyVIoFHVfFM)
+- [Summertime Sadness x Children by Luke Muzzic](https://open.spotify.com/track/5sMaWRTbYqV6PyJhYWSIib)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
