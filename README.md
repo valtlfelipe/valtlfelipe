@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (5 days ago)
 
 #### 🎧 What I have been listening
-- [Reflection of My Dreams by Max Fane](https://open.spotify.com/track/5CWfxIAlJTuINAPQTbLTRQ)
-- [To Be Wilder by DJ Mayson](https://open.spotify.com/track/6CnrRpDcdk6Laccdqga93L)
-- [Sugar Baby by LYOD](https://open.spotify.com/track/7KbMwFNvNvxWjBJABrnWfw)
-- [I Need A Miracle by Felipe Allenn](https://open.spotify.com/track/7Ka5Z0u0tnqFw7IG31EEHy)
-- [To Love Again by Vandelux](https://open.spotify.com/track/0AMxTwFGNkHkvaXYiLXOV7)
+- [Lose by Kenan Waters, Ema Feud, Miles Barker](https://open.spotify.com/track/47sr9oPuhpJcNvZ7NOzvZl)
+- [For You by Vandelux](https://open.spotify.com/track/0LQ2LOvrWU6xPH42OM1Zpb)
+- [One More Time by Jai Nova](https://open.spotify.com/track/4A6sKVOjxn8wpLv7GNuAZS)
+- [Without Your Love by MOONLGHT, ATH3NS](https://open.spotify.com/track/04v0Dpv6zxAc00vOeFHtB3)
+- [Champagne Ocean by Ehrling](https://open.spotify.com/track/2QquxgyWjZBt1IZS0Rkvan)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
