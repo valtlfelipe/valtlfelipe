@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (5 days ago)
 
 #### 🎧 What I have been listening
-- [Say It Right x Children by Luke Muzzic](https://open.spotify.com/track/1sQAKGsPZTX2D6sRXF5eLM)
-- [Stranger Things by Alex Ender, Salta](https://open.spotify.com/track/64AEcuPgXGM5eJ2v6zX64u)
-- [House of Glass (feat. Justin J. Moore) by Jarod Glawe, Justin J. Moore](https://open.spotify.com/track/67m5pQd4eeJD4dnbIJVmRz)
-- [Una Mattina (Deep House Remix) by Alexandre Pachabezian](https://open.spotify.com/track/2lyYZUdytjqxy9a93XI4Da)
-- [Read All About It, Pt. III - Extended by Stefan Biniak](https://open.spotify.com/track/3rW1IYFUTJSCx1HMcpUxa2)
+- [With Me by DJ Mayson](https://open.spotify.com/track/60ITGJAhpM9UOTv9Kb8ytJ)
+- [The Hills x Say It Right by Luke Muzzic](https://open.spotify.com/track/2IHcQScgtH5ub5TdjmStHQ)
+- [Motion by Vandelux](https://open.spotify.com/track/78vBw8siHaT9TcI5cls1iM)
+- [Interstellar (Deep House Rework) by Alexandre Pachabezian](https://open.spotify.com/track/0wPVHjSezP3fyF97VUa5PW)
+- [Rockingbird by Jameson](https://open.spotify.com/track/2x4c9BD2SOhddb5KDQ4yym)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
