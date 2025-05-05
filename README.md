@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[unjs/ungh](https://github.com/unjs/ungh)** - 🐙 Unlimited access to github API (5 days ago)
 
 #### 🎧 What I have been listening
-- [Know Some by Vandelux](https://open.spotify.com/track/2qRWNDee5Hfi6DFjfiu58c)
-- [The Time Is Now by P.A.V](https://open.spotify.com/track/7CImbCFyj3mMlwXxXxd8wB)
-- [Relax, Take It Easy by Kastelo, Dawell, Daniel Arci](https://open.spotify.com/track/0NmUFwmHa7N1CJJaFOXWzC)
-- [Creatures Of The Night - Extended Mix by AFSHEEN, Rebecca Ferguson](https://open.spotify.com/track/5d1lR4jTVy8VuA9Egaqr5W)
-- [Sleeping Satellite by Deepend, Peachy Pete](https://open.spotify.com/track/6CWPaj0n9mCcYtuSY8mHcT)
+- [Reflection of My Dreams by Max Fane](https://open.spotify.com/track/5CWfxIAlJTuINAPQTbLTRQ)
+- [To Be Wilder by DJ Mayson](https://open.spotify.com/track/6CnrRpDcdk6Laccdqga93L)
+- [Sugar Baby by LYOD](https://open.spotify.com/track/7KbMwFNvNvxWjBJABrnWfw)
+- [I Need A Miracle by Felipe Allenn](https://open.spotify.com/track/7Ka5Z0u0tnqFw7IG31EEHy)
+- [To Love Again by Vandelux](https://open.spotify.com/track/0AMxTwFGNkHkvaXYiLXOV7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
