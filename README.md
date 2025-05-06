@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Kiss Me by Mac Beez, Duane Katz](https://open.spotify.com/track/7EuOZ5EGZMXz0nUalZZhIM)
-- [Started Falling by Jac AM, JAYNIE](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX)
-- [Light My Fire by Freedom Dub, Rosin Taylor, DJ Leao](https://open.spotify.com/track/2v0EoMsvsAv0u2wiAeXJa9)
-- [Diamonds by DJ Style, Shelly Sony](https://open.spotify.com/track/0YdN46dOC3G7qCSOz06uAo)
-- [Gypsy Woman (She&#39;s Homeless) by Bellestar](https://open.spotify.com/track/5ZCQDrM1U54actXKkgDP1L)
+- [I Wanna Know What Love Is by The Prince Karma](https://open.spotify.com/track/1oG64RG7TgBHV3jxo0xenp)
+- [In The Air - Original Mix by Mr Deep](https://open.spotify.com/track/0VMggRCDjHODFbFId6Po1q)
+- [Talking in Your Sleep - Crystal Remix by Ituana, Groove Da Praia](https://open.spotify.com/track/1cTiPPLS36jUS9FgA5H3f6)
+- [Just Like Heaven by Vincenzo, Minako](https://open.spotify.com/track/03lqvDgdBKvrq3mGztwU93)
+- [Dancing In The Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
