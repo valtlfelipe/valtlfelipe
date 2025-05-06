@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (6 days ago)
 
 #### 🎧 What I have been listening
+- [You Got The Love by Fancy Fugazi](https://open.spotify.com/track/1GX40kDUh66XspahTIvI0t)
 - [I ain&#39;t worried - MOLEON remix by middle of june, MOLEON](https://open.spotify.com/track/3eSss6sMwSb3l0db6nerNE)
 - [Kids by Braaten](https://open.spotify.com/track/5uD8jc9bIWPXHhZoPahxWF)
 - [Summertime Sadness by Kool Kicks](https://open.spotify.com/track/3pp7B00avKHo0MvIwQazXV)
 - [Stargazing by Mecdoux, Chill Covers](https://open.spotify.com/track/5wVIEDVXKwsyWR8kAS8R0s)
-- [You And Me by Maggie Szabo, Planet Wave House, Diviners](https://open.spotify.com/track/41e8FVM2ZnXsMkJ3vVRGuy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
