@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Paradise by No.oN](https://open.spotify.com/track/7G1ekgEbpvy88yenaF4diT)
-- [Fly Me to the Moon by Shoby, Izzie Naylor](https://open.spotify.com/track/2J1GuLjv1SkrsbMfyRBoaQ)
-- [Cold Heart by Sunseekers, SIQUE](https://open.spotify.com/track/1FSCfWysRp6cUxWyRou289)
-- [Thinking out Loud by Kid On The Block, Shoby](https://open.spotify.com/track/3Gr7ZJA4Eky9byMOsyTGjk)
-- [Zombie by Paratone, Shoby, Eight Waters](https://open.spotify.com/track/0yAUuXv61YR5CLDqg3g7jj)
+- [Don&#39;t Speak - Positive Vibes Mix by Sarah Menescal, Astrovoid](https://open.spotify.com/track/7tWx2BcJaYtgGtdykHYYlB)
+- [Summer by Nexeri, Tara Louise](https://open.spotify.com/track/3KoDBQiwBXHqIoPgnuiM9a)
+- [Supalonely by Youth Habits](https://open.spotify.com/track/2wcpCCcZUJ6h9D4aiMnx1y)
+- [Into the Great Wide Open by Os Digitalistas, Luca Giacco](https://open.spotify.com/track/43smqg7uZpUHnQynnkoQxG)
+- [Don&#39;t Panic by Bellestar](https://open.spotify.com/track/07wgXl2EGw4Yhl90jpT6Y6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
