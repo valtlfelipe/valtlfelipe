@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (6 days ago)
 
 #### 🎧 What I have been listening
-- [When You Say Nothing At All by Alex Grey, Bikini Bandits, Dune](https://open.spotify.com/track/2bI1GGIg2dLWdosxWm8EB3)
-- [Fireflies by Daniel Liebt, JAYNIE](https://open.spotify.com/track/3nib5i37KGe54QshAZeyUj)
-- [Stubborn Love by Lost Ways](https://open.spotify.com/track/2iIwYpemY0Msr1f8mnh7rD)
-- [Flowers by Shoby, Jonah Baker](https://open.spotify.com/track/2u3HtoDMrDEHBBp5UaXx7Q)
-- [The Middle by Sunshine Bois](https://open.spotify.com/track/53dyGNBcTIMIi8hDRB0ulJ)
+- [Paradise by No.oN](https://open.spotify.com/track/7G1ekgEbpvy88yenaF4diT)
+- [Fly Me to the Moon by Shoby, Izzie Naylor](https://open.spotify.com/track/2J1GuLjv1SkrsbMfyRBoaQ)
+- [Cold Heart by Sunseekers, SIQUE](https://open.spotify.com/track/1FSCfWysRp6cUxWyRou289)
+- [Thinking out Loud by Kid On The Block, Shoby](https://open.spotify.com/track/3Gr7ZJA4Eky9byMOsyTGjk)
+- [Zombie by Paratone, Shoby, Eight Waters](https://open.spotify.com/track/0yAUuXv61YR5CLDqg3g7jj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
