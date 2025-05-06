@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Don&#39;t Speak - Positive Vibes Mix by Sarah Menescal, Astrovoid](https://open.spotify.com/track/7tWx2BcJaYtgGtdykHYYlB)
-- [Summer by Nexeri, Tara Louise](https://open.spotify.com/track/3KoDBQiwBXHqIoPgnuiM9a)
-- [Supalonely by Youth Habits](https://open.spotify.com/track/2wcpCCcZUJ6h9D4aiMnx1y)
-- [Into the Great Wide Open by Os Digitalistas, Luca Giacco](https://open.spotify.com/track/43smqg7uZpUHnQynnkoQxG)
-- [Don&#39;t Panic by Bellestar](https://open.spotify.com/track/07wgXl2EGw4Yhl90jpT6Y6)
+- [Kiss Me by Mac Beez, Duane Katz](https://open.spotify.com/track/7EuOZ5EGZMXz0nUalZZhIM)
+- [Started Falling by Jac AM, JAYNIE](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX)
+- [Light My Fire by Freedom Dub, Rosin Taylor, DJ Leao](https://open.spotify.com/track/2v0EoMsvsAv0u2wiAeXJa9)
+- [Diamonds by DJ Style, Shelly Sony](https://open.spotify.com/track/0YdN46dOC3G7qCSOz06uAo)
+- [Gypsy Woman (She&#39;s Homeless) by Bellestar](https://open.spotify.com/track/5ZCQDrM1U54actXKkgDP1L)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
