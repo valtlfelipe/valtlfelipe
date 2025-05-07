@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sundays by Peqasus](https://open.spotify.com/track/5zb3ATDc6t0H7tA0F2y1l8)
-- [morning glow by Greene Labyrinth](https://open.spotify.com/track/7hTwXBphptPv6oSxwX8mXA)
-- [Genuine by Djourney](https://open.spotify.com/track/2ShlwGnod4fEJimzZv1tOi)
-- [Letting My Mind Wander by makers mask](https://open.spotify.com/track/2TyAgjdOk2b0HPSYXaPack)
-- [Fuggedaboutit by Burlywood](https://open.spotify.com/track/1GYPW10V7bZUUqD1RihtYl)
+- [Zodiac Interstellar by Mimimi](https://open.spotify.com/track/2lOa0pC5BbOchxyxWg9EPS)
+- [non-sombrero by longwayfromhome](https://open.spotify.com/track/2qdAHLUFkZGyFD52eXQWg3)
+- [In a Spiral by nuttin](https://open.spotify.com/track/7KDcV9eKswsB91nljXgzDY)
+- [All In by Deauxnuts, Glimlip](https://open.spotify.com/track/0J4GC21u9mvvZv6AS0f2dv)
+- [Saltburn by Solmera](https://open.spotify.com/track/0xs6poNvfGEALAg5e3Zhpi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
