@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Daybreak by Thief Traveler](https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY)
-- [Waiting by Deeter K](https://open.spotify.com/track/5huOUeH5Vs7VxQ2iIWHKWn)
-- [Back Into Fun by The Pleasure Principle](https://open.spotify.com/track/2n3RqGDVvHHSilT9icMC7d)
-- [Level by Niriko](https://open.spotify.com/track/12nN4K8HR8j34O8w3zfZgy)
-- [soft healing by rigii](https://open.spotify.com/track/0HTRUVv5MqiqNRHL2mG5KD)
+- [In The Valley by moe sizzle](https://open.spotify.com/track/7GIxUTAb606x29LfoWWAjz)
+- [Lift Off by Niriko](https://open.spotify.com/track/060AmlKT5Y6xOKS1X4mUK1)
+- [Jungle Peace by Lou Kil](https://open.spotify.com/track/3dVNvhYzMqAyMa44MUFDgC)
+- [You Earned It by Good Kings](https://open.spotify.com/track/0mFsKgjwtjPZVd8qsDxsRx)
+- [Dreams - Edit by Gary Luton](https://open.spotify.com/track/6ORTYFwyHeTAKLm2YbiAgd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
