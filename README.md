@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Astronaut by Gianluca Dimeo, Emilian Lewis](https://open.spotify.com/track/4sj5QMl33mCq9BEBrpcEJJ)
-- [BIRDS OF A FEATHER by Daniel Santoro](https://open.spotify.com/track/592QOMR7ObDfyULaafHyWG)
-- [Chasing Cars by Braaten, JANU](https://open.spotify.com/track/3d6MmsEAVDKTAXc7FjrW93)
-- [Bitter Sweet Symphony by Gorgon Breath](https://open.spotify.com/track/693zKvU5nd0IRiEHrdgXbp)
-- [Don&#39;t Get Me Wrong by Daniel Santoro](https://open.spotify.com/track/76PGi73ueae0SDc4kXtHl5)
+- [Everybody&#39;s Changing by Lost Ways](https://open.spotify.com/track/2vDE7bWfab94TCSCf4qBMA)
+- [Grizzly Bear - Javier Penna Remix by Os Digitalistas, Javier Penna](https://open.spotify.com/track/2zDlhpGOeVvc8OsWXWNALV)
+- [It Wasn&#39;t Me by Yann Muller](https://open.spotify.com/track/0wJ3NBoSQZ68aUUT5cYPvJ)
+- [Grenade by Daniel Santoro](https://open.spotify.com/track/434Pb296F6UKKBx1bZ1duS)
+- [It&#39;s My Life by Braaten](https://open.spotify.com/track/2J7zDQM0DgGypa8IzkE9HJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
