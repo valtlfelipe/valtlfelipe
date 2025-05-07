@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Watermelon Sugar - Ronan Remix by Banda Do Sul, Natalie Renoir, Ronan](https://open.spotify.com/track/08HybGbXf3B5BC3OyohFLN)
-- [Let&#39;s Dance by Futurama, Dew](https://open.spotify.com/track/6E2z22Ah28O1CB0pGMh1eu)
-- [I Wanna Dance with Somebody - BOILERS Remix by TOOMANYLEFTHANDS, Bertie Scott, BOILERS](https://open.spotify.com/track/4bQLlqbRW04u2WMTTxzYmG)
-- [Passionfruit by Shelly Sony](https://open.spotify.com/track/63qlXLidhj96q2tc08Es3S)
-- [West End Girls by Bellestar, Sixth Finger](https://open.spotify.com/track/0uoOxUiLcRsU8ZVsQtP9IC)
+- [Baker Street - Deep House Mix by AFO, Labaci, Marco Malandra, Lisa La Torre](https://open.spotify.com/track/4uApYn3xy6IJvZ9hjyRUN7)
+- [Safe and Sound by Gorgon Breath](https://open.spotify.com/track/2Dqxo92YozPfP6926vfUoG)
+- [Chasing Cars by ERIICE](https://open.spotify.com/track/1gLCLiosMkuhCF69X7wy14)
+- [Cruel Summer (Marcus Layton Edit) by LAUWE, Marcus Layton](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg)
+- [Take My Breath Away by TWOPILOTS](https://open.spotify.com/track/6Uc23VRzRJSgu3eebPvH8I)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
