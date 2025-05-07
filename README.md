@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sunset Expresso by Vintage Vanity](https://open.spotify.com/track/4GeYzFsZ70iDwFzAssjEIX)
-- [leading up by SGT DUST](https://open.spotify.com/track/17gWxv1Nfj7H3XjPPbvXus)
-- [See Ya Round by Audio Scavengers](https://open.spotify.com/track/0Nr3bK8gMhQVnyKKkjzGuz)
-- [Afterglow by The Pleasure Principle](https://open.spotify.com/track/3P4FWntLdQTdQcJudLDaOF)
-- [Lights Are Off by KD Simon](https://open.spotify.com/track/6qvQpLE2MdSOeKr4txhK1L)
+- [Sundays by Peqasus](https://open.spotify.com/track/5zb3ATDc6t0H7tA0F2y1l8)
+- [morning glow by Greene Labyrinth](https://open.spotify.com/track/7hTwXBphptPv6oSxwX8mXA)
+- [Genuine by Djourney](https://open.spotify.com/track/2ShlwGnod4fEJimzZv1tOi)
+- [Letting My Mind Wander by makers mask](https://open.spotify.com/track/2TyAgjdOk2b0HPSYXaPack)
+- [Fuggedaboutit by Burlywood](https://open.spotify.com/track/1GYPW10V7bZUUqD1RihtYl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
