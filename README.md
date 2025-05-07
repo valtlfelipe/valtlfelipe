@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [What A Wonderful World by Nexeri, HORT3N, Tara Louise](https://open.spotify.com/track/1Op8oMlHhAB4J2M4OOkWg3)
-- [Baby I&#39;m Yours by TWOPILOTS](https://open.spotify.com/track/0qTbFobPCgr6ctfkTSKbG8)
-- [Back To You by Braaten](https://open.spotify.com/track/2GiM8YXURPRy7tGtsJJNts)
-- [On My Ride by Riesling, Zach Alwin](https://open.spotify.com/track/0P7PPN7AjV6pr1y2GVUci3)
-- [We Were Wild Once - Radio Edit by Holter &amp; Mogyoro, Farewell Dear Ghost](https://open.spotify.com/track/6iNScRVnhIrJAjSBIvnstM)
+- [A New Sunrise by Freedom Dub, Tom Polo](https://open.spotify.com/track/4gfaOwieCstwZPf1GNfLBm)
+- [Rhythm Is A Dancer by Braaten](https://open.spotify.com/track/7hptptdZLRE8pHsbhBcFs4)
+- [Summertime With You by Viva La Panda, Honey, JAYNIE](https://open.spotify.com/track/5b6zREc57MnDHRh2EjVHbw)
+- [Wicked Games by Slowsho](https://open.spotify.com/track/1GGSd9OSx762SF0UgYRiuL)
+- [Ghost of You by DJ Style](https://open.spotify.com/track/1dCly8xKTKPlvfp1ZnEZJQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
