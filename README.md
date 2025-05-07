@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [A New Sunrise by Freedom Dub, Tom Polo](https://open.spotify.com/track/4gfaOwieCstwZPf1GNfLBm)
-- [Rhythm Is A Dancer by Braaten](https://open.spotify.com/track/7hptptdZLRE8pHsbhBcFs4)
-- [Summertime With You by Viva La Panda, Honey, JAYNIE](https://open.spotify.com/track/5b6zREc57MnDHRh2EjVHbw)
-- [Wicked Games by Slowsho](https://open.spotify.com/track/1GGSd9OSx762SF0UgYRiuL)
-- [Ghost of You by DJ Style](https://open.spotify.com/track/1dCly8xKTKPlvfp1ZnEZJQ)
+- [Astronaut by Gianluca Dimeo, Emilian Lewis](https://open.spotify.com/track/4sj5QMl33mCq9BEBrpcEJJ)
+- [BIRDS OF A FEATHER by Daniel Santoro](https://open.spotify.com/track/592QOMR7ObDfyULaafHyWG)
+- [Chasing Cars by Braaten, JANU](https://open.spotify.com/track/3d6MmsEAVDKTAXc7FjrW93)
+- [Bitter Sweet Symphony by Gorgon Breath](https://open.spotify.com/track/693zKvU5nd0IRiEHrdgXbp)
+- [Don&#39;t Get Me Wrong by Daniel Santoro](https://open.spotify.com/track/76PGi73ueae0SDc4kXtHl5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
