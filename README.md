@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Baker Street - Deep House Mix by AFO, Labaci, Marco Malandra, Lisa La Torre](https://open.spotify.com/track/4uApYn3xy6IJvZ9hjyRUN7)
-- [Safe and Sound by Gorgon Breath](https://open.spotify.com/track/2Dqxo92YozPfP6926vfUoG)
-- [Chasing Cars by ERIICE](https://open.spotify.com/track/1gLCLiosMkuhCF69X7wy14)
-- [Cruel Summer (Marcus Layton Edit) by LAUWE, Marcus Layton](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg)
-- [Take My Breath Away by TWOPILOTS](https://open.spotify.com/track/6Uc23VRzRJSgu3eebPvH8I)
+- [What A Wonderful World by Nexeri, HORT3N, Tara Louise](https://open.spotify.com/track/1Op8oMlHhAB4J2M4OOkWg3)
+- [Baby I&#39;m Yours by TWOPILOTS](https://open.spotify.com/track/0qTbFobPCgr6ctfkTSKbG8)
+- [Back To You by Braaten](https://open.spotify.com/track/2GiM8YXURPRy7tGtsJJNts)
+- [On My Ride by Riesling, Zach Alwin](https://open.spotify.com/track/0P7PPN7AjV6pr1y2GVUci3)
+- [We Were Wild Once - Radio Edit by Holter &amp; Mogyoro, Farewell Dear Ghost](https://open.spotify.com/track/6iNScRVnhIrJAjSBIvnstM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
