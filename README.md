@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Everybody&#39;s Changing by Lost Ways](https://open.spotify.com/track/2vDE7bWfab94TCSCf4qBMA)
-- [Grizzly Bear - Javier Penna Remix by Os Digitalistas, Javier Penna](https://open.spotify.com/track/2zDlhpGOeVvc8OsWXWNALV)
-- [It Wasn&#39;t Me by Yann Muller](https://open.spotify.com/track/0wJ3NBoSQZ68aUUT5cYPvJ)
-- [Grenade by Daniel Santoro](https://open.spotify.com/track/434Pb296F6UKKBx1bZ1duS)
-- [It&#39;s My Life by Braaten](https://open.spotify.com/track/2J7zDQM0DgGypa8IzkE9HJ)
+- [Daybreak by Thief Traveler](https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY)
+- [Waiting by Deeter K](https://open.spotify.com/track/5huOUeH5Vs7VxQ2iIWHKWn)
+- [Back Into Fun by The Pleasure Principle](https://open.spotify.com/track/2n3RqGDVvHHSilT9icMC7d)
+- [Level by Niriko](https://open.spotify.com/track/12nN4K8HR8j34O8w3zfZgy)
+- [soft healing by rigii](https://open.spotify.com/track/0HTRUVv5MqiqNRHL2mG5KD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
