@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Wanna Know What Love Is by The Prince Karma](https://open.spotify.com/track/1oG64RG7TgBHV3jxo0xenp)
-- [In The Air - Original Mix by Mr Deep](https://open.spotify.com/track/0VMggRCDjHODFbFId6Po1q)
-- [Talking in Your Sleep - Crystal Remix by Ituana, Groove Da Praia](https://open.spotify.com/track/1cTiPPLS36jUS9FgA5H3f6)
-- [Just Like Heaven by Vincenzo, Minako](https://open.spotify.com/track/03lqvDgdBKvrq3mGztwU93)
-- [Dancing In The Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
+- [Watermelon Sugar - Ronan Remix by Banda Do Sul, Natalie Renoir, Ronan](https://open.spotify.com/track/08HybGbXf3B5BC3OyohFLN)
+- [Let&#39;s Dance by Futurama, Dew](https://open.spotify.com/track/6E2z22Ah28O1CB0pGMh1eu)
+- [I Wanna Dance with Somebody - BOILERS Remix by TOOMANYLEFTHANDS, Bertie Scott, BOILERS](https://open.spotify.com/track/4bQLlqbRW04u2WMTTxzYmG)
+- [Passionfruit by Shelly Sony](https://open.spotify.com/track/63qlXLidhj96q2tc08Es3S)
+- [West End Girls by Bellestar, Sixth Finger](https://open.spotify.com/track/0uoOxUiLcRsU8ZVsQtP9IC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
