@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Valley by Sean Rivers](https://open.spotify.com/track/4yYY8tPbNZOYe5Qv7re683)
-- [refresh by MayDance](https://open.spotify.com/track/4X3C9qAi8WOorLF84X0ZPA)
-- [Darling by Pello Esso](https://open.spotify.com/track/5LJEye2tZ0fW693oTumBnW)
-- [tranqui:lo by chill.farm](https://open.spotify.com/track/3Ttl1GUMPsOHKrM9sGTbMB)
-- [Smooth Mind by Safe Tock](https://open.spotify.com/track/3l0bF4yF0PyovHRFcWN7He)
+- [Time Lapse by Pierre Sloane](https://open.spotify.com/track/0jkHG9Vqhv32it2Xzn9V1i)
+- [Youth by Ensidya](https://open.spotify.com/track/0w1Bmnum1Fk0Unjy5Ok2ov)
+- [Himalayas by Chill Cole](https://open.spotify.com/track/5wMKNBeln1ZRrUlSKJ8U2i)
+- [coffee and blankets by Chill Collusion](https://open.spotify.com/track/0qgvgNiQu76lnDRKqREj5h)
+- [Limestone by Il Greco](https://open.spotify.com/track/2IxHkGERPdZFjN7Q2gqxXv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
