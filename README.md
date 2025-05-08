@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[actions/toolkit](https://github.com/actions/toolkit)** - The GitHub ToolKit for developing GitHub Actions. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Bittersweet by Audien, Shallou, Rosie Darling](https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE)
+- [Dance In The Sunlight by Lost Frequencies, Bandit](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F)
+- [Into The Night by Tonic Walter](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
 - [State Of Mind by Kaskade, Lipless](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y)
-- [This Is What It Feels Like by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9)
-- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
-- [With You by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd)
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
