@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[actions/toolkit](https://github.com/actions/toolkit)** - The GitHub ToolKit for developing GitHub Actions. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Beach Vacay by Pink Beaches](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm)
-- [Speak to the Gods by Co Kluin](https://open.spotify.com/track/7wpz85aP80cXOCTFhzS5HO)
-- [Purity by Xack](https://open.spotify.com/track/4Tb8x8lYQsKzXHsC71Xm20)
-- [How The Story Goes by The Escape Route](https://open.spotify.com/track/4C1kmQjG42md25gFTyqvik)
-- [Feel Free by Lichtboje](https://open.spotify.com/track/6L8gNflQsaNQv7uY8IVjE4)
+- [Bittersweet by Audien, Shallou, Rosie Darling](https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE)
+- [Can&#39;t Stand To Lose by HAAi](https://open.spotify.com/track/7pTPKIUJ06xUomkKRjDzqL)
+- [Dance In The Sunlight by Lost Frequencies, Bandit](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [State Of Mind by Kaskade, Lipless](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
