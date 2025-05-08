@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio)** - Nuxt Portfolio Template made with Nuxt UI Pro. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Zodiac Interstellar by Mimimi](https://open.spotify.com/track/2lOa0pC5BbOchxyxWg9EPS)
-- [non-sombrero by longwayfromhome](https://open.spotify.com/track/2qdAHLUFkZGyFD52eXQWg3)
-- [In a Spiral by nuttin](https://open.spotify.com/track/7KDcV9eKswsB91nljXgzDY)
-- [All In by Deauxnuts, Glimlip](https://open.spotify.com/track/0J4GC21u9mvvZv6AS0f2dv)
-- [Saltburn by Solmera](https://open.spotify.com/track/0xs6poNvfGEALAg5e3Zhpi)
+- [Valley by Sean Rivers](https://open.spotify.com/track/4yYY8tPbNZOYe5Qv7re683)
+- [refresh by MayDance](https://open.spotify.com/track/4X3C9qAi8WOorLF84X0ZPA)
+- [Darling by Pello Esso](https://open.spotify.com/track/5LJEye2tZ0fW693oTumBnW)
+- [tranqui:lo by chill.farm](https://open.spotify.com/track/3Ttl1GUMPsOHKrM9sGTbMB)
+- [Smooth Mind by Safe Tock](https://open.spotify.com/track/3l0bF4yF0PyovHRFcWN7He)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
