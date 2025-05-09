@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Breathing by Ourson](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV)
-- [Fool by Palisade, Ophanim, Phoebe Tsen](https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP)
-- [On Your Own by Shallou, Ardy](https://open.spotify.com/track/1vYuLttz5Wu7IIHgpbKFxh)
-- [Sunshine by Luttrell](https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml)
-- [Light Up My Dark by Monolink](https://open.spotify.com/track/2YJUD7E1muMf10UkCjN3lc)
+- [Echoes of Light by Ourson](https://open.spotify.com/track/7kqIRrv9Lo36E3C10L5zcT)
+- [Assassin by Sultan &#43; Shepard](https://open.spotify.com/track/2wLkOJ9pwMu0kfV5tlPDUp)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [Howl by Elderbrook, Tourist](https://open.spotify.com/track/3B81HqB2k8hrsSvX04zu5J)
+- [Talking Like That by Le Youth, EMME](https://open.spotify.com/track/52UwTliVhL0qDwpukA00bX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
