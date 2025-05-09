@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Spark - Flyboy Remix by Forester, Flyboy](https://open.spotify.com/track/4B0otshUtbnWTmRxAqUkcu)
-- [Finding You - Extended Mix by Lynnic, Neon Valis](https://open.spotify.com/track/6JFCE9IJ780u9WdQKuDRhS)
-- [I&#39;ll Be Around by Elderbrook, Amtrac](https://open.spotify.com/track/32v4XcJEaB3c3NbETfJ3uV)
-- [Calling by EMBRZ, Forester, Heather Janssen](https://open.spotify.com/track/3EcjAoYHzy5nOWLncMf7zE)
-- [You&#39;re a Light by heylucas, Benji Lewis](https://open.spotify.com/track/4pvPrtxf1tuegH7JP8l62m)
+- [Under The Surface by Sultan &#43; Shepard, Nathan Nicholson](https://open.spotify.com/track/4PRVsjP4N72PAg1R62eT5J)
+- [Let Go by Neon Tide](https://open.spotify.com/track/7bL9uGTNLE1SAHQUAjHne5)
+- [Black &amp; Blue by LEVII, KING LX](https://open.spotify.com/track/1xkuVT4MG9Rwa1V8dbyaqh)
+- [Soft Lights by Keanler, Ren Ocean](https://open.spotify.com/track/14w9UJfnEOln70AwtKrrpd)
+- [Runaway by Ourson, Ren Ocean](https://open.spotify.com/track/1vPLGiuMHPNAxuEjistFCd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
