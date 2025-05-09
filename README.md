@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 
 #### 🎧 What I have been listening
-- [TRIPPIN by BUNT., Mapei](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7)
-- [This Is Love by Ourson](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD)
-- [Colors - Refeci Remix by Vogel, James Stefano, Refeci](https://open.spotify.com/track/36TrBrSaRPb1rMVcDrnNMD)
-- [Falling Apart by ERIICE, Adlin](https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr)
-- [Midnight Sun by Jan Blomqvist, Natascha Polké](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI)
+- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
+- [Wait For You by Elderbrook, Carlita](https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW)
+- [every-little-part by Le Youth, Otherwish, LeyeT](https://open.spotify.com/track/2iI827tTlkWlaKXypNB6rE)
+- [Lost In Time by Adrian Knows](https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp)
+- [Felt (feat. Henry Green) by Christian Löffler, Henry Green](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
