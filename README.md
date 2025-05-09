@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fresh Air by Iaco, HNE](https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns)
-- [Train of Thoughts by Nora En Pure](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM)
-- [No Ending - Nils Hoffmann Remix by YOTTO, Julia Church, Nils Hoffmann](https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL)
-- [Time - Edit by Carlita](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs)
-- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
+- [TRIPPIN by BUNT., Mapei](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7)
+- [This Is Love by Ourson](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD)
+- [Colors - Refeci Remix by Vogel, James Stefano, Refeci](https://open.spotify.com/track/36TrBrSaRPb1rMVcDrnNMD)
+- [Falling Apart by ERIICE, Adlin](https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr)
+- [Midnight Sun by Jan Blomqvist, Natascha Polké](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
