@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Into The Night by Tonic Walter](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB)
-- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
-- [With You by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd)
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [Part Of Me by biskuwi, PHILDEL](https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg)
+- [My Reflection by Eli &amp; Fur](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht)
+- [Moments by D.Polo, Passing Clouds](https://open.spotify.com/track/73Ro9Wi19muexSwwV4vTm1)
+- [DESCEND by Dezko](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP)
+- [fever by puulse, maybealice](https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb)
+- [All Alone by Miravo, CLOVER](https://open.spotify.com/track/3SmgPYIvylEkKBwIDRzC7l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
