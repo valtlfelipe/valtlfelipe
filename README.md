@@ -3,9 +3,9 @@
 I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[mastra-ai/mastra](https://github.com/mastra-ai/mastra)** - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. (today)
-- **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - The Cloud Native Control Plane (today)
-- **[hash-anu/AnuDB](https://github.com/hash-anu/AnuDB)** - AnuDB: C&#43;&#43; based document store on RocksDB with native MQTT support (2 days ago)
+- **[mastra-ai/mastra](https://github.com/mastra-ai/mastra)** - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. (1 day ago)
+- **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - The Cloud Native Control Plane (1 day ago)
+- **[hash-anu/AnuDB](https://github.com/hash-anu/AnuDB)** - AnuDB: C&#43;&#43; based document store on RocksDB with native MQTT support (3 days ago)
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 - **[actions/toolkit](https://github.com/actions/toolkit)** - The GitHub ToolKit for developing GitHub Actions. (1 week ago)
 
