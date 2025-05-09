@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 
 #### 🎧 What I have been listening
-- [My Reflection by Eli &amp; Fur](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht)
-- [Moments by D.Polo, Passing Clouds](https://open.spotify.com/track/73Ro9Wi19muexSwwV4vTm1)
-- [DESCEND by Dezko](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP)
-- [fever by puulse, maybealice](https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb)
-- [All Alone by Miravo, CLOVER](https://open.spotify.com/track/3SmgPYIvylEkKBwIDRzC7l)
+- [Fresh Air by Iaco, HNE](https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns)
+- [Train of Thoughts by Nora En Pure](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM)
+- [No Ending - Nils Hoffmann Remix by YOTTO, Julia Church, Nils Hoffmann](https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL)
+- [Time - Edit by Carlita](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs)
+- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
