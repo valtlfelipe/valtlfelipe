@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 
 #### 🎧 What I have been listening
+- [Dynamite by Taio Cruz](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV)
+- [Geronimo by Sheppard](https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en)
+- [Something Just Like This by The Chainsmokers, Coldplay](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH)
+- [I Gotta Feeling by Black Eyed Peas](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR)
 - [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
-- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
-- [Lay It All on Me (feat. Ed Sheeran) by Rudimental, Ed Sheeran](https://open.spotify.com/track/6splO3UF8hSmK33y5fJTNk)
-- [Stay (feat. Maty Noyes) by Kygo, Maty Noyes](https://open.spotify.com/track/7gBj0VgcuAgkXkiRRYvSmK)
-- [We Found Love by Rihanna, Calvin Harris](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
