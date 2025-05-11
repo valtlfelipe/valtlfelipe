@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Can&#39;t Get You out of My Head by Kylie Minogue](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7)
-- [When Love Takes Over (feat. Kelly Rowland) by David Guetta, Kelly Rowland](https://open.spotify.com/track/619bJQ9uDi8dnXzLebFI7y)
-- [King by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM)
-- [Shine by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7KM7AeGDIWKxrMN7E4ljRA)
-- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
+- [Sweet Harmony by The Beloved](https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx)
+- [Let Me Hold You (Turn Me On) by Cheat Codes, Dante Klein](https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn)
+- [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
+- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
+- [Something Just Like This by The Chainsmokers, Coldplay](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
