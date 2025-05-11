@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 
 #### 🎧 What I have been listening
+- [I Love You Always Forever by Donna Lewis](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD)
+- [I Love You Always Forever by Donna Lewis](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD)
 - [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/7EH2enDP1q3upRqctbOz3n)
 - [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/7EH2enDP1q3upRqctbOz3n)
 - [Sweet Harmony by The Beloved](https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx)
-- [Let Me Hold You (Turn Me On) by Cheat Codes, Dante Klein](https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn)
-- [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
