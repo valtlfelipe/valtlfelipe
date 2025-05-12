@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 
 #### 🎧 What I have been listening
+- [If You Wanna - Extended by Nu Aspect, Coach Harrison](https://open.spotify.com/track/0t23ypf6vwxVLklskUDqSw)
 - [Promises by Yann Muller, Benjamin Bocconi](https://open.spotify.com/track/4mpThk7CCNCg3NsCA76HW8)
 - [Overexcited by Aludra](https://open.spotify.com/track/6iecAodYQ4kr1KLzj0CgOs)
 - [Omoka by KYRIL, Monitah](https://open.spotify.com/track/0rpvfslzeTGSnTBEsgG8NK)
 - [Give Me Something To Hold by Jack Back, THEMBA, David Guetta](https://open.spotify.com/track/7HKJrGBZKsniz09i8wJB6A)
-- [Looking For You by SØR, Jake Neumar](https://open.spotify.com/track/4VUKHbTPXX49zHKDvZ3M89)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
