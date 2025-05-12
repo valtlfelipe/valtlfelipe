@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[hash-anu/AnuDB](https://github.com/hash-anu/AnuDB)** - AnuDB: C&#43;&#43; based document store on RocksDB with native MQTT support (6 days ago)
 
 #### 🎧 What I have been listening
-- [With or Without You by DJ Pantelis](https://open.spotify.com/track/3LvD451yfRNayD6W4nj1c7)
-- [Englishman In New York by Yann Muller](https://open.spotify.com/track/1fSl5KhbaDKrYK7acnj7I0)
-- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [Premier Gaou - Nitefreak Remix by Francis Mercier, Magic System, Nitefreak](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp)
-- [Loving Is Easy by KYRIL](https://open.spotify.com/track/4BpaFELdoclSaRrkFM8pvi)
+- [San Francisco by Yann Muller](https://open.spotify.com/track/3xq3EhulVamWqQD0TW7wok)
+- [Exist by Twin, Akacia](https://open.spotify.com/track/6A7n3nYDnsTaKl0Z6SmvWW)
+- [Crazy by Alex Cruz, Brascon, Rubenson](https://open.spotify.com/track/3dSufNX8zV2Dz6vmxcQW2w)
+- [The Silence by Freyer, noo](https://open.spotify.com/track/4XAoQwp9nspONq8R9k8Ybp)
+- [Make Me Hurt by Toby Rose, Ben Hutcheson](https://open.spotify.com/track/7lR1YPW0MeRm8BgSvOeCnk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
