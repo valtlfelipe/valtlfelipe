@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ionic-team/capacitor](https://github.com/ionic-team/capacitor)** - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Voyage Voyage by Francis Mercier, Mont Rouge, Coco](https://open.spotify.com/track/5vKKfaYOmxAC3973l5y2sU)
-- [Sunlight (feat. Years and Years) - Darius Remix by The Magician, Years &amp; Years, Darius](https://open.spotify.com/track/6rMDWmfasdPlrmmxYbjABc)
-- [With or Without You - Radio Edit by DJ Pantelis](https://open.spotify.com/track/4b5xfjE6GhEVkyw9eRk2Wg)
-- [Say It Right by Divolly &amp; Markward](https://open.spotify.com/track/3X9XOouVCwHZc0OoKi1Nos)
-- [Free (Do What U Want) - LP Giobbi Club Edit by Pete Tong, Ultra Naté, LP Giobbi, Jules Buckley](https://open.spotify.com/track/1Jv5SF45pxopNs7TXn8hAQ)
+- [California Dreamin&#39; by Yann Muller](https://open.spotify.com/track/4y0wgwic6vFqUBN6Y1mkDR)
+- [Heartbeat by BOV](https://open.spotify.com/track/7pvnTTfMc0NYubV48wrG1t)
+- [Smooth Operator - TikTok Remix by Scammacist, MYKA, KYRA](https://open.spotify.com/track/4CaGELvelebOCAdDKYYvch)
+- [Mbona Ni Hivi by KYRIL, Idd Aziz](https://open.spotify.com/track/18btST7wU1H0Qz5ZxbAor4)
+- [Tiny Dancer - LOUNGE VERSION by MR ANDERSSON, Can You Say Jack?](https://open.spotify.com/track/6NbLnsMUb9PXxwfgZj4QJV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
