@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[hash-anu/AnuDB](https://github.com/hash-anu/AnuDB)** - AnuDB: C&#43;&#43; based document store on RocksDB with native MQTT support (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sweet Disposition by Lima Riff, RAZZ, Tom Bailey](https://open.spotify.com/track/1DegAT0ZQxGICdkQmBZ9vS)
-- [Jogador 97&#39; by Lake Matisse](https://open.spotify.com/track/6NiIAfjp4sT0j4oLY9DIIF)
-- [MANGA by Max Marchisio, Gaia Rose](https://open.spotify.com/track/0FQP350dfs4fYaHnI1zRNu)
-- [Lies by Nick Raff](https://open.spotify.com/track/32zB0FI9i0WscIAiW18NNQ)
-- [Habits (Stay High) by Settow, Myrrhe](https://open.spotify.com/track/3za6zAhSOF4g6iA0nu4HwP)
+- [Shika Imani by Choujaa](https://open.spotify.com/track/723UDhr8Ml6ZilBAX5u1i5)
+- [Greedy - AFRO HOUSE - Extended Mix by Noir Glacé](https://open.spotify.com/track/6esetSiQXuhgKmB8l38uDY)
+- [Overflowing by TEMP!E](https://open.spotify.com/track/7b9jnJeB5ZwT5jwKVkPuv9)
+- [love, don&#39;t make me by joki, Ridges](https://open.spotify.com/track/1o4qyeyiflbk9NHhOPWHIK)
+- [Not Over - Austin Leeds Remix by Thaylo, Theo Lucas, Austin Leeds](https://open.spotify.com/track/4LswYnzG6ISEplo0PRXS0H)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
