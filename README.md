@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[hash-anu/AnuDB](https://github.com/hash-anu/AnuDB)** - AnuDB: C&#43;&#43; based document store on RocksDB with native MQTT support (1 week ago)
 
 #### 🎧 What I have been listening
-- [Shika Imani by Choujaa](https://open.spotify.com/track/723UDhr8Ml6ZilBAX5u1i5)
-- [Greedy - AFRO HOUSE - Extended Mix by Noir Glacé](https://open.spotify.com/track/6esetSiQXuhgKmB8l38uDY)
-- [Overflowing by TEMP!E](https://open.spotify.com/track/7b9jnJeB5ZwT5jwKVkPuv9)
-- [love, don&#39;t make me by joki, Ridges](https://open.spotify.com/track/1o4qyeyiflbk9NHhOPWHIK)
-- [Not Over - Austin Leeds Remix by Thaylo, Theo Lucas, Austin Leeds](https://open.spotify.com/track/4LswYnzG6ISEplo0PRXS0H)
+- [Wokira by Skyles](https://open.spotify.com/track/33KcGL7WbbCOfFw4fYM17o)
+- [Marula by Brendel](https://open.spotify.com/track/273hGZ1slyAniJaHP4qAjm)
+- [Don&#39;t Go by Freyer, Dean Andrew](https://open.spotify.com/track/77wEGhkdprZZOuPa0Uxbos)
+- [My Focus Is You - AFRO HOUSE - Radio Edit by Noir Glacé, BLVCKDOP3](https://open.spotify.com/track/0iLhlySDs2IAjA1P1EA5e7)
+- [Without You by Nexeri, J.A.E, AALLAR](https://open.spotify.com/track/71HeFc865goYnFkklPEvXD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
