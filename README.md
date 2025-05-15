@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - The Cloud Native Control Plane (1 week ago)
 
 #### 🎧 What I have been listening
+- [Baddie by Tom Enzy, Lucas Estrada, Tanaka](https://open.spotify.com/track/5KtlC6MvNXOBhpURrCWaiC)
 - [Lokito by Lima Riff](https://open.spotify.com/track/1LEB33hOAUPyIaLso0PMFx)
 - [PENDIENTE A MI by Meliora](https://open.spotify.com/track/1NvYIU2vb3Wi1j0B7S8LtG)
 - [I Feel Dancing by Andi Dhoska](https://open.spotify.com/track/6u6uqgR1ZPcbT4d7THOvqF)
 - [Used To Feel by Joey Lanx, Hayden](https://open.spotify.com/track/2XuuXl4spPGi7iJQ4yaLSk)
-- [Cooler Than Me by Lake Matisse](https://open.spotify.com/track/1J9kvFC7IR259hJXTvzQvF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
