@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - The Cloud Native Control Plane (1 week ago)
 
 #### 🎧 What I have been listening
+- [Turn Me On by Ibara](https://open.spotify.com/track/3k6PgiQDhrP7ip8j5GrxHP)
+- [I Wanna Love You by Ibara](https://open.spotify.com/track/5AnASmkOn8yIvWqDUuN8D1)
+- [Birthday Sex (feat. Jeremih) - Levi Mix by Levi, Jeremih](https://open.spotify.com/track/334RaRoiRG89vt0LCEZ6L0)
 - [Let Go by Neon Tide](https://open.spotify.com/track/7bL9uGTNLE1SAHQUAjHne5)
 - [Try To Love by Tom Enzy, Mullally](https://open.spotify.com/track/4n6YD663cZ0Fw4HqaZ9OFj)
-- [Weyu by Lucas Estrada, Lenji, Amadi Blue](https://open.spotify.com/track/66tTks0fdZ1t8Ux7SF0yrZ)
-- [Your Body by Marten Lou](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3)
-- [Baddie by Tom Enzy, Lucas Estrada, Tanaka](https://open.spotify.com/track/5KtlC6MvNXOBhpURrCWaiC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
