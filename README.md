@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - The Cloud Native Control Plane (1 week ago)
 
 #### 🎧 What I have been listening
+- [Let Go by Neon Tide](https://open.spotify.com/track/7bL9uGTNLE1SAHQUAjHne5)
+- [Try To Love by Tom Enzy, Mullally](https://open.spotify.com/track/4n6YD663cZ0Fw4HqaZ9OFj)
+- [Weyu by Lucas Estrada, Lenji, Amadi Blue](https://open.spotify.com/track/66tTks0fdZ1t8Ux7SF0yrZ)
+- [Your Body by Marten Lou](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3)
 - [Baddie by Tom Enzy, Lucas Estrada, Tanaka](https://open.spotify.com/track/5KtlC6MvNXOBhpURrCWaiC)
-- [Lokito by Lima Riff](https://open.spotify.com/track/1LEB33hOAUPyIaLso0PMFx)
-- [PENDIENTE A MI by Meliora](https://open.spotify.com/track/1NvYIU2vb3Wi1j0B7S8LtG)
-- [I Feel Dancing by Andi Dhoska](https://open.spotify.com/track/6u6uqgR1ZPcbT4d7THOvqF)
-- [Used To Feel by Joey Lanx, Hayden](https://open.spotify.com/track/2XuuXl4spPGi7iJQ4yaLSk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
