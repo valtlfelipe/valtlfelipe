@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - The Cloud Native Control Plane (1 week ago)
 
 #### 🎧 What I have been listening
-- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
-- [Let It Go by NOTSOBAD, MA:RK](https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR)
-- [Too Tense by oskar med k](https://open.spotify.com/track/6DX98Pko7MmGRluSvj43cU)
-- [Running Up That Hill - feva. Remix by Kilian K, Blaze U, feva.](https://open.spotify.com/track/1zBvHBy2vz8sMk9lHhBHtB)
-- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
+- [Hide by LUMO](https://open.spotify.com/track/3EKqoed2eBKaYfvh0Yzf2Y)
+- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
+- [No Bad Vibes by Jazzy, KILIMANJARO](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8)
+- [Say It Right - Afro House Mix by Sunlike Brothers, Mannymore](https://open.spotify.com/track/6N04kMTTITQofSlAttEKnT)
+- [Strings Attached by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
