@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - The Cloud Native Control Plane (1 week ago)
 
 #### 🎧 What I have been listening
-- [Hide by LUMO](https://open.spotify.com/track/3EKqoed2eBKaYfvh0Yzf2Y)
-- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
-- [No Bad Vibes by Jazzy, KILIMANJARO](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8)
-- [Say It Right - Afro House Mix by Sunlike Brothers, Mannymore](https://open.spotify.com/track/6N04kMTTITQofSlAttEKnT)
-- [Strings Attached by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8)
+- [Close To You by Tripton, JAIKO, Namté](https://open.spotify.com/track/0ONuv4rQSS2Td8tZh9gSfF)
+- [So Cold by Solven](https://open.spotify.com/track/76xDuiVJotJXZYC2JcYj4s)
+- [Why Does My Heart - Sunset Remix by LYOD](https://open.spotify.com/track/6rqEWAhpWjTVZKPchDDebd)
+- [Stay by LUMO](https://open.spotify.com/track/5yhEti6lOZHYJNCLnIzb5A)
+- [Dream by NOTSOBAD, Oliver Cricket, Oscar Duke](https://open.spotify.com/track/1xC0RlQRQ5Ohuu7QOTPEeo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
