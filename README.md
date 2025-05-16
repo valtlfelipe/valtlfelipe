@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - The Cloud Native Control Plane (1 week ago)
 
 #### 🎧 What I have been listening
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
-- [Nobody Like You by Sistek](https://open.spotify.com/track/1SDhiSzYZcx1ElXLuYtv28)
-- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
-- [Tell Me by Sonny Fodera, Clementine Douglas](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8)
-- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
+- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
+- [Let It Go by NOTSOBAD, MA:RK](https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR)
+- [Too Tense by oskar med k](https://open.spotify.com/track/6DX98Pko7MmGRluSvj43cU)
+- [Running Up That Hill - feva. Remix by Kilian K, Blaze U, feva.](https://open.spotify.com/track/1zBvHBy2vz8sMk9lHhBHtB)
+- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
