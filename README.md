@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - The Cloud Native Control Plane (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wrap Yourself Around Me by D.O.D, NORTH](https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD)
-- [You&#39;re Makin&#39; Me High - Extended by DJ Katch, Amira Eldine](https://open.spotify.com/track/0lsfm6VAbrY5kDxo1qQfxt)
-- [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
-- [Can&#39;t find you by AVAION, oskar med k](https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j)
-- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [Nobody Like You by Sistek](https://open.spotify.com/track/1SDhiSzYZcx1ElXLuYtv28)
+- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
+- [Tell Me by Sonny Fodera, Clementine Douglas](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8)
+- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
