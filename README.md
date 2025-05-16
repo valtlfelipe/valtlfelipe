@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - The Cloud Native Control Plane (1 week ago)
 
 #### 🎧 What I have been listening
-- [Blessings by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z)
-- [You&#39;re Makin&#39; Me High by DJ Katch, Amira Eldine](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA)
-- [Abracadabra - AFRO HOUSE - Extended Mix by Noir Glacé](https://open.spotify.com/track/7wpQv0eTtDrsCjKGM54raN)
-- [Turn Me On by Ibara](https://open.spotify.com/track/3k6PgiQDhrP7ip8j5GrxHP)
-- [I Wanna Love You by Ibara](https://open.spotify.com/track/5AnASmkOn8yIvWqDUuN8D1)
+- [Wrap Yourself Around Me by D.O.D, NORTH](https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD)
+- [You&#39;re Makin&#39; Me High - Extended by DJ Katch, Amira Eldine](https://open.spotify.com/track/0lsfm6VAbrY5kDxo1qQfxt)
+- [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
+- [Can&#39;t find you by AVAION, oskar med k](https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j)
+- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
