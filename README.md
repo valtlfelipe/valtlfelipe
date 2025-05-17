@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - The Cloud Native Control Plane (1 week ago)
 
 #### 🎧 What I have been listening
+- [Galaxy From Home by Aludra](https://open.spotify.com/track/1BTsjlr9xjyhsW8venOXrc)
+- [The Silence by Freyer, noo](https://open.spotify.com/track/4XAoQwp9nspONq8R9k8Ybp)
+- [Lies by SØR, Kaphy, Idun Nicoline](https://open.spotify.com/track/0jE9nuvGgaK4xrXdmyt7zL)
+- [Looking For You by SØR, Jake Neumar](https://open.spotify.com/track/4VUKHbTPXX49zHKDvZ3M89)
 - [Dancing In The Dark by Lima Riff, Impani](https://open.spotify.com/track/6gZK2MGC3Ezyxl8Y9KrrwJ)
-- [Here Comes The Sun by ERIICE, Jessi G](https://open.spotify.com/track/55WP69Nc3TLamqr4laTPjK)
-- [Too Heavy by Marvin Shadex](https://open.spotify.com/track/5K24CoY5PLmQvweoA2IBvh)
-- [Honey by Gianluca Dimeo, Coppermines](https://open.spotify.com/track/74Bauxd1nPwDNT0OAVF7jv)
-- [The Hardest Part by Daniel Santoro, Gianluca Dimeo, Jan Liva](https://open.spotify.com/track/12L3HEJETKhCeVR4iIRxjH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
