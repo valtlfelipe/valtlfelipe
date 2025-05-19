@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[GravityCloudAI/matter-ai](https://github.com/GravityCloudAI/matter-ai)** - Matter AI is open-source AI Code Reviewer Agent 🤖 for Code Review, Summary Generation, Bug Detection, Security Vulnerabilities and Tests Generation (1 week ago)
 
 #### 🎧 What I have been listening
-- [Like Before by Nick En Mare](https://open.spotify.com/track/0efrP6EOnzKe0bDGrsx3el)
-- [Hey Should Have Been Me by Onda Norte](https://open.spotify.com/track/5KaNtoWjmVKc94JoeFNtqU)
-- [Running Away by Second Sun, houselife](https://open.spotify.com/track/2pbfiFPex25BKdcTXEWERc)
-- [Is This Real by MFM DEEP](https://open.spotify.com/track/7gYfx0FBbHj2C54pj91Yzd)
-- [Breezy Beach by Golden Sands Of Ibiza, Loutro](https://open.spotify.com/track/2nOFECjq5MrP7YMjHtL1zd)
+- [Jungle - Sax Edit by Axero](https://open.spotify.com/track/2pdyU8YVX5sXowIA2TEv9Y)
+- [Back Into Fun by Sunset-buff](https://open.spotify.com/track/7x8VKFBiTy1TgHAOn0bpIe)
+- [ZENITH by KCG](https://open.spotify.com/track/21YySFsDm3HdzChvPLIoFI)
+- [There You Were by Hessian](https://open.spotify.com/track/7FHJssavk6ajBGWfXcptiN)
+- [Control Of Me (feat. Daecolm) by Topic, Daecolm](https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
