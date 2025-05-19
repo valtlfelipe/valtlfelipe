@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[GravityCloudAI/matter-ai](https://github.com/GravityCloudAI/matter-ai)** - Matter AI is open-source AI Code Reviewer Agent 🤖 for Code Review, Summary Generation, Bug Detection, Security Vulnerabilities and Tests Generation (1 week ago)
 
 #### 🎧 What I have been listening
-- [Come With Me by LiQWYD](https://open.spotify.com/track/1utwmR3oQgDtICsrdor5Xd)
-- [preference by dreem](https://open.spotify.com/track/2oq3F0ds3MIqjTPOwMBhNy)
-- [Missing This by dvine](https://open.spotify.com/track/1eA19revOwXS5Vl5IHwZRI)
-- [The Clouds by Rytes](https://open.spotify.com/track/0pigL2K6ytVP3L2TR1Zuvx)
-- [One I Want by Yere](https://open.spotify.com/track/17olpYAVu8RxgtMK9Ch4bx)
+- [Like Before by Nick En Mare](https://open.spotify.com/track/0efrP6EOnzKe0bDGrsx3el)
+- [Hey Should Have Been Me by Onda Norte](https://open.spotify.com/track/5KaNtoWjmVKc94JoeFNtqU)
+- [Running Away by Second Sun, houselife](https://open.spotify.com/track/2pbfiFPex25BKdcTXEWERc)
+- [Is This Real by MFM DEEP](https://open.spotify.com/track/7gYfx0FBbHj2C54pj91Yzd)
+- [Breezy Beach by Golden Sands Of Ibiza, Loutro](https://open.spotify.com/track/2nOFECjq5MrP7YMjHtL1zd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
