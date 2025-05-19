@@ -3,17 +3,17 @@
 I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
+- **[flowglad/flowglad](https://github.com/flowglad/flowglad)** - Open source payments &#43; billing infrastructure (today)
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (today)
 - **[muliswilliam/webhook-tester](https://github.com/muliswilliam/webhook-tester)** - A lightweight, developer-friendly platform for testing and debugging webhooks — built in Go. (4 days ago)
 - **[GravityCloudAI/matter-ai](https://github.com/GravityCloudAI/matter-ai)** - Matter AI is open-source AI Code Reviewer Agent 🤖 for Code Review, Summary Generation, Bug Detection, Security Vulnerabilities and Tests Generation (1 week ago)
 - **[danielroe/carpenter](https://github.com/danielroe/carpenter)** - LLM-powered automations for triaging Nuxt issues (1 week ago)
-- **[mastra-ai/mastra](https://github.com/mastra-ai/mastra)** - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Only Now by Aera Blue](https://open.spotify.com/track/4qLtYIEc5KvpuFNgSBvxHe)
-- [Only Now by Aera Blue](https://open.spotify.com/track/4qLtYIEc5KvpuFNgSBvxHe)
-- [Galaxy From Home by Aludra](https://open.spotify.com/track/1BTsjlr9xjyhsW8venOXrc)
-- [The Silence by Freyer, noo](https://open.spotify.com/track/4XAoQwp9nspONq8R9k8Ybp)
-- [Lies by SØR, Kaphy, Idun Nicoline](https://open.spotify.com/track/0jE9nuvGgaK4xrXdmyt7zL)
+- [Put Your Faith In Me by Second Sun, houselife](https://open.spotify.com/track/5aSvZCKzDXQWB3UqtiRQUP)
+- [Rooftop by Logozzi](https://open.spotify.com/track/2ebN0r76upG4bTetGQk996)
+- [Kashmir (Edit) by Gary Luton](https://open.spotify.com/track/204q7FkjtzZBm8TWl2sjBz)
+- [Heaven Bliss by Five Corners, Sakkusu, Dune](https://open.spotify.com/track/3WLU8xk0qS2jASiHDtyaFd)
+- [Love Yourself by LE OBAL](https://open.spotify.com/track/1lHREZoMexit8oiZSqs2zx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
