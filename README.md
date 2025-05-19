@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[danielroe/carpenter](https://github.com/danielroe/carpenter)** - LLM-powered automations for triaging Nuxt issues (1 week ago)
 
 #### 🎧 What I have been listening
-- [Put Your Faith In Me by Second Sun, houselife](https://open.spotify.com/track/5aSvZCKzDXQWB3UqtiRQUP)
-- [Rooftop by Logozzi](https://open.spotify.com/track/2ebN0r76upG4bTetGQk996)
-- [Kashmir (Edit) by Gary Luton](https://open.spotify.com/track/204q7FkjtzZBm8TWl2sjBz)
-- [Heaven Bliss by Five Corners, Sakkusu, Dune](https://open.spotify.com/track/3WLU8xk0qS2jASiHDtyaFd)
-- [Love Yourself by LE OBAL](https://open.spotify.com/track/1lHREZoMexit8oiZSqs2zx)
+- [Lost Paradise by Cushy](https://open.spotify.com/track/4hLQtvGQn6uec0N6tRnbD2)
+- [Ocean Love by LiQWYD](https://open.spotify.com/track/2tnAfMJgthqdCEhFw8qBj1)
+- [It’s a Feeling by dvine](https://open.spotify.com/track/4lTny0SN8z8IcM7qihLUXx)
+- [Pretty Green Eyes by DUSKO](https://open.spotify.com/track/3HV3dXjLjX5J87JN2aIHmz)
+- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
