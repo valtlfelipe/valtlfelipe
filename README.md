@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[GravityCloudAI/matter-ai](https://github.com/GravityCloudAI/matter-ai)** - Matter AI is open-source AI Code Reviewer Agent 🤖 for Code Review, Summary Generation, Bug Detection, Security Vulnerabilities and Tests Generation (1 week ago)
 
 #### 🎧 What I have been listening
-- [Can&#39;t Help But Worry (Every Night Every Day) by Soluna](https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i)
-- [Hit the Ground by Texture](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa)
-- [Prism Dune Echo by Mambo Saxoon](https://open.spotify.com/track/19cAczT3bvX8cTed7qikzN)
-- [Running Away by KCG](https://open.spotify.com/track/2gsoiWmzFDP3OHLv4WqRcc)
-- [Feel by LiQWYD](https://open.spotify.com/track/3eGoj8kV3KxKOiZTmTenGs)
+- [Dakiti by V.TINO, Goodscandal, Afro Queen, Zeitlos (CH)](https://open.spotify.com/track/3G8H5MU1xXOERFQ4mYiRh9)
+- [Dreamer by Tad Forl](https://open.spotify.com/track/3wKdreSUGvV9cEZiwlOOeU)
+- [So Real - Koelle Remix by Qualysto, Koelle](https://open.spotify.com/track/3wZ9UhawIJ04Ncq9E1MfXk)
+- [Bad Dreams - HUGEL Remix by Teddy Swims, HUGEL](https://open.spotify.com/track/2s2NJlQfNF77nQcQvb4sBk)
+- [Explore by LiQWYD](https://open.spotify.com/track/7FIvBV2VeqSYgZih5v2Tzo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
