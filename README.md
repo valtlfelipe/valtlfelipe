@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[GravityCloudAI/matter-ai](https://github.com/GravityCloudAI/matter-ai)** - Matter AI is open-source AI Code Reviewer Agent 🤖 for Code Review, Summary Generation, Bug Detection, Security Vulnerabilities and Tests Generation (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dakiti by V.TINO, Goodscandal, Afro Queen, Zeitlos (CH)](https://open.spotify.com/track/3G8H5MU1xXOERFQ4mYiRh9)
-- [Dreamer by Tad Forl](https://open.spotify.com/track/3wKdreSUGvV9cEZiwlOOeU)
-- [So Real - Koelle Remix by Qualysto, Koelle](https://open.spotify.com/track/3wZ9UhawIJ04Ncq9E1MfXk)
-- [Bad Dreams - HUGEL Remix by Teddy Swims, HUGEL](https://open.spotify.com/track/2s2NJlQfNF77nQcQvb4sBk)
-- [Explore by LiQWYD](https://open.spotify.com/track/7FIvBV2VeqSYgZih5v2Tzo)
+- [Come With Me by LiQWYD](https://open.spotify.com/track/1utwmR3oQgDtICsrdor5Xd)
+- [preference by dreem](https://open.spotify.com/track/2oq3F0ds3MIqjTPOwMBhNy)
+- [Missing This by dvine](https://open.spotify.com/track/1eA19revOwXS5Vl5IHwZRI)
+- [The Clouds by Rytes](https://open.spotify.com/track/0pigL2K6ytVP3L2TR1Zuvx)
+- [One I Want by Yere](https://open.spotify.com/track/17olpYAVu8RxgtMK9Ch4bx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
