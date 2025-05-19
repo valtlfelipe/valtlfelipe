@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[danielroe/carpenter](https://github.com/danielroe/carpenter)** - LLM-powered automations for triaging Nuxt issues (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lost Paradise by Cushy](https://open.spotify.com/track/4hLQtvGQn6uec0N6tRnbD2)
-- [Ocean Love by LiQWYD](https://open.spotify.com/track/2tnAfMJgthqdCEhFw8qBj1)
-- [It’s a Feeling by dvine](https://open.spotify.com/track/4lTny0SN8z8IcM7qihLUXx)
-- [Pretty Green Eyes by DUSKO](https://open.spotify.com/track/3HV3dXjLjX5J87JN2aIHmz)
-- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
+- [Hit the Ground by Texture](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa)
+- [Prism Dune Echo by Mambo Saxoon](https://open.spotify.com/track/19cAczT3bvX8cTed7qikzN)
+- [Running Away by KCG](https://open.spotify.com/track/2gsoiWmzFDP3OHLv4WqRcc)
+- [Feel by LiQWYD](https://open.spotify.com/track/3eGoj8kV3KxKOiZTmTenGs)
+- [Run Your Way by dvine](https://open.spotify.com/track/01b7rCcTIzDjhLETOucmJb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
