@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[muliswilliam/webhook-tester](https://github.com/muliswilliam/webhook-tester)** - A lightweight, developer-friendly platform for testing and debugging webhooks — built in Go. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Sorrento by sunbvrn](https://open.spotify.com/track/7u4xmJ9Q3cEOX51nJ05B1L)
-- [wanna go by beinghonest., sunsetdream.](https://open.spotify.com/track/1JWpGTri05kTOXvsZS5rhN)
-- [Memories by Sean Rivers](https://open.spotify.com/track/0HxqWCsSIsXDyR0c4sXTpr)
-- [Radiant Reef Flow by Mambo Saxoon](https://open.spotify.com/track/1LSABhJnowTigksLX8XMSl)
-- [The Final Countdown 2025 by David Guetta, Hypaton, Europe](https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG)
+- [Kiss Me by P.A.V](https://open.spotify.com/track/16FdpIf1BOoRi0KdTlLf1y)
+- [Keep Dancing by heylucas, Lily Denning](https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP)
+- [Hit The Ground by Nick Raff](https://open.spotify.com/track/2iWJTXzBPvMu6x7qA9onF1)
+- [On A Date by Oliver Michael, XYSM](https://open.spotify.com/track/4VNlJUdfeY6iBmaWP2HBNV)
+- [Show Me That by BTRN, Jake Neumar](https://open.spotify.com/track/4RP0B5tsGmoZA9LCrgfI8T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
