@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[muliswilliam/webhook-tester](https://github.com/muliswilliam/webhook-tester)** - A lightweight, developer-friendly platform for testing and debugging webhooks — built in Go. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Venture - Mixed by Guy Didden](https://open.spotify.com/track/7M1M5xTBp0PkJm8aJ0kXPi)
-- [Moonlit Frequencies by Chilluxe](https://open.spotify.com/track/2eqMI8xPO1h0YolxlcNbqU)
-- [New Leaves by MayFlwr](https://open.spotify.com/track/04wNRz1JJlqlPHICbIi6TG)
-- [Can`t Hold Us Down by Kvarmez](https://open.spotify.com/track/4KdtzG4MahX58La7Z3b4Cu)
-- [Down Under - Ronan Remix by Beluga&#39;s Trio, Marianne Pretty, Blue System, Ronan](https://open.spotify.com/track/1nTNPrG77PwofdibLJg1im)
+- [Sorrento by sunbvrn](https://open.spotify.com/track/7u4xmJ9Q3cEOX51nJ05B1L)
+- [wanna go by beinghonest., sunsetdream.](https://open.spotify.com/track/1JWpGTri05kTOXvsZS5rhN)
+- [Memories by Sean Rivers](https://open.spotify.com/track/0HxqWCsSIsXDyR0c4sXTpr)
+- [Radiant Reef Flow by Mambo Saxoon](https://open.spotify.com/track/1LSABhJnowTigksLX8XMSl)
+- [The Final Countdown 2025 by David Guetta, Hypaton, Europe](https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
