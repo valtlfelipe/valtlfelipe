@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[muliswilliam/webhook-tester](https://github.com/muliswilliam/webhook-tester)** - A lightweight, developer-friendly platform for testing and debugging webhooks — built in Go. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Kiss Me by P.A.V](https://open.spotify.com/track/16FdpIf1BOoRi0KdTlLf1y)
-- [Keep Dancing by heylucas, Lily Denning](https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP)
-- [Hit The Ground by Nick Raff](https://open.spotify.com/track/2iWJTXzBPvMu6x7qA9onF1)
-- [On A Date by Oliver Michael, XYSM](https://open.spotify.com/track/4VNlJUdfeY6iBmaWP2HBNV)
-- [Show Me That by BTRN, Jake Neumar](https://open.spotify.com/track/4RP0B5tsGmoZA9LCrgfI8T)
+- [Rarest Kind by Lovlee](https://open.spotify.com/track/4x4rdlczL3PzoiYje7sKbR)
+- [By My Side by ERIICE, Jordan Grace, Doppe &amp; Kokke](https://open.spotify.com/track/7wIqHRfI7D9aFFtx8aKTcS)
+- [Fading Away by Toutounji, Wontu, Kezano](https://open.spotify.com/track/6U8OBu33l76fnBTVJZOd6G)
+- [Waiting For The Sunshine by DeejaVu](https://open.spotify.com/track/5h2qSYxnAvuks0uSxYwqdO)
+- [Exist by Twin, Akacia](https://open.spotify.com/track/6A7n3nYDnsTaKl0Z6SmvWW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
