@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[muliswilliam/webhook-tester](https://github.com/muliswilliam/webhook-tester)** - A lightweight, developer-friendly platform for testing and debugging webhooks — built in Go. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Rarest Kind by Lovlee](https://open.spotify.com/track/4x4rdlczL3PzoiYje7sKbR)
-- [By My Side by ERIICE, Jordan Grace, Doppe &amp; Kokke](https://open.spotify.com/track/7wIqHRfI7D9aFFtx8aKTcS)
-- [Fading Away by Toutounji, Wontu, Kezano](https://open.spotify.com/track/6U8OBu33l76fnBTVJZOd6G)
-- [Waiting For The Sunshine by DeejaVu](https://open.spotify.com/track/5h2qSYxnAvuks0uSxYwqdO)
-- [Exist by Twin, Akacia](https://open.spotify.com/track/6A7n3nYDnsTaKl0Z6SmvWW)
+- [Jogador 97&#39; by Lake Matisse](https://open.spotify.com/track/6NiIAfjp4sT0j4oLY9DIIF)
+- [Aura by Kenan Waters, RAZZ, Dana Shine](https://open.spotify.com/track/1ukAANe8L05RmjCmICPSLq)
+- [Give It A Try (Why Don&#39;t We) by Freyer, Idun Nicoline](https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX)
+- [eyes on u by elsaaa](https://open.spotify.com/track/2yddu8WiiSSxA9OuNsjcrm)
+- [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
