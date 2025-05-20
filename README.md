@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[muliswilliam/webhook-tester](https://github.com/muliswilliam/webhook-tester)** - A lightweight, developer-friendly platform for testing and debugging webhooks — built in Go. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Better Than I Do by Araon](https://open.spotify.com/track/3BQ7qInmGVD5Bf9JbC4rE4)
-- [Sóller by sundraze](https://open.spotify.com/track/1QCvuQ69rvI4cRvI88993X)
-- [Breaking Me - VIP Mix by Topic, A7S](https://open.spotify.com/track/3AcagKk6rKO0qk7vUdhYoR)
-- [Only For A Moment (ABGT627) - Mixed by Rezident, Ekko](https://open.spotify.com/track/0PLNUONhJzCOfRFv3alJcu)
-- [Reality by Tad Forl](https://open.spotify.com/track/48PAVzEfBFPlEHZGiVrA32)
+- [Can`t Hold Us Down by Kvarmez](https://open.spotify.com/track/4KdtzG4MahX58La7Z3b4Cu)
+- [Down Under - Ronan Remix by Beluga&#39;s Trio, Marianne Pretty, Blue System, Ronan](https://open.spotify.com/track/1nTNPrG77PwofdibLJg1im)
+- [Would You Tell Me by Second Sun](https://open.spotify.com/track/5P0cibCUQsmT9mavQnEFLz)
+- [Walk On Water by Palm 3s](https://open.spotify.com/track/5fDNuA0VfBOZysUYyb9uV5)
+- [Coastal Haze by Tad Forl](https://open.spotify.com/track/7k6YOuTSgBInlRXXmeyMlm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
