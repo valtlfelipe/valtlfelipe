@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[muliswilliam/webhook-tester](https://github.com/muliswilliam/webhook-tester)** - A lightweight, developer-friendly platform for testing and debugging webhooks — built in Go. (5 days ago)
 
 #### 🎧 What I have been listening
+- [Crescendo by TRIP RGAZZI](https://open.spotify.com/track/3YyiGgEy03Pr8MFy3apUE9)
+- [Dreaming by P.A.V](https://open.spotify.com/track/0XHJg1cyDG1qSdhg4rM57r)
 - [Jogador 97&#39; by Lake Matisse](https://open.spotify.com/track/6NiIAfjp4sT0j4oLY9DIIF)
 - [Aura by Kenan Waters, RAZZ, Dana Shine](https://open.spotify.com/track/1ukAANe8L05RmjCmICPSLq)
 - [Give It A Try (Why Don&#39;t We) by Freyer, Idun Nicoline](https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX)
-- [eyes on u by elsaaa](https://open.spotify.com/track/2yddu8WiiSSxA9OuNsjcrm)
-- [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
