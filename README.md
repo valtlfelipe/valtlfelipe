@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (2 days ago)
 
 #### 🎧 What I have been listening
+- [Neverender - Rampa Remix by Justice, Tame Impala, Rampa, Keinemusik](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS)
+- [El Layali by Claudius Lawdy](https://open.spotify.com/track/3fvykC6h0K8V7zpWroIkhE)
 - [Under The Surface by Sultan &#43; Shepard, Nathan Nicholson](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1)
 - [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
 - [24 (Turn It Up) (Radio Edit) by ANOTR, Kurtis Wells](https://open.spotify.com/track/5hLiKFmVc7vRUKTvnlpJYR)
-- [I can share my love with you by Bassi Fox](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl)
-- [My Love (2024) by Alex Wann, Route 94, Jess Glynne](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
