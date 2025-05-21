@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (2 days ago)
 
 #### 🎧 What I have been listening
-- [Deep Waters by Hobes](https://open.spotify.com/track/3nIPnFIIv3nc3jMwAF6KOf)
-- [Rock With You by Viva La Panda, The Chillers](https://open.spotify.com/track/62zDa4diK8Xa75q1YiTPce)
-- [How Deep Is Your Love by fwd/slash](https://open.spotify.com/track/6whE9W4LkAaTyltd0Y44jm)
-- [For Me by Dallien, RVPTR, Spagbo](https://open.spotify.com/track/0PJCvbrQc5Dbccq5pcQ2D3)
-- [Sing It Back by Vic Laos, Emilie McDade](https://open.spotify.com/track/4DicVDyPHuVrPI4fDbvQ3t)
+- [My Love (2024) by Alex Wann, Route 94, Jess Glynne](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk)
+- [Talking Like That by Le Youth, EMME](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF)
+- [U Can Be Lonely by Courage](https://open.spotify.com/track/144L4jXWPTvI0DKh2vhjV3)
+- [Feels Like This by Hessian](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC)
+- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
