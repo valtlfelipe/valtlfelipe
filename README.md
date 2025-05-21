@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (2 days ago)
 
 #### 🎧 What I have been listening
-- [Back Before by Joey Lanx](https://open.spotify.com/track/1EvwY4ffRKc0PFmb5HiJH7)
-- [I Don&#39;t Wanna Wait by EFA, REWEL](https://open.spotify.com/track/75KK4Fcu3YrJ2ec1lfH07z)
-- [I&#39;ll Be Fine by fwd/slash, Stridon, Rik Weber](https://open.spotify.com/track/3BsTZdumXj13kA6evuDybG)
-- [I&#39;m Good by P.A.V](https://open.spotify.com/track/1H27IgTftbtLwK4HrdGV3x)
-- [Oceandeep by Tobÿ](https://open.spotify.com/track/42SZuZ7XFzdvDtdLlZqwl9)
+- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
+- [No Goodbyes by DJ Roody](https://open.spotify.com/track/48Pa7ntqupTvlLITQ19PSD)
+- [Better Off by Gelida, Otto Palmborg](https://open.spotify.com/track/060fhpsuxVD7273RwK1XtF)
+- [Walk Away by P.A.V](https://open.spotify.com/track/4nzZYDgs2sOA2DLDpyO1Ui)
+- [Found You by Dallien, Danny CLLS](https://open.spotify.com/track/1vwvI9wE5GBDN6rtqp4VdK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
