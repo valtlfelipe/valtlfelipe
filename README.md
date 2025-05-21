@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (2 days ago)
 
 #### 🎧 What I have been listening
-- [Kiss Me by P.A.V](https://open.spotify.com/track/16FdpIf1BOoRi0KdTlLf1y)
-- [Right On Time by Panuma, Nina Carr](https://open.spotify.com/track/5OeQIoGuZXu0ufLlYsILza)
-- [Leaning On by Lost In Pacific](https://open.spotify.com/track/0XTP9ROE79nid8m6OoAGgZ)
-- [Keep on Rising by LUMINAE, SENATVS, Femme](https://open.spotify.com/track/1B5eGblMp5sHqROyvx64on)
-- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
+- [Deep Waters by Hobes](https://open.spotify.com/track/3nIPnFIIv3nc3jMwAF6KOf)
+- [Rock With You by Viva La Panda, The Chillers](https://open.spotify.com/track/62zDa4diK8Xa75q1YiTPce)
+- [How Deep Is Your Love by fwd/slash](https://open.spotify.com/track/6whE9W4LkAaTyltd0Y44jm)
+- [For Me by Dallien, RVPTR, Spagbo](https://open.spotify.com/track/0PJCvbrQc5Dbccq5pcQ2D3)
+- [Sing It Back by Vic Laos, Emilie McDade](https://open.spotify.com/track/4DicVDyPHuVrPI4fDbvQ3t)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
