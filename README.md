@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (2 days ago)
 
 #### 🎧 What I have been listening
+- [Kiss Me by P.A.V](https://open.spotify.com/track/16FdpIf1BOoRi0KdTlLf1y)
+- [Right On Time by Panuma, Nina Carr](https://open.spotify.com/track/5OeQIoGuZXu0ufLlYsILza)
+- [Leaning On by Lost In Pacific](https://open.spotify.com/track/0XTP9ROE79nid8m6OoAGgZ)
+- [Keep on Rising by LUMINAE, SENATVS, Femme](https://open.spotify.com/track/1B5eGblMp5sHqROyvx64on)
 - [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
-- [No Goodbyes by DJ Roody](https://open.spotify.com/track/48Pa7ntqupTvlLITQ19PSD)
-- [Better Off by Gelida, Otto Palmborg](https://open.spotify.com/track/060fhpsuxVD7273RwK1XtF)
-- [Walk Away by P.A.V](https://open.spotify.com/track/4nzZYDgs2sOA2DLDpyO1Ui)
-- [Found You by Dallien, Danny CLLS](https://open.spotify.com/track/1vwvI9wE5GBDN6rtqp4VdK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
