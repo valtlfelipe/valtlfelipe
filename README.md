@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (2 days ago)
 
 #### 🎧 What I have been listening
+- [Under The Surface by Sultan &#43; Shepard, Nathan Nicholson](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1)
+- [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
+- [24 (Turn It Up) (Radio Edit) by ANOTR, Kurtis Wells](https://open.spotify.com/track/5hLiKFmVc7vRUKTvnlpJYR)
+- [I can share my love with you by Bassi Fox](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl)
 - [My Love (2024) by Alex Wann, Route 94, Jess Glynne](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk)
-- [Talking Like That by Le Youth, EMME](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF)
-- [U Can Be Lonely by Courage](https://open.spotify.com/track/144L4jXWPTvI0DKh2vhjV3)
-- [Feels Like This by Hessian](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC)
-- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
