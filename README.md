@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[muliswilliam/webhook-tester](https://github.com/muliswilliam/webhook-tester)** - A lightweight, developer-friendly platform for testing and debugging webhooks — built in Go. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
 - [Back In Time by Freyer, Joel Winterflood](https://open.spotify.com/track/0FdVLK98RAdEoQNZnftoGh)
 - [Blue by Lane Boy, Madishu](https://open.spotify.com/track/1l5ipHNDNpClF6yE6Qy7yx)
 - [Storyline by Lane Boy, Joel Winterflood](https://open.spotify.com/track/697ir6mAD2jSKnocAgcU8a)
 - [Stand Up by LUMINAE, POOLSE](https://open.spotify.com/track/26T6jZM9T1CMKsHLj4OFEi)
-- [Crescendo by TRIP RGAZZI](https://open.spotify.com/track/3YyiGgEy03Pr8MFy3apUE9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
