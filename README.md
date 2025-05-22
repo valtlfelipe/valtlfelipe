@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (3 days ago)
 
 #### 🎧 What I have been listening
-- [Howl - Chill Mix by Elderbrook, Tourist](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF)
-- [Gaze Up (feat. Antonio Blakstad) by Rosbeh, Antonio Blakstad](https://open.spotify.com/track/0TpGRIvJhZuNpGbZ79nM2d)
-- [Rolling Back by TWO LANES, Panama](https://open.spotify.com/track/335EcT0oI5889ZgM0q413d)
-- [Complicated (with Fridayy) by DJ Snake, Fridayy](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ)
-- [Closer To The Floor by Jazzy, Ankhoï](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu)
+- [One Last Call by Ben Böhmer, Felix Raphael](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq)
+- [Both Of Us - Edit by Jayda G](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv)
+- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
+- [Jump by Levi](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh)
+- [All Good - Jasper Tygner Remix by Pretty Girl, Jasper Tygner](https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
