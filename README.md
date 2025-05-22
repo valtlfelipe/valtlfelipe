@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (3 days ago)
 
 #### 🎧 What I have been listening
-- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
-- [Neverender - Rampa Remix by Justice, Tame Impala, Rampa, Keinemusik](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS)
-- [El Layali by Claudius Lawdy](https://open.spotify.com/track/3fvykC6h0K8V7zpWroIkhE)
-- [Under The Surface by Sultan &#43; Shepard, Nathan Nicholson](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1)
-- [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
+- [Howl - Chill Mix by Elderbrook, Tourist](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF)
+- [Gaze Up (feat. Antonio Blakstad) by Rosbeh, Antonio Blakstad](https://open.spotify.com/track/0TpGRIvJhZuNpGbZ79nM2d)
+- [Rolling Back by TWO LANES, Panama](https://open.spotify.com/track/335EcT0oI5889ZgM0q413d)
+- [Complicated (with Fridayy) by DJ Snake, Fridayy](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ)
+- [Closer To The Floor by Jazzy, Ankhoï](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
