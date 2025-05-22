@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (3 days ago)
 
 #### 🎧 What I have been listening
-- [Missing You by Eli &amp; Fur](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq)
-- [Fire To Fire by Eli &amp; Fur](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6)
-- [Falling Apart by Catching Flies](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA)
-- [Wild Skies by Eli &amp; Fur](https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ)
-- [DON&#39;T KNOW WHERE I&#39;M GOING by YOURS](https://open.spotify.com/track/3NV2Ja2YhcmbgIR18JeMFS)
+- [deserve u by elsaaa](https://open.spotify.com/track/6htvJqQBbYezKhpx1c7R6j)
+- [Don&#39;t Go by Freyer, Dean Andrew](https://open.spotify.com/track/77wEGhkdprZZOuPa0Uxbos)
+- [Delusion by Dj Vianu](https://open.spotify.com/track/3lfXIjBaYSsThDHwKiHzV3)
+- [Magical by ERIICE](https://open.spotify.com/track/5VA2c8Aar01z7Lxzkkis1f)
+- [Circles by Arley, Descend](https://open.spotify.com/track/1WcHzgV2y90SZWXLORBxLK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
