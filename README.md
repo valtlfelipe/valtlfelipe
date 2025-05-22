@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (3 days ago)
 
 #### 🎧 What I have been listening
-- [Rakata by BACOLE, AFROTECH](https://open.spotify.com/track/1ALPWTB3jaxN3DmujMLHdz)
-- [Skin by EMOTIONAL, Eleonora](https://open.spotify.com/track/1dIgMBhevUWAxpJr5WRUh3)
-- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
-- [Fasi by AFROTECH](https://open.spotify.com/track/518Cgat7L0xemUegHYhMFY)
-- [State Of Mind by Lucas Estrada, Nathan Nicholson](https://open.spotify.com/track/3hFZKtaahPCqZ73sQPHrZD)
+- [If You Really Love Me (How Will I Know) by David Guetta, MistaJam, John Newman](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd)
+- [Fly Away by Tones And I](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76)
+- [This Groove by Oliver Heldens, Lenno](https://open.spotify.com/track/6ZvLKwgPKlyZtDPkTWjPI7)
+- [Night After Night by the Giver](https://open.spotify.com/track/600rqke0UjhlbWwiKzfALQ)
+- [Pasa Pasa by AFROTECH, Lucas Estrada](https://open.spotify.com/track/4KRQLQgSKHkgsPsyBw1DRp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
