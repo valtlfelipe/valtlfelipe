@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (3 days ago)
 
 #### 🎧 What I have been listening
-- [One Last Call by Ben Böhmer, Felix Raphael](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq)
-- [Both Of Us - Edit by Jayda G](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv)
-- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
-- [Jump by Levi](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh)
-- [All Good - Jasper Tygner Remix by Pretty Girl, Jasper Tygner](https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH)
+- [Missing You by Eli &amp; Fur](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq)
+- [Fire To Fire by Eli &amp; Fur](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6)
+- [Falling Apart by Catching Flies](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA)
+- [Wild Skies by Eli &amp; Fur](https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ)
+- [DON&#39;T KNOW WHERE I&#39;M GOING by YOURS](https://open.spotify.com/track/3NV2Ja2YhcmbgIR18JeMFS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
