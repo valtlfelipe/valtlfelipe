@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (3 days ago)
 
 #### 🎧 What I have been listening
-- [Save Me Now by RadWulf, AdamDarling](https://open.spotify.com/track/6qjyE7iMNenO20i8hNMdwB)
-- [Baille by ERIICE](https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73)
-- [Sol by AFROTECH](https://open.spotify.com/track/2sisbPAeHzoylntRCSsiRe)
-- [Galaxy From Home by Aludra](https://open.spotify.com/track/1BTsjlr9xjyhsW8venOXrc)
-- [Your Body by Marten Lou](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3)
+- [Rakata by BACOLE, AFROTECH](https://open.spotify.com/track/1ALPWTB3jaxN3DmujMLHdz)
+- [Skin by EMOTIONAL, Eleonora](https://open.spotify.com/track/1dIgMBhevUWAxpJr5WRUh3)
+- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
+- [Fasi by AFROTECH](https://open.spotify.com/track/518Cgat7L0xemUegHYhMFY)
+- [State Of Mind by Lucas Estrada, Nathan Nicholson](https://open.spotify.com/track/3hFZKtaahPCqZ73sQPHrZD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
