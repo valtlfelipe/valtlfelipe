@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (3 days ago)
 
 #### 🎧 What I have been listening
+- [Baddie by Tom Enzy, Lucas Estrada, Tanaka](https://open.spotify.com/track/5KtlC6MvNXOBhpURrCWaiC)
+- [Birthday Sex (feat. Jeremih) - Levi Mix by Levi, Jeremih](https://open.spotify.com/track/334RaRoiRG89vt0LCEZ6L0)
+- [Searching by AFROTECH](https://open.spotify.com/track/7rwbVSnut3k4cOZHSWAX98)
+- [Pasa Pasa by AFROTECH, Lucas Estrada](https://open.spotify.com/track/4KRQLQgSKHkgsPsyBw1DRp)
 - [deserve u by elsaaa](https://open.spotify.com/track/6htvJqQBbYezKhpx1c7R6j)
-- [Don&#39;t Go by Freyer, Dean Andrew](https://open.spotify.com/track/77wEGhkdprZZOuPa0Uxbos)
-- [Delusion by Dj Vianu](https://open.spotify.com/track/3lfXIjBaYSsThDHwKiHzV3)
-- [Magical by ERIICE](https://open.spotify.com/track/5VA2c8Aar01z7Lxzkkis1f)
-- [Circles by Arley, Descend](https://open.spotify.com/track/1WcHzgV2y90SZWXLORBxLK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
