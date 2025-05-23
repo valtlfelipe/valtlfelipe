@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (4 days ago)
 
 #### 🎧 What I have been listening
-- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
-- [No Sleep (feat. Bonn) by Martin Garrix, Bonn](https://open.spotify.com/track/1ahVFh0ViDZr8LvkEVlq3B)
-- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
-- [Heaven On My Mind (with Sigala) by Becky Hill, Sigala](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up)
-- [Love To Go by Lost Frequencies, Zonderling, Kelvin Jones](https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ)
+- [Tell It To My Heart by MEDUZA, Hozier](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA)
+- [Maybe You’re The Problem by Ava Max](https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D)
+- [Weekend Vibe by Jubël](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL)
+- [HISTORY by Joel Corry, Becky Hill](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN)
+- [Sweet Dreams by Alan Walker, Imanbek](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
