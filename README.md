@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[flowglad/flowglad](https://github.com/flowglad/flowglad)** - Open source payments &#43; billing infrastructure (4 days ago)
 
 #### 🎧 What I have been listening
-- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
-- [Lost it a Little by Lucas Estrada, PollyAnna](https://open.spotify.com/track/5P4hgCLqkd3EhPzsAfPqUG)
-- [Falling Forever by Dua Lipa](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1)
-- [Lonely Again by Becky Hill](https://open.spotify.com/track/6HHONxXw6BXNg2YSELJn1R)
-- [feelslikeimfallinginlove - Zerb x Coldplay by Coldplay, Zerb](https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt)
+- [Chase The Sunlight by TWINSICK, Saint Raymond](https://open.spotify.com/track/1nIAqhqw4Mo37zA41xm1h4)
+- [Tears Dry Tonight by CYRIL, James Blunt](https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ)
+- [These Walls by Dua Lipa](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py)
+- [Start a Thing by Lucas Estrada, Twan Ray, Solar State](https://open.spotify.com/track/2qkq4Trq4Sqd7JdrAhhmfi)
+- [ALL MY LOVE - PNAU x Coldplay by Coldplay, PNAU](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
