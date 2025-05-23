@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (4 days ago)
 
 #### 🎧 What I have been listening
-- [No One Dies From Love by Tove Lo](https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm)
-- [No One Dies From Love by Tove Lo](https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm)
-- [If You Really Love Me (How Will I Know) by David Guetta, MistaJam, John Newman](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd)
-- [Fly Away by Tones And I](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76)
-- [This Groove by Oliver Heldens, Lenno](https://open.spotify.com/track/6ZvLKwgPKlyZtDPkTWjPI7)
+- [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U)
+- [Always Be There by Jonas Blue, Louisa Johnson](https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH)
+- [Alright (feat. KIDDO) by Alle Farben, KIDDO](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp)
+- [Shooting Darts (with R3HAB &amp; Prezioso) by Dimitri Vegas &amp; Like Mike, R3HAB, Prezioso](https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n)
+- [Heaven by Avicii](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
