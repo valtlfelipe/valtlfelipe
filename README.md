@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (4 days ago)
 
 #### 🎧 What I have been listening
-- [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U)
-- [Always Be There by Jonas Blue, Louisa Johnson](https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH)
-- [Alright (feat. KIDDO) by Alle Farben, KIDDO](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp)
-- [Shooting Darts (with R3HAB &amp; Prezioso) by Dimitri Vegas &amp; Like Mike, R3HAB, Prezioso](https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n)
-- [Heaven by Avicii](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ)
+- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
+- [No Sleep (feat. Bonn) by Martin Garrix, Bonn](https://open.spotify.com/track/1ahVFh0ViDZr8LvkEVlq3B)
+- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
+- [Heaven On My Mind (with Sigala) by Becky Hill, Sigala](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up)
+- [Love To Go by Lost Frequencies, Zonderling, Kelvin Jones](https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
