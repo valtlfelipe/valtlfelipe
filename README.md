@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (4 days ago)
 
 #### 🎧 What I have been listening
-- [Tell It To My Heart by MEDUZA, Hozier](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA)
-- [Maybe You’re The Problem by Ava Max](https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D)
-- [Weekend Vibe by Jubël](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL)
-- [HISTORY by Joel Corry, Becky Hill](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN)
-- [Sweet Dreams by Alan Walker, Imanbek](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp)
+- [Don&#39;t Call Me by Brando](https://open.spotify.com/track/4bjyJV8VRlEEMWxq2fhRGS)
+- [Man On The Moon by Alan Walker, Benjamin Ingrosso](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj)
+- [Sunshine by OneRepublic](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B)
+- [Caught Up (with Olivia O&#39;Brien) by Gryffin, Olivia O&#39;Brien](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1)
+- [Messy by Lola Young](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
