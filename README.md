@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[flowglad/flowglad](https://github.com/flowglad/flowglad)** - Open source payments &#43; billing infrastructure (4 days ago)
 
 #### 🎧 What I have been listening
-- [Dancing in the Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
-- [Bittersweet Symphony by GAMPER &amp; DADONI, Emily Roberts](https://open.spotify.com/track/0Gp23ds4JDUwan98IfNNL5)
-- [Close Your Eyes by Felix Jaehn, VIZE, Miss Li](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6)
-- [Bad Habits by Ed Sheeran](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d)
-- [Let&#39;s Love by David Guetta, Sia](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS)
+- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
+- [Lost it a Little by Lucas Estrada, PollyAnna](https://open.spotify.com/track/5P4hgCLqkd3EhPzsAfPqUG)
+- [Falling Forever by Dua Lipa](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1)
+- [Lonely Again by Becky Hill](https://open.spotify.com/track/6HHONxXw6BXNg2YSELJn1R)
+- [feelslikeimfallinginlove - Zerb x Coldplay by Coldplay, Zerb](https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
