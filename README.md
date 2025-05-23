@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[deskmatik/deskmatik](https://github.com/deskmatik/deskmatik)** - Open source smart desk controller https://deskmatik.com (4 days ago)
 
 #### 🎧 What I have been listening
-- [Don&#39;t Call Me by Brando](https://open.spotify.com/track/4bjyJV8VRlEEMWxq2fhRGS)
-- [Man On The Moon by Alan Walker, Benjamin Ingrosso](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj)
-- [Sunshine by OneRepublic](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B)
-- [Caught Up (with Olivia O&#39;Brien) by Gryffin, Olivia O&#39;Brien](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1)
-- [Messy by Lola Young](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g)
+- [For You (With Rita Ora) by Liam Payne, Rita Ora](https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU)
+- [BED by Joel Corry, RAYE, David Guetta](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS)
+- [Radio by Sigala, MNEK](https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK)
+- [Fever by Dua Lipa, Angèle](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny)
+- [Damn (You’ve Got Me Saying) by Galantis, David Guetta, MNEK](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
