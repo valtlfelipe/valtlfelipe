@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[flowglad/flowglad](https://github.com/flowglad/flowglad)** - Open source payments &#43; billing infrastructure (5 days ago)
 
 #### 🎧 What I have been listening
-- [Chase The Sunlight by TWINSICK, Saint Raymond](https://open.spotify.com/track/1nIAqhqw4Mo37zA41xm1h4)
-- [Tears Dry Tonight by CYRIL, James Blunt](https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ)
-- [These Walls by Dua Lipa](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py)
-- [Start a Thing by Lucas Estrada, Twan Ray, Solar State](https://open.spotify.com/track/2qkq4Trq4Sqd7JdrAhhmfi)
-- [ALL MY LOVE - PNAU x Coldplay by Coldplay, PNAU](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN)
+- [White Flag by Viva La Panda, The Chillers, Namté](https://open.spotify.com/track/3hEcKlXImsPE6hpQx7LZCW)
+- [Trouble by TWOPILOTS](https://open.spotify.com/track/5RcwBBCCWOEWefMm3fZ9TS)
+- [Little Talks by Braaten, JANU, RÆ](https://open.spotify.com/track/21SL3invVSD4Ox35PBO5Ao)
+- [Skyline by Giulio Cercato](https://open.spotify.com/track/69b5loxUN41UyOVwclpn8b)
+- [Rainbow Gold by Aron Matthews, ODBLU](https://open.spotify.com/track/3tCBmFBMca0T38yegddt8H)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
