@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[flowglad/flowglad](https://github.com/flowglad/flowglad)** - Open source payments &#43; billing infrastructure (5 days ago)
 
 #### 🎧 What I have been listening
+- [Happy For You by Dua Lipa](https://open.spotify.com/track/05oC2UvKDcx0cY2wg9gzKC)
+- [Darkest Hour by Becky Hill](https://open.spotify.com/track/0rX4zPMMpg8IhCKElJp8lp)
 - [Part Time Lover by Nicky Youre](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa)
 - [Young Again by Don Diablo, Sandro Cavazza](https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs)
 - [Rose Garden by Lucas Estrada, Lost Ways](https://open.spotify.com/track/0UiQQoQT0ZfPTGogNR2Qpj)
-- [THE REASON (feat. John Newman) by Gryffin, John Newman](https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o)
-- [These Walls by Dua Lipa](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
