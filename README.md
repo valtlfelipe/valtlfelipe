@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[flowglad/flowglad](https://github.com/flowglad/flowglad)** - Open source payments &#43; billing infrastructure (5 days ago)
 
 #### 🎧 What I have been listening
-- [White Flag by Viva La Panda, The Chillers, Namté](https://open.spotify.com/track/3hEcKlXImsPE6hpQx7LZCW)
-- [Trouble by TWOPILOTS](https://open.spotify.com/track/5RcwBBCCWOEWefMm3fZ9TS)
-- [Little Talks by Braaten, JANU, RÆ](https://open.spotify.com/track/21SL3invVSD4Ox35PBO5Ao)
-- [Skyline by Giulio Cercato](https://open.spotify.com/track/69b5loxUN41UyOVwclpn8b)
-- [Rainbow Gold by Aron Matthews, ODBLU](https://open.spotify.com/track/3tCBmFBMca0T38yegddt8H)
+- [Walking On A Dream by Braaten, One Trick Pony, Kilma](https://open.spotify.com/track/168j21rfvVnyptl3ctjO5h)
+- [All I Think About by Tobÿ, One Trick Pony](https://open.spotify.com/track/7JbpzzQ9bM1gprjgTsBJOP)
+- [Fade Into You by Nexeri, Sabina Mach](https://open.spotify.com/track/0fSJlpyI5y6XWZ0Nqk421Y)
+- [Drifting Away by Aron Matthews, Maxiz, Saintro P Sax Up](https://open.spotify.com/track/3yeuG4c0lmwuHwFWD4W4dm)
+- [Stop Playing With My Heart by Viva La Panda](https://open.spotify.com/track/4riplbh3UAhvXpffohPDkr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
