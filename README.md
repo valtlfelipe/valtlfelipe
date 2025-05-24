@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[flowglad/flowglad](https://github.com/flowglad/flowglad)** - Open source payments &#43; billing infrastructure (5 days ago)
 
 #### 🎧 What I have been listening
-- [I Like Me Better by TWOPILOTS](https://open.spotify.com/track/349Av8zxL82Cwas5CZk0hH)
-- [Feel Invisible by Lost In Reveries, ROBINS](https://open.spotify.com/track/4788vVadOEMH5pSoX6ZnEk)
-- [Without You by Nexeri, J.A.E, AALLAR](https://open.spotify.com/track/71HeFc865goYnFkklPEvXD)
-- [Feel by Daniel Santoro](https://open.spotify.com/track/3V3HFh3y4PWapD3eLn2N5G)
-- [In My Way by Viva La Panda, Swizznife, Justin Rhodes](https://open.spotify.com/track/4qeCcKvvCfmsgYTR47cCrz)
+- [Summer Of Love by James Carter, Leony, Sam Fischer](https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g)
+- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
+- [Swim by Becky Hill](https://open.spotify.com/track/5Bnm9QxfBKxc1sNvZanTBT)
+- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
+- [Funeral by Teddy Swims](https://open.spotify.com/track/0NckAiGfjwxWfRGaeC8eEB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
