@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[flowglad/flowglad](https://github.com/flowglad/flowglad)** - Open source payments &#43; billing infrastructure (6 days ago)
 
 #### 🎧 What I have been listening
+- [Say Tell Me - Maya Jane Coles Remix by TOKiMONSTA, Maya Jane Coles](https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk)
 - [On My Mind by Tom Everett](https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej)
 - [Famax by RAFFA GUIDO](https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz)
 - [Marabelle by Anish Kumar](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm)
 - [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
-- [My Love (2024) by Alex Wann, Route 94, Jess Glynne](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
