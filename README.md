@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[outpoot/twoblade](https://github.com/outpoot/twoblade)** - Interface and reference implementation of SHARP (Self-Hosted Address Routing Protocol) — a decentralized email system that uses the # symbol for addressing (e.g., user#domain.com). https://twoblade.com (1 week ago)
 
 #### 🎧 What I have been listening
-- [Falling by Naws, Marksman, Ayca](https://open.spotify.com/track/3tk5kZ2dGjRMJ2VA2WGA1Z)
-- [If We Could Fly by Summer Is Calling, Soul Dhamma](https://open.spotify.com/track/7lrrMXyShyiRnruh9nLBNb)
-- [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
-- [can&#39;t hold the light by puulse, Nick Shadow, ALSO ASTIR](https://open.spotify.com/track/4DBmErhbpFFYN1ugnu4wCy)
-- [Without You by DIARO](https://open.spotify.com/track/67H60wAZYXq29xm45F0ZiT)
+- [Something Stronger - Extended by Rules, SHYA, Coldabank](https://open.spotify.com/track/15kmNeLNr4OoZSDCwbCMQf)
+- [Keep Running by Ali Bakgor](https://open.spotify.com/track/73v4H3CSp3gazlT3SDB7Bv)
+- [LEAVE IT ALL BEHIND by Alex LeMirage](https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq)
+- [Slide A Little by Chestford](https://open.spotify.com/track/2MvdpGMLEK08L6lWcLqPpM)
+- [Save My Soul by Freyer, Joel Winterflood](https://open.spotify.com/track/7hcldMED72sE2XCGOpy90q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
