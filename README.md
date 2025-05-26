@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[rivet-gg/rivet](https://github.com/rivet-gg/rivet)** - 🔩 Serverless for stateful backends (6 days ago)
 
 #### 🎧 What I have been listening
-- [Venture - Mixed by Guy Didden](https://open.spotify.com/track/7M1M5xTBp0PkJm8aJ0kXPi)
-- [Autumn Leaves by w.ill](https://open.spotify.com/track/4FxdriRA0ZaRMZ17QktZdZ)
-- [Perfect Strangers by NOAM](https://open.spotify.com/track/7pOg9j3SPXF2v2FMnuW3LA)
-- [Sun In The Morning by Fabio Vee, Dafnesia](https://open.spotify.com/track/1wSie9qjrg8CwJCbEvIWlC)
-- [Dreaming Is All I Have Left by Nico de Andrea, Lola Melita](https://open.spotify.com/track/0NMjqHIVFRKm5cBA8rIPaS)
+- [Aquarium by Fabio Vee, Dafnesia](https://open.spotify.com/track/1LaCTAwXhXDDEePQb4Rabn)
+- [Hit The Ground by Nick Raff](https://open.spotify.com/track/2iWJTXzBPvMu6x7qA9onF1)
+- [Natural by Velvet Lounge Project](https://open.spotify.com/track/4R6sdsnM4sapDV8YL0CCtH)
+- [Champion by NOAM, Moise](https://open.spotify.com/track/2xSNtkwrWegJG3cqIB21q0)
+- [You Move Me in Your Silence by DJ JEDY, Hakdeep](https://open.spotify.com/track/3yyW6vuYbmOKrSQ9rr6mFk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
