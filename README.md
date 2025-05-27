@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[rivet-gg/rivet](https://github.com/rivet-gg/rivet)** - 🔩 Serverless for stateful backends (1 week ago)
 
 #### 🎧 What I have been listening
-- [Aquarium by Fabio Vee, Dafnesia](https://open.spotify.com/track/1LaCTAwXhXDDEePQb4Rabn)
-- [Hit The Ground by Nick Raff](https://open.spotify.com/track/2iWJTXzBPvMu6x7qA9onF1)
-- [Natural by Velvet Lounge Project](https://open.spotify.com/track/4R6sdsnM4sapDV8YL0CCtH)
-- [Champion by NOAM, Moise](https://open.spotify.com/track/2xSNtkwrWegJG3cqIB21q0)
-- [You Move Me in Your Silence by DJ JEDY, Hakdeep](https://open.spotify.com/track/3yyW6vuYbmOKrSQ9rr6mFk)
+- [Life by Markvard](https://open.spotify.com/track/1cl304wrBBJd8Ipo1GadZO)
+- [Another Day by w.ill](https://open.spotify.com/track/1gTdkByCgMwONojmtR1PQY)
+- [Chilling Under The Sun by Sunlight Project](https://open.spotify.com/track/3cgVEO8YuqeBJBr4HfREZ9)
+- [Mina Kupenda by Thierry Von Der Warth, joki, Mugisho](https://open.spotify.com/track/5tsSdgnZLNhVt78voyyjju)
+- [With You (feat. Coline) by Sterkøl, Weazley, Coline](https://open.spotify.com/track/59pHb4NjHahwNvXO8GZdnL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
