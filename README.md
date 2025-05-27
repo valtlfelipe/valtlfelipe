@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)** (4 days ago)
 
 #### 🎧 What I have been listening
-- [I Know by Topsy Crettz](https://open.spotify.com/track/6PexGGSsqwfiMcMFG4DAUk)
-- [CHIHIRO by Lost Ways](https://open.spotify.com/track/5XNQDEIZEq3aCYQznCSVEW)
-- [We Are Infinity by TEMP!E](https://open.spotify.com/track/3B3mdE76mX8UvLI3cqh8jR)
-- [I&#39;m Sorry by Second Sun](https://open.spotify.com/track/2FAMLWLM7BNIoSwIZFhqjM)
-- [Heartfelt (Let The Fire In) by TRIP RGAZZI](https://open.spotify.com/track/2QM4kcnuayYjtE1tp8xYPC)
+- [Fast by FUNFUN, Dallien](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I)
+- [Open Your Eyes by Nick Raff](https://open.spotify.com/track/3Ebt1WALSn914WYdfCKV4B)
+- [Shadows of Hope by shandr](https://open.spotify.com/track/2BZkGV76u8HlR9vzUxhUJE)
+- [Beautiful by MEHÍLOVE](https://open.spotify.com/track/7j8Z0m6OGYBi7pDQD0aAug)
+- [Milkyway by Sum Wave](https://open.spotify.com/track/528FLI8KzcnKoedVS3o6WG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
