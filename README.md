@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)** (4 days ago)
 
 #### 🎧 What I have been listening
-- [Yours by Hobes, maybealice](https://open.spotify.com/track/5f9U9PhdvhOaIc8WJ4wocy)
-- [Black &amp; Blue by LEVII, KING LX](https://open.spotify.com/track/1xkuVT4MG9Rwa1V8dbyaqh)
-- [Coming Out Alive - Radio Edit by Propellar](https://open.spotify.com/track/45zsgOeY1YXPoLjUB3CG2o)
-- [Take Me Over by Neascape](https://open.spotify.com/track/44UfNiNi8WwvwKow9JrFBq)
-- [Never Leave Me by Johannes Jungleson, Neon Zebra](https://open.spotify.com/track/5qS1FQ7lH45Q5tGpRmCiXJ)
+- [I Know by Topsy Crettz](https://open.spotify.com/track/6PexGGSsqwfiMcMFG4DAUk)
+- [CHIHIRO by Lost Ways](https://open.spotify.com/track/5XNQDEIZEq3aCYQznCSVEW)
+- [We Are Infinity by TEMP!E](https://open.spotify.com/track/3B3mdE76mX8UvLI3cqh8jR)
+- [I&#39;m Sorry by Second Sun](https://open.spotify.com/track/2FAMLWLM7BNIoSwIZFhqjM)
+- [Heartfelt (Let The Fire In) by TRIP RGAZZI](https://open.spotify.com/track/2QM4kcnuayYjtE1tp8xYPC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
