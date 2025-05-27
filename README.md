@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[rivet-gg/rivet](https://github.com/rivet-gg/rivet)** - 🔩 Serverless for stateful backends (1 week ago)
 
 #### 🎧 What I have been listening
-- [Life by Markvard](https://open.spotify.com/track/1cl304wrBBJd8Ipo1GadZO)
-- [Another Day by w.ill](https://open.spotify.com/track/1gTdkByCgMwONojmtR1PQY)
-- [Chilling Under The Sun by Sunlight Project](https://open.spotify.com/track/3cgVEO8YuqeBJBr4HfREZ9)
-- [Mina Kupenda by Thierry Von Der Warth, joki, Mugisho](https://open.spotify.com/track/5tsSdgnZLNhVt78voyyjju)
-- [With You (feat. Coline) by Sterkøl, Weazley, Coline](https://open.spotify.com/track/59pHb4NjHahwNvXO8GZdnL)
+- [LUCKY U by TIANBO, Aidan Auci](https://open.spotify.com/track/1odDnUzZVx5SN44vZDdP2z)
+- [Swimming With Sirens by Elypsis, Taglo](https://open.spotify.com/track/0ptAkzMgMdxD5ZhKGQ5bNy)
+- [In the Dark by Johannes Jungleson](https://open.spotify.com/track/5xjSQoO3UlQEzyrJEyfcah)
+- [Happy by Markvard](https://open.spotify.com/track/7kR5HsPgHs02TUxjuiWzex)
+- [Away by Topic, Sofiya Nzau](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
