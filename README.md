@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[rivet-gg/rivet](https://github.com/rivet-gg/rivet)** - 🔩 Serverless for stateful backends (1 week ago)
 
 #### 🎧 What I have been listening
-- [Only Good Vibes by sundraze](https://open.spotify.com/track/6Wvy3U73hGxpdgkVmYTr9G)
-- [Drive by Markvard](https://open.spotify.com/track/6BeiZqTbLYzJp5bJjMC2Qa)
-- [Unbound by Klur, BJOERN](https://open.spotify.com/track/4helZ9CsKDRX0aO7ogIQTv)
-- [Staring at the Sun by Sunlight Project](https://open.spotify.com/track/488lVrQ59RsG05eHZUF3FP)
-- [Still Miss You by shandr](https://open.spotify.com/track/5YX5e9uUODhzRCr9qYOvMg)
+- [All Those Years by Stoto](https://open.spotify.com/track/2gE3dV1UUqxfbCaxaL48g9)
+- [Heavy by Nick Raff](https://open.spotify.com/track/0qvU7Gi8jD921pmyWGuqI6)
+- [Delirious by Dye O, Vicki Vox](https://open.spotify.com/track/54D96y28HGVkPth1H4zdnB)
+- [New Hope by Qualysto](https://open.spotify.com/track/6OxgJeggAHg8rWE3KaReoe)
+- [Falling Out Of Love by Markvard, Pierse](https://open.spotify.com/track/1nSODcTJ4fuXk8HreYKWSR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
