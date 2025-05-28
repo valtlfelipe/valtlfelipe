@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[livestorejs/livestore](https://github.com/livestorejs/livestore)** - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine. (1 day ago)
 
 #### 🎧 What I have been listening
+- [Hypnotised by RÜFÜS DU SOL](https://open.spotify.com/track/6bSDNRvJpDkwSNTKjSanwX)
+- [Innerbloom by RÜFÜS DU SOL](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)
 - [Cry for You by September](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao)
 - [Koshi by Living Room, Otaam](https://open.spotify.com/track/2tkZRKUSuWbwhQoYeVnqCZ)
 - [Feelin Warm by Pandrezz](https://open.spotify.com/track/1SGBBPRoQxH630IchH0Zne)
-- [Falling by Naws, Marksman, Ayca](https://open.spotify.com/track/3tk5kZ2dGjRMJ2VA2WGA1Z)
-- [Belly Dancer by Imanbek, BYOR](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
