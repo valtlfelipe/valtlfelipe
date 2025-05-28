@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[logscore/Nimbus](https://github.com/logscore/Nimbus)** - An open source alternative to Google Drive, One Drive, iCloud, etc. (2 days ago)
 
 #### 🎧 What I have been listening
+- [Let&#39;s Ride Away by Avicii, Elle King](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb)
+- [The Door by Teddy Swims](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon)
+- [The Door by Teddy Swims](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon)
 - [Carry You Home by Alex Warren](https://open.spotify.com/track/1wOp7yTVyH176bW1z9WAiv)
 - [Bad Dreams by Teddy Swims](https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav)
-- [Ordinary by Alex Warren](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe)
-- [Carry You Home by Alex Warren](https://open.spotify.com/track/1wOp7yTVyH176bW1z9WAiv)
-- [Say by Xaron, TRBLE CHLD](https://open.spotify.com/track/6cOYcG8GDn6SxOQ42lUmpd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
