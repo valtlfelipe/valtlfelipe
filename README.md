@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[livestorejs/livestore](https://github.com/livestorejs/livestore)** - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine. (1 day ago)
 
 #### 🎧 What I have been listening
-- [Hammer to the Heart by Teddy Swims](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ)
-- [Beautiful Things by Benson Boone](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii)
-- [Think Of Me by HUGEL, David Guetta, Kehlani, Daecolm](https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS)
-- [GOOD DAY by Forrest Frank](https://open.spotify.com/track/0vC82BouGPXm6X2K60RfQw)
-- [Burning Down (with Joe Jonas) by Alex Warren, Joe Jonas](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1)
+- [Lay Low by Tiësto](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt)
+- [21 Reasons (feat. Ella Henderson) by Nathan Dawe, Ella Henderson](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [There She Goes by CYRIL, MOONLGHT, The La&#39;s](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7)
+- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
