@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[livestorejs/livestore](https://github.com/livestorejs/livestore)** - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine. (1 day ago)
 
 #### 🎧 What I have been listening
-- [My Love by Route 94, Jess Glynne](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU)
-- [Are You With Me by Lost Frequencies](https://open.spotify.com/track/4255amV4enzl28KAn16rUO)
-- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/0yAcyZzElbaGwa3eIqRk7t)
-- [Unstoppable - R3HAB Remix by Sia, R3HAB](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq)
-- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
+- [Higher Love by Kygo, Whitney Houston](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY)
+- [Is This Love - Remix by Bob Marley &amp; The Wailers, LVNDSCAPE, Bolier](https://open.spotify.com/track/1G8yVHxDLlEjDAt02Dfbmi)
+- [This Is What It Feels Like by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9)
+- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
+- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
