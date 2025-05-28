@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[logscore/Nimbus](https://github.com/logscore/Nimbus)** - An open source alternative to Google Drive, One Drive, iCloud, etc. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Pull Me In by Dallien, RVPTR, Natasha Ghosh](https://open.spotify.com/track/3t7qmA6TlgFvHCnM07ZkxO)
-- [Gun - Chill Edit by LEVII, Panuma, ODBLU](https://open.spotify.com/track/6oauAOe43OlnRBA9BusvSu)
-- [Sun Melt Waves by Öman](https://open.spotify.com/track/3JsMyHz79yTeGdqxeYUktq)
-- [Dusk &amp; Dawn by Sum Wave, Bye Ocean](https://open.spotify.com/track/700bvc7zXLdtU801Y7zctK)
-- [Galaxy From Home by Aludra](https://open.spotify.com/track/1BTsjlr9xjyhsW8venOXrc)
+- [Carry You Home by Alex Warren](https://open.spotify.com/track/1wOp7yTVyH176bW1z9WAiv)
+- [Bad Dreams by Teddy Swims](https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav)
+- [Ordinary by Alex Warren](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe)
+- [Carry You Home by Alex Warren](https://open.spotify.com/track/1wOp7yTVyH176bW1z9WAiv)
+- [Say by Xaron, TRBLE CHLD](https://open.spotify.com/track/6cOYcG8GDn6SxOQ42lUmpd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
