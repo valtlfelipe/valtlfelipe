@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[livestorejs/livestore](https://github.com/livestorejs/livestore)** - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine. (2 days ago)
 
 #### 🎧 What I have been listening
-- [SHE by The Blaze](https://open.spotify.com/track/16IzV3JdxmR3X10ZbWHlfB)
-- [Best Life by Ben Böhmer, JONAH](https://open.spotify.com/track/7fGQdbvLqB72In9mUF1EFB)
-- [Fire for You by Cannons](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig)
-- [Miss You - Extended by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/10LaWULFua6bDsV07I7opz)
-- [All I&#39;ve Got by RÜFÜS DU SOL](https://open.spotify.com/track/1LqcIO6jY4XEsObcuU5YiJ)
+- [Alone (feat. FEMME) by Cristoph, FEMME](https://open.spotify.com/track/6dsoPBbMuUodSUvhRW7Vr4)
+- [A Moment Apart by ODESZA](https://open.spotify.com/track/59wlTaYOL5tDUgXnbBQ3my)
+- [PLACES by The Blaze](https://open.spotify.com/track/6mW2IiQDrp66AUjCsRu6Kg)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [Brighter by RÜFÜS DU SOL](https://open.spotify.com/track/7D5gkUVhkLbe5e8qG1NqcZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
