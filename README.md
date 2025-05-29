@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (1 day ago)
 
 #### 🎧 What I have been listening
-- [Ghostkeeper by Klangkarussell, GIVVEN](https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC)
-- [Wide Awake by ODESZA, Charlie Houston](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB)
-- [Your Body by Marten Lou](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3)
-- [EYES by The Blaze](https://open.spotify.com/track/0VWfG35i4baw8AbN9hvYpS)
-- [Hypnotised by RÜFÜS DU SOL](https://open.spotify.com/track/6bSDNRvJpDkwSNTKjSanwX)
+- [Say My Name by ODESZA, Zyra](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed)
+- [Intro (Rework) - Remix by Vintage Culture, Bruno Be, Öwnboss, Ashibah](https://open.spotify.com/track/27py1Q0fMmpuSYiOAKBZPb)
+- [Diamond Veins (feat. Sarah Rebecca) by French 79, Sarah Rebecca](https://open.spotify.com/track/5G0oVoL309pqsvGDzhMOwx)
+- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
+- [We Left by RÜFÜS DU SOL](https://open.spotify.com/track/5DwCFw98zFDQFjIYMKhbkp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
