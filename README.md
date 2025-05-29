@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (1 day ago)
 
 #### 🎧 What I have been listening
-- [Maelstrom by Ben Böhmer](https://open.spotify.com/track/4ItMchWCT6d3acnzQfcpmy)
-- [QUEENS by The Blaze](https://open.spotify.com/track/6EjTmLZVdDfp66yawG1CDb)
-- [Like An Animal by RÜFÜS DU SOL](https://open.spotify.com/track/6dw1sbdCwW5sbsbcpq6QED)
-- [Beyond the Fire by Don Diablo](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8)
-- [Water Flow by Klyne](https://open.spotify.com/track/1gcbDj7nfYolTr09LklGlr)
+- [Weightless (jamesjamesjames Remix) by Ben Böhmer, Panama, jamesjamesjames](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC)
+- [More by Jan Blomqvist, Elena Pitoulis](https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE)
+- [I Will Find by Vintage Culture, Rooftime](https://open.spotify.com/track/2bbfiUnH4CATlekDS1dxNr)
+- [On My Knees by RÜFÜS DU SOL](https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu)
+- [Need To Feel Loved - Tinlicker Remix by Reflekt, delline bass, Tinlicker](https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
