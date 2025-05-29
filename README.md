@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (1 day ago)
 
 #### 🎧 What I have been listening
-- [Say My Name by ODESZA, Zyra](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed)
-- [Intro (Rework) - Remix by Vintage Culture, Bruno Be, Öwnboss, Ashibah](https://open.spotify.com/track/27py1Q0fMmpuSYiOAKBZPb)
-- [Diamond Veins (feat. Sarah Rebecca) by French 79, Sarah Rebecca](https://open.spotify.com/track/5G0oVoL309pqsvGDzhMOwx)
-- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
-- [We Left by RÜFÜS DU SOL](https://open.spotify.com/track/5DwCFw98zFDQFjIYMKhbkp)
+- [Maelstrom by Ben Böhmer](https://open.spotify.com/track/4ItMchWCT6d3acnzQfcpmy)
+- [QUEENS by The Blaze](https://open.spotify.com/track/6EjTmLZVdDfp66yawG1CDb)
+- [Like An Animal by RÜFÜS DU SOL](https://open.spotify.com/track/6dw1sbdCwW5sbsbcpq6QED)
+- [Beyond the Fire by Don Diablo](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8)
+- [Water Flow by Klyne](https://open.spotify.com/track/1gcbDj7nfYolTr09LklGlr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
