@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[livestorejs/livestore](https://github.com/livestorejs/livestore)** - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Alone (feat. FEMME) by Cristoph, FEMME](https://open.spotify.com/track/6dsoPBbMuUodSUvhRW7Vr4)
-- [A Moment Apart by ODESZA](https://open.spotify.com/track/59wlTaYOL5tDUgXnbBQ3my)
-- [PLACES by The Blaze](https://open.spotify.com/track/6mW2IiQDrp66AUjCsRu6Kg)
-- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
-- [Brighter by RÜFÜS DU SOL](https://open.spotify.com/track/7D5gkUVhkLbe5e8qG1NqcZ)
+- [VIRILE by The Blaze](https://open.spotify.com/track/397sfkANMRKEuchzPCvlFL)
+- [Innerbloom - Radio Edit by RÜFÜS DU SOL](https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf)
+- [Healing by TWO LANES](https://open.spotify.com/track/1Uofp6mHJxVhjAwAwQhQmh)
+- [Nightjar by Vintage Culture, Sonny Fodera, SHELLS](https://open.spotify.com/track/5CitBy0BX84RWHQki5Yu8u)
+- [Beyond Beliefs by Ben Böhmer](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
