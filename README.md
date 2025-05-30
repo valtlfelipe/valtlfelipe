@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (2 days ago)
 
 #### 🎧 What I have been listening
-- [Potion (with Dua Lipa &amp; Young Thug) by Calvin Harris, Dua Lipa, Young Thug](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06)
-- [For My Hand (feat. Ed Sheeran) by Burna Boy, Ed Sheeran](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff)
-- [Damn (You’ve Got Me Saying) by Galantis, David Guetta, MNEK](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj)
-- [Heaven On My Mind (with Sigala) by Becky Hill, Sigala](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up)
-- [For You (With Rita Ora) by Liam Payne, Rita Ora](https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU)
+- [Nirvana by A7S](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1)
+- [BED by Joel Corry, RAYE, David Guetta](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS)
+- [Paris by The Chainsmokers](https://open.spotify.com/track/15vzANxN8G9wWfwAJLLMCg)
+- [Don&#39;t Call Me by Brando](https://open.spotify.com/track/4bjyJV8VRlEEMWxq2fhRGS)
+- [Woke Up in Love by Kygo, Gryffin, Calum Scott](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
