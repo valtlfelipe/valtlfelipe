@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (2 days ago)
 
 #### 🎧 What I have been listening
-- [Moments - Ben Böhmer &amp; Nils Hoffmann Remix by Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0)
-- [When I Get There by Big Wild](https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS)
-- [Until We Leave the Ground - Steve James Remix by Emmit Fenn, Steve James](https://open.spotify.com/track/3LX6Bv3jfbABw1KQsYOYtZ)
-- [Last Night by Rivo](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq)
-- [Pegasus by MEDUZA, Eli &amp; Fur](https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ)
+- [Head &amp; Heart (feat. MNEK) by Joel Corry, MNEK](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9)
+- [Higher Power by Coldplay](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct)
+- [It’s Only - ODESZA VIP Remix by ODESZA, Zyra](https://open.spotify.com/track/2XyNLoEWc4IDt9OVzXZUXl)
+- [The Space In Between - Ben Böhmer Remix by Jan Blomqvist, Ben Böhmer](https://open.spotify.com/track/6QcU4iwfLjjsrW7zsqyc1D)
+- [Feel by Avi Snow, MVCA, Zeeba](https://open.spotify.com/track/4scxvvNN8Dhm5y4p54QamD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
