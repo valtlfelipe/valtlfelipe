@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (2 days ago)
 
 #### 🎧 What I have been listening
-- [Weightless (jamesjamesjames Remix) by Ben Böhmer, Panama, jamesjamesjames](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC)
-- [More by Jan Blomqvist, Elena Pitoulis](https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE)
-- [I Will Find by Vintage Culture, Rooftime](https://open.spotify.com/track/2bbfiUnH4CATlekDS1dxNr)
-- [On My Knees by RÜFÜS DU SOL](https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu)
-- [Need To Feel Loved - Tinlicker Remix by Reflekt, delline bass, Tinlicker](https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN)
+- [Simplicity Is Bliss by RÜFÜS DU SOL](https://open.spotify.com/track/56kscu4Wrnn8WdY1V0E6km)
+- [Come Together by Nox Vahn, Marsh](https://open.spotify.com/track/7n8sDrEcuMt0yezLDhIbnN)
+- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
+- [Moments by Kidnap, Leo Stannard](https://open.spotify.com/track/1wvAupRa6Ecs7aakOmt9bf)
+- [Until the Sun Needs to Rise by RÜFÜS DU SOL](https://open.spotify.com/track/1VJgMkxFY3JSgiUWZNeycd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
