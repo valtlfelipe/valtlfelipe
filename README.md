@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (2 days ago)
 
 #### 🎧 What I have been listening
-- [Nirvana by A7S](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1)
-- [BED by Joel Corry, RAYE, David Guetta](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS)
-- [Paris by The Chainsmokers](https://open.spotify.com/track/15vzANxN8G9wWfwAJLLMCg)
-- [Don&#39;t Call Me by Brando](https://open.spotify.com/track/4bjyJV8VRlEEMWxq2fhRGS)
-- [Woke Up in Love by Kygo, Gryffin, Calum Scott](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo)
+- [Heaven On My Mind (with Sigala) by Becky Hill, Sigala](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up)
+- [Somebody by Dagny](https://open.spotify.com/track/78AZoiQnRHHKY0mf9Iy4RD)
+- [Alright (feat. KIDDO) by Alle Farben, KIDDO](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp)
+- [You Know What I Need by PNAU, Troye Sivan](https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl)
+- [Close Your Eyes by Felix Jaehn, VIZE, Miss Li](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
