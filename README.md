@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (2 days ago)
 
 #### 🎧 What I have been listening
-- [Heaven On My Mind (with Sigala) by Becky Hill, Sigala](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up)
-- [Somebody by Dagny](https://open.spotify.com/track/78AZoiQnRHHKY0mf9Iy4RD)
-- [Alright (feat. KIDDO) by Alle Farben, KIDDO](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp)
-- [You Know What I Need by PNAU, Troye Sivan](https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl)
-- [Close Your Eyes by Felix Jaehn, VIZE, Miss Li](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6)
+- [4U by Ofenbach](https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw)
+- [Run by OneRepublic](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw)
+- [HISTORY by Joel Corry, Becky Hill](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN)
+- [Acapulco by Jason Derulo](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ)
+- [My Way by Calvin Harris](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
