@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (2 days ago)
 
 #### 🎧 What I have been listening
-- [Hometown by French 79](https://open.spotify.com/track/47x1Gh7yk5mblUWxWRdtjH)
-- [Hide U - Tinlicker Remix by Sian Evans, Tinlicker](https://open.spotify.com/track/5r43Rwy2cBKF6HQYIS41Bw)
-- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [SPARKS &amp; ASHES by The Blaze](https://open.spotify.com/track/3YDo9vofdadozleiiPTjUa)
-- [Take Me by RÜFÜS DU SOL](https://open.spotify.com/track/6W9blgdInd46fBy4jOqDaL)
+- [Moments - Ben Böhmer &amp; Nils Hoffmann Remix by Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0)
+- [When I Get There by Big Wild](https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS)
+- [Until We Leave the Ground - Steve James Remix by Emmit Fenn, Steve James](https://open.spotify.com/track/3LX6Bv3jfbABw1KQsYOYtZ)
+- [Last Night by Rivo](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq)
+- [Pegasus by MEDUZA, Eli &amp; Fur](https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
