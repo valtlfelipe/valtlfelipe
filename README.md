@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (2 days ago)
 
 #### 🎧 What I have been listening
-- [Let It Go by NOTSOBAD, MA:RK](https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR)
-- [Be Strong by Spada, Korolova](https://open.spotify.com/track/1PI6MPyMGeRLbKDCaQ3BDi)
-- [Erase by Ben Böhmer, lau.ra](https://open.spotify.com/track/22QG2saDLvgToHzeOZPm20)
-- [Simplicity Is Bliss by RÜFÜS DU SOL](https://open.spotify.com/track/56kscu4Wrnn8WdY1V0E6km)
-- [Come Together by Nox Vahn, Marsh](https://open.spotify.com/track/7n8sDrEcuMt0yezLDhIbnN)
+- [Hometown by French 79](https://open.spotify.com/track/47x1Gh7yk5mblUWxWRdtjH)
+- [Hide U - Tinlicker Remix by Sian Evans, Tinlicker](https://open.spotify.com/track/5r43Rwy2cBKF6HQYIS41Bw)
+- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
+- [SPARKS &amp; ASHES by The Blaze](https://open.spotify.com/track/3YDo9vofdadozleiiPTjUa)
+- [Take Me by RÜFÜS DU SOL](https://open.spotify.com/track/6W9blgdInd46fBy4jOqDaL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
