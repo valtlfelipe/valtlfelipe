@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (2 days ago)
 
 #### 🎧 What I have been listening
+- [Let It Go by NOTSOBAD, MA:RK](https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR)
+- [Be Strong by Spada, Korolova](https://open.spotify.com/track/1PI6MPyMGeRLbKDCaQ3BDi)
+- [Erase by Ben Böhmer, lau.ra](https://open.spotify.com/track/22QG2saDLvgToHzeOZPm20)
 - [Simplicity Is Bliss by RÜFÜS DU SOL](https://open.spotify.com/track/56kscu4Wrnn8WdY1V0E6km)
 - [Come Together by Nox Vahn, Marsh](https://open.spotify.com/track/7n8sDrEcuMt0yezLDhIbnN)
-- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
-- [Moments by Kidnap, Leo Stannard](https://open.spotify.com/track/1wvAupRa6Ecs7aakOmt9bf)
-- [Until the Sun Needs to Rise by RÜFÜS DU SOL](https://open.spotify.com/track/1VJgMkxFY3JSgiUWZNeycd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
