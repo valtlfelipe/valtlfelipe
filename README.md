@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (3 days ago)
 
 #### 🎧 What I have been listening
+- [Weekend Vibe by Jubël](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL)
+- [Fever by Dua Lipa, Angèle](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny)
+- [My Heart Goes (La Di Da) by Becky Hill, Topic](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p)
+- [Back To You by Lost Frequencies, Elley Duhé, X Ambassadors](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e)
 - [Big Jet Plane by Alok, Mathieu Koss](https://open.spotify.com/track/1xd3OqTbx17HutN7RfJOTj)
-- [Hot Stuff by Kygo, Donna Summer](https://open.spotify.com/track/00ETaeHUQ6lops3oWU1Wrt)
-- [Tick Tock (feat. 24kGoldn) by Clean Bandit, Mabel, 24kGoldn](https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3)
-- [If You Really Love Me (How Will I Know) by David Guetta, MistaJam, John Newman](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd)
-- [We Are The People (feat. Bono &amp; The Edge) - Official UEFA EURO 2020 Song by Martin Garrix, Bono, The Edge](https://open.spotify.com/track/2iL0W5qi0ivZ9WRXbZ74cS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
