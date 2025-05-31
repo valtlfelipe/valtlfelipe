@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (3 days ago)
 
 #### 🎧 What I have been listening
+- [Paris by The Chainsmokers](https://open.spotify.com/track/15vzANxN8G9wWfwAJLLMCg)
+- [Don&#39;t Call Me by Brando](https://open.spotify.com/track/4bjyJV8VRlEEMWxq2fhRGS)
 - [Woke Up in Love by Kygo, Gryffin, Calum Scott](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo)
 - [EveryTime I Cry by Ava Max](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d)
 - [Sunroof by Nicky Youre, hey daisy](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA)
-- [Sunroof by Nicky Youre, hey daisy](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA)
-- [4U by Ofenbach](https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
