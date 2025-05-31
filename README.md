@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (3 days ago)
 
 #### 🎧 What I have been listening
+- [You Know What I Need by PNAU, Troye Sivan](https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl)
+- [Close Your Eyes by Felix Jaehn, VIZE, Miss Li](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6)
+- [Alane by Robin Schulz, Wes](https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI)
+- [Alane by Robin Schulz, Wes](https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI)
 - [Your Love (9PM) by ATB, Topic, A7S](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx)
-- [Sunshine by OneRepublic](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B)
-- [Waterfall by Disclosure, RAYE](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg)
-- [Runaway by R3HAB, Sigala, JP Cooper](https://open.spotify.com/track/19boUY253NrYTqJMh50d5X)
-- [Nirvana by A7S](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
