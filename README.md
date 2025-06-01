@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (4 days ago)
 
 #### 🎧 What I have been listening
-- [Crazy by Lost Frequencies, Zonderling](https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv)
-- [Young Right Now by Robin Schulz, Dennis Lloyd](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG)
-- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
-- [No One Dies From Love by Tove Lo](https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm)
-- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO)
+- [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U)
+- [Radio by Sigala, MNEK](https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK)
+- [Always Be There by Jonas Blue, Louisa Johnson](https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH)
+- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
+- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
