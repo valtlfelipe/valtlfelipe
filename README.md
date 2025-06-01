@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (4 days ago)
 
 #### 🎧 What I have been listening
-- [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U)
-- [Radio by Sigala, MNEK](https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK)
-- [Always Be There by Jonas Blue, Louisa Johnson](https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH)
-- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
-- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
+- [Tell It To My Heart by MEDUZA, Hozier](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA)
+- [Experience by Victoria Monét, Khalid, SG Lewis](https://open.spotify.com/track/0hRRNHeSZv2x6pHCcXPAct)
+- [Hurricane by Ofenbach, Ella Henderson](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za)
+- [What&#39;s Love Got to Do with It by Kygo, Tina Turner](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW)
+- [Do It Better (feat. Zoe Wees) by Felix Jaehn, Zoe Wees](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
