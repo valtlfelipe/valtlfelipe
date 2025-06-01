@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (4 days ago)
 
 #### 🎧 What I have been listening
-- [By Your Side (feat. Tom Grennan) by Calvin Harris, Tom Grennan](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV)
-- [Where The Lights Are Low by Toby Romeo, Felix Jaehn, FAULHABER](https://open.spotify.com/track/0Cnb8XdGDMHAmIRBUJMkIS)
-- [You by Regard, Troye Sivan, Tate McRae](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE)
-- [Dumb by Jubël](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu)
-- [Fly Away by Tones And I](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76)
+- [What Would You Do? by Joel Corry, David Guetta, Bryson Tiller](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv)
+- [Chain My Heart by Topic, Bebe Rexha](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn)
+- [BLUE by Tiësto, Stevie Appleton](https://open.spotify.com/track/79Vz5MNH7Qe4F7hPKT8tPz)
+- [Man On The Moon by Alan Walker, Benjamin Ingrosso](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj)
+- [Flowers by Miley Cyrus](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
