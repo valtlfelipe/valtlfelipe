@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (4 days ago)
 
 #### 🎧 What I have been listening
-- [Weekend Vibe by Jubël](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL)
-- [Fever by Dua Lipa, Angèle](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny)
-- [My Heart Goes (La Di Da) by Becky Hill, Topic](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p)
-- [Back To You by Lost Frequencies, Elley Duhé, X Ambassadors](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e)
-- [Big Jet Plane by Alok, Mathieu Koss](https://open.spotify.com/track/1xd3OqTbx17HutN7RfJOTj)
+- [By Your Side (feat. Tom Grennan) by Calvin Harris, Tom Grennan](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV)
+- [Where The Lights Are Low by Toby Romeo, Felix Jaehn, FAULHABER](https://open.spotify.com/track/0Cnb8XdGDMHAmIRBUJMkIS)
+- [You by Regard, Troye Sivan, Tate McRae](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE)
+- [Dumb by Jubël](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu)
+- [Fly Away by Tones And I](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
