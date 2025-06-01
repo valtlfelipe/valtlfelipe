@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (4 days ago)
 
 #### 🎧 What I have been listening
-- [Tell It To My Heart by MEDUZA, Hozier](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA)
-- [Experience by Victoria Monét, Khalid, SG Lewis](https://open.spotify.com/track/0hRRNHeSZv2x6pHCcXPAct)
-- [Hurricane by Ofenbach, Ella Henderson](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za)
-- [What&#39;s Love Got to Do with It by Kygo, Tina Turner](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW)
-- [Do It Better (feat. Zoe Wees) by Felix Jaehn, Zoe Wees](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk)
+- [Bittersweet Symphony by GAMPER &amp; DADONI, Emily Roberts](https://open.spotify.com/track/0Gp23ds4JDUwan98IfNNL5)
+- [SOS (feat. Aloe Blacc) by Avicii, Aloe Blacc](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5)
+- [Melody by Sigala](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l)
+- [Run by Becky Hill, Galantis](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ)
+- [Shooting Darts (with R3HAB &amp; Prezioso) by Dimitri Vegas &amp; Like Mike, R3HAB, Prezioso](https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
