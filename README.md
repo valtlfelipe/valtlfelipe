@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (4 days ago)
 
 #### 🎧 What I have been listening
-- [What Would You Do? by Joel Corry, David Guetta, Bryson Tiller](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv)
-- [Chain My Heart by Topic, Bebe Rexha](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn)
-- [BLUE by Tiësto, Stevie Appleton](https://open.spotify.com/track/79Vz5MNH7Qe4F7hPKT8tPz)
-- [Man On The Moon by Alan Walker, Benjamin Ingrosso](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj)
-- [Flowers by Miley Cyrus](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0)
+- [Young Right Now by Robin Schulz, Dennis Lloyd](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG)
+- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
+- [No One Dies From Love by Tove Lo](https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm)
+- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO)
+- [Woke up in Bangkok by Deepend, YouNotUs, Martin Gallop](https://open.spotify.com/track/3x63A5hq4vldKE8hWIi1tE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
