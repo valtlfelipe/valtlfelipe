@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (5 days ago)
 
 #### 🎧 What I have been listening
-- [Love &amp; Dancing - Gypset Cut by Michael Ribeira](https://open.spotify.com/track/1649C0UVZ9k7ZJG08lGIDo)
-- [Me, Myself and The Night by Alan Walker](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ)
-- [Ice Cream In The Rain by Life&#39;s A Beach, Tobÿ](https://open.spotify.com/track/5lmecvaQ9ess1vVPzf2kC1)
-- [Corporate Chill Lounge by Maksym Tkhoryk](https://open.spotify.com/track/5I30HN0ug3LFKpPfRIc6P2)
-- [In My Head by Alex Deeper](https://open.spotify.com/track/6iTNRpcthPQ5JQZBH0yXPb)
+- [Look Ahead by Tad Forl](https://open.spotify.com/track/7bGcsVsP669jAIC3svkHXo)
+- [Iberian Sunset by Ording, Lindenberg](https://open.spotify.com/track/1J61mSrDDqxwkStKZ6lJT3)
+- [Inside My Love by TWOPILOTS](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh)
+- [Moonrise by Zimmer](https://open.spotify.com/track/5yizzF8tORzeLVEzk237J6)
+- [Moonrise by Zimmer](https://open.spotify.com/track/5yizzF8tORzeLVEzk237J6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
