@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (5 days ago)
 
 #### 🎧 What I have been listening
-- [Bittersweet Symphony by GAMPER &amp; DADONI, Emily Roberts](https://open.spotify.com/track/0Gp23ds4JDUwan98IfNNL5)
-- [SOS (feat. Aloe Blacc) by Avicii, Aloe Blacc](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5)
-- [Melody by Sigala](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l)
-- [Run by Becky Hill, Galantis](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ)
-- [Shooting Darts (with R3HAB &amp; Prezioso) by Dimitri Vegas &amp; Like Mike, R3HAB, Prezioso](https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n)
+- [Love &amp; Dancing - Gypset Cut by Michael Ribeira](https://open.spotify.com/track/1649C0UVZ9k7ZJG08lGIDo)
+- [Me, Myself and The Night by Alan Walker](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ)
+- [Ice Cream In The Rain by Life&#39;s A Beach, Tobÿ](https://open.spotify.com/track/5lmecvaQ9ess1vVPzf2kC1)
+- [Corporate Chill Lounge by Maksym Tkhoryk](https://open.spotify.com/track/5I30HN0ug3LFKpPfRIc6P2)
+- [In My Head by Alex Deeper](https://open.spotify.com/track/6iTNRpcthPQ5JQZBH0yXPb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
