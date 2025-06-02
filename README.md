@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (5 days ago)
 
 #### 🎧 What I have been listening
-- [Take My Breath Away by TWOPILOTS](https://open.spotify.com/track/6Uc23VRzRJSgu3eebPvH8I)
-- [Does It Mean I Love U by Friends &amp; I](https://open.spotify.com/track/5ixnguUMnrlwoUH7hhb6gQ)
-- [Fly Away (Jonas Blue Remix) by Tones And I](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo)
-- [I &amp; I by Jubël](https://open.spotify.com/track/6pBJ7HhuCdbBD8BzAJd2Hu)
-- [Heavy Heart by GAMPER &amp; DADONI, Mark Wilkinson](https://open.spotify.com/track/2DFQvQWXVUtnHYUwIzye97)
+- [Wild Game (feat. Monique Lawz) by Michael Calfan, Monique Lawz](https://open.spotify.com/track/0OblbHqdzBaTNHxkRuWBDN)
+- [Bad Habits by Shoby, Jonah Baker](https://open.spotify.com/track/06vwC6P13pARmkdDrJG3EX)
+- [Here to Love You by GAMPER &amp; DADONI](https://open.spotify.com/track/6esLMv3uuSmQ1nw2wQnqgA)
+- [Puerto Rico by Jubël](https://open.spotify.com/track/7xhB4TAm5a4X0w9MgTaP2w)
+- [Dive With Me (feat. Cathrine Lassen) by LVNDSCAPE, Cathrine Lassen](https://open.spotify.com/track/2DLqygtisuvhIUeV3aKJSe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
