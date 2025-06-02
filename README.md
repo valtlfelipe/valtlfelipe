@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (5 days ago)
 
 #### 🎧 What I have been listening
+- [If You Had My Love by TWOPILOTS, De Hofnar](https://open.spotify.com/track/0JWSMYurMhPmlD5H8VRoTn)
+- [Summer Love by Sole Sole](https://open.spotify.com/track/5nh7ZsmJkw4v1pW28U9szT)
 - [Bad Habits - Jubël Remode by Ed Sheeran, Jubël](https://open.spotify.com/track/56sdkDe6fRAbhIbazIj5vd)
 - [Swimmingpool by Ran the Man](https://open.spotify.com/track/7KNADzrNsHkV8Oacyx3sCM)
 - [Walkman by Jubël](https://open.spotify.com/track/5fY4Ny98j9wUDvSSRj6GaC)
-- [Island in the Sun by GAMPER &amp; DADONI, Conor Byrne](https://open.spotify.com/track/79iXIJKvBF0kI8aKZq78PB)
-- [Iris by Luke Taylor](https://open.spotify.com/track/2DifOLxaMfAU4n1kV6621o)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
