@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (5 days ago)
 
 #### 🎧 What I have been listening
-- [If You Had My Love by TWOPILOTS, De Hofnar](https://open.spotify.com/track/0JWSMYurMhPmlD5H8VRoTn)
-- [Summer Love by Sole Sole](https://open.spotify.com/track/5nh7ZsmJkw4v1pW28U9szT)
-- [Bad Habits - Jubël Remode by Ed Sheeran, Jubël](https://open.spotify.com/track/56sdkDe6fRAbhIbazIj5vd)
-- [Swimmingpool by Ran the Man](https://open.spotify.com/track/7KNADzrNsHkV8Oacyx3sCM)
-- [Walkman by Jubël](https://open.spotify.com/track/5fY4Ny98j9wUDvSSRj6GaC)
+- [Close to You by GAMPER &amp; DADONI, Daniel Ahearn](https://open.spotify.com/track/3NTo2DIPvUkSVL7eVKwc0c)
+- [Fly Me to the Moon by Shoby, Izzie Naylor](https://open.spotify.com/track/2J1GuLjv1SkrsbMfyRBoaQ)
+- [4AM (feat. HOLT.) by Jubël, HOLT](https://open.spotify.com/track/5Wg6cZxFJ1xkaWGNUUuIOc)
+- [The Way It Is by TWOPILOTS](https://open.spotify.com/track/6pSNRgtbbqRYgpwkVQqi3Z)
+- [Hymn for the Weekend - Seeb Remix by Coldplay, Seeb](https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
