@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV (5 days ago)
 
 #### 🎧 What I have been listening
-- [Close to You by GAMPER &amp; DADONI, Daniel Ahearn](https://open.spotify.com/track/3NTo2DIPvUkSVL7eVKwc0c)
-- [Fly Me to the Moon by Shoby, Izzie Naylor](https://open.spotify.com/track/2J1GuLjv1SkrsbMfyRBoaQ)
-- [4AM (feat. HOLT.) by Jubël, HOLT](https://open.spotify.com/track/5Wg6cZxFJ1xkaWGNUUuIOc)
-- [The Way It Is by TWOPILOTS](https://open.spotify.com/track/6pSNRgtbbqRYgpwkVQqi3Z)
-- [Hymn for the Weekend - Seeb Remix by Coldplay, Seeb](https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu)
+- [Take My Breath Away by TWOPILOTS](https://open.spotify.com/track/6Uc23VRzRJSgu3eebPvH8I)
+- [Does It Mean I Love U by Friends &amp; I](https://open.spotify.com/track/5ixnguUMnrlwoUH7hhb6gQ)
+- [Fly Away (Jonas Blue Remix) by Tones And I](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo)
+- [I &amp; I by Jubël](https://open.spotify.com/track/6pBJ7HhuCdbBD8BzAJd2Hu)
+- [Heavy Heart by GAMPER &amp; DADONI, Mark Wilkinson](https://open.spotify.com/track/2DFQvQWXVUtnHYUwIzye97)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
