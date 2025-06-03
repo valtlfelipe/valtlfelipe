@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr (6 days ago)
 
 #### 🎧 What I have been listening
+- [With Or Without You by Alex Cruz](https://open.spotify.com/track/7fTXUaaYdoFFuRWHFSsivR)
+- [Yellow by Braaten, Tom Bailey](https://open.spotify.com/track/1jkvgY4yyTS3RAvLOSJX7P)
 - [Enjoy The Silence by Braaten, JANU](https://open.spotify.com/track/1204BOLkZU4LoQCWkZ2zPQ)
 - [I Don&#39;t Need You by Nora Van Elken](https://open.spotify.com/track/08hBQCNt6DRzZQs8gkJEIL)
 - [With or Without You - Radio Edit by DJ Pantelis](https://open.spotify.com/track/4b5xfjE6GhEVkyw9eRk2Wg)
-- [Can&#39;t Help Falling In Love With You by TWOPILOTS, Forever Kids.](https://open.spotify.com/track/7kGiOCt0ykF3HNGlRcNdkW)
-- [Sex On Fire by 2beards, Zoë Phillips](https://open.spotify.com/track/1klCIz6RrwhL2bSe8zYafQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
