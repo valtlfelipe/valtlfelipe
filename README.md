@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr (6 days ago)
 
 #### 🎧 What I have been listening
-- [Midnight Sun by Jan Blomqvist, Natascha Polké](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI)
-- [Time - Edit by Carlita](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs)
-- [Hold You by CRi](https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l)
-- [Trying To See U by heylucas](https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L)
-- [I Want You by Vandelux](https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ)
+- [Some Days Are Harder by Sons Of Maria](https://open.spotify.com/track/7F6w5Y66PLbicxd2qX1NT3)
+- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
+- [Part Of Me by biskuwi, PHILDEL](https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg)
+- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
+- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
