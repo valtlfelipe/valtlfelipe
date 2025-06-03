@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr (6 days ago)
 
 #### 🎧 What I have been listening
-- [Boardwalks by Claudio Souza Mattos](https://open.spotify.com/track/5aCuigR0H3cHvKv51J5e8D)
-- [I Want To Know What Love Is - BLOND:ISH Sunrise Jungle Rework by Foreigner, BLOND:ISH](https://open.spotify.com/track/4zjGsa5pIzmL3jYB1PUVQO)
-- [Sweet Child O&#39; Mine - Acoustic by Melonia](https://open.spotify.com/track/3YfEk0s1275luCDgCt6z7o)
-- [In And Out Of Love - Ian Tosel &amp; Arthur M Remix by Armin van Buuren, Sharon Den Adel, Ian Tosel, Arthur M](https://open.spotify.com/track/0oDGWMZtNh7PLAq77vyCab)
-- [Know What Love Is - Radio Edit by Mr. Black &amp; Blue, Wesley Verstegen](https://open.spotify.com/track/7EUcoiMr6cs39kPykjLRk4)
+- [Midnight Sun by Jan Blomqvist, Natascha Polké](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI)
+- [Time - Edit by Carlita](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs)
+- [Hold You by CRi](https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l)
+- [Trying To See U by heylucas](https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L)
+- [I Want You by Vandelux](https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
