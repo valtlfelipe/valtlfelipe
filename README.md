@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr (6 days ago)
 
 #### 🎧 What I have been listening
-- [Wild Game (feat. Monique Lawz) by Michael Calfan, Monique Lawz](https://open.spotify.com/track/0OblbHqdzBaTNHxkRuWBDN)
-- [Bad Habits by Shoby, Jonah Baker](https://open.spotify.com/track/06vwC6P13pARmkdDrJG3EX)
-- [Here to Love You by GAMPER &amp; DADONI](https://open.spotify.com/track/6esLMv3uuSmQ1nw2wQnqgA)
-- [Puerto Rico by Jubël](https://open.spotify.com/track/7xhB4TAm5a4X0w9MgTaP2w)
-- [Dive With Me (feat. Cathrine Lassen) by LVNDSCAPE, Cathrine Lassen](https://open.spotify.com/track/2DLqygtisuvhIUeV3aKJSe)
+- [I Don&#39;t Need You by Nora Van Elken](https://open.spotify.com/track/08hBQCNt6DRzZQs8gkJEIL)
+- [With or Without You - Radio Edit by DJ Pantelis](https://open.spotify.com/track/4b5xfjE6GhEVkyw9eRk2Wg)
+- [Can&#39;t Help Falling In Love With You by TWOPILOTS, Forever Kids.](https://open.spotify.com/track/7kGiOCt0ykF3HNGlRcNdkW)
+- [Sex On Fire by 2beards, Zoë Phillips](https://open.spotify.com/track/1klCIz6RrwhL2bSe8zYafQ)
+- [The Reason by Braaten, RÆ](https://open.spotify.com/track/15uy4lyCqhN1F4AyXzu8MG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
