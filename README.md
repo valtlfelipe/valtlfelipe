@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr (1 week ago)
 
 #### 🎧 What I have been listening
-- [Some Days Are Harder by Sons Of Maria](https://open.spotify.com/track/7F6w5Y66PLbicxd2qX1NT3)
-- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
-- [Part Of Me by biskuwi, PHILDEL](https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg)
-- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
-- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [Wait For You by Elderbrook, Carlita](https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW)
+- [fever by puulse, maybealice](https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb)
+- [Lotus by offrails, Lilly Ahlberg](https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr)
+- [Lifeline by Jonas Blue, Izzy Bizu](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
