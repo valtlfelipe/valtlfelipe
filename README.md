@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr (1 week ago)
 
 #### 🎧 What I have been listening
-- [Cruise by ROYA](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq)
-- [Scared Of The Dark by Friends &amp; I](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ)
-- [TRIPPIN by BUNT., Mapei](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7)
-- [Fresh Air by Iaco, HNE](https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns)
-- [Heartburn by Panama, Vandelux](https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI)
+- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
+- [just listen.. by heylucas](https://open.spotify.com/track/39ApO75jBG1tTyL9958Bdd)
+- [Rust by Ben Böhmer](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ)
+- [Moments by D.Polo, Passing Clouds](https://open.spotify.com/track/73Ro9Wi19muexSwwV4vTm1)
+- [Train of Thoughts by Nora En Pure](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
