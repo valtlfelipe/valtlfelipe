@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)** - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sunrise (feat. Madeline Megery) by Forester, OCULA, Madeline Megery](https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL)
 - [Some Days Are Harder by Sons Of Maria](https://open.spotify.com/track/7F6w5Y66PLbicxd2qX1NT3)
 - [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
 - [Part Of Me by biskuwi, PHILDEL](https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg)
 - [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
+- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
