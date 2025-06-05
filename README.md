@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [If You&#39;re Here With Me by Ross Quinn](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc)
-- [Stay There by Tonic Walter](https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk)
-- [Murmur by Sultan &#43; Shepard](https://open.spotify.com/track/5Kx9WqL3coud5FmQvtchAS)
-- [Elevates Me by offrails](https://open.spotify.com/track/5GG9LVspwfC7Sr5KfYJKUY)
-- [Yeke Yeke by Avi Snow, Haska, Backo Dada](https://open.spotify.com/track/0jhKOUuSOfyqmIIzjZJKpe)
+- [Always by Ross Quinn](https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE)
+- [Solace by Shingo Nakamura, Mango, Nina Carr](https://open.spotify.com/track/2a2ue6juHldn6FAgzflCYs)
+- [Under The Surface by Sultan &#43; Shepard, Nathan Nicholson](https://open.spotify.com/track/4PRVsjP4N72PAg1R62eT5J)
+- [Close My Eyes by Rules](https://open.spotify.com/track/6nsGa3ha4ZbTpTUi8AZFud)
+- [Illuminate - Extended by Astrality, Leo Stannard](https://open.spotify.com/track/5OVDMbFKKAeI4sX6y1r6kR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
