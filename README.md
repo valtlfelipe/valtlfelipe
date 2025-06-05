@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Falling Behind - Otherwish Remix by Sultan &#43; Shepard, Panama, Otherwish](https://open.spotify.com/track/4fGRbL7yqfWMR0rbhV2Gns)
-- [Breathing by Ourson](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV)
-- [Calling by EMBRZ, Forester, Heather Janssen](https://open.spotify.com/track/3EcjAoYHzy5nOWLncMf7zE)
-- [Fortified by Kidnap, Dwara](https://open.spotify.com/track/2nnI9lec6aHmXSXTQ34UTe)
-- [Algorithm by Jan Blomqvist](https://open.spotify.com/track/763bin34MwKqujSalWc3lf)
+- [Beyond Beliefs by Ben Böhmer](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV)
+- [nostalgia by Tonic Walter](https://open.spotify.com/track/5FwPY70yxiwEcUXmvcczxb)
+- [Over The Edge by Nu Aspect, Poppy Baskcomb](https://open.spotify.com/track/2CpJixMi6A00UWxzLiHh1Q)
+- [Anywhere (Road Trippin&#39;) by anamē](https://open.spotify.com/track/5rXJXEBTHqOjeLQbYSa07n)
+- [Soft Lights by Keanler, Ren Ocean](https://open.spotify.com/track/14w9UJfnEOln70AwtKrrpd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
