@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Beyond Everything by Ourson](https://open.spotify.com/track/5W0gnBtoimNtx6t08HS84f)
-- [It Can Be Better Now by anamē, Welt](https://open.spotify.com/track/4d5ErJZLcwalPSgpM2zLUm)
-- [Always by Ross Quinn](https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE)
-- [Solace by Shingo Nakamura, Mango, Nina Carr](https://open.spotify.com/track/2a2ue6juHldn6FAgzflCYs)
-- [Under The Surface by Sultan &#43; Shepard, Nathan Nicholson](https://open.spotify.com/track/4PRVsjP4N72PAg1R62eT5J)
+- [Falling Behind - Otherwish Remix by Sultan &#43; Shepard, Panama, Otherwish](https://open.spotify.com/track/4fGRbL7yqfWMR0rbhV2Gns)
+- [Breathing by Ourson](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV)
+- [Calling by EMBRZ, Forester, Heather Janssen](https://open.spotify.com/track/3EcjAoYHzy5nOWLncMf7zE)
+- [Fortified by Kidnap, Dwara](https://open.spotify.com/track/2nnI9lec6aHmXSXTQ34UTe)
+- [Algorithm by Jan Blomqvist](https://open.spotify.com/track/763bin34MwKqujSalWc3lf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
