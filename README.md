@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Clockwork by Braxton](https://open.spotify.com/track/75IApVvgPekhlZlMnCFDSa)
-- [Start Again by Kidnap](https://open.spotify.com/track/56s8emjdpq3KjecMlyIBkb)
-- [Elevate by Falden](https://open.spotify.com/track/5FTdhMWmuhEu0JTzkAo8ok)
-- [Little Lights by Ben Böhmer](https://open.spotify.com/track/7hlx1OTcfNTO7HKzrLiIyK)
-- [Bright by Fritz Kalkbrenner, Ben Böhmer](https://open.spotify.com/track/20iMJHbtjyvAbCial6GE12)
+- [Paradise (with Bipolar Sunshine) by DJ Snake, Bipolar Sunshine](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D)
+- [Peaceful Nature by Qeeo](https://open.spotify.com/track/1gDslzncbGkKzv5P6NZ8Ql)
+- [What Can I Do by Portrait](https://open.spotify.com/track/4aEKZ3X6SFcrMwI1ejbZ9l)
+- [Flora by rshand, shandr, TAPI](https://open.spotify.com/track/1h20ihr4DpPQwsaBQtlwBv)
+- [Weekend Dream by Generation.](https://open.spotify.com/track/36hFZheBabTys6a2tS3iiK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
