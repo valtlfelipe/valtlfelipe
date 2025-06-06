@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Paradise (with Bipolar Sunshine) by DJ Snake, Bipolar Sunshine](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D)
-- [Peaceful Nature by Qeeo](https://open.spotify.com/track/1gDslzncbGkKzv5P6NZ8Ql)
-- [What Can I Do by Portrait](https://open.spotify.com/track/4aEKZ3X6SFcrMwI1ejbZ9l)
-- [Flora by rshand, shandr, TAPI](https://open.spotify.com/track/1h20ihr4DpPQwsaBQtlwBv)
-- [Weekend Dream by Generation.](https://open.spotify.com/track/36hFZheBabTys6a2tS3iiK)
+- [Rose - Edit by Ljuvski](https://open.spotify.com/track/6VbQw65NuHHJ5o1NvJGlKa)
+- [Drunk Right Now (Na Na Na) with Akon by Josh Ross, Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e)
+- [Presence by Luke Taylor](https://open.spotify.com/track/66D16DrGHjwZJoujgT4L8H)
+- [Work Hard Not Smart by Salvatore Ganacci](https://open.spotify.com/track/726YgtTmavsRQcSQ1jy2Zh)
+- [Treehouse by Ran the Man](https://open.spotify.com/track/1ipDA1Ml15GS3942NM5OZS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
