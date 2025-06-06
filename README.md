@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
+- [Ronda by Christian Löffler](https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm)
+- [My Ghost by Angara](https://open.spotify.com/track/1ocaiGtASFO5DyJDrf6vPp)
+- [Lost In You by Marsh](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2)
 - [The Space In Between - Ben Böhmer Extended Remix by Jan Blomqvist, Ben Böhmer](https://open.spotify.com/track/1MgIWPR2hEDJtx2i5rmiKV)
 - [Erase by Ben Böhmer, lau.ra](https://open.spotify.com/track/22QG2saDLvgToHzeOZPm20)
-- [Second Sun by Nils Hoffmann, Ben Böhmer](https://open.spotify.com/track/1hchcXyOsDcLOM6AA0nFsx)
-- [Numb - Joris Voorn Remix, Edit by Elderbrook, Joris Voorn](https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy)
-- [Gibberish by Luttrell, Ben Böhmer, Margret](https://open.spotify.com/track/3bXmM5HKcc66vxAiEnvbvQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
