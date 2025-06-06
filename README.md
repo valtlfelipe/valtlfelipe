@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Ronda by Christian Löffler](https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm)
-- [My Ghost by Angara](https://open.spotify.com/track/1ocaiGtASFO5DyJDrf6vPp)
-- [Lost In You by Marsh](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2)
-- [The Space In Between - Ben Böhmer Extended Remix by Jan Blomqvist, Ben Böhmer](https://open.spotify.com/track/1MgIWPR2hEDJtx2i5rmiKV)
-- [Erase by Ben Böhmer, lau.ra](https://open.spotify.com/track/22QG2saDLvgToHzeOZPm20)
+- [Start Again by Kidnap](https://open.spotify.com/track/56s8emjdpq3KjecMlyIBkb)
+- [Elevate by Falden](https://open.spotify.com/track/5FTdhMWmuhEu0JTzkAo8ok)
+- [Little Lights by Ben Böhmer](https://open.spotify.com/track/7hlx1OTcfNTO7HKzrLiIyK)
+- [Bright by Fritz Kalkbrenner, Ben Böhmer](https://open.spotify.com/track/20iMJHbtjyvAbCial6GE12)
+- [Merovingian by Polar Inc.](https://open.spotify.com/track/4eRYKgTgrtQRHfivf67Ta8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
