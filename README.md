@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Reflection by Ben Böhmer, Wood, Margret](https://open.spotify.com/track/6G0mR7TmmHf5Tqi9CNZik3)
-- [Something About by CRi](https://open.spotify.com/track/1I5kKhGpUhjaW5sYUEplj6)
-- [Silence by Kidnap](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5)
-- [Sumidero by Parra for Cuva](https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze)
-- [The Loved Are Never Lost by Trilucid](https://open.spotify.com/track/3WdzsAb3OzEBrQArVgrmSA)
+- [Something You Need by Joachim Pastor, Signum](https://open.spotify.com/track/35YssL3Ul77kSZKpKLYkQl)
+- [Autumn by Ben Böhmer](https://open.spotify.com/track/7ocpmlXkxJVGtPLLFQhMGP)
+- [Heirloom by Polar Inc.](https://open.spotify.com/track/4ACs8HDroyAX24Tz5Zp2kj)
+- [How Often - Ben Böhmer Remix by Lane 8, Kauf, Ben Böhmer](https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x)
+- [Endurance by Tonic Walter](https://open.spotify.com/track/2AlHN1Eq9saiecYFjgQJXf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
