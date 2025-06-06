@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [The New Beginnings by Qeeo](https://open.spotify.com/track/5aVazatb6gg950wU4rzjcR)
-- [Reveries by Ran the Man](https://open.spotify.com/track/2lxt280bhDZGbLPIpoboCB)
-- [Dolphin Sea Swim by Life&#39;s A Beach, Tobÿ](https://open.spotify.com/track/1bnm5pdGlzDvayQqpms895)
-- [Coastal Haze by Tad Forl](https://open.spotify.com/track/7k6YOuTSgBInlRXXmeyMlm)
-- [Planes, Skies &amp; Birds by Tobÿ, Surfin&#39; Sam](https://open.spotify.com/track/094dTjBWCMV16ZHOifLpsh)
+- [The Mack by Nevada, Mark Morrison, Fetty Wap](https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ)
+- [Post Malone (feat. RANI) by Sam Feldt, RANI](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU)
+- [Say So by Doja Cat](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ)
+- [Reflection by Ben Böhmer, Wood, Margret](https://open.spotify.com/track/6G0mR7TmmHf5Tqi9CNZik3)
+- [Mood by Ording, Lindenberg](https://open.spotify.com/track/5p17w0HDpBVSMoX39eyh3G)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
