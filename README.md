@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Untroubled by Kidnap](https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7)
-- [Lullaby Horizon - Ben Böhmer Remix by Way Out West, Ben Böhmer](https://open.spotify.com/track/4g4GLJVprlEgI70dtGdlKW)
-- [Runaway by CRi](https://open.spotify.com/track/4c9cjz0wdhuYig5orsRhTx)
-- [Untroubled by Kidnap](https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7)
-- [Maelstrom by Ben Böhmer](https://open.spotify.com/track/4ItMchWCT6d3acnzQfcpmy)
+- [Reflection by Ben Böhmer, Wood, Margret](https://open.spotify.com/track/6G0mR7TmmHf5Tqi9CNZik3)
+- [Something About by CRi](https://open.spotify.com/track/1I5kKhGpUhjaW5sYUEplj6)
+- [Silence by Kidnap](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5)
+- [Sumidero by Parra for Cuva](https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze)
+- [The Loved Are Never Lost by Trilucid](https://open.spotify.com/track/3WdzsAb3OzEBrQArVgrmSA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
