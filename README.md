@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Rose - Edit by Ljuvski](https://open.spotify.com/track/6VbQw65NuHHJ5o1NvJGlKa)
-- [Drunk Right Now (Na Na Na) with Akon by Josh Ross, Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e)
-- [Presence by Luke Taylor](https://open.spotify.com/track/66D16DrGHjwZJoujgT4L8H)
-- [Work Hard Not Smart by Salvatore Ganacci](https://open.spotify.com/track/726YgtTmavsRQcSQ1jy2Zh)
-- [Treehouse by Ran the Man](https://open.spotify.com/track/1ipDA1Ml15GS3942NM5OZS)
+- [The New Beginnings by Qeeo](https://open.spotify.com/track/5aVazatb6gg950wU4rzjcR)
+- [Reveries by Ran the Man](https://open.spotify.com/track/2lxt280bhDZGbLPIpoboCB)
+- [Dolphin Sea Swim by Life&#39;s A Beach, Tobÿ](https://open.spotify.com/track/1bnm5pdGlzDvayQqpms895)
+- [Coastal Haze by Tad Forl](https://open.spotify.com/track/7k6YOuTSgBInlRXXmeyMlm)
+- [Planes, Skies &amp; Birds by Tobÿ, Surfin&#39; Sam](https://open.spotify.com/track/094dTjBWCMV16ZHOifLpsh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
