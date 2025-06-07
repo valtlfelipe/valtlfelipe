@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
+- [Bad Habits by Ed Sheeran](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d)
+- [Told You So by Martin Garrix, Jex](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll)
+- [Friday (feat. Mufasa &amp; Hypeman) - Dopamine Re-Edit by Riton, Nightcrawlers, Mufasa &amp; Hypeman, Mufasa, Dopamine](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl)
+- [Friday (feat. Mufasa &amp; Hypeman) - Dopamine Re-Edit by Riton, Nightcrawlers, Mufasa &amp; Hypeman, Mufasa, Dopamine](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl)
 - [Blue Jeans - RAC Mix by Lana Del Rey, RAC](https://open.spotify.com/track/7JVNRVPeXFAOdMrxOHNjVv)
-- [Timber by Pitbull, Kesha](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)
-- [Lay Low by Tiësto](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt)
-- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF)
-- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
