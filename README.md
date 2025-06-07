@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
+- [The Days - NOTION Remix by Chrystal, NOTION](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)
+- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
+- [Pepas by Farruko](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k)
+- [Pepas by Farruko](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k)
 - [Lola&#39;s Theme - Radio Edit by The Shapeshifters](https://open.spotify.com/track/60ZRKTMc94bcjiN4FI0XDm)
-- [We Found Love by Rihanna, Calvin Harris](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL)
-- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
-- [Dancing in the Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
-- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/0yAcyZzElbaGwa3eIqRk7t)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
