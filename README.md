@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Ferrari by James Hype, Miggy Dela Rosa](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
-- [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
-- [Call on Me - Ryan Riback Remix by Starley, Ryan Riback](https://open.spotify.com/track/0BZ5YlY2xnwfUmyGdiOMje)
-- [Higher Love by Kygo, Whitney Houston](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY)
+- [Young Right Now by Robin Schulz, Dennis Lloyd](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG)
+- [Rain In Ibiza by Felix Jaehn, The Stickmen Project, Calum Scott](https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4)
+- [Melody by Sigala](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l)
+- [Your Love (9PM) by ATB, Topic, A7S](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx)
+- [My Heart Goes (La Di Da) by Becky Hill, Topic](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
