@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
+- [Ain&#39;t Nobody (Loves Me Better) (feat. Jasmine Thompson) by Felix Jaehn, Jasmine Thompson](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x)
+- [Latch by Disclosure, Sam Smith](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr)
+- [Bad Habits by Ed Sheeran](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d)
 - [Waves - Robin Schulz Radio Edit by Mr. Probz, Robin Schulz](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs)
 - [Fireball (feat. John Ryan) by Pitbull, John Ryan](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW)
-- [Hypnotized by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/4grVkAtmqIipynBu8D9v6G)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [Blue Jeans - RAC Mix by Lana Del Rey, RAC](https://open.spotify.com/track/7JVNRVPeXFAOdMrxOHNjVv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
