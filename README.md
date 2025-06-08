@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
+- [Heroes (we could be) by Alesso, Tove Lo](https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77)
+- [Timber by Pitbull, Kesha](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)
 - [Dancing in the Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
 - [A Sky Full of Stars by Coldplay](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ)
 - [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [Hypnotized by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/4grVkAtmqIipynBu8D9v6G)
-- [Currency (Count On Me) (ft Cimafunk and PAMÉ) by ANOTR, Cimafunk, PAMÉ](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
