@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Neverender by Justice, Tame Impala](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj)
-- [Hear Me Say by Jonas Blue, LÉON](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK)
-- [Rise by Lost Frequencies](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf)
-- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
-- [Hurricane by Ofenbach, Ella Henderson](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za)
+- [Waves - Robin Schulz Radio Edit by Mr. Probz, Robin Schulz](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs)
+- [Fireball (feat. John Ryan) by Pitbull, John Ryan](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW)
+- [Hypnotized by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/4grVkAtmqIipynBu8D9v6G)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [Blue Jeans - RAC Mix by Lana Del Rey, RAC](https://open.spotify.com/track/7JVNRVPeXFAOdMrxOHNjVv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
