@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tesseral-labs/tesseral](https://github.com/tesseral-labs/tesseral)** - Open source auth infrastructure for B2B SaaS (1 week ago)
 
 #### 🎧 What I have been listening
-- [With You (feat. Coline) by Sterkøl, Weazley, Coline](https://open.spotify.com/track/59pHb4NjHahwNvXO8GZdnL)
-- [Blackbird (feat. Jake Reese) by Sam Feldt, Jake Reese, CALVO](https://open.spotify.com/track/1ZhthRWJaJ5rSCJgAh6gsV)
-- [Godspeed You - Charming Horses Remix by Francesco Rossi, Ozark Henry, Charming Horses](https://open.spotify.com/track/4uAF5MjLYU7ispsH3oz9sk)
-- [All The Way Down by Duce, Plaha, maybealice](https://open.spotify.com/track/1JLUnZ3nhiaJ9XiZ62a8wG)
-- [Good For Your Souls by Sebastien](https://open.spotify.com/track/2ZtRRnq4mdAg9GpN3rAVkO)
+- [Into the Dark by Duce, S3S](https://open.spotify.com/track/0ZORDVvXQE7ntIIHK6gIxz)
+- [evely by birø, Plaha](https://open.spotify.com/track/1IzlogB6Q4kZpxlB59CzIw)
+- [Lies by Nick Raff](https://open.spotify.com/track/32zB0FI9i0WscIAiW18NNQ)
+- [Speeches (feat. Joel Baker) by LVNDSCAPE, Joel Baker](https://open.spotify.com/track/5IxuIGmLbqASUGUrxg2xVM)
+- [find u by elsaaa](https://open.spotify.com/track/4uaewzgWv4taGhVwAVGFYz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
