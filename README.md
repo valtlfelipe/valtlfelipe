@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [In the Morning Light - Radio Mix by Alex Schulz](https://open.spotify.com/track/3cSzDV1drneGszFc6KwwQS)
-- [On Your Mind by aural](https://open.spotify.com/track/0iUYjYT4gVBfaG6umwpRAR)
-- [Wonderful Life &#39;25 by Hurts, Purple Disco Machine](https://open.spotify.com/track/3HiwSiBqwXHy20VUVv44We)
-- [Messy hopes (dreams, flickering bright) by Future Dynamic](https://open.spotify.com/track/38Hg3bFzA2ffS7cFMP3o4n)
-- [Evening Sun by Purple Ocean](https://open.spotify.com/track/0cp0lH9xweItoP7taraFvF)
+- [Change of Driver by Falden, PEARL](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x)
+- [Ways by Alex Schulz](https://open.spotify.com/track/1WFaqkDIyN0oDyf7KjWRnn)
+- [Me &amp; You by Jur](https://open.spotify.com/track/5sJ0vTO10WbH1Bg7rMZVwa)
+- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
+- [Make It Right by Iskarelyn](https://open.spotify.com/track/74k50vucOmBvqsQRefrt2W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
