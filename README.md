@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Summer Love by Timotei Draghici](https://open.spotify.com/track/6hh4YkYmidkgHLFnmtV9VE)
-- [Perfect Rain - Remix by Curtis Walsh, Trial &amp; Error](https://open.spotify.com/track/4q8IMtch1lVEtQX8bM7h59)
-- [Vinternatt - Nora en Pure &amp; Sons of Maria Remix Edit by Danijel Kostic, Nora En Pure, Sons Of Maria](https://open.spotify.com/track/3nKOUMxsfm7UBnucSHnyrw)
-- [Stepping On Stars by BtheLick V Jamie McCool](https://open.spotify.com/track/4wpehWAKwqmOUVVFMpzHco)
-- [Orchard by TOMB](https://open.spotify.com/track/092NhxMCOuAV83i1XbwXIZ)
+- [In the Morning Light - Radio Mix by Alex Schulz](https://open.spotify.com/track/3cSzDV1drneGszFc6KwwQS)
+- [On Your Mind by aural](https://open.spotify.com/track/0iUYjYT4gVBfaG6umwpRAR)
+- [Wonderful Life &#39;25 by Hurts, Purple Disco Machine](https://open.spotify.com/track/3HiwSiBqwXHy20VUVv44We)
+- [Messy hopes (dreams, flickering bright) by Future Dynamic](https://open.spotify.com/track/38Hg3bFzA2ffS7cFMP3o4n)
+- [Evening Sun by Purple Ocean](https://open.spotify.com/track/0cp0lH9xweItoP7taraFvF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
