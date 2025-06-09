@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tesseral-labs/tesseral](https://github.com/tesseral-labs/tesseral)** - Open source auth infrastructure for B2B SaaS (1 week ago)
 
 #### 🎧 What I have been listening
+- [Out Of Ten - Shingo Nakamura &amp; before saudade Remix by Lonely in the Rain, Shingo Nakamura, before saudade](https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj)
+- [Say It by Piece Wise, Abroad](https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt)
+- [When It&#39;s Over by Sebastien, Ovi](https://open.spotify.com/track/7yebvgOaP8l5WkYh59dPxh)
+- [Too Close by Duce, terro](https://open.spotify.com/track/3BViioPyfENAfJdk8TpXB1)
 - [Nothing by Iskarelyn](https://open.spotify.com/track/4UknjsWikz5vg3yvVOg9Qz)
-- [Morning Sun by sûr faire](https://open.spotify.com/track/2x3oNXRXqn79zuGIeKRkkS)
-- [Dusk &amp; Dawn by Sum Wave, Bye Ocean](https://open.spotify.com/track/700bvc7zXLdtU801Y7zctK)
-- [Find You by dusk:dawn, CLOVER](https://open.spotify.com/track/4pupB5o3t5oFMqPpZxhh5f)
-- [Afterlight by Sebastien, Zac Poor](https://open.spotify.com/track/3Ji8cShqZsIZrzTld7yOXv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
