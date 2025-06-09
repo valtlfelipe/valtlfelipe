@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[get-convex/convex-backend](https://github.com/get-convex/convex-backend)** - The open-source reactive database for app developers (1 week ago)
 
 #### 🎧 What I have been listening
-- [Change of Driver by Falden, PEARL](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x)
-- [Ways by Alex Schulz](https://open.spotify.com/track/1WFaqkDIyN0oDyf7KjWRnn)
-- [Me &amp; You by Jur](https://open.spotify.com/track/5sJ0vTO10WbH1Bg7rMZVwa)
-- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
-- [Make It Right by Iskarelyn](https://open.spotify.com/track/74k50vucOmBvqsQRefrt2W)
+- [Home (feat. Nico Santos) - Marcapasos Radio Remix by Topic, Nico Santos, Marcapasos](https://open.spotify.com/track/2NsWGd3UslepVF25pKw1sp)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [November Nights by nowifi](https://open.spotify.com/track/1OYos5XRNcOM1hdFKlKCFE)
+- [Remember Me by Duce](https://open.spotify.com/track/5LU609mhTWuvoAzLUj7uNB)
+- [Keep On Reaching by Alex Schulz](https://open.spotify.com/track/2BizE3yU1j32k13u5KtGz9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
