@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tesseral-labs/tesseral](https://github.com/tesseral-labs/tesseral)** - Open source auth infrastructure for B2B SaaS (1 week ago)
 
 #### 🎧 What I have been listening
+- [Ways - Radio Edit by Alex Schulz](https://open.spotify.com/track/2FVJG0uCGN3nPdIg9PqBwL)
+- [You &amp; Me by Leavs., The kid in blue, LU2VYK](https://open.spotify.com/track/2MHL6snW7tUOYe3hTu9Sd3)
 - [Into the Dark by Duce, S3S](https://open.spotify.com/track/0ZORDVvXQE7ntIIHK6gIxz)
 - [evely by birø, Plaha](https://open.spotify.com/track/1IzlogB6Q4kZpxlB59CzIw)
 - [Lies by Nick Raff](https://open.spotify.com/track/32zB0FI9i0WscIAiW18NNQ)
-- [Speeches (feat. Joel Baker) by LVNDSCAPE, Joel Baker](https://open.spotify.com/track/5IxuIGmLbqASUGUrxg2xVM)
-- [find u by elsaaa](https://open.spotify.com/track/4uaewzgWv4taGhVwAVGFYz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
