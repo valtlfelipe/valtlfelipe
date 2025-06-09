@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tesseral-labs/tesseral](https://github.com/tesseral-labs/tesseral)** - Open source auth infrastructure for B2B SaaS (1 week ago)
 
 #### 🎧 What I have been listening
-- [Miracle In The Middle Of My Heart by BCX, Clément Bcx](https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8)
-- [Fade Away (feat. INNA) by Sam Feldt, Lush &amp; Simon, INNA](https://open.spotify.com/track/7IToVuRoN3NP3mJzLe0RXt)
-- [Moss by Jörð](https://open.spotify.com/track/3sZQxpncC7jfRRMYKrhwR7)
-- [Where You Go by Neascape](https://open.spotify.com/track/3ZrFPGpxyE1t5MLuLBHIrk)
-- [Wings by Mindblow, Carla Stefani](https://open.spotify.com/track/39abpQbXaQ9hzGCq4ZayCg)
+- [With You (feat. Coline) by Sterkøl, Weazley, Coline](https://open.spotify.com/track/59pHb4NjHahwNvXO8GZdnL)
+- [Blackbird (feat. Jake Reese) by Sam Feldt, Jake Reese, CALVO](https://open.spotify.com/track/1ZhthRWJaJ5rSCJgAh6gsV)
+- [Godspeed You - Charming Horses Remix by Francesco Rossi, Ozark Henry, Charming Horses](https://open.spotify.com/track/4uAF5MjLYU7ispsH3oz9sk)
+- [All The Way Down by Duce, Plaha, maybealice](https://open.spotify.com/track/1JLUnZ3nhiaJ9XiZ62a8wG)
+- [Good For Your Souls by Sebastien](https://open.spotify.com/track/2ZtRRnq4mdAg9GpN3rAVkO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
