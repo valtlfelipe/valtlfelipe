@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer)** - A Google Drive Interface for your Cloudflare R2 Buckets! (5 days ago)
 
 #### 🎧 What I have been listening
-- [Ocean Drive by Duke Dumont](https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP)
-- [Ain&#39;t Nobody (Loves Me Better) (feat. Jasmine Thompson) by Felix Jaehn, Jasmine Thompson](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x)
-- [Fast Car by Jonas Blue, Dakota](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p)
-- [Something About You by Hayden James](https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n)
-- [Desire - Gryffin Remix by Olly Alexander (Years &amp; Years), Gryffin](https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS)
+- [Kuaga (Lost Time) - Matthew Heyer Remix by Pierce Fulton, Matthew Heyer](https://open.spotify.com/track/3QzptVakmUpFkP0KDqQU3m)
+- [Haunting - Sebastien Extended Remix by Alex Cruz, Anna Renee, Melle Kuil, Sebastien](https://open.spotify.com/track/0hWtQm7I1sg1AXov4Ut7GN)
+- [Blinded by Deep Chills, Emma Carn](https://open.spotify.com/track/1Kr8qVQBldnHQbaMW7wS69)
+- [Save Me by LISTENBEE, Naz Tokio](https://open.spotify.com/track/4jNM6l3Amnmyy1kNCLcSWL)
+- [Sugar (feat. Francesco Yates) by Robin Schulz, Francesco Yates](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
