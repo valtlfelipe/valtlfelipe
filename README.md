@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer)** - A Google Drive Interface for your Cloudflare R2 Buckets! (5 days ago)
 
 #### 🎧 What I have been listening
+- [Take Care by BCX](https://open.spotify.com/track/7tirhoEiNOaHD2RYrjt1k9)
+- [Escape by Sebastien, Satellite Empire](https://open.spotify.com/track/5sZ7m3GsJ62EWIFn1brNK3)
+- [Gold by Sebastien, Bright Sparks](https://open.spotify.com/track/2penjl6afQ4JYqmTeNUxyL)
+- [Gold by Sebastien, Bright Sparks](https://open.spotify.com/track/2penjl6afQ4JYqmTeNUxyL)
 - [You &amp; I [VINIL Remix] by Sterkøl, Treetalk, Bertrand Lacoste, Vinil](https://open.spotify.com/track/1Xd66AmcJ4bjRJYOAAliMS)
-- [Not At This Party - David Guetta Remix by Dasha, David Guetta](https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io)
-- [Another Day by w.ill](https://open.spotify.com/track/1gTdkByCgMwONojmtR1PQY)
-- [44th and 8th by Sean Bradford](https://open.spotify.com/track/64B7LF39yaudSv3lm1NeFW)
-- [Losing My Mind by Jörð](https://open.spotify.com/track/7j8jE8iilAiyz5HhwtSHOn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
