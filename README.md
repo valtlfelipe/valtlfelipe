@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer)** - A Google Drive Interface for your Cloudflare R2 Buckets! (5 days ago)
 
 #### 🎧 What I have been listening
+- [My Love For You by Trial &amp; Error](https://open.spotify.com/track/1EdNSUsetpyHVBopRTa3XZ)
+- [Miracle In The Middle Of My Heart by BCX, Clément Bcx](https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8)
+- [You &amp; I by Sterkøl, Treetalk, Bertrand Lacoste](https://open.spotify.com/track/4l8nQ64C9niirFLCywFIbv)
+- [All About by Jon Sine](https://open.spotify.com/track/2o7Of3cD058JzvuqM0epZI)
 - [When It&#39;s Over by Sebastien, Ovi](https://open.spotify.com/track/7yebvgOaP8l5WkYh59dPxh)
-- [Kuaga (Lost Time) - Matthew Heyer Remix by Pierce Fulton, Matthew Heyer](https://open.spotify.com/track/3QzptVakmUpFkP0KDqQU3m)
-- [Haunting - Sebastien Extended Remix by Alex Cruz, Anna Renee, Melle Kuil, Sebastien](https://open.spotify.com/track/0hWtQm7I1sg1AXov4Ut7GN)
-- [Blinded by Deep Chills, Emma Carn](https://open.spotify.com/track/1Kr8qVQBldnHQbaMW7wS69)
-- [Save Me by LISTENBEE, Naz Tokio](https://open.spotify.com/track/4jNM6l3Amnmyy1kNCLcSWL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
