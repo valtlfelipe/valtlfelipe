@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer)** - A Google Drive Interface for your Cloudflare R2 Buckets! (5 days ago)
 
 #### 🎧 What I have been listening
+- [Forever Yours - Tim’s 2016 Ibiza Version by Avicii, Sandro Cavazza](https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT)
+- [Cuido dos Detalhes by André e Felipe, Isadora Pompeo](https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB)
 - [My Love For You by Trial &amp; Error](https://open.spotify.com/track/1EdNSUsetpyHVBopRTa3XZ)
 - [Miracle In The Middle Of My Heart by BCX, Clément Bcx](https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8)
 - [You &amp; I by Sterkøl, Treetalk, Bertrand Lacoste](https://open.spotify.com/track/4l8nQ64C9niirFLCywFIbv)
-- [All About by Jon Sine](https://open.spotify.com/track/2o7Of3cD058JzvuqM0epZI)
-- [When It&#39;s Over by Sebastien, Ovi](https://open.spotify.com/track/7yebvgOaP8l5WkYh59dPxh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
