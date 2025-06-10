@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[open-policy-agent/opa](https://github.com/open-policy-agent/opa)** - Open Policy Agent (OPA) is an open source, general-purpose policy engine. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Holding On by Jörð](https://open.spotify.com/track/5AlibHgdNyyQVLNHTtX5Ok)
-- [Out Of This Town by Sterkøl, Haukjem, Ellena Soule](https://open.spotify.com/track/1dYSt1iXgewCi6mU23nWMD)
-- [Close to You by GAMPER &amp; DADONI, Daniel Ahearn](https://open.spotify.com/track/3NTo2DIPvUkSVL7eVKwc0c)
-- [Fall by Jon Sine](https://open.spotify.com/track/5VvrM7JIEMPe7KyEl8a8OX)
-- [Sometimes by Second Sun](https://open.spotify.com/track/356UjUL3SSitcL9jby4avR)
+- [Haunting - Extended Mix by Alex Cruz, Anna Renee, Melle Kuil](https://open.spotify.com/track/39aGCMi7LAXI8bJsmh2G5E)
+- [Music In You by Sebastien, Boy Tedson](https://open.spotify.com/track/0t3uSTVVYGVYVKJUlOMqfk)
+- [Daybreak by w.ill](https://open.spotify.com/track/0WGtaEi5PE16mCOjhCM23h)
+- [Through It All by sûr faire](https://open.spotify.com/track/3kw1HMWR0E8gTKcOIlk8BF)
+- [Cried Wolf (feat. Katie Laffan) by Trial &amp; Error, Katie Laffan](https://open.spotify.com/track/3cNBO4TVsk6Dq18hsQKTDb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
