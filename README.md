@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (2 days ago)
 
 #### 🎧 What I have been listening
-- [I Loved You (feat. Melissa Steel) by Blonde, Melissa Steel](https://open.spotify.com/track/4KuS9s0fuqLznp9AJTqTm7)
-- [Five Hours by Deorro](https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT)
-- [Bad (feat. Vassy) - Radio Edit by David Guetta, Showtek, VASSY](https://open.spotify.com/track/6PtXobrqImYfnpIxNsJApa)
-- [Say My Name by ODESZA, Zyra](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed)
-- [Nobody To Love - Radio Edit by Sigma](https://open.spotify.com/track/2jsmSLoX8y0h6k4YzDCFH1)
+- [Break Free by Ariana Grande, Zedd](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4)
+- [Walking With Elephants by Ten Walls](https://open.spotify.com/track/0k7z2AgvfqnKr240HrPs0T)
+- [Payback by Dimitri Vangelis &amp; Wyman, Steve Angello](https://open.spotify.com/track/34XFgPp7wnmLSE4w8UNC7I)
+- [Virus (How About Now) by Martin Garrix, MOTi](https://open.spotify.com/track/70IfAocBAzUcc7v7QoikxD)
+- [Anywhere For You by John Martin](https://open.spotify.com/track/5rAklqEt9uWTXfj5qvpFCC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
