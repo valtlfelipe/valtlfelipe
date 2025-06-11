@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (2 days ago)
 
 #### 🎧 What I have been listening
+- [I Loved You (feat. Melissa Steel) by Blonde, Melissa Steel](https://open.spotify.com/track/4KuS9s0fuqLznp9AJTqTm7)
+- [Five Hours by Deorro](https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT)
 - [Bad (feat. Vassy) - Radio Edit by David Guetta, Showtek, VASSY](https://open.spotify.com/track/6PtXobrqImYfnpIxNsJApa)
 - [Say My Name by ODESZA, Zyra](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed)
 - [Nobody To Love - Radio Edit by Sigma](https://open.spotify.com/track/2jsmSLoX8y0h6k4YzDCFH1)
-- [Ten Feet Tall by AFROJACK, Wrabel](https://open.spotify.com/track/2ldAdghnrO34HPcZ0IWfTu)
-- [Riptide - FlicFlac Edit by Vance Joy, FlicFlac](https://open.spotify.com/track/6FeGkJquvWWoAOa3rMM6EB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
