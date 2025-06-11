@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (2 days ago)
 
 #### 🎧 What I have been listening
-- [10:35 (feat. Tate McRae) - Joel Corry Remix by Tiësto, Joel Corry, Tate McRae](https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB)
-- [Revolving door - Lavern remix by Tate McRae, Lavern](https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc)
-- [Waiting for Tonight - Radio Edit by Jennifer Lopez, FISHER](https://open.spotify.com/track/5GHVp2CCufZ8MJzYE82W7R)
-- [Cruel Summer - LP Giobbi Remix by Taylor Swift, LP Giobbi](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS)
-- [Unholy (feat. Kim Petras) - Disclosure Remix by Sam Smith, Kim Petras, Disclosure](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5)
+- [Don&#39;t Go Yet - Major Lazer Remix by Camila Cabello, Major Lazer](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf)
+- [feelslikeimfallinginlove - Zerb x Coldplay by Coldplay, Zerb](https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt)
+- [Summertime - Imanbek Remix by Lana Del Rey, Imanbek](https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5)
+- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
+- [Can&#39;t Get You out of My Head - Peggy Gou’s Midnight Remix by Kylie Minogue, Peggy Gou](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
