@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (2 days ago)
 
 #### 🎧 What I have been listening
+- [Netzwerk (Falls Like Rain) by Klangkarussell](https://open.spotify.com/track/7FGho3Adev1y2hTB949PGv)
+- [Miami 82 - Kygo Remix by Syn Cole, Kygo](https://open.spotify.com/track/2DFT4mdft2yUPs7rX6coSd)
 - [Firestone by Kygo, Conrad Sewell](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE)
 - [Waves - Robin Schulz Radio Edit by Mr. Probz, Robin Schulz](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs)
 - [Imagination by Gorgon City, Katy Menditta](https://open.spotify.com/track/3ZrWmt3DGH75hItHp6uWLz)
-- [Under Control (feat. Hurts) by Calvin Harris, Alesso, Hurts](https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq)
-- [One Day (Vandaag) - Radio Edit by Bakermat](https://open.spotify.com/track/0GSU6yLOJqO10ziQuBLWOE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
