@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Cut Your Teeth - Kygo Remix by Kyla La Grange, Kygo](https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY)
-- [Gecko (Overdrive) - Radio Edit by Oliver Heldens, Becky Hill](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml)
-- [All of Me - Tiësto&#39;s Birthday Treatment Remix - Radio Edit by John Legend, Jason Agel, Tiësto](https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF)
-- [Cocaine Model by ZHU](https://open.spotify.com/track/6J5Oxg5XtxRdVAbExaWFYB)
-- [Summer by Calvin Harris](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)
+- [Bad (feat. Vassy) - Radio Edit by David Guetta, Showtek, VASSY](https://open.spotify.com/track/6PtXobrqImYfnpIxNsJApa)
+- [Say My Name by ODESZA, Zyra](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed)
+- [Nobody To Love - Radio Edit by Sigma](https://open.spotify.com/track/2jsmSLoX8y0h6k4YzDCFH1)
+- [Ten Feet Tall by AFROJACK, Wrabel](https://open.spotify.com/track/2ldAdghnrO34HPcZ0IWfTu)
+- [Riptide - FlicFlac Edit by Vance Joy, FlicFlac](https://open.spotify.com/track/6FeGkJquvWWoAOa3rMM6EB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
