@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Don&#39;t Go Yet - Major Lazer Remix by Camila Cabello, Major Lazer](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf)
-- [feelslikeimfallinginlove - Zerb x Coldplay by Coldplay, Zerb](https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt)
-- [Summertime - Imanbek Remix by Lana Del Rey, Imanbek](https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5)
-- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
-- [Can&#39;t Get You out of My Head - Peggy Gou’s Midnight Remix by Kylie Minogue, Peggy Gou](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb)
+- [My Love by Route 94, Jess Glynne](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU)
+- [Sunlight (feat. Years and Years) by The Magician, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7w9W20r1IpCDQQMRcLEsQZ)
+- [Sun Goes Down (feat. Jasmine Thompson) - Radio Mix by Robin Schulz, Jasmine Thompson](https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3)
+- [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
+- [In the Dark (Oliver Heldens Remix) by Purple Disco Machine, Sophie and the Giants, Oliver Heldens](https://open.spotify.com/track/6ve6SoRuWVZ9kBP1frZTW1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
