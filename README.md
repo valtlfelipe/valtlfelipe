@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Stay Still by Le Youth, Forester, Lyrah](https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB)
-- [Memories by Sultan &#43; Shepard, The Kite String Tangle](https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI)
-- [DESCEND by Dezko](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP)
-- [Sunrise (feat. Madeline Megery) by Forester, OCULA, Madeline Megery](https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL)
-- [All We Ever Do by Keanler, Leo Stannard](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw)
+- [Wait For You by Elderbrook, Carlita](https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW)
+- [No Ending - Nils Hoffmann Remix by YOTTO, Julia Church, Nils Hoffmann](https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL)
+- [The Kind of Love by heylucas](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG)
+- [TRIPPIN by BUNT., Mapei](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7)
+- [Lost In The Melody by ItsArius, Lynnic, Dinia](https://open.spotify.com/track/1Cub15Xd4voUipcxcFj87N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
