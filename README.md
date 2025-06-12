@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Wait For You by Elderbrook, Carlita](https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW)
-- [No Ending - Nils Hoffmann Remix by YOTTO, Julia Church, Nils Hoffmann](https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL)
-- [The Kind of Love by heylucas](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG)
-- [TRIPPIN by BUNT., Mapei](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7)
-- [Lost In The Melody by ItsArius, Lynnic, Dinia](https://open.spotify.com/track/1Cub15Xd4voUipcxcFj87N)
+- [We Don&#39;t Talk Anymore (feat. Selena Gomez) by Charlie Puth, Selena Gomez](https://open.spotify.com/track/54PbBpquVfhfrwRwvjSXbI)
+- [Nothing Breaks Like a Heart (feat. Miley Cyrus) by Mark Ronson, Miley Cyrus](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn)
+- [Catch &amp; Release - Deepend Remix by Matt Simons, Deepend](https://open.spotify.com/track/11BAVEGi1ivJ6JWLqKUNrZ)
+- [Magic by Coldplay](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns)
+- [Magic by Coldplay](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
