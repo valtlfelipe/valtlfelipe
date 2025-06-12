@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (3 days ago)
 
 #### 🎧 What I have been listening
+- [All Good Things by Cornel Dascalu, Dj Diac, Margad](https://open.spotify.com/track/3a7sdvMzjQwUjC12Aampe0)
+- [Calm Down by DJ Goja, Magic Phase, Deep Mage](https://open.spotify.com/track/28Y0lMcpwX7eZyMVfhbaUm)
 - [Do It Again by Röyksopp, Robyn](https://open.spotify.com/track/5Vc0rH2fEXElLnzIIxLwlp)
 - [Sleepless - Radio Edit by CAZZETTE, The High](https://open.spotify.com/track/6AEMLsvCm4OYpN83ryOBMU)
 - [Find You by Zedd, Matthew Koma, Miriam Bryant](https://open.spotify.com/track/7mazffu6nlIv0rtRyPDMTD)
-- [Young Again by Hardwell, Chris Jones](https://open.spotify.com/track/2pnappP4F4nlPnYxGn5Ktt)
-- [She Moves by Alle Farben, Graham Candy](https://open.spotify.com/track/6ggAYREO7PlFwI2vbOG3dp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
