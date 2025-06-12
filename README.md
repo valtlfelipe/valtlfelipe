@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Faded by Veronica Bravo, Le Bober, Deep Mage](https://open.spotify.com/track/2rPopD6UNKBAz6SWs075N8)
-- [To Love Again by Blonde Maze, Lizzy Land](https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg)
-- [Right Here Waiting by DJ Alex Man, Dj Diac, Deep Mage](https://open.spotify.com/track/23KA3l4ItJMlnCTFO0Q3oC)
-- [All Good Things by Cornel Dascalu, Dj Diac, Margad](https://open.spotify.com/track/3a7sdvMzjQwUjC12Aampe0)
-- [Calm Down by DJ Goja, Magic Phase, Deep Mage](https://open.spotify.com/track/28Y0lMcpwX7eZyMVfhbaUm)
+- [Sweet Release by Nu Aspect](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq)
+- [Change of Driver by Falden, PEARL](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x)
+- [I’m Yours by Dream Chaos, Medusa, Deep Mage](https://open.spotify.com/track/2sR7GO2TNCZkLfrRJw3XNB)
+- [Where Is The Love? by MARSTEREON, Holly Terrens, Deep Mage](https://open.spotify.com/track/6bd7yhe5p0ayQw9lCr0Mo4)
+- [Beggin by Max Martis, HALUNA, Deep Mage](https://open.spotify.com/track/7nUzeocaZpOftJN8dv2iGV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
