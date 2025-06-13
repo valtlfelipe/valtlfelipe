@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (4 days ago)
 
 #### 🎧 What I have been listening
-- [After Hours by Kehlani](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF)
-- [Sorry I&#39;m Here For Someone Else by Benson Boone](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO)
-- [Bad Habits by Ed Sheeran](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d)
-- [Lose Control by Teddy Swims](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj)
-- [Someone To You by BANNERS](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr)
+- [Sunshine by OneRepublic](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B)
+- [Slow It Down by Benson Boone](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr)
+- [Missing Piece by Vance Joy](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ)
+- [El Merengue by Marshmello, Manuel Turizo](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9)
+- [Little Bit of Love by Tom Grennan](https://open.spotify.com/track/78q4ESvMkPVJzHAV11LAGE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
