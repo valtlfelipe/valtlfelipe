@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Late Night Talking by Harry Styles](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK)
-- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
-- [As It Was by Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
-- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
-- [Fix You by Coldplay](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q)
+- [After Hours by Kehlani](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF)
+- [Sorry I&#39;m Here For Someone Else by Benson Boone](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO)
+- [Bad Habits by Ed Sheeran](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d)
+- [Lose Control by Teddy Swims](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj)
+- [Someone To You by BANNERS](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
