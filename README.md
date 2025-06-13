@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (4 days ago)
 
 #### 🎧 What I have been listening
+- [Teenage Dream by Katy Perry](https://open.spotify.com/track/6r1ygpKNXg7deq18rzyM7F)
+- [Million Reasons by Lady Gaga](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo)
+- [Nothing Breaks Like a Heart (feat. Miley Cyrus) by Mark Ronson, Miley Cyrus](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn)
 - [Maps by Maroon 5](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc)
 - [Best Life by Ben Böhmer, JONAH](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC)
-- [Too Sweet by Hozier](https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ)
-- [Fast Car by Luke Combs](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT)
-- [We Don&#39;t Talk Anymore (feat. Selena Gomez) by Charlie Puth, Selena Gomez](https://open.spotify.com/track/54PbBpquVfhfrwRwvjSXbI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
