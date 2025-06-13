@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (4 days ago)
 
 #### 🎧 What I have been listening
-- [SNAP by Rosa Linn](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6)
-- [Part Of Me by Katy Perry](https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL)
-- [Die With A Smile by Lady Gaga, Bruno Mars](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe)
-- [Demons by Imagine Dragons](https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR)
-- [Fight Song by Rachel Platten](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr)
+- [Mercy by Shawn Mendes](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc)
+- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
+- [Belong Together by Mark Ambor](https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy)
+- [Circles by Post Malone](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb)
+- [Rewrite The Stars (with James Arthur &amp; Anne-Marie) by James Arthur, Anne-Marie](https://open.spotify.com/track/78nplE9X2ZGvQh3TKgvldE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
