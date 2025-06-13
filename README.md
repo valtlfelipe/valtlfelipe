@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Mercy by Shawn Mendes](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc)
-- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
-- [Belong Together by Mark Ambor](https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy)
-- [Circles by Post Malone](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb)
-- [Rewrite The Stars (with James Arthur &amp; Anne-Marie) by James Arthur, Anne-Marie](https://open.spotify.com/track/78nplE9X2ZGvQh3TKgvldE)
+- [Late Night Talking by Harry Styles](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK)
+- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
+- [As It Was by Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
+- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
+- [Fix You by Coldplay](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
