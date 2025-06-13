@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (4 days ago)
 
 #### 🎧 What I have been listening
+- [Revolving door by Tate McRae](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC)
+- [Wait For You by Myles Smith](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw)
+- [GOOD FEELiNGS by Coldplay, Ayra Starr](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO)
+- [Remember by Becky Hill, David Guetta](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb)
 - [Sunshine by OneRepublic](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B)
-- [Slow It Down by Benson Boone](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr)
-- [Missing Piece by Vance Joy](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ)
-- [El Merengue by Marshmello, Manuel Turizo](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9)
-- [Little Bit of Love by Tom Grennan](https://open.spotify.com/track/78q4ESvMkPVJzHAV11LAGE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
