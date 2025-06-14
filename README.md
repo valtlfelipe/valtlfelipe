@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Revolving door by Tate McRae](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC)
-- [Wait For You by Myles Smith](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw)
-- [GOOD FEELiNGS by Coldplay, Ayra Starr](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO)
-- [Remember by Becky Hill, David Guetta](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb)
-- [Sunshine by OneRepublic](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B)
+- [Teenage Dream by Katy Perry](https://open.spotify.com/track/6r1ygpKNXg7deq18rzyM7F)
+- [Million Reasons by Lady Gaga](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo)
+- [Ordinary by Alex Warren](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe)
+- [Nothing Breaks Like a Heart (feat. Miley Cyrus) by Mark Ronson, Miley Cyrus](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn)
+- [Maps by Maroon 5](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
