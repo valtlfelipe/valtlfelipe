@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Paradise by Coldplay](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D)
-- [Water by Tyla](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw)
-- [Paradise by Coldplay](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D)
-- [Issues by Julia Michaels](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0)
-- [Be Alright by Dean Lewis](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm)
+- [Lose You To Love Me by Selena Gomez](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi)
+- [SNAP by Rosa Linn](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6)
+- [Scars To Your Beautiful by Alessia Cara](https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd)
+- [Teenage Dream by Katy Perry](https://open.spotify.com/track/6r1ygpKNXg7deq18rzyM7F)
+- [I Like Me Better by Lauv](https://open.spotify.com/track/4MagTPnkPiDuIa4P8GtW1b)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
