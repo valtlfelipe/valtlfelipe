@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Die With A Smile by Lady Gaga, Bruno Mars](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe)
-- [Demons by Imagine Dragons](https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR)
-- [Fight Song by Rachel Platten](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr)
-- [Teenage Dream by Katy Perry](https://open.spotify.com/track/6r1ygpKNXg7deq18rzyM7F)
-- [Million Reasons by Lady Gaga](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo)
+- [Leave Before You Love Me (with Jonas Brothers) by Marshmello, Jonas Brothers](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1)
+- [Memories by Maroon 5](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI)
+- [We Are Young (feat. Janelle Monáe) by fun., Janelle Monáe](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf)
+- [Unstoppable by Sia](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS)
+- [Mercy by Shawn Mendes](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
