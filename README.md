@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[theopenco/llmgateway](https://github.com/theopenco/llmgateway)** - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Die With A Smile by Lady Gaga, Bruno Mars](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe)
+- [Demons by Imagine Dragons](https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR)
+- [Fight Song by Rachel Platten](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr)
 - [Teenage Dream by Katy Perry](https://open.spotify.com/track/6r1ygpKNXg7deq18rzyM7F)
 - [Million Reasons by Lady Gaga](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo)
-- [Ordinary by Alex Warren](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe)
-- [Nothing Breaks Like a Heart (feat. Miley Cyrus) by Mark Ronson, Miley Cyrus](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn)
-- [Maps by Maroon 5](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
