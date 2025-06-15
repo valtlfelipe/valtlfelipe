@@ -11,9 +11,9 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 
 #### 🎧 What I have been listening
 - [Paradise by Coldplay](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D)
+- [Water by Tyla](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw)
+- [Paradise by Coldplay](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D)
 - [Issues by Julia Michaels](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0)
 - [Be Alright by Dean Lewis](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm)
-- [Demons by Imagine Dragons](https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR)
-- [Always Remember Us This Way by Lady Gaga](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
