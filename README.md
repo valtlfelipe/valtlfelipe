@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apple/container](https://github.com/apple/container)** - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (6 days ago)
 
 #### 🎧 What I have been listening
+- [Simply The Best - Radio edit by Mr. Black &amp; Blue, Ruben Icarus](https://open.spotify.com/track/0R5gjqJdr1U4PU5cZqF6rv)
+- [Wait For You by Lonely in the Rain](https://open.spotify.com/track/2WUH6CMhOmNWuT8Y2kK420)
+- [Lie To Me by Sheeva, Ikarus, MD DJ](https://open.spotify.com/track/0VCyFv4E53WdH7wb2iKtj4)
+- [Ocean Views by Meynberg](https://open.spotify.com/track/2DG3B0uLsy353bvajZ9SXz)
 - [Klanga by Gostan](https://open.spotify.com/track/4e792Rjo6Zz0IlWp7mIOye)
-- [Thinking of You by Sundays, Mo Jito, ISLND](https://open.spotify.com/track/7ATIjLCDs3NuIPkJx3FXGX)
-- [Hold On by LU2VYK, Madison Gold](https://open.spotify.com/track/7H1YLZdOj6sMBwfWb3FM81)
-- [Stay Forever - Extended Mix by Metrush, GSPR](https://open.spotify.com/track/3tX0PVYdYWy9rldhUzRCRG)
-- [Sweet Devotion by Betterment](https://open.spotify.com/track/6aKgTJOS6zx1VHafXA3Bkl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
