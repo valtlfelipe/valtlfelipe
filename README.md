@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apple/container](https://github.com/apple/container)** - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (6 days ago)
 
 #### 🎧 What I have been listening
-- [Simply The Best - Radio edit by Mr. Black &amp; Blue, Ruben Icarus](https://open.spotify.com/track/0R5gjqJdr1U4PU5cZqF6rv)
-- [Wait For You by Lonely in the Rain](https://open.spotify.com/track/2WUH6CMhOmNWuT8Y2kK420)
-- [Lie To Me by Sheeva, Ikarus, MD DJ](https://open.spotify.com/track/0VCyFv4E53WdH7wb2iKtj4)
-- [Ocean Views by Meynberg](https://open.spotify.com/track/2DG3B0uLsy353bvajZ9SXz)
-- [Klanga by Gostan](https://open.spotify.com/track/4e792Rjo6Zz0IlWp7mIOye)
+- [Make U Mine by Metrush, Triple M](https://open.spotify.com/track/5BiRPLMcYMNgbb0oHrqwCj)
+- [Wonderful Life by Catching Sunrises, Adrian Saguna, &amp;SARA, Grooveboy](https://open.spotify.com/track/7yvmRqjZ7sKVvmdJFJ62nl)
+- [Alone With You by Y.V.E. 48, Loé](https://open.spotify.com/track/4g8MsP1hx7VyvTmXZ4ny4U)
+- [Lift Me Higher by DJ Lumora](https://open.spotify.com/track/60aSBk4VPrkbXS7qrTmQkx)
+- [What do you expect - its getting late sunrise mix by INSCT](https://open.spotify.com/track/2gllkDOXVYQUmbWYbIehdn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
