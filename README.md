@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[apple/containerization](https://github.com/apple/containerization)** - Containerization is a Swift package for running Linux containers on macOS. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Riptide by Vance Joy](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o)
-- [Lose Control by Teddy Swims](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj)
-- [Easy by LVAN, maybealice](https://open.spotify.com/track/3Krf38PYCOoRA7zTIFgi5F)
-- [Catch &amp; Release - Deepend Remix by Matt Simons, Deepend](https://open.spotify.com/track/11BAVEGi1ivJ6JWLqKUNrZ)
-- [Memories by Maroon 5](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI)
+- [Ophelia by TWOPILOTS, Xtina Louise](https://open.spotify.com/track/3aGC2lWoDRdfT5Wd8Nmmbk)
+- [Rain Fall by PressPlays, Oly](https://open.spotify.com/track/49STjfZeI7dDjnzdgLtHUU)
+- [Close Your Eyes by Dezza](https://open.spotify.com/track/48tGkYAzKPKvgvx8BZPozB)
+- [Ringtone by Isentie](https://open.spotify.com/track/1ErNO8eRuugLUYKaJt4NIV)
+- [Relax, Take It Easy by Nevertown](https://open.spotify.com/track/0mf8vh08OImMRoQTr0Pny7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
