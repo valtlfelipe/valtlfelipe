@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b)** - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, Plane Finder, OpenSky Network, AirNav Radar, ADSB Exchange, Wingbits, adsb.fi, ADSB.lol, ADS-B One, airplanes.live, Planespotters.net, TheAirTraffic, AvDelphi, HP Radar, RadarPlane, Fly Italy ADSB and plane.watch. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Hey, Soul Sister by Train](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv)
-- [One Last Dance by Audien, XIRA](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L)
-- [High Tide by Shallou](https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ)
-- [Walking on a Dream by Du0](https://open.spotify.com/track/1XYc5rKRlOk94IUJZr27Yu)
-- [Memories by CRi, Sophia Bel](https://open.spotify.com/track/2s5VFHjQkBIipPndpB1sJD)
+- [Twilight by heylucas, NVRT](https://open.spotify.com/track/2fvhV6sto6aEblNbnZmttv)
+- [Lost Memories by Ourson](https://open.spotify.com/track/6lmTuBdUTzidXi0vqxqr0M)
+- [It’s a Feeling by dvine](https://open.spotify.com/track/4lTny0SN8z8IcM7qihLUXx)
+- [No One Else by Nils Hoffmann, Gordi](https://open.spotify.com/track/7xRNtmOCuXqkm7eRNQsowl)
+- [In Your Arms by Dezza](https://open.spotify.com/track/3NoPCTKM8sYlQB42uZwisd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
