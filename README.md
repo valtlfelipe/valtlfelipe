@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b)** - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, Plane Finder, OpenSky Network, AirNav Radar, ADSB Exchange, Wingbits, adsb.fi, ADSB.lol, ADS-B One, airplanes.live, Planespotters.net, TheAirTraffic, AvDelphi, HP Radar, RadarPlane, Fly Italy ADSB and plane.watch. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
-- [One Last Dance - Polar Inc. Remix by Audien, XIRA, Polar Inc.](https://open.spotify.com/track/0fTIgC6Ppe4KuXlNXO5KzR)
-- [Lost for a Little While by Du0](https://open.spotify.com/track/1JHC97Pt2DSLu8QhcMSppN)
-- [Twilight by heylucas, NVRT](https://open.spotify.com/track/2fvhV6sto6aEblNbnZmttv)
-- [Lost Memories by Ourson](https://open.spotify.com/track/6lmTuBdUTzidXi0vqxqr0M)
+- [I See Your Colors by Duckmaw](https://open.spotify.com/track/7MJ6IxSt1QV2tzrFPF9sMO)
+- [No Place I Call Home by Tez Cadey, Wim &amp; Mara](https://open.spotify.com/track/4RuuiH16GHOe0xZNft5km9)
+- [Follow The Sun by Lost In Pacific, Noah Kulaga](https://open.spotify.com/track/0Kk0afCAfEVtdJgDgISayk)
+- [By My Side by Massane, MAGNUS](https://open.spotify.com/track/0oiXA5d3B3QAbHFwom7OJZ)
+- [Promise by heylucas](https://open.spotify.com/track/53yryXhiQH6zt8tUjE6V32)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
