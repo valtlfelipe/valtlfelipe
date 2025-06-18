@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b)** - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, Plane Finder, OpenSky Network, AirNav Radar, ADSB Exchange, Wingbits, adsb.fi, ADSB.lol, ADS-B One, airplanes.live, Planespotters.net, TheAirTraffic, AvDelphi, HP Radar, RadarPlane, Fly Italy ADSB and plane.watch. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Something Else by Abroad](https://open.spotify.com/track/7iFHc2i0T1svkVOkRQVQr4)
-- [Head Rush by BOII](https://open.spotify.com/track/37q25Jcletr3hzStpeWUXp)
-- [Chasing Cars by le moon, Aurila](https://open.spotify.com/track/6MbgvGntElWQ56sZPIFC1Z)
-- [Saint - Shallou Remix by Forester, Shallou](https://open.spotify.com/track/1lx8MpYLmarUqggBRWKcyG)
-- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
+- [Orbit by Keanler](https://open.spotify.com/track/5hVoyBOyiIGfjdcdXMvYUA)
+- [Did I Luv U by Friends &amp; I](https://open.spotify.com/track/1UPkeWS6n2vnEhBbpsGpmI)
+- [champagne season by Troy Ogletree](https://open.spotify.com/track/23rR3o3kQHMZvjJPvmUsj6)
+- [Elenore by Sultan &#43; Shepard, Andrew Belle](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ)
+- [Caught In A Motion by Maiwan](https://open.spotify.com/track/6guZijIBWaYcpfUncEZJFG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
