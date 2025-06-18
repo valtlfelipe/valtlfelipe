@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b)** - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, Plane Finder, OpenSky Network, AirNav Radar, ADSB Exchange, Wingbits, adsb.fi, ADSB.lol, ADS-B One, airplanes.live, Planespotters.net, TheAirTraffic, AvDelphi, HP Radar, RadarPlane, Fly Italy ADSB and plane.watch. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Calling by Abroad](https://open.spotify.com/track/6Z7jqjOqJimTfrcFJ6yN3u)
-- [Kinda Love - 2021 Edit by Richard Judge](https://open.spotify.com/track/4FEtKtYSIlMjtaN5Zk6qHG)
-- [Memories by CRi, Sophia Bel](https://open.spotify.com/track/2s5VFHjQkBIipPndpB1sJD)
-- [Reminds Me Of Us by Iaco, Amphitryon, Chloé Hétier](https://open.spotify.com/track/3GLQvY5d9zmLVXvrlfZQA4)
-- [Echoes by Du0, Reo Cragun](https://open.spotify.com/track/0oyqiTMo4tKvxS7PkASNAh)
+- [Something Else by Abroad](https://open.spotify.com/track/7iFHc2i0T1svkVOkRQVQr4)
+- [Head Rush by BOII](https://open.spotify.com/track/37q25Jcletr3hzStpeWUXp)
+- [Chasing Cars by le moon, Aurila](https://open.spotify.com/track/6MbgvGntElWQ56sZPIFC1Z)
+- [Saint - Shallou Remix by Forester, Shallou](https://open.spotify.com/track/1lx8MpYLmarUqggBRWKcyG)
+- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
