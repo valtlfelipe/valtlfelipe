@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b)** - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, Plane Finder, OpenSky Network, AirNav Radar, ADSB Exchange, Wingbits, adsb.fi, ADSB.lol, ADS-B One, airplanes.live, Planespotters.net, TheAirTraffic, AvDelphi, HP Radar, RadarPlane, Fly Italy ADSB and plane.watch. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Be Mine Again by Abroad](https://open.spotify.com/track/6UIBk99abXF1se65yjQSkk)
-- [Feel So Close by Y.V.E. 48, Aaron Pfeiffer](https://open.spotify.com/track/0o5SMckKtlPqLMJ3mokdMN)
-- [Breathtaking World by dvine](https://open.spotify.com/track/5fjMgVyAbFpnNfq022moGJ)
-- [Overflow - feat. Joel Stewart by heylucas, Joel Stewart](https://open.spotify.com/track/380vyl9xb7um0l5qIYyWeC)
-- [I See Your Colors by Duckmaw](https://open.spotify.com/track/7MJ6IxSt1QV2tzrFPF9sMO)
+- [Was Your Smile Real ? by XIXI, Philippa Kinsky](https://open.spotify.com/track/0JXvKBgvGxcu1AgbWqUGN6)
+- [Melody of Daylight by dvine](https://open.spotify.com/track/1fb1DF5po9Yhb4qmfFFU5H)
+- [Illuminated Window by Tape Machines](https://open.spotify.com/track/20aVS4FAY41GH8qtf56glg)
+- [Hurry Up We&#39;re Dreaming by Ourson, Francis Skyes](https://open.spotify.com/track/3niUHZZ9CPbiJv77ERRRKs)
+- [Yellow - Lipless Remix by Emmit Fenn, Lipless](https://open.spotify.com/track/5XEHm2EAUcXetpRvn8meKF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
