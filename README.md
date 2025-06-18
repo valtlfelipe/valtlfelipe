@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b)** - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, Plane Finder, OpenSky Network, AirNav Radar, ADSB Exchange, Wingbits, adsb.fi, ADSB.lol, ADS-B One, airplanes.live, Planespotters.net, TheAirTraffic, AvDelphi, HP Radar, RadarPlane, Fly Italy ADSB and plane.watch. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Was Your Smile Real ? by XIXI, Philippa Kinsky](https://open.spotify.com/track/0JXvKBgvGxcu1AgbWqUGN6)
-- [Melody of Daylight by dvine](https://open.spotify.com/track/1fb1DF5po9Yhb4qmfFFU5H)
-- [Illuminated Window by Tape Machines](https://open.spotify.com/track/20aVS4FAY41GH8qtf56glg)
-- [Hurry Up We&#39;re Dreaming by Ourson, Francis Skyes](https://open.spotify.com/track/3niUHZZ9CPbiJv77ERRRKs)
-- [Yellow - Lipless Remix by Emmit Fenn, Lipless](https://open.spotify.com/track/5XEHm2EAUcXetpRvn8meKF)
+- [Echoes by Du0, Reo Cragun](https://open.spotify.com/track/0oyqiTMo4tKvxS7PkASNAh)
+- [Another Dawn by Massane, Kinnship](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA)
+- [Coffee by Abroad](https://open.spotify.com/track/0cuvkojX6QbHAdX4f025L3)
+- [Belong by Astrality, soleil, Kleeve](https://open.spotify.com/track/5LcGjaGobr1U6bsl6qpuWi)
+- [Love Again by LO, Sarah Lahn](https://open.spotify.com/track/2kAC89DhMgAXjYx8M8zMzP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
