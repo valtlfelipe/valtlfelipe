@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b)** - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, Plane Finder, OpenSky Network, AirNav Radar, ADSB Exchange, Wingbits, adsb.fi, ADSB.lol, ADS-B One, airplanes.live, Planespotters.net, TheAirTraffic, AvDelphi, HP Radar, RadarPlane, Fly Italy ADSB and plane.watch. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Close To U by XIXI, Kwesi](https://open.spotify.com/track/0K1zA0SZDijI0K7Y8oNFqp)
-- [Grapevine by Lane 8, Elderbrook](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq)
-- [Your Body by le moon](https://open.spotify.com/track/0nl942hhvEAeF6w4qfw919)
-- [Holding On To Me by Abroad](https://open.spotify.com/track/7yLiJIGqXcCIymbRROzpv9)
-- [Alive by Lost In Pacific](https://open.spotify.com/track/006gRhPpVt7I0Xe7C7ULkF)
+- [If Only You Could Be Inside My Mind by Friends &amp; I](https://open.spotify.com/track/2qUbwUfeEZeAn039FBv9kf)
+- [ready to forget you by le moon](https://open.spotify.com/track/7mlH3UvvWYiPgwvxL7Q3PW)
+- [Oasis by D.Polo](https://open.spotify.com/track/2a4LPmtGaJfpgRbsosKeAc)
+- [Let You Know - Summer Edit by Y.V.E. 48](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C)
+- [Shade In The Summer by Lost In Pacific, Landon Ryle](https://open.spotify.com/track/5e6uRmRhnXEqzq6Fvf96BT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
