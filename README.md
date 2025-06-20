@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b)** - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, Plane Finder, OpenSky Network, AirNav Radar, ADSB Exchange, Wingbits, adsb.fi, ADSB.lol, ADS-B One, airplanes.live, Planespotters.net, TheAirTraffic, AvDelphi, HP Radar, RadarPlane, Fly Italy ADSB and plane.watch. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Need by SMVACK](https://open.spotify.com/track/2a12zAH8K7OtI8KisWwUmy)
+- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
 - [For a Night by le moon](https://open.spotify.com/track/4NWA64fjWoYrhr22Ped5DY)
 - [Beneath Our Beating Sun by MAB](https://open.spotify.com/track/2w6i1bb9OFSjjvgCKaOR03)
 - [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
-- [Coves by Lost In Pacific, Robertson](https://open.spotify.com/track/7ARfJeCbmay9KyFkATeop1)
-- [Nowhere by XIXI, ARI.](https://open.spotify.com/track/7aGvR2BrB78PP56iqsUwVc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
