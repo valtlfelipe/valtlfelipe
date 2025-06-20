@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b)** - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, Plane Finder, OpenSky Network, AirNav Radar, ADSB Exchange, Wingbits, adsb.fi, ADSB.lol, ADS-B One, airplanes.live, Planespotters.net, TheAirTraffic, AvDelphi, HP Radar, RadarPlane, Fly Italy ADSB and plane.watch. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Need by SMVACK](https://open.spotify.com/track/2a12zAH8K7OtI8KisWwUmy)
-- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
-- [For a Night by le moon](https://open.spotify.com/track/4NWA64fjWoYrhr22Ped5DY)
-- [Beneath Our Beating Sun by MAB](https://open.spotify.com/track/2w6i1bb9OFSjjvgCKaOR03)
-- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
+- [You Feel like a Universe by Giants&#39; Nest](https://open.spotify.com/track/2A9hBi5r7rbQXhwGri6zrs)
+- [Naama by Sultan &#43; Shepard, Nathan Nicholson](https://open.spotify.com/track/2CFGJOKqK7pOdGN4Ujg0Ea)
+- [Forever And A Day by LP Giobbi, Caroline Byrne](https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2)
+- [Back To My Bed - VIP by Elderbrook](https://open.spotify.com/track/0eAF1CwZftTIJekNPh12uB)
+- [Move into Me - Roosevelt Remix by Bad Sounds, BROODS, Roosevelt](https://open.spotify.com/track/6RL874lg82xKIK67y7cmdL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
