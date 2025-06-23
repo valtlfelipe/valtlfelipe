@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[good-lly/s3mini](https://github.com/good-lly/s3mini)** - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq (1 week ago)
 
 #### 🎧 What I have been listening
-- [Best Part by DMASSO](https://open.spotify.com/track/12ylNuVulgoyWAwsfcVTtz)
-- [Sundown by Coconut &amp; Palm Trees](https://open.spotify.com/track/09PSpnj9hH0kpoRDRWucVW)
-- [Remember (Alright) by ATANA](https://open.spotify.com/track/0AOEIxnRtMr3hLjpwaH9fy)
-- [Summer On You (feat. Wulf) by Sam Feldt, Lucas &amp; Steve, Wulf](https://open.spotify.com/track/0o8PAzsSLDa4MVQJixGVty)
-- [Something In Mykonos by Loutro](https://open.spotify.com/track/5g7U2tLQMS8QVLSXJeeztE)
+- [stay by Aden Lou](https://open.spotify.com/track/56PS9rUrkwa1TYG6l1Vb0v)
+- [What A Feeling by Courtney Storm, Finley Brückner](https://open.spotify.com/track/4MqY1JHLLfI0V62iZ3MDNa)
+- [Location by Zerb, Ty Dolla $ign, Wiz Khalifa](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP)
+- [Lifetime by J Ribbon](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL)
+- [Feelings by Sun City](https://open.spotify.com/track/4IAiZEeiJBVs8qFqxfYShW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
