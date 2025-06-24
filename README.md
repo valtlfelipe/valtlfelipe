@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[good-lly/s3mini](https://github.com/good-lly/s3mini)** - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq (1 week ago)
 
 #### 🎧 What I have been listening
-- [Daybreak by Duce, Maynørr, Courtney Storm](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA)
-- [Sisu by djimboh](https://open.spotify.com/track/4lDA9Vt8HVEHRf4OeV4fVC)
-- [Feel The Love by Ourson, Ren Ocean](https://open.spotify.com/track/1nsAILHPxlpmVvWWo79tAG)
-- [Rarest Kind by Lovlee](https://open.spotify.com/track/4x4rdlczL3PzoiYje7sKbR)
-- [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
+- [Kingfisher by TOMB](https://open.spotify.com/track/70CB8jQljPe4C8UQBvJnGA)
+- [Bittersweet by Audien, Shallou, Rosie Darling](https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE)
+- [end of time by Aden Lou](https://open.spotify.com/track/4Afvn5sFEU1Ch377rXf7F1)
+- [is this real love - slowed by Ninezz](https://open.spotify.com/track/4sh4ZcktQAECJ54qpWc0ob)
+- [Ringtone by Isentie](https://open.spotify.com/track/1ErNO8eRuugLUYKaJt4NIV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
