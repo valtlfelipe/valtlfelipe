@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[good-lly/s3mini](https://github.com/good-lly/s3mini)** - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq (1 week ago)
 
 #### 🎧 What I have been listening
+- [What Can I Do by Portrait](https://open.spotify.com/track/4aEKZ3X6SFcrMwI1ejbZ9l)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
 - [Set Me Free by Guy Didden](https://open.spotify.com/track/0QodaQsiSUGyDTAqr6Kyl5)
 - [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
 - [The Silence by Freyer, noo](https://open.spotify.com/track/4XAoQwp9nspONq8R9k8Ybp)
-- [Tides Of Time by w.ill](https://open.spotify.com/track/0yXhktRl4FKcf3q2R6aGnK)
-- [Think You Are by djimboh](https://open.spotify.com/track/4vJu4JIMlSL1az9Jlx6SZk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
