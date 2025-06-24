@@ -3,7 +3,7 @@
 I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)** - Demo of a customer service use case implemented with the OpenAI Agents SDK (today)
+- **[openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)** - Demo of a customer service use case implemented with the OpenAI Agents SDK (1 day ago)
 - **[czhu12/canine](https://github.com/czhu12/canine)** - Power of Kubernetes, Simplicity of Heroku (1 week ago)
 - **[keshavdv/unifi-cam-proxy](https://github.com/keshavdv/unifi-cam-proxy)** - Enable non-Ubiquiti cameras to work with Unifi NVR (1 week ago)
 - **[wildcatdb/wildcat](https://github.com/wildcatdb/wildcat)** - Open-source storage engine for highly concurrent, transactional log-structured key-value storage. (1 week ago)
