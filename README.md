@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[good-lly/s3mini](https://github.com/good-lly/s3mini)** - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq (2 weeks ago)
 
 #### 🎧 What I have been listening
+- [Love Again by Kelo, CRE, Deep Mage, SOULWAY](https://open.spotify.com/track/59fbRVhzsu6rCvqL70D0m6)
 - [Easy by LVAN, maybealice](https://open.spotify.com/track/3Krf38PYCOoRA7zTIFgi5F)
 - [Feels So Right by Aden Lou](https://open.spotify.com/track/4POjJI8EJIbchOE0fju0QR)
 - [Worry by SOULO](https://open.spotify.com/track/6Oo3RvRhtEHndiJxpQSQoG)
 - [Can’t Get Enough by Victoria Nadine, Kygo](https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz)
-- [What Can I Do by Portrait](https://open.spotify.com/track/4aEKZ3X6SFcrMwI1ejbZ9l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
