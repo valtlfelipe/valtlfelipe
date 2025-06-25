@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[keshavdv/unifi-cam-proxy](https://github.com/keshavdv/unifi-cam-proxy)** - Enable non-Ubiquiti cameras to work with Unifi NVR (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sun Came Up by Sofi Tukker, John Summit](https://open.spotify.com/track/4OssNR8i2CZHzIBJDxRh2e)
-- [When We Were Young (The Logical Song) by David Guetta, Kim Petras](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq)
-- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN)
-- [Work With My Love by Alok, James Arthur](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw)
-- [My Heart Goes (La Di Da) by Becky Hill, Topic](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p)
+- [Carry You by Martin Garrix, Third Party, Oaks, Declan J Donovan](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
+- [(It Goes Like) Nanana - Edit by Peggy Gou](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w)
+- [By Your Side (feat. Tom Grennan) by Calvin Harris, Tom Grennan](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV)
+- [How Will I Know by Whitney Houston, Clean Bandit](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
