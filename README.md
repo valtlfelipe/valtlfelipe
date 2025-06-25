@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wildcatdb/wildcat](https://github.com/wildcatdb/wildcat)** - Open-source storage engine for highly concurrent, transactional log-structured key-value storage. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Original Sin by Sofi Tukker](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6)
-- [Deep Down (feat. Never Dull) by Alok, Ella Eyre, Kenny Dope, Never Dull](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb)
-- [Drifting by Tiësto, Poppy Baskcomb](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi)
-- [Si No Estás by iñigo quintero](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14)
-- [feelslikeimfallinginlove by Coldplay](https://open.spotify.com/track/5VSqvL5NLxBr7uMNfjwLt8)
+- [On My Love by Zara Larsson, David Guetta](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
+- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3)
+- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
