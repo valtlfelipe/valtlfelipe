@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wildcatdb/wildcat](https://github.com/wildcatdb/wildcat)** - Open-source storage engine for highly concurrent, transactional log-structured key-value storage. (1 week ago)
 
 #### 🎧 What I have been listening
-- [On My Love by Zara Larsson, David Guetta](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN)
-- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
-- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
-- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3)
-- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
+- [My Heart Goes (La Di Da) by Becky Hill, Topic](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p)
+- [Hallucination by Regard, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu)
+- [Miracle (with Ellie Goulding) by Calvin Harris, Ellie Goulding](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ)
+- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
+- [Deep In Your Love by Alok, Bebe Rexha](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
