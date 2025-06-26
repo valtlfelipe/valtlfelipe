@@ -3,9 +3,9 @@
 I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (today)
-- **[HugoRCD/shelve](https://github.com/HugoRCD/shelve)** - Open-source secret &amp; environment management. Secure, simple, collaborative. CLI &amp; Github Sync (today)
-- **[openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)** - Demo of a customer service use case implemented with the OpenAI Agents SDK (2 days ago)
+- **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (1 day ago)
+- **[HugoRCD/shelve](https://github.com/HugoRCD/shelve)** - Open-source secret &amp; environment management. Secure, simple, collaborative. CLI &amp; Github Sync (1 day ago)
+- **[openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)** - Demo of a customer service use case implemented with the OpenAI Agents SDK (3 days ago)
 - **[czhu12/canine](https://github.com/czhu12/canine)** - Power of Kubernetes, Simplicity of Heroku (1 week ago)
 - **[keshavdv/unifi-cam-proxy](https://github.com/keshavdv/unifi-cam-proxy)** - Enable non-Ubiquiti cameras to work with Unifi NVR (1 week ago)
 
