@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)** - Demo of a customer service use case implemented with the OpenAI Agents SDK (3 days ago)
 
 #### 🎧 What I have been listening
-- [You by Regard, Troye Sivan, Tate McRae](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE)
-- [Lose You - Felix Jaehn Remix by Sam Smith, Felix Jaehn](https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC)
-- [Vanilla Sky by Jubël](https://open.spotify.com/track/35Mn6UIBKLyYCjvTlXBgXj)
-- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
-- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
+- [Bloodstream by twocolors](https://open.spotify.com/track/236irGwQHCBQnRJs2zgoib)
+- [All That Really Matters by ILLENIUM, Teddy Swims](https://open.spotify.com/track/6cLrGfKIIRHYQw7S0mCDhA)
+- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
+- [Creep by GAMPER &amp; DADONI](https://open.spotify.com/track/6KtHzurc7we1i8WbdbDpJD)
+- [Aftertaste by Loud Luxury, Morgan St. Jean](https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
