@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)** - Demo of a customer service use case implemented with the OpenAI Agents SDK (4 days ago)
 
 #### 🎧 What I have been listening
+- [Walk of Fame (feat. Brittany Howard) - Edit by Miley Cyrus, Brittany Howard](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn)
+- [Back In My Bed by Jax Jones, MEYY, Y2J!](https://open.spotify.com/track/5Ptt8Whisd1IwucwgXEyeT)
+- [3am by Łaszewo](https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h)
+- [Mr. Cool by Kenya Grace](https://open.spotify.com/track/5vRvTccr05SrSnqVvNAmVX)
 - [Demise by Daya](https://open.spotify.com/track/5exv0bDkEoKX0307raOYRQ)
-- [Run (feat. Ragdoll) by Henri PFR, Ragdoll](https://open.spotify.com/track/35t8pOqxELRbWS7ODsyc7p)
-- [On Your Own by Hayden James, Cassian, Elderbrook](https://open.spotify.com/track/5chP2SaqqY0QkENMp1yg5x)
-- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/6BjG4NirMgJfC6QAvbfBNG)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
