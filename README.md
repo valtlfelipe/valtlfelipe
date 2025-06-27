@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)** - Demo of a customer service use case implemented with the OpenAI Agents SDK (4 days ago)
 
 #### 🎧 What I have been listening
-- [Bloodstream by twocolors](https://open.spotify.com/track/236irGwQHCBQnRJs2zgoib)
-- [All That Really Matters by ILLENIUM, Teddy Swims](https://open.spotify.com/track/6cLrGfKIIRHYQw7S0mCDhA)
-- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
-- [Creep by GAMPER &amp; DADONI](https://open.spotify.com/track/6KtHzurc7we1i8WbdbDpJD)
-- [Aftertaste by Loud Luxury, Morgan St. Jean](https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG)
+- [Demise by Daya](https://open.spotify.com/track/5exv0bDkEoKX0307raOYRQ)
+- [Run (feat. Ragdoll) by Henri PFR, Ragdoll](https://open.spotify.com/track/35t8pOqxELRbWS7ODsyc7p)
+- [On Your Own by Hayden James, Cassian, Elderbrook](https://open.spotify.com/track/5chP2SaqqY0QkENMp1yg5x)
+- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/6BjG4NirMgJfC6QAvbfBNG)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
