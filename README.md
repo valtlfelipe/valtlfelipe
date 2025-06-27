@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[HugoRCD/shelve](https://github.com/HugoRCD/shelve)** - Open-source secret &amp; environment management. Secure, simple, collaborative. CLI &amp; Github Sync (2 days ago)
 
 #### 🎧 What I have been listening
+- [Lola&#39;s Theme - Radio Edit by The Shapeshifters](https://open.spotify.com/track/60ZRKTMc94bcjiN4FI0XDm)
+- [We Could Be Love by Hayden James, AR/CO](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O)
+- [Relax My Eyes by ANOTR, Abel Balder](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH)
+- [Atmosphere by FISHER, Kita Alexander](https://open.spotify.com/track/63HwAAXuSV2tzIUPoHOwZa)
 - [Mina Kupenda by Thierry Von Der Warth, joki, Mugisho](https://open.spotify.com/track/5tsSdgnZLNhVt78voyyjju)
-- [Desire by Olly Alexander (Years &amp; Years), Tove Lo](https://open.spotify.com/track/6TMzuNLw1ZPgBqPKmnnObm)
-- [Sorry (with Madonna) - Franky Rizardo Remix by BLOND:ISH, Madonna, Franky Rizardo, Eran Hersh, Darmon](https://open.spotify.com/track/2BtCQtoNGPo74ChfxACqM2)
-- [Saving It All by BYOR, Angel Janson](https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8)
-- [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
