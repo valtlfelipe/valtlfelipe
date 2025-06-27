@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[HugoRCD/shelve](https://github.com/HugoRCD/shelve)** - Open-source secret &amp; environment management. Secure, simple, collaborative. CLI &amp; Github Sync (2 days ago)
 
 #### 🎧 What I have been listening
-- [Gabriel by Hydawai, CMC$, Benji](https://open.spotify.com/track/4Qo9UFzbsp5avmUs6Okpl6)
-- [This Rhythm (feat. RAHH) by Prospa, RAHH](https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66)
-- [Chihiro by Gravagerz](https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C)
-- [Where You Are by John Summit, HAYLA](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA)
-- [Two People by Puhska, Dujak](https://open.spotify.com/track/2jfyumFhiP0N9xnwk4H0mK)
+- [Mina Kupenda by Thierry Von Der Warth, joki, Mugisho](https://open.spotify.com/track/5tsSdgnZLNhVt78voyyjju)
+- [Desire by Olly Alexander (Years &amp; Years), Tove Lo](https://open.spotify.com/track/6TMzuNLw1ZPgBqPKmnnObm)
+- [Sorry (with Madonna) - Franky Rizardo Remix by BLOND:ISH, Madonna, Franky Rizardo, Eran Hersh, Darmon](https://open.spotify.com/track/2BtCQtoNGPo74ChfxACqM2)
+- [Saving It All by BYOR, Angel Janson](https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8)
+- [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
