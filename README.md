@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)** - Demo of a customer service use case implemented with the OpenAI Agents SDK (4 days ago)
 
 #### 🎧 What I have been listening
+- [MAD by Martin Garrix, Lauv](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH)
+- [WYD After by DJ Pauly D](https://open.spotify.com/track/4p2nWFLNboE0yV5neQSV1E)
 - [Walk of Fame (feat. Brittany Howard) - Edit by Miley Cyrus, Brittany Howard](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn)
 - [Back In My Bed by Jax Jones, MEYY, Y2J!](https://open.spotify.com/track/5Ptt8Whisd1IwucwgXEyeT)
 - [3am by Łaszewo](https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h)
-- [Mr. Cool by Kenya Grace](https://open.spotify.com/track/5vRvTccr05SrSnqVvNAmVX)
-- [Demise by Daya](https://open.spotify.com/track/5exv0bDkEoKX0307raOYRQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
