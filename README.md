@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)** - Demo of a customer service use case implemented with the OpenAI Agents SDK (4 days ago)
 
 #### 🎧 What I have been listening
-- [MAD by Martin Garrix, Lauv](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH)
-- [WYD After by DJ Pauly D](https://open.spotify.com/track/4p2nWFLNboE0yV5neQSV1E)
-- [Walk of Fame (feat. Brittany Howard) - Edit by Miley Cyrus, Brittany Howard](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn)
-- [Back In My Bed by Jax Jones, MEYY, Y2J!](https://open.spotify.com/track/5Ptt8Whisd1IwucwgXEyeT)
-- [3am by Łaszewo](https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/6NIJqFHB5cHAn064JCP7Li)
+- [It&#39;s Not Right But It&#39;s Okay by Mr. Belt &amp; Wezol](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj)
+- [DAYDREAMING by Madison Rose](https://open.spotify.com/track/47VTSWgdC5ulUkjCH6XXQq)
+- [There She Goes by CYRIL, MOONLGHT, The La&#39;s](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7)
+- [Starlight (The Fame) by The Supermen Lovers, OneRepublic](https://open.spotify.com/track/2Rr9a2sxcTIe9xhfaEmFTL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
