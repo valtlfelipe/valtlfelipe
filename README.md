@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[HugoRCD/shelve](https://github.com/HugoRCD/shelve)** - Open-source secret &amp; environment management. Secure, simple, collaborative. CLI &amp; Github Sync (3 days ago)
 
 #### 🎧 What I have been listening
-- [Changing Colors by Adriatique, Solique, ALSO ASTIR](https://open.spotify.com/track/04UuPln30oxyJeoufFB1cg)
-- [Freak by Biscits](https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA)
-- [Like A Dream by Adriatique, Rivo](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1)
-- [Home by Adriatique, Marino Canal, Delhia De France](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q)
-- [Miracle by Adriatique, WhoMadeWho](https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS)
+- [Space Knights by Adriatique](https://open.spotify.com/track/02FYAy3iviOCDvHGXFfqDi)
+- [Random Notes Orchestra by Adriatique](https://open.spotify.com/track/7tutIZ5WoAK30X9U9xhglj)
+- [Home - Mind Against Remix by Adriatique, Marino Canal, Delhia De France, Mind Against](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq)
+- [Miracle by Adriatique, WhoMadeWho](https://open.spotify.com/track/18MrJWu7WMwxCl56ogcm7V)
+- [Patterns of Eternity by Adriatique](https://open.spotify.com/track/3QkmaZFc9pPtWuTMWxkosL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
