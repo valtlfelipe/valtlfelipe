@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[HugoRCD/shelve](https://github.com/HugoRCD/shelve)** - Open-source secret &amp; environment management. Secure, simple, collaborative. CLI &amp; Github Sync (3 days ago)
 
 #### 🎧 What I have been listening
+- [It&#39;s Not Right But It&#39;s Okay by Mr. Belt &amp; Wezol](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj)
+- [Sweet November by Planet Wave House, Emily Esthela, Kelo](https://open.spotify.com/track/5SeVG3n53TgBKZPXqSbwrW)
 - [Lola&#39;s Theme - Radio Edit by The Shapeshifters](https://open.spotify.com/track/60ZRKTMc94bcjiN4FI0XDm)
 - [We Could Be Love by Hayden James, AR/CO](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O)
 - [Relax My Eyes by ANOTR, Abel Balder](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH)
-- [Atmosphere by FISHER, Kita Alexander](https://open.spotify.com/track/63HwAAXuSV2tzIUPoHOwZa)
-- [Mina Kupenda by Thierry Von Der Warth, joki, Mugisho](https://open.spotify.com/track/5tsSdgnZLNhVt78voyyjju)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
