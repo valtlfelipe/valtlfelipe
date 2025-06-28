@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[HugoRCD/shelve](https://github.com/HugoRCD/shelve)** - Open-source secret &amp; environment management. Secure, simple, collaborative. CLI &amp; Github Sync (3 days ago)
 
 #### 🎧 What I have been listening
-- [Space Knights by Adriatique](https://open.spotify.com/track/02FYAy3iviOCDvHGXFfqDi)
-- [Random Notes Orchestra by Adriatique](https://open.spotify.com/track/7tutIZ5WoAK30X9U9xhglj)
-- [Home - Mind Against Remix by Adriatique, Marino Canal, Delhia De France, Mind Against](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq)
-- [Miracle by Adriatique, WhoMadeWho](https://open.spotify.com/track/18MrJWu7WMwxCl56ogcm7V)
-- [Patterns of Eternity by Adriatique](https://open.spotify.com/track/3QkmaZFc9pPtWuTMWxkosL)
+- [So Close by NOTD, Felix Jaehn, Captain Cuts, Georgia Ku](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK)
+- [Chemical by Post Malone](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu)
+- [Back To Life by Adriatique, Samm (BE), Jaimes](https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5)
+- [All I Ever Wanted by Adriatique, Marino Canal](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR)
+- [Golden Bird by Adriatique](https://open.spotify.com/track/3JUieUKeMyvSeSdeD9PXNU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
