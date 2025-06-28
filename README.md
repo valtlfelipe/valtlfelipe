@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[HugoRCD/shelve](https://github.com/HugoRCD/shelve)** - Open-source secret &amp; environment management. Secure, simple, collaborative. CLI &amp; Github Sync (3 days ago)
 
 #### 🎧 What I have been listening
-- [So Close by NOTD, Felix Jaehn, Captain Cuts, Georgia Ku](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK)
-- [Chemical by Post Malone](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu)
-- [Back To Life by Adriatique, Samm (BE), Jaimes](https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5)
-- [All I Ever Wanted by Adriatique, Marino Canal](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR)
-- [Golden Bird by Adriatique](https://open.spotify.com/track/3JUieUKeMyvSeSdeD9PXNU)
+- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
+- [Lottery (feat. LU KALA) by Latto, LU KALA](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir)
+- [Summer of Love (Shawn Mendes &amp; Tainy) by Shawn Mendes, Tainy](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6)
+- [Runaway by R3HAB, Sigala, JP Cooper](https://open.spotify.com/track/19boUY253NrYTqJMh50d5X)
+- [My Oh My by Ava Max](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
