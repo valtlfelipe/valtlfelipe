@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[HugoRCD/shelve](https://github.com/HugoRCD/shelve)** - Open-source secret &amp; environment management. Secure, simple, collaborative. CLI &amp; Github Sync (3 days ago)
 
 #### 🎧 What I have been listening
+- [Changing Colors by Adriatique, Solique, ALSO ASTIR](https://open.spotify.com/track/04UuPln30oxyJeoufFB1cg)
+- [Freak by Biscits](https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA)
 - [Like A Dream by Adriatique, Rivo](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1)
 - [Home by Adriatique, Marino Canal, Delhia De France](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q)
 - [Miracle by Adriatique, WhoMadeWho](https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS)
-- [Love’s A Game by Adriatique, Bipolar Sunshine](https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5)
-- [In the Moment - Adriatique Remix by RÜFÜS DU SOL, Adriatique](https://open.spotify.com/track/3JGvqlIZr8pvabWHmZwPsU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
