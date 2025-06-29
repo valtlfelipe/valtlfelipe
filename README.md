@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (4 days ago)
 
 #### 🎧 What I have been listening
+- [Alone (with Nicki Minaj) by Kim Petras, Nicki Minaj](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP)
+- [Look Who&#39;s Laughing Now by Benjamin Ingrosso](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7)
+- [Look Who&#39;s Laughing Now by Benjamin Ingrosso](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7)
 - [You for Me by Sigala, Rita Ora](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp)
 - [Lovefool by twocolors](https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4)
-- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
-- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
-- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
