@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (5 days ago)
 
 #### 🎧 What I have been listening
-- [What A Feeling (Tritonia 508) by Courtney Storm, Finley Brückner](https://open.spotify.com/track/5audIt9BAx7wOrbfuAbKqi)
-- [Out Of Ten - Shingo Nakamura &amp; before saudade Remix by Lonely in the Rain, Shingo Nakamura, before saudade](https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj)
-- [Golden Days by Maiwan](https://open.spotify.com/track/7d6FuHugP8dbJMlSVWio21)
-- [You Remind Me by TEEMID](https://open.spotify.com/track/2zGzpmYXEUgwDjZ7vVUjbQ)
-- [That Was Yesterday - Radio edit by Mr. Black &amp; Blue](https://open.spotify.com/track/32XC0uEk2AwChQmnSs5Mdz)
+- [It Must Have Been Love - The Distance &amp; Igi Remix by Max Oazo, Camishe, The Distance &amp; Igi](https://open.spotify.com/track/6qLM8F2HGP39vKpwCwf8Yd)
+- [One Night Away by ARTY](https://open.spotify.com/track/0g8YU2bR0QlBv7G9L9nDXU)
+- [Seaside by Bibano Beach Club](https://open.spotify.com/track/73AWZoUQnohIiF4P2ya88O)
+- [Greedy - AFRO HOUSE - Extended Mix by Noir Glacé](https://open.spotify.com/track/6esetSiQXuhgKmB8l38uDY)
+- [Stand by Me by Camishe, Max Oazo](https://open.spotify.com/track/1yBQ62H6Qy9ScqJpCYsXwX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
