@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (5 days ago)
 
 #### 🎧 What I have been listening
-- [It Must Have Been Love - The Distance &amp; Igi Remix by Max Oazo, Camishe, The Distance &amp; Igi](https://open.spotify.com/track/6qLM8F2HGP39vKpwCwf8Yd)
-- [One Night Away by ARTY](https://open.spotify.com/track/0g8YU2bR0QlBv7G9L9nDXU)
-- [Seaside by Bibano Beach Club](https://open.spotify.com/track/73AWZoUQnohIiF4P2ya88O)
-- [Greedy - AFRO HOUSE - Extended Mix by Noir Glacé](https://open.spotify.com/track/6esetSiQXuhgKmB8l38uDY)
-- [Stand by Me by Camishe, Max Oazo](https://open.spotify.com/track/1yBQ62H6Qy9ScqJpCYsXwX)
+- [Numb by Marshmello, Khalid](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL)
+- [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
+- [You for Me by Sigala, Rita Ora](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp)
+- [Innerbloom by RÜFÜS DU SOL](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)
+- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
