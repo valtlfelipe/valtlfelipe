@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (5 days ago)
 
 #### 🎧 What I have been listening
+- [exes by Tate McRae](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8)
+- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
+- [So Close by NOTD, Felix Jaehn, Captain Cuts, Georgia Ku](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK)
+- [Higher Love by Kygo, Whitney Houston](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY)
 - [Numb by Marshmello, Khalid](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL)
-- [Watermelon Sugar by Harry Styles](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY)
-- [You for Me by Sigala, Rita Ora](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp)
-- [Innerbloom by RÜFÜS DU SOL](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)
-- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
