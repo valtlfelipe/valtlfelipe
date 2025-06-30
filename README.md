@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (5 days ago)
 
 #### 🎧 What I have been listening
-- [Oceans Apart by Piece Wise, Plaha, Winter Kid](https://open.spotify.com/track/3SWJTV4ZT9sW1q4MfirJTd)
-- [Sex On Fire by 2beards, Zoë Phillips](https://open.spotify.com/track/1klCIz6RrwhL2bSe8zYafQ)
-- [Can&#39;t Help But Worry (Every Night Every Day) by Soluna](https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i)
-- [Golden Record by TEEMID](https://open.spotify.com/track/49lIyn2aJjHLNuDHsxZQkc)
-- [Perfect Start by Mefree](https://open.spotify.com/track/7z89rBP3pnklR38UNeYYpX)
+- [Love Me by TEEMID](https://open.spotify.com/track/2OtHPItRShU1by6SliultH)
+- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
+- [Sweet Child O&#39; Mine by Melonia](https://open.spotify.com/track/0O12SkQHX2Julh9utIosga)
+- [Let Go by Neon Tide](https://open.spotify.com/track/7bL9uGTNLE1SAHQUAjHne5)
+- [Spiraling (3AM) by Vicetone, KC](https://open.spotify.com/track/6PGgjwIadJYps0sO1OiBpM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
