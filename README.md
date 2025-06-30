@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (5 days ago)
 
 #### 🎧 What I have been listening
-- [Love Me by TEEMID](https://open.spotify.com/track/2OtHPItRShU1by6SliultH)
-- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
-- [Sweet Child O&#39; Mine by Melonia](https://open.spotify.com/track/0O12SkQHX2Julh9utIosga)
-- [Let Go by Neon Tide](https://open.spotify.com/track/7bL9uGTNLE1SAHQUAjHne5)
-- [Spiraling (3AM) by Vicetone, KC](https://open.spotify.com/track/6PGgjwIadJYps0sO1OiBpM)
+- [Rise Up - AFRO HOUSE - Radio Edit by Noir Glacé](https://open.spotify.com/track/6kh4OkxFqMVaqS9MXH3zXA)
+- [Lighter by A7S, David Guetta, Wizkid](https://open.spotify.com/track/0yfuV7ZI2e4baQxZUBegUr)
+- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
+- [What Can I Do by Portrait](https://open.spotify.com/track/4aEKZ3X6SFcrMwI1ejbZ9l)
+- [Electric Feel by TEEMID](https://open.spotify.com/track/0BQ4zIMESy75Qf2HeMi4ds)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
