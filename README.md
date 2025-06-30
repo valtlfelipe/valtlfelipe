@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (5 days ago)
 
 #### 🎧 What I have been listening
-- [Rise Up - AFRO HOUSE - Radio Edit by Noir Glacé](https://open.spotify.com/track/6kh4OkxFqMVaqS9MXH3zXA)
-- [Lighter by A7S, David Guetta, Wizkid](https://open.spotify.com/track/0yfuV7ZI2e4baQxZUBegUr)
-- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
-- [What Can I Do by Portrait](https://open.spotify.com/track/4aEKZ3X6SFcrMwI1ejbZ9l)
-- [Electric Feel by TEEMID](https://open.spotify.com/track/0BQ4zIMESy75Qf2HeMi4ds)
+- [What A Feeling (Tritonia 508) by Courtney Storm, Finley Brückner](https://open.spotify.com/track/5audIt9BAx7wOrbfuAbKqi)
+- [Out Of Ten - Shingo Nakamura &amp; before saudade Remix by Lonely in the Rain, Shingo Nakamura, before saudade](https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj)
+- [Golden Days by Maiwan](https://open.spotify.com/track/7d6FuHugP8dbJMlSVWio21)
+- [You Remind Me by TEEMID](https://open.spotify.com/track/2zGzpmYXEUgwDjZ7vVUjbQ)
+- [That Was Yesterday - Radio edit by Mr. Black &amp; Blue](https://open.spotify.com/track/32XC0uEk2AwChQmnSs5Mdz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
