@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (5 days ago)
 
 #### 🎧 What I have been listening
+- [Oceans Apart by Piece Wise, Plaha, Winter Kid](https://open.spotify.com/track/3SWJTV4ZT9sW1q4MfirJTd)
+- [Sex On Fire by 2beards, Zoë Phillips](https://open.spotify.com/track/1klCIz6RrwhL2bSe8zYafQ)
+- [Can&#39;t Help But Worry (Every Night Every Day) by Soluna](https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i)
+- [Golden Record by TEEMID](https://open.spotify.com/track/49lIyn2aJjHLNuDHsxZQkc)
 - [Perfect Start by Mefree](https://open.spotify.com/track/7z89rBP3pnklR38UNeYYpX)
-- [In My Arms - KREAM Remix by ILLENIUM, HAYLA, KREAM](https://open.spotify.com/track/1c0CauHGd6IumO162bEbCu)
-- [With or Without You - Radio Edit by DJ Pantelis](https://open.spotify.com/track/4b5xfjE6GhEVkyw9eRk2Wg)
-- [R U DOWN? by Loud Luxury](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD)
-- [All I Need by aural, sunsett.](https://open.spotify.com/track/4M2e8fGMYH0dfXWVilOOYd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
