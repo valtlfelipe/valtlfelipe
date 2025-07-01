@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (6 days ago)
 
 #### 🎧 What I have been listening
-- [Faith (with Dolly Parton) [feat. Mr. Probz] by Galantis, Dolly Parton, Mr. Probz](https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC)
-- [exes by Tate McRae](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8)
-- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
-- [So Close by NOTD, Felix Jaehn, Captain Cuts, Georgia Ku](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK)
-- [Higher Love by Kygo, Whitney Houston](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY)
+- [Forever Young by UNDRESSD, Ellie May](https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti)
+- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
+- [Lips by Aden Foyer](https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV)
+- [Woke Up in Love by Kygo, Gryffin, Calum Scott](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo)
+- [Higher Power by Coldplay](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
