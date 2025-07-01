@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (6 days ago)
 
 #### 🎧 What I have been listening
-- [Cover Me In Sunshine by P!nk, Willow Sage Hart](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2)
-- [Let It Be Me (feat. Ava Max) by David Guetta, Ava Max](https://open.spotify.com/track/2F83FxNVkK6PPMHuYnwyVc)
-- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
-- [Fading Like A Flower by Roxette, Galantis](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2)
-- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
+- [Unwritten by Natasha Bedingfield](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf)
+- [Summer of Love (Shawn Mendes &amp; Tainy) by Shawn Mendes, Tainy](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6)
+- [Run by Becky Hill, Galantis](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ)
+- [Lovefool by twocolors](https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4)
+- [Padam Padam by Kylie Minogue](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
