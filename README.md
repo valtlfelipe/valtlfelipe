@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (6 days ago)
 
 #### 🎧 What I have been listening
+- [Dance Alone by Sia, Kylie Minogue](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1)
+- [Bittersweet Symphony by GAMPER &amp; DADONI, Emily Roberts](https://open.spotify.com/track/0Gp23ds4JDUwan98IfNNL5)
+- [Everything But You (feat. A7S) by Clean Bandit, A7S](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV)
+- [Don&#39;t Start Now by Dua Lipa](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg)
 - [Forever Young by UNDRESSD, Ellie May](https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti)
-- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
-- [Lips by Aden Foyer](https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV)
-- [Woke Up in Love by Kygo, Gryffin, Calum Scott](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo)
-- [Higher Power by Coldplay](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
