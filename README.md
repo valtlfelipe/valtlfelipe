@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (6 days ago)
 
 #### 🎧 What I have been listening
-- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
-- [Green Green Grass by George Ezra](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB)
-- [Cloudy Day by Tones And I](https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS)
-- [Wellerman - Sea Shanty / 220 KID x Billen Ted Remix by Nathan Evans, 220 KID](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN)
-- [Trompeta by Willy William](https://open.spotify.com/track/30YQNcUdAsgfzORrTyfYn5)
+- [Cover Me In Sunshine by P!nk, Willow Sage Hart](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2)
+- [Let It Be Me (feat. Ava Max) by David Guetta, Ava Max](https://open.spotify.com/track/2F83FxNVkK6PPMHuYnwyVc)
+- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
+- [Fading Like A Flower by Roxette, Galantis](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2)
+- [Espresso by Sabrina Carpenter](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
