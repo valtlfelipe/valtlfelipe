@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[biomejs/biome](https://github.com/biomejs/biome)** - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Ease My Mind by Chris Lake, Abel Balder](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk)
-- [Lose Control by Milk &amp; Sugar, James Hurr, Roland Clark](https://open.spotify.com/track/7D1t24C31rtSLZp5XpEKDF)
-- [How You Feel (ft Leven Kali) by ANOTR, Leven Kali, Erik Bandt](https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL)
-- [Say My Name - Remix by Morgan Seatree, Florence &#43; The Machine](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32)
-- [Famax by RAFFA GUIDO](https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz)
+- [TOO COOL TO BE CARELESS by PAWSA](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5)
+- [Say What by Rampa, Adam Port, &amp;ME, chuala, Keinemusik](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal)
+- [Wild by James Hype](https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9)
+- [The Less I Know The Better by Mau P](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY)
+- [Thandaza by &amp;ME, Rampa, Adam Port, Alan Dixon, Keinemusik, Arabic Piano](https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
