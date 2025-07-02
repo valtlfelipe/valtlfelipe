@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[biomejs/biome](https://github.com/biomejs/biome)** - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Self Control by Eelke Kleijn, Lee Cabrera](https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN)
-- [Higher Ground (feat. Roosevelt) by Purple Disco Machine, Roosevelt](https://open.spotify.com/track/55pgttry6U5AcTMyB6FmEt)
-- [Never Ever Ever by Girls of the Internet, shiv](https://open.spotify.com/track/6aonKw3Mdij9LvfPzRykRX)
-- [Collect 200 by Collect 200](https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6)
-- [Lady Love by Oden &amp; Fatzo, Camden Cox](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S)
+- [Unconditional feat. Rationale - Girls of the Internet Remix by Quantic, Rationale, Girls of the Internet](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9)
+- [Watching Me Dance by Jackson Homer, Devin Tracy](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM)
+- [Deafened (feat. Family Habits) by Folamour, Family Habits](https://open.spotify.com/track/2tlCCAR07k2G9ba67McxQc)
+- [Look How Far We&#39;ve Come by kryptogram](https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE)
+- [Freeway (with Estelle) by Austin Millz, Estelle](https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
