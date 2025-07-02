@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fosrl/newt](https://github.com/fosrl/newt)** - A tunneling client for Pangolin (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dive by Hot Shade, Mike Perry, Chris James](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd)
-- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
-- [Unwritten by Natasha Bedingfield](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf)
-- [Summer of Love (Shawn Mendes &amp; Tainy) by Shawn Mendes, Tainy](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6)
-- [Run by Becky Hill, Galantis](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ)
+- [Weightless (jamesjamesjames Remix) by Ben Böhmer, Panama, jamesjamesjames](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC)
+- [Survivor by Little Foot, ALLKNIGHT](https://open.spotify.com/track/0291RiRSQwH0tZFScjq1G9)
+- [Pastel by Polar Inc.](https://open.spotify.com/track/5QpKqIBqSBy5ji4GPJ1UIN)
+- [Innerspace by TOMB](https://open.spotify.com/track/67wkHOYVbkX376dwcjJQ4S)
+- [Klave by djimboh, Mango](https://open.spotify.com/track/7KdEFnzb1jaADYZtccrwzE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
