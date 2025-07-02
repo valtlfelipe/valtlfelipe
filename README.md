@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[biomejs/biome](https://github.com/biomejs/biome)** - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Self Control by Eelke Kleijn, Lee Cabrera](https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN)
+- [Higher Ground (feat. Roosevelt) by Purple Disco Machine, Roosevelt](https://open.spotify.com/track/55pgttry6U5AcTMyB6FmEt)
 - [Never Ever Ever by Girls of the Internet, shiv](https://open.spotify.com/track/6aonKw3Mdij9LvfPzRykRX)
 - [Collect 200 by Collect 200](https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6)
 - [Lady Love by Oden &amp; Fatzo, Camden Cox](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S)
-- [Pleasure, Joy &amp; Happiness (musclecars remix) by Galliano, musclecars](https://open.spotify.com/track/32jYb2YkMBb61zV87oOofT)
-- [Mercy (feat. Jacob Lusk) by The Blessed Madonna, Jacob Lusk](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
