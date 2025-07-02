@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[biomejs/biome](https://github.com/biomejs/biome)** - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Unconditional feat. Rationale - Girls of the Internet Remix by Quantic, Rationale, Girls of the Internet](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9)
-- [Watching Me Dance by Jackson Homer, Devin Tracy](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM)
-- [Deafened (feat. Family Habits) by Folamour, Family Habits](https://open.spotify.com/track/2tlCCAR07k2G9ba67McxQc)
-- [Look How Far We&#39;ve Come by kryptogram](https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE)
-- [Freeway (with Estelle) by Austin Millz, Estelle](https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ)
+- [Ease My Mind by Chris Lake, Abel Balder](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk)
+- [Lose Control by Milk &amp; Sugar, James Hurr, Roland Clark](https://open.spotify.com/track/7D1t24C31rtSLZp5XpEKDF)
+- [How You Feel (ft Leven Kali) by ANOTR, Leven Kali, Erik Bandt](https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL)
+- [Say My Name - Remix by Morgan Seatree, Florence &#43; The Machine](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32)
+- [Famax by RAFFA GUIDO](https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
