@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[biomejs/biome](https://github.com/biomejs/biome)** - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 days ago)
 
 #### 🎧 What I have been listening
-- [TOO COOL TO BE CARELESS by PAWSA](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5)
-- [Say What by Rampa, Adam Port, &amp;ME, chuala, Keinemusik](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal)
-- [Wild by James Hype](https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9)
-- [The Less I Know The Better by Mau P](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY)
-- [Thandaza by &amp;ME, Rampa, Adam Port, Alan Dixon, Keinemusik, Arabic Piano](https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs)
+- [How Do You Love? (feat. Mougleta) by Gorgon City, Mougleta](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8)
+- [Dirty Cash (Money Talks) by PAWSA, The Adventures Of Stevie V](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX)
+- [Paradise by SG Lewis, Loods](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w)
+- [Ethnica (Pasilda) by Nico de Andrea, Vanetty, Afro Medusa](https://open.spotify.com/track/49nf9ebWEUJGO7pxGas6A3)
+- [Halo by Eli &amp; Fur, Punctual, Richard Judge](https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
