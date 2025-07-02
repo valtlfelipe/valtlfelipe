@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[biomejs/biome](https://github.com/biomejs/biome)** - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Honey Boy (feat. Nile Rodgers &amp; Shenseea) by Purple Disco Machine, Benjamin Ingrosso, Nile Rodgers, Shenseea](https://open.spotify.com/track/3CTgRPxyTh2w7wBjVFH88e)
-- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
-- [How You Feel (ft Leven Kali) by ANOTR, Leven Kali, Erik Bandt](https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL)
-- [Lauren (I Can&#39;t Stay Forever) by Oden &amp; Fatzo](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ)
-- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
+- [Never Ever Ever by Girls of the Internet, shiv](https://open.spotify.com/track/6aonKw3Mdij9LvfPzRykRX)
+- [Collect 200 by Collect 200](https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6)
+- [Lady Love by Oden &amp; Fatzo, Camden Cox](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S)
+- [Pleasure, Joy &amp; Happiness (musclecars remix) by Galliano, musclecars](https://open.spotify.com/track/32jYb2YkMBb61zV87oOofT)
+- [Mercy (feat. Jacob Lusk) by The Blessed Madonna, Jacob Lusk](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
