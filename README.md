@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (6 days ago)
 
 #### 🎧 What I have been listening
-- [Everywhere by Viva La Panda, Miss Mathilda](https://open.spotify.com/track/0K4Gno8SmZMEbFVg7d3jiK)
-- [Time Of Our Lives by Alex Cruz, Brascon, Nathan Nicholson, Händel Kinder Chor](https://open.spotify.com/track/1p5SwXrxWw3G5edGCIJqtL)
-- [This Girl by Yann Muller, Benjamin Bocconi](https://open.spotify.com/track/0hc3w4JuOHGHC5WtYeXn1v)
-- [Sunset by TWOPILOTS, Heleen](https://open.spotify.com/track/5DpNSz643RNngHsWSDllkZ)
-- [There Is No Wonderwall by Sylow, Pierre Leck, Kingsley Q](https://open.spotify.com/track/6oDYIYQKJZqOSm3Xwd2cBC)
+- [Love Someone by Gianluca Dimeo, AALLAR](https://open.spotify.com/track/2YW737DHuYaluEkwpKfcO2)
+- [Sanity by Meynberg](https://open.spotify.com/track/25fgFKBm7mRjqpmfWouR21)
+- [Electric Feel by TEEMID](https://open.spotify.com/track/0BQ4zIMESy75Qf2HeMi4ds)
+- [Crazy by Alex Cruz, Brascon, Rubenson](https://open.spotify.com/track/3dSufNX8zV2Dz6vmxcQW2w)
+- [Lost In The Night by Thierry Von Der Warth, Jack David](https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
