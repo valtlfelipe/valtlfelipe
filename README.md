@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (6 days ago)
 
 #### 🎧 What I have been listening
+- [Rewind by Riesling, Roet](https://open.spotify.com/track/54dPp5NHuopOQkICmLY0EP)
+- [Like I Do by rshand](https://open.spotify.com/track/0UCH9eSYI8q5DAKhLguWeN)
+- [Sweet Dreams by Aexcit, INFINITY](https://open.spotify.com/track/0tnGE84OI4kFHdmL2IAIoj)
+- [Waiting For Tonight by TWOPILOTS](https://open.spotify.com/track/6eKxQoGNNxvHy8R2W0Pmlg)
 - [Love Someone by Gianluca Dimeo, AALLAR](https://open.spotify.com/track/2YW737DHuYaluEkwpKfcO2)
-- [Sanity by Meynberg](https://open.spotify.com/track/25fgFKBm7mRjqpmfWouR21)
-- [Electric Feel by TEEMID](https://open.spotify.com/track/0BQ4zIMESy75Qf2HeMi4ds)
-- [Crazy by Alex Cruz, Brascon, Rubenson](https://open.spotify.com/track/3dSufNX8zV2Dz6vmxcQW2w)
-- [Lost In The Night by Thierry Von Der Warth, Jack David](https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
