@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (6 days ago)
 
 #### 🎧 What I have been listening
-- [What Is Love by Waffle, Jenn Sarkis](https://open.spotify.com/track/6gH5NLnALB0a8PQFbiqkze)
-- [Wonderwall by TEEMID](https://open.spotify.com/track/4sigEqg7SMeZsn8haXoloU)
-- [Chasing Cars by Mahona](https://open.spotify.com/track/6Y6pPCdCcKBypJ3UvZcBr5)
-- [Can&#39;t Get You Out Of My Head by Mecdoux, sleepy dude](https://open.spotify.com/track/5ivBT5XRDHl1tjLtiiaR6L)
-- [Replay by Kid On The Block, Zist](https://open.spotify.com/track/0k6C0xEm3jvM1DS1KNt5kB)
+- [There Is No Wonderwall by Sylow, Pierre Leck, Kingsley Q](https://open.spotify.com/track/6oDYIYQKJZqOSm3Xwd2cBC)
+- [Knockin&#39; On Heaven&#39;s Door by Nexeri, Tara Louise](https://open.spotify.com/track/4zWbO2jh3xzgylLksw37Fu)
+- [I Wanna Dance With Somebody by BLANDOS, Donna Lugassy](https://open.spotify.com/track/1SsfNb1ZS4HYSh6UqAqPTL)
+- [Love Again by LO, Sarah Lahn](https://open.spotify.com/track/2kAC89DhMgAXjYx8M8zMzP)
+- [Promises by Yann Muller, Benjamin Bocconi](https://open.spotify.com/track/4mpThk7CCNCg3NsCA76HW8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
