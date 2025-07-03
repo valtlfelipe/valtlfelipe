@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Watermelon Sugar by Shoby, Zach Oliver](https://open.spotify.com/track/66enOBnenmHNItyl68dAGi)
-- [Something Just Like This by Braaten](https://open.spotify.com/track/4RLsGtPi0KclgWt56NXrtu)
-- [Toxic by Feather, BNHM, Levka Rey](https://open.spotify.com/track/4E374cj4jYFMXWF9unS3rG)
-- [End of Beginning by Lost In Reveries, Namté](https://open.spotify.com/track/69XRfCLfvQ2rgdGVarqJLo)
-- [Stubborn Love by Lost Ways](https://open.spotify.com/track/2iIwYpemY0Msr1f8mnh7rD)
+- [Summer by Nexeri, Tara Louise](https://open.spotify.com/track/3KoDBQiwBXHqIoPgnuiM9a)
+- [(Sittin&#39; On) the Dock of the Bay by New Times](https://open.spotify.com/track/3XlawNiUTnZY2dWG0SOb6I)
+- [Teardrops (feat. Lucinda) by Tainted Youth, Lucinda](https://open.spotify.com/track/4oxGB15UDg8WhpZRXjS8XE)
+- [Need U (100%) - G-Spliff Remix by Lila Liu, G-Spliff](https://open.spotify.com/track/5dwE2OnJCFf0h48uoUwJZi)
+- [Where Is The Love? by Kid On The Block, Summer Vibes, Luna Belle](https://open.spotify.com/track/7CU1fdVHMTkpuAMRgAKTEl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
