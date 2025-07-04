@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
-- [Crush by Namic, ALUR, Offmind, Clara](https://open.spotify.com/track/4WoejTKNcWoBAtSaMFylN0)
-- [Love The Way You Lie by Braaten](https://open.spotify.com/track/4apEnDiLLnd08bgHzp1BRK)
-- [Fade Into You by Nexeri, Sabina Mach](https://open.spotify.com/track/0fSJlpyI5y6XWZ0Nqk421Y)
-- [Say My Name by Deep Chills](https://open.spotify.com/track/4OWJaj1AdaBi1TRbyWDfll)
-- [Blinding Lights by BLANDOS](https://open.spotify.com/track/6aEhJPUJD23Mpmlnb3c7mB)
+- [Sugar by Goldaine, Tropical Tide](https://open.spotify.com/track/3UVWA3UyZyHJmgi23XvViK)
+- [The Hardest Part by Daniel Santoro, Gianluca Dimeo, Jan Liva](https://open.spotify.com/track/12L3HEJETKhCeVR4iIRxjH)
+- [Dancing In The Moonlight by Aexcit, HILLArious](https://open.spotify.com/track/2Q8shwnXtQFtLhgLMwGHiI)
+- [Stranger In Paradise [Alex Cruz Remix] by Saco, Bram Bos, Alex Cruz](https://open.spotify.com/track/5LUmG5y0INcmFK74QWd0qv)
+- [Linger by Lost In Reveries, Namté](https://open.spotify.com/track/16cXx9Rq0fvb4utvCAwWsv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
