@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
-- [Letting Go by Meynberg](https://open.spotify.com/track/0eNPmFh1rIwkStKcxU3R4U)
-- [Into You by Sylow, Steve RGA](https://open.spotify.com/track/0OrdwqaJgLxIcEJ623JpHc)
-- [Let It Be by Nexeri, Max the Sax](https://open.spotify.com/track/0CcPO4kw5KpBu4Syadapeo)
-- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
-- [Never Tell You by Lane Boy, esiole](https://open.spotify.com/track/6rv3rD9z6ZUtT3Y3ErUJ8w)
+- [Call Me by Riesling, Vitaly Gray](https://open.spotify.com/track/18Hbr4dmmUmw7IrBCBzB6p)
+- [BIRDS OF A FEATHER by Daniel Santoro](https://open.spotify.com/track/592QOMR7ObDfyULaafHyWG)
+- [In My Head by Lane Boy, REWEL](https://open.spotify.com/track/7Cz3kM3nD8zGbcvoGwlIlz)
+- [Let&#39;s Do It Again by Iaco, Chloé Hétier, Riesling](https://open.spotify.com/track/1d3zVv3AVsPgP90jhCb6vJ)
+- [Eye in the Sky - DJ Style Remix by James Farrelli, Sarah Menescal, DJ Style](https://open.spotify.com/track/4skHdxpVtqYXf75Ef6x65L)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
