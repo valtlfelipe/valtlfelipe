@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
-- [Call Me by Riesling, Vitaly Gray](https://open.spotify.com/track/18Hbr4dmmUmw7IrBCBzB6p)
-- [BIRDS OF A FEATHER by Daniel Santoro](https://open.spotify.com/track/592QOMR7ObDfyULaafHyWG)
-- [In My Head by Lane Boy, REWEL](https://open.spotify.com/track/7Cz3kM3nD8zGbcvoGwlIlz)
-- [Let&#39;s Do It Again by Iaco, Chloé Hétier, Riesling](https://open.spotify.com/track/1d3zVv3AVsPgP90jhCb6vJ)
-- [Eye in the Sky - DJ Style Remix by James Farrelli, Sarah Menescal, DJ Style](https://open.spotify.com/track/4skHdxpVtqYXf75Ef6x65L)
+- [Thankful by Meynberg, BOKI](https://open.spotify.com/track/3dC62XwKsZGMO8O3pgJTF5)
+- [Piece Of Your Heart by BLANDOS](https://open.spotify.com/track/1ciZCp2L8t9nI4rRtdmZyX)
+- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
+- [Dance With Love by Lane Boy, REWEL](https://open.spotify.com/track/2pUaNqhJTtxNYgr53w2bzW)
+- [Without You by The Sunnefield, Raphael DeLove](https://open.spotify.com/track/5EAiXazkqYkWf55Sk9plLy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
