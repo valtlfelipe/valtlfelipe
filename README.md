@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
-- [Thankful by Meynberg, BOKI](https://open.spotify.com/track/3dC62XwKsZGMO8O3pgJTF5)
-- [Piece Of Your Heart by BLANDOS](https://open.spotify.com/track/1ciZCp2L8t9nI4rRtdmZyX)
-- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
-- [Dance With Love by Lane Boy, REWEL](https://open.spotify.com/track/2pUaNqhJTtxNYgr53w2bzW)
-- [Without You by The Sunnefield, Raphael DeLove](https://open.spotify.com/track/5EAiXazkqYkWf55Sk9plLy)
+- [Love The Way You Lie by Braaten](https://open.spotify.com/track/4apEnDiLLnd08bgHzp1BRK)
+- [Fade Into You by Nexeri, Sabina Mach](https://open.spotify.com/track/0fSJlpyI5y6XWZ0Nqk421Y)
+- [Say My Name by Deep Chills](https://open.spotify.com/track/4OWJaj1AdaBi1TRbyWDfll)
+- [Blinding Lights by BLANDOS](https://open.spotify.com/track/6aEhJPUJD23Mpmlnb3c7mB)
+- [Sunshine by LO, RSNDR](https://open.spotify.com/track/7AEGA88WyGeylzJFj7j5Vn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
