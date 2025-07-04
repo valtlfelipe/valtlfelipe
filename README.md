@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
-- [Rewind by Riesling, Roet](https://open.spotify.com/track/54dPp5NHuopOQkICmLY0EP)
-- [Like I Do by rshand](https://open.spotify.com/track/0UCH9eSYI8q5DAKhLguWeN)
-- [Sweet Dreams by Aexcit, INFINITY](https://open.spotify.com/track/0tnGE84OI4kFHdmL2IAIoj)
-- [Waiting For Tonight by TWOPILOTS](https://open.spotify.com/track/6eKxQoGNNxvHy8R2W0Pmlg)
-- [Love Someone by Gianluca Dimeo, AALLAR](https://open.spotify.com/track/2YW737DHuYaluEkwpKfcO2)
+- [Letting Go by Meynberg](https://open.spotify.com/track/0eNPmFh1rIwkStKcxU3R4U)
+- [Into You by Sylow, Steve RGA](https://open.spotify.com/track/0OrdwqaJgLxIcEJ623JpHc)
+- [Let It Be by Nexeri, Max the Sax](https://open.spotify.com/track/0CcPO4kw5KpBu4Syadapeo)
+- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
+- [Never Tell You by Lane Boy, esiole](https://open.spotify.com/track/6rv3rD9z6ZUtT3Y3ErUJ8w)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
