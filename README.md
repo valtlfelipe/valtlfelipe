@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
-- [Dynamite by BLANDOS](https://open.spotify.com/track/71FrSQ8Fx4JbFumpHz7XAi)
-- [Firestone by BLANDOS](https://open.spotify.com/track/3uSvsBD5BhhGS6wI0OayKX)
-- [There Is No Wonderwall by Sylow, Pierre Leck, Kingsley Q](https://open.spotify.com/track/6oDYIYQKJZqOSm3Xwd2cBC)
-- [There Is No Wonderwall by Sylow, Pierre Leck, Kingsley Q](https://open.spotify.com/track/6oDYIYQKJZqOSm3Xwd2cBC)
-- [Head &amp; Heart by Gill Baits](https://open.spotify.com/track/61jCT4TmqZPCk4MTDFO8wX)
+- [Not Fair by Niklas Dee, Old Jim, Enny-Mae](https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU)
+- [For Life (feat. Nile Rodgers) by Kygo, Zak Abel, Nile Rodgers](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP)
+- [Say My Name - Remix by Morgan Seatree, Florence &#43; The Machine](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32)
+- [Crying On The Dancefloor by Sam Feldt, Jonas Blue, Endless Summer, Violet Days](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
