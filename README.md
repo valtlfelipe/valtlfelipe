@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
+- [Head &amp; Heart by Gill Baits](https://open.spotify.com/track/61jCT4TmqZPCk4MTDFO8wX)
+- [I Wanna Dance With Somebody by BLANDOS, Donna Lugassy](https://open.spotify.com/track/1SsfNb1ZS4HYSh6UqAqPTL)
+- [Runaway by R3HAB, Sigala, JP Cooper](https://open.spotify.com/track/19boUY253NrYTqJMh50d5X)
 - [Sugar by Goldaine, Tropical Tide](https://open.spotify.com/track/3UVWA3UyZyHJmgi23XvViK)
 - [The Hardest Part by Daniel Santoro, Gianluca Dimeo, Jan Liva](https://open.spotify.com/track/12L3HEJETKhCeVR4iIRxjH)
-- [Dancing In The Moonlight by Aexcit, HILLArious](https://open.spotify.com/track/2Q8shwnXtQFtLhgLMwGHiI)
-- [Stranger In Paradise [Alex Cruz Remix] by Saco, Bram Bos, Alex Cruz](https://open.spotify.com/track/5LUmG5y0INcmFK74QWd0qv)
-- [Linger by Lost In Reveries, Namté](https://open.spotify.com/track/16cXx9Rq0fvb4utvCAwWsv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
