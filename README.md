@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
+- [CORAÇAO - 20th Anniversary Mix by Jerry Ropero, HUGEL, Mijangos, Jesús Fernández](https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g)
+- [Am I Wrong by Justin Stanley](https://open.spotify.com/track/5yxzzbcXxTc6xddSX7oHU2)
 - [Not Fair by Niklas Dee, Old Jim, Enny-Mae](https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU)
 - [For Life (feat. Nile Rodgers) by Kygo, Zak Abel, Nile Rodgers](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP)
 - [Say My Name - Remix by Morgan Seatree, Florence &#43; The Machine](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32)
-- [Crying On The Dancefloor by Sam Feldt, Jonas Blue, Endless Summer, Violet Days](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6)
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
