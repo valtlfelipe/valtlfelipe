@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
-- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3)
-- [It&#39;s Not Right But It&#39;s Okay by Mr. Belt &amp; Wezol](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj)
-- [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
-- [CORAÇAO - 20th Anniversary Mix by Jerry Ropero, HUGEL, Mijangos, Jesús Fernández](https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g)
-- [Am I Wrong by Justin Stanley](https://open.spotify.com/track/5yxzzbcXxTc6xddSX7oHU2)
+- [Keep It Exciting by Mr. Belt &amp; Wezol, Qobra, Alex Hosking](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
+- [Angel of Mine by Tobiahs](https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4)
+- [My Heart Goes (La Di Da) by Becky Hill, Topic](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p)
+- [In Your Eyes (feat. Alida) by Robin Schulz, Alida](https://open.spotify.com/track/61ZM92T2zaXIVsqncThQzC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
