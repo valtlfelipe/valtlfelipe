@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[HugoRCD/nuxt-better-auth](https://github.com/HugoRCD/nuxt-better-auth)** - A demo of using Better Auth with Nuxt &amp; NuxtHub (Cloudflare D1 &amp; KV). (5 days ago)
 
 #### 🎧 What I have been listening
-- [Still Learning by Hallman](https://open.spotify.com/track/3vqA0R4ENSlxAzEMVWlI2C)
-- [No Man&#39;s Land - Extended by CAKES, Izzy Bizu](https://open.spotify.com/track/1EM5P4pw6sZbZ0eznFesOm)
-- [Stay (A Little Longer) by Meynberg](https://open.spotify.com/track/13Bmo5k6FcL3qkvskOPSdw)
-- [Feel Love by Luke Bergs](https://open.spotify.com/track/1Y4cB0e4wnt8mpqrMEhuNq)
-- [Every Breath You Take - Loungetronic Mix by Kandi &amp; Fitch](https://open.spotify.com/track/0OxeOnmQrnFaQFXyIzKNEX)
+- [Be Somebody by Midnight Pass](https://open.spotify.com/track/7vaJ4jJfxQVoJOGujY8xOS)
+- [If You&#39;re Looking for Trouble by Basixx, TASH](https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK)
+- [Run Your Way by dvine](https://open.spotify.com/track/01b7rCcTIzDjhLETOucmJb)
+- [No More Worries by Luke Bergs](https://open.spotify.com/track/2v94kFY5xA9ErEYwAgbDeG)
+- [Only One by D.Polo](https://open.spotify.com/track/2OpzoqnnXQ6EyGERxGw46Z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
