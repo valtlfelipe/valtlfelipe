@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
-- [It&#39;s Over Now by NM](https://open.spotify.com/track/5F76s2c4JUM6CTao8Opgxs)
-- [Caught In A Motion by Maiwan](https://open.spotify.com/track/6guZijIBWaYcpfUncEZJFG)
-- [Bloom by Astrality, FLORES](https://open.spotify.com/track/1rb65ahUV0k2QYq4x3Fi9y)
-- [Vibes by Meynberg](https://open.spotify.com/track/2mfxjfppv8FECPIRdLJJsk)
-- [Slow Motion - Extended Mix by Zerb, Pontifexx, Louise Rademakers](https://open.spotify.com/track/4q20dask4r140ZVnnatuMX)
+- [By My Side by TWOPILOTS](https://open.spotify.com/track/49Qmjs7GYOybza7EZkmrBq)
+- [Open Your Eyes by Nick Raff](https://open.spotify.com/track/3Ebt1WALSn914WYdfCKV4B)
+- [Stand Together by Maiwan](https://open.spotify.com/track/3HgbPUWlLxfv7vzn35avPl)
+- [Golden Mind by dvine](https://open.spotify.com/track/73Kldyx16MLpixiJAOHVaF)
+- [Sky by Hotham](https://open.spotify.com/track/7dTmKpF2FrzIIgXmL7m19h)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
