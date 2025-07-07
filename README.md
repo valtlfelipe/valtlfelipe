@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sun Burns Out by Odare](https://open.spotify.com/track/6oPZ5l1DRwH4vWZl0YX6gd)
-- [My Love (2024) by Alex Wann, Route 94, Jess Glynne](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk)
-- [Keep It Exciting by Mr. Belt &amp; Wezol, Qobra, Alex Hosking](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
-- [Angel of Mine by Tobiahs](https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4)
+- [Let&#39;s Stay Up All Night by Basixx, Frigga](https://open.spotify.com/track/4JusMRWTXLRa6VJGMfp02y)
+- [Do You Do This Often by Le P](https://open.spotify.com/track/0z23VQA5qXw1KCHLUE9mWZ)
+- [Coming Home Soon by Simon Pettersson](https://open.spotify.com/track/3FKQ1CPH2m5sr99PDswoIP)
+- [Moment by Sander W., Alex Brandt, Chris George](https://open.spotify.com/track/5TL60rdO2ruxtVb3dCTtUJ)
+- [Yellow by DVNY](https://open.spotify.com/track/4x2JcIX3D3KPf4PeTreS8d)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
