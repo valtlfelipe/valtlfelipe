@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)** - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free &amp; Open Source (1 week ago)
 
 #### 🎧 What I have been listening
+- [Yippee Ki-Yay by Mojave Grey](https://open.spotify.com/track/3a7s5qchRlnKbWCyjus1ko)
 - [Fix Me by CAKES, Sam Harper](https://open.spotify.com/track/1nHWcLi8wupts5WkjIAflQ)
 - [Better Days (feat. Sirena) by Lü, Sirena](https://open.spotify.com/track/6dksuzyjHvCCsEnRUlbtc7)
 - [Drift by D.Polo](https://open.spotify.com/track/31RVTFQnLi4oiVjPrE03WJ)
 - [Better Life by TomDūno, Jordan Grace](https://open.spotify.com/track/6mVV8tNshC0fn3gxjIMmAF)
-- [Old-School Soul by HYPAUX, Olly Davies](https://open.spotify.com/track/2H0TaQcYvR7rksYcX06hrb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
