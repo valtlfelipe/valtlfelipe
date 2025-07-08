@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders)** - A hyper-practical collection of marketing resources for founders looking to grow their startup (5 days ago)
 
 #### 🎧 What I have been listening
-- [Trembling by Maiwan](https://open.spotify.com/track/4lgaqqxbWLnc32Iy6gBjyd)
-- [Games by NM](https://open.spotify.com/track/3NQBnmz3PjBcZt4Cr3A5vT)
-- [Days in the Sun - Forester Remix by Forester, Ziggy Alberts](https://open.spotify.com/track/5LIHWsxuYVFBBtGE9C4iBu)
-- [Be My Parachute by Basixx, Mia Pfirrman](https://open.spotify.com/track/4gP89ryIwYiCfPkyDrrNSE)
-- [No One Like You by Alex Adair](https://open.spotify.com/track/58yE7laRs6ptzfLKWXLN9u)
+- [Remind Me Tomorrow by James Lacey, LO, Aimi](https://open.spotify.com/track/0HPNSm3OSeTuGYEyQUXOto)
+- [Black &amp; Blue by LEVII, KING LX](https://open.spotify.com/track/1xkuVT4MG9Rwa1V8dbyaqh)
+- [Take Me by Kandi &amp; Fitch](https://open.spotify.com/track/7M1oDA4LxBgzM3uCh8ueuQ)
+- [Skies by D.Polo](https://open.spotify.com/track/7DVc5y0ESy2cA1t8Grfmxa)
+- [Eyes On You by Hokima, Adrea Castiano](https://open.spotify.com/track/3n9qfGyt4Nhp7ud1UIcpmb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
