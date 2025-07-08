@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders)** - A hyper-practical collection of marketing resources for founders looking to grow their startup (5 days ago)
 
 #### 🎧 What I have been listening
-- [No Bad Vibes - ERIICE Remix by Jazzy, ERIICE, KILIMANJARO](https://open.spotify.com/track/6gwYieTnrOoVYl5nQ42pSq)
-- [Too Heavy by Neon Tide](https://open.spotify.com/track/1ZXtVE7Orb5JnUWT06Oqwo)
-- [Minutes by dvine](https://open.spotify.com/track/2FSSZL61RdVYXsyOacxReU)
-- [It Looks Like We Made It by Basixx](https://open.spotify.com/track/0fYR84hJsQEE3ZoGEMy3vD)
-- [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
+- [Trembling by Maiwan](https://open.spotify.com/track/4lgaqqxbWLnc32Iy6gBjyd)
+- [Games by NM](https://open.spotify.com/track/3NQBnmz3PjBcZt4Cr3A5vT)
+- [Days in the Sun - Forester Remix by Forester, Ziggy Alberts](https://open.spotify.com/track/5LIHWsxuYVFBBtGE9C4iBu)
+- [Be My Parachute by Basixx, Mia Pfirrman](https://open.spotify.com/track/4gP89ryIwYiCfPkyDrrNSE)
+- [No One Like You by Alex Adair](https://open.spotify.com/track/58yE7laRs6ptzfLKWXLN9u)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
