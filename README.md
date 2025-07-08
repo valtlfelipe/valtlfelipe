@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders)** - A hyper-practical collection of marketing resources for founders looking to grow their startup (5 days ago)
 
 #### 🎧 What I have been listening
+- [No Bad Vibes - ERIICE Remix by Jazzy, ERIICE, KILIMANJARO](https://open.spotify.com/track/6gwYieTnrOoVYl5nQ42pSq)
 - [Too Heavy by Neon Tide](https://open.spotify.com/track/1ZXtVE7Orb5JnUWT06Oqwo)
 - [Minutes by dvine](https://open.spotify.com/track/2FSSZL61RdVYXsyOacxReU)
 - [It Looks Like We Made It by Basixx](https://open.spotify.com/track/0fYR84hJsQEE3ZoGEMy3vD)
 - [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
-- [Missing You by D.Polo](https://open.spotify.com/track/1mf1rH0dbDHSYDJ97BrFwA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
