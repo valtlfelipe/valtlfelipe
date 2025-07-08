@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders)** - A hyper-practical collection of marketing resources for founders looking to grow their startup (5 days ago)
 
 #### 🎧 What I have been listening
+- [Where I Belong by Öman](https://open.spotify.com/track/5ObaVqhUVHcDwVVzLXuJF8)
 - [Remind Me Tomorrow by James Lacey, LO, Aimi](https://open.spotify.com/track/0HPNSm3OSeTuGYEyQUXOto)
 - [Black &amp; Blue by LEVII, KING LX](https://open.spotify.com/track/1xkuVT4MG9Rwa1V8dbyaqh)
 - [Take Me by Kandi &amp; Fitch](https://open.spotify.com/track/7M1oDA4LxBgzM3uCh8ueuQ)
 - [Skies by D.Polo](https://open.spotify.com/track/7DVc5y0ESy2cA1t8Grfmxa)
-- [Eyes On You by Hokima, Adrea Castiano](https://open.spotify.com/track/3n9qfGyt4Nhp7ud1UIcpmb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
