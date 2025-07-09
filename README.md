@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Feels Just Right by ZEROBADDAYS](https://open.spotify.com/track/44myqXwxlJfHHHsWh9TmIn)
-- [Be The One by DEARI](https://open.spotify.com/track/4sNrlz1ECw5Pd2GIIaOAJ3)
-- [Island Sun by Hotham](https://open.spotify.com/track/0Gs3ogNV666bciDM4z4kX6)
-- [Free Fallin&#39; by Koni, Strøm](https://open.spotify.com/track/3g3ewTBWdzOCLYkriiDTIC)
-- [Ebb &amp; Flow by Midnight Pass](https://open.spotify.com/track/1cWednRp2CUjfFU5tfhj7B)
+- [Dancing on a Memory by Hallman](https://open.spotify.com/track/0Vxai4VnuUuQitwtIM9pDV)
+- [Somebody Else - Radio Mix by Zerb, Thomaz Krauze](https://open.spotify.com/track/01yVqh6f3kGA0ISGeKZptr)
+- [Make You Mine by Hokima](https://open.spotify.com/track/2B0JRxcnaMVTECIIhVl4TK)
+- [In Time by Matteo Cole](https://open.spotify.com/track/5kEfG4oWMHLiugnA9oLuLi)
+- [Kids Nation by Kandi &amp; Fitch](https://open.spotify.com/track/3K25pd5UXzBRT04Fjfp4bf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
