@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Take It Easy by Luke Bergs](https://open.spotify.com/track/35W193vmK8Q3o58UOIPRd9)
-- [Running by Zerb](https://open.spotify.com/track/5ZxnCwIT01oXejeyTjwpUV)
-- [Teranga by Kvarmez, Popsicles](https://open.spotify.com/track/2ZzjT8sNx9aoXjuNKq5kzV)
-- [Jungle by The kid in blue](https://open.spotify.com/track/4OjdjSC3daLXsixkIU4FGM)
-- [Beautiful Mind - Extended Mix by KTB, Mara](https://open.spotify.com/track/5T5tcSDlF5VxcelPRaeV9c)
+- [Breaking Point by Jaron](https://open.spotify.com/track/0n0bfvh0TfOKW96qc3mq3K)
+- [Get Back My Love by HYPAUX](https://open.spotify.com/track/3yvPsUAKVe6Zjz2LTi98aK)
+- [Inertia by overuu](https://open.spotify.com/track/3L4u8FJ4FAkG3XIwElr3Eg)
+- [Vegas by Onda Norte](https://open.spotify.com/track/5RyZqM28W6PnerFyQFGA8V)
+- [Lemonade Lounge by Hallman](https://open.spotify.com/track/4c3bdXxowhrc0Xs9zGI5ax)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
