@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Flying Away by Onda Norte](https://open.spotify.com/track/3c6Z62pV5AFHi4Tiz6VfXt)
-- [Not Too Late by Edward Maya, Adem Bogoceli](https://open.spotify.com/track/0Yle7OhbLYkGLF0ZVPPowh)
-- [love, don&#39;t make me by joki, Ridges](https://open.spotify.com/track/1o4qyeyiflbk9NHhOPWHIK)
-- [Next To You by NM](https://open.spotify.com/track/0XpyOa5GkKSakllZYpqsNK)
-- [Houdini - AFRO HOUSE - Radio Edit by Noir Glacé, BLVCKDOP3](https://open.spotify.com/track/4m4Ral9PJZXpdCxqO3SV3O)
+- [Feels Just Right by ZEROBADDAYS](https://open.spotify.com/track/44myqXwxlJfHHHsWh9TmIn)
+- [Be The One by DEARI](https://open.spotify.com/track/4sNrlz1ECw5Pd2GIIaOAJ3)
+- [Island Sun by Hotham](https://open.spotify.com/track/0Gs3ogNV666bciDM4z4kX6)
+- [Free Fallin&#39; by Koni, Strøm](https://open.spotify.com/track/3g3ewTBWdzOCLYkriiDTIC)
+- [Ebb &amp; Flow by Midnight Pass](https://open.spotify.com/track/1cWednRp2CUjfFU5tfhj7B)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
