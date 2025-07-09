@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Backwards by NM](https://open.spotify.com/track/6v8wTsogcVzjfc3A8z5owi)
-- [Alpines by Onda Norte](https://open.spotify.com/track/18JPDlcQdYdaICgo1VZOCY)
-- [Jericho by Glarity](https://open.spotify.com/track/6U44f23vRk6GP8G1M2saLQ)
-- [Shores of Reflection by dvine](https://open.spotify.com/track/2fEjoPcl3mVDOalUkwlGNv)
-- [Through Everything by Nofsky](https://open.spotify.com/track/6bXrUd3cTSeNu9QYJ4gpPL)
+- [Flying Away by Onda Norte](https://open.spotify.com/track/3c6Z62pV5AFHi4Tiz6VfXt)
+- [Not Too Late by Edward Maya, Adem Bogoceli](https://open.spotify.com/track/0Yle7OhbLYkGLF0ZVPPowh)
+- [love, don&#39;t make me by joki, Ridges](https://open.spotify.com/track/1o4qyeyiflbk9NHhOPWHIK)
+- [Next To You by NM](https://open.spotify.com/track/0XpyOa5GkKSakllZYpqsNK)
+- [Houdini - AFRO HOUSE - Radio Edit by Noir Glacé, BLVCKDOP3](https://open.spotify.com/track/4m4Ral9PJZXpdCxqO3SV3O)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
