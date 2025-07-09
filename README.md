@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Dancing on a Memory by Hallman](https://open.spotify.com/track/0Vxai4VnuUuQitwtIM9pDV)
-- [Somebody Else - Radio Mix by Zerb, Thomaz Krauze](https://open.spotify.com/track/01yVqh6f3kGA0ISGeKZptr)
-- [Make You Mine by Hokima](https://open.spotify.com/track/2B0JRxcnaMVTECIIhVl4TK)
-- [In Time by Matteo Cole](https://open.spotify.com/track/5kEfG4oWMHLiugnA9oLuLi)
-- [Kids Nation by Kandi &amp; Fitch](https://open.spotify.com/track/3K25pd5UXzBRT04Fjfp4bf)
+- [West Coast by Courtney Storm](https://open.spotify.com/track/5TYMfTsBChRmVRDPvjhWVQ)
+- [Yippee Ki-Yay by Mojave Grey](https://open.spotify.com/track/3a7s5qchRlnKbWCyjus1ko)
+- [Fix Me by CAKES, Sam Harper](https://open.spotify.com/track/1nHWcLi8wupts5WkjIAflQ)
+- [Better Days (feat. Sirena) by Lü, Sirena](https://open.spotify.com/track/6dksuzyjHvCCsEnRUlbtc7)
+- [Drift by D.Polo](https://open.spotify.com/track/31RVTFQnLi4oiVjPrE03WJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
