@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (2 days ago)
 
 #### 🎧 What I have been listening
-- [Breaking Point by Jaron](https://open.spotify.com/track/0n0bfvh0TfOKW96qc3mq3K)
-- [Get Back My Love by HYPAUX](https://open.spotify.com/track/3yvPsUAKVe6Zjz2LTi98aK)
-- [Inertia by overuu](https://open.spotify.com/track/3L4u8FJ4FAkG3XIwElr3Eg)
-- [Vegas by Onda Norte](https://open.spotify.com/track/5RyZqM28W6PnerFyQFGA8V)
-- [Lemonade Lounge by Hallman](https://open.spotify.com/track/4c3bdXxowhrc0Xs9zGI5ax)
+- [Backwards by NM](https://open.spotify.com/track/6v8wTsogcVzjfc3A8z5owi)
+- [Alpines by Onda Norte](https://open.spotify.com/track/18JPDlcQdYdaICgo1VZOCY)
+- [Jericho by Glarity](https://open.spotify.com/track/6U44f23vRk6GP8G1M2saLQ)
+- [Shores of Reflection by dvine](https://open.spotify.com/track/2fEjoPcl3mVDOalUkwlGNv)
+- [Through Everything by Nofsky](https://open.spotify.com/track/6bXrUd3cTSeNu9QYJ4gpPL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
