@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (3 days ago)
 
 #### 🎧 What I have been listening
+- [Only One by D.Polo](https://open.spotify.com/track/2OpzoqnnXQ6EyGERxGw46Z)
+- [You&#39;re Not Different by Hallman](https://open.spotify.com/track/3u1OufdYA5w6MdeSuqCHIF)
 - [Thankful by Meynberg, BOKI](https://open.spotify.com/track/3dC62XwKsZGMO8O3pgJTF5)
 - [Bliss by Luke Bergs](https://open.spotify.com/track/7AWk8VEBqTObK46v69uIVB)
 - [Tides by D.Polo](https://open.spotify.com/track/18QEuDhJmio7dJBVMcczVg)
-- [I Just Can&#39;t Change My Emotions by Basixx, LaKesha Nugent](https://open.spotify.com/track/61M2IEumz73caA0ydNDSbA)
-- [When We Kiss by NM](https://open.spotify.com/track/5tb0KOMsQ8D9MjPZM0OXaX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
