@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Nobody Knows by Duckmaw](https://open.spotify.com/track/4xu0vzUdjyAL9z21qkebEK)
-- [Ever After by dvine](https://open.spotify.com/track/57hO2DGhBI2BbqCjVxpJcr)
-- [Make It Right by Iskarelyn](https://open.spotify.com/track/74k50vucOmBvqsQRefrt2W)
-- [Meet Me in the Dark by Basixx](https://open.spotify.com/track/775v4RJZ7XFzKA5hmvnaWK)
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [Bliss by Luke Bergs](https://open.spotify.com/track/7AWk8VEBqTObK46v69uIVB)
+- [Tides by D.Polo](https://open.spotify.com/track/18QEuDhJmio7dJBVMcczVg)
+- [I Just Can&#39;t Change My Emotions by Basixx, LaKesha Nugent](https://open.spotify.com/track/61M2IEumz73caA0ydNDSbA)
+- [When We Kiss by NM](https://open.spotify.com/track/5tb0KOMsQ8D9MjPZM0OXaX)
+- [Slow Motion by Zerb, Pontifexx, Louise Rademakers](https://open.spotify.com/track/1yYgrN0y1vcWF92zM5FRQJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
