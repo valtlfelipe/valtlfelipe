@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (3 days ago)
 
 #### 🎧 What I have been listening
-- [Daybreak by Luke Bergs](https://open.spotify.com/track/0yASPBX8gMkcdiL0Q6gjTu)
-- [Essence by Hotham](https://open.spotify.com/track/4wSH84SfROR0p2FPtZ0Hdj)
-- [Take Five by ZEROBADDAYS](https://open.spotify.com/track/515e4Eg90PxNEtaP9DFknf)
-- [By My Side by TWOPILOTS](https://open.spotify.com/track/49Qmjs7GYOybza7EZkmrBq)
-- [Open Your Eyes by Nick Raff](https://open.spotify.com/track/3Ebt1WALSn914WYdfCKV4B)
+- [Nobody Knows by Duckmaw](https://open.spotify.com/track/4xu0vzUdjyAL9z21qkebEK)
+- [Ever After by dvine](https://open.spotify.com/track/57hO2DGhBI2BbqCjVxpJcr)
+- [Make It Right by Iskarelyn](https://open.spotify.com/track/74k50vucOmBvqsQRefrt2W)
+- [Meet Me in the Dark by Basixx](https://open.spotify.com/track/775v4RJZ7XFzKA5hmvnaWK)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
