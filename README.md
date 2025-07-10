@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (3 days ago)
 
 #### 🎧 What I have been listening
+- [Yeah by Maiwan](https://open.spotify.com/track/5OUicUHQ7NqR6KoEmGARuF)
+- [My Way Home by Alex Cruz, ROBINS](https://open.spotify.com/track/5WqIMi9BQgfKlgFEOLFSQr)
 - [West Coast by Courtney Storm](https://open.spotify.com/track/5TYMfTsBChRmVRDPvjhWVQ)
 - [Yippee Ki-Yay by Mojave Grey](https://open.spotify.com/track/3a7s5qchRlnKbWCyjus1ko)
 - [Fix Me by CAKES, Sam Harper](https://open.spotify.com/track/1nHWcLi8wupts5WkjIAflQ)
-- [Better Days (feat. Sirena) by Lü, Sirena](https://open.spotify.com/track/6dksuzyjHvCCsEnRUlbtc7)
-- [Drift by D.Polo](https://open.spotify.com/track/31RVTFQnLi4oiVjPrE03WJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
