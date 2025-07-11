@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Happy by Luke Bergs](https://open.spotify.com/track/0awc5pskXdZmDtZY3I3q9r)
-- [Azizam by merchant, Jordan Grace](https://open.spotify.com/track/1lIT2ZiOQetROcnkCRK4pf)
-- [Josephine (feat. Apophenia) by HYPAUX, outset island, Apophenia](https://open.spotify.com/track/4Vdg3bigqYqRjyFC0dCq3G)
-- [Be Somebody by Midnight Pass](https://open.spotify.com/track/7vaJ4jJfxQVoJOGujY8xOS)
-- [If You&#39;re Looking for Trouble by Basixx, TASH](https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK)
+- [Holdin On by LEVII, Nethy Aber](https://open.spotify.com/track/2EiwYubhjXl2AeTZKB4Hmp)
+- [Cool Wet Sand by Öman](https://open.spotify.com/track/21dsGRPmNPM6RuV0q9kgik)
+- [A Picture of Time by dvine](https://open.spotify.com/track/0ds7Buz4Rnekgi9TU4F8uf)
+- [Something Stronger - Extended by Rules, SHYA, Coldabank](https://open.spotify.com/track/15kmNeLNr4OoZSDCwbCMQf)
+- [You&#39;re The Only Reason by Basixx, Phawn](https://open.spotify.com/track/0SgDJBySX4PCfybf6hrhpb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
