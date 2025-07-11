@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Until the End of Time by Basixx, Leone](https://open.spotify.com/track/5fUHpgrQ4PcbsrxDsAyX2z)
-- [Anyone by Maiwan](https://open.spotify.com/track/2jdObkXiyca07k9r6UwqaL)
-- [Holdin On by LEVII, Nethy Aber](https://open.spotify.com/track/2EiwYubhjXl2AeTZKB4Hmp)
-- [Cool Wet Sand by Öman](https://open.spotify.com/track/21dsGRPmNPM6RuV0q9kgik)
-- [A Picture of Time by dvine](https://open.spotify.com/track/0ds7Buz4Rnekgi9TU4F8uf)
+- [Need Your Touch by Basixx](https://open.spotify.com/track/5XS37Do0DUe9KSTqzMUFgG)
+- [Be My Parachute by Basixx, Mia Pfirrman](https://open.spotify.com/track/4gP89ryIwYiCfPkyDrrNSE)
+- [My Love (2024) by Alex Wann, Route 94, Jess Glynne](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk)
+- [Be My Parachute by Basixx, Mia Pfirrman](https://open.spotify.com/track/4gP89ryIwYiCfPkyDrrNSE)
+- [No One Like You by Alex Adair](https://open.spotify.com/track/58yE7laRs6ptzfLKWXLN9u)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
