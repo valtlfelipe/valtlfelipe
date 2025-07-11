@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (4 days ago)
 
 #### 🎧 What I have been listening
-- [If I Change (Gribbe Remix) by Mindme, Gribbe, Mia Pfirrman](https://open.spotify.com/track/5C064pLRdTWlsz2nF2oKqt)
-- [Summer of Our Lives by waykap, Emmi](https://open.spotify.com/track/3D74AslVbd3wUNTn5Lu89p)
-- [You Light Me Up by Craig Reever, Andy Delos Santos](https://open.spotify.com/track/17nNJNrJ8mrVA2xs5NkVsR)
-- [Just Wanna Be Friends by Basixx](https://open.spotify.com/track/39XxJrw6hA6x2jelt4pRP7)
-- [Everything But You (feat. A7S) by Clean Bandit, A7S](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV)
+- [Lose My Breath by Basixx](https://open.spotify.com/track/5UskPNAI4yTHFk6b38K4WX)
+- [Your Love Is by LeDorean, Andy Delos Santos](https://open.spotify.com/track/2rkUnQz4oEKW3RPwuWP5dJ)
+- [Arms of Gold by Tape Machines, Mia Pfirrman](https://open.spotify.com/track/0QIwoAemWa2xlBIhTBAVns)
+- [Breathing Now by Craig Reever, Robin Öman](https://open.spotify.com/track/5mefcaGbpc9yNcQQVQuAm9)
+- [Young Love by NIGHTCAP](https://open.spotify.com/track/5RABFnMx5HkKewLxMRfUfk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
