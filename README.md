@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (4 days ago)
 
 #### 🎧 What I have been listening
+- [Anyone by Maiwan](https://open.spotify.com/track/2jdObkXiyca07k9r6UwqaL)
 - [Holdin On by LEVII, Nethy Aber](https://open.spotify.com/track/2EiwYubhjXl2AeTZKB4Hmp)
 - [Cool Wet Sand by Öman](https://open.spotify.com/track/21dsGRPmNPM6RuV0q9kgik)
 - [A Picture of Time by dvine](https://open.spotify.com/track/0ds7Buz4Rnekgi9TU4F8uf)
 - [Something Stronger - Extended by Rules, SHYA, Coldabank](https://open.spotify.com/track/15kmNeLNr4OoZSDCwbCMQf)
-- [You&#39;re The Only Reason by Basixx, Phawn](https://open.spotify.com/track/0SgDJBySX4PCfybf6hrhpb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
