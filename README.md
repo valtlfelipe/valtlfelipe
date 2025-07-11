@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (4 days ago)
 
 #### 🎧 What I have been listening
-- [Pushing Rewind by BLAEKER, Eyre](https://open.spotify.com/track/0ksbb7idt9oktmsFAsNMne)
-- [I Can Taste Your Words by Ceen](https://open.spotify.com/track/5ix5y0mUF2C3ykGYGjgFDU)
-- [Shine a Little by Craig Reever, Mia Pfirrman](https://open.spotify.com/track/4NZjnSPRTEytwz4qEPLQ43)
-- [Need Your Touch by Basixx](https://open.spotify.com/track/5XS37Do0DUe9KSTqzMUFgG)
-- [Be My Parachute by Basixx, Mia Pfirrman](https://open.spotify.com/track/4gP89ryIwYiCfPkyDrrNSE)
+- [If I Change (Gribbe Remix) by Mindme, Gribbe, Mia Pfirrman](https://open.spotify.com/track/5C064pLRdTWlsz2nF2oKqt)
+- [Summer of Our Lives by waykap, Emmi](https://open.spotify.com/track/3D74AslVbd3wUNTn5Lu89p)
+- [You Light Me Up by Craig Reever, Andy Delos Santos](https://open.spotify.com/track/17nNJNrJ8mrVA2xs5NkVsR)
+- [Just Wanna Be Friends by Basixx](https://open.spotify.com/track/39XxJrw6hA6x2jelt4pRP7)
+- [Everything But You (feat. A7S) by Clean Bandit, A7S](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
