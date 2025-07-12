@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (5 days ago)
 
 #### 🎧 What I have been listening
-- [I&#39;ll Be Ok (If You Stay) by Julia Carbajal](https://open.spotify.com/track/34bKiXfuhLAT9uHvnWi3f3)
-- [I&#39;m Crazy for Love by Craig Reever, Emmi](https://open.spotify.com/track/1me279fqNEfvXy9aIEzdgh)
-- [The Sun Goes Down by Lvly, STRLGHT, Mia Pfirrman](https://open.spotify.com/track/34mmeGjJSo1cLcTmx9ZgIX)
-- [Summer Night by Daxten, Wai, Frank Moody](https://open.spotify.com/track/09B5A0WoSTquTHi3pnD0AH)
-- [Lose My Breath by Basixx](https://open.spotify.com/track/5UskPNAI4yTHFk6b38K4WX)
+- [Saw You with Another by Ceen](https://open.spotify.com/track/7JEyDTcaWHUCcWOd3yAGde)
+- [Help You Let It Go by Deanz, Andy Delos Santos](https://open.spotify.com/track/47ShmiSVP4RbzK5GwHX6NM)
+- [Call It a Day (Celebrate) by Daxten, Wai, Danny Shea](https://open.spotify.com/track/2b6vPqzHlWpFszMHYTc6H3)
+- [The Chase by Basixx](https://open.spotify.com/track/1SuqObc8rUMuvoeW0WmNJR)
+- [Rockstar by Basixx, G Curtis](https://open.spotify.com/track/6M8Iv1wpb6jbvAwBslAbHp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
