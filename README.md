@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (5 days ago)
 
 #### 🎧 What I have been listening
+- [I&#39;ll Be Ok (If You Stay) by Julia Carbajal](https://open.spotify.com/track/34bKiXfuhLAT9uHvnWi3f3)
+- [I&#39;m Crazy for Love by Craig Reever, Emmi](https://open.spotify.com/track/1me279fqNEfvXy9aIEzdgh)
+- [The Sun Goes Down by Lvly, STRLGHT, Mia Pfirrman](https://open.spotify.com/track/34mmeGjJSo1cLcTmx9ZgIX)
+- [Summer Night by Daxten, Wai, Frank Moody](https://open.spotify.com/track/09B5A0WoSTquTHi3pnD0AH)
 - [Lose My Breath by Basixx](https://open.spotify.com/track/5UskPNAI4yTHFk6b38K4WX)
-- [Your Love Is by LeDorean, Andy Delos Santos](https://open.spotify.com/track/2rkUnQz4oEKW3RPwuWP5dJ)
-- [Arms of Gold by Tape Machines, Mia Pfirrman](https://open.spotify.com/track/0QIwoAemWa2xlBIhTBAVns)
-- [Breathing Now by Craig Reever, Robin Öman](https://open.spotify.com/track/5mefcaGbpc9yNcQQVQuAm9)
-- [Young Love by NIGHTCAP](https://open.spotify.com/track/5RABFnMx5HkKewLxMRfUfk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
