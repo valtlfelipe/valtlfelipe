@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (5 days ago)
 
 #### 🎧 What I have been listening
-- [When I Found Your Love by Tomas Skyldeberg](https://open.spotify.com/track/6WvHXJOiLxjv9uoMOAvjLa)
-- [Summer of Our Lives by waykap, Emmi](https://open.spotify.com/track/3D74AslVbd3wUNTn5Lu89p)
-- [So Curious by Daxten, Wai, Greylyn](https://open.spotify.com/track/5DjIm6VhWkpMB5GHPyC6KQ)
-- [Let&#39;s Get Out by Basixx](https://open.spotify.com/track/5pMyczO5irSFPoQdHaCQi3)
-- [Let the Fire Catch by D.Polo, Jessica Chertock](https://open.spotify.com/track/6ghug68ZTe40ffMzeaccKx)
+- [Like Paradise by waykap, Christine Smit](https://open.spotify.com/track/6R6JDDehvBABukuDVWPXXV)
+- [Feel the Pressure by Daxten, Wai, Cleo Kelley](https://open.spotify.com/track/2eQETn0j8Eo7UgzGkeLV7X)
+- [Rainbow Grayscale by Ceen](https://open.spotify.com/track/1v2VrW0R1PpzlTYZCxRgqH)
+- [Night After Night by Lvly, G Curtis](https://open.spotify.com/track/0Y9Pw6xY6EhIGtNuKrTehU)
+- [Body on Body by Basixx, Emmi](https://open.spotify.com/track/2SBze60jeaLB0CBRADOWwn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
