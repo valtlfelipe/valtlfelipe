@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (5 days ago)
 
 #### 🎧 What I have been listening
+- [Need Your Touch by Basixx](https://open.spotify.com/track/5XS37Do0DUe9KSTqzMUFgG)
+- [Heaven by waykap, Emmi](https://open.spotify.com/track/4tk8MUDDlbnIRgI9BH6xeL)
 - [Saw You with Another by Ceen](https://open.spotify.com/track/7JEyDTcaWHUCcWOd3yAGde)
 - [Help You Let It Go by Deanz, Andy Delos Santos](https://open.spotify.com/track/47ShmiSVP4RbzK5GwHX6NM)
 - [Call It a Day (Celebrate) by Daxten, Wai, Danny Shea](https://open.spotify.com/track/2b6vPqzHlWpFszMHYTc6H3)
-- [The Chase by Basixx](https://open.spotify.com/track/1SuqObc8rUMuvoeW0WmNJR)
-- [Rockstar by Basixx, G Curtis](https://open.spotify.com/track/6M8Iv1wpb6jbvAwBslAbHp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
