@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Set Me Free by Guy Didden](https://open.spotify.com/track/0QodaQsiSUGyDTAqr6Kyl5)
 - [Where You Belong by Joey Stux](https://open.spotify.com/track/2lxa7gSVlgXmhCmjYFAJNu)
 - [lights by four30](https://open.spotify.com/track/1hJqiUze48euuYJvVWDNBE)
 - [Abusador by YRO](https://open.spotify.com/track/4t2xAQO6c9gVmoccd8445T)
 - [A Litte Love by One Flame, John Linhart](https://open.spotify.com/track/5vJ9nKLaO9j1d4zlyYUXYV)
-- [Black &amp; Blue by LEVII, KING LX](https://open.spotify.com/track/1xkuVT4MG9Rwa1V8dbyaqh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
