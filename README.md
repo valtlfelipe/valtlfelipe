@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (1 week ago)
 
 #### 🎧 What I have been listening
-- [One Step at a Time by Nofsky, LUDVIC](https://open.spotify.com/track/7cNlaTE7zBclHHZiiifFSJ)
-- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
-- [One Last Dance by Audien, XIRA](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L)
-- [Falling by Chris Lake, Bonobo, Alexis Roberts](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi)
-- [What A Feeling (Tritonia 508) by Courtney Storm, Finley Brückner](https://open.spotify.com/track/5audIt9BAx7wOrbfuAbKqi)
+- [Yippee Ki-Yay by Mojave Grey](https://open.spotify.com/track/3a7s5qchRlnKbWCyjus1ko)
+- [Dancing On My Own by Peachy Pete](https://open.spotify.com/track/03wMBkl2mjXSTTaKJ3uR96)
+- [Heat Waves by four30](https://open.spotify.com/track/6BoLWqWVSzgXuJjnbIHfAD)
+- [My Focus Is You - AFRO HOUSE - Extended Mix by Noir Glacé, BLVCKDOP3](https://open.spotify.com/track/23LWr8pKae87K4bBUAZ2Ut)
+- [Don’t Go by NM](https://open.spotify.com/track/1EKtV9XP7aJGiPkS35EzNl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
