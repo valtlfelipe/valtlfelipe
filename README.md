@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Innerspace by TOMB](https://open.spotify.com/track/67wkHOYVbkX376dwcjJQ4S)
-- [Wish It Was You by Audien, Cate Downey](https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd)
-- [West Coast by Courtney Storm](https://open.spotify.com/track/5TYMfTsBChRmVRDPvjhWVQ)
-- [Hold On Me by Andrew Long](https://open.spotify.com/track/06d5r9vINs4NPBrSmD7apR)
-- [With Me - Club Mix by Marc Benjamin, Dae](https://open.spotify.com/track/44nz8DE3i2Qu8zzR0PaNwG)
+- [Oracle by TOMB](https://open.spotify.com/track/78aKaUV8nSyqh7T8ldzz85)
+- [Someday You Will Know (Tritonia 514) by Modera, FARLEY](https://open.spotify.com/track/2MawiEDmJ5lZWDs3CPmrlw)
+- [Fast Car by BLANDOS, Lenji](https://open.spotify.com/track/7nAeN4bX0kzrvftoG4jag6)
+- [One Last Dance - Polar Inc. Remix by Audien, XIRA, Polar Inc.](https://open.spotify.com/track/0fTIgC6Ppe4KuXlNXO5KzR)
+- [Summertime Sadness by Goldaine, Tropical Tide](https://open.spotify.com/track/3qaSnGY24LyfpXmiETD7MQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
