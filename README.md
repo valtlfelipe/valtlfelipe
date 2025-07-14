@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Yippee Ki-Yay by Mojave Grey](https://open.spotify.com/track/3a7s5qchRlnKbWCyjus1ko)
-- [Dancing On My Own by Peachy Pete](https://open.spotify.com/track/03wMBkl2mjXSTTaKJ3uR96)
-- [Heat Waves by four30](https://open.spotify.com/track/6BoLWqWVSzgXuJjnbIHfAD)
-- [My Focus Is You - AFRO HOUSE - Extended Mix by Noir Glacé, BLVCKDOP3](https://open.spotify.com/track/23LWr8pKae87K4bBUAZ2Ut)
-- [Don’t Go by NM](https://open.spotify.com/track/1EKtV9XP7aJGiPkS35EzNl)
+- [Where You Belong by Joey Stux](https://open.spotify.com/track/2lxa7gSVlgXmhCmjYFAJNu)
+- [lights by four30](https://open.spotify.com/track/1hJqiUze48euuYJvVWDNBE)
+- [Abusador by YRO](https://open.spotify.com/track/4t2xAQO6c9gVmoccd8445T)
+- [A Litte Love by One Flame, John Linhart](https://open.spotify.com/track/5vJ9nKLaO9j1d4zlyYUXYV)
+- [Black &amp; Blue by LEVII, KING LX](https://open.spotify.com/track/1xkuVT4MG9Rwa1V8dbyaqh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
