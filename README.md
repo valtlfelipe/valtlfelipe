@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Cielo Infinito by Deep Crusaders](https://open.spotify.com/track/5qmwNBO5no9ZrB1SJAur1w)
-- [Con Calma by Daddy Yankee, Snow](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m)
-- [Something In The Air by Coral Palms](https://open.spotify.com/track/3NF2UkUKKEIS4X8seGP8Wo)
-- [Acapulco by Jason Derulo](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ)
-- [Love Tonight (Edit) by Shouse](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP)
+- [Evolution by Five Drops](https://open.spotify.com/track/4jXYK7Ip5xB7KqBK9L1yxb)
+- [One Kiss (Joey Stux Remix) by Joey Stux, SOA](https://open.spotify.com/track/2xJryNEAFJI7Y96idpws2a)
+- [Find The Way by Santi, Paul Hawksworth](https://open.spotify.com/track/6ragTdMhzsq09zgquXJfyo)
+- [Unforgettable by Mizmo](https://open.spotify.com/track/0tMsHFEaTcHIEDoTO8HCOY)
+- [Feeling by SOULESCVPE, Emily Price](https://open.spotify.com/track/4agc20UBJXIxC7XMxYwCD5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
