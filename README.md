@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (1 week ago)
 
 #### 🎧 What I have been listening
+- [One Step at a Time by Nofsky, LUDVIC](https://open.spotify.com/track/7cNlaTE7zBclHHZiiifFSJ)
+- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
+- [One Last Dance by Audien, XIRA](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L)
+- [Falling by Chris Lake, Bonobo, Alexis Roberts](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi)
 - [What A Feeling (Tritonia 508) by Courtney Storm, Finley Brückner](https://open.spotify.com/track/5audIt9BAx7wOrbfuAbKqi)
-- [Riptide (feat. Ilan Kidron) by Sigala, Jaxomy, Ilan Kidron](https://open.spotify.com/track/3zAQQXsqLkD7ji4pQzKD0v)
-- [Lose My Mind (feat. Doja Cat) [From F1® The Movie] by Don Toliver, Doja Cat, F1 The Album](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf)
-- [Addicted To Your Love by Chris Crone, DHALI](https://open.spotify.com/track/63EPWZRpfAUXIYFczGAl1w)
-- [Go Back (feat. Keirah Kirton) by James iD, Keirah Kirton](https://open.spotify.com/track/4lHtfmSyl5egxwBCZbiuSe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
