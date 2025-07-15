@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[analogdotnow/Analog](https://github.com/analogdotnow/Analog)** - Meet the calendar that changes everything (1 week ago)
 
 #### 🎧 What I have been listening
+- [Eternal Flame by Kid On The Block, Namté](https://open.spotify.com/track/3uEg8cO6QR9KXDVA8QGl6M)
+- [On The Line by Pierse, Lumin8](https://open.spotify.com/track/7fZQtGPRPK3b0LZiGpgGV7)
+- [Messy by Mecdoux, Chill Covers](https://open.spotify.com/track/2pU7oYLFcMtgC87h7QyyvB)
 - [Sanctified by Lost Ways, Alberto Ciccarini, Poul](https://open.spotify.com/track/34OYlTT4KwnjdUKd6z3Chv)
 - [Close Your Eyes by Forester, Petit Biscuit, Emilia Ali](https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB)
-- [Don&#39;t Want To Fall by Jur](https://open.spotify.com/track/3omrUPMJmcoL67d7HyiRyi)
-- [Black Shores by Tommy Loude](https://open.spotify.com/track/2bSYFkotg8uBZtRj5TV1nE)
-- [Let Me Be by Mannymore, feva., Orfa](https://open.spotify.com/track/7zNMBH02dsdoThZ7NRumTY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
