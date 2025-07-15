@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs)** - High performance FUSE filesystem for AI workloads with S3 compatible backends (1 week ago)
 
 #### 🎧 What I have been listening
-- [Something Just Like This by Sorvats Nivek, DERWA](https://open.spotify.com/track/1arzhi2d6C9RO0nW9JBJ7N)
-- [Take You Away by Alban Chela, Marin Hoxha](https://open.spotify.com/track/40tVPEavszigg6iLxnS9bK)
-- [Kaku by Temza](https://open.spotify.com/track/29Cm21If1t1ddiPz2VKgGr)
-- [June Girl by We Are Friends, Blahkoø, Kinxq, NYMOU](https://open.spotify.com/track/4MgNNHVyOxFAcO0MaIVirg)
-- [Chase It by Ceci, Lywe](https://open.spotify.com/track/4suJebGEVN9JQRP2OteFRX)
+- [Show Me Love by WizTheMc, bees &amp; honey](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa)
+- [Everything Will Be Alright by Kiholm](https://open.spotify.com/track/4ufJ9Wg64SjtecchwoffoB)
+- [Phantom by Mannymore, Orfa](https://open.spotify.com/track/7zKEQCJu6H24epOeO3ZCET)
+- [Starving by Goldaine, RHEA](https://open.spotify.com/track/73icnGgWmd2k9VufVXMsUr)
+- [Beautiful Things by Mecdoux](https://open.spotify.com/track/3xHKRoHhGEFFomtkSPHsUH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
