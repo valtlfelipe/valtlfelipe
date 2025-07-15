@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[analogdotnow/Analog](https://github.com/analogdotnow/Analog)** - Meet the calendar that changes everything (1 week ago)
 
 #### 🎧 What I have been listening
-- [Without You by Planetopia](https://open.spotify.com/track/5aLegzHIN66Zh4JkMJfmhD)
-- [Disappeared in Time by KRIS DAM](https://open.spotify.com/track/2wUuUqcfrsDqxvIFMxdaXU)
-- [Our Separate Ways by Garnic, Fini, Nate VanDeusen, just Fede](https://open.spotify.com/track/39wkXqBiMav4ydOW09wUoU)
-- [Blinding Lights by BLANDOS](https://open.spotify.com/track/6aEhJPUJD23Mpmlnb3c7mB)
-- [Mariner - UOAK Remix by TOMB, UOAK](https://open.spotify.com/track/6JOyeBeA7S1mHq8Kr1h1fu)
+- [Sanctified by Lost Ways, Alberto Ciccarini, Poul](https://open.spotify.com/track/34OYlTT4KwnjdUKd6z3Chv)
+- [Close Your Eyes by Forester, Petit Biscuit, Emilia Ali](https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB)
+- [Don&#39;t Want To Fall by Jur](https://open.spotify.com/track/3omrUPMJmcoL67d7HyiRyi)
+- [Black Shores by Tommy Loude](https://open.spotify.com/track/2bSYFkotg8uBZtRj5TV1nE)
+- [Let Me Be by Mannymore, feva., Orfa](https://open.spotify.com/track/7zNMBH02dsdoThZ7NRumTY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
