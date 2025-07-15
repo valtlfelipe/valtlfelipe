@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs)** - High performance FUSE filesystem for AI workloads with S3 compatible backends (1 week ago)
 
 #### 🎧 What I have been listening
+- [Summer of Love (Shawn Mendes &amp; Tainy) by Shawn Mendes, Tainy](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6)
+- [Wake Me Up by Avicii](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2)
 - [Don&#39;t Stop by Prospa](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt)
 - [It Feels So Good by Matt Sassari, HUGEL, Sonique](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi)
 - [Shine Like Stars by Benji](https://open.spotify.com/track/1k2OaUl9NGaBA4wa3Ommvc)
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
-- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
