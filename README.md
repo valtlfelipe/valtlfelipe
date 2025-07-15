@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[BurntSushi/xsv](https://github.com/BurntSushi/xsv)** - A fast CSV command line toolkit written in Rust. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Oracle by TOMB](https://open.spotify.com/track/78aKaUV8nSyqh7T8ldzz85)
-- [Someday You Will Know (Tritonia 514) by Modera, FARLEY](https://open.spotify.com/track/2MawiEDmJ5lZWDs3CPmrlw)
-- [Fast Car by BLANDOS, Lenji](https://open.spotify.com/track/7nAeN4bX0kzrvftoG4jag6)
-- [One Last Dance - Polar Inc. Remix by Audien, XIRA, Polar Inc.](https://open.spotify.com/track/0fTIgC6Ppe4KuXlNXO5KzR)
-- [Summertime Sadness by Goldaine, Tropical Tide](https://open.spotify.com/track/3qaSnGY24LyfpXmiETD7MQ)
+- [Sun Or Rain - Radio Edit by Tom Tainted, Gabi Juliano](https://open.spotify.com/track/3MuIs3vN5SmEw3Dl0Nsvqw)
+- [I&#39;m Gone by Kusko](https://open.spotify.com/track/37x7ojXx6CECWn8OjyANVP)
+- [Bloom by Andrew Long, Koppo, Kazmyn](https://open.spotify.com/track/2jQtN8KFkVFqIkvexKWZDQ)
+- [What&#39;s Love Got To Do With It by Sorvats Nivek, DERWA](https://open.spotify.com/track/21pC65PuCVeDWObPikEXa1)
+- [Fire by Lukas Rieger, DHALI](https://open.spotify.com/track/3ZbDCafoWZUAJSPhxCWeoP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
