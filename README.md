@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs)** - High performance FUSE filesystem for AI workloads with S3 compatible backends (1 week ago)
 
 #### 🎧 What I have been listening
-- [Soul by NAMANA, Mohombi](https://open.spotify.com/track/4fPIIfPCszWiQfMSR6pqXn)
-- [guacamaya by supwel](https://open.spotify.com/track/6rXoWKWpulun1j0Zij5mNw)
-- [Stick Season by Mecdoux, Chill Covers, Rory Hope](https://open.spotify.com/track/3P8fleBT6ouHcSNs5hkaLh)
-- [Let Me Go by Sole Sole](https://open.spotify.com/track/2gj1KfwwUM0iL1wL4ADZLZ)
-- [Say My Name by Sorvats Nivek, DERWA](https://open.spotify.com/track/4tXDJqnjDI2iTE4mP1lxsk)
+- [Something Just Like This by Sorvats Nivek, DERWA](https://open.spotify.com/track/1arzhi2d6C9RO0nW9JBJ7N)
+- [Take You Away by Alban Chela, Marin Hoxha](https://open.spotify.com/track/40tVPEavszigg6iLxnS9bK)
+- [Kaku by Temza](https://open.spotify.com/track/29Cm21If1t1ddiPz2VKgGr)
+- [June Girl by We Are Friends, Blahkoø, Kinxq, NYMOU](https://open.spotify.com/track/4MgNNHVyOxFAcO0MaIVirg)
+- [Chase It by Ceci, Lywe](https://open.spotify.com/track/4suJebGEVN9JQRP2OteFRX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
