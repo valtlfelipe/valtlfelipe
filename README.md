@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Location by Zerb, Ty Dolla $ign, Wiz Khalifa](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP)
-- [Give It To Me by Lucas Estrada, Daytona](https://open.spotify.com/track/4TS12gNcLIIfYP2j7wocyJ)
-- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
-- [Rainfall (Praise You) by Tom Santa](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl)
-- [Feel My Needs by WEISS](https://open.spotify.com/track/7nionv2ijjqUlg9m5iWPTc)
+- [Weyu by Lucas Estrada, Lenji, Amadi Blue](https://open.spotify.com/track/66tTks0fdZ1t8Ux7SF0yrZ)
+- [Hey Hey - Radio Edit by Dennis Ferrer](https://open.spotify.com/track/3PPbRrWqas3IjoFZTTTPkn)
+- [Blessings by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z)
+- [Fall Again by HAYLA](https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL)
+- [Your Body by Marten Lou](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
