@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Move Your Body by Öwnboss, Sevek](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi)
-- [Sextacy by SIDEPIECE](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu)
-- [La Danza by John Summit](https://open.spotify.com/track/6KNlhaeBrlHUsVItPrpkyn)
-- [My Feelings For You - Mark Knight Remix by Avicii, Sebastien Drums, Mark Knight](https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs)
-- [Abra (feat. AMY MIYÚ) by Lady Bee, Sam Collins, AMY MIYÚ](https://open.spotify.com/track/1rEbr1mNQaZZmed7qrC2zt)
+- [Location by Zerb, Ty Dolla $ign, Wiz Khalifa](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP)
+- [Give It To Me by Lucas Estrada, Daytona](https://open.spotify.com/track/4TS12gNcLIIfYP2j7wocyJ)
+- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
+- [Rainfall (Praise You) by Tom Santa](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl)
+- [Feel My Needs by WEISS](https://open.spotify.com/track/7nionv2ijjqUlg9m5iWPTc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
