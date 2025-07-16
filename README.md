@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 
 #### 🎧 What I have been listening
-- [We Could Be Love by Hayden James, AR/CO](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O)
-- [Relax My Eyes by ANOTR, Abel Balder](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH)
-- [Atmosphere by FISHER, Kita Alexander](https://open.spotify.com/track/63HwAAXuSV2tzIUPoHOwZa)
-- [Mina Kupenda by Thierry Von Der Warth, joki, Mugisho](https://open.spotify.com/track/5tsSdgnZLNhVt78voyyjju)
-- [Desire by Olly Alexander (Years &amp; Years), Tove Lo](https://open.spotify.com/track/6TMzuNLw1ZPgBqPKmnnObm)
+- [Headlights by NONSENSE](https://open.spotify.com/track/1JVlr2bSM8FguB3zvMaRNc)
+- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
+- [Get Loose (feat. LexBlaze) by SUBSHIFT, Cave Studio, LexBlaze](https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH)
+- [Lola&#39;s Theme - Radio Edit by The Shapeshifters](https://open.spotify.com/track/60ZRKTMc94bcjiN4FI0XDm)
+- [B.O.T.A. (Baddest Of Them All) - Edit by Eliza Rose, Interplanetary Criminal](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
