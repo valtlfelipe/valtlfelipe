@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs)** - High performance FUSE filesystem for AI workloads with S3 compatible backends (1 week ago)
 
 #### 🎧 What I have been listening
-- [Delante by Lodgerz](https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN)
-- [These Words by Badger, Natasha Bedingfield](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz)
-- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG)
-- [Everybody by SQWAD](https://open.spotify.com/track/3ly7EyAG3qv3wlGBAf7gIF)
-- [Shades Of Love (feat. The Joy) by The Blessed Madonna, The Joy](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK)
+- [It&#39;s That Time - FISHER Remix by Marlon Hoffstadt, FISHER](https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ)
+- [Pasilda - Knee Deep Mix by Afro Medusa, Knee Deep](https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR)
+- [Little Things x Gypsy Woman - L BEATS MASHUP by Jorja Smith](https://open.spotify.com/track/2AlCe2DDxELeESF5IP3t9K)
+- [World Hold On (Children Of The Sky) - FISHER Rework by Bob Sinclar, FISHER, Steve Edwards](https://open.spotify.com/track/6kTwzV93qpcovlRPmBOXmn)
+- [(It Goes Like) Nanana - Edit by Peggy Gou](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
