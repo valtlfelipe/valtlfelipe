@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 
 #### 🎧 What I have been listening
-- [It&#39;s That Time - FISHER Remix by Marlon Hoffstadt, FISHER](https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ)
-- [Pasilda - Knee Deep Mix by Afro Medusa, Knee Deep](https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR)
-- [Little Things x Gypsy Woman - L BEATS MASHUP by Jorja Smith](https://open.spotify.com/track/2AlCe2DDxELeESF5IP3t9K)
-- [World Hold On (Children Of The Sky) - FISHER Rework by Bob Sinclar, FISHER, Steve Edwards](https://open.spotify.com/track/6kTwzV93qpcovlRPmBOXmn)
-- [(It Goes Like) Nanana - Edit by Peggy Gou](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w)
+- [We Could Be Love by Hayden James, AR/CO](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O)
+- [Relax My Eyes by ANOTR, Abel Balder](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH)
+- [Atmosphere by FISHER, Kita Alexander](https://open.spotify.com/track/63HwAAXuSV2tzIUPoHOwZa)
+- [Mina Kupenda by Thierry Von Der Warth, joki, Mugisho](https://open.spotify.com/track/5tsSdgnZLNhVt78voyyjju)
+- [Desire by Olly Alexander (Years &amp; Years), Tove Lo](https://open.spotify.com/track/6TMzuNLw1ZPgBqPKmnnObm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
