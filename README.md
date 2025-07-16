@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs)** - High performance FUSE filesystem for AI workloads with S3 compatible backends (1 week ago)
 
 #### 🎧 What I have been listening
+- [Everyday Work by Buitano](https://open.spotify.com/track/73k9WJaxjsRSJVRA5qGDmi)
 - [Astronaut In The Ocean by Masked Wolf](https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC)
 - [Homie by Joris Delacroix](https://open.spotify.com/track/0hjwiba2gpwgq82VbiD7oS)
 - [I Took A Pill In Ibiza - Seeb Remix by Mike Posner, Seeb](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)
 - [Savage Love (Laxed - Siren Beat) by Jawsh 685, Jason Derulo](https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c)
-- [Todo De Ti by Rauw Alejandro](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
