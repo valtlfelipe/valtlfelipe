@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Headlights by NONSENSE](https://open.spotify.com/track/1JVlr2bSM8FguB3zvMaRNc)
-- [You &amp; Me - Rivo Remix by Disclosure, Eliza Doolittle, Rivo](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [Get Loose (feat. LexBlaze) by SUBSHIFT, Cave Studio, LexBlaze](https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH)
-- [Lola&#39;s Theme - Radio Edit by The Shapeshifters](https://open.spotify.com/track/60ZRKTMc94bcjiN4FI0XDm)
-- [B.O.T.A. (Baddest Of Them All) - Edit by Eliza Rose, Interplanetary Criminal](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft)
+- [Move Your Body by Öwnboss, Sevek](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi)
+- [Sextacy by SIDEPIECE](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu)
+- [La Danza by John Summit](https://open.spotify.com/track/6KNlhaeBrlHUsVItPrpkyn)
+- [My Feelings For You - Mark Knight Remix by Avicii, Sebastien Drums, Mark Knight](https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs)
+- [Abra (feat. AMY MIYÚ) by Lady Bee, Sam Collins, AMY MIYÚ](https://open.spotify.com/track/1rEbr1mNQaZZmed7qrC2zt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
