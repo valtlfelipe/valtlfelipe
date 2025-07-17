@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[HugoRCD/nuxt-ui-chat](https://github.com/HugoRCD/nuxt-ui-chat)** - Nuxt UI app using the aisdk v5: streaming AI chat, multi-model support, AI Gateway, and generative UI (2 days ago)
 
 #### 🎧 What I have been listening
-- [Little Talks by Braaten, JANU, RÆ](https://open.spotify.com/track/21SL3invVSD4Ox35PBO5Ao)
-- [You Feel Like Sunday by Alex Cruz, Diana Miro](https://open.spotify.com/track/038POjSMtyOZO4T8KOPCIT)
-- [I Love U by Lost In Reveries, colormeblue.](https://open.spotify.com/track/2yPbjRmigNaQCvK6brJEfL)
-- [Sweet Disposition (a moment, a love) by Lost Frequencies, The Temper Trap](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI)
-- [King by TWOPILOTS](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib)
+- [Higher by Rammor](https://open.spotify.com/track/44jQ7CA1A5eCq5SIxY1M3H)
+- [Let&#39;s Get Out by Basixx](https://open.spotify.com/track/5pMyczO5irSFPoQdHaCQi3)
+- [Caught In A Motion by Maiwan](https://open.spotify.com/track/6guZijIBWaYcpfUncEZJFG)
+- [Dancing With Your Ghost by TWOPILOTS](https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P)
+- [Dynamite by BLANDOS](https://open.spotify.com/track/71FrSQ8Fx4JbFumpHz7XAi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
