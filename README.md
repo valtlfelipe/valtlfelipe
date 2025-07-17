@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Lola&#39;s Theme Recut - Radio Edit by The Shapeshifters](https://open.spotify.com/track/1Y38T6VrGCEgDZ89SXY2EP)
 - [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
 - [Somedays by Sonny Fodera, Jazzy, D.O.D](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB)
 - [Sete by BLOND:ISH, Francis Mercier, Amadou &amp; Mariam](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB)
 - [Make Me Feel by John Summit](https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T)
-- [I Only Smoke When I Drink - Claptone Remix by nimino, Claptone](https://open.spotify.com/track/7t3bCDH5vjN3Huw1Tu4pZo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
