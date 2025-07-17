@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/7rXke3ttpL2uXel9Nesf4u)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
-- [Pasa Pasa by AFROTECH, Lucas Estrada](https://open.spotify.com/track/3bQLEo8YSryBzYVwBZkiqE)
-- [Tell Me by Sonny Fodera, Clementine Douglas](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8)
-- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG)
+- [Where Do We Go? by WEISS, Harry Romero](https://open.spotify.com/track/3reyyWDm2gq1QHSBKGO0v1)
+- [Deep End - SIDEPIECE Remix by John Summit, SIDEPIECE](https://open.spotify.com/track/35xZCFGrXkz6KsfOmUMJGz)
+- [Forever Baby by Carlita, Janet Planet](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo)
+- [Shaking Things Up by nimino](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu)
+- [Nada Quedo by Impani, LU2VYK](https://open.spotify.com/track/3uqwPw8HylQn9vcmZuDQK3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
