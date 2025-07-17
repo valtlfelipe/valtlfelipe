@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Way It Is by Mr. Belt &amp; Wezol, RSCL](https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ)
+- [Groovejet (If This Ain&#39;t Love) by Spiller, Sophie Ellis-Bextor](https://open.spotify.com/track/1o2QXBJvkXTgDDM6EvjU9I)
 - [Body Pump - Lady Bee Remix by Aluna, Lady Bee](https://open.spotify.com/track/5PkJ2ssBCzKHaztJVASw2b)
 - [Lose My Mind by Jamie Jones, Connie Constance](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS)
 - [Kaleidoscope by Jarod Glawe, Markis, 88Birds](https://open.spotify.com/track/4eWpEoObcth4tnmDD2NowU)
-- [Mercy (feat. Jacob Lusk) by The Blessed Madonna, Jacob Lusk](https://open.spotify.com/track/2hGRJzZNQs3dboZdzb8meD)
-- [How Long Have You Been Away? by kryptogram](https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
