@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)** - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Way It Is by Mr. Belt &amp; Wezol, RSCL](https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ)
-- [Groovejet (If This Ain&#39;t Love) by Spiller, Sophie Ellis-Bextor](https://open.spotify.com/track/1o2QXBJvkXTgDDM6EvjU9I)
-- [Body Pump - Lady Bee Remix by Aluna, Lady Bee](https://open.spotify.com/track/5PkJ2ssBCzKHaztJVASw2b)
-- [Lose My Mind by Jamie Jones, Connie Constance](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS)
-- [Kaleidoscope by Jarod Glawe, Markis, 88Birds](https://open.spotify.com/track/4eWpEoObcth4tnmDD2NowU)
+- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/7rXke3ttpL2uXel9Nesf4u)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf)
+- [Pasa Pasa by AFROTECH, Lucas Estrada](https://open.spotify.com/track/3bQLEo8YSryBzYVwBZkiqE)
+- [Tell Me by Sonny Fodera, Clementine Douglas](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8)
+- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
