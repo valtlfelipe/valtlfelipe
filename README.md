@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sbdchd/squawk-action](https://github.com/sbdchd/squawk-action)** - Github Action for Linting Postgres Migrations with Squawk (2 days ago)
 
 #### 🎧 What I have been listening
-- [Love Yourself by TWOPILOTS, Xtina Louise](https://open.spotify.com/track/243vLTDXGKqOG32eWZe1v5)
-- [Show Me That by BTRN, Jake Neumar](https://open.spotify.com/track/4RP0B5tsGmoZA9LCrgfI8T)
-- [Can&#39;t Stay No Longer by Daxten, Wai, Revel Day](https://open.spotify.com/track/424aHdYuA919QweAuvPfaM)
-- [Something Just Like This by Braaten](https://open.spotify.com/track/4RLsGtPi0KclgWt56NXrtu)
-- [On Our Way by Meynberg, Oke](https://open.spotify.com/track/3O47AWjQnxMAzHVvE3wDy9)
+- [You Light Me Up by Craig Reever, Andy Delos Santos](https://open.spotify.com/track/17nNJNrJ8mrVA2xs5NkVsR)
+- [Josephine (feat. Apophenia) by HYPAUX, outset island, Apophenia](https://open.spotify.com/track/4Vdg3bigqYqRjyFC0dCq3G)
+- [It Looks Like We Made It by Basixx](https://open.spotify.com/track/0fYR84hJsQEE3ZoGEMy3vD)
+- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
+- [Teenage Heart by Jones Meadow, Nina Carr](https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
