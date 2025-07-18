@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sbdchd/squawk-action](https://github.com/sbdchd/squawk-action)** - Github Action for Linting Postgres Migrations with Squawk (3 days ago)
 
 #### 🎧 What I have been listening
-- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
-- [Lady - Hear Me Tonight by Avi Snow, MVCA, Cairo](https://open.spotify.com/track/1eKc7QMn8D7FkHlJsmNUBO)
-- [Cool Wet Sand by Öman](https://open.spotify.com/track/21dsGRPmNPM6RuV0q9kgik)
-- [Halo by Alex Cruz, Susie Ledge](https://open.spotify.com/track/4cX8p7AAYkdAHdaAHXPcAl)
-- [I Found You by TWOPILOTS, Brian Michael Hinds](https://open.spotify.com/track/2AVhYqb9unDWQbQgJ7IhwY)
+- [Breaking My Heart by Nexeri, RYVM](https://open.spotify.com/track/6DPJwwte69Os9QS5lzA61a)
+- [Last Day Of Summer by Kusko, blackbird](https://open.spotify.com/track/77DPvfOqNxUfL2gLvkhSr6)
+- [Baby Girl by Alex Cruz, Susie Ledge](https://open.spotify.com/track/6qet5XrMVag2aaX1f9zuOi)
+- [U Remind Me by TWOPILOTS](https://open.spotify.com/track/7KKPHswXt8hECBL9rHqUG7)
+- [Morning Light by Onda Norte](https://open.spotify.com/track/1vzDeIEN5v22OCCUclKCPe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
