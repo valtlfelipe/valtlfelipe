@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sbdchd/squawk-action](https://github.com/sbdchd/squawk-action)** - Github Action for Linting Postgres Migrations with Squawk (3 days ago)
 
 #### 🎧 What I have been listening
-- [Bad Habits by Ed Sheeran](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d)
-- [You Light Me Up by Craig Reever, Andy Delos Santos](https://open.spotify.com/track/17nNJNrJ8mrVA2xs5NkVsR)
-- [Josephine (feat. Apophenia) by HYPAUX, outset island, Apophenia](https://open.spotify.com/track/4Vdg3bigqYqRjyFC0dCq3G)
-- [It Looks Like We Made It by Basixx](https://open.spotify.com/track/0fYR84hJsQEE3ZoGEMy3vD)
-- [All In Paradise by Avi Snow, LVAN, BIMINI](https://open.spotify.com/track/01fUUujG4m9q8tOY7Lapyb)
+- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
+- [Lady - Hear Me Tonight by Avi Snow, MVCA, Cairo](https://open.spotify.com/track/1eKc7QMn8D7FkHlJsmNUBO)
+- [Cool Wet Sand by Öman](https://open.spotify.com/track/21dsGRPmNPM6RuV0q9kgik)
+- [Halo by Alex Cruz, Susie Ledge](https://open.spotify.com/track/4cX8p7AAYkdAHdaAHXPcAl)
+- [I Found You by TWOPILOTS, Brian Michael Hinds](https://open.spotify.com/track/2AVhYqb9unDWQbQgJ7IhwY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
