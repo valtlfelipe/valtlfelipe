@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sbdchd/squawk-action](https://github.com/sbdchd/squawk-action)** - Github Action for Linting Postgres Migrations with Squawk (3 days ago)
 
 #### 🎧 What I have been listening
-- [Know You Better by FÄIS](https://open.spotify.com/track/3VYus1M8722JsGumhvVUUE)
-- [I Know You Want Me (Calle Ocho) by Pitbull](https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45)
-- [Havana (feat. Young Thug) by Camila Cabello, Young Thug](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W)
-- [Gyal You a Party Animal by Charly Black](https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA)
-- [Treasure by Bruno Mars](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7)
+- [Lean On (feat. MØ &amp; DJ Snake) by Major Lazer, MØ, DJ Snake](https://open.spotify.com/track/2e7s0oEzUoJtDSPtYJuVvD)
+- [Budapest by George Ezra](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1)
+- [Your Love Is My Drug by Kesha](https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92)
+- [Last Friday Night (T.G.I.F.) by Katy Perry](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8)
+- [DJ Got Us Fallin&#39; In Love (feat. Pitbull) by USHER, Pitbull](https://open.spotify.com/track/28AUzRo0nQLESL55WDV0um)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
