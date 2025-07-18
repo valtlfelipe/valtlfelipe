@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sbdchd/squawk-action](https://github.com/sbdchd/squawk-action)** - Github Action for Linting Postgres Migrations with Squawk (3 days ago)
 
 #### 🎧 What I have been listening
-- [Breaking My Heart by Nexeri, RYVM](https://open.spotify.com/track/6DPJwwte69Os9QS5lzA61a)
-- [Last Day Of Summer by Kusko, blackbird](https://open.spotify.com/track/77DPvfOqNxUfL2gLvkhSr6)
-- [Baby Girl by Alex Cruz, Susie Ledge](https://open.spotify.com/track/6qet5XrMVag2aaX1f9zuOi)
-- [U Remind Me by TWOPILOTS](https://open.spotify.com/track/7KKPHswXt8hECBL9rHqUG7)
-- [Morning Light by Onda Norte](https://open.spotify.com/track/1vzDeIEN5v22OCCUclKCPe)
+- [Know You Better by FÄIS](https://open.spotify.com/track/3VYus1M8722JsGumhvVUUE)
+- [I Know You Want Me (Calle Ocho) by Pitbull](https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45)
+- [Havana (feat. Young Thug) by Camila Cabello, Young Thug](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W)
+- [Gyal You a Party Animal by Charly Black](https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA)
+- [Treasure by Bruno Mars](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
