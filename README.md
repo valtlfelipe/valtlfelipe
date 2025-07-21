@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sbdchd/squawk-action](https://github.com/sbdchd/squawk-action)** - Github Action for Linting Postgres Migrations with Squawk (6 days ago)
 
 #### 🎧 What I have been listening
-- [Can&#39;t be friends by Yellow Project](https://open.spotify.com/track/3mYWMey4pYV3WarF7ICDoP)
-- [On Your Mind by Mia Olsen](https://open.spotify.com/track/3j7d6Q8eKHYlpKi08nTrwk)
-- [Together by David Guetta, Hypaton, Bonnie Tyler](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM)
-- [Heat Waves - Oliver Heldens Remix by Glass Animals, Oliver Heldens](https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP)
-- [No Wahala by MOTi, Tuhasté](https://open.spotify.com/track/17tHlCGsZkjQTLmN0Dc7Sa)
+- [Let It Begin by Walk on Water, Plu2](https://open.spotify.com/track/3c7TXsqWcL3FEqFPvmiX2H)
+- [A Walk On The Beach by Junge Junge, Redward Martin](https://open.spotify.com/track/4SvPjdbR6D6h8hoF4KLjaO)
+- [Sweet Caroline by Lucien, Løvento, Victor Perry](https://open.spotify.com/track/0IR2ty1oHkki5Ra3pLRjSr)
+- [Dance Shout by Alysson Estopa](https://open.spotify.com/track/1xwew57YkXQJIvUrGbSMy4)
+- [Free by Christian Löffler, Shallou](https://open.spotify.com/track/5jkzcYe3UjM7VyrlZyiXax)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
