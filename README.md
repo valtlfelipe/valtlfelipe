@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sbdchd/squawk-action](https://github.com/sbdchd/squawk-action)** - Github Action for Linting Postgres Migrations with Squawk (6 days ago)
 
 #### 🎧 What I have been listening
+- [Bloom - Sped Up by Lucas Estrada](https://open.spotify.com/track/5IZWKdK639DnrR8wcYjLhH)
+- [Delilah by Malvo, Acko, Repulse](https://open.spotify.com/track/12kNkfXxurI0M4SbcC9HS6)
+- [Still Warm by Pinn HateBerry](https://open.spotify.com/track/3PexsSX8NOoGAhNda9Cxsn)
+- [Shed My Skin by Naws](https://open.spotify.com/track/20GcLtgqFdjQIPOQ9LtLiV)
 - [You Don&#39;t Need to Cry by Nick Prosen, Mia Olsen](https://open.spotify.com/track/3vGlJ7QWwCNV15HTg5LmiL)
-- [Won&#39;t let you back inside by INSCT](https://open.spotify.com/track/1DqGyjvxG5KbHKqBgTBvxx)
-- [Dollar Dream [Lucas Estrada Edit] by Lucas Estrada, Couché, Polar Notes, Mentum](https://open.spotify.com/track/28ECYkjyVDGCurbUoCctVe)
-- [Blinding Lights by The Weeknd](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
-- [Close Your Eyes by Forester, Petit Biscuit, Emilia Ali](https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
