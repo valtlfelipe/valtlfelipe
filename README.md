@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sbdchd/squawk-action](https://github.com/sbdchd/squawk-action)** - Github Action for Linting Postgres Migrations with Squawk (6 days ago)
 
 #### 🎧 What I have been listening
-- [Beautiful People by David Guetta, Sia](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W)
-- [Stargazing by Myles Smith](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10)
-- [Gimme Gimme - Club Mix by Kevin McKay, Lee Cabrera, Bleech](https://open.spotify.com/track/7GjZZf77XJYaa5W4S2NbpB)
-- [Bad Dreams by Teddy Swims](https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav)
-- [Blessings by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z)
+- [Family Affair by Danell Arma, Noro](https://open.spotify.com/track/1umGWOFESVhp1DuHlve2AB)
+- [Circles by NeeKairos, Rory Hope](https://open.spotify.com/track/6qFKeQwxmJDZeWVqXXM1fn)
+- [In Your Eyes by Start Stop](https://open.spotify.com/track/36mkUzivSA8ECqBl3B1KF1)
+- [The Things We Cannot See by Malte Marten, Forester](https://open.spotify.com/track/7HordqbI2mjLGbWxpWfKWI)
+- [Jealous Girl by overtones](https://open.spotify.com/track/7xCsot1IMYTKTCpAEtq1mq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
