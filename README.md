@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sbdchd/squawk-action](https://github.com/sbdchd/squawk-action)** - Github Action for Linting Postgres Migrations with Squawk (6 days ago)
 
 #### 🎧 What I have been listening
-- [Family Affair by Danell Arma, Noro](https://open.spotify.com/track/1umGWOFESVhp1DuHlve2AB)
-- [Circles by NeeKairos, Rory Hope](https://open.spotify.com/track/6qFKeQwxmJDZeWVqXXM1fn)
-- [In Your Eyes by Start Stop](https://open.spotify.com/track/36mkUzivSA8ECqBl3B1KF1)
-- [The Things We Cannot See by Malte Marten, Forester](https://open.spotify.com/track/7HordqbI2mjLGbWxpWfKWI)
-- [Jealous Girl by overtones](https://open.spotify.com/track/7xCsot1IMYTKTCpAEtq1mq)
+- [Can&#39;t be friends by Yellow Project](https://open.spotify.com/track/3mYWMey4pYV3WarF7ICDoP)
+- [On Your Mind by Mia Olsen](https://open.spotify.com/track/3j7d6Q8eKHYlpKi08nTrwk)
+- [Together by David Guetta, Hypaton, Bonnie Tyler](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM)
+- [Heat Waves - Oliver Heldens Remix by Glass Animals, Oliver Heldens](https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP)
+- [No Wahala by MOTi, Tuhasté](https://open.spotify.com/track/17tHlCGsZkjQTLmN0Dc7Sa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
