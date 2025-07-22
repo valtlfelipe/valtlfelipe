@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (6 days ago)
 
 #### 🎧 What I have been listening
-- [The Way I Are by Don Diablo](https://open.spotify.com/track/5osKlPBtBF4rC9o7PyCWm1)
-- [Flowers of Eden by AFO, Labaci, Marco Malandra](https://open.spotify.com/track/4sk2sDzIAqzppeSlgSqsIA)
-- [Take a piece of my heart by Yellow Project](https://open.spotify.com/track/5c3UkyN8Ditt4wTEe2yvy0)
-- [Sun Or Rain - Extended Mix by Tom Tainted, Gabi Juliano](https://open.spotify.com/track/1Bp7Y9Ne40gAQFQfePZ413)
-- [Let You In by Anevo](https://open.spotify.com/track/6id1ksKf8QnXtUGBLaqdPT)
+- [Dragonfly - DJ Vannini Remix Radio Edit by Different DNA, Dj Vannini](https://open.spotify.com/track/6rb2Ivaz9tJx1jvYuCT7zz)
+- [Don&#39;t (Fall in Love) by Just Kiddin](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z)
+- [Coast by Pistol](https://open.spotify.com/track/5i1Ole3k36hrB0fPe5Aymk)
+- [Miss you by Yellow Project](https://open.spotify.com/track/2WdsTl6O5bdx8oeC0pFWQM)
+- [Little Talks by Mahona](https://open.spotify.com/track/4Pmu0zfj6P2vVfqBn6yBsg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
