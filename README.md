@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (6 days ago)
 
 #### 🎧 What I have been listening
-- [Spell (On My Mind) by Christian Pettersen](https://open.spotify.com/track/62epsZMhVkC32F7Pen7m9W)
-- [Love On Repeat (FDVM Remix) by Lucas Estrada, LIAMOO, FDVM](https://open.spotify.com/track/2z1CJZSgyrJwxpoX1aVUtc)
-- [Afterlight by Memo Pro](https://open.spotify.com/track/2tB9bq9PlMJIQ44YBjyLSM)
-- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
-- [Doing My Best by Chill Airlines, cali state, moi et moi](https://open.spotify.com/track/5qv7YeZIOMEhnAGimuEuYk)
+- [MidNight by Five Drops](https://open.spotify.com/track/5qaRKnZgvxcosU7Z35eePq)
+- [Clocks - AFRO HOUSE - Extended Mix by Noir Glacé](https://open.spotify.com/track/6Bn4VLnDc86KEPWVK9CumY)
+- [Out Of The Blue by Punctual](https://open.spotify.com/track/0JVn39lvpRCe0EZi6RMtj0)
+- [Osupa by Next Promises](https://open.spotify.com/track/2WBTBGqeaBLQHLbnUPI7kF)
+- [Died In Your Arms Tonight by Nicola Schenetti, Rivaz](https://open.spotify.com/track/4LzOJK8SvhTZOIqFz3HywC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
