@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (6 days ago)
 
 #### 🎧 What I have been listening
-- [Music Sounds Better with You by Pillows](https://open.spotify.com/track/48io87ICo0EZQabjlKDqgv)
-- [Sun Seeker by Junge Junge, Redward Martin](https://open.spotify.com/track/1Xt1WkY9gAtUJl8AaFWKzd)
-- [Body Hoddy by Robo the Chemist](https://open.spotify.com/track/0SfoL9EhFV1kArzfgu9nj3)
-- [Shower by Phil Walker, Aleesia](https://open.spotify.com/track/4ofFV3RnuSK81SDvpJ72Ld)
-- [Mwaki x Espresso by smashup](https://open.spotify.com/track/3VXodkBk0tAJRJA2CfDjnA)
+- [The Way I Are by Don Diablo](https://open.spotify.com/track/5osKlPBtBF4rC9o7PyCWm1)
+- [Flowers of Eden by AFO, Labaci, Marco Malandra](https://open.spotify.com/track/4sk2sDzIAqzppeSlgSqsIA)
+- [Take a piece of my heart by Yellow Project](https://open.spotify.com/track/5c3UkyN8Ditt4wTEe2yvy0)
+- [Sun Or Rain - Extended Mix by Tom Tainted, Gabi Juliano](https://open.spotify.com/track/1Bp7Y9Ne40gAQFQfePZ413)
+- [Let You In by Anevo](https://open.spotify.com/track/6id1ksKf8QnXtUGBLaqdPT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
