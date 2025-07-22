@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (6 days ago)
 
 #### 🎧 What I have been listening
-- [Dragonfly - DJ Vannini Remix Radio Edit by Different DNA, Dj Vannini](https://open.spotify.com/track/6rb2Ivaz9tJx1jvYuCT7zz)
-- [Don&#39;t (Fall in Love) by Just Kiddin](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z)
-- [Coast by Pistol](https://open.spotify.com/track/5i1Ole3k36hrB0fPe5Aymk)
-- [Miss you by Yellow Project](https://open.spotify.com/track/2WdsTl6O5bdx8oeC0pFWQM)
-- [Little Talks by Mahona](https://open.spotify.com/track/4Pmu0zfj6P2vVfqBn6yBsg)
+- [Ecstasy by THAT KIND](https://open.spotify.com/track/2K1WjqzeMlnQ412x7msDEf)
+- [Dreams by AFROTECH](https://open.spotify.com/track/2NvtzxaEeaBPiBviSoMwMJ)
+- [Levels x Slide - Medley Version by smashup](https://open.spotify.com/track/0944Q7bqfTRDPZkq7IM4gX)
+- [Serotonin (speaks to me) by joki, Ridges](https://open.spotify.com/track/6ZRWGSexfCNErfw34knhDb)
+- [Where Are U Now by Sarah Berg](https://open.spotify.com/track/2ijFoK6ZqNqhXG8FkwFnLC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
