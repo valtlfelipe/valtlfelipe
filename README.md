@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (6 days ago)
 
 #### 🎧 What I have been listening
-- [MidNight by Five Drops](https://open.spotify.com/track/5qaRKnZgvxcosU7Z35eePq)
-- [Clocks - AFRO HOUSE - Extended Mix by Noir Glacé](https://open.spotify.com/track/6Bn4VLnDc86KEPWVK9CumY)
-- [Out Of The Blue by Punctual](https://open.spotify.com/track/0JVn39lvpRCe0EZi6RMtj0)
-- [Osupa by Next Promises](https://open.spotify.com/track/2WBTBGqeaBLQHLbnUPI7kF)
-- [Died In Your Arms Tonight by Nicola Schenetti, Rivaz](https://open.spotify.com/track/4LzOJK8SvhTZOIqFz3HywC)
+- [La La Love by Ollie Groove](https://open.spotify.com/track/7DgvngkbyAPLpyRg62oX5t)
+- [Unwritten House Mix by BeatBreaker](https://open.spotify.com/track/1pi11dIVaOSR7nSd2eZzgl)
+- [Me and You (feat. Vancouver Sleep Clinic) by Forester, Vancouver Sleep Clinic](https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP)
+- [That&#39;s So True by YORRY](https://open.spotify.com/track/5P4rvjohM7IEd3znZ6ijwY)
+- [Seaside by origami, Leon Hayes, kith and kin](https://open.spotify.com/track/3B6bLVvHh73VovZfdORgsJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
