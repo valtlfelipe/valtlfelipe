@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [That&#39;s Just The Way It Is (Changes) by Campsite Dream](https://open.spotify.com/track/7b2ZGVLH01Cw4MU9LuSGDq)
-- [Livin&#39; On A Prayer (DeepDelic &amp; Raphael Siqueira Remix) by DeepDelic, Raphael Siqueira](https://open.spotify.com/track/6pmm4ORQT8MqISvtoQOYRG)
-- [Family Affair by Danell Arma, Noro](https://open.spotify.com/track/1umGWOFESVhp1DuHlve2AB)
-- [Circles by NeeKairos, Rory Hope](https://open.spotify.com/track/6qFKeQwxmJDZeWVqXXM1fn)
-- [In Your Eyes by Start Stop](https://open.spotify.com/track/36mkUzivSA8ECqBl3B1KF1)
+- [Sweet Caroline by Lucien, Løvento, Victor Perry](https://open.spotify.com/track/0IR2ty1oHkki5Ra3pLRjSr)
+- [Dance Shout by Alysson Estopa](https://open.spotify.com/track/1xwew57YkXQJIvUrGbSMy4)
+- [Free by Christian Löffler, Shallou](https://open.spotify.com/track/5jkzcYe3UjM7VyrlZyiXax)
+- [I Wanna Be Yours by Nick Varell](https://open.spotify.com/track/0V9raTkW24E3mrf7ZemeNB)
+- [Floating Frames by Tim Enso](https://open.spotify.com/track/1PaQP3lewtdaKTgLz3F46W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
