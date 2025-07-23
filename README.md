@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [Over again by Yellow Project](https://open.spotify.com/track/0ryCoXXhgFKkrMkp3O6nku)
-- [Troubled Water by Panuma, blaank, birø, Idun Nicoline](https://open.spotify.com/track/4wsnIQl5IXJnf7UxFIJsFX)
-- [Lost it a Little by Lucas Estrada, PollyAnna](https://open.spotify.com/track/5P4hgCLqkd3EhPzsAfPqUG)
-- [Midnight City by Forester](https://open.spotify.com/track/3HJd6Q30wXWzFj7V3OTwmN)
-- [Mouth Of Madness by Felix Cartal, Ofelia K](https://open.spotify.com/track/0ePrpVm3PClk1Gpv9V957s)
+- [Hear Me Out (Radio Edit) by Dennio, Kadance, LIBUA](https://open.spotify.com/track/4P5Q1VsSsBNZSE21KFS9kW)
+- [Getting By by Rock Da Cat](https://open.spotify.com/track/23XaFtPGUUjzLPqOcfZJRo)
+- [Ready to Dream by Max Weinmann](https://open.spotify.com/track/3fxIHlvIh63c28DOnMCfQN)
+- [Moving On by mölly](https://open.spotify.com/track/50V1z9iKXYy1bVfXHr3dJt)
+- [Resonating by KRCP](https://open.spotify.com/track/2bKM2xSDD1DSx3FqSJMc2C)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
