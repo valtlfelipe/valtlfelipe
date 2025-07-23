@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [Come Here by 2AM](https://open.spotify.com/track/2Mds3RqikyB4UxoMkfrsfN)
-- [Everybody Wants To Rule The World by Celestial Mayan, H210](https://open.spotify.com/track/7j16WFt7GIKegbhPPneWZu)
-- [Kakao by Spoke](https://open.spotify.com/track/7iS7Ee0ecB6ucMYAc11rzT)
-- [Heat Waves - Shakur Ahmad Remix by Glass Animals, Shakur Ahmad](https://open.spotify.com/track/7sEtUpTyBLyqubYy2EbNFg)
-- [Whispered by Onepix](https://open.spotify.com/track/3iqncEb0UsE83CD2tedJgt)
+- [That&#39;s Just The Way It Is (Changes) by Campsite Dream](https://open.spotify.com/track/7b2ZGVLH01Cw4MU9LuSGDq)
+- [Livin&#39; On A Prayer (DeepDelic &amp; Raphael Siqueira Remix) by DeepDelic, Raphael Siqueira](https://open.spotify.com/track/6pmm4ORQT8MqISvtoQOYRG)
+- [Family Affair by Danell Arma, Noro](https://open.spotify.com/track/1umGWOFESVhp1DuHlve2AB)
+- [Circles by NeeKairos, Rory Hope](https://open.spotify.com/track/6qFKeQwxmJDZeWVqXXM1fn)
+- [In Your Eyes by Start Stop](https://open.spotify.com/track/36mkUzivSA8ECqBl3B1KF1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
