@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [Sweet Caroline by Lucien, Løvento, Victor Perry](https://open.spotify.com/track/0IR2ty1oHkki5Ra3pLRjSr)
-- [Dance Shout by Alysson Estopa](https://open.spotify.com/track/1xwew57YkXQJIvUrGbSMy4)
-- [Free by Christian Löffler, Shallou](https://open.spotify.com/track/5jkzcYe3UjM7VyrlZyiXax)
-- [I Wanna Be Yours by Nick Varell](https://open.spotify.com/track/0V9raTkW24E3mrf7ZemeNB)
-- [Floating Frames by Tim Enso](https://open.spotify.com/track/1PaQP3lewtdaKTgLz3F46W)
+- [Keep On by Ceen](https://open.spotify.com/track/02nAkXjQmCrZXm492R7pLa)
+- [You by TRIP RGAZZI](https://open.spotify.com/track/3U4dZoulX2luqz9xf1VJhk)
+- [Sweet Child O&#39; Mine by Melonia](https://open.spotify.com/track/0O12SkQHX2Julh9utIosga)
+- [Almost Said it by INSCT](https://open.spotify.com/track/1f4GH7HSxSpeELLjQPEwkp)
+- [Mr Brightside - Elektrik Disko Radio Edit by eSQUIRE &amp; PETCH, eSQUIRE, Elektrik Disko, Justin Jennings](https://open.spotify.com/track/09922N62Uk8Aifks8c6doO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
