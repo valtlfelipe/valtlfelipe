@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [Life&#39;s Gonna Change by THAT KIND](https://open.spotify.com/track/5n8h2IDzycjZr5vILXXHVd)
-- [Who Are You by Five Drops](https://open.spotify.com/track/54I00cVx56M4YwByV1dJJv)
-- [Palmtree - Balduin Remix by Mandelbarth, Balduin](https://open.spotify.com/track/2TI5o3Xzyv9QG4zKwL1XUc)
-- [Did Everything I Could by Tep No](https://open.spotify.com/track/6JqvXySsnSQtyvTyqtNlNf)
-- [I Follow Rivers x Meet Me Halfway - Medley Version by smashup](https://open.spotify.com/track/35CXS5il66nJkKjAiSzyQl)
+- [Troubled Water by Panuma, blaank, birø, Idun Nicoline](https://open.spotify.com/track/4wsnIQl5IXJnf7UxFIJsFX)
+- [Lost it a Little by Lucas Estrada, PollyAnna](https://open.spotify.com/track/5P4hgCLqkd3EhPzsAfPqUG)
+- [Midnight City by Forester](https://open.spotify.com/track/3HJd6Q30wXWzFj7V3OTwmN)
+- [Mouth Of Madness by Felix Cartal, Ofelia K](https://open.spotify.com/track/0ePrpVm3PClk1Gpv9V957s)
+- [Give Into You (Henry Green Remix) by yuraa, Henry Green](https://open.spotify.com/track/78yjphRBGMLqtASBuNBN4X)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
