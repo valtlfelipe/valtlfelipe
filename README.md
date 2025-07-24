@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [Our Time by AFROJACK, Martin Garrix, David Guetta, Amél](https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP)
-- [Diamond by Lucas Estrada, Solar State, Philip Strand](https://open.spotify.com/track/5PCjtggUt1F8mlqJNS6QTl)
-- [Good Time by Electric Hearts, JeLa, Robbie Rosen](https://open.spotify.com/track/0NsLgE6z9gwDK6OX4XPcB4)
-- [In Your Eyes by The Weeknd](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl)
-- [Down Under - Club Mix by Lauro Malloy, Igo, Cool 7rack](https://open.spotify.com/track/57lihGd10wAXHwqPrEAA0i)
+- [In My Dreams by San Mateo Drive](https://open.spotify.com/track/50Ei5B2FeqQOa7clUAHYmS)
+- [I&#39;m On Fire by ConKi, Mark Wilkinson](https://open.spotify.com/track/3usLNFntnS2UPB0WqKtz4l)
+- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
+- [It Don&#39;t Matter (long as I got you) - Radio Edit by INSCT, Hartmut Kiss](https://open.spotify.com/track/6iW8U8xZSy4QDaGCKyDdb9)
+- [All I Care About - David Bay Remix by WAYNE SNOW, David Bay](https://open.spotify.com/track/2D8TlT2ZLm5YdheWLQMthz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
