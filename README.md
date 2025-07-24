@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (1 week ago)
 
 #### 🎧 What I have been listening
+- [Diamond by Lucas Estrada, Solar State, Philip Strand](https://open.spotify.com/track/5PCjtggUt1F8mlqJNS6QTl)
 - [Good Time by Electric Hearts, JeLa, Robbie Rosen](https://open.spotify.com/track/0NsLgE6z9gwDK6OX4XPcB4)
 - [In Your Eyes by The Weeknd](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl)
 - [Down Under - Club Mix by Lauro Malloy, Igo, Cool 7rack](https://open.spotify.com/track/57lihGd10wAXHwqPrEAA0i)
 - [Nice To Meet You by YOTCHAKID, Lucien](https://open.spotify.com/track/05JEV3o9x1nzp4juozegom)
-- [Home (Baba) by Jörð](https://open.spotify.com/track/6W0iC6U7Fj3yAWMVfr2YaO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
