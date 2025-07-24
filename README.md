@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [Lost in Pleasure by Collin Junus](https://open.spotify.com/track/1DWtRAUSSvidlHxLIe1MCq)
-- [Blessings by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z)
-- [Bloom - Sped Up by Lucas Estrada](https://open.spotify.com/track/5IZWKdK639DnrR8wcYjLhH)
-- [Delilah by Malvo, Acko, Repulse](https://open.spotify.com/track/12kNkfXxurI0M4SbcC9HS6)
-- [Still Warm by Pinn HateBerry](https://open.spotify.com/track/3PexsSX8NOoGAhNda9Cxsn)
+- [Good Time by Electric Hearts, JeLa, Robbie Rosen](https://open.spotify.com/track/0NsLgE6z9gwDK6OX4XPcB4)
+- [In Your Eyes by The Weeknd](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl)
+- [Down Under - Club Mix by Lauro Malloy, Igo, Cool 7rack](https://open.spotify.com/track/57lihGd10wAXHwqPrEAA0i)
+- [Nice To Meet You by YOTCHAKID, Lucien](https://open.spotify.com/track/05JEV3o9x1nzp4juozegom)
+- [Home (Baba) by Jörð](https://open.spotify.com/track/6W0iC6U7Fj3yAWMVfr2YaO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
