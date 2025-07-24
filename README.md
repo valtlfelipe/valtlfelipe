@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [In My Dreams by San Mateo Drive](https://open.spotify.com/track/50Ei5B2FeqQOa7clUAHYmS)
-- [I&#39;m On Fire by ConKi, Mark Wilkinson](https://open.spotify.com/track/3usLNFntnS2UPB0WqKtz4l)
-- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
-- [It Don&#39;t Matter (long as I got you) - Radio Edit by INSCT, Hartmut Kiss](https://open.spotify.com/track/6iW8U8xZSy4QDaGCKyDdb9)
-- [All I Care About - David Bay Remix by WAYNE SNOW, David Bay](https://open.spotify.com/track/2D8TlT2ZLm5YdheWLQMthz)
+- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
+- [Doing My Best by Chill Airlines, cali state, moi et moi](https://open.spotify.com/track/5qv7YeZIOMEhnAGimuEuYk)
+- [On the dancefloor by Yellow Project](https://open.spotify.com/track/0nF1pwGpzRoMHbCcPqjEwY)
+- [Be My Baby by Phil Walker](https://open.spotify.com/track/5kQIAjFMBsjWgWxmGjCM63)
+- [Beautiful Girl by Junge Junge, Kyle Pearce](https://open.spotify.com/track/3LXyXJ1GHDMLa7PwGvlAIa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
