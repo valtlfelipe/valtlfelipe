@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - Build. Ship. Scale. (1 week ago)
 
 #### 🎧 What I have been listening
+- [My Love by THAT KIND](https://open.spotify.com/track/52Ei6XM9evOhYavdKfnaUo)
+- [Something Ancient by BYAS](https://open.spotify.com/track/53wjLc4Q7Py38dUOQKmF5k)
+- [Never Really Get There - Mixed by CRi, Jesse Mac Cormack](https://open.spotify.com/track/2mScJo17d34debr6Wp08N2)
 - [Love You Right by Anthony Hughes, Luke Vincent, Ben Phillips](https://open.spotify.com/track/5akp9ehgAWrmEXUHFI3dVQ)
 - [Dreamer by edapollo](https://open.spotify.com/track/5ZRzJBAEy70pIZoXFNIrPA)
-- [Feel So High (feat. JordinLaine) (Pegato Remix) by Eklo, Pegato, JordinLaine](https://open.spotify.com/track/4SwL4ZshYgrZG0luM7aoot)
-- [Life&#39;s Gonna Change by THAT KIND](https://open.spotify.com/track/5n8h2IDzycjZr5vILXXHVd)
-- [Who Are You by Five Drops](https://open.spotify.com/track/54I00cVx56M4YwByV1dJJv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
