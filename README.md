@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - Build. Ship. Scale. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wanna Be Your First Love by HAYM, blakke, cafenoire](https://open.spotify.com/track/065RFLSNQVNB8ICJNGsSPi)
-- [Supernova by Eugene Becker, Serra 9](https://open.spotify.com/track/3Ci9vGUxRX3MsZmJ0dHctE)
-- [Shades of darkness by Spoke](https://open.spotify.com/track/2urW8ZbMVE5IcCHDloDn7e)
-- [Your Loving Arms by Summer Is Calling, Karen Overton](https://open.spotify.com/track/0CimIAYuPTVVSHRkdTIlar)
-- [Waiting For Tonight by Tom Hall, Finlay C, Maisie Ma&#39;e](https://open.spotify.com/track/2qsAFdnIr1WdB6P0FAMkna)
+- [I Follow Rivers x Meet Me Halfway - Medley Version by smashup](https://open.spotify.com/track/35CXS5il66nJkKjAiSzyQl)
+- [The Way That I Am [Meynberg Remix] by Goldbird, XYSM, Meynberg](https://open.spotify.com/track/74ddFVQ0oLkvm20NXddkfi)
+- [Melodia by Argy, MEDUZA, PollyAnna](https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn)
+- [Burn Me Down by Matteo Cole](https://open.spotify.com/track/6qeA92HmaQrcWxWD3BVxqA)
+- [Ecstasy by THAT KIND](https://open.spotify.com/track/2K1WjqzeMlnQ412x7msDEf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
