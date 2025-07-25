@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [Give me more by Yellow Project](https://open.spotify.com/track/0ik0QsOeHFi1cdSHuKksZs)
-- [Utopia by Joris Voorn, Goodboys](https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r)
-- [The Thought of You by Blonde Maze, imallryt](https://open.spotify.com/track/0Cuiebpn7tG3Qs8CNSIaN2)
-- [Why Do I Only Love You by Dr.Csiga](https://open.spotify.com/track/6j1hEBR1lDny7UxkfIdAa0)
-- [Living For Tonight by Phil Walker](https://open.spotify.com/track/27rCxWbLpgZ5ou1gPgTc6h)
+- [Hypnotise - Chill Mix by Little Foot, Bianca](https://open.spotify.com/track/2pLEIXNDHEBneKlK8YjicC)
+- [Who We Are by SHKHR, Krisi Xo](https://open.spotify.com/track/1oq9o4vYtnFPSMrwq7sZ6n)
+- [Closer by Junge Junge, sonofsteve](https://open.spotify.com/track/19ZNrQarHpwz7Z5byyJ5RX)
+- [Maneater by Danell Arma](https://open.spotify.com/track/4aBBCz0zYR00xOI4BUJ36h)
+- [Glad You Came by EFA, Byond Bliss, Sergio Ochoa](https://open.spotify.com/track/65v7u6chQ8iU7Olu6jaa4n)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
