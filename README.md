@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[aws/pgactive](https://github.com/aws/pgactive)** (1 week ago)
 
 #### 🎧 What I have been listening
-- [The World Is Mine by ConKi, B.R.T, Shiah Maisel](https://open.spotify.com/track/4M9kHcpZQZNzRnAhIQ1YLM)
-- [Lie To Me by Yellow Project](https://open.spotify.com/track/0moGUfzQ3wfI5MPPnJtO93)
-- [Spell (On My Mind) by Christian Pettersen](https://open.spotify.com/track/62epsZMhVkC32F7Pen7m9W)
-- [Love On Repeat (FDVM Remix) by Lucas Estrada, LIAMOO, FDVM](https://open.spotify.com/track/2z1CJZSgyrJwxpoX1aVUtc)
-- [Afterlight by Memo Pro](https://open.spotify.com/track/2tB9bq9PlMJIQ44YBjyLSM)
+- [Give Me Love by THAT KIND](https://open.spotify.com/track/5wx8ilXSkwZ3b9btWZ4e1U)
+- [All That She Wants by Campsite Dream](https://open.spotify.com/track/6Fvhy9aaBvsLBzC7vDEhIr)
+- [Remember This by Lucas Estrada, Lost Ways, Eirik Næss](https://open.spotify.com/track/5NcM2opc4PrK3q9V8EDa6c)
+- [Chase Our Love by Goldbird](https://open.spotify.com/track/48o9OQeLj00Qd5Yx7rZbeZ)
+- [Cry For Me - AFRO HOUSE - Radio Edit by BLVCKDOP3](https://open.spotify.com/track/0A9iozZRKC8yvYdDj814jd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
