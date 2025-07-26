@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - Build. Ship. Scale. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Cambria by Forester](https://open.spotify.com/track/5CbuI8EEQWci8Nl9GvbW7R)
-- [Gimme Gimme - Club Mix by Kevin McKay, Lee Cabrera, Bleech](https://open.spotify.com/track/7GjZZf77XJYaa5W4S2NbpB)
-- [Original Sin by Sofi Tukker](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6)
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
-- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3)
+- [Marea (we’ve lost dancing) by Fred again.., The Blessed Madonna](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR)
+- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/7rXke3ttpL2uXel9Nesf4u)
+- [It Feels So Good by Matt Sassari, HUGEL, Sonique](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi)
+- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
