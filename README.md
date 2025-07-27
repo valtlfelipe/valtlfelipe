@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - Build. Ship. Scale. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Secrets by Regard, RAYE](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg)
-- [Blessings by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z)
-- [Never Going Home by Kungs](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X)
-- [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U)
-- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO)
+- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
+- [Ease My Mind by Chris Lake, Abel Balder](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk)
+- [Last Night by Loofy](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN)
+- [Lose Control by MEDUZA, Becky Hill, Goodboys](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK)
+- [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
