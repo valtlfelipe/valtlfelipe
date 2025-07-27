@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - Build. Ship. Scale. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
-- [Ease My Mind by Chris Lake, Abel Balder](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk)
-- [Last Night by Loofy](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN)
-- [Lose Control by MEDUZA, Becky Hill, Goodboys](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK)
-- [Ride It by Regard](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ)
+- [Yamore by MoBlack, Salif Keita, Benja (NL), Franc Fala, Cesária Evora](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm)
+- [CORAÇAO - 20th Anniversary Mix by Jerry Ropero, HUGEL, Mijangos, Jesús Fernández](https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g)
+- [The Less I Know The Better by Mau P](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY)
+- [Say What by Rampa, Adam Port, &amp;ME, chuala, Keinemusik](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal)
+- [Do It To It by ACRAZE, Cherish](https://open.spotify.com/track/20on25jryn53hWghthWWW3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
