@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - The fastest way to deploy and scale any application (1 week ago)
 
 #### 🎧 What I have been listening
-- [Help Me Lose My Mind - Slowed Down by Gravagerz](https://open.spotify.com/track/6eLaP1VW9Moy2AHijWfhxl)
-- [All My Love by Damaui](https://open.spotify.com/track/7gag8aYvBytVU2i4IGwGdx)
-- [Let&#39;s Ride Away - Dimitri Vangelis &amp; Wyman Golden Era Mix by Avicii, Dimitri Vangelis &amp; Wyman, Elle King](https://open.spotify.com/track/0B8JaLnQUHkJMBMbPah0Gx)
-- [send an angel by shiny things, OLVR.S](https://open.spotify.com/track/0b2yUgu6GC6VWsA6M04yrL)
-- [Ta Ta Ta by Blakey](https://open.spotify.com/track/2u7Az7zzNU0SVbhj3TNfRN)
+- [Last Train by Vandelux](https://open.spotify.com/track/1A6bEfaRMXp63TnVQ9srp1)
+- [Mykonos by Deep Chills, Yarden Saxophone](https://open.spotify.com/track/6NLrBgDzIsp3qiOhz2Kpzo)
+- [Something About You by James Carter, BCS](https://open.spotify.com/track/0lMXvD8xbeX0QZCineyxbm)
+- [Fool To Your Love by Damaui, Light Below](https://open.spotify.com/track/4dydOYvBpXstyaTbMPdOe3)
+- [No One Like You by Alex Adair](https://open.spotify.com/track/58yE7laRs6ptzfLKWXLN9u)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
