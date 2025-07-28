@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - The fastest way to deploy and scale any application (1 week ago)
 
 #### 🎧 What I have been listening
-- [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
-- [Last Friday Night x Nokia - Medley by smashup](https://open.spotify.com/track/0s1JaSH2rIKdapSGS7WwI2)
-- [Sunset Stories by Tobÿ, Life&#39;s A Beach](https://open.spotify.com/track/3nWHPuwYP1Umxe1vtdFPXE)
-- [Sunrise by Will Knight](https://open.spotify.com/track/3V6LpEvatA8Pz1GEHloHsx)
-- [Parachute by SAINT., The Palm Tree Boy, masafy](https://open.spotify.com/track/1FTv0RrB7cMhfmGBE6gXGQ)
+- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
+- [Somebody To Me by Damaui, Comfy Sofa, Nasrene](https://open.spotify.com/track/6qT1gQiubavPu65cQ4Lnw4)
+- [What We Had by NORRA, four30](https://open.spotify.com/track/5TDqSuAIhUwAOYIT5qz85b)
+- [Sweater Weather x Summertime Sadness - Medley by smashup](https://open.spotify.com/track/7Alc9UbYEJQ1c9dUKQLi6w)
+- [Better Life by TomDūno, Jordan Grace](https://open.spotify.com/track/6mVV8tNshC0fn3gxjIMmAF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
