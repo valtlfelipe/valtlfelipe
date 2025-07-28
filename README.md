@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - The fastest way to deploy and scale any application (1 week ago)
 
 #### 🎧 What I have been listening
-- [Fall - Extended by Edward Maya, Padé, ROXANA, SINE](https://open.spotify.com/track/3PxYrgTHQ7ONA6pxyW6E7x)
-- [Messy x Dreams by smashup](https://open.spotify.com/track/21YmCza3hFkHrEelIztj5j)
-- [We Made It by Tobÿ, Erlando](https://open.spotify.com/track/3ZtrIFLoOoRAHFJCdlQdog)
-- [Closing Hour by Panuma, Tim Hughes](https://open.spotify.com/track/5m8yfomGrRuslN7B3PfF3C)
-- [Hold You Right by SAINT., veranda life](https://open.spotify.com/track/3NJ2hMhKD1nZf2VGp3tD55)
+- [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
+- [Last Friday Night x Nokia - Medley by smashup](https://open.spotify.com/track/0s1JaSH2rIKdapSGS7WwI2)
+- [Sunset Stories by Tobÿ, Life&#39;s A Beach](https://open.spotify.com/track/3nWHPuwYP1Umxe1vtdFPXE)
+- [Sunrise by Will Knight](https://open.spotify.com/track/3V6LpEvatA8Pz1GEHloHsx)
+- [Parachute by SAINT., The Palm Tree Boy, masafy](https://open.spotify.com/track/1FTv0RrB7cMhfmGBE6gXGQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
