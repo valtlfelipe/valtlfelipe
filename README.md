@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - Build. Ship. Scale. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Wait for You by M2chael, Keen Champ](https://open.spotify.com/track/5r0DjWJ4Iahk4lTO6gaGeM)
-- [Let&#39;s Ride Away - Major League Djz VIP Club Room by Avicii, Major League Djz, Elle King](https://open.spotify.com/track/5LtHedJfuORPiBXScJvfso)
-- [Roses x Intro by Mash Mellow](https://open.spotify.com/track/6w2uqLE1trpstZe1szbGx5)
-- [Tell It To My Heart by MEDUZA, Hozier](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA)
-- [Friday (feat. Mufasa &amp; Hypeman) - Dopamine Re-Edit by Riton, Nightcrawlers, Mufasa &amp; Hypeman, Mufasa, Dopamine](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl)
+- [Deep Breath by INSCT, Scarlett Jackson](https://open.spotify.com/track/71Akfzzt2CxjbZ2liaiI8M)
+- [Chasing Dreams by Loumé, Eliine, Æj](https://open.spotify.com/track/52LrteGbcQbwBXAoOnFX0y)
+- [Sea of Dreams by Lady Ocean, Invece](https://open.spotify.com/track/2IDVqORJBbqzuf5WmVB8e9)
+- [The Way It Is by Damaui](https://open.spotify.com/track/5zb1yFjxq7ctq9hMhNPukr)
+- [Everything by Luna Blue](https://open.spotify.com/track/2ghq9KEbANGTVb0DSYmVbv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
