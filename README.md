@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - The fastest way to deploy and scale any application (1 week ago)
 
 #### 🎧 What I have been listening
-- [Love Someone by Gianluca Dimeo, AALLAR](https://open.spotify.com/track/2YW737DHuYaluEkwpKfcO2)
-- [Just For A Moment by SAINT.](https://open.spotify.com/track/2u2crwMRf9iUvo4JR89Cax)
-- [C&#39;est La Vie by Deep Chills, summer sax](https://open.spotify.com/track/3b4AYreOZQSqJg2AG0L4VJ)
-- [Everything We Need by Tobÿ, Sunset Oasis](https://open.spotify.com/track/13pW8R9DpX8ShYdHjJv5Cr)
-- [Vertigo by ItsArius, Lynnic, ARI.](https://open.spotify.com/track/2dRQgMNbbjblVd6zJVGBxR)
+- [No Bad Vibes - ERIICE Remix by Jazzy, ERIICE, KILIMANJARO](https://open.spotify.com/track/6gwYieTnrOoVYl5nQ42pSq)
+- [She Will Be Loved by Maggie Szabo, DANZR](https://open.spotify.com/track/40P6esPzbEV4IxGL4sRR4Z)
+- [end of time by Aden Lou](https://open.spotify.com/track/4Afvn5sFEU1Ch377rXf7F1)
+- [Heartfelt (Let The Fire In) by TRIP RGAZZI](https://open.spotify.com/track/2QM4kcnuayYjtE1tp8xYPC)
+- [Delicate by Echolocation, Jordan Whitlock](https://open.spotify.com/track/1JdfqnBhfePNrRCs0xvKNn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
