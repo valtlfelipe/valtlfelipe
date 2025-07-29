@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - The fastest way to deploy and scale any application (1 week ago)
 
 #### 🎧 What I have been listening
-- [Glad You Came by EFA, Byond Bliss, Sergio Ochoa](https://open.spotify.com/track/65v7u6chQ8iU7Olu6jaa4n)
-- [Zantara by Mr. Sexophone](https://open.spotify.com/track/7zJQvk6Npty2M0NU4gpEdT)
-- [Hey Brother by Goldaine, Tropical Tide, RHEA](https://open.spotify.com/track/1qUVFU206y2oSsivKnrfyJ)
-- [Keep You Close by Damaui, WHO SHE](https://open.spotify.com/track/3zENosTgsSqvzx8BfgFNH9)
-- [Down On You by Revelries](https://open.spotify.com/track/6qUdzF3nwp5PMq6H4V6iOT)
+- [Driving Oceanside by Tobÿ, One Trick Pony, POLLY](https://open.spotify.com/track/0dIiKSBdeVRiTpj5Yog6ak)
+- [Crush by Maggie Szabo](https://open.spotify.com/track/6xYh3b3eRbkVAJ3DQAaF9v)
+- [Changed by Damaui, Kat Abel, Sick Trumpet](https://open.spotify.com/track/2ie3InsBpQTRIc9GIP30N7)
+- [Tidal Wave by Mr. Sexophone](https://open.spotify.com/track/6ZR0xZtaXtEuiEdK0fgogs)
+- [belong to one by oskar med k](https://open.spotify.com/track/4FMP6ybHvvg7leeRAlyGfX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
