@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - The fastest way to deploy and scale any application (1 week ago)
 
 #### 🎧 What I have been listening
-- [No Bad Vibes - ERIICE Remix by Jazzy, ERIICE, KILIMANJARO](https://open.spotify.com/track/6gwYieTnrOoVYl5nQ42pSq)
-- [She Will Be Loved by Maggie Szabo, DANZR](https://open.spotify.com/track/40P6esPzbEV4IxGL4sRR4Z)
-- [end of time by Aden Lou](https://open.spotify.com/track/4Afvn5sFEU1Ch377rXf7F1)
-- [Heartfelt (Let The Fire In) by TRIP RGAZZI](https://open.spotify.com/track/2QM4kcnuayYjtE1tp8xYPC)
-- [Delicate by Echolocation, Jordan Whitlock](https://open.spotify.com/track/1JdfqnBhfePNrRCs0xvKNn)
+- [Talk It Over by Loumé](https://open.spotify.com/track/28TdAeobsNxRZ9DGQx53tA)
+- [Intuition by rshand](https://open.spotify.com/track/0bPqqPGdE9VpXbdy8Uu8aw)
+- [Be Somebody by Pierse, Breezy, Vive](https://open.spotify.com/track/1U2wXGzIPfmT05z1ZOIv01)
+- [Stand By You by SAINT., Eirik Næss](https://open.spotify.com/track/1wQxptsFRXWukwXb67b7Qs)
+- [Somebody New by Maggie Szabo](https://open.spotify.com/track/6v314fHyZGsWGGNbqNeoVe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
