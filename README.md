@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - The fastest way to deploy and scale any application (1 week ago)
 
 #### 🎧 What I have been listening
-- [Where Did I Go Wrong by Deelight, Frère Jack](https://open.spotify.com/track/4pFXKwzWwLugFekVEoa9j4)
-- [The One by Summer Dusk, aiden, Megggi](https://open.spotify.com/track/5T3IzhwqvBhxUPWGnsAkzZ)
-- [Out Of Body by Arley, Descend, ROBINS](https://open.spotify.com/track/4crjc82sl9FZpJDao2hudV)
-- [Waiting for the Beat by IcoS](https://open.spotify.com/track/0J2dYbqh2UW83uXarYtPGa)
-- [Black &amp; Blue by LEVII, KING LX](https://open.spotify.com/track/1xkuVT4MG9Rwa1V8dbyaqh)
+- [Will Be Alright by Ben Leuman, Kevin Kairouz](https://open.spotify.com/track/600mgS8QaW9uisQNOyFw8t)
+- [Moonlight by RICHIE ROZEX](https://open.spotify.com/track/7ztINHt5r7i0hY59yLhXTO)
+- [All I Ever Wanted by Spayds, Tom Platts](https://open.spotify.com/track/2iaLAplGDFU61VOmCKO6zT)
+- [Used To Love by The Palm Tree Boy, SEM, Sunflower](https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl)
+- [Backseat Radio Love by Garnic, Griffin Morris, Flauna](https://open.spotify.com/track/4Ml5HzRsCzlWn573OABXwL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
