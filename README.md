@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - The fastest way to deploy and scale any application (1 week ago)
 
 #### 🎧 What I have been listening
-- [Driving Oceanside by Tobÿ, One Trick Pony, POLLY](https://open.spotify.com/track/0dIiKSBdeVRiTpj5Yog6ak)
-- [Crush by Maggie Szabo](https://open.spotify.com/track/6xYh3b3eRbkVAJ3DQAaF9v)
-- [Changed by Damaui, Kat Abel, Sick Trumpet](https://open.spotify.com/track/2ie3InsBpQTRIc9GIP30N7)
-- [Tidal Wave by Mr. Sexophone](https://open.spotify.com/track/6ZR0xZtaXtEuiEdK0fgogs)
-- [belong to one by oskar med k](https://open.spotify.com/track/4FMP6ybHvvg7leeRAlyGfX)
+- [Lost In This Moment by Nico Saint](https://open.spotify.com/track/2QssMHEFJmxhAbq53oXrjK)
+- [I Wanted That by Loumé, Velvety, clarity.](https://open.spotify.com/track/0XzYhe3jE5d80apayNMqUG)
+- [Never Tell You by Lane Boy, esiole](https://open.spotify.com/track/6rv3rD9z6ZUtT3Y3ErUJ8w)
+- [Through This by Julien Fade, maybealice](https://open.spotify.com/track/4N70Hwcdft6RxkdUzkX70s)
+- [Feels So Right by Aden Lou](https://open.spotify.com/track/4POjJI8EJIbchOE0fju0QR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
