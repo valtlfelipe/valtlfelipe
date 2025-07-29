@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - The fastest way to deploy and scale any application (1 week ago)
 
 #### 🎧 What I have been listening
-- [Talk It Over by Loumé](https://open.spotify.com/track/28TdAeobsNxRZ9DGQx53tA)
-- [Intuition by rshand](https://open.spotify.com/track/0bPqqPGdE9VpXbdy8Uu8aw)
-- [Be Somebody by Pierse, Breezy, Vive](https://open.spotify.com/track/1U2wXGzIPfmT05z1ZOIv01)
-- [Stand By You by SAINT., Eirik Næss](https://open.spotify.com/track/1wQxptsFRXWukwXb67b7Qs)
-- [Somebody New by Maggie Szabo](https://open.spotify.com/track/6v314fHyZGsWGGNbqNeoVe)
+- [Glad You Came by EFA, Byond Bliss, Sergio Ochoa](https://open.spotify.com/track/65v7u6chQ8iU7Olu6jaa4n)
+- [Zantara by Mr. Sexophone](https://open.spotify.com/track/7zJQvk6Npty2M0NU4gpEdT)
+- [Hey Brother by Goldaine, Tropical Tide, RHEA](https://open.spotify.com/track/1qUVFU206y2oSsivKnrfyJ)
+- [Keep You Close by Damaui, WHO SHE](https://open.spotify.com/track/3zENosTgsSqvzx8BfgFNH9)
+- [Down On You by Revelries](https://open.spotify.com/track/6qUdzF3nwp5PMq6H4V6iOT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
