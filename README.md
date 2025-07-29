@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)** - The fastest way to deploy and scale any application (1 week ago)
 
 #### 🎧 What I have been listening
-- [Say My Name by Deep Chills](https://open.spotify.com/track/4OWJaj1AdaBi1TRbyWDfll)
-- [The Book by Daïtshi, Dust Walker](https://open.spotify.com/track/2HrTKNfLYRNhBEXfCpQ9X4)
-- [all i need is u by Mr Lloyd](https://open.spotify.com/track/5vDi5W6fZbqTQNy0YSurY7)
-- [What&#39;s The Harm by Maggie Szabo, Youngmin](https://open.spotify.com/track/6sEZPeZtEYGAQ9ncLdORpu)
-- [Lighthouse by Mr. Sexophone](https://open.spotify.com/track/2NihIwl0l1pNKrKOraPwpE)
+- [Where Did I Go Wrong by Deelight, Frère Jack](https://open.spotify.com/track/4pFXKwzWwLugFekVEoa9j4)
+- [The One by Summer Dusk, aiden, Megggi](https://open.spotify.com/track/5T3IzhwqvBhxUPWGnsAkzZ)
+- [Out Of Body by Arley, Descend, ROBINS](https://open.spotify.com/track/4crjc82sl9FZpJDao2hudV)
+- [Waiting for the Beat by IcoS](https://open.spotify.com/track/0J2dYbqh2UW83uXarYtPGa)
+- [Black &amp; Blue by LEVII, KING LX](https://open.spotify.com/track/1xkuVT4MG9Rwa1V8dbyaqh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
