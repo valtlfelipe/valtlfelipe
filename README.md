@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tidwall/pogocache](https://github.com/tidwall/pogocache)** - Fast caching software with a focus on low latency and cpu efficiency. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Put It All On Me by Electric Hearts, Sergio Ochoa](https://open.spotify.com/track/3f3XwzwFgKpk2q3nlUmJeC)
-- [Fever by Alok, Agents Of Time](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T)
-- [Will Be Alright by Ben Leuman, Kevin Kairouz](https://open.spotify.com/track/600mgS8QaW9uisQNOyFw8t)
-- [Moonlight by RICHIE ROZEX](https://open.spotify.com/track/7ztINHt5r7i0hY59yLhXTO)
-- [All I Ever Wanted by Spayds, Tom Platts](https://open.spotify.com/track/2iaLAplGDFU61VOmCKO6zT)
+- [Darkside Of The Moon by Raphael DeLove, Loumé](https://open.spotify.com/track/6HEiJCF5CEmBrvY2Pho8T1)
+- [Wait for You by M2chael, Keen Champ](https://open.spotify.com/track/5r0DjWJ4Iahk4lTO6gaGeM)
+- [Let&#39;s Ride Away - Major League Djz VIP Club Room by Avicii, Major League Djz, Elle King](https://open.spotify.com/track/5LtHedJfuORPiBXScJvfso)
+- [Forever by Xad](https://open.spotify.com/track/4SMvzsQDI2SNHDwfcWM7kr)
+- [Sports Car x Promiscuous by smashup](https://open.spotify.com/track/2MKKaobLRV0wFIQnf4CxkX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
