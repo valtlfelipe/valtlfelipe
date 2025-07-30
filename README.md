@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tidwall/pogocache](https://github.com/tidwall/pogocache)** - Fast caching software with a focus on low latency and cpu efficiency. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Darkside Of The Moon by Raphael DeLove, Loumé](https://open.spotify.com/track/6HEiJCF5CEmBrvY2Pho8T1)
-- [Wait for You by M2chael, Keen Champ](https://open.spotify.com/track/5r0DjWJ4Iahk4lTO6gaGeM)
-- [Let&#39;s Ride Away - Major League Djz VIP Club Room by Avicii, Major League Djz, Elle King](https://open.spotify.com/track/5LtHedJfuORPiBXScJvfso)
-- [Forever by Xad](https://open.spotify.com/track/4SMvzsQDI2SNHDwfcWM7kr)
-- [Sports Car x Promiscuous by smashup](https://open.spotify.com/track/2MKKaobLRV0wFIQnf4CxkX)
+- [Road Trip by Xad](https://open.spotify.com/track/4IcdIxyxy24MWhy8TgGCQE)
+- [Passenger Seat by Summer Martin, JANU, RÆ](https://open.spotify.com/track/1k78wRizkQjUP7ZOVR7kG8)
+- [Dunes by Tolan, Erwin Do, Pryces](https://open.spotify.com/track/5BQXS6YcGhdpGP2jCrwm6d)
+- [Trying by Will Knight](https://open.spotify.com/track/0Ub4MjYKMJLoysYZCLYYJC)
+- [Love Me Now by John De Sohn, Sam Gray](https://open.spotify.com/track/2vnMxYSg9rpcVVMn0GuCbT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
