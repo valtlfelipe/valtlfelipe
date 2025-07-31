@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tidwall/pogocache](https://github.com/tidwall/pogocache)** - Fast caching software with a focus on low latency and cpu efficiency. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Jolene by Garnic, RÆ, Flauna](https://open.spotify.com/track/5OWQYcDNpSFDzlc4gLpPHL)
-- [Show Me That by BTRN, Jake Neumar](https://open.spotify.com/track/4RP0B5tsGmoZA9LCrgfI8T)
-- [Oceandeep by Tobÿ](https://open.spotify.com/track/42SZuZ7XFzdvDtdLlZqwl9)
-- [Thankful by Meynberg, BOKI](https://open.spotify.com/track/3dC62XwKsZGMO8O3pgJTF5)
-- [Maya Bay by Deep Chills](https://open.spotify.com/track/5XKBGNBnMGhGn0OSoHIVWe)
+- [Take My Time by Gianluca Dimeo](https://open.spotify.com/track/2Tu8mjszRR7iWXRr4Lwa2a)
+- [Somebody To Me by Damaui, Comfy Sofa, Nasrene](https://open.spotify.com/track/6qT1gQiubavPu65cQ4Lnw4)
+- [What We Had by NORRA, four30](https://open.spotify.com/track/5TDqSuAIhUwAOYIT5qz85b)
+- [Sweater Weather x Summertime Sadness - Medley by smashup](https://open.spotify.com/track/7Alc9UbYEJQ1c9dUKQLi6w)
+- [Better Life by TomDūno, Jordan Grace](https://open.spotify.com/track/6mVV8tNshC0fn3gxjIMmAF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
