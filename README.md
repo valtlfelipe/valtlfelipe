@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[tidwall/pogocache](https://github.com/tidwall/pogocache)** - Fast caching software with a focus on low latency and cpu efficiency. (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Just Might by Æj, The Palm Tree Boy, RÆ](https://open.spotify.com/track/4zxdvKmFpXoTLClXzijzbT)
-- [Feels Right by SAINT.](https://open.spotify.com/track/5Qpq0zihridbC5gYMj8eue)
-- [Moment by Panuma, Nina Carr](https://open.spotify.com/track/11fQ56KIXCrTjuln0h7juk)
-- [Summer On My Mind by Summer Dusk](https://open.spotify.com/track/7HYqes2d5mbNSU6zre6pnR)
-- [Driving Me Psycho by H:dn](https://open.spotify.com/track/7cVAv9b6kxgCWsNkmwTV9p)
+- [belong to one by oskar med k](https://open.spotify.com/track/4FMP6ybHvvg7leeRAlyGfX)
+- [I Need Your Love x Midnight City by smashup](https://open.spotify.com/track/0v01P58i06gCsiRhcx8Ov7)
+- [A Beautiful Day by Tobÿ, Erlando](https://open.spotify.com/track/65q5Ei9B7MOxzqhyQYB0b5)
+- [Lowkey by James Carter, madugo](https://open.spotify.com/track/3huqrwZ1raKHQJ0zxX97Kw)
+- [Astronaut by Gianluca Dimeo, Emilian Lewis](https://open.spotify.com/track/4sj5QMl33mCq9BEBrpcEJJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
