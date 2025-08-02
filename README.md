@@ -3,7 +3,7 @@
 I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (2 days ago)
+- **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (3 days ago)
 - **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (1 week ago)
 - **[charmbracelet/glamour](https://github.com/charmbracelet/glamour)** - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 - **[KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight)** - Use your Mac trackpad as a weighing scale (1 week ago)
