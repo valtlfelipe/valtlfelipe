@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/glamour](https://github.com/charmbracelet/glamour)** - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 
 #### 🎧 What I have been listening
-- [All I Know by Kaz Benson](https://open.spotify.com/track/6zslxYnRpkt26EZxPscQd7)
-- [Stay Together by Kevin Ocean, MSP, Judy](https://open.spotify.com/track/5Jgd3w1aALuTqyDn8IsgPI)
-- [Call Me by AINT, Strobe](https://open.spotify.com/track/2FDlOw76PlZgvdtdBnF6oZ)
-- [Heartbeat by Rromarin, Hii Spirits](https://open.spotify.com/track/5F3Sh7r8qlgFOIeE6o5jCl)
-- [Believe by Mida](https://open.spotify.com/track/6DLLEokj9k7d6XRvZkKyFi)
+- [Found My Way by Soundwaves](https://open.spotify.com/track/51XWOVy2VWGHtHk64mXzIh)
+- [The Way You Move by Erlando](https://open.spotify.com/track/7MR8ymUUAXHenkyfVRBzQN)
+- [Your Body by Marten Lou](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3)
+- [Loosen Up by HUGEL, Dawty, Preston Harris](https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA)
+- [Knock Me Off My Feet by oskar med k](https://open.spotify.com/track/6Xgbgdi7F7BGrZPrYcxFVl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
