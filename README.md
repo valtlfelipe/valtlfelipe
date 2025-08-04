@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/glamour](https://github.com/charmbracelet/glamour)** - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 
 #### 🎧 What I have been listening
-- [Freedom by John Laurant, Ruben Icarus, J.A.E](https://open.spotify.com/track/3ehlcj6nj1BKxsnP1j391m)
-- [Then &amp; Now by Electric Hearts, Robbie Rosen, JeLa](https://open.spotify.com/track/1GDioCIkTk4SRxm3iLMzMX)
-- [Summer On My Mind by Summer Dusk](https://open.spotify.com/track/7HYqes2d5mbNSU6zre6pnR)
-- [You&#39;re Not Alone by Oli Harper, Maggie Szabo](https://open.spotify.com/track/1ATMtGzisb4yuS1dZM4h4q)
-- [Hope by Patrick Lite](https://open.spotify.com/track/69HRiRh27nXsmN3HYlTOby)
+- [All I Know by Kaz Benson](https://open.spotify.com/track/6zslxYnRpkt26EZxPscQd7)
+- [Stay Together by Kevin Ocean, MSP, Judy](https://open.spotify.com/track/5Jgd3w1aALuTqyDn8IsgPI)
+- [Call Me by AINT, Strobe](https://open.spotify.com/track/2FDlOw76PlZgvdtdBnF6oZ)
+- [Heartbeat by Rromarin, Hii Spirits](https://open.spotify.com/track/5F3Sh7r8qlgFOIeE6o5jCl)
+- [Believe by Mida](https://open.spotify.com/track/6DLLEokj9k7d6XRvZkKyFi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
