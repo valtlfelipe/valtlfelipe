@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Jackie B by &amp;friends, JOSEPH (CH), Brent Faiyaz](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa)
-- [Celular by Sistek](https://open.spotify.com/track/28Dw5KTUvyauj8RZnc8r2N)
-- [Too Tense by oskar med k](https://open.spotify.com/track/6DX98Pko7MmGRluSvj43cU)
-- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
-- [With or Without You - Radio Edit by Mandelbarth](https://open.spotify.com/track/2HWNk6BLULfwyCcfS4J644)
+- [Morning Bloom by Abov, Lonelysoul.](https://open.spotify.com/track/2RTBBewJONtsjF3L5gOIgR)
+- [Party With You by Robo the Chemist](https://open.spotify.com/track/1PgysDRXvjZhXw5Lwwa2lO)
+- [Love, don&#39;t make me by joki, Ridges](https://open.spotify.com/track/6CzQKomBDeyQUvuUvKKBQj)
+- [Pressure by ANELOS](https://open.spotify.com/track/2CI0mMIlRc39pi32C4Ll4f)
+- [Faded by Neptone](https://open.spotify.com/track/5Fvxiwr9eFetpWFD0XP4vB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
