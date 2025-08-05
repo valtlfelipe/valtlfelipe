@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Rise Up - AFRO HOUSE - Radio Edit by Noir Glacé](https://open.spotify.com/track/6kh4OkxFqMVaqS9MXH3zXA)
-- [Old Life by Mats Westbroek](https://open.spotify.com/track/0zDd81VI35l7iRj1fUvadx)
-- [Glow by Sole Sole, HILLA](https://open.spotify.com/track/3neHFjjdDq19vMZdaoJ5jt)
-- [Birthday Sex (feat. Jeremih) - Levi Mix by Levi, Jeremih](https://open.spotify.com/track/334RaRoiRG89vt0LCEZ6L0)
-- [Love in the Dark - Afro House Mix by Orhan Maze](https://open.spotify.com/track/2fzOQzxJfM0lohsaf763dY)
+- [Haunted By You by Kisaya](https://open.spotify.com/track/0oeoFnzBtWeWhkzISedXTS)
+- [Waves - :DARREN Remix by Mr. Probz, :DARREN](https://open.spotify.com/track/3o4evb4nIjAthxMify0LrF)
+- [Beauty Lies With You by Eren AB](https://open.spotify.com/track/3VO9r9r4n1aimi2AZ9V4om)
+- [Don&#39;t Worry by Lumine](https://open.spotify.com/track/5YGSoLBgQC6Mt58qFJvGwU)
+- [Blessings by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
