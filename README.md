@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (1 week ago)
 
 #### 🎧 What I have been listening
-- [California by KAAJO, Ren Ocean](https://open.spotify.com/track/5daRReqqfm4Kt5q6SrbusI)
-- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
-- [Lights Go Down by Meynberg, Joseph Feinstein](https://open.spotify.com/track/2Od3Ysez43Zq6SgUijASW1)
-- [She Is Love by YOLA](https://open.spotify.com/track/5A4yrkQBEtH0HBEawHsrIc)
-- [Dance Alone by Patrick Lite, WLZN, Alterlite](https://open.spotify.com/track/4c1YGMtkTglxl6icAmbBcs)
+- [Slow Burn Summer by Spoke](https://open.spotify.com/track/4GoLJa9qoKFvSpBBOXNPGd)
+- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
+- [Long Way 2 Go by Ibara, Chaouat](https://open.spotify.com/track/6w8OHGviIdhA7YGZ0GpDqI)
+- [It&#39;s Over Now by NM](https://open.spotify.com/track/5F76s2c4JUM6CTao8Opgxs)
+- [Ibiza by Sole Sole](https://open.spotify.com/track/4tsTqM68xBF7oydVZp0lIf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
