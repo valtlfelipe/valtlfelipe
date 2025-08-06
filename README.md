@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** - A powerful little TUI framework 🏗 (1 week ago)
 
 #### 🎧 What I have been listening
+- [Up To Something by P.A.V](https://open.spotify.com/track/0LhIZ0kLCfsYLQwMtyXVvO)
+- [Hard to Run by DJ Roody, Skye](https://open.spotify.com/track/5C5QXdWjAbV4bPFFjsCllj)
 - [Lost In This Moment by Nico Saint](https://open.spotify.com/track/2QssMHEFJmxhAbq53oXrjK)
 - [My Life With You by The kid in blue](https://open.spotify.com/track/5MuRPvJszag3FkKUijNgSs)
 - [one thing by offrails, Jonny Kings](https://open.spotify.com/track/3r9Zd5e6gptaX0LF1hGlUl)
-- [No Bad Vibes - ERIICE Remix by Jazzy, ERIICE, KILIMANJARO](https://open.spotify.com/track/6gwYieTnrOoVYl5nQ42pSq)
-- [Sanity by Meynberg](https://open.spotify.com/track/25fgFKBm7mRjqpmfWouR21)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
