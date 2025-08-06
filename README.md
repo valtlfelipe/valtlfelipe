@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
-- [Come Through - Radio Edit by ZOYA](https://open.spotify.com/track/11Plp3puMooePTSuyw9Mzu)
-- [Love, don&#39;t make me by joki, Ridges](https://open.spotify.com/track/6CzQKomBDeyQUvuUvKKBQj)
-- [Greedy - AFRO HOUSE - Extended Mix by Noir Glacé](https://open.spotify.com/track/6esetSiQXuhgKmB8l38uDY)
-- [Nobody Like You (feat. MUIS) by Ema Feud, B-Rain, mohalizer, MUIS](https://open.spotify.com/track/0cRkjgoXdIbm8OoWuXuglg)
-- [Lokito by Lima Riff](https://open.spotify.com/track/1LEB33hOAUPyIaLso0PMFx)
+- [Nipe by SIDEBET](https://open.spotify.com/track/3PqeGc07lr1kZM8iEpReMO)
+- [Moment by Panuma, Nina Carr](https://open.spotify.com/track/11fQ56KIXCrTjuln0h7juk)
+- [Withdrawal by Ema Feud, B-Rain, Moav](https://open.spotify.com/track/7MIcZNF0498OKMoImK1SXR)
+- [Sports Car - AFRO HOUSE - Radio Edit by Noir Glacé](https://open.spotify.com/track/7fOZlKujG6rqISSxfDw8Gd)
+- [FAMA by Mecdoux](https://open.spotify.com/track/3Rp3l5eTRoFSA2VOXvsyV2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
