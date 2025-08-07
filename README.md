@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
-- [Last Time by SIDEBET](https://open.spotify.com/track/3EtflQvVMskSjBomifaQoZ)
-- [Serotonin (speaks to me) by joki, Ridges](https://open.spotify.com/track/6ZRWGSexfCNErfw34knhDb)
-- [The Way You Move by Meliora](https://open.spotify.com/track/6Zcgi4Ltr9k1aOdTA5T9d5)
-- [Dancing In The Dark by Lima Riff, Impani](https://open.spotify.com/track/6gZK2MGC3Ezyxl8Y9KrrwJ)
-- [Stone Cold by Jaron](https://open.spotify.com/track/604xw7ATM14aFz9cvixXT9)
+- [You Bring That Sunshine by Alex Adair](https://open.spotify.com/track/5qz6EnCfC4QykSzXGkhURT)
+- [Let Me Go by Sole Sole](https://open.spotify.com/track/2gj1KfwwUM0iL1wL4ADZLZ)
+- [Drive by Courtney Storm, Béatrice Dupont](https://open.spotify.com/track/5TmpcFPSQbCj3Ft6rKoRv3)
+- [Tired by P.A.V](https://open.spotify.com/track/77Wy355qw4O5KgO7wGrv0f)
+- [Sun Or Rain - Radio Edit by Tom Tainted, Gabi Juliano](https://open.spotify.com/track/3MuIs3vN5SmEw3Dl0Nsvqw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
