@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
-- [Enerji by Dune Ritual](https://open.spotify.com/track/55V3HvhMiBJI4NT6EgnsGB)
-- [Nipe by SIDEBET](https://open.spotify.com/track/3PqeGc07lr1kZM8iEpReMO)
-- [Moment by Panuma, Nina Carr](https://open.spotify.com/track/11fQ56KIXCrTjuln0h7juk)
-- [Withdrawal by Ema Feud, B-Rain, Moav](https://open.spotify.com/track/7MIcZNF0498OKMoImK1SXR)
-- [Sports Car - AFRO HOUSE - Radio Edit by Noir Glacé](https://open.spotify.com/track/7fOZlKujG6rqISSxfDw8Gd)
+- [La La La Love by Viva La Panda, Swizznife](https://open.spotify.com/track/2ZcU1WV5y30r3Q1gv0Se7d)
+- [Ngizula by SIDEBET](https://open.spotify.com/track/4VvdlyVa5y8di9ebUOUyT8)
+- [one thing by offrails, Jonny Kings](https://open.spotify.com/track/3r9Zd5e6gptaX0LF1hGlUl)
+- [Heartbeat by zolaaa](https://open.spotify.com/track/1cWWGXNfkYzZcLByXaHj7A)
+- [Chemical Love by Mike Key, MILLA](https://open.spotify.com/track/5srfjqTGXlOYzOP2wkQs7k)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
