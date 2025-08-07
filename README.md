@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
+- [Like That by Spayds](https://open.spotify.com/track/2UtKw4hPgZZrY4i3RG2vX7)
+- [Hellium by Spoke](https://open.spotify.com/track/3LUhh14hh46ylmVSeFFPhW)
+- [Space &amp; Time - Extended Mix by ItsArius, Lynnic, ARI.](https://open.spotify.com/track/5qu91DHKSR9YdRVKkX9rAf)
 - [Own The Night by Spayds, Vaporlight](https://open.spotify.com/track/48tYwcbko3i2Uhve8rqWT3)
 - [Open Your Eyes by LUMO](https://open.spotify.com/track/2Xld7M7Lb35iEADuLolaK7)
-- [Shades of darkness by Spoke](https://open.spotify.com/track/2urW8ZbMVE5IcCHDloDn7e)
-- [Never Been To Berlin - Jessi Selm &amp; Ariel Estrella Remix - Radio Edit by DHALI, Lili Pistorius, Jessi Selm, Ariel Estrella](https://open.spotify.com/track/4bTN0bMSU5dRT5XL8Ue0Jl)
-- [You Said Forever by Embody](https://open.spotify.com/track/5fjIr7fMC19Jmz97GmmSB7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
