@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
-- [You Bring That Sunshine by Alex Adair](https://open.spotify.com/track/5qz6EnCfC4QykSzXGkhURT)
-- [Let Me Go by Sole Sole](https://open.spotify.com/track/2gj1KfwwUM0iL1wL4ADZLZ)
-- [Drive by Courtney Storm, Béatrice Dupont](https://open.spotify.com/track/5TmpcFPSQbCj3Ft6rKoRv3)
-- [Tired by P.A.V](https://open.spotify.com/track/77Wy355qw4O5KgO7wGrv0f)
-- [Sun Or Rain - Radio Edit by Tom Tainted, Gabi Juliano](https://open.spotify.com/track/3MuIs3vN5SmEw3Dl0Nsvqw)
+- [Floating by Golowko, MBP, Alicee](https://open.spotify.com/track/5QvokVJipC39PQcG7uN44v)
+- [Till It All Burns Out by Jaron](https://open.spotify.com/track/4T0xheF5kcHy7KAAwXDcW6)
+- [Carry the World by deep dispatch, outset island, Luca Grace](https://open.spotify.com/track/2LSgSWdQvWaLDoTVfX2qxC)
+- [Baby Don&#39;t Go by DJ Roody](https://open.spotify.com/track/55xz4JiwgNsxyiLTTRXS0O)
+- [Give You (my love) by Spoke](https://open.spotify.com/track/23ajwGo3gcIF7l0IVYcMwW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
