@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
-- [The Middle Of Nowhere by Plaha, Winter Kid, Azeon.](https://open.spotify.com/track/3FJrLjlL0Pu1GraHCUceq8)
-- [Heartbeat by Rromarin, Hii Spirits](https://open.spotify.com/track/5F3Sh7r8qlgFOIeE6o5jCl)
-- [Save My Soul by Freyer, Joel Winterflood](https://open.spotify.com/track/7hcldMED72sE2XCGOpy90q)
-- [All That I Want - Matt Leger Remix by Kaz Benson, Matt Leger](https://open.spotify.com/track/2qc17uDP4VXcfZdo1sFiWo)
-- [Wide Awake by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/3VMpFBqmPfuVp9LH7TvKOh)
+- [You Said Forever by Embody](https://open.spotify.com/track/5fjIr7fMC19Jmz97GmmSB7)
+- [Out Of Body by Arley, Descend, ROBINS](https://open.spotify.com/track/4crjc82sl9FZpJDao2hudV)
+- [Dreams by AFROTECH](https://open.spotify.com/track/2NvtzxaEeaBPiBviSoMwMJ)
+- [Mamamiya by Choujaa, Iceboiy Ola](https://open.spotify.com/track/71PGjOGeKrd8pRvEPtTyOX)
+- [Let&#39;s disappear tonight - Radio Edit by Spoke](https://open.spotify.com/track/3CZDfvbHG6bQ0wYVjAaMqI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
