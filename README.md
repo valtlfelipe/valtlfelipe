@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
+- [Last Time by SIDEBET](https://open.spotify.com/track/3EtflQvVMskSjBomifaQoZ)
+- [Serotonin (speaks to me) by joki, Ridges](https://open.spotify.com/track/6ZRWGSexfCNErfw34knhDb)
+- [The Way You Move by Meliora](https://open.spotify.com/track/6Zcgi4Ltr9k1aOdTA5T9d5)
+- [Dancing In The Dark by Lima Riff, Impani](https://open.spotify.com/track/6gZK2MGC3Ezyxl8Y9KrrwJ)
 - [Stone Cold by Jaron](https://open.spotify.com/track/604xw7ATM14aFz9cvixXT9)
-- [Alafia by PEKE, Mindloco](https://open.spotify.com/track/4bthb0Yi0G0BAbRoXOse0a)
-- [La La La Love by Viva La Panda, Swizznife](https://open.spotify.com/track/2ZcU1WV5y30r3Q1gv0Se7d)
-- [Ngizula by SIDEBET](https://open.spotify.com/track/4VvdlyVa5y8di9ebUOUyT8)
-- [one thing by offrails, Jonny Kings](https://open.spotify.com/track/3r9Zd5e6gptaX0LF1hGlUl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
