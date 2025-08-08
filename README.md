@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
+- [Dream About You by Spayds, FreeMusicWave](https://open.spotify.com/track/1OA2p1ySMwXtFs94qJjX2W)
+- [Hey Ya by Spoke](https://open.spotify.com/track/4mw18GZhk4ewpMFL3omqQo)
+- [Ipanema Beach by Webbstur](https://open.spotify.com/track/6KjWXoh3qUjFgQKC0OJ3pp)
+- [run run run by Teddy Beats, Mandy Beats](https://open.spotify.com/track/3STSgFrf3OJ9yAeIxfUhwb)
 - [Someone To Love by El Khatib, NOAM](https://open.spotify.com/track/1jCMVELbdo2rCa7Dp6mxpw)
-- [Let You Know by Venci Balev](https://open.spotify.com/track/50N1XTwMhAGDhorI8AtRST)
-- [Open Your Eyes by FLX](https://open.spotify.com/track/1kIXISa45Mf6QNMRM9GGRX)
-- [Give You (my love) by Spoke](https://open.spotify.com/track/23ajwGo3gcIF7l0IVYcMwW)
-- [Hard to Run by DJ Roody, Skye](https://open.spotify.com/track/5C5QXdWjAbV4bPFFjsCllj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
