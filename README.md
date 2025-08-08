@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
-- [Open Your Eyes by LUMO](https://open.spotify.com/track/2Xld7M7Lb35iEADuLolaK7)
-- [Let&#39;s disappear tonight - Radio Edit by Spoke](https://open.spotify.com/track/3CZDfvbHG6bQ0wYVjAaMqI)
-- [All U Want by Mati Troglia, TMPST, Anna-Sophia Henry](https://open.spotify.com/track/0H62FOrtpza6dWgp9SB7mm)
-- [Help The People - Radio Edit by John Laurant, Ron van den Beuken, Ruben Icarus](https://open.spotify.com/track/2r70EOCI3P2Y1yPOjFrTuA)
-- [Your Picture&#39;s on My Wall by SK Austen](https://open.spotify.com/track/7noy4i0Nqw9VY9Y2BlewmQ)
+- [Running by PhatAdam, Gl:ow, Tobi Swizz](https://open.spotify.com/track/1mMIFvBv5g83yZ1Lholebc)
+- [Toxic Lover - Radio Edit by Velvet Cash](https://open.spotify.com/track/1Gp4nJCkv0Zz1cSmF4ACpB)
+- [Summer Feeling by Steve Kroeger, Skye Holland, Tep No](https://open.spotify.com/track/3Erp9TO9MyayX7mWWqoATf)
+- [A Kind of Magic by Camishe](https://open.spotify.com/track/30RAf60zFvdZnApggExOpJ)
+- [I`m Waiting by Kvarmez](https://open.spotify.com/track/3VwfQoSsWs1XtydvOmIq7F)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
