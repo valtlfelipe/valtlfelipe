@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
-- [Like That by Spayds](https://open.spotify.com/track/2UtKw4hPgZZrY4i3RG2vX7)
-- [Hellium by Spoke](https://open.spotify.com/track/3LUhh14hh46ylmVSeFFPhW)
-- [Space &amp; Time - Extended Mix by ItsArius, Lynnic, ARI.](https://open.spotify.com/track/5qu91DHKSR9YdRVKkX9rAf)
-- [Own The Night by Spayds, Vaporlight](https://open.spotify.com/track/48tYwcbko3i2Uhve8rqWT3)
-- [Open Your Eyes by LUMO](https://open.spotify.com/track/2Xld7M7Lb35iEADuLolaK7)
+- [Fading Into You by NOVUM](https://open.spotify.com/track/2exgKoiQu3IN9kRZoxrEYA)
+- [You Can Call Me - Afro House Mix by Spoke](https://open.spotify.com/track/5gKVUlp7EiHXVoateKsbCz)
+- [Body Hoddy by Robo the Chemist](https://open.spotify.com/track/0SfoL9EhFV1kArzfgu9nj3)
+- [All I Need by Spayds](https://open.spotify.com/track/2csXHXy40Uh3nTFD2ZBBVO)
+- [YOUR HEART by NØFACE](https://open.spotify.com/track/5A7Ew0g41xow5PuP008Gac)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
