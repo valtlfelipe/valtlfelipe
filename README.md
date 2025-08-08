@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
+- [LUCKY U by TIANBO, Aidan Auci](https://open.spotify.com/track/1odDnUzZVx5SN44vZDdP2z)
+- [Your Eyes by ATREOUS, nineveh.](https://open.spotify.com/track/67JsqblhFSxGj4t3f23xGs)
+- [Colours Of You by Vaporlight, Spayds](https://open.spotify.com/track/5hIv4OH8cdWI6kUkBmWl57)
+- [MAGNETS - Extended Mix by JLV, Oscar Duke](https://open.spotify.com/track/0m0I6I0IbSGIqgfngXkcZo)
 - [Dream About You by Spayds, FreeMusicWave](https://open.spotify.com/track/1OA2p1ySMwXtFs94qJjX2W)
-- [Hey Ya by Spoke](https://open.spotify.com/track/4mw18GZhk4ewpMFL3omqQo)
-- [Ipanema Beach by Webbstur](https://open.spotify.com/track/6KjWXoh3qUjFgQKC0OJ3pp)
-- [run run run by Teddy Beats, Mandy Beats](https://open.spotify.com/track/3STSgFrf3OJ9yAeIxfUhwb)
-- [Someone To Love by El Khatib, NOAM](https://open.spotify.com/track/1jCMVELbdo2rCa7Dp6mxpw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
