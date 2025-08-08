@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** - Local-first AI Notepad for Private Meetings (1 week ago)
 
 #### 🎧 What I have been listening
-- [Not Easy To Love by Vaporlight, Valery Lua](https://open.spotify.com/track/5RStdUTLJbAHyx9VUxmvwD)
-- [Who (Callin&#39;) by MKJ, Swanky Tunes, Conan Mac](https://open.spotify.com/track/0IfyCbhuQ7aqgXwGhL0GXm)
-- [Didn&#39;t Wanna Feel by Dani Corbalan](https://open.spotify.com/track/6301e5nHiGHy768j3Xr1xP)
-- [Love Like This by Tom Platts, Spayds](https://open.spotify.com/track/2Rqh474ijClvOYf4LMMl5A)
-- [Heartfelt (Let The Fire In) by TRIP RGAZZI](https://open.spotify.com/track/2QM4kcnuayYjtE1tp8xYPC)
+- [Jambo Kila by Indicate, TIANBO](https://open.spotify.com/track/3BfuumoAYJhflDxSrQjZuH)
+- [La La La Love by Viva La Panda, Swizznife](https://open.spotify.com/track/2ZcU1WV5y30r3Q1gv0Se7d)
+- [More More More by Charmes, Emmanuel David, ED_PRJCT](https://open.spotify.com/track/2KjKhfgijIPkMjZzMW6y1h)
+- [Closer To The Sun by PhatAdam, Gl:ow, palffi](https://open.spotify.com/track/4tYQ9ZL6AD8gEt6lOsiMAc)
+- [Turn Off The Lights by After Midnight](https://open.spotify.com/track/3GPZeP3abxYhUIdQTF8qU1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
