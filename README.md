@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/crush](https://github.com/charmbracelet/crush)** - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 
 #### 🎧 What I have been listening
+- [Your Loving by Marvin Shadex](https://open.spotify.com/track/1lTdaV1pxK0XGzieqVQmGh)
+- [Sweet Escape by Spoke](https://open.spotify.com/track/787h39tNvDqqRLHZ4d5I4w)
+- [Low by LUMO](https://open.spotify.com/track/4jKpwb8fiAq8sUOzOACt2L)
+- [Waiting For Tonight by Mave &amp; Zac](https://open.spotify.com/track/5vzJslzMesIh4vwgT0lvAd)
 - [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
-- [Before we drown by Black Domino, Shawn Clover](https://open.spotify.com/track/3cxahvqkfsJZ650WcwBaBI)
-- [A Chance To Bloom by Brainheart, Sis](https://open.spotify.com/track/3WwF8WJzfD3FNn2JWD07qJ)
-- [The Love We Had by Dani Corbalan](https://open.spotify.com/track/6d9QsSxRwN0jL5src4woDN)
-- [Stronger Now by Spoke](https://open.spotify.com/track/2hUAy066ulHVhSheFI6MJs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
