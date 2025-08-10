@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/crush](https://github.com/charmbracelet/crush)** - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Walk Away by Nofsky, SADBOY, veil9](https://open.spotify.com/track/4qvuRD2toxzoaCF5rxDjb3)
-- [MAGNETS - Extended Mix by JLV, Oscar Duke](https://open.spotify.com/track/0m0I6I0IbSGIqgfngXkcZo)
-- [You Can Call Me - Afro House Mix by Spoke](https://open.spotify.com/track/5gKVUlp7EiHXVoateKsbCz)
-- [How Do You Feel by Kusko, Jan Liva](https://open.spotify.com/track/7HfxiBBZXGrYro6pewAzFI)
-- [Sober by LUMO](https://open.spotify.com/track/2xxTOCpI0Eb7O0g1MKkRrF)
+- [Bad Man by LUMO](https://open.spotify.com/track/4WgWWVAf7rJG5doOqmwUhj)
+- [Lovers Tonight by Golowko, JSUNT, Malina Stark](https://open.spotify.com/track/5Xacp4RbiqMzRjW5YWgkNN)
+- [A Sky Full Of Stars by BONIIL, Afro Queen](https://open.spotify.com/track/1Dpu8fU6H1vH4QO0cggFsr)
+- [Tonight You&#39;re Mine by Jasper Reaves](https://open.spotify.com/track/12U2e3m7lSBc9L5e47fhdm)
+- [Dangerous by Spoke](https://open.spotify.com/track/51de0V7fDxr0sgD92kIpTK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
