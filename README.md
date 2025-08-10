@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/crush](https://github.com/charmbracelet/crush)** - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Forever Yours - Tim’s 2016 Ibiza Version by Avicii, Sandro Cavazza](https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT)
-- [You Can Call Me - Afro House Mix by Spoke](https://open.spotify.com/track/5gKVUlp7EiHXVoateKsbCz)
-- [Bad Man by LUMO](https://open.spotify.com/track/4WgWWVAf7rJG5doOqmwUhj)
-- [Lovers Tonight by Golowko, JSUNT, Malina Stark](https://open.spotify.com/track/5Xacp4RbiqMzRjW5YWgkNN)
-- [A Sky Full Of Stars by BONIIL, Afro Queen](https://open.spotify.com/track/1Dpu8fU6H1vH4QO0cggFsr)
+- [Insegurança - Ao Vivo by Pixote](https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm)
+- [Choosing You by Bazznik](https://open.spotify.com/track/3RRp6xDbyLlTMTmk1aeBSI)
+- [Lancinho - Ao Vivo by Turma do Pagode](https://open.spotify.com/track/6CeeLpwJUYA4b0xL7eSvzn)
+- [Poderosa - Ao Vivo by Thiaguinho](https://open.spotify.com/track/5JTL91USvogeqs9huIpXk8)
+- [Deixa em Off - Ao Vivo by Turma do Pagode](https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
