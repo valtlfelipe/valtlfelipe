@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/crush](https://github.com/charmbracelet/crush)** - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Insegurança - Ao Vivo by Pixote](https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm)
-- [Choosing You by Bazznik](https://open.spotify.com/track/3RRp6xDbyLlTMTmk1aeBSI)
-- [Lancinho - Ao Vivo by Turma do Pagode](https://open.spotify.com/track/6CeeLpwJUYA4b0xL7eSvzn)
-- [Poderosa - Ao Vivo by Thiaguinho](https://open.spotify.com/track/5JTL91USvogeqs9huIpXk8)
-- [Deixa em Off - Ao Vivo by Turma do Pagode](https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG)
+- [Até Que Durou - Ao Vivo by Péricles](https://open.spotify.com/track/5MLTylyzHVd7oV8OE4JMZt)
+- [Pot-Pourri: Eu Nunca Amei Assim / Telegrama - Ao Vivo by Thiaguinho](https://open.spotify.com/track/2QIh1Azbqyo7P3epJFNFz9)
+- [Fica com Deus - Ao Vivo by Yan, Sorriso Maroto](https://open.spotify.com/track/5W7OZVxOtnQsPVLOEUvu1G)
+- [Farol Das Estrelas / Refém Do Coração / Tempo De Aprender - Ao Vivo by Belo](https://open.spotify.com/track/7twV4lkBhVToFi4oRCIYe2)
+- [P do Pecado - Ao Vivo by Grupo Menos É Mais, Simone Mendes](https://open.spotify.com/track/7EknynLJTt9YMm1HL37s5D)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
