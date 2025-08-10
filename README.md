@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/crush](https://github.com/charmbracelet/crush)** - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Até Que Durou - Ao Vivo by Péricles](https://open.spotify.com/track/5MLTylyzHVd7oV8OE4JMZt)
-- [Pot-Pourri: Eu Nunca Amei Assim / Telegrama - Ao Vivo by Thiaguinho](https://open.spotify.com/track/2QIh1Azbqyo7P3epJFNFz9)
-- [Fica com Deus - Ao Vivo by Yan, Sorriso Maroto](https://open.spotify.com/track/5W7OZVxOtnQsPVLOEUvu1G)
-- [Farol Das Estrelas / Refém Do Coração / Tempo De Aprender - Ao Vivo by Belo](https://open.spotify.com/track/7twV4lkBhVToFi4oRCIYe2)
-- [P do Pecado - Ao Vivo by Grupo Menos É Mais, Simone Mendes](https://open.spotify.com/track/7EknynLJTt9YMm1HL37s5D)
+- [A Casa Caiu - Ao Vivo by Bom Gosto](https://open.spotify.com/track/3CY0WXRyNWkS3xfZuF4q1I)
+- [Castelo de um Quarto Só - Ao Vivo by Renato da Rocinha](https://open.spotify.com/track/6pOEwvuoBkfaMNN6Wp7dtn)
+- [Do Jeito Que a Vida Quer - Ao Vivo by Xande de Pilares](https://open.spotify.com/track/3G16ZnoxD6lmFIpWfYAPpc)
+- [Tchau e Bença - Live From Brazil / 2007 by Exaltasamba](https://open.spotify.com/track/1oXFfHuBuasMQ9lnPSRvGU)
+- [Refém / Tira Ela de Mim / Por Tão Pouco - Ao Vivo by Seis Samba](https://open.spotify.com/track/1VIIoNgZqCruBsvwKhunmz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
