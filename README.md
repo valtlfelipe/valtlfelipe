@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sidequestjs/sidequest](https://github.com/sidequestjs/sidequest)** - Sidequest is a modern, scalable background job processor for Node.js applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Back Of The Room by Simon Field, SverreV](https://open.spotify.com/track/7pnx7Nw1PVkG6vZy8byGlI)
-- [Ray of Dawn by Chillside](https://open.spotify.com/track/78ShBmoek7UH1xPyCp36dF)
-- [Just Here by Juloboy](https://open.spotify.com/track/5b2Sj60I9Wk0rNPKRg4fuo)
-- [Submerge by Tomas Skyldeberg](https://open.spotify.com/track/4BVvVQCnjImm9pmwn7sCWd)
-- [Maui by sunbvrn](https://open.spotify.com/track/7aFKjpMy6lxCpww0pd8phZ)
+- [Roda by MonoJack](https://open.spotify.com/track/75A6pXTtXOrpkd8TQiXO6v)
+- [No One&#39;s Talking - Radio edit by Simon Field](https://open.spotify.com/track/7G9AeGYAPomVxry4CCISwR)
+- [AROSE by Lyke](https://open.spotify.com/track/1TlFcqw1hBb3VOx5VFTiuV)
+- [Lose Control by Sunseekers, SIQUE](https://open.spotify.com/track/29ldhKXPlgDIvDBQiGUe5B)
+- [Falling by Spark030](https://open.spotify.com/track/49znjmo140zsdq7jI0LynI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
