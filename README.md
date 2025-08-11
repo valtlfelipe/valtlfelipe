@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/crush](https://github.com/charmbracelet/crush)** - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 
 #### 🎧 What I have been listening
-- [You&#39;re Somebody Else by Noile](https://open.spotify.com/track/1N4QP63qx7hfUD6A403wY6)
-- [One Day by Julien Pastel](https://open.spotify.com/track/7JLcCiysiHALtaTLRnBE18)
-- [Rivers by Maple Sun, Alpas](https://open.spotify.com/track/2Jn1NetRmMs5MTZU9mVVpV)
-- [First Breath by Stendahl](https://open.spotify.com/track/0UdWJUzZoenu4V03q2luZ6)
-- [Listen to Me - Short Version by Ivan Garci](https://open.spotify.com/track/3mSRITzn1ZgZd7rQ3akkKb)
+- [Incanto by Julien Pastel](https://open.spotify.com/track/7Ax0qsiyDbcjR5tkuvfQGU)
+- [Us - Polar Inc. Remix by Nora En Pure, Polar Inc.](https://open.spotify.com/track/0IcyBeZH7AGR7N0ffVlZ7b)
+- [Where Are You Now by Simon Field, iiola](https://open.spotify.com/track/10LSvSMBXpsjFEJgCWDOuW)
+- [Sunshine State by Nico Belucci](https://open.spotify.com/track/6gsOEBWNlEhvCqk6REbSFM)
+- [Mwaki by Sunseekers](https://open.spotify.com/track/1TnHLG7g7DERU4o9mRsVcM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
