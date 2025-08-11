@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/crush](https://github.com/charmbracelet/crush)** - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Skipping Stones by Sultan &#43; Shepard, Le Youth](https://open.spotify.com/track/73TlvcThZVK3XC1cpMTWko)
-- [So High by Satin Jackets, Thunder](https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt)
-- [Shout It Out by BLOND:ISH, Night Tales](https://open.spotify.com/track/6LcE4obnsOmnkLRpZCqtNF)
-- [Sweet Dreams (feat. Miguel) by j-hope, Miguel](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k)
-- [Meio Alcoolizado by Samba de Cosme, Yan](https://open.spotify.com/track/7DnaRan5Pg2u8O3oWM2dAl)
+- [Come Undone by Duran Duran](https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1)
+- [Heavy Heart by Rammor, Vic Roz](https://open.spotify.com/track/3dZuE5N6I6Cw6A1YX1ZlrB)
+- [Happiness - Eternal Moment Mix by Chris Malinchak](https://open.spotify.com/track/00EBDDJZ2s6QuGSmM53xjW)
+- [If I Wouldn&#39;t Know (Aldi Be Cool Remix) by PASCAL, Aldi Be Cool](https://open.spotify.com/track/2rq2azWXVaxG3iRbMHdfa4)
+- [Seven Cities - Nall Remix by Solarstone, Nall](https://open.spotify.com/track/1okI0EddpA2UxVY4hBw4PA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
