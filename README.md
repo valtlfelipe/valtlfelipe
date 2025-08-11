@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sidequestjs/sidequest](https://github.com/sidequestjs/sidequest)** - Sidequest is a modern, scalable background job processor for Node.js applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [In My Dreams by PASCAL](https://open.spotify.com/track/5flgDgmKyWnFnSMHeMWcoy)
-- [Rosso by Chris Savor, Stendahl](https://open.spotify.com/track/3P4kOSAVk0aUH7fVVlMS2D)
-- [Never Forget You by Rammor, Miss Sister](https://open.spotify.com/track/4HhhJ2Ad6OizmPnqA1tfdB)
-- [Indigo by Sultan &#43; Shepard](https://open.spotify.com/track/4WqEBIMJMmGRiEwSyRzeEQ)
-- [Paper Waves by Tomas Skyldeberg](https://open.spotify.com/track/4ws7lnRvQOcBWSC2EAan8t)
+- [Seven Cities - Nall Extended Remix by Solarstone, Tom Staar, Nall](https://open.spotify.com/track/0Sj17MIyNojfLAvejpybBN)
+- [Vahé by Sultan &#43; Shepard](https://open.spotify.com/track/1IhObniR2Ilt0WSeZ6sv9V)
+- [Legacy by Stendahl](https://open.spotify.com/track/2xv0Pts5DTywSoBnZGrSAn)
+- [La Naissance De Vénus by Julien Pastel](https://open.spotify.com/track/0bzokIEnJn7ukHVWXpkWK9)
+- [Don&#39;t Be So Shy by Neptone](https://open.spotify.com/track/0N1lPmFEDyL6mkyz5VZ5mP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
