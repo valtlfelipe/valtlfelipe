@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[charmbracelet/crush](https://github.com/charmbracelet/crush)** - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 
 #### 🎧 What I have been listening
-- [Come Undone by Duran Duran](https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1)
-- [Heavy Heart by Rammor, Vic Roz](https://open.spotify.com/track/3dZuE5N6I6Cw6A1YX1ZlrB)
-- [Happiness - Eternal Moment Mix by Chris Malinchak](https://open.spotify.com/track/00EBDDJZ2s6QuGSmM53xjW)
-- [If I Wouldn&#39;t Know (Aldi Be Cool Remix) by PASCAL, Aldi Be Cool](https://open.spotify.com/track/2rq2azWXVaxG3iRbMHdfa4)
-- [Seven Cities - Nall Remix by Solarstone, Nall](https://open.spotify.com/track/1okI0EddpA2UxVY4hBw4PA)
+- [You&#39;re Somebody Else by Noile](https://open.spotify.com/track/1N4QP63qx7hfUD6A403wY6)
+- [One Day by Julien Pastel](https://open.spotify.com/track/7JLcCiysiHALtaTLRnBE18)
+- [Rivers by Maple Sun, Alpas](https://open.spotify.com/track/2Jn1NetRmMs5MTZU9mVVpV)
+- [First Breath by Stendahl](https://open.spotify.com/track/0UdWJUzZoenu4V03q2luZ6)
+- [Listen to Me - Short Version by Ivan Garci](https://open.spotify.com/track/3mSRITzn1ZgZd7rQ3akkKb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
