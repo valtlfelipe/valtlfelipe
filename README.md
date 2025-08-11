@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sidequestjs/sidequest](https://github.com/sidequestjs/sidequest)** - Sidequest is a modern, scalable background job processor for Node.js applications. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Tell Me What You Want by Oden &amp; Fatzo, Poppy Baskcomb](https://open.spotify.com/track/7pPMx57fvpINMYGE0eZFhp)
+- [Flip of the Coin by Bajau, Zoe Kypri](https://open.spotify.com/track/1BDW5jnwsHoPV1JC30umA6)
+- [Angel In The Dark by Anyma, Massano, Nathan Nicholson](https://open.spotify.com/track/5GRJ5mXnz8dalhWY14HZcV)
+- [Beso (Fruta Fresca) by Wakyin, Carlos Vives](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG)
 - [Roda by MonoJack](https://open.spotify.com/track/75A6pXTtXOrpkd8TQiXO6v)
-- [No One&#39;s Talking - Radio edit by Simon Field](https://open.spotify.com/track/7G9AeGYAPomVxry4CCISwR)
-- [AROSE by Lyke](https://open.spotify.com/track/1TlFcqw1hBb3VOx5VFTiuV)
-- [Lose Control by Sunseekers, SIQUE](https://open.spotify.com/track/29ldhKXPlgDIvDBQiGUe5B)
-- [Falling by Spark030](https://open.spotify.com/track/49znjmo140zsdq7jI0LynI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
