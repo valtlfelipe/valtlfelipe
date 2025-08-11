@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sidequestjs/sidequest](https://github.com/sidequestjs/sidequest)** - Sidequest is a modern, scalable background job processor for Node.js applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Seven Cities - Nall Extended Remix by Solarstone, Tom Staar, Nall](https://open.spotify.com/track/0Sj17MIyNojfLAvejpybBN)
-- [Vahé by Sultan &#43; Shepard](https://open.spotify.com/track/1IhObniR2Ilt0WSeZ6sv9V)
-- [Legacy by Stendahl](https://open.spotify.com/track/2xv0Pts5DTywSoBnZGrSAn)
-- [La Naissance De Vénus by Julien Pastel](https://open.spotify.com/track/0bzokIEnJn7ukHVWXpkWK9)
-- [Don&#39;t Be So Shy by Neptone](https://open.spotify.com/track/0N1lPmFEDyL6mkyz5VZ5mP)
+- [With You by Rammor](https://open.spotify.com/track/47OZXXshFXBIy3nog2yVAN)
+- [Dual Minds by Tomas Skyldeberg](https://open.spotify.com/track/6G2wgbmmZBNyR6ZzX4nV8S)
+- [Stuck In My Head by Slow Ted](https://open.spotify.com/track/4S7fLFfE7wrCcrqS47BoRS)
+- [Floating - Extended Mix by Klur](https://open.spotify.com/track/7KyxK5GxsKjuqycJCEKrMR)
+- [Arearea by Julien Pastel](https://open.spotify.com/track/124T3oWdcMPkPzrN8VIWky)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
