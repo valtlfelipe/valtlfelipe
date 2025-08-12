@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sidequestjs/sidequest](https://github.com/sidequestjs/sidequest)** - Sidequest is a modern, scalable background job processor for Node.js applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Love Tonight (David Guetta Remix Edit) by Shouse, David Guetta](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP)
-- [Platinum by Oomloud](https://open.spotify.com/track/2elRVCapP79fIebOjgesTJ)
-- [Feel Your Love by Bhaskar, Lucas Estrada, EEVA](https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI)
-- [In The Middle by Alesso, SUMR CAMP](https://open.spotify.com/track/7JHdotEeGSIbtFuo4dVvsC)
-- [Savannah - Club Mix by FAULHABER, Jake Reese](https://open.spotify.com/track/54DySOMuMmgB98q06ifI9b)
+- [I Don&#39;t Need Love by Karen Harding, Wh0](https://open.spotify.com/track/11YeL3eE19GsSU4EYi6fIs)
+- [Moonlight (feat. Danyka Nadeau &amp; Badjack) by Disco Fries, Badjack, Danyka Nadeau](https://open.spotify.com/track/4dgkustBLuGq8tjsWtzRoO)
+- [We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez &amp; Claudia Leitte) by Pitbull, Jennifer Lopez, Claudia Leitte](https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr)
+- [Like Home by Robby East](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A)
+- [Look at Me (feat. Laureen) by Hidden Face, Laureen](https://open.spotify.com/track/6ICBH5ZpSBSeb5ujAjhMQO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
