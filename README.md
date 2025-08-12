@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sidequestjs/sidequest](https://github.com/sidequestjs/sidequest)** - Sidequest is a modern, scalable background job processor for Node.js applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Calabria (feat. Fallen Roses, Lujavo &amp; Lunis) by Dance Fruits Music, DMNDS, Fallen Roses, Lunis, Lujavo](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46)
-- [Lambada by Victor Lou, Guzz](https://open.spotify.com/track/1rzpYggF9f7ekgxdAQWBwH)
-- [Light It Up (feat. Nyla &amp; Fuse ODG) [Remix] by Major Lazer, Nyla, Fuse ODG](https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY)
-- [One Night (feat. Raphaella) - Dom Dolla Remix by MK, Sonny Fodera, Raphaella, Dom Dolla](https://open.spotify.com/track/1tTyLIOkWOvLie6Oa1oshy)
-- [Overload by Stadiumx, Mingue](https://open.spotify.com/track/1tkJmKA4Vd5Kkf9jhGDjYa)
+- [Sure Thing by Impani, LU2VYK](https://open.spotify.com/track/41h0H10TYujH8h3rnPKRmN)
+- [Wide Awake by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/3VMpFBqmPfuVp9LH7TvKOh)
+- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
+- [Innerbloom - Radio Edit by RÜFÜS DU SOL](https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf)
+- [I&#39;m Not Alright - Zack Martino Remix by Loud Luxury, Bryce Vine, Zack Martino](https://open.spotify.com/track/4AEziiA1GI7NC6xmKhPFqI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
