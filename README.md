@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sidequestjs/sidequest](https://github.com/sidequestjs/sidequest)** - Sidequest is a modern, scalable background job processor for Node.js applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [I Don&#39;t Need Love by Karen Harding, Wh0](https://open.spotify.com/track/11YeL3eE19GsSU4EYi6fIs)
-- [Moonlight (feat. Danyka Nadeau &amp; Badjack) by Disco Fries, Badjack, Danyka Nadeau](https://open.spotify.com/track/4dgkustBLuGq8tjsWtzRoO)
-- [We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez &amp; Claudia Leitte) by Pitbull, Jennifer Lopez, Claudia Leitte](https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr)
-- [Like Home by Robby East](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A)
-- [Look at Me (feat. Laureen) by Hidden Face, Laureen](https://open.spotify.com/track/6ICBH5ZpSBSeb5ujAjhMQO)
+- [Last Dance (feat. Franz Novotny) by Steve Angello, AN21, Franz Novotny](https://open.spotify.com/track/3vg79UwxyTyBumJriDvYFd)
+- [Prayer in C - Robin Schulz Radio Edit by Lilly Wood and The Prick, Robin Schulz](https://open.spotify.com/track/5zlC5d5umTrbcX9sLVVxzh)
+- [Never Say Never - Extended Mix by Basement Jaxx](https://open.spotify.com/track/42suZFjDtBbl9sESKm4oj2)
+- [Coffee (Give Me Something) by Tiësto, Vintage Culture](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD)
+- [Talamanca - Robin Schulz Remix by BURNS, Robin Schulz](https://open.spotify.com/track/6kZnMNLj1MnIJTM98yHsz5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
