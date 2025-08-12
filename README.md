@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[runarsventures/nuxt-run](https://github.com/runarsventures/nuxt-run)** (6 days ago)
 
 #### 🎧 What I have been listening
-- [Sunshine State by Nico Belucci](https://open.spotify.com/track/6gsOEBWNlEhvCqk6REbSFM)
-- [Where Are You Now by Simon Field, iiola](https://open.spotify.com/track/10LSvSMBXpsjFEJgCWDOuW)
-- [Palm Beach by No Eyed Deer, Will Knight](https://open.spotify.com/track/2ot3xuxuWWeYtXyadKzbxw)
-- [Forever by Johny Luv](https://open.spotify.com/track/0b1H6nnc4TNKkEA2EynCDC)
-- [Skipping Stones by Sultan &#43; Shepard, Le Youth](https://open.spotify.com/track/73TlvcThZVK3XC1cpMTWko)
+- [Guest of Honour by Tomas Skyldeberg](https://open.spotify.com/track/2m8vFdyDkpyDNTit9WARu8)
+- [Us - Polar Inc. Extended Remix by Nora En Pure, Polar Inc.](https://open.spotify.com/track/7Ci5V27KRPQzPoafnIRaSZ)
+- [Rosso by Chris Savor, Stendahl](https://open.spotify.com/track/3P4kOSAVk0aUH7fVVlMS2D)
+- [Hope by Tad Forl](https://open.spotify.com/track/37obmIRPzzmDkXDouzhBRi)
+- [Incanto by Julien Pastel](https://open.spotify.com/track/7Ax0qsiyDbcjR5tkuvfQGU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
