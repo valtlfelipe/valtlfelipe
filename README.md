@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sidequestjs/sidequest](https://github.com/sidequestjs/sidequest)** - Sidequest is a modern, scalable background job processor for Node.js applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Last Dance (feat. Franz Novotny) by Steve Angello, AN21, Franz Novotny](https://open.spotify.com/track/3vg79UwxyTyBumJriDvYFd)
-- [Prayer in C - Robin Schulz Radio Edit by Lilly Wood and The Prick, Robin Schulz](https://open.spotify.com/track/5zlC5d5umTrbcX9sLVVxzh)
-- [Never Say Never - Extended Mix by Basement Jaxx](https://open.spotify.com/track/42suZFjDtBbl9sESKm4oj2)
-- [Coffee (Give Me Something) by Tiësto, Vintage Culture](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD)
-- [Talamanca - Robin Schulz Remix by BURNS, Robin Schulz](https://open.spotify.com/track/6kZnMNLj1MnIJTM98yHsz5)
+- [Calabria (feat. Fallen Roses, Lujavo &amp; Lunis) by Dance Fruits Music, DMNDS, Fallen Roses, Lunis, Lujavo](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46)
+- [Lambada by Victor Lou, Guzz](https://open.spotify.com/track/1rzpYggF9f7ekgxdAQWBwH)
+- [Light It Up (feat. Nyla &amp; Fuse ODG) [Remix] by Major Lazer, Nyla, Fuse ODG](https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY)
+- [One Night (feat. Raphaella) - Dom Dolla Remix by MK, Sonny Fodera, Raphaella, Dom Dolla](https://open.spotify.com/track/1tTyLIOkWOvLie6Oa1oshy)
+- [Overload by Stadiumx, Mingue](https://open.spotify.com/track/1tkJmKA4Vd5Kkf9jhGDjYa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
