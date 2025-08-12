@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sidequestjs/sidequest](https://github.com/sidequestjs/sidequest)** - Sidequest is a modern, scalable background job processor for Node.js applications. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Work from Home (feat. Ty Dolla $ign) by Fifth Harmony, Ty Dolla $ign](https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb)
-- [Geronimo by Sheppard](https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en)
-- [Mistakes I&#39;ve Made - Radio Edit by Eelke Kleijn](https://open.spotify.com/track/5tkKIwo0R91Rp9ZPUilg7l)
-- [Pontos de Exclamação - Vintage Culture &amp; Future Class Remix by Jovem Dionisio, Vintage Culture, Future Class](https://open.spotify.com/track/25usEf5iGk9HL0LM9VTxue)
-- [Homie by Joris Delacroix](https://open.spotify.com/track/0hjwiba2gpwgq82VbiD7oS)
+- [Woodstock by Eelke Kleijn](https://open.spotify.com/track/1Uz6RTu8ytSAgIGBxKzt3V)
+- [Slow Burn - Lost Frequencies Remix by Moksi, Elayna Boynton, Lost Frequencies](https://open.spotify.com/track/6mRQXPtzPhllXky078BuJ2)
+- [Afterglow by Bob Moses, Kasablanca](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44)
+- [Empathy - Radio Edit by EDX](https://open.spotify.com/track/5yzedjNh2s5SyB0aGeUuuH)
+- [Lazy (feat. David Byrne) - Mowgli Goes Deep Mix by X-Press 2, David Byrne](https://open.spotify.com/track/2KFg8d03gnWcqAPoA7IrGr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
