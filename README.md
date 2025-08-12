@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[runarsventures/nuxt-run](https://github.com/runarsventures/nuxt-run)** (6 days ago)
 
 #### 🎧 What I have been listening
-- [Coming Home by AgusAlvarez, Luke Bergs](https://open.spotify.com/track/2EJ4U7d2UeXTc70dM5UYU3)
-- [Rivers by Maple Sun, Alpas](https://open.spotify.com/track/2Jn1NetRmMs5MTZU9mVVpV)
-- [New Life by Wavey](https://open.spotify.com/track/3uvYzu0w2eidLXXBV7k4tr)
-- [So High by Satin Jackets, Thunder](https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt)
-- [Heavy Heart by Rammor, Vic Roz](https://open.spotify.com/track/3dZuE5N6I6Cw6A1YX1ZlrB)
+- [Sunshine State by Nico Belucci](https://open.spotify.com/track/6gsOEBWNlEhvCqk6REbSFM)
+- [Where Are You Now by Simon Field, iiola](https://open.spotify.com/track/10LSvSMBXpsjFEJgCWDOuW)
+- [Palm Beach by No Eyed Deer, Will Knight](https://open.spotify.com/track/2ot3xuxuWWeYtXyadKzbxw)
+- [Forever by Johny Luv](https://open.spotify.com/track/0b1H6nnc4TNKkEA2EynCDC)
+- [Skipping Stones by Sultan &#43; Shepard, Le Youth](https://open.spotify.com/track/73TlvcThZVK3XC1cpMTWko)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
