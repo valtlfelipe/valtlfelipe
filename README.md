@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (5 days ago)
 
 #### 🎧 What I have been listening
-- [Unfold by rshand, Duce](https://open.spotify.com/track/4Yq6n4nMfBsnoia8oS5DIv)
-- [Simple Suggestion by Tomas Skyldeberg](https://open.spotify.com/track/0Lh62rzTziacmLHTciEsGK)
-- [Ain&#39;t Nobody (Loves Me Better) by Sunseekers](https://open.spotify.com/track/29P2kiKAXBfWlqLQKFaboa)
-- [Somewhere In Paradise by Satin Jackets, Tailor](https://open.spotify.com/track/3XZ7BRjTxl6PWZVolM2tOV)
-- [Watch You by HOBBS, Café Du MIDI](https://open.spotify.com/track/0LJa7QahGcaUY3LHaKgDPl)
+- [Hold Your Tongue by Bo Degas, SverreV](https://open.spotify.com/track/10vZTVLkWrtjKP6u40JsNn)
+- [Expressions from Yesterday by Tomas Skyldeberg](https://open.spotify.com/track/0TXu1rekGsLdZu7lb2FgPX)
+- [Greedy by Sunseekers](https://open.spotify.com/track/5K5eCruUPad7g4G8R4wUXs)
+- [Don&#39;t Wanna Go by Simon Field](https://open.spotify.com/track/43zjba3yvvD5kOEtgNfT7c)
+- [Islands by Sum Wave, Bye Ocean](https://open.spotify.com/track/0CkGdGFDrMMnFDao3X9I79)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
