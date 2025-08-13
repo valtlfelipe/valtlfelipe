@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (5 days ago)
 
 #### 🎧 What I have been listening
-- [Never Enough by SAINT.](https://open.spotify.com/track/1OInvIEVgaw21cqxbzwktq)
-- [Driving Back Home by Chris Savor, Black Winter](https://open.spotify.com/track/3pUskOHgaEdQhz4hPvGXEx)
-- [The One for You by Moongirl, moonboi, Samm](https://open.spotify.com/track/4q144CJd84LOxT425juJ1U)
-- [Slow Burn Summer by Spoke](https://open.spotify.com/track/4GoLJa9qoKFvSpBBOXNPGd)
-- [Less Is More by sundraze](https://open.spotify.com/track/6b6HqR4MWfm39ggME4uhp1)
+- [Paper Waves by Tomas Skyldeberg](https://open.spotify.com/track/4ws7lnRvQOcBWSC2EAan8t)
+- [Astral Dreams by Lust.](https://open.spotify.com/track/7GdUZ8JK8MAdTp5zFvb0RI)
+- [Mamo Biban - Sundown Version by Heliograph, Rewan Riko](https://open.spotify.com/track/6b7bMp0FrbMF5turygkXC9)
+- [Tokyo By Night by Sönnefelt](https://open.spotify.com/track/21xyUSfnJjlXmbZUfweHtI)
+- [Houdini by Sunseekers, SIQUE](https://open.spotify.com/track/7yeJkhNsPTotVZeDpSu9L5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
