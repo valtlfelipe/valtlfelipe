@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (5 days ago)
 
 #### 🎧 What I have been listening
-- [Oceanside by Satin Jackets, Tailor](https://open.spotify.com/track/6bmWlt96etqp6T3riUQeVN)
-- [Don&#39;t Give Up by Latroit, Charlz](https://open.spotify.com/track/7E5Tl1oyZW5JPdhqGgW5hz)
-- [Dual Minds by Tomas Skyldeberg](https://open.spotify.com/track/6G2wgbmmZBNyR6ZzX4nV8S)
-- [Hold You Back - Extended by Falden, Dan Soleil](https://open.spotify.com/track/3H32ijILyF1NutxOFtjRvx)
-- [Tribe of Kindness by Nora En Pure](https://open.spotify.com/track/2C4qlSBJ9u5fzvciCwHy8B)
+- [Between Us by Tomas Skyldeberg](https://open.spotify.com/track/3qQa0CHSvgYUoeP5RnD8bU)
+- [Everything We Need by Tobÿ, Sunset Oasis](https://open.spotify.com/track/13pW8R9DpX8ShYdHjJv5Cr)
+- [Altered Destiny - Chill Mix by Nora En Pure](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV)
+- [So Sick - Simon Field &amp; SverreV Version by Simon Field, SverreV](https://open.spotify.com/track/6itUGDgWTBZIyQUckOThGP)
+- [The Thought of You by Johny Luv](https://open.spotify.com/track/4LscQ2iPv3rDeaqlg3JoAE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
