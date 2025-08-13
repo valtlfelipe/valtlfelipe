@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (5 days ago)
 
 #### 🎧 What I have been listening
-- [Paper Waves by Tomas Skyldeberg](https://open.spotify.com/track/4ws7lnRvQOcBWSC2EAan8t)
-- [Astral Dreams by Lust.](https://open.spotify.com/track/7GdUZ8JK8MAdTp5zFvb0RI)
-- [Mamo Biban - Sundown Version by Heliograph, Rewan Riko](https://open.spotify.com/track/6b7bMp0FrbMF5turygkXC9)
-- [Tokyo By Night by Sönnefelt](https://open.spotify.com/track/21xyUSfnJjlXmbZUfweHtI)
-- [Houdini by Sunseekers, SIQUE](https://open.spotify.com/track/7yeJkhNsPTotVZeDpSu9L5)
+- [Unfold by rshand, Duce](https://open.spotify.com/track/4Yq6n4nMfBsnoia8oS5DIv)
+- [Simple Suggestion by Tomas Skyldeberg](https://open.spotify.com/track/0Lh62rzTziacmLHTciEsGK)
+- [Ain&#39;t Nobody (Loves Me Better) by Sunseekers](https://open.spotify.com/track/29P2kiKAXBfWlqLQKFaboa)
+- [Somewhere In Paradise by Satin Jackets, Tailor](https://open.spotify.com/track/3XZ7BRjTxl6PWZVolM2tOV)
+- [Watch You by HOBBS, Café Du MIDI](https://open.spotify.com/track/0LJa7QahGcaUY3LHaKgDPl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
