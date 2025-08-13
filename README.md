@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (5 days ago)
 
 #### 🎧 What I have been listening
+- [Ecstacy by Café Du MIDI, Jay Nemor](https://open.spotify.com/track/0rzoyvjxFth2JKHlTrbWvA)
+- [What A Feeling (Tritonia 508) by Courtney Storm, Finley Brückner](https://open.spotify.com/track/5audIt9BAx7wOrbfuAbKqi)
+- [Won&#39;t Leave Your Side by Nora En Pure, Liz Cass](https://open.spotify.com/track/3iBugUxbNNn2PINhJe9Ike)
+- [AROSE - Extended Mix by Lyke](https://open.spotify.com/track/15TDCivmjhmQL1VER0cV8L)
 - [Need A Second by Nathan C, ALLKNIGHT](https://open.spotify.com/track/4pJF7MrSiXtjthcEqB1aEJ)
-- [Memorabilia by Phello](https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY)
-- [Avalanche by Satin Jackets, David Bay](https://open.spotify.com/track/3BJLQ4ph60NfvNZMdamfQM)
-- [Deepest by Alex Deeper, Mary S.K.](https://open.spotify.com/track/10IVn2GFQFWWpYKmEjgNrc)
-- [Solstice by nuca3, Kader Esen](https://open.spotify.com/track/6dU6gysJMmo5H0diAQwE4C)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
