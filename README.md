@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (5 days ago)
 
 #### 🎧 What I have been listening
-- [Between Us by Tomas Skyldeberg](https://open.spotify.com/track/3qQa0CHSvgYUoeP5RnD8bU)
-- [Everything We Need by Tobÿ, Sunset Oasis](https://open.spotify.com/track/13pW8R9DpX8ShYdHjJv5Cr)
-- [Altered Destiny - Chill Mix by Nora En Pure](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV)
-- [So Sick - Simon Field &amp; SverreV Version by Simon Field, SverreV](https://open.spotify.com/track/6itUGDgWTBZIyQUckOThGP)
-- [The Thought of You by Johny Luv](https://open.spotify.com/track/4LscQ2iPv3rDeaqlg3JoAE)
+- [Curiosity by Tomas Skyldeberg](https://open.spotify.com/track/2zP9mA94INWA9M4DHtJVz1)
+- [Milo&#39;s Journey by Sum Wave](https://open.spotify.com/track/66gDYTBmh48j1Wy0WG4XnQ)
+- [Souls Not Bodies by Midnight Pass](https://open.spotify.com/track/4BIiC6k94so9Odloc8z4MR)
+- [Fly With You by Juloboy](https://open.spotify.com/track/0N8HGTJS7qcHiXZJ8PXSgO)
+- [Tobacco - Original Mix by Chris Malinchak](https://open.spotify.com/track/4BoXIvidIBTaytfQYmSl1f)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
