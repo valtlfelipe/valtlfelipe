@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (5 days ago)
 
 #### 🎧 What I have been listening
-- [Curiosity by Tomas Skyldeberg](https://open.spotify.com/track/2zP9mA94INWA9M4DHtJVz1)
-- [Milo&#39;s Journey by Sum Wave](https://open.spotify.com/track/66gDYTBmh48j1Wy0WG4XnQ)
-- [Souls Not Bodies by Midnight Pass](https://open.spotify.com/track/4BIiC6k94so9Odloc8z4MR)
-- [Fly With You by Juloboy](https://open.spotify.com/track/0N8HGTJS7qcHiXZJ8PXSgO)
-- [Tobacco - Original Mix by Chris Malinchak](https://open.spotify.com/track/4BoXIvidIBTaytfQYmSl1f)
+- [Need A Second by Nathan C, ALLKNIGHT](https://open.spotify.com/track/4pJF7MrSiXtjthcEqB1aEJ)
+- [Memorabilia by Phello](https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY)
+- [Avalanche by Satin Jackets, David Bay](https://open.spotify.com/track/3BJLQ4ph60NfvNZMdamfQM)
+- [Deepest by Alex Deeper, Mary S.K.](https://open.spotify.com/track/10IVn2GFQFWWpYKmEjgNrc)
+- [Solstice by nuca3, Kader Esen](https://open.spotify.com/track/6dU6gysJMmo5H0diAQwE4C)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
