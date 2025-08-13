@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (5 days ago)
 
 #### 🎧 What I have been listening
-- [Bottles &amp; Bay by Panuma, Nina Carr](https://open.spotify.com/track/14c0GxZ4lot2bHSx9lZ0I6)
-- [Tell Me Why by Tad Forl](https://open.spotify.com/track/04is8zdJqdFc8ldjIaMeyb)
-- [Us by Nora En Pure](https://open.spotify.com/track/7kKECBsO5HseLZUPlJSWoW)
-- [Offshore by sundraze](https://open.spotify.com/track/5P58QcR4Q1OkD2V5qg46LT)
-- [Let Us Go Back by Tomas Skyldeberg](https://open.spotify.com/track/6VhYyGN8s5VTYNWoYel9E6)
+- [Oceanside by Satin Jackets, Tailor](https://open.spotify.com/track/6bmWlt96etqp6T3riUQeVN)
+- [Don&#39;t Give Up by Latroit, Charlz](https://open.spotify.com/track/7E5Tl1oyZW5JPdhqGgW5hz)
+- [Dual Minds by Tomas Skyldeberg](https://open.spotify.com/track/6G2wgbmmZBNyR6ZzX4nV8S)
+- [Hold You Back - Extended by Falden, Dan Soleil](https://open.spotify.com/track/3H32ijILyF1NutxOFtjRvx)
+- [Tribe of Kindness by Nora En Pure](https://open.spotify.com/track/2C4qlSBJ9u5fzvciCwHy8B)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
