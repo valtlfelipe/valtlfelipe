@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (6 days ago)
 
 #### 🎧 What I have been listening
+- [Stop Wasting Time by Nora En Pure](https://open.spotify.com/track/40JGT2kfuWXC0eFMeRkm95)
+- [Say It by Johny Luv](https://open.spotify.com/track/5Z4pvpeVkRQvl48KatKyex)
+- [All About by Jon Sine](https://open.spotify.com/track/2o7Of3cD058JzvuqM0epZI)
+- [Was It the Wind That Stirred The Trees by Boy North](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT)
 - [Ecstacy by Café Du MIDI, Jay Nemor](https://open.spotify.com/track/0rzoyvjxFth2JKHlTrbWvA)
-- [What A Feeling (Tritonia 508) by Courtney Storm, Finley Brückner](https://open.spotify.com/track/5audIt9BAx7wOrbfuAbKqi)
-- [Won&#39;t Leave Your Side by Nora En Pure, Liz Cass](https://open.spotify.com/track/3iBugUxbNNn2PINhJe9Ike)
-- [AROSE - Extended Mix by Lyke](https://open.spotify.com/track/15TDCivmjhmQL1VER0cV8L)
-- [Need A Second by Nathan C, ALLKNIGHT](https://open.spotify.com/track/4pJF7MrSiXtjthcEqB1aEJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
