@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (6 days ago)
 
 #### 🎧 What I have been listening
-- [Palm Beach by No Eyed Deer, Will Knight](https://open.spotify.com/track/2ot3xuxuWWeYtXyadKzbxw)
-- [Forever by Johny Luv](https://open.spotify.com/track/0b1H6nnc4TNKkEA2EynCDC)
-- [Skipping Stones by Sultan &#43; Shepard, Le Youth](https://open.spotify.com/track/73TlvcThZVK3XC1cpMTWko)
-- [First Breath by Stendahl](https://open.spotify.com/track/0UdWJUzZoenu4V03q2luZ6)
-- [You&#39;re Somebody Else by Noile](https://open.spotify.com/track/1N4QP63qx7hfUD6A403wY6)
+- [Less Is More by sundraze](https://open.spotify.com/track/6b6HqR4MWfm39ggME4uhp1)
+- [Guest of Honour by Tomas Skyldeberg](https://open.spotify.com/track/2m8vFdyDkpyDNTit9WARu8)
+- [Us - Polar Inc. Extended Remix by Nora En Pure, Polar Inc.](https://open.spotify.com/track/7Ci5V27KRPQzPoafnIRaSZ)
+- [Rosso by Chris Savor, Stendahl](https://open.spotify.com/track/3P4kOSAVk0aUH7fVVlMS2D)
+- [Hope by Tad Forl](https://open.spotify.com/track/37obmIRPzzmDkXDouzhBRi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
