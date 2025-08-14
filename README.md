@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (6 days ago)
 
 #### 🎧 What I have been listening
-- [Heavy Heart by Rammor, Vic Roz](https://open.spotify.com/track/3dZuE5N6I6Cw6A1YX1ZlrB)
-- [One Day by Julien Pastel](https://open.spotify.com/track/7JLcCiysiHALtaTLRnBE18)
-- [Come Undone by Duran Duran](https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1)
-- [Shout It Out by BLOND:ISH, Night Tales](https://open.spotify.com/track/6LcE4obnsOmnkLRpZCqtNF)
-- [As the Sun Goes Down by Tomas Skyldeberg](https://open.spotify.com/track/4rehTteBn7VMn3isrnvaSj)
+- [Palm Beach by No Eyed Deer, Will Knight](https://open.spotify.com/track/2ot3xuxuWWeYtXyadKzbxw)
+- [Forever by Johny Luv](https://open.spotify.com/track/0b1H6nnc4TNKkEA2EynCDC)
+- [Skipping Stones by Sultan &#43; Shepard, Le Youth](https://open.spotify.com/track/73TlvcThZVK3XC1cpMTWko)
+- [First Breath by Stendahl](https://open.spotify.com/track/0UdWJUzZoenu4V03q2luZ6)
+- [You&#39;re Somebody Else by Noile](https://open.spotify.com/track/1N4QP63qx7hfUD6A403wY6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
