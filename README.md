@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (6 days ago)
 
 #### 🎧 What I have been listening
-- [Stop Wasting Time by Nora En Pure](https://open.spotify.com/track/40JGT2kfuWXC0eFMeRkm95)
-- [Say It by Johny Luv](https://open.spotify.com/track/5Z4pvpeVkRQvl48KatKyex)
-- [All About by Jon Sine](https://open.spotify.com/track/2o7Of3cD058JzvuqM0epZI)
-- [Was It the Wind That Stirred The Trees by Boy North](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT)
-- [Ecstacy by Café Du MIDI, Jay Nemor](https://open.spotify.com/track/0rzoyvjxFth2JKHlTrbWvA)
+- [Keep Dreaming by TEMPHOUSE](https://open.spotify.com/track/3eQpjaCKDqSlwjXZxRSXdo)
+- [Dharma by Maple Sun](https://open.spotify.com/track/6MDcTjBKJ8XbZJg5PQcNCo)
+- [Never Been - Chill Mix by Deep Deluxe](https://open.spotify.com/track/0GzlkW3cuVSlwA9abs7zcc)
+- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
+- [Stay by PASCAL](https://open.spotify.com/track/646hIKmG7qgjxjV8sIGbSL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
