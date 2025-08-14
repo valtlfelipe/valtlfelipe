@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (6 days ago)
 
 #### 🎧 What I have been listening
-- [Remember Me by Duce](https://open.spotify.com/track/5LU609mhTWuvoAzLUj7uNB)
-- [Am I Dreaming by Little Foot, Lyonheart](https://open.spotify.com/track/41RVT43qwioRT8rXXAmC8u)
-- [Tired by P.A.V](https://open.spotify.com/track/77Wy355qw4O5KgO7wGrv0f)
-- [Waves by Young Jing, Bo Degas](https://open.spotify.com/track/012S7ScRP6g109OwKhdPDk)
-- [Alright by AN21, HIISAK, Able Faces](https://open.spotify.com/track/5zbW7lOQKmpA77Jcdg8tkJ)
+- [Something Missing You by Alex Deeper](https://open.spotify.com/track/5A6SDxlgbqW6afVrH6jVWC)
+- [Rosso - Extended Mix by Chris Savor, Stendahl](https://open.spotify.com/track/2g5mHRbe5sZfGKx7IlExwX)
+- [Samsara by Bo Degas](https://open.spotify.com/track/6k8tSqgqGYia2gNoRTzPrW)
+- [True Love by Midnight Mystery Club](https://open.spotify.com/track/0ZBwE5rOStMylP8W033Mrd)
+- [Here For You by PASCAL](https://open.spotify.com/track/5g37EVlHWRlSeWkvhvTrhW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
