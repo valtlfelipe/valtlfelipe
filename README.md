@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (6 days ago)
 
 #### 🎧 What I have been listening
-- [Yours Tonight by fwd/slash](https://open.spotify.com/track/6epYioiACrRs1EXI49p893)
-- [Morning Bloom by Abov, Lonelysoul.](https://open.spotify.com/track/2RTBBewJONtsjF3L5gOIgR)
-- [Radiant by Chillside](https://open.spotify.com/track/7jkWyJ1Oy6I5vPVJEdsxPC)
-- [Away With Me by Ross Quinn](https://open.spotify.com/track/5VpX3rdy4Azt457FRfcJMH)
-- [Control by Satin Jackets, Seint Monet](https://open.spotify.com/track/5M9wgnTBLITiU0XQnYTyo6)
+- [Nightingale by Panuma, Kayla](https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik)
+- [Whenever by P.A.V](https://open.spotify.com/track/09AjysGQs2BsWowsMwrHUr)
+- [A Different Time (Tobÿ&#39;s Sunrise Mix) by Tobÿ, sundraze](https://open.spotify.com/track/5QS4yrtJFUGAwE9qr5yQZR)
+- [Colors Turn To Gray by Robby East, Vanessa Arnolds](https://open.spotify.com/track/3e8gIv71jSgr6sjS2SB3Hx)
+- [I Can Do Without You by Mandarin Plaza](https://open.spotify.com/track/4rNcuwXBmlKg2CWMdM0gVA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
