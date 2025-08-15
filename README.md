@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (1 week ago)
 
 #### 🎧 What I have been listening
-- [Bora Bora by sunbvrn, bayme](https://open.spotify.com/track/1TV9a6uxdPA1GVsLg3rL68)
-- [Always Each Other by Tomas Skyldeberg](https://open.spotify.com/track/2MH5XzCQvoetYZQ6fhhP4g)
-- [Never Enough by SAINT.](https://open.spotify.com/track/1OInvIEVgaw21cqxbzwktq)
-- [Driving Back Home by Chris Savor, Black Winter](https://open.spotify.com/track/3pUskOHgaEdQhz4hPvGXEx)
-- [The One for You by Moongirl, moonboi, Samm](https://open.spotify.com/track/4q144CJd84LOxT425juJ1U)
+- [Soul Crazy by Tomas Skyldeberg](https://open.spotify.com/track/7FjnG0v8ANx8BSnLeiKzDB)
+- [Bring On Up Our Love by Satin Jackets, Kimchii](https://open.spotify.com/track/32F09L1aN1drr5SMc9aDxV)
+- [Into The Night by Chris Savor, HGenius](https://open.spotify.com/track/1UzjuGe8nqYEkNPovrFdy2)
+- [Stay Forever by Bo Degas](https://open.spotify.com/track/6VrGnO9DflOpV8gdgRqZ9X)
+- [Hold Me Close by M2chael, FRIDA, James Lacey](https://open.spotify.com/track/4KN6yCPfmEqutksaM3Pg0p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
