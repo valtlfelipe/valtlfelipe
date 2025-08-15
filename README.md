@@ -7,13 +7,13 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (3 days ago)
 - **[sst/opencode](https://github.com/sst/opencode)** - AI coding agent, built for the terminal. (4 days ago)
 - **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (4 days ago)
-- **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (1 week ago)
+- **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - The modern hosts file editor for people who care about their tools (1 week ago)
 
 #### 🎧 What I have been listening
-- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
-- [No Bad Vibes by Jazzy, KILIMANJARO](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
-- [Altered Destiny - Chill Mix by Nora En Pure](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV)
-- [So Sick - Simon Field &amp; SverreV Version by Simon Field, SverreV](https://open.spotify.com/track/6itUGDgWTBZIyQUckOThGP)
+- [All In A Dream by LP Giobbi, DJ Tennis, Joseph Ashworth](https://open.spotify.com/track/03jQHo0HFj5onzoexiaMPI)
+- [Edge of Desire by Jonas Blue, Malive](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT)
+- [Stay High - VIP by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/3wr3vCOE6fPVbPkmjv9XJW)
+- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
