@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (1 week ago)
 
 #### 🎧 What I have been listening
+- [Wonderful by Chris Malinchak](https://open.spotify.com/track/2c4POsMK3lOiTC2RLPXtsP)
+- [September Everywhere by Sultan &#43; Shepard](https://open.spotify.com/track/6TkKnUX4Cb2VoGOS4b4sZk)
 - [Paper Waves by Tomas Skyldeberg](https://open.spotify.com/track/4ws7lnRvQOcBWSC2EAan8t)
 - [Astral Dreams by Lust.](https://open.spotify.com/track/7GdUZ8JK8MAdTp5zFvb0RI)
 - [Mamo Biban - Sundown Version by Heliograph, Rewan Riko](https://open.spotify.com/track/6b7bMp0FrbMF5turygkXC9)
-- [Tokyo By Night by Sönnefelt](https://open.spotify.com/track/21xyUSfnJjlXmbZUfweHtI)
-- [Houdini by Sunseekers, SIQUE](https://open.spotify.com/track/7yeJkhNsPTotVZeDpSu9L5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
