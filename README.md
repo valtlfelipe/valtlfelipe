@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (1 week ago)
 
 #### 🎧 What I have been listening
-- [Don&#39;t Wanna Go by Simon Field](https://open.spotify.com/track/43zjba3yvvD5kOEtgNfT7c)
-- [Islands by Sum Wave, Bye Ocean](https://open.spotify.com/track/0CkGdGFDrMMnFDao3X9I79)
-- [Remember by Midnight Pass, Ruffnux](https://open.spotify.com/track/6JqO8gCbkx5eekwKyTr71o)
-- [Euphoria by sundraze](https://open.spotify.com/track/0qARFZEwpBgx1tlIVWP4YS)
-- [Submerge by Tomas Skyldeberg](https://open.spotify.com/track/4BVvVQCnjImm9pmwn7sCWd)
+- [Everything To Me by Erlando](https://open.spotify.com/track/5ho53KuYMZqXRldyuZjjPW)
+- [Bottles &amp; Bay by Panuma, Nina Carr](https://open.spotify.com/track/14c0GxZ4lot2bHSx9lZ0I6)
+- [Tell Me Why by Tad Forl](https://open.spotify.com/track/04is8zdJqdFc8ldjIaMeyb)
+- [Us by Nora En Pure](https://open.spotify.com/track/7kKECBsO5HseLZUPlJSWoW)
+- [Offshore by sundraze](https://open.spotify.com/track/5P58QcR4Q1OkD2V5qg46LT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
