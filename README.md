@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (1 week ago)
 
 #### 🎧 What I have been listening
-- [Everything To Me by Erlando](https://open.spotify.com/track/5ho53KuYMZqXRldyuZjjPW)
-- [Bottles &amp; Bay by Panuma, Nina Carr](https://open.spotify.com/track/14c0GxZ4lot2bHSx9lZ0I6)
-- [Tell Me Why by Tad Forl](https://open.spotify.com/track/04is8zdJqdFc8ldjIaMeyb)
-- [Us by Nora En Pure](https://open.spotify.com/track/7kKECBsO5HseLZUPlJSWoW)
-- [Offshore by sundraze](https://open.spotify.com/track/5P58QcR4Q1OkD2V5qg46LT)
+- [Dual Minds by Tomas Skyldeberg](https://open.spotify.com/track/6G2wgbmmZBNyR6ZzX4nV8S)
+- [Hold You Back - Extended by Falden, Dan Soleil](https://open.spotify.com/track/3H32ijILyF1NutxOFtjRvx)
+- [Tribe of Kindness by Nora En Pure](https://open.spotify.com/track/2C4qlSBJ9u5fzvciCwHy8B)
+- [Overexcited by Aludra](https://open.spotify.com/track/6iecAodYQ4kr1KLzj0CgOs)
+- [It&#39;s Over by Johny Luv](https://open.spotify.com/track/27ffbFS6CVfycXJn2vBVc7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
