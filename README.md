@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - Edit &amp; manage your Hosts file (1 week ago)
 
 #### 🎧 What I have been listening
-- [Soul Crazy by Tomas Skyldeberg](https://open.spotify.com/track/7FjnG0v8ANx8BSnLeiKzDB)
-- [Bring On Up Our Love by Satin Jackets, Kimchii](https://open.spotify.com/track/32F09L1aN1drr5SMc9aDxV)
-- [Into The Night by Chris Savor, HGenius](https://open.spotify.com/track/1UzjuGe8nqYEkNPovrFdy2)
-- [Stay Forever by Bo Degas](https://open.spotify.com/track/6VrGnO9DflOpV8gdgRqZ9X)
-- [Hold Me Close by M2chael, FRIDA, James Lacey](https://open.spotify.com/track/4KN6yCPfmEqutksaM3Pg0p)
+- [Paper Waves by Tomas Skyldeberg](https://open.spotify.com/track/4ws7lnRvQOcBWSC2EAan8t)
+- [Astral Dreams by Lust.](https://open.spotify.com/track/7GdUZ8JK8MAdTp5zFvb0RI)
+- [Mamo Biban - Sundown Version by Heliograph, Rewan Riko](https://open.spotify.com/track/6b7bMp0FrbMF5turygkXC9)
+- [Tokyo By Night by Sönnefelt](https://open.spotify.com/track/21xyUSfnJjlXmbZUfweHtI)
+- [Houdini by Sunseekers, SIQUE](https://open.spotify.com/track/7yeJkhNsPTotVZeDpSu9L5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
