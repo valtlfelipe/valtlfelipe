@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (5 days ago)
 
 #### 🎧 What I have been listening
-- [She Drives Me Crazy by Fine Young Cannibals](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ)
-- [Rivers by Maple Sun, Alpas](https://open.spotify.com/track/2Jn1NetRmMs5MTZU9mVVpV)
-- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
-- [New Life by Wavey](https://open.spotify.com/track/3uvYzu0w2eidLXXBV7k4tr)
-- [Forget About It by Antoine Chambe, Tomode](https://open.spotify.com/track/1A1PZczza9n3I6l72bAGyN)
+- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
+- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
+- [Damn (You’ve Got Me Saying) by Galantis, David Guetta, MNEK](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj)
+- [Green Green Grass by George Ezra](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB)
+- [Trompeta by Willy William](https://open.spotify.com/track/30YQNcUdAsgfzORrTyfYn5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
