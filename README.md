@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[valtlfelipe/hedit](https://github.com/valtlfelipe/hedit)** - The modern hosts file editor for people who care about their tools (1 week ago)
 
 #### 🎧 What I have been listening
+- [Geronimo by Sheppard](https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en)
+- [Mistakes I&#39;ve Made - Radio Edit by Eelke Kleijn](https://open.spotify.com/track/5tkKIwo0R91Rp9ZPUilg7l)
+- [Pontos de Exclamação - Vintage Culture &amp; Future Class Remix by Jovem Dionisio, Vintage Culture, Future Class](https://open.spotify.com/track/25usEf5iGk9HL0LM9VTxue)
+- [Homie by Joris Delacroix](https://open.spotify.com/track/0hjwiba2gpwgq82VbiD7oS)
 - [All In A Dream by LP Giobbi, DJ Tennis, Joseph Ashworth](https://open.spotify.com/track/03jQHo0HFj5onzoexiaMPI)
-- [Edge of Desire by Jonas Blue, Malive](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT)
-- [Stay High - VIP by Diplo, HUGEL, Julia Church](https://open.spotify.com/track/3wr3vCOE6fPVbPkmjv9XJW)
-- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
-- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
