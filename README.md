@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (5 days ago)
 
 #### 🎧 What I have been listening
-- [I Love You, Always Forever by RadioClub, NEEKA](https://open.spotify.com/track/5pCj2jYkId4bVp3JssibLN)
-- [Geronimo by Sheppard](https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en)
-- [Mistakes I&#39;ve Made - Radio Edit by Eelke Kleijn](https://open.spotify.com/track/5tkKIwo0R91Rp9ZPUilg7l)
-- [Pontos de Exclamação - Vintage Culture &amp; Future Class Remix by Jovem Dionisio, Vintage Culture, Future Class](https://open.spotify.com/track/25usEf5iGk9HL0LM9VTxue)
-- [Homie by Joris Delacroix](https://open.spotify.com/track/0hjwiba2gpwgq82VbiD7oS)
+- [She Drives Me Crazy by Fine Young Cannibals](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ)
+- [Rivers by Maple Sun, Alpas](https://open.spotify.com/track/2Jn1NetRmMs5MTZU9mVVpV)
+- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
+- [New Life by Wavey](https://open.spotify.com/track/3uvYzu0w2eidLXXBV7k4tr)
+- [Forget About It by Antoine Chambe, Tomode](https://open.spotify.com/track/1A1PZczza9n3I6l72bAGyN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
