@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (5 days ago)
 
 #### 🎧 What I have been listening
-- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
-- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
-- [Damn (You’ve Got Me Saying) by Galantis, David Guetta, MNEK](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj)
-- [Green Green Grass by George Ezra](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB)
-- [Trompeta by Willy William](https://open.spotify.com/track/30YQNcUdAsgfzORrTyfYn5)
+- [Say My Name by Dimitri Vegas &amp; Like Mike, Regard, Dimitri Vegas](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7)
+- [Down Under (feat. Colin Hay) by Luude, Colin Hay](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2)
+- [If You Really Love Me (How Will I Know) by David Guetta, MistaJam, John Newman](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd)
+- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
+- [Dive by Hot Shade, Mike Perry, Chris James](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
