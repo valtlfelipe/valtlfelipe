@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (6 days ago)
 
 #### 🎧 What I have been listening
+- [Love Not War (The Tampa Beat) by Jason Derulo, Nuka](https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm)
+- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
+- [Fading Like A Flower by Roxette, Galantis](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2)
+- [Bam Bam (feat. Ed Sheeran) by Camila Cabello, Ed Sheeran](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1)
 - [I&#39;m Not Here To Make Friends by Sam Smith, Calvin Harris, Jessie Reyez](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM)
-- [What Would You Do? by Joel Corry, David Guetta, Bryson Tiller](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv)
-- [Say My Name by Dimitri Vegas &amp; Like Mike, Regard, Dimitri Vegas](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7)
-- [Down Under (feat. Colin Hay) by Luude, Colin Hay](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2)
-- [If You Really Love Me (How Will I Know) by David Guetta, MistaJam, John Newman](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
