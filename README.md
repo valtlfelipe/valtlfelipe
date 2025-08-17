@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
 
 #### ⭐ Recent Stars
-- **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (today)
-- **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (3 days ago)
-- **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (4 days ago)
-- **[sst/opencode](https://github.com/sst/opencode)** - AI coding agent, built for the terminal. (5 days ago)
-- **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (5 days ago)
+- **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 day ago)
+- **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (4 days ago)
+- **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (5 days ago)
+- **[sst/opencode](https://github.com/sst/opencode)** - AI coding agent, built for the terminal. (6 days ago)
+- **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (6 days ago)
 
 #### 🎧 What I have been listening
 - [Say My Name by Dimitri Vegas &amp; Like Mike, Regard, Dimitri Vegas](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7)
