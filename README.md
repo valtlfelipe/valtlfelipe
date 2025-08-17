@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Love Not War (The Tampa Beat) by Jason Derulo, Nuka](https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm)
-- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
-- [Fading Like A Flower by Roxette, Galantis](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2)
-- [Bam Bam (feat. Ed Sheeran) by Camila Cabello, Ed Sheeran](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1)
-- [I&#39;m Not Here To Make Friends by Sam Smith, Calvin Harris, Jessie Reyez](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM)
+- [Some Nights by Class Fools](https://open.spotify.com/track/257CR1V62XFaFTy0H9veMx)
+- [Lady Love by Oden &amp; Fatzo, Camden Cox](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S)
+- [Mood (Feat. Caroline Byrne &amp; Neyl) by Ahmed Spins, Ankhoï, Caroline Byrne, Neyl](https://open.spotify.com/track/1dpVevoWQT7syIxcWDywWm)
+- [Somethin Bout You (feat. Betsy) by Holiday87, The Knocks, Betsy](https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b)
+- [Free (Do What U Want) by Pete Tong, Ultra Naté, LP Giobbi, Jules Buckley](https://open.spotify.com/track/6lVdhbN1xING12E926vWwI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
