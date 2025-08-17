@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (6 days ago)
 
 #### 🎧 What I have been listening
-- [Some Nights by Class Fools](https://open.spotify.com/track/257CR1V62XFaFTy0H9veMx)
-- [Lady Love by Oden &amp; Fatzo, Camden Cox](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S)
-- [Mood (Feat. Caroline Byrne &amp; Neyl) by Ahmed Spins, Ankhoï, Caroline Byrne, Neyl](https://open.spotify.com/track/1dpVevoWQT7syIxcWDywWm)
-- [Somethin Bout You (feat. Betsy) by Holiday87, The Knocks, Betsy](https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b)
-- [Free (Do What U Want) by Pete Tong, Ultra Naté, LP Giobbi, Jules Buckley](https://open.spotify.com/track/6lVdhbN1xING12E926vWwI)
+- [Apaixonadinha - Ao Vivo by Marília Mendonça, Léo Santana, Didá Banda Feminina](https://open.spotify.com/track/0rUL7vUZmCKxB0gS83W3aM)
+- [Cobertor de Orelha - Ao Vivo by Turma do Pagode](https://open.spotify.com/track/1XCKlzIqaehohdUTihetGN)
+- [Ai Se Eu Te Pego - Ao Vivo by Michel Teló](https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5)
+- [Vamos Beber (Joga o Copo Pro Alto) by DENNIS, João Lucas &amp; Marcelo, Ronaldinho Gaúcho](https://open.spotify.com/track/6Fm97GOxpVyW6vhGc46Wj9)
+- [Te Assumi Pro Brasil - Ao Vivo by Matheus &amp; Kauan](https://open.spotify.com/track/6P7Uodyh8g40Nyc3no6R8E)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
