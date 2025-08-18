@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sst/opencode](https://github.com/sst/opencode)** - AI coding agent, built for the terminal. (1 week ago)
 
 #### 🎧 What I have been listening
-- [About You by Trevor Okoren](https://open.spotify.com/track/4PgzIUJlWhSP5R4PppLcnV)
-- [Come Undone - Afro House Rmx by Spoke](https://open.spotify.com/track/4UQxTDOAmtzhGkKu9jA1W8)
-- [Beautiful Day by Aludra](https://open.spotify.com/track/3vECFj4Z92Z9Ak1a8koqkG)
-- [Feel Alive by Jean Elan, Cosmo Klein, luca santiago](https://open.spotify.com/track/6sK2P7CqETJAWvuUHMuvUQ)
-- [Sea of Dreams by Lady Ocean, Invece](https://open.spotify.com/track/2IDVqORJBbqzuf5WmVB8e9)
+- [Drive by Courtney Storm, Béatrice Dupont](https://open.spotify.com/track/5TmpcFPSQbCj3Ft6rKoRv3)
+- [Falling 4u by Trevor Okoren](https://open.spotify.com/track/5FZ5RfK1kX12mosf3SKONL)
+- [Holding You by Light Chaser](https://open.spotify.com/track/6dDhOM8xwxUn9NH4p4j86c)
+- [I Need A Miracle by Felipe Allenn](https://open.spotify.com/track/7Ka5Z0u0tnqFw7IG31EEHy)
+- [Let&#39;s disappear tonight - Radio Edit by Spoke](https://open.spotify.com/track/3CZDfvbHG6bQ0wYVjAaMqI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
