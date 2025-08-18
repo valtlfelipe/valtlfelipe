@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Feel Like Dancing by Recens, Coulson](https://open.spotify.com/track/4YpyXqgAkk9FMuTUhLTVKB)
-- [Sunny Days by Boehm](https://open.spotify.com/track/2cp5H1afTm5srcNOlcMRUW)
-- [Into The Blue (feat. kamille) by Will Sass, kamille](https://open.spotify.com/track/4pnTH9OQcR4hjK28TmuKM0)
-- [Catania by Agatino Romero, Conrow](https://open.spotify.com/track/0vLrOC3QioMpkRV6mnhjR2)
-- [(Summer) In Love by THAT KIND](https://open.spotify.com/track/2ut5qsqmtFUgGTXyRwtFNa)
+- [Concrete by Frigga](https://open.spotify.com/track/0K4YLPcF96YKHDypVJCJV9)
+- [Stay by Trevor Okoren, High Island](https://open.spotify.com/track/4H1FwGPPsVebXMazbGIqj2)
+- [Missing - Afro House Mix by Nicola Fasano, Jaydan Wolf](https://open.spotify.com/track/2wOklZvnLKH3TDFy3fUbKB)
+- [Everything You Do by Patrick Lite](https://open.spotify.com/track/247QsT8QFchKblRE69dgm9)
+- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
