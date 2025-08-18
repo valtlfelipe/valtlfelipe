@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sst/opencode](https://github.com/sst/opencode)** - AI coding agent, built for the terminal. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
-- [Less Is More by sundraze](https://open.spotify.com/track/6b6HqR4MWfm39ggME4uhp1)
-- [Never Leave You by DHALI, Georgie Keller](https://open.spotify.com/track/7sOlhhk90UZ7EUWqotk0h9)
-- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
-- [Going Insane - Radio Edit by HEIN&#43;KLEIN](https://open.spotify.com/track/021IjZBrVwyz2kiE0RduUB)
+- [O Nana by Onda Norte](https://open.spotify.com/track/2hOzB93C6mdzb2iZ9DAtt5)
+- [Osupa by Next Promises](https://open.spotify.com/track/2WBTBGqeaBLQHLbnUPI7kF)
+- [Lost in the Sound by Spoke](https://open.spotify.com/track/2G3s75KcPfuHyHYvhjYfGn)
+- [Lovers Arms by Golowko](https://open.spotify.com/track/6nigEObdWpdMzFJq805pax)
+- [Party With You by Robo the Chemist](https://open.spotify.com/track/1PgysDRXvjZhXw5Lwwa2lO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
