@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (6 days ago)
 
 #### 🎧 What I have been listening
-- [Never Been To Berlin - Jessi Selm &amp; Ariel Estrella Remix - Radio Edit by DHALI, Lili Pistorius, Jessi Selm, Ariel Estrella](https://open.spotify.com/track/4bTN0bMSU5dRT5XL8Ue0Jl)
-- [Rhythm of the Night by Ikarus, Michel Dj, MD DJ](https://open.spotify.com/track/69E2RjQKRQUMz9dglrhcH5)
-- [Tired by P.A.V](https://open.spotify.com/track/77Wy355qw4O5KgO7wGrv0f)
-- [Love in the Dark - Afro House Mix by Orhan Maze](https://open.spotify.com/track/2fzOQzxJfM0lohsaf763dY)
-- [Tell Me That You Love Me by Le P](https://open.spotify.com/track/2NKDjAVRSNzkkFNTaBBn9u)
+- [Heavy by LuvLess, Freddie Mudge](https://open.spotify.com/track/4oQYtbsHz7RjRcs9V9oPEo)
+- [Corner of My Mind by Crush Toast](https://open.spotify.com/track/21UdJOwe8OVWiCvMoofjBT)
+- [Greedy - AFRO HOUSE - Extended Mix by Noir Glacé](https://open.spotify.com/track/6esetSiQXuhgKmB8l38uDY)
+- [Lies by Nick Raff](https://open.spotify.com/track/32zB0FI9i0WscIAiW18NNQ)
+- [Save Me by Viva La Panda, Edmundo Silva, Justin Rhodes](https://open.spotify.com/track/4nsL7XMb1SKauCsaxqgvCz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
