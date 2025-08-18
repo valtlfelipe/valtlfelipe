@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Apaixonadinha - Ao Vivo by Marília Mendonça, Léo Santana, Didá Banda Feminina](https://open.spotify.com/track/0rUL7vUZmCKxB0gS83W3aM)
-- [Cobertor de Orelha - Ao Vivo by Turma do Pagode](https://open.spotify.com/track/1XCKlzIqaehohdUTihetGN)
-- [Ai Se Eu Te Pego - Ao Vivo by Michel Teló](https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5)
-- [Vamos Beber (Joga o Copo Pro Alto) by DENNIS, João Lucas &amp; Marcelo, Ronaldinho Gaúcho](https://open.spotify.com/track/6Fm97GOxpVyW6vhGc46Wj9)
-- [Te Assumi Pro Brasil - Ao Vivo by Matheus &amp; Kauan](https://open.spotify.com/track/6P7Uodyh8g40Nyc3no6R8E)
+- [Feel Like Dancing by Recens, Coulson](https://open.spotify.com/track/4YpyXqgAkk9FMuTUhLTVKB)
+- [Sunny Days by Boehm](https://open.spotify.com/track/2cp5H1afTm5srcNOlcMRUW)
+- [Into The Blue (feat. kamille) by Will Sass, kamille](https://open.spotify.com/track/4pnTH9OQcR4hjK28TmuKM0)
+- [Catania by Agatino Romero, Conrow](https://open.spotify.com/track/0vLrOC3QioMpkRV6mnhjR2)
+- [(Summer) In Love by THAT KIND](https://open.spotify.com/track/2ut5qsqmtFUgGTXyRwtFNa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
