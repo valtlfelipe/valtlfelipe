@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Concrete by Frigga](https://open.spotify.com/track/0K4YLPcF96YKHDypVJCJV9)
-- [Stay by Trevor Okoren, High Island](https://open.spotify.com/track/4H1FwGPPsVebXMazbGIqj2)
-- [Missing - Afro House Mix by Nicola Fasano, Jaydan Wolf](https://open.spotify.com/track/2wOklZvnLKH3TDFy3fUbKB)
-- [Everything You Do by Patrick Lite](https://open.spotify.com/track/247QsT8QFchKblRE69dgm9)
-- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
+- [Mamamiya by Choujaa, Iceboiy Ola](https://open.spotify.com/track/71PGjOGeKrd8pRvEPtTyOX)
+- [Alright (Tonight) - Club Edit by THAT KIND](https://open.spotify.com/track/3U9vLuMpppogJ9HqdbTcU9)
+- [I&#39;m Feeling Lonely - Radio Edit by DJ Roody](https://open.spotify.com/track/10qILABaeARHombLQlrBiZ)
+- [Closing Hour by Panuma, Tim Hughes](https://open.spotify.com/track/5m8yfomGrRuslN7B3PfF3C)
+- [HIDEAWAY - Navagio Beach Mix by Switch Disco, Tones And I](https://open.spotify.com/track/5m4VBlV0Brp0khQMdBrwod)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
