@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sst/opencode](https://github.com/sst/opencode)** - AI coding agent, built for the terminal. (1 week ago)
 
 #### 🎧 What I have been listening
-- [O Nana by Onda Norte](https://open.spotify.com/track/2hOzB93C6mdzb2iZ9DAtt5)
-- [Osupa by Next Promises](https://open.spotify.com/track/2WBTBGqeaBLQHLbnUPI7kF)
-- [Lost in the Sound by Spoke](https://open.spotify.com/track/2G3s75KcPfuHyHYvhjYfGn)
-- [Lovers Arms by Golowko](https://open.spotify.com/track/6nigEObdWpdMzFJq805pax)
-- [Party With You by Robo the Chemist](https://open.spotify.com/track/1PgysDRXvjZhXw5Lwwa2lO)
+- [About You by Trevor Okoren](https://open.spotify.com/track/4PgzIUJlWhSP5R4PppLcnV)
+- [Come Undone - Afro House Rmx by Spoke](https://open.spotify.com/track/4UQxTDOAmtzhGkKu9jA1W8)
+- [Beautiful Day by Aludra](https://open.spotify.com/track/3vECFj4Z92Z9Ak1a8koqkG)
+- [Feel Alive by Jean Elan, Cosmo Klein, luca santiago](https://open.spotify.com/track/6sK2P7CqETJAWvuUHMuvUQ)
+- [Sea of Dreams by Lady Ocean, Invece](https://open.spotify.com/track/2IDVqORJBbqzuf5WmVB8e9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
