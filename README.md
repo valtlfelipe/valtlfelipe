@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[sst/opencode](https://github.com/sst/opencode)** - AI coding agent, built for the terminal. (1 week ago)
 
 #### 🎧 What I have been listening
+- [Somewhere Only We know by AINT, Strobe](https://open.spotify.com/track/3F1fjh9YXPnloyyesbJYId)
+- [My Love by THAT KIND](https://open.spotify.com/track/52Ei6XM9evOhYavdKfnaUo)
+- [Messy Hopes (dreams, flickering bright) - Extended Mix by Future Dynamic](https://open.spotify.com/track/7euXpklRt03kHbZEvQ87C6)
+- [Kaleidoscope by Jarod Glawe, Markis, 88Birds](https://open.spotify.com/track/4eWpEoObcth4tnmDD2NowU)
 - [Hellium by Spoke](https://open.spotify.com/track/3LUhh14hh46ylmVSeFFPhW)
-- [Condor - Latroit Edition by Echolocation, Jordan Whitlock, Latroit](https://open.spotify.com/track/3VCmqCSjy1UpXE8lhuvID0)
-- [Getting By by Rock Da Cat](https://open.spotify.com/track/23XaFtPGUUjzLPqOcfZJRo)
-- [Give Me Love by THAT KIND](https://open.spotify.com/track/5wx8ilXSkwZ3b9btWZ4e1U)
-- [Crave by Soomeen, maywax](https://open.spotify.com/track/0CfbRotnyW7of2PtI1wj8G)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
