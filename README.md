@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)** - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery. (1 week ago)
 
 #### 🎧 What I have been listening
-- [Mamamiya by Choujaa, Iceboiy Ola](https://open.spotify.com/track/71PGjOGeKrd8pRvEPtTyOX)
-- [Alright (Tonight) - Club Edit by THAT KIND](https://open.spotify.com/track/3U9vLuMpppogJ9HqdbTcU9)
-- [I&#39;m Feeling Lonely - Radio Edit by DJ Roody](https://open.spotify.com/track/10qILABaeARHombLQlrBiZ)
-- [Closing Hour by Panuma, Tim Hughes](https://open.spotify.com/track/5m8yfomGrRuslN7B3PfF3C)
-- [HIDEAWAY - Navagio Beach Mix by Switch Disco, Tones And I](https://open.spotify.com/track/5m4VBlV0Brp0khQMdBrwod)
+- [I Was Made for Loving You - Radio Edit by HEIN&#43;KLEIN, Lisa Carter](https://open.spotify.com/track/2EYgUfwWtCYjXl5C5JfpUZ)
+- [Dangerous - Summer Tales Rmx by Spoke](https://open.spotify.com/track/5nUqBA2CTCFto4MPPJXpV2)
+- [On My Own by dusk:dawn](https://open.spotify.com/track/39vJcIx2GmmxVmDyZLSaqR)
+- [Right On Time by Panuma, Nina Carr](https://open.spotify.com/track/5OeQIoGuZXu0ufLlYsILza)
+- [Ecstasy by THAT KIND](https://open.spotify.com/track/2K1WjqzeMlnQ412x7msDEf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
