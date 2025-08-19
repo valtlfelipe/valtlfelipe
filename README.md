@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Palmtree - Balduin Remix by Mandelbarth, Balduin](https://open.spotify.com/track/2TI5o3Xzyv9QG4zKwL1XUc)
-- [Summer Breeze by Basti M, THE HOTEL LOBBY, Kimberly](https://open.spotify.com/track/1gcsH6FmnckcPzZq9ZbsmE)
-- [All U Want by Mati Troglia, TMPST, Anna-Sophia Henry](https://open.spotify.com/track/0H62FOrtpza6dWgp9SB7mm)
-- [Breaking Point by Jaron](https://open.spotify.com/track/0n0bfvh0TfOKW96qc3mq3K)
-- [I Belong To You by Joey Lanx, Fabio Vee, Idin Gorji, Helia Homam](https://open.spotify.com/track/2fPAMDuZSEE3tOrDPwStuo)
+- [Fall - Radio Edit by MRKO](https://open.spotify.com/track/5bHTtEZ6VffHJbyqnPTTny)
+- [Lost In You by AFROTECH](https://open.spotify.com/track/3HiIWEktwS11DqmpdRap8w)
+- [Open Your Eyes by Nick Raff](https://open.spotify.com/track/3Ebt1WALSn914WYdfCKV4B)
+- [Name of Love by Moritz Houwen](https://open.spotify.com/track/3ElbOy8W6X78ASAcV4RgTI)
+- [That&#39;s Alright by San Mateo Drive, Jake Neumar](https://open.spotify.com/track/5tOnvNzRUykrAbvb2heDWb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
