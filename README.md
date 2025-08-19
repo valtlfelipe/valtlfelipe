@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Heavy by LuvLess, Freddie Mudge](https://open.spotify.com/track/4oQYtbsHz7RjRcs9V9oPEo)
-- [Corner of My Mind by Crush Toast](https://open.spotify.com/track/21UdJOwe8OVWiCvMoofjBT)
-- [Greedy - AFRO HOUSE - Extended Mix by Noir Glacé](https://open.spotify.com/track/6esetSiQXuhgKmB8l38uDY)
-- [Lies by Nick Raff](https://open.spotify.com/track/32zB0FI9i0WscIAiW18NNQ)
-- [Save Me by Viva La Panda, Edmundo Silva, Justin Rhodes](https://open.spotify.com/track/4nsL7XMb1SKauCsaxqgvCz)
+- [Palmtree - Balduin Remix by Mandelbarth, Balduin](https://open.spotify.com/track/2TI5o3Xzyv9QG4zKwL1XUc)
+- [Summer Breeze by Basti M, THE HOTEL LOBBY, Kimberly](https://open.spotify.com/track/1gcsH6FmnckcPzZq9ZbsmE)
+- [All U Want by Mati Troglia, TMPST, Anna-Sophia Henry](https://open.spotify.com/track/0H62FOrtpza6dWgp9SB7mm)
+- [Breaking Point by Jaron](https://open.spotify.com/track/0n0bfvh0TfOKW96qc3mq3K)
+- [I Belong To You by Joey Lanx, Fabio Vee, Idin Gorji, Helia Homam](https://open.spotify.com/track/2fPAMDuZSEE3tOrDPwStuo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
