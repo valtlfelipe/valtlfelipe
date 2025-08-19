@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
+- [Unforgettable by LUMINAE, Feb, USAI](https://open.spotify.com/track/29y04ClehuGyTYVp9wHUfC)
+- [Through This by Julien Fade, maybealice](https://open.spotify.com/track/4N70Hwcdft6RxkdUzkX70s)
 - [One By One by Jarod Glawe, Chris Howard](https://open.spotify.com/track/5FEiLeD2OjhY0JcTepxPYC)
 - [Hold Me by Felipe Allenn](https://open.spotify.com/track/2hVSx0sUjHnfsWrEwvc24S)
 - [Way to You by TIANBO, Natasha Ghosh](https://open.spotify.com/track/1jPVPoYWarctEN78WhzpIm)
-- [I Will Not Stop by sundraze](https://open.spotify.com/track/1Rjm153BGhX8qcF9u34V9P)
-- [Illuminate by AINT](https://open.spotify.com/track/7golrrC213i0pLwckqcQ9S)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
