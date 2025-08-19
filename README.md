@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Couldn&#39;t Live by Aludra](https://open.spotify.com/track/5TaxbNHHMpXL0JyaB1GItW)
-- [Öland (Home) by sundraze](https://open.spotify.com/track/7bgQJ7YwH7y3yAPatvIAuy)
-- [Make It Right by Iskarelyn](https://open.spotify.com/track/74k50vucOmBvqsQRefrt2W)
-- [Why Don´t You Stay by aericsn, SITHEA](https://open.spotify.com/track/4AdUo27xG4KUGeO27p9iwj)
-- [Whenever by P.A.V](https://open.spotify.com/track/09AjysGQs2BsWowsMwrHUr)
+- [Solitude by Sum Wave, Bye Ocean](https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7)
+- [Like I Do by Iskarelyn, Edward Snellen](https://open.spotify.com/track/3O9Bqcv0H1onhXZvsJIQow)
+- [Cry by Summer Dusk, aiden](https://open.spotify.com/track/53tG6zWZwct6rMuCF1sLBu)
+- [Afterlight by P.A.V](https://open.spotify.com/track/6Pzyg261urVL99PHT5qnCl)
+- [Lost In Reverie by Abov](https://open.spotify.com/track/41eDf04A3U501HKXX1zwKQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
