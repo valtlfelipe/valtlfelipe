@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
-- [Into The Night by Chris Savor, HGenius](https://open.spotify.com/track/1UzjuGe8nqYEkNPovrFdy2)
-- [Side by Side by D.Polo](https://open.spotify.com/track/04kZlLhlqIS1JvfyW4z4oI)
-- [On My Own by dusk:dawn](https://open.spotify.com/track/39vJcIx2GmmxVmDyZLSaqR)
-- [California by KAAJO, Ren Ocean](https://open.spotify.com/track/5daRReqqfm4Kt5q6SrbusI)
+- [Hold Me Closer by fwd/slash](https://open.spotify.com/track/0CJkhThcJlUCRzb3CioKwn)
+- [Say It Right by noetic](https://open.spotify.com/track/4lrk4MonVk7yYrcQvoqbuX)
+- [solitude by just nearby, bayme](https://open.spotify.com/track/0wFcvbheLEZSvhy5FArEBH)
+- [Everything by Luna Blue](https://open.spotify.com/track/2ghq9KEbANGTVb0DSYmVbv)
+- [Just For A Moment by aericsn](https://open.spotify.com/track/15vGiPoZkC4GN09hVCFAuF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
