@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Hold Me Closer by fwd/slash](https://open.spotify.com/track/0CJkhThcJlUCRzb3CioKwn)
-- [Say It Right by noetic](https://open.spotify.com/track/4lrk4MonVk7yYrcQvoqbuX)
-- [solitude by just nearby, bayme](https://open.spotify.com/track/0wFcvbheLEZSvhy5FArEBH)
-- [Everything by Luna Blue](https://open.spotify.com/track/2ghq9KEbANGTVb0DSYmVbv)
-- [Just For A Moment by aericsn](https://open.spotify.com/track/15vGiPoZkC4GN09hVCFAuF)
+- [Faded by Naws, okafuwa](https://open.spotify.com/track/3qHF1mGiP37G41oA24CYhD)
+- [Open Sky by Duce, terro, FARLEY](https://open.spotify.com/track/4Qv2LPz6qyh3vuFq0MyB0U)
+- [Morning Bloom by Abov, Lonelysoul.](https://open.spotify.com/track/2RTBBewJONtsjF3L5gOIgR)
+- [Away by D.Polo](https://open.spotify.com/track/4H1jkw5TtzebNK7OpiSthG)
+- [Overexcited by Aludra](https://open.spotify.com/track/6iecAodYQ4kr1KLzj0CgOs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
