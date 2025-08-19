@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Symphony by Lust.](https://open.spotify.com/track/7JPnR1mG2F8ZxDZx7ODyCj)
-- [they tell you secrets by Roman Müller](https://open.spotify.com/track/5EU9blgTmzpKdrLaqn3TfT)
-- [Sky by D.Polo](https://open.spotify.com/track/6bKcw2ahC1wN76dUp2axtc)
-- [Liquid Sun by Sum Wave, Bye Ocean](https://open.spotify.com/track/6IefXHLqp3GFN7u49Tbe9K)
-- [Moss by Jörð](https://open.spotify.com/track/3sZQxpncC7jfRRMYKrhwR7)
+- [Emerald Dream by Lust.](https://open.spotify.com/track/1nCVPgKtxjGPrwOxeTxMQZ)
+- [Don&#39;t Wanna Let You Go by fwd/slash](https://open.spotify.com/track/6UZPpeLO9Clo8YCCwwmuP9)
+- [For Us by aiden, TAPI](https://open.spotify.com/track/3CVgJxpE0WiS7ZZshGu5WX)
+- [Whenever You Are Ready by Sons Of Maria](https://open.spotify.com/track/1VSkkQhNGDLsiHLxFmOEJ5)
+- [Never Get It Alright by MIZU.](https://open.spotify.com/track/60IT4I0OKCLGmNPFoQikp7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
