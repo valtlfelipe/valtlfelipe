@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Emerald Dream by Lust.](https://open.spotify.com/track/1nCVPgKtxjGPrwOxeTxMQZ)
-- [Don&#39;t Wanna Let You Go by fwd/slash](https://open.spotify.com/track/6UZPpeLO9Clo8YCCwwmuP9)
-- [For Us by aiden, TAPI](https://open.spotify.com/track/3CVgJxpE0WiS7ZZshGu5WX)
-- [Whenever You Are Ready by Sons Of Maria](https://open.spotify.com/track/1VSkkQhNGDLsiHLxFmOEJ5)
-- [Never Get It Alright by MIZU.](https://open.spotify.com/track/60IT4I0OKCLGmNPFoQikp7)
+- [Couldn&#39;t Live by Aludra](https://open.spotify.com/track/5TaxbNHHMpXL0JyaB1GItW)
+- [Öland (Home) by sundraze](https://open.spotify.com/track/7bgQJ7YwH7y3yAPatvIAuy)
+- [Make It Right by Iskarelyn](https://open.spotify.com/track/74k50vucOmBvqsQRefrt2W)
+- [Why Don´t You Stay by aericsn, SITHEA](https://open.spotify.com/track/4AdUo27xG4KUGeO27p9iwj)
+- [Whenever by P.A.V](https://open.spotify.com/track/09AjysGQs2BsWowsMwrHUr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
