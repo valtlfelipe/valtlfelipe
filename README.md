@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Faded by Naws, okafuwa](https://open.spotify.com/track/3qHF1mGiP37G41oA24CYhD)
-- [Open Sky by Duce, terro, FARLEY](https://open.spotify.com/track/4Qv2LPz6qyh3vuFq0MyB0U)
-- [Morning Bloom by Abov, Lonelysoul.](https://open.spotify.com/track/2RTBBewJONtsjF3L5gOIgR)
-- [Away by D.Polo](https://open.spotify.com/track/4H1jkw5TtzebNK7OpiSthG)
-- [Overexcited by Aludra](https://open.spotify.com/track/6iecAodYQ4kr1KLzj0CgOs)
+- [Symphony by Lust.](https://open.spotify.com/track/7JPnR1mG2F8ZxDZx7ODyCj)
+- [they tell you secrets by Roman Müller](https://open.spotify.com/track/5EU9blgTmzpKdrLaqn3TfT)
+- [Sky by D.Polo](https://open.spotify.com/track/6bKcw2ahC1wN76dUp2axtc)
+- [Liquid Sun by Sum Wave, Bye Ocean](https://open.spotify.com/track/6IefXHLqp3GFN7u49Tbe9K)
+- [Moss by Jörð](https://open.spotify.com/track/3sZQxpncC7jfRRMYKrhwR7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
