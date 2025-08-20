@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Back Home by San Mateo Drive](https://open.spotify.com/track/62357VXRLTPHCB7rUAusqG)
-- [Still With Francis by Duce](https://open.spotify.com/track/7MEJGPf7aGuiE01puSnhxW)
-- [Bohemian World by Sons Of Maria](https://open.spotify.com/track/64LUKmQUBPiLbstFs18sOH)
-- [Not The Only One by Planetopia](https://open.spotify.com/track/0bGq9gcGm1jyHUdYqoQtsY)
-- [Riven by aiden, bayme](https://open.spotify.com/track/6CjwrsiqAPkIwKQVGdb8Mb)
+- [Galaxy From Home by Aludra](https://open.spotify.com/track/1BTsjlr9xjyhsW8venOXrc)
+- [The Presence of You by Winter Kid](https://open.spotify.com/track/0whpNVhQ5QHJQINoKPPS6X)
+- [I Will Not Stop by sundraze](https://open.spotify.com/track/1Rjm153BGhX8qcF9u34V9P)
+- [Leave Your Love Behind by Planetopia](https://open.spotify.com/track/22siksMAbuz3lypsLUXQNM)
+- [Fluir by Etza](https://open.spotify.com/track/1XWWf8pNoq0V6KTmbOKxKJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
