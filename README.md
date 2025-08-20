@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Remember Me by Duce](https://open.spotify.com/track/5LU609mhTWuvoAzLUj7uNB)
-- [Tired by P.A.V](https://open.spotify.com/track/77Wy355qw4O5KgO7wGrv0f)
-- [Never Be Lonely by Planetopia](https://open.spotify.com/track/4zZsjbltSNBo1uGf6g9oKU)
-- [Lost Paradise by aiden](https://open.spotify.com/track/6GI2fwuJdcmrJ76QqgWszy)
-- [Alive by aiden](https://open.spotify.com/track/0n5QM4qVkFsVALlfNFY1kG)
+- [Back Home by San Mateo Drive](https://open.spotify.com/track/62357VXRLTPHCB7rUAusqG)
+- [Still With Francis by Duce](https://open.spotify.com/track/7MEJGPf7aGuiE01puSnhxW)
+- [Bohemian World by Sons Of Maria](https://open.spotify.com/track/64LUKmQUBPiLbstFs18sOH)
+- [Not The Only One by Planetopia](https://open.spotify.com/track/0bGq9gcGm1jyHUdYqoQtsY)
+- [Riven by aiden, bayme](https://open.spotify.com/track/6CjwrsiqAPkIwKQVGdb8Mb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
