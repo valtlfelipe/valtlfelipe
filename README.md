@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Galaxy From Home by Aludra](https://open.spotify.com/track/1BTsjlr9xjyhsW8venOXrc)
-- [The Presence of You by Winter Kid](https://open.spotify.com/track/0whpNVhQ5QHJQINoKPPS6X)
-- [I Will Not Stop by sundraze](https://open.spotify.com/track/1Rjm153BGhX8qcF9u34V9P)
-- [Leave Your Love Behind by Planetopia](https://open.spotify.com/track/22siksMAbuz3lypsLUXQNM)
-- [Fluir by Etza](https://open.spotify.com/track/1XWWf8pNoq0V6KTmbOKxKJ)
+- [Home (Baba) by Jörð](https://open.spotify.com/track/6W0iC6U7Fj3yAWMVfr2YaO)
+- [another day by just nearby](https://open.spotify.com/track/7KCcGdrTS9UPXfeUA5XRUr)
+- [Winters Fall by Lust.](https://open.spotify.com/track/074vM951JYu78ighFzD6nU)
+- [California by KAAJO, Ren Ocean](https://open.spotify.com/track/5daRReqqfm4Kt5q6SrbusI)
+- [Shallow Walls by LJ MASE, Skyknock, Jessie Lee Thetford](https://open.spotify.com/track/0pQ2qWfc6iGbdTUvEieR3u)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
