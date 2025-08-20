@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Solitude by Sum Wave, Bye Ocean](https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7)
-- [Like I Do by Iskarelyn, Edward Snellen](https://open.spotify.com/track/3O9Bqcv0H1onhXZvsJIQow)
-- [Cry by Summer Dusk, aiden](https://open.spotify.com/track/53tG6zWZwct6rMuCF1sLBu)
-- [Afterlight by P.A.V](https://open.spotify.com/track/6Pzyg261urVL99PHT5qnCl)
-- [Lost In Reverie by Abov](https://open.spotify.com/track/41eDf04A3U501HKXX1zwKQ)
+- [Inspire by P.A.V](https://open.spotify.com/track/24JM1EkCq1x3aJWT5EwTxE)
+- [Find by aiden](https://open.spotify.com/track/0ahwXxlike9WfVVzhJOdCT)
+- [Condor - Latroit Edition by Echolocation, Jordan Whitlock, Latroit](https://open.spotify.com/track/3VCmqCSjy1UpXE8lhuvID0)
+- [City Skylines by Sum Wave](https://open.spotify.com/track/4b8dj6bnkjoDhlUnEsGCYh)
+- [Get Back by Iskarelyn](https://open.spotify.com/track/1rik0RZub0cjSyjpQ4Bmtv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
