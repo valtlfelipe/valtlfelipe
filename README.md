@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[wilsonzlin/queued](https://github.com/wilsonzlin/queued)** - Highly durable simple queue service scalable to millions of operations per second (1 week ago)
 
 #### 🎧 What I have been listening
-- [Away by D.Polo](https://open.spotify.com/track/4H1jkw5TtzebNK7OpiSthG)
-- [Overexcited by Aludra](https://open.spotify.com/track/6iecAodYQ4kr1KLzj0CgOs)
-- [What Could Have Been by sundraze](https://open.spotify.com/track/0X3ks3uX8C3iXGFY9Qd2yG)
-- [Better by Iskarelyn](https://open.spotify.com/track/4mACgq9idslRsBBxbGOZH1)
-- [Awoken by San Mateo Drive](https://open.spotify.com/track/2D5Ocww5PsqzRcyeUUWCmL)
+- [Moss by Jörð](https://open.spotify.com/track/3sZQxpncC7jfRRMYKrhwR7)
+- [Everafter by Jeff Jasso](https://open.spotify.com/track/27e6i6rhi4iazmuzMpMEXj)
+- [Hiraeth by Lust.](https://open.spotify.com/track/4vvSxQ95pxHxIRaSvjYsr8)
+- [Solong by KAAJO](https://open.spotify.com/track/07Mxu21oLznRItoo3WCVWB)
+- [The One by D.Polo](https://open.spotify.com/track/7E29M3kXpuZG8Mn2xRVkli)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
