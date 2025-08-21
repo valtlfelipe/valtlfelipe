@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz)
-- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
-- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
-- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
-- [R U DOWN? by Loud Luxury](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD)
+- [In My Bones by Lost Frequencies, David Kushner](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco)
+- [Feels This Good by Sigala, Mae Muller, Caity Baser, Stefflon Don](https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep)
+- [ten by Fred again.., Jozzy](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB)
+- [Ocean by FISHER, AR/CO](https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII)
+- [Believe (Shooting Stars) by R3HAB, Mufasa &amp; Hypeman, Mufasa, RANI](https://open.spotify.com/track/7fJdto9euM593wybpCdEPV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
