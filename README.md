@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Forever Yours - Tim’s 2016 Ibiza Version by Avicii, Sandro Cavazza](https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT)
-- [Talk to me. by Bolden.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9)
-- [Darkest Nights by Christian Eberhard, Alejandro Zandes](https://open.spotify.com/track/3XlQoBHOf0QnUm0JrMuXyu)
-- [The Only Way by DARGZ](https://open.spotify.com/track/1V9GYXroUEuxUXYAzNkysN)
-- [Hooked On You (feat. Miya Miya) by Nic Fanciulli, Black Circle, MIYA MIYA](https://open.spotify.com/track/1zO8n7thTD0OAFeelfQpte)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
+- [Love Is The Only Thing by Lost Frequencies](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW)
+- [Everywhere by Babsy.](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG)
+- [True by CYRIL, Kita Alexander](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
