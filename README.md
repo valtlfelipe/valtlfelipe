@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (1 week ago)
 
 #### 🎧 What I have been listening
-- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
-- [Shades Of Love (feat. The Joy) by The Blessed Madonna, The Joy](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK)
-- [Always Get Through To You by Barry Can&#39;t Swim](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1)
-- [Lady Love by Oden &amp; Fatzo, Camden Cox](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S)
-- [Can We Go Back? by Tom Everett](https://open.spotify.com/track/7e2WHvLQ6uB4MZcJ8RrwAl)
+- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi)
+- [JOY (Up The Street) by Joy Anonymous](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98)
+- [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
+- [Paradis Blanc by Me &amp; George](https://open.spotify.com/track/1our0OFQADCr6XRU0dYPtt)
+- [Can&#39;t Get You out of My Head - Peggy Gou’s Midnight Remix by Kylie Minogue, Peggy Gou](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
