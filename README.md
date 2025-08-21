@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (1 week ago)
 
 #### 🎧 What I have been listening
-- [Good Shit by KILIMANJARO, LEILAH](https://open.spotify.com/track/3bGZFJeoFhM4jxqNtz4dnH)
-- [Happier (feat. Clementine Douglas) by The Blessed Madonna, Clementine Douglas](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv)
-- [Marseille by Catching Flies](https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v)
-- [Glad I Found You by Elderbrook, George FitzGerald](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK)
-- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
+- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
+- [Shades Of Love (feat. The Joy) by The Blessed Madonna, The Joy](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK)
+- [Always Get Through To You by Barry Can&#39;t Swim](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1)
+- [Lady Love by Oden &amp; Fatzo, Camden Cox](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S)
+- [Can We Go Back? by Tom Everett](https://open.spotify.com/track/7e2WHvLQ6uB4MZcJ8RrwAl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
