@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (1 week ago)
 
 #### 🎧 What I have been listening
-- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi)
-- [JOY (Up The Street) by Joy Anonymous](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98)
-- [How It Feels by Barry Can&#39;t Swim](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB)
-- [Paradis Blanc by Me &amp; George](https://open.spotify.com/track/1our0OFQADCr6XRU0dYPtt)
-- [Can&#39;t Get You out of My Head - Peggy Gou’s Midnight Remix by Kylie Minogue, Peggy Gou](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb)
+- [Sunshine by Elderbrook, Snakehips](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ)
+- [You and Me by The Magician](https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I)
+- [Close My Eyes by Rules](https://open.spotify.com/track/6nsGa3ha4ZbTpTUi8AZFud)
+- [places to be by Fred again.., Anderson .Paak, CHIKA](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J)
+- [Quiver by SILK](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
