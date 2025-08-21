@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [SAFE WITH ME (SECRETOS) by Jhay Rivas](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR)
-- [U&amp;ME by Dezko, CERES](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh)
-- [The One by Hannah Wants, ARA](https://open.spotify.com/track/2pPsZsrJD0RNEyOWLNi5SF)
-- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi)
-- [Real Love by Martin Garrix, Lloyiso](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj)
+- [Easy by Commodores](https://open.spotify.com/track/210g0ApTMDQvGFTWSnioAA)
+- [Is This Love - Montmartre Remix by Bob Marley &amp; The Wailers, MONTMARTRE](https://open.spotify.com/track/3DE2xnbdTDuatFubUV0soe)
+- [Back In Time by Freyer, Joel Winterflood](https://open.spotify.com/track/0FdVLK98RAdEoQNZnftoGh)
+- [Homie by Joris Delacroix](https://open.spotify.com/track/0hjwiba2gpwgq82VbiD7oS)
+- [Sure Thing by Impani, LU2VYK](https://open.spotify.com/track/41h0H10TYujH8h3rnPKRmN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
