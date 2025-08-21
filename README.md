@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
+I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (today)
@@ -9,11 +9,11 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (5 days ago)
 - **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (1 week ago)
 
-#### 🎧 What I have been listening
-- [Sunshine by Elderbrook, Snakehips](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ)
-- [You and Me by The Magician](https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I)
-- [Close My Eyes by Rules](https://open.spotify.com/track/6nsGa3ha4ZbTpTUi8AZFud)
-- [places to be by Fred again.., Anderson .Paak, CHIKA](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J)
-- [Quiver by SILK](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx)
+#### 🎧 Spotify recent tracks
+- [Happy Music by Supershy](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0)
+- [Praise Break by Bakermat](https://open.spotify.com/track/2bGaYqwsyiy0tq8ZqHel7M)
+- [Something About Your Love by SG Lewis](https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu)
+- [Self Love by BLOND:ISH](https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo)
+- [Both Of Us - Edit by Jayda G](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
