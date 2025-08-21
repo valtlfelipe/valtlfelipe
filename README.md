@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (1 week ago)
 
 #### 🎧 What I have been listening
-- [Children by Sum Wave](https://open.spotify.com/track/6HnZ4voVHJmmx8eLz809dX)
-- [Skies by D.Polo](https://open.spotify.com/track/7DVc5y0ESy2cA1t8Grfmxa)
-- [Into the Light by Iskarelyn, Odare](https://open.spotify.com/track/2CWKi6TOsjXuinlwBdpk4O)
-- [Holding On by Jörð](https://open.spotify.com/track/5AlibHgdNyyQVLNHTtX5Ok)
-- [Remember by Midnight Pass, Ruffnux](https://open.spotify.com/track/6JqO8gCbkx5eekwKyTr71o)
+- [Good Shit by KILIMANJARO, LEILAH](https://open.spotify.com/track/3bGZFJeoFhM4jxqNtz4dnH)
+- [Happier (feat. Clementine Douglas) by The Blessed Madonna, Clementine Douglas](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv)
+- [Marseille by Catching Flies](https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v)
+- [Glad I Found You by Elderbrook, George FitzGerald](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK)
+- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
