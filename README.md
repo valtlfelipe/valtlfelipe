@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [In My Bones by Lost Frequencies, David Kushner](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco)
-- [Feels This Good by Sigala, Mae Muller, Caity Baser, Stefflon Don](https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep)
-- [ten by Fred again.., Jozzy](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB)
-- [Ocean by FISHER, AR/CO](https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII)
-- [Believe (Shooting Stars) by R3HAB, Mufasa &amp; Hypeman, Mufasa, RANI](https://open.spotify.com/track/7fJdto9euM593wybpCdEPV)
+- [SAFE WITH ME (SECRETOS) by Jhay Rivas](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR)
+- [U&amp;ME by Dezko, CERES](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh)
+- [The One by Hannah Wants, ARA](https://open.spotify.com/track/2pPsZsrJD0RNEyOWLNi5SF)
+- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi)
+- [Real Love by Martin Garrix, Lloyiso](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
