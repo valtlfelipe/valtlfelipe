@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Transfeera, enthusiastic in technology and occasionally write about my experiences. Also a hobby photographer.
+I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
 
@@ -8,7 +8,7 @@ I'm [Felipe](https://felipevm.com), currently working as a Staff Engineer at Tra
 - **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
 {{- end }}
 
-#### 🎧 What I have been listening
+#### 🎧 Spotify recent tracks
 
 {{- range rss "https://tunefeed.app/api/feed/fa79b03d-c0be-48d2-a672-86d498e2266e/recent.xml" 5 }}
 - [{{ .Title }}]({{ .URL }})
