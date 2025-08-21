@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
-- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
-- [Love Is The Only Thing by Lost Frequencies](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW)
-- [Everywhere by Babsy.](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG)
-- [True by CYRIL, Kita Alexander](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm)
+- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz)
+- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
+- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
+- [Water by Tyla, Marshmello](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4)
+- [R U DOWN? by Loud Luxury](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
