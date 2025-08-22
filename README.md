@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Hold Me Closer - Joel Corry Remix by Elton John, Britney Spears, Joel Corry](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl)
-- [Lil Boo Thang - Galantis Remix by Paul Russell, Galantis](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0)
-- [Sacrifice (Remix) (feat. Swedish House Mafia) by The Weeknd, Swedish House Mafia](https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG)
-- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5vVND8Mey78LZaljL8Nmpd)
-- [Peru - Peace Control Remix by Fireboy DML, Peace Control](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN)
+- [Unholy (feat. Kim Petras) - Disclosure Remix by Sam Smith, Kim Petras, Disclosure](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5)
+- [exes - Regard Remix by Tate McRae, Regard](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA)
+- [Can&#39;t Get You out of My Head - Peggy Gou’s Midnight Remix by Kylie Minogue, Peggy Gou](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb)
+- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
+- [How Will I Know by Whitney Houston, Clean Bandit](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
