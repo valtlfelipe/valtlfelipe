@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [You Were Right by RÜFÜS DU SOL](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz)
-- [Drivers License by Karma Child, WISEKIDS](https://open.spotify.com/track/6xg4Auc6lQ75fTuzckPdMF)
-- [So Sorry by Rudimental, Skream](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU)
-- [Elements Of A New Life by VER:WEST, Tiësto](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs)
-- [Baltasound by Marco Dalla Villa](https://open.spotify.com/track/3KDcZtyZnYAK8eagMQWcc5)
+- [The Way by Mary Mesk, Curol](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo)
+- [Gotta Get Thru This by Le Boeuf](https://open.spotify.com/track/61IqoZPM9h4DVJWHYSZAW5)
+- [Calabria (feat. Fallen Roses, Lujavo &amp; Lunis) by Dance Fruits Music, DMNDS, Fallen Roses, Lunis, Lujavo](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46)
+- [Where The Lights Are Low - Mike Williams Remix by Toby Romeo, Felix Jaehn, FAULHABER, Mike Williams](https://open.spotify.com/track/6k3Oxg6tgRGFxN0ilByxZ4)
+- [Feel The Vibe - Keanu Silva Remix by DJ Kuba, Neitan, Keanu Silva](https://open.spotify.com/track/05rYZ91Ii5ho9MhO9dcSqA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
