@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The Way by Mary Mesk, Curol](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo)
-- [Gotta Get Thru This by Le Boeuf](https://open.spotify.com/track/61IqoZPM9h4DVJWHYSZAW5)
-- [Calabria (feat. Fallen Roses, Lujavo &amp; Lunis) by Dance Fruits Music, DMNDS, Fallen Roses, Lunis, Lujavo](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46)
-- [Where The Lights Are Low - Mike Williams Remix by Toby Romeo, Felix Jaehn, FAULHABER, Mike Williams](https://open.spotify.com/track/6k3Oxg6tgRGFxN0ilByxZ4)
-- [Feel The Vibe - Keanu Silva Remix by DJ Kuba, Neitan, Keanu Silva](https://open.spotify.com/track/05rYZ91Ii5ho9MhO9dcSqA)
+- [Blessings by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z)
+- [Toxic by Chris Lake, Ragie Ban](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO)
+- [Lioness - Argy Remix by Swedish House Mafia, Niki &amp; The Dove, Argy](https://open.spotify.com/track/65baOP5OngpGwLOeFI1drl)
+- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
+- [Be My Lover (feat. La Bouche) - 2023 Mix by Hypaton, David Guetta, La Bouche](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
