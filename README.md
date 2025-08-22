@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Goodies by Dillon Francis](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG)
-- [Darkness In Me by Steve Angello, Modern Tales](https://open.spotify.com/track/1YLMr6JAwM1HhKJdSnvNjX)
-- [Dreamin (feat. Daya) - Anyma Remix by Dom Dolla, Anyma, Daya](https://open.spotify.com/track/7MtmQJPiZiyNbp8Pnjv5e5)
-- [I Follow Rivers by Tiësto, Oaks](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3)
-- [SOS by Cassian](https://open.spotify.com/track/7pdI0NvmX1AstoqafRMcsb)
+- [Hold Me Closer - Joel Corry Remix by Elton John, Britney Spears, Joel Corry](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl)
+- [Lil Boo Thang - Galantis Remix by Paul Russell, Galantis](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0)
+- [Sacrifice (Remix) (feat. Swedish House Mafia) by The Weeknd, Swedish House Mafia](https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG)
+- [Houdini - Adam Port Mix by Dua Lipa, Adam Port](https://open.spotify.com/track/5vVND8Mey78LZaljL8Nmpd)
+- [Peru - Peace Control Remix by Fireboy DML, Peace Control](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
