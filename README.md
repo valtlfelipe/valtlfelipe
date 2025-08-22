@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[vitodeploy/vito](https://github.com/vitodeploy/vito)** - Free and Self-Hosted  Server Management Tool (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Back 2 Back by Dazy Chain](https://open.spotify.com/track/69OSi3yiy5h8le8n6X1MyT)
-- [Drink Water (feat. Jon Bellion and Fireboy DML) by Jon Batiste, Jon Bellion, Fireboy DML](https://open.spotify.com/track/0vovnhziMYImdMsEDPncA8)
-- [Love Tonight (David Guetta Remix Edit) by Shouse, David Guetta](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP)
-- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
-- [Won&#39;t Forget You (Edit) by Shouse](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ)
+- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC)
+- [Gemini - Ocean Edit by David Bay](https://open.spotify.com/track/7jL8WUz7wuko9csqPjElyJ)
+- [Love Cost by Zach Golden, QBSmith](https://open.spotify.com/track/50OkYBKaEf9H4apzq5opHj)
+- [Talamanca - Robin Schulz Remix by BURNS, Robin Schulz](https://open.spotify.com/track/6kZnMNLj1MnIJTM98yHsz5)
+- [I Love You, Always Forever by RadioClub, NEEKA](https://open.spotify.com/track/5pCj2jYkId4bVp3JssibLN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
