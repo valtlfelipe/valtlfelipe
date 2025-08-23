@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [More Than A Woman - SG&#39;s Paradise Edit by Bee Gees, SG Lewis](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J)
-- [Say My Name - Remix by Morgan Seatree, Florence &#43; The Machine](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32)
-- [New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix by Gorillaz, Tame Impala, Dom Dolla, Bootie Brown](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON)
-- [Little Things x Gypsy Woman - L BEATS MASHUP by Jorja Smith](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP)
-- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [One On One (Cerrone Remix) by The Knocks, Sofi Tukker, Cerrone](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM)
+- [Lovin You by 49th &amp; Main](https://open.spotify.com/track/3scjn1vbAqmJiCS2YcBeXN)
+- [Take You Back by Sgt Slick](https://open.spotify.com/track/3z3xd2EGeoShxJFqt51PzS)
+- [Lifetime - Dimitri From Paris &#39;Cruising Attitude&#39; Remix by SG Lewis, Dimitri From Paris](https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc)
+- [Temptation by Eden Prince](https://open.spotify.com/track/6QVjXrRFyDt24wT8DkiYnh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
