@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [About Damn Time - Purple Disco Machine Remix by Lizzo, Purple Disco Machine](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI)
-- [Peru - Peace Control Remix by Fireboy DML, Peace Control](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN)
-- [greedy - cassö remix by Tate McRae, cassö](https://open.spotify.com/track/4MhxagNeAqtTdy9ht8tQo5)
-- [Raspão (feat. Simone &amp; Simaria) - Ao Vivo by Henrique &amp; Diego, Simone &amp; Simaria](https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo)
-- [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
+- [Cruel Summer - LP Giobbi Remix by Taylor Swift, LP Giobbi](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS)
+- [The Best Part of Life - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel)
+- [Moth To A Flame (feat. The Weeknd) - Adriatique Remix by Swedish House Mafia, Adriatique, The Weeknd](https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID)
+- [Summertime - Imanbek Remix by Lana Del Rey, Imanbek](https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5)
+- [Show Me Love - Dubdogz Remix by Laidback Luke, Steve Angello, Robin S, Dubdogz](https://open.spotify.com/track/2I47tKr43YVA2FKRZP3EX7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
