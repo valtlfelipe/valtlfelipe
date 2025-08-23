@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Cruel Summer - LP Giobbi Remix by Taylor Swift, LP Giobbi](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS)
-- [The Best Part of Life - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel)
-- [Moth To A Flame (feat. The Weeknd) - Adriatique Remix by Swedish House Mafia, Adriatique, The Weeknd](https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID)
-- [Summertime - Imanbek Remix by Lana Del Rey, Imanbek](https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5)
-- [Show Me Love - Dubdogz Remix by Laidback Luke, Steve Angello, Robin S, Dubdogz](https://open.spotify.com/track/2I47tKr43YVA2FKRZP3EX7)
+- [Little Things x Gypsy Woman - L BEATS MASHUP by Jorja Smith](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP)
+- [Edge of Seventeen by Wuki](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB)
+- [I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix by Whitney Houston, David Solomon](https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg)
+- [Unstoppable - R3HAB Remix by Sia, R3HAB](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq)
+- [ALL MY LOVE - PNAU x Coldplay by Coldplay, PNAU](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
