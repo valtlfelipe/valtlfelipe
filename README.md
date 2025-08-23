@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [One On One (Cerrone Remix) by The Knocks, Sofi Tukker, Cerrone](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM)
-- [Lovin You by 49th &amp; Main](https://open.spotify.com/track/3scjn1vbAqmJiCS2YcBeXN)
-- [Take You Back by Sgt Slick](https://open.spotify.com/track/3z3xd2EGeoShxJFqt51PzS)
 - [Lifetime - Dimitri From Paris &#39;Cruising Attitude&#39; Remix by SG Lewis, Dimitri From Paris](https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc)
+- [Out Of My Mind by Tiffy Vera](https://open.spotify.com/track/6oyXV4ppRcEPGOkgSK68CL)
 - [Temptation by Eden Prince](https://open.spotify.com/track/6QVjXrRFyDt24wT8DkiYnh)
+- [Ordinary Love by Roosevelt](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp)
+- [One On One (Cerrone Remix) by The Knocks, Sofi Tukker, Cerrone](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
