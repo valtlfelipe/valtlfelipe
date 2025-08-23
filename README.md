@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [About Damn Time - Purple Disco Machine Remix by Lizzo, Purple Disco Machine](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI)
+- [Peru - Peace Control Remix by Fireboy DML, Peace Control](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN)
+- [greedy - cassö remix by Tate McRae, cassö](https://open.spotify.com/track/4MhxagNeAqtTdy9ht8tQo5)
 - [Raspão (feat. Simone &amp; Simaria) - Ao Vivo by Henrique &amp; Diego, Simone &amp; Simaria](https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo)
 - [Love Again - Imanbek Remix by Dua Lipa, Imanbek](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT)
-- [Unholy (feat. Kim Petras) - Disclosure Remix by Sam Smith, Kim Petras, Disclosure](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5)
-- [exes - Regard Remix by Tate McRae, Regard](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA)
-- [Can&#39;t Get You out of My Head - Peggy Gou’s Midnight Remix by Kylie Minogue, Peggy Gou](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
