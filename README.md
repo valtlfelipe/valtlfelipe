@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Forever by NOWË](https://open.spotify.com/track/16SimzoFSebl6zOuSxB0r2)
-- [Deep Of The Night by GoldFish, Diamond Thug](https://open.spotify.com/track/5FH8FTgGYT8sjXHMQtviC3)
-- [What We Had by Zeni N](https://open.spotify.com/track/29YQjXxBkDAY8xStsqSJJX)
-- [Free Fallin&#39; by Jon Giurleo, twoDB, Capri Everitt](https://open.spotify.com/track/40Rbn8JuAKRY7ZNZAZc7sJ)
-- [Waikiki - Original Mix by Deep Chills](https://open.spotify.com/track/1rDOlWSjn7HnwjEqowZoBj)
+- [Games Continued (Mixed) by GoldFish, Bakermat, Malou](https://open.spotify.com/track/0TsTNcoBmrxWutfBCEPpUo)
+- [Alone - Radio Mix by Zeni N, Erdit Mertiri](https://open.spotify.com/track/1ort0vNLVlF04nVisrJS1N)
+- [LOS VOLTAJE by Sayfalse, Yb Wasg&#39;ood, Ariis](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx)
+- [Your Girl by GEPPS](https://open.spotify.com/track/0QyTftwKiEdqReVB1NwHfR)
+- [Satisfy - Mart Radio Edit by Nora En Pure](https://open.spotify.com/track/6hzQuQ1vwvC4sL2kRRyHmH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
