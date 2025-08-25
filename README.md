@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I&#39;m Complete by TRIP RGAZZI](https://open.spotify.com/track/3bx4uyLhk7S3oEZd3Ad8qf)
-- [Higher Power by Gryffin, Lavern, AR/CO](https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O)
-- [Everything Is Changing by GoldFish, Julia Church](https://open.spotify.com/track/69cPOjM29imZFpOJGEW3rW)
-- [The Waves by Ilan Bluestone, Ellen Smith](https://open.spotify.com/track/5pmCqYrjCOVnohmY6Qi95R)
-- [Messy Hopes (dreams, flickering bright) - Extended Mix by Future Dynamic](https://open.spotify.com/track/7euXpklRt03kHbZEvQ87C6)
+- [Dark Disco by Robo the Chemist](https://open.spotify.com/track/5xdIQVrZ4kGDKroly10Ye9)
+- [Crazy by Myles Lloyd, BUNT.](https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF)
+- [Summerbreeze by Deep Chills](https://open.spotify.com/track/7B4XAb31rG4l8UWeSpiH8U)
+- [Going Home by GoldFish, Max Vidima](https://open.spotify.com/track/4o5Yo3S0rP6c2H7Jy8stJd)
+- [One Kiss by CLYROX](https://open.spotify.com/track/5C5pR19l1ggMLs4YH6d12H)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
