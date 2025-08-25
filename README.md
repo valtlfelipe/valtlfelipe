@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Holy Place by Chris Murphy, Darla Jade](https://open.spotify.com/track/66P8Qb11ZSkvlDBcoKYMCo)
-- [When I&#39;m Alone by GoldFish, Łaszewo](https://open.spotify.com/track/65MAYFZGyPFoqBdebOwa5l)
-- [No Tomorrow by DJ HEARTSTRING, SWIM, Memphis LK](https://open.spotify.com/track/3TxmwHqYfdMGqwumcqyGlD)
-- [I Feel Alive by GoodLuck](https://open.spotify.com/track/1OGExuCxinf5KGCMxcFYVq)
-- [MAGIC (feat. babyidontlikeyou) by Gryffin, babyidontlikeyou](https://open.spotify.com/track/1Pr7NQ5DvkKQEflHASvyBF)
+- [Safe &amp; Sound by Ilan Bluestone, Natalie Shay](https://open.spotify.com/track/6ygiY3N5l6yUBnCckUEtRy)
+- [Legendary by NOWË](https://open.spotify.com/track/6NVH0DsrGSHK51jZhxQw0a)
+- [Groove Bot by Robo the Chemist](https://open.spotify.com/track/1jOlSFH38y1w83HDXJoyPA)
+- [If Summer Was A Sound - DeepFish Remix by GoldFish, Malou](https://open.spotify.com/track/4RXM2gJBFFqhMPeXkUQsNi)
+- [Return Of The Mack - Seeb Remix by Mark Morrison, Seeb](https://open.spotify.com/track/2UDNcZpCJUzIUISUaA4HBS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
