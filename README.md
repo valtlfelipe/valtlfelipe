@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Dark Disco by Robo the Chemist](https://open.spotify.com/track/5xdIQVrZ4kGDKroly10Ye9)
-- [Crazy by Myles Lloyd, BUNT.](https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF)
-- [Summerbreeze by Deep Chills](https://open.spotify.com/track/7B4XAb31rG4l8UWeSpiH8U)
-- [Going Home by GoldFish, Max Vidima](https://open.spotify.com/track/4o5Yo3S0rP6c2H7Jy8stJd)
-- [One Kiss by CLYROX](https://open.spotify.com/track/5C5pR19l1ggMLs4YH6d12H)
+- [Holy Place by Chris Murphy, Darla Jade](https://open.spotify.com/track/66P8Qb11ZSkvlDBcoKYMCo)
+- [When I&#39;m Alone by GoldFish, Łaszewo](https://open.spotify.com/track/65MAYFZGyPFoqBdebOwa5l)
+- [No Tomorrow by DJ HEARTSTRING, SWIM, Memphis LK](https://open.spotify.com/track/3TxmwHqYfdMGqwumcqyGlD)
+- [I Feel Alive by GoodLuck](https://open.spotify.com/track/1OGExuCxinf5KGCMxcFYVq)
+- [MAGIC (feat. babyidontlikeyou) by Gryffin, babyidontlikeyou](https://open.spotify.com/track/1Pr7NQ5DvkKQEflHASvyBF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
