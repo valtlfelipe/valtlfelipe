@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Make Me Feel Better - 2025 Edit by Alex Adair](https://open.spotify.com/track/0GqZ3deuRcromFjc404K4M)
-- [Black Out Days (Stay Away) by Ian Asher, Phantogram](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)
-- [iTrack - Radio Edit by Tim Berg, Otto Knows, Oliver Ingrosso](https://open.spotify.com/track/7x8PQqJ3FZfWfWNA49Z6Y5)
-- [Still Together - Tonystar &amp; Syntheticsax (Sax Radio Mix) by Zeni N, Erdit Mertiri](https://open.spotify.com/track/2vfzYjt1BbNxr2y1iKV55e)
-- [Move Your Feet - Radio Edit by Angelo Ferreri, Karl8 &amp; Andrea Monta](https://open.spotify.com/track/6EBF2Yd2lMnEkGb4A6j3Pf)
+- [I&#39;m Complete by TRIP RGAZZI](https://open.spotify.com/track/3bx4uyLhk7S3oEZd3Ad8qf)
+- [Higher Power by Gryffin, Lavern, AR/CO](https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O)
+- [Everything Is Changing by GoldFish, Julia Church](https://open.spotify.com/track/69cPOjM29imZFpOJGEW3rW)
+- [The Waves by Ilan Bluestone, Ellen Smith](https://open.spotify.com/track/5pmCqYrjCOVnohmY6Qi95R)
+- [Messy Hopes (dreams, flickering bright) - Extended Mix by Future Dynamic](https://open.spotify.com/track/7euXpklRt03kHbZEvQ87C6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
