@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Good To Be Me by Matoma, Good Humans, Kunfetti](https://open.spotify.com/track/5usmbknfXzvvIWNPJf87ZO)
-- [Langa (feat. SDY) by Paxel](https://open.spotify.com/track/10bOy5RH28W1gHcF5u3am8)
-- [Make You Better by MistaJam, Vula](https://open.spotify.com/track/63JiWhOUaa2V3Xy7XDHu2h)
-- [Golden by HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS)
-- [Little Lies by GoldFish](https://open.spotify.com/track/56f7rAwNVbANZjLvWqiQE0)
+- [Make Me Feel Better - 2025 Edit by Alex Adair](https://open.spotify.com/track/0GqZ3deuRcromFjc404K4M)
+- [Black Out Days (Stay Away) by Ian Asher, Phantogram](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)
+- [iTrack - Radio Edit by Tim Berg, Otto Knows, Oliver Ingrosso](https://open.spotify.com/track/7x8PQqJ3FZfWfWNA49Z6Y5)
+- [Still Together - Tonystar &amp; Syntheticsax (Sax Radio Mix) by Zeni N, Erdit Mertiri](https://open.spotify.com/track/2vfzYjt1BbNxr2y1iKV55e)
+- [Move Your Feet - Radio Edit by Angelo Ferreri, Karl8 &amp; Andrea Monta](https://open.spotify.com/track/6EBF2Yd2lMnEkGb4A6j3Pf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
