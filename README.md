@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Lovin You by 49th &amp; Main](https://open.spotify.com/track/3scjn1vbAqmJiCS2YcBeXN)
-- [Take You Back by Sgt Slick](https://open.spotify.com/track/3z3xd2EGeoShxJFqt51PzS)
-- [Dreamer by Flevans](https://open.spotify.com/track/7BVg7i9g2khxnXuSWROE6I)
-- [Lifetime - Dimitri From Paris &#39;Cruising Attitude&#39; Remix by SG Lewis, Dimitri From Paris](https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc)
-- [Out Of My Mind by Tiffy Vera](https://open.spotify.com/track/6oyXV4ppRcEPGOkgSK68CL)
+- [Desire by Ian Asher, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0)
+- [Loving Touch - Edit by BURNS](https://open.spotify.com/track/66gN2X2yIMR51Y2jRkJROa)
+- [Breathe - Nora En Pure Remix by Seeb, Neev, Nora En Pure](https://open.spotify.com/track/4jF1T9NqVP6IwG8rhQgw9p)
+- [Ain&#39;t No Groove by A/K, Albert Gold](https://open.spotify.com/track/4zXfaHeOUZzUJpTdVzhTOt)
+- [Airplane Mode by GEPPS](https://open.spotify.com/track/1w9xdgK0XAkAdn31cHPsCL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
