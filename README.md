@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Safe &amp; Sound by Ilan Bluestone, Natalie Shay](https://open.spotify.com/track/6ygiY3N5l6yUBnCckUEtRy)
-- [Legendary by NOWË](https://open.spotify.com/track/6NVH0DsrGSHK51jZhxQw0a)
-- [Groove Bot by Robo the Chemist](https://open.spotify.com/track/1jOlSFH38y1w83HDXJoyPA)
-- [If Summer Was A Sound - DeepFish Remix by GoldFish, Malou](https://open.spotify.com/track/4RXM2gJBFFqhMPeXkUQsNi)
-- [Return Of The Mack - Seeb Remix by Mark Morrison, Seeb](https://open.spotify.com/track/2UDNcZpCJUzIUISUaA4HBS)
+- [Gonna Do by MRKO, Sophia May](https://open.spotify.com/track/0L6DKxzgsWcE9AG6iOWUug)
+- [Need You Tonight - Le Youth Remix by Latroit, Pretty Garter, Le Youth](https://open.spotify.com/track/2MZZGvkgtVTnfg7UL3Kh5t)
+- [If I Could Find by GoldFish](https://open.spotify.com/track/4DPaasIEdcYC6N81QIz2vZ)
+- [Someone Like Her - Spiros Hamza Remix by Zeni N, Spiros Hamza](https://open.spotify.com/track/4zeK4KwvpeZC9EOZg0Xrv2)
+- [The Way It Is by Damaui](https://open.spotify.com/track/5zb1yFjxq7ctq9hMhNPukr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
