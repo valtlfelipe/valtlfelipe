@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Afterlight - the deep sound edit by Mike DelVero](https://open.spotify.com/track/3vHsHBBUgqz6ibw6hJEWUS)
-- [Baby Come Back by Kurtis Mantronik](https://open.spotify.com/track/1U7LOQqPVlySpKK675AgsC)
-- [Trust You by MistaJam, Scott Quinn](https://open.spotify.com/track/4zGReDJNtrZkxxNUxgLu3Y)
-- [One by Matoma, Rufus](https://open.spotify.com/track/1ZoGlNBKFzjxvSNUFyHqSs)
-- [No One Knows by Tobtok, STO CULTR](https://open.spotify.com/track/6v1c3b1SjKJV3d4Jw1jxld)
+- [Find the Light by Joey McCrilley](https://open.spotify.com/track/2fMTIOfv8jzsDyHGnHbDlz)
+- [Hypnotic Tango - Not Ready Remix by My Mine, Not Ready](https://open.spotify.com/track/0t17UiUpuSszMFx4y3tzHl)
+- [Night Out by Kedam](https://open.spotify.com/track/7texBUhFxiH5nsSYPKnJ8Y)
+- [Overdrive by VLX, SECMOS](https://open.spotify.com/track/247BmEjUfn85RWghNwJZsf)
+- [Just Me Now by GoldFish, Dimmi](https://open.spotify.com/track/53NEQrpL1uxa6zOkhnkBYe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
