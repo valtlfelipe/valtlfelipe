@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [R.E.M. by DJ Susan](https://open.spotify.com/track/0Bpi82sopKArwq7LPycm31)
-- [Close To Me by Mike D&#39; Jais](https://open.spotify.com/track/4sfIty6Lt1AcILdBFCjYX1)
-- [Fuck The What (TISM) by Karma Child](https://open.spotify.com/track/43NolA5tTy7c2dn7Ds7NLe)
-- [You &#43; Me by Tinx &amp; Lucas](https://open.spotify.com/track/2mLdRYukKTIhukKsysygAl)
-- [Your Favorite Song by APE, Astrid James](https://open.spotify.com/track/6DUoSZfPiO6XdSg1QZXJc0)
+- [Wanna Dance by Starfox](https://open.spotify.com/track/3BndKrLnqcemcxATp0EdhY)
+- [Something In The Air by 22Bullets, Pascal Letoublon, MERYLL](https://open.spotify.com/track/4tt0zu0njMDCAHWeGGI1LC)
+- [Lucky Ones by Don Diablo](https://open.spotify.com/track/5aYA3xB53IuRAMp0jZ1al1)
+- [Norma Jean - Original Mix by Nora En Pure](https://open.spotify.com/track/68TvZBW1D6r5ArRgFxf5cg)
+- [Feel So High (feat. JordinLaine) (Pegato Remix) by Eklo, Pegato, JordinLaine](https://open.spotify.com/track/4SwL4ZshYgrZG0luM7aoot)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
