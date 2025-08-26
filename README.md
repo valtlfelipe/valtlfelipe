@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Journey (Take Me Where You Wanna) by Don Diablo](https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi)
-- [Pause &amp; Breathe by Ilan Bluestone, Diandra Faye](https://open.spotify.com/track/3yBWTc6c55QwUoyWy88QHA)
-- [Pool - Gravagerz Version by Gravagerz, kiki wera](https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO)
-- [Won’t Follow You Home by Matoma, James Droll](https://open.spotify.com/track/210m5MMp5LW9iq90LpCnuN)
-- [Used To Do - Dance Version by Trevis](https://open.spotify.com/track/5UPfw31CJ3AfgIqy5SWn8q)
+- [Afterlight - the deep sound edit by Mike DelVero](https://open.spotify.com/track/3vHsHBBUgqz6ibw6hJEWUS)
+- [Baby Come Back by Kurtis Mantronik](https://open.spotify.com/track/1U7LOQqPVlySpKK675AgsC)
+- [Trust You by MistaJam, Scott Quinn](https://open.spotify.com/track/4zGReDJNtrZkxxNUxgLu3Y)
+- [One by Matoma, Rufus](https://open.spotify.com/track/1ZoGlNBKFzjxvSNUFyHqSs)
+- [No One Knows by Tobtok, STO CULTR](https://open.spotify.com/track/6v1c3b1SjKJV3d4Jw1jxld)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
