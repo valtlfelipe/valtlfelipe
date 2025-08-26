@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [One On One (Cerrone Remix) by The Knocks, Sofi Tukker, Cerrone](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM)
 - [Hyperreal (Middle of the Night) by Nora En Pure, Robinson](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS)
 - [All About You by Antoine Chambe](https://open.spotify.com/track/08Klc9DeFrL8GBm5IDNhMS)
 - [Take Me To The Sunshine (feat. BullySongs) by Matoma, SUPER-Hi, BullySongs](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5)
 - [HIDEAWAY - Navagio Beach Mix by Switch Disco, Tones And I](https://open.spotify.com/track/5m4VBlV0Brp0khQMdBrwod)
-- [Corner of My Mind by Crush Toast](https://open.spotify.com/track/21UdJOwe8OVWiCvMoofjBT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
