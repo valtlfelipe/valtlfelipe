@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[productdevbook/nitroping](https://github.com/productdevbook/nitroping)** - Open-source, self-hosted push notification service built with Nuxt 4 &amp; Nitro. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hold Me by Morgan Seatree, Abi Flynn](https://open.spotify.com/track/2uxRNIseE14NHEh38SaEeZ)
-- [SOS by eSQUIRE, Polina Griffith](https://open.spotify.com/track/4McT1WAI4adTDDBZ61RDgg)
-- [Hole In The Head (Fool Girl) by Dubdogz, Deep West](https://open.spotify.com/track/1qOcBO1ILL2EnaZOSuZCVx)
-- [Daydream by Joel Corry, Jem Cooke](https://open.spotify.com/track/1bg34brxVTDc7rGeJ4ssKi)
-- [Heaven Needed You More (ABGT642) - Mixed by Ilan Bluestone, FiL Straughan](https://open.spotify.com/track/3VEi8weMmpN1PZPDIiKmGA)
+- [R.E.M. by DJ Susan](https://open.spotify.com/track/0Bpi82sopKArwq7LPycm31)
+- [Close To Me by Mike D&#39; Jais](https://open.spotify.com/track/4sfIty6Lt1AcILdBFCjYX1)
+- [Fuck The What (TISM) by Karma Child](https://open.spotify.com/track/43NolA5tTy7c2dn7Ds7NLe)
+- [You &#43; Me by Tinx &amp; Lucas](https://open.spotify.com/track/2mLdRYukKTIhukKsysygAl)
+- [Your Favorite Song by APE, Astrid James](https://open.spotify.com/track/6DUoSZfPiO6XdSg1QZXJc0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
