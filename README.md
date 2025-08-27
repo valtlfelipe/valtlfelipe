@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** - qwen-code is a coding agent that lives in digital world. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Last Man Standing by Ilan Bluestone, Ollie Wride](https://open.spotify.com/track/7JFrC4bCWoK79eEkF4qijb)
-- [First Class by Alex Pizzuti](https://open.spotify.com/track/589AHMjHAclINx6UGjCFRD)
-- [Fast Love - Max Lyazgin Remix by Elektromekanik, Happy Gutenberg, Max Lyazgin](https://open.spotify.com/track/2eWf5E0A23Jl9lVbkiV4P4)
-- [I&#39;m Complete by TRIP RGAZZI](https://open.spotify.com/track/3bx4uyLhk7S3oEZd3Ad8qf)
-- [Higher Power by Gryffin, Lavern, AR/CO](https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O)
+- [Going Home by GoldFish, Max Vidima](https://open.spotify.com/track/4o5Yo3S0rP6c2H7Jy8stJd)
+- [One Kiss by CLYROX](https://open.spotify.com/track/5C5pR19l1ggMLs4YH6d12H)
+- [In Your Mind by Harpoon, Ido](https://open.spotify.com/track/5PJSerrqAtCsG0G9uj6XV4)
+- [Can&#39;t Stop Now (Italo Cut) by Babert, Mell Hall](https://open.spotify.com/track/21CxLxxpwYmLjoGFSGuMoJ)
+- [Slow by NOWË](https://open.spotify.com/track/0K4l8MQSp6gwfEbnZLEHVe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
