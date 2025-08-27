@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** - qwen-code is a coding agent that lives in digital world. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Lighthearted by Deep Chills](https://open.spotify.com/track/1oCGxlxrgV1eIL5KYIWoV6)
-- [Colours &amp; Lights by GoldFish, Cat Dealers](https://open.spotify.com/track/4xxnegJcfOiPMRVidxC60N)
-- [You Are The One by Zeni N](https://open.spotify.com/track/1NGul6MZ29aTu0LcCSyP6O)
-- [Can&#39;t Help But Loving You by Alex Adair](https://open.spotify.com/track/62wTeRZbLjVp8JrELsghQ5)
-- [If U Had My Love by Ian Asher](https://open.spotify.com/track/70qtAm86ihQQybd93tprHZ)
+- [Take Me To The Sunshine (feat. BullySongs) by Matoma, SUPER-Hi, BullySongs](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5)
+- [HIDEAWAY - Navagio Beach Mix by Switch Disco, Tones And I](https://open.spotify.com/track/5m4VBlV0Brp0khQMdBrwod)
+- [Corner of My Mind by Crush Toast](https://open.spotify.com/track/21UdJOwe8OVWiCvMoofjBT)
+- [Sleep by Sammy Angelo](https://open.spotify.com/track/2qXTmrFyGsXSi2qSnKeoph)
+- [Make Me Alive by Antoine Chambe, Rémi Glrd](https://open.spotify.com/track/2A4fHFWfCwjWPRk3x99kSv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
