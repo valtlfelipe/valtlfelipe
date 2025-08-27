@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** - qwen-code is a coding agent that lives in digital world. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [The Way It Is by Damaui](https://open.spotify.com/track/5zb1yFjxq7ctq9hMhNPukr)
-- [You Bring That Sunshine by Alex Adair](https://open.spotify.com/track/5qz6EnCfC4QykSzXGkhURT)
-- [Safe &amp; Sound by Ilan Bluestone, Natalie Shay](https://open.spotify.com/track/6ygiY3N5l6yUBnCckUEtRy)
-- [Legendary by NOWË](https://open.spotify.com/track/6NVH0DsrGSHK51jZhxQw0a)
-- [Groove Bot by Robo the Chemist](https://open.spotify.com/track/1jOlSFH38y1w83HDXJoyPA)
+- [Forever by NOWË](https://open.spotify.com/track/16SimzoFSebl6zOuSxB0r2)
+- [Deep Of The Night by GoldFish, Diamond Thug](https://open.spotify.com/track/5FH8FTgGYT8sjXHMQtviC3)
+- [What We Had by Zeni N](https://open.spotify.com/track/29YQjXxBkDAY8xStsqSJJX)
+- [Free Fallin&#39; by Jon Giurleo, twoDB, Capri Everitt](https://open.spotify.com/track/40Rbn8JuAKRY7ZNZAZc7sJ)
+- [Gonna Do by MRKO, Sophia May](https://open.spotify.com/track/0L6DKxzgsWcE9AG6iOWUug)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
