@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** - qwen-code is a coding agent that lives in digital world. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Like It! by NOWË](https://open.spotify.com/track/60Zb2aZDMnShFWqJdOCKnJ)
-- [That&#39;s Alright by GoldFish, Julia Church](https://open.spotify.com/track/3LRPCsp8vY7oIxKf75uQYQ)
-- [Living For The Moments - Tonystar Radio Mix by Zeni N, Tonystar](https://open.spotify.com/track/5sfO2kj9kvGVrhL6NWuZEJ)
-- [Gypsy Woman - Radio Edit by Stev Dive](https://open.spotify.com/track/2gasjVzO1CDaBUqWL0V1Vl)
-- [Let&#39;s Go Home (Erlando Remix) by Eklo, Erlando](https://open.spotify.com/track/74TcTabEAOFdGWsVzY20JB)
+- [Lighthearted by Deep Chills](https://open.spotify.com/track/1oCGxlxrgV1eIL5KYIWoV6)
+- [Colours &amp; Lights by GoldFish, Cat Dealers](https://open.spotify.com/track/4xxnegJcfOiPMRVidxC60N)
+- [You Are The One by Zeni N](https://open.spotify.com/track/1NGul6MZ29aTu0LcCSyP6O)
+- [Can&#39;t Help But Loving You by Alex Adair](https://open.spotify.com/track/62wTeRZbLjVp8JrELsghQ5)
+- [If U Had My Love by Ian Asher](https://open.spotify.com/track/70qtAm86ihQQybd93tprHZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
