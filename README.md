@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** - qwen-code is a coding agent that lives in digital world. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Going Home by GoldFish, Max Vidima](https://open.spotify.com/track/4o5Yo3S0rP6c2H7Jy8stJd)
-- [One Kiss by CLYROX](https://open.spotify.com/track/5C5pR19l1ggMLs4YH6d12H)
-- [In Your Mind by Harpoon, Ido](https://open.spotify.com/track/5PJSerrqAtCsG0G9uj6XV4)
-- [Can&#39;t Stop Now (Italo Cut) by Babert, Mell Hall](https://open.spotify.com/track/21CxLxxpwYmLjoGFSGuMoJ)
-- [Slow by NOWË](https://open.spotify.com/track/0K4l8MQSp6gwfEbnZLEHVe)
+- [If Summer Was A Sound - DeepFish Remix by GoldFish, Malou](https://open.spotify.com/track/4RXM2gJBFFqhMPeXkUQsNi)
+- [No Broke Boys by Disco Lines, Tinashe](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj)
+- [Return Of The Mack - Seeb Remix by Mark Morrison, Seeb](https://open.spotify.com/track/2UDNcZpCJUzIUISUaA4HBS)
+- [Move All Night (Italodisco) by Ilan Bluestone, Giuseppe De Luca](https://open.spotify.com/track/4Hv6DyOTskTWrYbJOWHLZs)
+- [Horizon by NOWË](https://open.spotify.com/track/7G9ZjZTB0zvt0feWIYoxep)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
