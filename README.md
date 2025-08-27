@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[databuddy-analytics/Databuddy](https://github.com/databuddy-analytics/Databuddy)** - Databuddy is a privacy-first analytics platform with a focus on user experience, with it&#39;s foundation built on privacy, it ensures complete compliance with most major data privacy laws out of the box (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Would I Lie To You Baby by GoodLuck, Youngr](https://open.spotify.com/track/6dQOOcjyD5VFfhsE12q6g6)
-- [Holding Me by Elektromekanik, Happy Gutenberg](https://open.spotify.com/track/4C6YUCzsCt6pwzq08NJD8B)
-- [Summer Flavour by Galem](https://open.spotify.com/track/7yDPyATeAssa2ouHBTe6dT)
-- [Still Cutting Shapes by Don Diablo](https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I)
-- [I DON&#39;T WANNA KNOW (feat. Elderbrook) by Gryffin, Elderbrook](https://open.spotify.com/track/54yTwo9sq8570IUJju1gft)
+- [Make You Better by MistaJam, Vula](https://open.spotify.com/track/63JiWhOUaa2V3Xy7XDHu2h)
+- [Golden by HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS)
+- [Little Lies by GoldFish](https://open.spotify.com/track/56f7rAwNVbANZjLvWqiQE0)
+- [I Still Feel You (feat. Jasmin Jade) by Harpoon, Jasmin Jade](https://open.spotify.com/track/1koUpE56y9LcYNtOTAjfcJ)
+- [Can&#39;t Stop Now by Babert, Mell Hall](https://open.spotify.com/track/0kcxAOVBl54BhDZxCE8OtU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
