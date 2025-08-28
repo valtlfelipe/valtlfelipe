@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Sunrise (feat. Madeline Megery) by Forester, OCULA, Madeline Megery](https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL)
-- [My Reflection by Eli &amp; Fur](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht)
-- [Glad I Found You (feat. George FitzGerald) - Club Mix by Elderbrook, George FitzGerald](https://open.spotify.com/track/1QFELwSMIxkz07RkZHq3Vl)
-- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
-- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
+- [Fresh Air by Iaco, HNE](https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns)
+- [Wait For You by Elderbrook, Carlita](https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW)
+- [fever by puulse, maybealice](https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb)
+- [All We Ever Do by Keanler, Leo Stannard](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw)
+- [Train of Thoughts by Nora En Pure](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
