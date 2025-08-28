@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC)
-- [Part Of Me by biskuwi, PHILDEL](https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [State Of Mind by Kaskade, Lipless](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y)
-- [Hope by CamelPhat, Max Milner](https://open.spotify.com/track/6zMU2vqQ30YjN20oOVeDDO)
+- [life gets hard by iilliaa](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO)
+- [Dance In The Sunlight by Lost Frequencies, Bandit](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [With You by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd)
+- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
