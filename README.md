@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Polar Lights by Nora En Pure](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi)
-- [Tore Me Up by Refeci, Treyy G, BUBU](https://open.spotify.com/track/2lzE9brm1tR9gCv1Ibbo9g)
-- [I Want You by Vandelux](https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ)
-- [Light Up My Dark by Monolink](https://open.spotify.com/track/2YJUD7E1muMf10UkCjN3lc)
-- [golden by Le Youth, MYRNE, Bertie Scott](https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf)
+- [Flying Away With You by WhoMadeWho, Tripolism](https://open.spotify.com/track/2hLOgEXMKytPei6kfgnzzL)
+- [Rabbit Hole by Marsh, ALLKNIGHT](https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW)
+- [Horizon by Joris Voorn](https://open.spotify.com/track/7y5E5BYadhnAzo0VyS9vQR)
+- [Letting Go by Drove](https://open.spotify.com/track/7DBxK5bcSCA0ntj0Dbpy1n)
+- [Control by Cristoph, Panama, Tigerblind](https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
