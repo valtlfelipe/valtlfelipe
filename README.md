@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Be My Lover (feat. La Bouche) - 2023 Mix by Hypaton, David Guetta, La Bouche](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV)
-- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
-- [This Rhythm (feat. RAHH) by Prospa, RAHH](https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66)
-- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
-- [Relax My Eyes by ANOTR, Abel Balder](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH)
+- [Can&#39;t Stand To Lose by HAAi](https://open.spotify.com/track/5Tjupg5c5hlpfuHWMbwTI8)
+- [Lifeline by Jonas Blue, Izzy Bizu](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [Superrich by Alok, me n ü, Ten Fé](https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms)
+- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
