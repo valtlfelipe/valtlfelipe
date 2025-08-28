@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Pool - Gravagerz Version by Gravagerz, kiki wera](https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO)
-- [Won’t Follow You Home by Matoma, James Droll](https://open.spotify.com/track/210m5MMp5LW9iq90LpCnuN)
-- [Used To Do - Dance Version by Trevis](https://open.spotify.com/track/5UPfw31CJ3AfgIqy5SWn8q)
-- [Still Together by Zeni N, Erdit Mertiri](https://open.spotify.com/track/1JzNyJXOtRh7Hpl6tn5YUg)
-- [Jaded Boy by Kedam](https://open.spotify.com/track/3cBK8vhC0MWNDraDlsfxuE)
+- [Be My Lover (feat. La Bouche) - 2023 Mix by Hypaton, David Guetta, La Bouche](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV)
+- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
+- [This Rhythm (feat. RAHH) by Prospa, RAHH](https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66)
+- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
+- [Relax My Eyes by ANOTR, Abel Balder](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
