@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Flying Away With You by WhoMadeWho, Tripolism](https://open.spotify.com/track/2hLOgEXMKytPei6kfgnzzL)
-- [Rabbit Hole by Marsh, ALLKNIGHT](https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW)
-- [Horizon by Joris Voorn](https://open.spotify.com/track/7y5E5BYadhnAzo0VyS9vQR)
-- [Letting Go by Drove](https://open.spotify.com/track/7DBxK5bcSCA0ntj0Dbpy1n)
-- [Control by Cristoph, Panama, Tigerblind](https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL)
+- [Alone by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/74goW26f8cfRQfLgea7o2f)
+- [Alone by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/74goW26f8cfRQfLgea7o2f)
+- [Knock Me Off My Feet by oskar med k](https://open.spotify.com/track/6Xgbgdi7F7BGrZPrYcxFVl)
+- [Ascend (My Mind Edit) by Dezko](https://open.spotify.com/track/5m2z3gWspjmiOkKZ5QCyxp)
+- [Glad I Found You by Elderbrook, George FitzGerald](https://open.spotify.com/track/4k5NNv1kAyfqsxyKDu2mvm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
