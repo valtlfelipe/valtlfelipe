@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Into The Night by Tonic Walter](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB)
+- [TRIPPIN by BUNT., Mapei](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7)
 - [life gets hard by iilliaa](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO)
 - [Dance In The Sunlight by Lost Frequencies, Bandit](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F)
 - [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [With You by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd)
-- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
