@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[oxc-project/oxc](https://github.com/oxc-project/oxc)** - ⚓ A collection of JavaScript tools written in Rust. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [One And Only by Reznik, good guy mikesh, Keinemusik](https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ)
-- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
-- [Heart Made Of Glass by Eli &amp; Fur](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb)
-- [Call You Mine by HNE](https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO)
-- [Promise Me by Harmonee](https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB)
+- [Can&#39;t Read Your Mind by Justin Jay, Josh Taylor](https://open.spotify.com/track/3qLeZcFGwVM7gJE74KTKa6)
+- [Upstate Miracle by Gilligan Moss](https://open.spotify.com/track/1ponpoKvmoydHiIXsTjnpI)
+- [Hours by Lipless, Lovlee](https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52)
+- [Close Your Eyes by Forester, Petit Biscuit, Emilia Ali](https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB)
+- [Energy by Surf Mesa, Zeeba](https://open.spotify.com/track/1PyJuE9ZMWStB6ZuAFim4v)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
