@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [To Love Again by Blonde Maze, Lizzy Land](https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg)
-- [Alone by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/74goW26f8cfRQfLgea7o2f)
-- [Alone by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/74goW26f8cfRQfLgea7o2f)
-- [Alone by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/74goW26f8cfRQfLgea7o2f)
-- [Knock Me Off My Feet by oskar med k](https://open.spotify.com/track/6Xgbgdi7F7BGrZPrYcxFVl)
+- [Can&#39;t Stand To Lose by HAAi](https://open.spotify.com/track/5Tjupg5c5hlpfuHWMbwTI8)
+- [Lifeline by Jonas Blue, Izzy Bizu](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [Superrich by Alok, me n ü, Ten Fé](https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms)
+- [Sun Went Down, Sky Went Dark by Klangkarussell, GIVVEN, Senes](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
