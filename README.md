@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
-- [sicklysweet - Tobiahs Remix by Jetta, Tobiahs](https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm)
-- [DESCEND by Dezko](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP)
-- [Rust by Ben Böhmer](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ)
-- [TRIPPIN by BUNT., Mapei](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7)
+- [Not The Same by Nitefreak, Imad, Clubhouse](https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF)
+- [Memories by Sultan &#43; Shepard, The Kite String Tangle](https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI)
+- [My Reflection by Eli &amp; Fur](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht)
+- [3 Days Later by Adam Ten, Rhye](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j)
+- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
