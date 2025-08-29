@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Not The Same by Nitefreak, Imad, Clubhouse](https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF)
-- [Heartburn by Panama, Vandelux](https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI)
-- [Stay Still by Le Youth, Forester, Lyrah](https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB)
-- [Memories by Sultan &#43; Shepard, The Kite String Tangle](https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI)
-- [Midnight Sun by Jan Blomqvist, Natascha Polké](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI)
+- [Sun Went Down, Sky Went Dark by Klangkarussell, GIVVEN, Senes](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo)
+- [To Love Again by Blonde Maze, Lizzy Land](https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg)
+- [Self Control by Lynnic, ItsArius, Lilly](https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N)
+- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
+- [Best Life by Ben Böhmer, JONAH](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
