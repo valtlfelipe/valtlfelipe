@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Wayside by Qrion, Josie Man](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld)
-- [Little Lies by Don Diablo](https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU)
-- [Hold On by Rezident, Von Boch, Elissa Mielke](https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf)
-- [Cruise by ROYA](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq)
-- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC)
+- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
+- [sicklysweet - Tobiahs Remix by Jetta, Tobiahs](https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm)
+- [DESCEND by Dezko](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP)
+- [Rust by Ben Böhmer](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ)
+- [TRIPPIN by BUNT., Mapei](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
