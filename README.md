@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
-- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
-- [Sun Went Down, Sky Went Dark by Klangkarussell, GIVVEN, Senes](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo)
-- [To Love Again by Blonde Maze, Lizzy Land](https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg)
+- [Wayside by Qrion, Josie Man](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld)
+- [Little Lies by Don Diablo](https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU)
+- [Hold On by Rezident, Von Boch, Elissa Mielke](https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf)
+- [Cruise by ROYA](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq)
+- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
