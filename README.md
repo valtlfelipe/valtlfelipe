@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[oxc-project/oxc](https://github.com/oxc-project/oxc)** - ⚓ A collection of JavaScript tools written in Rust. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Lose It All by Arley, Descend, maybealice](https://open.spotify.com/track/4t7lAtsYfQ7s0EvIyx3BsX)
-- [Polar Lights by Nora En Pure](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi)
-- [SWEET LOVIN by me n ü](https://open.spotify.com/track/5FyaFI5pYPGdhKC6z4Gm0e)
-- [Lotus by offrails, Lilly Ahlberg](https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr)
-- [Missing You by Eli &amp; Fur](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq)
+- [One And Only by Reznik, good guy mikesh, Keinemusik](https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ)
+- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
+- [Heart Made Of Glass by Eli &amp; Fur](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb)
+- [Call You Mine by HNE](https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO)
+- [Promise Me by Harmonee](https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
