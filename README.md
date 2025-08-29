@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
+- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
 - [Sun Went Down, Sky Went Dark by Klangkarussell, GIVVEN, Senes](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo)
 - [To Love Again by Blonde Maze, Lizzy Land](https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg)
-- [Self Control by Lynnic, ItsArius, Lilly](https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N)
-- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
-- [Best Life by Ben Böhmer, JONAH](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
