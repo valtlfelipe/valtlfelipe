@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[athasdev/athas](https://github.com/athasdev/athas)** - A lightweight code editor. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Can&#39;t Stand To Lose by HAAi](https://open.spotify.com/track/5Tjupg5c5hlpfuHWMbwTI8)
-- [Lifeline by Jonas Blue, Izzy Bizu](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm)
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
-- [Superrich by Alok, me n ü, Ten Fé](https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms)
-- [Sun Went Down, Sky Went Dark by Klangkarussell, GIVVEN, Senes](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo)
+- [Dawn by mölly, Hessian, Afnan Prince](https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE)
+- [Sweet Release by Nu Aspect](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq)
+- [Diamonds (Further Than I Ever Was) by Tinlicker, The Boxer Rebellion](https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo)
+- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC)
+- [Part Of Me by biskuwi, PHILDEL](https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
