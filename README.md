@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[oxc-project/oxc](https://github.com/oxc-project/oxc)** - ⚓ A collection of JavaScript tools written in Rust. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Can&#39;t Read Your Mind by Justin Jay, Josh Taylor](https://open.spotify.com/track/3qLeZcFGwVM7gJE74KTKa6)
-- [Upstate Miracle by Gilligan Moss](https://open.spotify.com/track/1ponpoKvmoydHiIXsTjnpI)
-- [Hours by Lipless, Lovlee](https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52)
-- [Close Your Eyes by Forester, Petit Biscuit, Emilia Ali](https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB)
-- [Energy by Surf Mesa, Zeeba](https://open.spotify.com/track/1PyJuE9ZMWStB6ZuAFim4v)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Me and You (feat. Vancouver Sleep Clinic) by Forester, Vancouver Sleep Clinic](https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP)
+- [Scared Of The Dark by Friends &amp; I](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ)
+- [SWEET LOVIN by me n ü](https://open.spotify.com/track/5FyaFI5pYPGdhKC6z4Gm0e)
+- [Time - Edit by Carlita](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
