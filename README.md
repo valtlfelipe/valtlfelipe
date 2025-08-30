@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[oxc-project/oxc](https://github.com/oxc-project/oxc)** - ⚓ A collection of JavaScript tools written in Rust. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Memories by Nora En Pure](https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
-- [Me and You (feat. Vancouver Sleep Clinic) by Forester, Vancouver Sleep Clinic](https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP)
-- [Scared Of The Dark by Friends &amp; I](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ)
-- [SWEET LOVIN by me n ü](https://open.spotify.com/track/5FyaFI5pYPGdhKC6z4Gm0e)
+- [Dawn by mölly, Hessian, Afnan Prince](https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE)
+- [Swimming In The Dark by Vandelux](https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5)
+- [The Sun by Ben Böhmer, Oh Wonder](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d)
+- [Somebody To Love by YOTTO, Eli &amp; Fur](https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi)
+- [Can&#39;t Read Your Mind by Justin Jay, Josh Taylor](https://open.spotify.com/track/3qLeZcFGwVM7gJE74KTKa6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
