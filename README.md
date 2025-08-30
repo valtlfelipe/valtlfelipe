@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[oxc-project/oxc](https://github.com/oxc-project/oxc)** - ⚓ A collection of JavaScript tools written in Rust. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Dawn by mölly, Hessian, Afnan Prince](https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE)
-- [Swimming In The Dark by Vandelux](https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5)
-- [The Sun by Ben Böhmer, Oh Wonder](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d)
-- [Somebody To Love by YOTTO, Eli &amp; Fur](https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi)
-- [Can&#39;t Read Your Mind by Justin Jay, Josh Taylor](https://open.spotify.com/track/3qLeZcFGwVM7gJE74KTKa6)
+- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
+- [Out Of Ten - Shingo Nakamura &amp; before saudade Remix by Lonely in the Rain, Shingo Nakamura, before saudade](https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj)
+- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
+- [Give It A Try (Why Don&#39;t We) by Freyer, Idun Nicoline](https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX)
+- [Give Me Life by Nils Hoffmann](https://open.spotify.com/track/1VIFS9J23S0zWLbs5U0f2X)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
