@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[oxc-project/oxc](https://github.com/oxc-project/oxc)** - ⚓ A collection of JavaScript tools written in Rust. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
-- [To Love Again by Blonde Maze, Lizzy Land](https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg)
-- [Diamonds (Further Than I Ever Was) by Tinlicker, The Boxer Rebellion](https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo)
-- [Diamonds (Further Than I Ever Was) by Tinlicker, The Boxer Rebellion](https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo)
+- [TRIPPIN by BUNT., Mapei](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7)
+- [Mercury by Tornado Club](https://open.spotify.com/track/7LWZ3GQkWxb7gnXAB80J06)
+- [Kids of the Sun by Alex Keeper](https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP)
+- [Hold You by CRi](https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l)
+- [Feel This Way by MOTSA, Jody Wisternoff, James Grant](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
