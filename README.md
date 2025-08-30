@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[oxc-project/oxc](https://github.com/oxc-project/oxc)** - ⚓ A collection of JavaScript tools written in Rust. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [To Love Again by Blonde Maze, Lizzy Land](https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg)
 - [Diamonds (Further Than I Ever Was) by Tinlicker, The Boxer Rebellion](https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo)
-- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
-- [Out Of Ten - Shingo Nakamura &amp; before saudade Remix by Lonely in the Rain, Shingo Nakamura, before saudade](https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj)
-- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
-- [Give It A Try (Why Don&#39;t We) by Freyer, Idun Nicoline](https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX)
+- [Diamonds (Further Than I Ever Was) by Tinlicker, The Boxer Rebellion](https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
