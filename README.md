@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[oxc-project/oxc](https://github.com/oxc-project/oxc)** - ⚓ A collection of JavaScript tools written in Rust. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Light Up My Dark by Monolink](https://open.spotify.com/track/2YJUD7E1muMf10UkCjN3lc)
-- [Next To You by Romain Garcia](https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7)
-- [sicklysweet - Tobiahs Remix by Jetta, Tobiahs](https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm)
-- [TRIPPIN by BUNT., Mapei](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7)
-- [Mercury by Tornado Club](https://open.spotify.com/track/7LWZ3GQkWxb7gnXAB80J06)
+- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
+- [Have It All by ANDREA CALABRIA](https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg)
+- [Silver Lines by Sinca](https://open.spotify.com/track/03ZAkPbN9kT1tKJKO8fnt3)
+- [Sun Went Down, Sky Went Dark by Klangkarussell, GIVVEN, Senes](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo)
+- [The Code by ÖRA](https://open.spotify.com/track/2B2bhxD79C8Fmk6ApMWH7j)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
