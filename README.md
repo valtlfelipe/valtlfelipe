@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Roll the Dice (Radio Edit) - Urban Contact Remix by Dawa, Urban Contact](https://open.spotify.com/track/5MTfg2X92IaMysF4rsv6DY)
+- [High and Low by Jarod Glawe, That Girl](https://open.spotify.com/track/0GgQoTgs1Vf6N1q7NBtlS0)
+- [Treasure by MR TOUT LE MONDE](https://open.spotify.com/track/0CFDOgUcUUngd612sIAjyF)
 - [Love You Right by Lucien, Moise](https://open.spotify.com/track/1r2gC1lfL0VIqtGcjBAHkF)
 - [Sing It Back by Giorgio Gee](https://open.spotify.com/track/0SVWZpDJO4reJdAaU8wCtG)
-- [Tomorrow by Joris Voorn](https://open.spotify.com/track/24jHeEgAjMTjFLm12Tpk6m)
-- [Mixtape by edapollo](https://open.spotify.com/track/3J1Wa7DntsiLRXqCD0rZ5Y)
-- [You Said Forever by Embody](https://open.spotify.com/track/5fjIr7fMC19Jmz97GmmSB7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
