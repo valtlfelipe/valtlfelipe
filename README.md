@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[criting/awesome-nuxt](https://github.com/criting/awesome-nuxt)** - A curated list of Nuxt projects, templates, and starters that actually work — ready for you to use or learn from. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [All Alone by MR TOUT LE MONDE](https://open.spotify.com/track/0GFwzzwfRDkv9guPJSgkvI)
-- [Volcano by Rowland Giles, Toutounji](https://open.spotify.com/track/5IDgICEO4v6iZ1i0XCpY53)
-- [Far Far Away by Duce, TMPST, Idun Nicoline](https://open.spotify.com/track/0lUlvk3pKAUqXWl99TPero)
-- [Looks Like I&#39;m Waiting (Feat. Afnan Prince) by Cristoph, CultureKind, Afnan Prince](https://open.spotify.com/track/51JugfoqOCejQxQA1l3KA2)
-- [She&#39;s A Vision by Dulio Jamo](https://open.spotify.com/track/2tWvYusjnsNQi4NoJ7sG8K)
+- [Little Lies by Don Diablo](https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU)
+- [Love Shop by YOTTO, Something Good](https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL)
+- [Dawn/Day (日月同辉) by ROYA, Cacien](https://open.spotify.com/track/5tj5QRCC9cusGDzzCj7yIT)
+- [Again by P.A.V](https://open.spotify.com/track/0qD4eWyg1ekVQpq4rtHsmh)
+- [Free Fallin&#39; (FYH460) [LIGHT SIDE TRACK OF THE WEEK] by Jon Giurleo, twoDB, Capri Everitt](https://open.spotify.com/track/28ZnJiDlfHjBcXV30uX14y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
