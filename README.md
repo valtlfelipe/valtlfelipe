@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Ley Ley by DJ Roody](https://open.spotify.com/track/4jWOHJz0r0zBm37i8ntbFc)
-- [Body on My Body by LLMino](https://open.spotify.com/track/75tSBq3t8A1ImahJ5kqlEX)
-- [Your Picture&#39;s on My Wall by SK Austen](https://open.spotify.com/track/7noy4i0Nqw9VY9Y2BlewmQ)
-- [Play with Fire by SRTW, Lapsi](https://open.spotify.com/track/3GKzjPk3aIHhAxZkPxophD)
-- [Without Your Love by NOVUM, Arpad](https://open.spotify.com/track/6Bo0eaLqyMai2G5cAzo0Tv)
+- [Here&#39;s to Us by Makramee](https://open.spotify.com/track/5vYwCrhUHRDIkNFHhdu58o)
+- [Paradise - Radio Edit by RANE](https://open.spotify.com/track/6jN88s9JwpS68HTjGTJKbZ)
+- [Falling Slow by Lonely Night, Nody, Ari](https://open.spotify.com/track/0GtWjzcGcFLaCEMPTWxWEL)
+- [True Love by SRTW, CLOSR](https://open.spotify.com/track/1w6lRo2aEfxCShmR3mXQVr)
+- [You&#39;re Somebody Else by Noile](https://open.spotify.com/track/1N4QP63qx7hfUD6A403wY6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
