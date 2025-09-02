@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Keep Running by Alex Keeper](https://open.spotify.com/track/4kad1c0m2eHrMujf3gjKX8)
-- [Roadtrip by SRTW, nourii, Itsoona](https://open.spotify.com/track/6HB11gTmbJOX6H63K8Bu74)
-- [Morning Comes by Dizaro](https://open.spotify.com/track/1jO52Lb4Zbu2azkU1dENYC)
-- [Watermelon Sugar by Neptone](https://open.spotify.com/track/5gZFCl6eAriOV3VvKTBjbj)
-- [The Ocean by Dallien, My Linh](https://open.spotify.com/track/31ow2EEyXVMBSRIk3jmF3y)
+- [Ley Ley by DJ Roody](https://open.spotify.com/track/4jWOHJz0r0zBm37i8ntbFc)
+- [Body on My Body by LLMino](https://open.spotify.com/track/75tSBq3t8A1ImahJ5kqlEX)
+- [Your Picture&#39;s on My Wall by SK Austen](https://open.spotify.com/track/7noy4i0Nqw9VY9Y2BlewmQ)
+- [Play with Fire by SRTW, Lapsi](https://open.spotify.com/track/3GKzjPk3aIHhAxZkPxophD)
+- [Without Your Love by NOVUM, Arpad](https://open.spotify.com/track/6Bo0eaLqyMai2G5cAzo0Tv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
