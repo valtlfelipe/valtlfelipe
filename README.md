@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Pretty Please by SRTW, NLSN, RAENE](https://open.spotify.com/track/1mhqgTnqbUVnKY7wic4CKt)
-- [In My Arms by nourii, Lapsi](https://open.spotify.com/track/08OjEAvN1EclkRAUxW3tFM)
-- [Rhythm by DJ Roody, Skye](https://open.spotify.com/track/1LKUhOWFVDh03CqHNw6ptq)
-- [Floating by Golowko, MBP, Alicee](https://open.spotify.com/track/5QvokVJipC39PQcG7uN44v)
-- [In the Nighttime by RANE](https://open.spotify.com/track/2KLtagJpuQJqAYV4QgJLn7)
+- [Not There Yet by nourii, Dominic Neill](https://open.spotify.com/track/3UOQJuyqH7pyLSHmI45hOQ)
+- [Butterflies - Chill Mix by SRTW, Charity Children](https://open.spotify.com/track/7w9NOqoeE3Zfv19VYMRMxF)
+- [Heavy by LuvLess, Freddie Mudge](https://open.spotify.com/track/4oQYtbsHz7RjRcs9V9oPEo)
+- [Into the Sunset by Makramee](https://open.spotify.com/track/2NBKmOfbSxjbwdsWn6xR65)
+- [Let&#39;s disappear tonight - Radio Edit by Spoke](https://open.spotify.com/track/3CZDfvbHG6bQ0wYVjAaMqI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
