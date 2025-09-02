@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [LOST IN YOUR EYES by NØFACE](https://open.spotify.com/track/2vrUuFngy3g0rp7plAnAhK)
-- [Shatter by V A E L O R A](https://open.spotify.com/track/4fsgZIg8oizrMbPaLTTEUt)
-- [Frozen In Time by Jai Nova](https://open.spotify.com/track/6nVkRuIBYjG01YL9D7ZBnl)
-- [Your Love by Joris Voorn, MAX RAD, Liz Cass](https://open.spotify.com/track/6O2r4n5YeF5KXVNUrobHZe)
-- [Roll the Dice (Radio Edit) - Urban Contact Remix by Dawa, Urban Contact](https://open.spotify.com/track/5MTfg2X92IaMysF4rsv6DY)
+- [Go Slow by Mannymore, Orfa](https://open.spotify.com/track/3PbbRu8uDgandDfXUMpQ04)
+- [It’s All On You by Rezident, Malou](https://open.spotify.com/track/6LVQCLkRzPEplGMo93acLl)
+- [Too Many Nights by Psycho Playa, SH3TLVIZ, 3ntry](https://open.spotify.com/track/59AzNZhVt5s0Zr7hOqhaNj)
+- [Hold Me Closer by ArcoBeat](https://open.spotify.com/track/73cZhD9ODAUpx2YbDYlwCY)
+- [Don’t Go by NM](https://open.spotify.com/track/1EKtV9XP7aJGiPkS35EzNl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
