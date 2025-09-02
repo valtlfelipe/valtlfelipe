@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Chasing the Sun by Sole Sole](https://open.spotify.com/track/2OHW1qbXxkApvjIceKpJbF)
-- [Urban Chaos by Spoke](https://open.spotify.com/track/6H0qZ5Eia0igxsnULvHKcJ)
-- [Against the Grain by Duce, Maynørr, RAEYA](https://open.spotify.com/track/6zIrqCevd3BhrpVfCesT0Y)
-- [Your Favorite Song by APE, Astrid James](https://open.spotify.com/track/6DUoSZfPiO6XdSg1QZXJc0)
-- [Spring Inside by SRTW, COLIN](https://open.spotify.com/track/6EYVeJVZZ77emzPVATAuPF)
+- [Hold Me Closer by fwd/slash](https://open.spotify.com/track/0CJkhThcJlUCRzb3CioKwn)
+- [Somebody That I Used To Know by Noile](https://open.spotify.com/track/2nP64USSWQ1ra0dbgp1IH5)
+- [Driving by Sole Sole](https://open.spotify.com/track/76LuJFlspwJ0L9sA2ri9wQ)
+- [Sunburn by SRTW, Bunny Riot](https://open.spotify.com/track/1d1Ttv522O5r5JKFVOtsC3)
+- [Sunburn by SRTW, Bunny Riot](https://open.spotify.com/track/1d1Ttv522O5r5JKFVOtsC3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
