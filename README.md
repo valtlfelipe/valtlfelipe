@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Here&#39;s to Us by Makramee](https://open.spotify.com/track/5vYwCrhUHRDIkNFHhdu58o)
-- [Paradise - Radio Edit by RANE](https://open.spotify.com/track/6jN88s9JwpS68HTjGTJKbZ)
-- [Falling Slow by Lonely Night, Nody, Ari](https://open.spotify.com/track/0GtWjzcGcFLaCEMPTWxWEL)
-- [True Love by SRTW, CLOSR](https://open.spotify.com/track/1w6lRo2aEfxCShmR3mXQVr)
-- [You&#39;re Somebody Else by Noile](https://open.spotify.com/track/1N4QP63qx7hfUD6A403wY6)
+- [Walk the Nile Twice by nourii, CLOSR](https://open.spotify.com/track/6SIgxgVNDe7ppyUqWEbqba)
+- [Tell Me by NOVUM](https://open.spotify.com/track/611m4J9OHUKNvI1ZPJQLOv)
+- [Through The Night by MashBit, LAERZ](https://open.spotify.com/track/0OTxyXl67uf77d553TRLZZ)
+- [Morning Light by SRTW, Angelina Madeleine](https://open.spotify.com/track/6CpY0ZIKaryHOzUOOcMGmi)
+- [Take Me To Church by Noile](https://open.spotify.com/track/42ou2U7FCq4RrDhi4izfv8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
