@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Drifting Away by Avi Snow](https://open.spotify.com/track/2o9wGxpfpFaKPQkmuNKgXU)
-- [On The Edge - Mixed by UOAK, Damaui, Lisa Mechelina](https://open.spotify.com/track/5ZYVWYHAIFOwyEYVw8buOZ)
-- [FUTURE WE CAN SEE by Travmkind, MOSCA](https://open.spotify.com/track/5fOa2a1R4j5fg2w0bC473P)
-- [Island In The Sun by BUSTGAARD, Victoria Voss, Kin Alura](https://open.spotify.com/track/2LOB6N7o0h9Q53JS50AJWn)
-- [Just Feeling by Vibfy](https://open.spotify.com/track/3a7t7LSSbcW1YMyYRjeQ97)
+- [Parting Ways by Miravo](https://open.spotify.com/track/02Pn1TbmDBUymxhDknminH)
+- [Lifeline by Robby East, Jyll](https://open.spotify.com/track/3J6XE1BCxefjLuAnYRwKS7)
+- [Real Life by Tina Says, Rromarin](https://open.spotify.com/track/6N3QBJjlrwAyXGlX4J7LIW)
+- [Summer Jam - WITH U Remix by The Underdog Project, WITH U](https://open.spotify.com/track/2HgWHtLs09T1EFZFzzt3rc)
+- [on my way by Cody Indigo](https://open.spotify.com/track/18CZy3hceb5JGyn8pVzgZx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
