@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Parting Ways by Miravo](https://open.spotify.com/track/02Pn1TbmDBUymxhDknminH)
-- [Lifeline by Robby East, Jyll](https://open.spotify.com/track/3J6XE1BCxefjLuAnYRwKS7)
-- [Real Life by Tina Says, Rromarin](https://open.spotify.com/track/6N3QBJjlrwAyXGlX4J7LIW)
-- [Summer Jam - WITH U Remix by The Underdog Project, WITH U](https://open.spotify.com/track/2HgWHtLs09T1EFZFzzt3rc)
-- [on my way by Cody Indigo](https://open.spotify.com/track/18CZy3hceb5JGyn8pVzgZx)
+- [Chasing the Sun by Sole Sole](https://open.spotify.com/track/2OHW1qbXxkApvjIceKpJbF)
+- [Urban Chaos by Spoke](https://open.spotify.com/track/6H0qZ5Eia0igxsnULvHKcJ)
+- [Against the Grain by Duce, Maynørr, RAEYA](https://open.spotify.com/track/6zIrqCevd3BhrpVfCesT0Y)
+- [Your Favorite Song by APE, Astrid James](https://open.spotify.com/track/6DUoSZfPiO6XdSg1QZXJc0)
+- [Spring Inside by SRTW, COLIN](https://open.spotify.com/track/6EYVeJVZZ77emzPVATAuPF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
