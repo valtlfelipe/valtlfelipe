@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Go Slow by Mannymore, Orfa](https://open.spotify.com/track/3PbbRu8uDgandDfXUMpQ04)
-- [It’s All On You by Rezident, Malou](https://open.spotify.com/track/6LVQCLkRzPEplGMo93acLl)
-- [Too Many Nights by Psycho Playa, SH3TLVIZ, 3ntry](https://open.spotify.com/track/59AzNZhVt5s0Zr7hOqhaNj)
-- [Hold Me Closer by ArcoBeat](https://open.spotify.com/track/73cZhD9ODAUpx2YbDYlwCY)
-- [Don’t Go by NM](https://open.spotify.com/track/1EKtV9XP7aJGiPkS35EzNl)
+- [Drifting Away by Avi Snow](https://open.spotify.com/track/2o9wGxpfpFaKPQkmuNKgXU)
+- [On The Edge - Mixed by UOAK, Damaui, Lisa Mechelina](https://open.spotify.com/track/5ZYVWYHAIFOwyEYVw8buOZ)
+- [FUTURE WE CAN SEE by Travmkind, MOSCA](https://open.spotify.com/track/5fOa2a1R4j5fg2w0bC473P)
+- [Island In The Sun by BUSTGAARD, Victoria Voss, Kin Alura](https://open.spotify.com/track/2LOB6N7o0h9Q53JS50AJWn)
+- [Just Feeling by Vibfy](https://open.spotify.com/track/3a7t7LSSbcW1YMyYRjeQ97)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
