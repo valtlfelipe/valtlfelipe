@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Violet Skies by Youngr, Ekko](https://open.spotify.com/track/51i4vXkMQGATBtL8wZxr50)
-- [Save Me by Viva La Panda, Edmundo Silva, Justin Rhodes](https://open.spotify.com/track/4nsL7XMb1SKauCsaxqgvCz)
-- [Chasing The Sun by Patrick Lite](https://open.spotify.com/track/4C03FuliCKxCBQ5rzABFhK)
-- [Keep Running by Alex Keeper](https://open.spotify.com/track/4kad1c0m2eHrMujf3gjKX8)
-- [Roadtrip by SRTW, nourii, Itsoona](https://open.spotify.com/track/6HB11gTmbJOX6H63K8Bu74)
+- [Paradise - Radio Edit by RANE](https://open.spotify.com/track/6jN88s9JwpS68HTjGTJKbZ)
+- [Falling Slow by Lonely Night, Nody, Ari](https://open.spotify.com/track/0GtWjzcGcFLaCEMPTWxWEL)
+- [True Love by SRTW, CLOSR](https://open.spotify.com/track/1w6lRo2aEfxCShmR3mXQVr)
+- [You&#39;re Somebody Else by Noile](https://open.spotify.com/track/1N4QP63qx7hfUD6A403wY6)
+- [Just Can&#39;t Fake It by Tobÿ, One Trick Pony](https://open.spotify.com/track/4YrLoal2Gqn9a8OpVtPNgE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
