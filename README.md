@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [A Place For Me by SRTW](https://open.spotify.com/track/50HoLVpI5aedSvm2LXt3p7)
+- [Drive by Courtney Storm, Béatrice Dupont](https://open.spotify.com/track/5TmpcFPSQbCj3Ft6rKoRv3)
 - [Away by Sole Sole](https://open.spotify.com/track/7xMnoIsPUWHVUYXoyWkQop)
 - [Know Who You Are by San Mateo Drive, Ren Ocean](https://open.spotify.com/track/0uz7gY8pdvz0cm063f2OVS)
 - [Through This by Julien Fade, maybealice](https://open.spotify.com/track/4N70Hwcdft6RxkdUzkX70s)
-- [How Deep Is Your Love by SRTW, PTCH](https://open.spotify.com/track/6NvTIgmg6q2H1QNnUgBRjB)
-- [I WON&#39;T LET YOU GO by NØFACE](https://open.spotify.com/track/07onsAh7NA4yD0cUmXyYFH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
