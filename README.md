@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [More Than a Memory by Makramee](https://open.spotify.com/track/7hKZtok5ozpGwBbM4xSBxu)
-- [Soaking up The Sunlight by SRTW, nourii](https://open.spotify.com/track/6WCDszKwyfInq5ui39fx1G)
-- [Where Did You Go by Arley, Descend, maybealice](https://open.spotify.com/track/54zw5lZ6JEedZyO1YZYfTZ)
-- [All I Need (Ramundo Remix) by Rammor, Bien, Ramundo](https://open.spotify.com/track/5cCzngHG5NIW37eouwl3Hq)
-- [Closer by Alex Martura](https://open.spotify.com/track/5oO4A9xKVeBEsffcFNU7AQ)
+- [Your Favorite Song by APE, Astrid James](https://open.spotify.com/track/6DUoSZfPiO6XdSg1QZXJc0)
+- [Rising by Charlie Aylesbury, Ian Robert, Florence Jack](https://open.spotify.com/track/4AZnHAgy0OnN7jfawXBMRr)
+- [Wait for Me by SRTW, nourii](https://open.spotify.com/track/5rcV7QcCLxGrmgOB9ziOOj)
+- [Feels like This by Hallman](https://open.spotify.com/track/7Iys4K5Evj3vVeto3fjWeI)
+- [Wild &amp; Free by Makramee](https://open.spotify.com/track/038BjDcUOFNKUN08tcpvqD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
