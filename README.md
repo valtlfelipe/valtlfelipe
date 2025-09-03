@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The Ocean by Dallien, My Linh](https://open.spotify.com/track/31ow2EEyXVMBSRIk3jmF3y)
-- [Afterlife by Rammor, Lonely Night](https://open.spotify.com/track/16NvJNKYMCJpV744U20c3D)
-- [GPS by SRTW](https://open.spotify.com/track/3lNXzcg8u7ExtjhKt6NuCW)
-- [Find Me by Duce, TRE, Jessie Lee Thetford](https://open.spotify.com/track/5JMZkctq88p9px4ewkXzM2)
-- [Lovin U by Haasy, PRAZI](https://open.spotify.com/track/0WVOgLhVL1Zy4raPUPKV89)
+- [Violet Skies by Youngr, Ekko](https://open.spotify.com/track/51i4vXkMQGATBtL8wZxr50)
+- [Save Me by Viva La Panda, Edmundo Silva, Justin Rhodes](https://open.spotify.com/track/4nsL7XMb1SKauCsaxqgvCz)
+- [Chasing The Sun by Patrick Lite](https://open.spotify.com/track/4C03FuliCKxCBQ5rzABFhK)
+- [Keep Running by Alex Keeper](https://open.spotify.com/track/4kad1c0m2eHrMujf3gjKX8)
+- [Roadtrip by SRTW, nourii, Itsoona](https://open.spotify.com/track/6HB11gTmbJOX6H63K8Bu74)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
