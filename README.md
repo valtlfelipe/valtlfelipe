@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Need A Second by Nathan C, ALLKNIGHT](https://open.spotify.com/track/4pJF7MrSiXtjthcEqB1aEJ)
-- [Troubled Water by Panuma, blaank, birø, Idun Nicoline](https://open.spotify.com/track/4wsnIQl5IXJnf7UxFIJsFX)
-- [California by SRTW, CLOSR](https://open.spotify.com/track/0ie7yu9lmMdvsNs2giGF7d)
-- [I Just Wanna Know by Arpad, Dominic Neill](https://open.spotify.com/track/4FDzpvJpWh0CHtv6fWDgWj)
-- [Hold Me Closer by fwd/slash](https://open.spotify.com/track/0CJkhThcJlUCRzb3CioKwn)
+- [The Ocean by Dallien, My Linh](https://open.spotify.com/track/31ow2EEyXVMBSRIk3jmF3y)
+- [Afterlife by Rammor, Lonely Night](https://open.spotify.com/track/16NvJNKYMCJpV744U20c3D)
+- [GPS by SRTW](https://open.spotify.com/track/3lNXzcg8u7ExtjhKt6NuCW)
+- [Find Me by Duce, TRE, Jessie Lee Thetford](https://open.spotify.com/track/5JMZkctq88p9px4ewkXzM2)
+- [Lovin U by Haasy, PRAZI](https://open.spotify.com/track/0WVOgLhVL1Zy4raPUPKV89)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
