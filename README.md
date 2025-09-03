@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Your Favorite Song by APE, Astrid James](https://open.spotify.com/track/6DUoSZfPiO6XdSg1QZXJc0)
-- [Rising by Charlie Aylesbury, Ian Robert, Florence Jack](https://open.spotify.com/track/4AZnHAgy0OnN7jfawXBMRr)
-- [Wait for Me by SRTW, nourii](https://open.spotify.com/track/5rcV7QcCLxGrmgOB9ziOOj)
-- [Feels like This by Hallman](https://open.spotify.com/track/7Iys4K5Evj3vVeto3fjWeI)
-- [Wild &amp; Free by Makramee](https://open.spotify.com/track/038BjDcUOFNKUN08tcpvqD)
+- [Trust by Lonely Night, Lost Dreamers](https://open.spotify.com/track/5ISPdVetBCePwQ0hfH4f5m)
+- [That&#39;s Alright by LOWEN, Alon, Denzel Chain](https://open.spotify.com/track/6LWedVom7fX8o5rWP7X5du)
+- [Into the Night by nømad, Donner, Horxata](https://open.spotify.com/track/33ljt9tVhlLy9K8Kmg1xA3)
+- [Signs of You by nourii, Lapsi](https://open.spotify.com/track/4SffNntJnSeifw85sRVyhn)
+- [A Million Times by Raphael DeLove, Vive](https://open.spotify.com/track/40rxmcUkcf8qXgGrN2esLk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
