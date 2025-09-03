@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Not There Yet by nourii, Dominic Neill](https://open.spotify.com/track/3UOQJuyqH7pyLSHmI45hOQ)
-- [Butterflies - Chill Mix by SRTW, Charity Children](https://open.spotify.com/track/7w9NOqoeE3Zfv19VYMRMxF)
-- [Heavy by LuvLess, Freddie Mudge](https://open.spotify.com/track/4oQYtbsHz7RjRcs9V9oPEo)
-- [Into the Sunset by Makramee](https://open.spotify.com/track/2NBKmOfbSxjbwdsWn6xR65)
-- [Let&#39;s disappear tonight - Radio Edit by Spoke](https://open.spotify.com/track/3CZDfvbHG6bQ0wYVjAaMqI)
+- [More Than a Memory by Makramee](https://open.spotify.com/track/7hKZtok5ozpGwBbM4xSBxu)
+- [Soaking up The Sunlight by SRTW, nourii](https://open.spotify.com/track/6WCDszKwyfInq5ui39fx1G)
+- [Where Did You Go by Arley, Descend, maybealice](https://open.spotify.com/track/54zw5lZ6JEedZyO1YZYfTZ)
+- [All I Need (Ramundo Remix) by Rammor, Bien, Ramundo](https://open.spotify.com/track/5cCzngHG5NIW37eouwl3Hq)
+- [Closer by Alex Martura](https://open.spotify.com/track/5oO4A9xKVeBEsffcFNU7AQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
