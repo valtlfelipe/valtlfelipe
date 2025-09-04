@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Body on Fire by SOMMA, Dillistone](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV)
-- [Blindspot by Goodboys, Nu Aspect, AVAION](https://open.spotify.com/track/2Mdv8PnOWxKhjtbQ9UnVva)
-- [Fall Back Down by PALASTIC, James French](https://open.spotify.com/track/6wQaKs1COnCnqPIsIKsccx)
-- [No Man&#39;s Land by CAKES, Izzy Bizu](https://open.spotify.com/track/6Ugr3Xsm1eeHxliKuEeWaW)
-- [Dior (feat. Chrystal) by MK, Chrystal](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX)
+- [Don&#39;t Wake Me Up by James Hype](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh)
+- [Secrets by Tudor, Caroline Byrne](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ)
+- [Watching over You by Nu Aspect, Marlo Rex](https://open.spotify.com/track/3OTz9JVR0pfKbhaCL45cJy)
+- [Reminds Me Of You by Hii Spirits, Rromarin](https://open.spotify.com/track/4WWdzgApSRfHVfKve4DqBx)
+- [Nobody Knows - Belters Only Remix by Ape Drums, Clementine Douglas, Belters Only](https://open.spotify.com/track/1unlWf6dqVy71XhAdlMjH0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
