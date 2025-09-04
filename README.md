@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Into the Sunset by Makramee](https://open.spotify.com/track/2NBKmOfbSxjbwdsWn6xR65)
-- [Let&#39;s disappear tonight - Radio Edit by Spoke](https://open.spotify.com/track/3CZDfvbHG6bQ0wYVjAaMqI)
-- [Fading Into You by NOVUM](https://open.spotify.com/track/2exgKoiQu3IN9kRZoxrEYA)
-- [Pretty Please by SRTW, NLSN, RAENE](https://open.spotify.com/track/1mhqgTnqbUVnKY7wic4CKt)
-- [In My Arms by nourii, Lapsi](https://open.spotify.com/track/08OjEAvN1EclkRAUxW3tFM)
+- [BIRDS OF A FEATHER by Noile](https://open.spotify.com/track/0DDtibjGsJZGyXReF5yQXm)
+- [Call Me by AINT, Strobe](https://open.spotify.com/track/2FDlOw76PlZgvdtdBnF6oZ)
+- [Forget About Me by igor](https://open.spotify.com/track/7fZNsrR8GDl3LOvCujrN2U)
+- [Read Your Mind by Atch, Jason Walker](https://open.spotify.com/track/0igT2UzkqPUndYop6darMp)
+- [We Call Home by VLX, Tom Bailey, Michael FAY](https://open.spotify.com/track/4Gvxz70ZN0Pj9QczhlTwEh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
