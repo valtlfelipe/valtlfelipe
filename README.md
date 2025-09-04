@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [In the Nighttime by RANE](https://open.spotify.com/track/2KLtagJpuQJqAYV4QgJLn7)
-- [Summer Rain by SRTW](https://open.spotify.com/track/64geVsN2E4vci5Hi1bMbXY)
-- [Forget About You - Sunrise Mix by Rammor](https://open.spotify.com/track/4bXxYCK0IR94J1Tdx9egjg)
-- [Cool Kids by Noile](https://open.spotify.com/track/2Eib8OVZyz8fGMuYPTigUj)
-- [Addicted by Deeplace](https://open.spotify.com/track/3fyj32OeQuE92plyQO9L2g)
+- [Into the Sunset by Makramee](https://open.spotify.com/track/2NBKmOfbSxjbwdsWn6xR65)
+- [Let&#39;s disappear tonight - Radio Edit by Spoke](https://open.spotify.com/track/3CZDfvbHG6bQ0wYVjAaMqI)
+- [Fading Into You by NOVUM](https://open.spotify.com/track/2exgKoiQu3IN9kRZoxrEYA)
+- [Pretty Please by SRTW, NLSN, RAENE](https://open.spotify.com/track/1mhqgTnqbUVnKY7wic4CKt)
+- [In My Arms by nourii, Lapsi](https://open.spotify.com/track/08OjEAvN1EclkRAUxW3tFM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
