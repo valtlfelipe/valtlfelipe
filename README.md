@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Don&#39;t Wake Me Up by James Hype](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh)
-- [Secrets by Tudor, Caroline Byrne](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ)
-- [Watching over You by Nu Aspect, Marlo Rex](https://open.spotify.com/track/3OTz9JVR0pfKbhaCL45cJy)
-- [Reminds Me Of You by Hii Spirits, Rromarin](https://open.spotify.com/track/4WWdzgApSRfHVfKve4DqBx)
-- [Nobody Knows - Belters Only Remix by Ape Drums, Clementine Douglas, Belters Only](https://open.spotify.com/track/1unlWf6dqVy71XhAdlMjH0)
+- [It&#39;s Not Right But It&#39;s Okay by Mr. Belt &amp; Wezol](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj)
+- [Sleep Talking by Beyond, Marlo Rex](https://open.spotify.com/track/5B8yexFn22KcFZKuf7zFAc)
+- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
+- [Wildfire by PALASTIC](https://open.spotify.com/track/7iIzan4uOlOeXZ8iE3b91F)
+- [You&#39;re Makin&#39; Me High by DJ Katch, Amira Eldine](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
