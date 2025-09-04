@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Midnight Air by SRTW, COLIN](https://open.spotify.com/track/2NgFnTo1Lfap8Szele96P2)
-- [Move x Starboy by Ciete](https://open.spotify.com/track/16a1vuux32VvVQslrXXWBh)
-- [Let Me Go by Sole Sole](https://open.spotify.com/track/2gj1KfwwUM0iL1wL4ADZLZ)
-- [Am I Wrong For This by Rolipso, SITHEA, Luna Serenade](https://open.spotify.com/track/7wQllV8Y8QlCo8fj9N3lFM)
-- [Am I Wrong For This by Rolipso, SITHEA, Luna Serenade](https://open.spotify.com/track/7wQllV8Y8QlCo8fj9N3lFM)
+- [Get Close by Bolier, AMRV](https://open.spotify.com/track/5Iu5ajMYXdV8z9fJ5XimwD)
+- [Over &amp; Over by Dark Heart, NJOMZA](https://open.spotify.com/track/2VYtAJuuOr6RyOOggzSTIB)
+- [Mother by Revelle27](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu)
+- [Your Touch by Why U So, SHELLS](https://open.spotify.com/track/0rfsaQbCQQGu5mfytzH5z8)
+- [Bonfire by Tudor](https://open.spotify.com/track/736VDbKKgjzvPOoKjjti4R)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
