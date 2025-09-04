@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Older by nourii, Lapsi](https://open.spotify.com/track/4bOJ3TlVe9kTSwy4OtJK5y)
-- [Ocean by NOVUM](https://open.spotify.com/track/0rLR1e07j5xQKqMNtG84RL)
-- [Espresso by Nimus](https://open.spotify.com/track/3JOFBNRW4LqhlFX5FRPmrC)
-- [I Took A Pill In Ibiza by AINT](https://open.spotify.com/track/3G08CR0TfATeLEBI1qmHK7)
-- [Confuse Yourself by zolaaa](https://open.spotify.com/track/5KMyg7C8JEWb1KQcHg1pTj)
+- [Let Go by Boeuv, joegarratt](https://open.spotify.com/track/0eVgf7aquK1azY3A7m4QN2)
+- [Nightdreaming by SRTW, Nina Young](https://open.spotify.com/track/26K7P20Hg4rRsHptdrzjaE)
+- [Strangers Eyes by Leo Corris](https://open.spotify.com/track/0htwhYRvrUDrRU6UPkjxCj)
+- [Light Year by Alex Breitling, Jyll](https://open.spotify.com/track/1TwLyvoMOPLQmuF65aw1Or)
+- [Your Love by nourii, scanta rose](https://open.spotify.com/track/5Rm8y2u1VNJYPuzBVYkkQB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
