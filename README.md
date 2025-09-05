@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
-- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
-- [No Broke Boys by Disco Lines, Tinashe](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj)
-- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
-- [Heaven by PALASTIC, ALLKNIGHT](https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp)
+- [Beggin&#39; by Chris Lake, Aluna](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz)
+- [Midnight Zone by Astrality, TAPE ANGEL](https://open.spotify.com/track/6iDQi093BFCGouVa3uXpOu)
+- [No Good by DJ Katch, Clearest](https://open.spotify.com/track/08PwBZbBAUt5jRPmTwJ43z)
+- [Pray (feat. Jazzi Sirius) by Disciples, Jazzi Sirius](https://open.spotify.com/track/6p01TrnodGu9pCPlIJN7aK)
+- [Waiting by Paul Schulze, Aiko, whoisanyelo](https://open.spotify.com/track/1aWI6JTjH8rSXmC6V1Q3Na)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
