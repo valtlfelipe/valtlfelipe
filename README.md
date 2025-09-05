@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Us - Selected Mix by Chace](https://open.spotify.com/track/5PU3Pd7ml1GfvJt7IqksG6)
-- [Override by Dave Silcox, Ferington, Nikki Ambers](https://open.spotify.com/track/40DjjsuODwdlRZ4XFfhcwH)
-- [You Save My Life by HRRTZ](https://open.spotify.com/track/6HOTU1pKC4qN1OCWAht0Pk)
-- [Heaven by James Carter](https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3)
-- [Get Through This by Nathan C](https://open.spotify.com/track/4NkHMtDWqqfU9snFt7Ae6j)
+- [Tell Me by James Carter, Hanne Mjøen](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg)
+- [Cherish by Badflite](https://open.spotify.com/track/4ZYL4h2sQEWVBXoSuLcMEA)
+- [Location by Zerb, Ty Dolla $ign, Wiz Khalifa](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP)
+- [Shine Like Stars by Benji](https://open.spotify.com/track/1k2OaUl9NGaBA4wa3Ommvc)
+- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
