@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Beggin&#39; by Chris Lake, Aluna](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz)
-- [Midnight Zone by Astrality, TAPE ANGEL](https://open.spotify.com/track/6iDQi093BFCGouVa3uXpOu)
-- [No Good by DJ Katch, Clearest](https://open.spotify.com/track/08PwBZbBAUt5jRPmTwJ43z)
-- [Pray (feat. Jazzi Sirius) by Disciples, Jazzi Sirius](https://open.spotify.com/track/6p01TrnodGu9pCPlIJN7aK)
-- [Waiting by Paul Schulze, Aiko, whoisanyelo](https://open.spotify.com/track/1aWI6JTjH8rSXmC6V1Q3Na)
+- [Us - Selected Mix by Chace](https://open.spotify.com/track/5PU3Pd7ml1GfvJt7IqksG6)
+- [Override by Dave Silcox, Ferington, Nikki Ambers](https://open.spotify.com/track/40DjjsuODwdlRZ4XFfhcwH)
+- [You Save My Life by HRRTZ](https://open.spotify.com/track/6HOTU1pKC4qN1OCWAht0Pk)
+- [Heaven by James Carter](https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3)
+- [Get Through This by Nathan C](https://open.spotify.com/track/4NkHMtDWqqfU9snFt7Ae6j)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
