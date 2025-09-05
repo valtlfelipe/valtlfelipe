@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [WACUKA by AVAION, Sofiya Nzau](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4)
-- [Forever by ZULAN](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P)
-- [Dreaming by Gorgon City](https://open.spotify.com/track/15vNoLXoliW2XdTUDlNlWk)
-- [If You Had My Love by Paul Schulze, FŪNKENSTEIN, LEVII](https://open.spotify.com/track/58mmJ7RXEesiCJeYGK3QJY)
-- [Howl by SOMMA, SHELLS](https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy)
+- [Lost You by oskar med k](https://open.spotify.com/track/2Z6UTk8VRdn0I6mwM98FCG)
+- [What&#39;s in My Head by Nu Aspect](https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF)
+- [What A Feeling by Courtney Storm, Finley Brückner](https://open.spotify.com/track/4MqY1JHLLfI0V62iZ3MDNa)
+- [Your Body by Marten Lou](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3)
+- [Wait So Long by Swedish House Mafia](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
