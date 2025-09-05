@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Lost You by oskar med k](https://open.spotify.com/track/2Z6UTk8VRdn0I6mwM98FCG)
-- [What&#39;s in My Head by Nu Aspect](https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF)
-- [What A Feeling by Courtney Storm, Finley Brückner](https://open.spotify.com/track/4MqY1JHLLfI0V62iZ3MDNa)
-- [Your Body by Marten Lou](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3)
-- [Wait So Long by Swedish House Mafia](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT)
+- [How Do I Sleep Now by Dallerium, Olive](https://open.spotify.com/track/3EtXo9cEurLpblcdWHuBjT)
+- [No Way Out by Paul Schulze, sadHAPPY](https://open.spotify.com/track/4OoPS9qN7qDv4tqaMb3ScP)
+- [Anywhere (Road Trippin&#39;) by anamē](https://open.spotify.com/track/5rXJXEBTHqOjeLQbYSa07n)
+- [Words - Extended by Nu Aspect](https://open.spotify.com/track/1aOhHEqxaIPe2mCboC0ETN)
+- [Alone Together by Astrality, Georgia Blackwell](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
