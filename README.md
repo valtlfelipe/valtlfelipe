@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [All We Ever Do by Keanler, Leo Stannard](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw)
-- [Self Love by BLOND:ISH](https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F)
-- [How Do I Sleep Now by Dallerium, Olive](https://open.spotify.com/track/3EtXo9cEurLpblcdWHuBjT)
-- [No Way Out by Paul Schulze, sadHAPPY](https://open.spotify.com/track/4OoPS9qN7qDv4tqaMb3ScP)
-- [Anywhere (Road Trippin&#39;) by anamē](https://open.spotify.com/track/5rXJXEBTHqOjeLQbYSa07n)
+- [Talk To Me by DRAY, Tudor](https://open.spotify.com/track/4Zr9cXuM4U7K8xUEiey8ib)
+- [Feels So Right by Aden Lou](https://open.spotify.com/track/4POjJI8EJIbchOE0fju0QR)
+- [Too Tense by oskar med k](https://open.spotify.com/track/6DX98Pko7MmGRluSvj43cU)
+- [SAFE WITH ME (SECRETOS) by Jhay Rivas](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR)
+- [Afterlife by Nu Aspect, JEWELS, MAGNUS](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
