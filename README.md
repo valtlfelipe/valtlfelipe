@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Different Way by BLOND:ISH, Zeeba](https://open.spotify.com/track/7FQsfcYoECeNDRWm0FXzSc)
-- [Tell Me That by igor](https://open.spotify.com/track/0PYXMXiikfMvJqVcLhCBpz)
-- [Sunroof - Loud Luxury Remix by Nicky Youre, hey daisy, Loud Luxury](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj)
-- [Revolving door - Lavern remix by Tate McRae, Lavern](https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc)
-- [Desire by Ian Asher, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0)
+- [We Could Have It All by Punctual](https://open.spotify.com/track/2exlWmUXIoMGpo5SvWXwN5)
+- [Closing Hour by Panuma, Tim Hughes](https://open.spotify.com/track/5m8yfomGrRuslN7B3PfF3C)
+- [Distraction by Nu Aspect, Jem Cooke](https://open.spotify.com/track/2XCc7Y5BhnBK29r9mhFXZG)
+- [Wrap Yourself Around Me by D.O.D, NORTH](https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD)
+- [Dark Ocean by MRKO](https://open.spotify.com/track/04iO2QcXGGWqI8QuG1Uozf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
