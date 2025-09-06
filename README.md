@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Talk To Me by DRAY, Tudor](https://open.spotify.com/track/4Zr9cXuM4U7K8xUEiey8ib)
-- [Feels So Right by Aden Lou](https://open.spotify.com/track/4POjJI8EJIbchOE0fju0QR)
-- [Too Tense by oskar med k](https://open.spotify.com/track/6DX98Pko7MmGRluSvj43cU)
-- [SAFE WITH ME (SECRETOS) by Jhay Rivas](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR)
-- [Afterlife by Nu Aspect, JEWELS, MAGNUS](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd)
+- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
+- [Nobody Knows by Ape Drums, Clementine Douglas](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb)
+- [Better Days by Oliver Cricket](https://open.spotify.com/track/5f9t61TRxZ3ancJadJyrHm)
+- [Just Wanna by Andrew Nagy](https://open.spotify.com/track/2nwvOh6FD9kt10ylz1nObA)
+- [World on Fire by Keanler](https://open.spotify.com/track/65R5JQFsjzba1TMDlK58TX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
