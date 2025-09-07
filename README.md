@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Moving In by Rezident, Elmar](https://open.spotify.com/track/3QTRSMkio5iEka29Ek2DD5)
-- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
-- [Wrath by Keanler, cypress](https://open.spotify.com/track/4ubbyOgrDNCxvBJ0r9G9RL)
-- [Better Than Nothing - Extended Mix by James Carter, Keanler, Malou](https://open.spotify.com/track/7F4oMMO7240ESj3ZnaZpPb)
-- [Disconnected by Naws](https://open.spotify.com/track/38eLdh3v9ABbWh05ndzVpF)
+- [Me Encontra by Charlie Brown Jr.](https://open.spotify.com/track/5yEais1zgeW1MjLrx7tsie)
+- [When Love Takes Over (feat. Kelly Rowland) by David Guetta, Kelly Rowland](https://open.spotify.com/track/619bJQ9uDi8dnXzLebFI7y)
+- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
+- [Too Close by Duce, terro](https://open.spotify.com/track/3BViioPyfENAfJdk8TpXB1)
+- [meadowlark by cypress](https://open.spotify.com/track/7wh32aDLau9s6rtNLF8U6M)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
