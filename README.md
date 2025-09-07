@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Condor - Latroit Edition by Echolocation, Jordan Whitlock, Latroit](https://open.spotify.com/track/3VCmqCSjy1UpXE8lhuvID0)
-- [Another Love - Tiësto Remix by Tom Odell, Tiësto](https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1)
-- [Soft Lights by Keanler, Ren Ocean](https://open.spotify.com/track/14w9UJfnEOln70AwtKrrpd)
-- [We Could Have It All by Punctual](https://open.spotify.com/track/2exlWmUXIoMGpo5SvWXwN5)
-- [Closing Hour by Panuma, Tim Hughes](https://open.spotify.com/track/5m8yfomGrRuslN7B3PfF3C)
+- [Moving In by Rezident, Elmar](https://open.spotify.com/track/3QTRSMkio5iEka29Ek2DD5)
+- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
+- [Wrath by Keanler, cypress](https://open.spotify.com/track/4ubbyOgrDNCxvBJ0r9G9RL)
+- [Better Than Nothing - Extended Mix by James Carter, Keanler, Malou](https://open.spotify.com/track/7F4oMMO7240ESj3ZnaZpPb)
+- [Disconnected by Naws](https://open.spotify.com/track/38eLdh3v9ABbWh05ndzVpF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
