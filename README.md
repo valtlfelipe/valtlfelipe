@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jitsucom/jitsu](https://github.com/jitsucom/jitsu)** - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Want It All by Mike Key, S:NE](https://open.spotify.com/track/2bFHpvUFSKn1fWacZlARlk)
+- [Stay by Yuno Fall](https://open.spotify.com/track/61l5YM2fNO6FnxkPomM4P5)
+- [make it right by upsidedownhead, Elmar](https://open.spotify.com/track/5YU7vzxKLzH2YVcDRNkfkH)
+- [Sunshine is Coming by Karol Carlo](https://open.spotify.com/track/3mCBnVxnyLp2t5uhxsK4pm)
 - [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
-- [Forever by Chris Brown](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML)
-- [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
-- [Summer Air by ItaloBrothers](https://open.spotify.com/track/3MIwc5XzD2VX8ZJAIyURKI)
-- [Can&#39;t Get You out of My Head by Kylie Minogue](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
