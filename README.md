@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Aligned by Slow Ted](https://open.spotify.com/track/1FJ30vrIqdagpDSUfXTIXu)
-- [San Diego Fair by Adon](https://open.spotify.com/track/2rft88gZDmoJZHymSW5EAc)
-- [You Gotta Be by Jophil](https://open.spotify.com/track/2GZEIMCkk0Qvf8Kzfi4Adt)
-- [Looks Like I&#39;m Waiting (Feat. Afnan Prince) by Cristoph, CultureKind, Afnan Prince](https://open.spotify.com/track/51JugfoqOCejQxQA1l3KA2)
-- [Sweet Escape by Spoke](https://open.spotify.com/track/787h39tNvDqqRLHZ4d5I4w)
+- [Hear Me Now by Jai Nova](https://open.spotify.com/track/0HQoB2JnpFIDK7hfNFIwy0)
+- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
+- [Wash Away by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/0x973wsmuY1Ub96Z4vVHLq)
+- [The Silence by Freyer, noo](https://open.spotify.com/track/4XAoQwp9nspONq8R9k8Ybp)
+- [Pain by Albi](https://open.spotify.com/track/1OPZvb85PeAzkypMnf0XVh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
