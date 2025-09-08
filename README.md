@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [California Night Sky by RANE](https://open.spotify.com/track/7aQaV64h5FTa6t01fBegWB)
-- [i know - it’s over now by elsaaa](https://open.spotify.com/track/290lg1zQaJqetNplZzDHwo)
-- [The Way by TMPST, Maynørr, Jessie Lee Thetford](https://open.spotify.com/track/5FNALpsFw15M8reZbqzVzi)
-- [About Life by Adon](https://open.spotify.com/track/5Ej9BvOmEpVyh30oxjBV6d)
-- [Take It All Back by Jake Neumar](https://open.spotify.com/track/6q8GmdLVGlcVmHaTDp9enJ)
+- [some days by Roman Müller](https://open.spotify.com/track/256FozQ9ntOSYngEEnWrC1)
+- [No Horizons by Braxton, Rromarin](https://open.spotify.com/track/628NXOoOPpylCiTVpdf9rT)
+- [Black &amp; Blue by LEVII, KING LX](https://open.spotify.com/track/1xkuVT4MG9Rwa1V8dbyaqh)
+- [feel again by shiny things](https://open.spotify.com/track/3tqj6s9S2XtSMmxBMBtxyk)
+- [Strangers by Cristoph, Adz](https://open.spotify.com/track/4Czju4TW47TCRH5UyZmdPy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
