@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [In Love Again by Lonely in the Rain](https://open.spotify.com/track/6cz2y7t6bDJcktGp6IVM5w)
+- [Hard to Run by DJ Roody, Skye](https://open.spotify.com/track/5C5QXdWjAbV4bPFFjsCllj)
+- [Against the Grain by Duce, Maynørr, RAEYA](https://open.spotify.com/track/6zIrqCevd3BhrpVfCesT0Y)
+- [Falling by Naws, Marksman, Ayca](https://open.spotify.com/track/3tk5kZ2dGjRMJ2VA2WGA1Z)
 - [Sunday Morning by The kid in blue, Alberto Ciccarini, Poul](https://open.spotify.com/track/5GL6mdzyFK2HbJiH0pg9nM)
-- [love u by elsaaa](https://open.spotify.com/track/4wKK77CzPkeBcz40OgXuRs)
-- [Crowded Room by Lonely in the Rain](https://open.spotify.com/track/5HBbpkeeIqhzzYRM3ExVuQ)
-- [All I Wanted by Quentin Berger](https://open.spotify.com/track/1zUJb5EgiCKhio33aaa9m4)
-- [Just Stay by Nimus, nourii](https://open.spotify.com/track/7h1JoIeuscxV9K80e1BYde)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
