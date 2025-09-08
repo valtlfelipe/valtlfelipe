@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [some days by Roman Müller](https://open.spotify.com/track/256FozQ9ntOSYngEEnWrC1)
-- [No Horizons by Braxton, Rromarin](https://open.spotify.com/track/628NXOoOPpylCiTVpdf9rT)
-- [Black &amp; Blue by LEVII, KING LX](https://open.spotify.com/track/1xkuVT4MG9Rwa1V8dbyaqh)
-- [feel again by shiny things](https://open.spotify.com/track/3tqj6s9S2XtSMmxBMBtxyk)
-- [Strangers by Cristoph, Adz](https://open.spotify.com/track/4Czju4TW47TCRH5UyZmdPy)
+- [Sunday Morning by The kid in blue, Alberto Ciccarini, Poul](https://open.spotify.com/track/5GL6mdzyFK2HbJiH0pg9nM)
+- [love u by elsaaa](https://open.spotify.com/track/4wKK77CzPkeBcz40OgXuRs)
+- [Crowded Room by Lonely in the Rain](https://open.spotify.com/track/5HBbpkeeIqhzzYRM3ExVuQ)
+- [All I Wanted by Quentin Berger](https://open.spotify.com/track/1zUJb5EgiCKhio33aaa9m4)
+- [Just Stay by Nimus, nourii](https://open.spotify.com/track/7h1JoIeuscxV9K80e1BYde)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
