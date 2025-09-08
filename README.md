@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
-- [Waterfalls by Adon](https://open.spotify.com/track/6XRdIjLR6SA7il5lmOw5FC)
-- [Heart On The Line - Jordin Post Remix by Mats Westbroek, Jordin Post](https://open.spotify.com/track/28pydyxL4SDbn5AWX5CQ61)
-- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
-- [Sunrise by Nimus, Aurila](https://open.spotify.com/track/1KaGHfN8QGVtkcYGolrDOj)
+- [California Night Sky by RANE](https://open.spotify.com/track/7aQaV64h5FTa6t01fBegWB)
+- [i know - it’s over now by elsaaa](https://open.spotify.com/track/290lg1zQaJqetNplZzDHwo)
+- [The Way by TMPST, Maynørr, Jessie Lee Thetford](https://open.spotify.com/track/5FNALpsFw15M8reZbqzVzi)
+- [About Life by Adon](https://open.spotify.com/track/5Ej9BvOmEpVyh30oxjBV6d)
+- [Take It All Back by Jake Neumar](https://open.spotify.com/track/6q8GmdLVGlcVmHaTDp9enJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
