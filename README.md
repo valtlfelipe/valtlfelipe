@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hear Me Now by Jai Nova](https://open.spotify.com/track/0HQoB2JnpFIDK7hfNFIwy0)
-- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
-- [Wash Away by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/0x973wsmuY1Ub96Z4vVHLq)
-- [The Silence by Freyer, noo](https://open.spotify.com/track/4XAoQwp9nspONq8R9k8Ybp)
-- [Pain by Albi](https://open.spotify.com/track/1OPZvb85PeAzkypMnf0XVh)
+- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
+- [Waterfalls by Adon](https://open.spotify.com/track/6XRdIjLR6SA7il5lmOw5FC)
+- [Heart On The Line - Jordin Post Remix by Mats Westbroek, Jordin Post](https://open.spotify.com/track/28pydyxL4SDbn5AWX5CQ61)
+- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
+- [Sunrise by Nimus, Aurila](https://open.spotify.com/track/1KaGHfN8QGVtkcYGolrDOj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
