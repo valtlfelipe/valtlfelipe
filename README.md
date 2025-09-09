@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [In Love Again by Lonely in the Rain](https://open.spotify.com/track/6cz2y7t6bDJcktGp6IVM5w)
-- [Hard to Run by DJ Roody, Skye](https://open.spotify.com/track/5C5QXdWjAbV4bPFFjsCllj)
-- [Against the Grain by Duce, Maynørr, RAEYA](https://open.spotify.com/track/6zIrqCevd3BhrpVfCesT0Y)
-- [Falling by Naws, Marksman, Ayca](https://open.spotify.com/track/3tk5kZ2dGjRMJ2VA2WGA1Z)
-- [Sunday Morning by The kid in blue, Alberto Ciccarini, Poul](https://open.spotify.com/track/5GL6mdzyFK2HbJiH0pg9nM)
+- [Let&#39;s disappear tonight - Radio Edit by Spoke](https://open.spotify.com/track/3CZDfvbHG6bQ0wYVjAaMqI)
+- [Take Me Home by MXV, Joel Winterflood](https://open.spotify.com/track/2sMT7isjALKOvc8wFhDswK)
+- [Open Your Eyes by Nick Raff](https://open.spotify.com/track/3Ebt1WALSn914WYdfCKV4B)
+- [Give It A Try (Why Don&#39;t We) by Freyer, Idun Nicoline](https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX)
+- [Yellow Coat by Friends &amp; I](https://open.spotify.com/track/5auNDaHLvMKhq4OTSSSVkB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
