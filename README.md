@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Straight To LA by Thom Merlin, Raïko](https://open.spotify.com/track/5pzsLJOWNvef2OFcYqPmi3)
+- [Steady As The Sea - Palisade Remix by Le Roy, Jyll, Palisade](https://open.spotify.com/track/5NbEX6qiPA1m5pwa4ofuh6)
+- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
+- [Little Lies by Don Diablo](https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU)
 - [Secret Promise by Nicolas Haelg](https://open.spotify.com/track/6S9FI9ZZsVFQPSsWhLablf)
-- [Friendly by Albi](https://open.spotify.com/track/0EVHOaSDaiXdO8hIrHBeoF)
-- [Testify by TIANBO, TMPST, Montagu](https://open.spotify.com/track/10xateGXXEj2VhrDeAnpzr)
-- [I Can Do Without You by Mandarin Plaza](https://open.spotify.com/track/4rNcuwXBmlKg2CWMdM0gVA)
-- [It’s All On You by Rezident, Malou](https://open.spotify.com/track/6LVQCLkRzPEplGMo93acLl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
