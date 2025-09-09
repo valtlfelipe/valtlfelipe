@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Straight To LA by Thom Merlin, Raïko](https://open.spotify.com/track/5pzsLJOWNvef2OFcYqPmi3)
-- [Steady As The Sea - Palisade Remix by Le Roy, Jyll, Palisade](https://open.spotify.com/track/5NbEX6qiPA1m5pwa4ofuh6)
-- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
-- [Little Lies by Don Diablo](https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU)
-- [Secret Promise by Nicolas Haelg](https://open.spotify.com/track/6S9FI9ZZsVFQPSsWhLablf)
+- [I&#39;M BETTER OFF ALONE by Stefan Torres](https://open.spotify.com/track/3E2hrrrgxahD4QUyEIYtSs)
+- [Sun Sets by Deeplace](https://open.spotify.com/track/0xZjk1SFs2jdDaK65jmrxy)
+- [connection by nineveh.](https://open.spotify.com/track/47NgFpkO3RiYsPZgJOl79H)
+- [Tanning Lines by Rolipso, clarity.](https://open.spotify.com/track/7x41VMXT0qq7RccFc1EQCD)
+- [Dream State by Lucky Guess, Coppermines](https://open.spotify.com/track/6agt3Zm3ZHn2PvZGLyFzlX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
