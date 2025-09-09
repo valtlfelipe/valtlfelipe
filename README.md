@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Home by Nicolas Haelg](https://open.spotify.com/track/4PKA77KH93C99UC88hUifO)
-- [Follow You by nourii, RED](https://open.spotify.com/track/1tqMgJIDWQoH2t1gRom9gd)
-- [Right On Time by Panuma, Nina Carr](https://open.spotify.com/track/5OeQIoGuZXu0ufLlYsILza)
-- [Beautiful People - Radio Edit by Andrew Dum](https://open.spotify.com/track/6BeAtnLoZq5xLZW6t3vlA1)
-- [Ultra Violence by REMAZE](https://open.spotify.com/track/0WYui0bROoETwAQXlUArfL)
+- [Sunshine is Coming by Karol Carlo](https://open.spotify.com/track/3mCBnVxnyLp2t5uhxsK4pm)
+- [Off The Ground (feat. MRYN) by Chiara Meloni, MRYN](https://open.spotify.com/track/7aFWSEBe1IYjsVVKs9qSgC)
+- [No Luck by AINT, Boy Kiss Girl](https://open.spotify.com/track/6VtDkSkR1gwv1KlrX3ohes)
+- [Dreaming In The Sky by Duce, LuvLess](https://open.spotify.com/track/1qnnYYVn4zEJgfLvZvq1H6)
+- [EVERYTHINK by Stefan Torres](https://open.spotify.com/track/0f9rxVfnIvVBDiABKHtfx7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
