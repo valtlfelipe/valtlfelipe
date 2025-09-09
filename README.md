@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I&#39;M BETTER OFF ALONE by Stefan Torres](https://open.spotify.com/track/3E2hrrrgxahD4QUyEIYtSs)
-- [Sun Sets by Deeplace](https://open.spotify.com/track/0xZjk1SFs2jdDaK65jmrxy)
-- [connection by nineveh.](https://open.spotify.com/track/47NgFpkO3RiYsPZgJOl79H)
-- [Tanning Lines by Rolipso, clarity.](https://open.spotify.com/track/7x41VMXT0qq7RccFc1EQCD)
-- [Dream State by Lucky Guess, Coppermines](https://open.spotify.com/track/6agt3Zm3ZHn2PvZGLyFzlX)
+- [Beautiful People - Radio Edit by Andrew Dum](https://open.spotify.com/track/6BeAtnLoZq5xLZW6t3vlA1)
+- [Ultra Violence by REMAZE](https://open.spotify.com/track/0WYui0bROoETwAQXlUArfL)
+- [Arrow by INNERVERSE, Oliver Cricket](https://open.spotify.com/track/3TUZGSbOgrB68DZDlaBoiS)
+- [Galaxy From Home by Aludra](https://open.spotify.com/track/1BTsjlr9xjyhsW8venOXrc)
+- [By My Side by Mandarin Plaza](https://open.spotify.com/track/4bwRkfjcQj4rNktDbhcOmT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
