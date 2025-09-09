@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Let&#39;s disappear tonight - Radio Edit by Spoke](https://open.spotify.com/track/3CZDfvbHG6bQ0wYVjAaMqI)
-- [Take Me Home by MXV, Joel Winterflood](https://open.spotify.com/track/2sMT7isjALKOvc8wFhDswK)
-- [Open Your Eyes by Nick Raff](https://open.spotify.com/track/3Ebt1WALSn914WYdfCKV4B)
-- [Give It A Try (Why Don&#39;t We) by Freyer, Idun Nicoline](https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX)
-- [Yellow Coat by Friends &amp; I](https://open.spotify.com/track/5auNDaHLvMKhq4OTSSSVkB)
+- [Secret Promise by Nicolas Haelg](https://open.spotify.com/track/6S9FI9ZZsVFQPSsWhLablf)
+- [Friendly by Albi](https://open.spotify.com/track/0EVHOaSDaiXdO8hIrHBeoF)
+- [Testify by TIANBO, TMPST, Montagu](https://open.spotify.com/track/10xateGXXEj2VhrDeAnpzr)
+- [I Can Do Without You by Mandarin Plaza](https://open.spotify.com/track/4rNcuwXBmlKg2CWMdM0gVA)
+- [It’s All On You by Rezident, Malou](https://open.spotify.com/track/6LVQCLkRzPEplGMo93acLl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
