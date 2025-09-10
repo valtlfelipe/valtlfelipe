@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Forever - Late Summer Edit by Quentin Berger](https://open.spotify.com/track/2uRtWwLN7SJ8ZviyYr5qVK)
-- [Hear Me Now by Jai Nova](https://open.spotify.com/track/0HQoB2JnpFIDK7hfNFIwy0)
-- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
-- [Wash Away by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/0x973wsmuY1Ub96Z4vVHLq)
-- [The Silence by Freyer, noo](https://open.spotify.com/track/4XAoQwp9nspONq8R9k8Ybp)
+- [Keep Me Wasted by Spoke](https://open.spotify.com/track/6YT0WS2ZwmvwxiVliAQY8V)
+- [Tell Me by Lonely in the Rain, Benji Lewis](https://open.spotify.com/track/1yGxOL7yo3qXvD0N6HguLy)
+- [Once More by Lonely in the Rain, Anna-Sophia Henry](https://open.spotify.com/track/6sPY9WHY49CA6ixufShUiO)
+- [Feel Good by Adon, Emilia Sonate](https://open.spotify.com/track/3a689SHnv5jd5dP2RLvsPU)
+- [Dive by mölly, Rowland Giles, Run Rivers](https://open.spotify.com/track/512CNfJskE5nI4uBMtaLa9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
