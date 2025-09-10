@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Sweet Escape by Spoke](https://open.spotify.com/track/787h39tNvDqqRLHZ4d5I4w)
-- [Closing Roads by Quentin Berger](https://open.spotify.com/track/53OdUwW9TcIXZd870maaLw)
-- [Stuck In My Head by Slow Ted](https://open.spotify.com/track/4S7fLFfE7wrCcrqS47BoRS)
-- [You and Me by Adon](https://open.spotify.com/track/6swLohud9649tehcpgEQoF)
-- [Sleeping Satellite by Jophil, NEVRMIND](https://open.spotify.com/track/2D0gLs0ngFwfEKu0NFDMf9)
+- [Give Me An Answer by Cristoph, Afnan Prince](https://open.spotify.com/track/5EWhZQYaRxbgVKT5GAx2wK)
+- [Feeling Fades by Rezident, LIAS](https://open.spotify.com/track/1T7x7xoFg23FP8k597GJhu)
+- [Know Who You Are by San Mateo Drive, Ren Ocean](https://open.spotify.com/track/0uz7gY8pdvz0cm063f2OVS)
+- [Aligned by Slow Ted](https://open.spotify.com/track/1FJ30vrIqdagpDSUfXTIXu)
+- [San Diego Fair by Adon](https://open.spotify.com/track/2rft88gZDmoJZHymSW5EAc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
