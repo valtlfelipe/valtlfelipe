@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Give Me An Answer by Cristoph, Afnan Prince](https://open.spotify.com/track/5EWhZQYaRxbgVKT5GAx2wK)
-- [Feeling Fades by Rezident, LIAS](https://open.spotify.com/track/1T7x7xoFg23FP8k597GJhu)
-- [Know Who You Are by San Mateo Drive, Ren Ocean](https://open.spotify.com/track/0uz7gY8pdvz0cm063f2OVS)
-- [Aligned by Slow Ted](https://open.spotify.com/track/1FJ30vrIqdagpDSUfXTIXu)
-- [San Diego Fair by Adon](https://open.spotify.com/track/2rft88gZDmoJZHymSW5EAc)
+- [Forever - Late Summer Edit by Quentin Berger](https://open.spotify.com/track/2uRtWwLN7SJ8ZviyYr5qVK)
+- [Hear Me Now by Jai Nova](https://open.spotify.com/track/0HQoB2JnpFIDK7hfNFIwy0)
+- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
+- [Wash Away by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/0x973wsmuY1Ub96Z4vVHLq)
+- [The Silence by Freyer, noo](https://open.spotify.com/track/4XAoQwp9nspONq8R9k8Ybp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
