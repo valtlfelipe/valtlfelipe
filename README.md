@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Keep Me Wasted by Spoke](https://open.spotify.com/track/6YT0WS2ZwmvwxiVliAQY8V)
-- [Tell Me by Lonely in the Rain, Benji Lewis](https://open.spotify.com/track/1yGxOL7yo3qXvD0N6HguLy)
-- [Once More by Lonely in the Rain, Anna-Sophia Henry](https://open.spotify.com/track/6sPY9WHY49CA6ixufShUiO)
-- [Feel Good by Adon, Emilia Sonate](https://open.spotify.com/track/3a689SHnv5jd5dP2RLvsPU)
-- [Dive by mölly, Rowland Giles, Run Rivers](https://open.spotify.com/track/512CNfJskE5nI4uBMtaLa9)
+- [Feel My Love by Dallien, RVPTR, Danny CLLS](https://open.spotify.com/track/1tCkqQOudnKEQKEd6ibiQN)
+- [Love Again by Adon](https://open.spotify.com/track/3iIIpJ7vXqAwNktHtWkzO7)
+- [Come With Me by Cristoph](https://open.spotify.com/track/5D4gE215hZj1wQUOMCx1wK)
+- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
+- [8 Hours by TMPST, Maynørr, Courtney Storm](https://open.spotify.com/track/47VyUnvICGolR4gx1NnPuS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
