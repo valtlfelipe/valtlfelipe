@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Take It All Back by Jake Neumar](https://open.spotify.com/track/6q8GmdLVGlcVmHaTDp9enJ)
-- [The Most by Cammie Robinson, DX8](https://open.spotify.com/track/4eDVPeNcgyPvac8GCVpGEi)
-- [Feel This Way by Lonely in the Rain, Panama](https://open.spotify.com/track/5vOUYERtWnw7CfrxktLrK2)
-- [Jungle by The kid in blue](https://open.spotify.com/track/4OjdjSC3daLXsixkIU4FGM)
-- [pull me closer by elsaaa](https://open.spotify.com/track/4VqAcCS9EqJmU2TGHJXDrJ)
+- [Sun Or Rain - Radio Edit by Tom Tainted, Gabi Juliano](https://open.spotify.com/track/3MuIs3vN5SmEw3Dl0Nsvqw)
+- [Love by Mandarin Plaza](https://open.spotify.com/track/28V9Tkxf6mQlSC0QgZmrpt)
+- [California Night Sky by RANE](https://open.spotify.com/track/7aQaV64h5FTa6t01fBegWB)
+- [i know - it’s over now by elsaaa](https://open.spotify.com/track/290lg1zQaJqetNplZzDHwo)
+- [The Way by TMPST, Maynørr, Jessie Lee Thetford](https://open.spotify.com/track/5FNALpsFw15M8reZbqzVzi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
