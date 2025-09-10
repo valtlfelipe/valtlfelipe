@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Crashing Down by MashBit, Syence](https://open.spotify.com/track/1vvahR9zmdgvhybeEqkOeX)
-- [Ember Moon by zaccwithtwocs](https://open.spotify.com/track/3BPQ0Bybti3Qv4wNOCPx6I)
-- [Beacon by Rowland Giles](https://open.spotify.com/track/7a4bKny83HB9T3J5eKq5Zu)
-- [Meant For You by TMPST, Maynørr, Bridges](https://open.spotify.com/track/70O3Jp4ikmGybskiEx4Pi3)
-- [By Your Side by Noile, nourii](https://open.spotify.com/track/4JsRRSZutkTpVUsdz83GjL)
+- [Yellow Coat by Friends &amp; I](https://open.spotify.com/track/5auNDaHLvMKhq4OTSSSVkB)
+- [Fast Lane by Nimus](https://open.spotify.com/track/5Q79xM1viK36w808nH17S4)
+- [Back Before by Joey Lanx](https://open.spotify.com/track/1EvwY4ffRKc0PFmb5HiJH7)
+- [Beach by Thom Merlin, Eirik Næss](https://open.spotify.com/track/5Dw5hmrucfSqh3N5oNuYe4)
+- [In Love Again by Lonely in the Rain](https://open.spotify.com/track/6cz2y7t6bDJcktGp6IVM5w)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
