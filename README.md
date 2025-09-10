@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Dance &#39;Till I Feel You by The kid in blue](https://open.spotify.com/track/4bRGFKU2hrvE3b00zgU4OU)
-- [Drive Away by Nimus](https://open.spotify.com/track/3gmANlQOXGsPkQJYTl95UD)
-- [Make Believe by Eli &amp; Fur](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo)
-- [Hexa by Cristoph](https://open.spotify.com/track/2p4m25m1YFvLPkKqPiIR5C)
-- [hoyo by shiny things, Moise](https://open.spotify.com/track/0JT3o1tGkslq0gKAc6rgF7)
+- [I Can Do Without You by Mandarin Plaza](https://open.spotify.com/track/4rNcuwXBmlKg2CWMdM0gVA)
+- [It’s All On You by Rezident, Malou](https://open.spotify.com/track/6LVQCLkRzPEplGMo93acLl)
+- [I&#39;ve Got A Thing by The kid in blue, Alberto Ciccarini](https://open.spotify.com/track/20eiFohvshchsvXj5XN399)
+- [Waterfall by Mike Key, MØØNE](https://open.spotify.com/track/5RVKd6x8XUgaP1Yahb5YVC)
+- [She&#39;s A Vision by Dulio Jamo](https://open.spotify.com/track/2tWvYusjnsNQi4NoJ7sG8K)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
