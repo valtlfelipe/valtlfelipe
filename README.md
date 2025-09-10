@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Yellow Coat by Friends &amp; I](https://open.spotify.com/track/5auNDaHLvMKhq4OTSSSVkB)
-- [Fast Lane by Nimus](https://open.spotify.com/track/5Q79xM1viK36w808nH17S4)
-- [Back Before by Joey Lanx](https://open.spotify.com/track/1EvwY4ffRKc0PFmb5HiJH7)
-- [Beach by Thom Merlin, Eirik Næss](https://open.spotify.com/track/5Dw5hmrucfSqh3N5oNuYe4)
-- [In Love Again by Lonely in the Rain](https://open.spotify.com/track/6cz2y7t6bDJcktGp6IVM5w)
+- [Dance &#39;Till I Feel You by The kid in blue](https://open.spotify.com/track/4bRGFKU2hrvE3b00zgU4OU)
+- [Drive Away by Nimus](https://open.spotify.com/track/3gmANlQOXGsPkQJYTl95UD)
+- [Make Believe by Eli &amp; Fur](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo)
+- [Hexa by Cristoph](https://open.spotify.com/track/2p4m25m1YFvLPkKqPiIR5C)
+- [hoyo by shiny things, Moise](https://open.spotify.com/track/0JT3o1tGkslq0gKAc6rgF7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
