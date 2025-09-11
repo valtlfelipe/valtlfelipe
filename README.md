@@ -11,9 +11,9 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 
 #### 🎧 Spotify recent tracks
 - [Runaway by Paige Cavell](https://open.spotify.com/track/00lOTpg4orTepa3xerNfRP)
+- [Runaway by Paige Cavell](https://open.spotify.com/track/00lOTpg4orTepa3xerNfRP)
 - [You by TRIP RGAZZI](https://open.spotify.com/track/3U4dZoulX2luqz9xf1VJhk)
 - [Closing Hour by Panuma, Tim Hughes](https://open.spotify.com/track/5m8yfomGrRuslN7B3PfF3C)
 - [Overexcited by Aludra](https://open.spotify.com/track/6iecAodYQ4kr1KLzj0CgOs)
-- [Hit The Ground by Nick Raff](https://open.spotify.com/track/2iWJTXzBPvMu6x7qA9onF1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
