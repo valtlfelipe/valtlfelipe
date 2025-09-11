@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Can Do Without You by Mandarin Plaza](https://open.spotify.com/track/4rNcuwXBmlKg2CWMdM0gVA)
-- [It’s All On You by Rezident, Malou](https://open.spotify.com/track/6LVQCLkRzPEplGMo93acLl)
-- [I&#39;ve Got A Thing by The kid in blue, Alberto Ciccarini](https://open.spotify.com/track/20eiFohvshchsvXj5XN399)
-- [Waterfall by Mike Key, MØØNE](https://open.spotify.com/track/5RVKd6x8XUgaP1Yahb5YVC)
-- [She&#39;s A Vision by Dulio Jamo](https://open.spotify.com/track/2tWvYusjnsNQi4NoJ7sG8K)
+- [Walk the Nile Twice by nourii, CLOSR](https://open.spotify.com/track/6SIgxgVNDe7ppyUqWEbqba)
+- [Straight To LA by Thom Merlin, Raïko](https://open.spotify.com/track/5pzsLJOWNvef2OFcYqPmi3)
+- [Steady As The Sea - Palisade Remix by Le Roy, Jyll, Palisade](https://open.spotify.com/track/5NbEX6qiPA1m5pwa4ofuh6)
+- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
+- [Little Lies by Don Diablo](https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
