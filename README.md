@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Heartfelt (Let The Fire In) by TRIP RGAZZI](https://open.spotify.com/track/2QM4kcnuayYjtE1tp8xYPC)
-- [My Reflection by Eli &amp; Fur](https://open.spotify.com/track/6d3mEicaeN9jLDYG8hL2ZD)
-- [Addicted by Joey Lanx, Dino Le Roy](https://open.spotify.com/track/41KVSqyjJ0fT91cxPIA9r8)
-- [Summer Jam by Tom Ferry, FRDRK](https://open.spotify.com/track/1mSKx4rbxkKXinJTPZjZ6Y)
-- [Home by Nicolas Haelg](https://open.spotify.com/track/4PKA77KH93C99UC88hUifO)
+- [Cosmopolitan by SOULWAY, Planet Wave House, Mr Bosh, Kelo](https://open.spotify.com/track/3KyJkXOhCZD8xq2zRJiMZD)
+- [Illusion - The Blaze Remix by Dua Lipa, The Blaze](https://open.spotify.com/track/4114yXSCoWhzmu4oF6Hmzl)
+- [Better Now by Albi](https://open.spotify.com/track/1VoA8Opkwqvv7cgpVsjBYT)
+- [Forever Here by Sinova](https://open.spotify.com/track/61EcmpLG478hOq8LU7S8vY)
+- [Clearest Blue (Gryffin Remix) by CHVRCHES, Gryffin](https://open.spotify.com/track/3Fq1E4nFP8pCmJPclB9yI5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
