@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Cosmopolitan by SOULWAY, Planet Wave House, Mr Bosh, Kelo](https://open.spotify.com/track/3KyJkXOhCZD8xq2zRJiMZD)
-- [Illusion - The Blaze Remix by Dua Lipa, The Blaze](https://open.spotify.com/track/4114yXSCoWhzmu4oF6Hmzl)
-- [Better Now by Albi](https://open.spotify.com/track/1VoA8Opkwqvv7cgpVsjBYT)
-- [Forever Here by Sinova](https://open.spotify.com/track/61EcmpLG478hOq8LU7S8vY)
-- [Clearest Blue (Gryffin Remix) by CHVRCHES, Gryffin](https://open.spotify.com/track/3Fq1E4nFP8pCmJPclB9yI5)
+- [Far Away by Lonely in the Rain](https://open.spotify.com/track/1zNr4vG0eDb9wpj6qsmKJX)
+- [Honest by we love sunset](https://open.spotify.com/track/0Zo1q3zMBf7JMmNOv9p0H6)
+- [Old Song by Nimus, nourii, Liam Jay](https://open.spotify.com/track/50MFh3JeFpaOf8VYViN0PS)
+- [Hypnotised by Ferris Pier, Izzy Bizu](https://open.spotify.com/track/5insbzHo44Rs9VuyocjmKw)
+- [Losing My Mind by Jophil](https://open.spotify.com/track/5ICaXyyh12EA1m7tS96w1P)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
