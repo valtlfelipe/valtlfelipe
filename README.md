@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [You by TRIP RGAZZI](https://open.spotify.com/track/3U4dZoulX2luqz9xf1VJhk)
+- [Closing Hour by Panuma, Tim Hughes](https://open.spotify.com/track/5m8yfomGrRuslN7B3PfF3C)
+- [Overexcited by Aludra](https://open.spotify.com/track/6iecAodYQ4kr1KLzj0CgOs)
+- [Hit The Ground by Nick Raff](https://open.spotify.com/track/2iWJTXzBPvMu6x7qA9onF1)
 - [Walk the Nile Twice by nourii, CLOSR](https://open.spotify.com/track/6SIgxgVNDe7ppyUqWEbqba)
-- [Straight To LA by Thom Merlin, Raïko](https://open.spotify.com/track/5pzsLJOWNvef2OFcYqPmi3)
-- [Steady As The Sea - Palisade Remix by Le Roy, Jyll, Palisade](https://open.spotify.com/track/5NbEX6qiPA1m5pwa4ofuh6)
-- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
-- [Little Lies by Don Diablo](https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
