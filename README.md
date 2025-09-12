@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Can You See - Soul Engineers Remix by UOAK, Jope, Soul Engineers](https://open.spotify.com/track/52EveyzfmVcT8afWulmnwK)
-- [Existence by Naws, Taylr Renee](https://open.spotify.com/track/2TzcBGqHgivNmYo8PRZtjJ)
-- [I Hold On by Robby East, Sophie van Hasselt](https://open.spotify.com/track/2s72kxGH3MhnXg9cdOIeB1)
-- [Heart On The Line by Mats Westbroek](https://open.spotify.com/track/6RoQBsp1fWj98s5m40Ge1R)
-- [Paragon by Jack Willard](https://open.spotify.com/track/1TERufExull32JvrOr8din)
+- [Drifting by Naws](https://open.spotify.com/track/0wdCrLrn7U8E9vtEBZHZlm)
+- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
+- [Motorcycle - SR050 by UOAK](https://open.spotify.com/track/0wJSGBiOC46carG03ANPyb)
+- [Road Beyond by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/7biDhTtQGXQz5jLGjLwR1c)
+- [Echoes Galore by Robby East](https://open.spotify.com/track/7dBMr7NN3GqlXfJIQGblfb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
