@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[fayazara/talk-to-gmail](https://github.com/fayazara/talk-to-gmail)** - AI Agent for managing your Gmail account using natural language. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Sunshine is Coming by Karol Carlo](https://open.spotify.com/track/3mCBnVxnyLp2t5uhxsK4pm)
+- [In Mallorca by Ludomir, VARUS](https://open.spotify.com/track/2ieduwQdVE2uupvP53SrGS)
+- [Want It All by Mike Key, S:NE](https://open.spotify.com/track/2bFHpvUFSKn1fWacZlARlk)
+- [Hello Echo - DAVI Remix by Eli &amp; Fur, DAVI](https://open.spotify.com/track/2Z3qj7rcxUAgcj5YLUbLLw)
 - [Calling by Citadelle, Drove](https://open.spotify.com/track/3jvljyWk3ST8Yg4JLZO1wN)
-- [Nightlife (feat. KOATES) by Klingande, KOATES](https://open.spotify.com/track/1SYupPkQso2ARfy6HiDRPg)
-- [Is It You by Bolier, AMRV](https://open.spotify.com/track/4VAVmZLcmtEkISMXbXB8ko)
-- [Hold Me Close by Cristoph, Harry Diamond](https://open.spotify.com/track/5TP58ifskW32ppiGWAkSlf)
-- [Lost in the Waves by Thomas Foster](https://open.spotify.com/track/5jl5OKW28PxHRIHbvnV2vE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
