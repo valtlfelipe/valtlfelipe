@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Moving On by Adon](https://open.spotify.com/track/6XV93YvRNO31OCEhEzGqud)
-- [Need Somebody by Jophil](https://open.spotify.com/track/0QDT4WyB2JnXnqiykR6XwR)
-- [Waiting For You by Grafine](https://open.spotify.com/track/5HXibeqBu8EBicSbPde895)
-- [Hey Delilah by Ezra Kid](https://open.spotify.com/track/5H5TjNhjpZQwokU9OX7mOw)
-- [Far Away by Lonely in the Rain](https://open.spotify.com/track/1zNr4vG0eDb9wpj6qsmKJX)
+- [Revenge of the Groove by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/4R8Lk6cGMS1wm4sxGhEtPH)
+- [Stuck In My Head by Slow Ted](https://open.spotify.com/track/4S7fLFfE7wrCcrqS47BoRS)
+- [Your Beauty by San Mateo Drive](https://open.spotify.com/track/7IDEkMabg7jZ3N5a5DqOJ8)
+- [The Breeze by Alex Breitling, Golowko](https://open.spotify.com/track/2LScaKsuBC2ZczEuJr2iR4)
+- [Feel It All by mölly](https://open.spotify.com/track/7dgy6Px3ND1PRThRZlOwbm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
