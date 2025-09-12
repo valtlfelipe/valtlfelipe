@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Old Song by Nimus, nourii, Liam Jay](https://open.spotify.com/track/50MFh3JeFpaOf8VYViN0PS)
+- [Waiting For You by Grafine](https://open.spotify.com/track/5HXibeqBu8EBicSbPde895)
+- [Hypnotised by Ferris Pier, Izzy Bizu](https://open.spotify.com/track/5insbzHo44Rs9VuyocjmKw)
 - [Far Away by Lonely in the Rain](https://open.spotify.com/track/1zNr4vG0eDb9wpj6qsmKJX)
 - [Stay by Iaco, AgusAlvarez, Gina Livia](https://open.spotify.com/track/6W5d883EeJkP2AwtE9f7DV)
-- [Illusion - The Blaze Remix by Dua Lipa, The Blaze](https://open.spotify.com/track/4114yXSCoWhzmu4oF6Hmzl)
-- [Losing My Mind by Jophil](https://open.spotify.com/track/5ICaXyyh12EA1m7tS96w1P)
-- [make it right by upsidedownhead, Elmar](https://open.spotify.com/track/5YU7vzxKLzH2YVcDRNkfkH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
