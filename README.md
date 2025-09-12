@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[fayazara/talk-to-gmail](https://github.com/fayazara/talk-to-gmail)** - AI Agent for managing your Gmail account using natural language. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Old Song by Nimus, nourii, Liam Jay](https://open.spotify.com/track/50MFh3JeFpaOf8VYViN0PS)
-- [Waiting For You by Grafine](https://open.spotify.com/track/5HXibeqBu8EBicSbPde895)
-- [Hypnotised by Ferris Pier, Izzy Bizu](https://open.spotify.com/track/5insbzHo44Rs9VuyocjmKw)
-- [Far Away by Lonely in the Rain](https://open.spotify.com/track/1zNr4vG0eDb9wpj6qsmKJX)
-- [Stay by Iaco, AgusAlvarez, Gina Livia](https://open.spotify.com/track/6W5d883EeJkP2AwtE9f7DV)
+- [Calling by Citadelle, Drove](https://open.spotify.com/track/3jvljyWk3ST8Yg4JLZO1wN)
+- [Nightlife (feat. KOATES) by Klingande, KOATES](https://open.spotify.com/track/1SYupPkQso2ARfy6HiDRPg)
+- [Is It You by Bolier, AMRV](https://open.spotify.com/track/4VAVmZLcmtEkISMXbXB8ko)
+- [Hold Me Close by Cristoph, Harry Diamond](https://open.spotify.com/track/5TP58ifskW32ppiGWAkSlf)
+- [Lost in the Waves by Thomas Foster](https://open.spotify.com/track/5jl5OKW28PxHRIHbvnV2vE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
