@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Drifting by Naws](https://open.spotify.com/track/0wdCrLrn7U8E9vtEBZHZlm)
-- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
-- [Motorcycle - SR050 by UOAK](https://open.spotify.com/track/0wJSGBiOC46carG03ANPyb)
-- [Road Beyond by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/7biDhTtQGXQz5jLGjLwR1c)
-- [Echoes Galore by Robby East](https://open.spotify.com/track/7dBMr7NN3GqlXfJIQGblfb)
+- [Far Away by Lonely in the Rain](https://open.spotify.com/track/1zNr4vG0eDb9wpj6qsmKJX)
+- [Stay by Iaco, AgusAlvarez, Gina Livia](https://open.spotify.com/track/6W5d883EeJkP2AwtE9f7DV)
+- [Illusion - The Blaze Remix by Dua Lipa, The Blaze](https://open.spotify.com/track/4114yXSCoWhzmu4oF6Hmzl)
+- [Losing My Mind by Jophil](https://open.spotify.com/track/5ICaXyyh12EA1m7tS96w1P)
+- [make it right by upsidedownhead, Elmar](https://open.spotify.com/track/5YU7vzxKLzH2YVcDRNkfkH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
