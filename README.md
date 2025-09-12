@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinybirdco/logs-explorer-template](https://github.com/tinybirdco/logs-explorer-template)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Revenge of the Groove by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/4R8Lk6cGMS1wm4sxGhEtPH)
-- [Stuck In My Head by Slow Ted](https://open.spotify.com/track/4S7fLFfE7wrCcrqS47BoRS)
-- [Your Beauty by San Mateo Drive](https://open.spotify.com/track/7IDEkMabg7jZ3N5a5DqOJ8)
-- [The Breeze by Alex Breitling, Golowko](https://open.spotify.com/track/2LScaKsuBC2ZczEuJr2iR4)
-- [Feel It All by mölly](https://open.spotify.com/track/7dgy6Px3ND1PRThRZlOwbm)
+- [Can You See - Soul Engineers Remix by UOAK, Jope, Soul Engineers](https://open.spotify.com/track/52EveyzfmVcT8afWulmnwK)
+- [Existence by Naws, Taylr Renee](https://open.spotify.com/track/2TzcBGqHgivNmYo8PRZtjJ)
+- [I Hold On by Robby East, Sophie van Hasselt](https://open.spotify.com/track/2s72kxGH3MhnXg9cdOIeB1)
+- [Heart On The Line by Mats Westbroek](https://open.spotify.com/track/6RoQBsp1fWj98s5m40Ge1R)
+- [Paragon by Jack Willard](https://open.spotify.com/track/1TERufExull32JvrOr8din)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
