@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[inboundemail/inbound](https://github.com/inboundemail/inbound)** - email infrastructure for agent and indie devs (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Stay by Yuno Fall](https://open.spotify.com/track/61l5YM2fNO6FnxkPomM4P5)
 - [Hey Delilah by Ezra Kid](https://open.spotify.com/track/5H5TjNhjpZQwokU9OX7mOw)
 - [Cosmopolitan by SOULWAY, Planet Wave House, Mr Bosh, Kelo](https://open.spotify.com/track/3KyJkXOhCZD8xq2zRJiMZD)
 - [Sunshine is Coming by Karol Carlo](https://open.spotify.com/track/3mCBnVxnyLp2t5uhxsK4pm)
 - [In Mallorca by Ludomir, VARUS](https://open.spotify.com/track/2ieduwQdVE2uupvP53SrGS)
-- [Want It All by Mike Key, S:NE](https://open.spotify.com/track/2bFHpvUFSKn1fWacZlARlk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
