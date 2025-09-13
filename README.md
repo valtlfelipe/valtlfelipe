@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[inboundemail/inbound](https://github.com/inboundemail/inbound)** - email infrastructure for agent and indie devs (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
+- [Let Me Hold You (Turn Me On) by Cheat Codes, Dante Klein](https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn)
 - [Dynamite by Taio Cruz](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV)
 - [King by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM)
 - [Count On You - Cavego Disco Noir Mix by Satin Jackets, Elmar, Cavego](https://open.spotify.com/track/3ZOLpgSNQ3V5JHtZ8FZKTQ)
-- [Honest by we love sunset](https://open.spotify.com/track/0Zo1q3zMBf7JMmNOv9p0H6)
-- [Stay by Yuno Fall](https://open.spotify.com/track/61l5YM2fNO6FnxkPomM4P5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
