@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli)** - Deploy any container to Cloudflare with a single command. (today)
-- **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (4 days ago)
-- **[inboundemail/inbound](https://github.com/inboundemail/inbound)** - email infrastructure for agent and indie devs (4 days ago)
-- **[upstash/context7](https://github.com/upstash/context7)** - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (1 week ago)
-- **[fayazara/talk-to-gmail](https://github.com/fayazara/talk-to-gmail)** - AI Agent for managing your Gmail account using natural language. (1 week ago)
+- **[areibman/bottleneck](https://github.com/areibman/bottleneck)** - Native Electron app for reviewing pull requests dramatically faster than Github web. Specialized for handling reviews for background agents working on multiple concurrent threads (today)
+- **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (today)
+- **[ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli)** - Deploy any container to Cloudflare with a single command. (1 day ago)
+- **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (5 days ago)
+- **[inboundemail/inbound](https://github.com/inboundemail/inbound)** - email infrastructure for agent and indie devs (5 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Sunshine is Coming by Karol Carlo](https://open.spotify.com/track/3mCBnVxnyLp2t5uhxsK4pm)
