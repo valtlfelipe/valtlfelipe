@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[inboundemail/inbound](https://github.com/inboundemail/inbound)** - email infrastructure for agent and indie devs (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [You for Me by Sigala, Rita Ora](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp)
-- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
-- [Sex by Cheat Codes, Kris Kross Amsterdam](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0)
-- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
-- [Let Me Hold You (Turn Me On) by Cheat Codes, Dante Klein](https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn)
+- [Unwritten by Natasha Bedingfield](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf)
+- [Never Gonna Not Dance Again by P!nk](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0)
+- [Head &amp; Heart (feat. MNEK) by Joel Corry, MNEK](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9)
+- [A Bar Song (Tipsy) by Shaboozey](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf)
+- [These Walls by Dua Lipa](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
