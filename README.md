@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Late Nights by MELZ](https://open.spotify.com/track/5JWuE7kTDCWOlmLrm7MTYx)
-- [Act Like Love by V A E L O R A](https://open.spotify.com/track/0VPwXDTihm6IFOe1FcYQdu)
-- [Girl - 6am Remix by KC Lights](https://open.spotify.com/track/6e2vE4hlOo4Z2OE1v2j9cp)
-- [Better Off Alone by HRMV, Seamus D](https://open.spotify.com/track/5LlXHKUg8L6bzOPAtZC46Y)
-- [All That Mattered (Love You Down) by Yves V, De Nuit](https://open.spotify.com/track/6anCazkOiRskQMOvH1yy5V)
+- [Follow Me (feat. SACHA) by Martin Jensen, LAWRENT, SACHA](https://open.spotify.com/track/5xct8L2ov4IwB5J8LEx91z)
+- [No One Like You by Alex Adair](https://open.spotify.com/track/58yE7laRs6ptzfLKWXLN9u)
+- [Drive by Courtney Storm, Béatrice Dupont](https://open.spotify.com/track/5TmpcFPSQbCj3Ft6rKoRv3)
+- [Good Vibes by Giulio Cercato](https://open.spotify.com/track/4T0PCAuJRWTDlwduiyHlre)
+- [Life with You by INNERVERSE, Paul Schulze, Oliver Cricket, Courtney Storm](https://open.spotify.com/track/356zh8gZWsTSQqtJBUpJ3b)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
