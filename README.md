@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Almost Home by Nadia Ali, Summer Is Calling, iRO](https://open.spotify.com/track/2bMATlixJ3kp39jCbg8rsf)
-- [Waiting For Us by Steve Kroeger, BIMINI, Tep No](https://open.spotify.com/track/0nV1xGEGl3rM1cdHPj5dNj)
-- [Fragments by Farlight](https://open.spotify.com/track/4RMTBpotJmOSAbZRVhymHi)
-- [Deep Blue by Giulio Cercato](https://open.spotify.com/track/5zsTtUIvSlS5RepAMFrHjN)
-- [Lost My Way by Sean Sines](https://open.spotify.com/track/3AkZr85PL2oZOds2SrgtYI)
+- [Late Nights by MELZ](https://open.spotify.com/track/5JWuE7kTDCWOlmLrm7MTYx)
+- [Act Like Love by V A E L O R A](https://open.spotify.com/track/0VPwXDTihm6IFOe1FcYQdu)
+- [Girl - 6am Remix by KC Lights](https://open.spotify.com/track/6e2vE4hlOo4Z2OE1v2j9cp)
+- [Better Off Alone by HRMV, Seamus D](https://open.spotify.com/track/5LlXHKUg8L6bzOPAtZC46Y)
+- [All That Mattered (Love You Down) by Yves V, De Nuit](https://open.spotify.com/track/6anCazkOiRskQMOvH1yy5V)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
