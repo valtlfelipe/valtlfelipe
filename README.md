@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Follow Me (feat. SACHA) by Martin Jensen, LAWRENT, SACHA](https://open.spotify.com/track/5xct8L2ov4IwB5J8LEx91z)
-- [No One Like You by Alex Adair](https://open.spotify.com/track/58yE7laRs6ptzfLKWXLN9u)
-- [Drive by Courtney Storm, Béatrice Dupont](https://open.spotify.com/track/5TmpcFPSQbCj3Ft6rKoRv3)
-- [Good Vibes by Giulio Cercato](https://open.spotify.com/track/4T0PCAuJRWTDlwduiyHlre)
-- [Life with You by INNERVERSE, Paul Schulze, Oliver Cricket, Courtney Storm](https://open.spotify.com/track/356zh8gZWsTSQqtJBUpJ3b)
+- [Just Wanna by Andrew Nagy](https://open.spotify.com/track/2nwvOh6FD9kt10ylz1nObA)
+- [A Feeling by Hyzteria, XIRA](https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu)
+- [Do You Do This Often by Le P](https://open.spotify.com/track/0z23VQA5qXw1KCHLUE9mWZ)
+- [Heartfelt (Let The Fire In) by TRIP RGAZZI](https://open.spotify.com/track/2QM4kcnuayYjtE1tp8xYPC)
+- [Make Me Feel Better - 2025 Edit by Alex Adair](https://open.spotify.com/track/0GqZ3deuRcromFjc404K4M)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
