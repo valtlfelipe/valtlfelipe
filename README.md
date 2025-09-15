@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[inboundemail/inbound](https://github.com/inboundemail/inbound)** - email infrastructure for agent and indie devs (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Use Somebody by Zen Freeman](https://open.spotify.com/track/3kQSUFvKDlTEBDe5Sga8zk)
-- [Feel It All (Tritonia 494) by mölly](https://open.spotify.com/track/6ei6QtTZyVuGXH0VlcHoxm)
-- [Cry (Just A Little) by Steff da Campo, Robbie Mendez](https://open.spotify.com/track/1iKJxbCsI4fYDKb0yuLSdX)
-- [So Hot - MK x Nightlapse Remix by Anabel Englund, MK, Nightlapse](https://open.spotify.com/track/61znvZmcLGUA0I4ph4IqeC)
-- [Evening Walk by Digikal Sensai](https://open.spotify.com/track/1fgpkVUh2cyC2wFASpDxaS)
+- [When I&#39;m Around You by Running Touch](https://open.spotify.com/track/2MYTYXJXUj3YeCsGfiIdRq)
+- [I See You by RAZUNA](https://open.spotify.com/track/5lJt8jABBLICwHmJkuLfVI)
+- [All That Mattered (Love You Down) by Yves V, De Nuit](https://open.spotify.com/track/6anCazkOiRskQMOvH1yy5V)
+- [Close To Me by MATHX](https://open.spotify.com/track/2s03fOxxDwOzJbUtLB55Yk)
+- [Good Morning by Farlight](https://open.spotify.com/track/09ml3xcjtlIFDJOK2VP1Qi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
