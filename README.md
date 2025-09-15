@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[inboundemail/inbound](https://github.com/inboundemail/inbound)** - email infrastructure for agent and indie devs (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Don&#39;t Let The Sun Go Down by Amés](https://open.spotify.com/track/3OVt97n1BLiwOHVHrWvCik)
+- [Lost by Maxomar](https://open.spotify.com/track/0O8CNTiKbHeauSkNoSL7xc)
+- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
 - [Lasting Lover by Sigala, James Arthur](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY)
 - [Whistle (feat. Calum Scott) by Jax Jones, Calum Scott](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF)
-- [Radio by Sigala, MNEK](https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK)
-- [Unwritten by Natasha Bedingfield](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf)
-- [Never Gonna Not Dance Again by P!nk](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
