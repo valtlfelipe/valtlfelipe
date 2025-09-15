@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Loving Me by Amés](https://open.spotify.com/track/38IBN3zS6tva2z2vCB6guv)
-- [That&#39;s Where I Should Be by MA:RK](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8)
-- [Cold Light by KC Lights, Leo Stannard](https://open.spotify.com/track/6jRwkbiqOfkNGty2fGTXzd)
-- [Breathe in the Blue by Julien Fade, Nu-La](https://open.spotify.com/track/5j2ONNLDz5PwdXqtDU8QI0)
-- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
+- [Survivors by Cammie Robinson](https://open.spotify.com/track/4lXZKQGTUfEju6Ks8gJVwX)
+- [Alright (Tonight) by THAT KIND](https://open.spotify.com/track/1MQvaQFiteOD4fPgqWXFF0)
+- [Nobody Else by Amés](https://open.spotify.com/track/2rT9gW3eg6CAJBafnS20T6)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [Hold My Breath by Hyzteria, Leah Guest](https://open.spotify.com/track/39IQMZoAQkWgQdDvsDSzl4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
