@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[inboundemail/inbound](https://github.com/inboundemail/inbound)** - email infrastructure for agent and indie devs (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Don&#39;t Let The Sun Go Down by Amés](https://open.spotify.com/track/3OVt97n1BLiwOHVHrWvCik)
-- [Lost by Maxomar](https://open.spotify.com/track/0O8CNTiKbHeauSkNoSL7xc)
-- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
-- [Lasting Lover by Sigala, James Arthur](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY)
-- [Whistle (feat. Calum Scott) by Jax Jones, Calum Scott](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF)
+- [Use Somebody by Zen Freeman](https://open.spotify.com/track/3kQSUFvKDlTEBDe5Sga8zk)
+- [Feel It All (Tritonia 494) by mölly](https://open.spotify.com/track/6ei6QtTZyVuGXH0VlcHoxm)
+- [Cry (Just A Little) by Steff da Campo, Robbie Mendez](https://open.spotify.com/track/1iKJxbCsI4fYDKb0yuLSdX)
+- [So Hot - MK x Nightlapse Remix by Anabel Englund, MK, Nightlapse](https://open.spotify.com/track/61znvZmcLGUA0I4ph4IqeC)
+- [Evening Walk by Digikal Sensai](https://open.spotify.com/track/1fgpkVUh2cyC2wFASpDxaS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
