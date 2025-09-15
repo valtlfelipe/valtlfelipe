@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Just Wanna by Andrew Nagy](https://open.spotify.com/track/2nwvOh6FD9kt10ylz1nObA)
-- [A Feeling by Hyzteria, XIRA](https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu)
-- [Do You Do This Often by Le P](https://open.spotify.com/track/0z23VQA5qXw1KCHLUE9mWZ)
-- [Heartfelt (Let The Fire In) by TRIP RGAZZI](https://open.spotify.com/track/2QM4kcnuayYjtE1tp8xYPC)
-- [Make Me Feel Better - 2025 Edit by Alex Adair](https://open.spotify.com/track/0GqZ3deuRcromFjc404K4M)
+- [Loving Me by Amés](https://open.spotify.com/track/38IBN3zS6tva2z2vCB6guv)
+- [That&#39;s Where I Should Be by MA:RK](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8)
+- [Cold Light by KC Lights, Leo Stannard](https://open.spotify.com/track/6jRwkbiqOfkNGty2fGTXzd)
+- [Breathe in the Blue by Julien Fade, Nu-La](https://open.spotify.com/track/5j2ONNLDz5PwdXqtDU8QI0)
+- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
