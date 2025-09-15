@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
-- [Hang On - Sam Parker Remix by Le Youth, Gordi, Sam Parker](https://open.spotify.com/track/0DVMyXwq787NiWq75Re0ka)
-- [Mood Song by Why U So, Lua Sola](https://open.spotify.com/track/79fIQTrSfK6J9r8va0INAo)
-- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
-- [Late Nights by MELZ](https://open.spotify.com/track/5JWuE7kTDCWOlmLrm7MTYx)
+- [Almost Home by Nadia Ali, Summer Is Calling, iRO](https://open.spotify.com/track/2bMATlixJ3kp39jCbg8rsf)
+- [Waiting For Us by Steve Kroeger, BIMINI, Tep No](https://open.spotify.com/track/0nV1xGEGl3rM1cdHPj5dNj)
+- [Fragments by Farlight](https://open.spotify.com/track/4RMTBpotJmOSAbZRVhymHi)
+- [Deep Blue by Giulio Cercato](https://open.spotify.com/track/5zsTtUIvSlS5RepAMFrHjN)
+- [Lost My Way by Sean Sines](https://open.spotify.com/track/3AkZr85PL2oZOds2SrgtYI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
