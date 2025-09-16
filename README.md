@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli)** - Deploy any container to Cloudflare with a single command. (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Turn Back Time by Diplo, Sonny Fodera](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6)
+- [What If You Fly by Oliver River](https://open.spotify.com/track/09np57gcBN1dq1gtsZ2uIB)
+- [Daylight by mölly, Bridges](https://open.spotify.com/track/3Pi08C77jfcAjgvzHpgHYu)
 - [Trust You by MistaJam, Scott Quinn](https://open.spotify.com/track/4zGReDJNtrZkxxNUxgLu3Y)
 - [Sunset Call by Lanle](https://open.spotify.com/track/21axwxF0QVfJvjC5orPJwy)
-- [Super Powers by TELYKAST, Oaks](https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c)
-- [Follow by KC Lights](https://open.spotify.com/track/2OcT8PP3BIeTXMp1rYBHiS)
-- [Take Me Home by Giulio Cercato](https://open.spotify.com/track/4ZF2JMJ50VI8LxA3DCg5Tl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
