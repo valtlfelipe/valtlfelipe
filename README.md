@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli)** - Deploy any container to Cloudflare with a single command. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Washed Away by Sean Quinn](https://open.spotify.com/track/4p36BnbUt3X9EFKIbItslr)
-- [Swimming - Edit by Le Youth](https://open.spotify.com/track/5HcGLjojeLgCWHGHv9UAK0)
-- [Love You Right by Anthony Hughes, Luke Vincent, Ben Phillips](https://open.spotify.com/track/5akp9ehgAWrmEXUHFI3dVQ)
-- [Arrow by INNERVERSE, Oliver Cricket](https://open.spotify.com/track/3TUZGSbOgrB68DZDlaBoiS)
-- [Needing Space by Effemar](https://open.spotify.com/track/2QLDAd5vTn2wacico7aIDm)
+- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
+- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [Atmosphere by Chiara Meloni, Tanaka](https://open.spotify.com/track/6HZr8TGsZICYNNRoLfLF85)
+- [Bittersweet by Nathan C, Darla Jade](https://open.spotify.com/track/4dsbLVnLqTavINHInT4hCo)
+- [Sky by KC Lights](https://open.spotify.com/track/2iCDOekJr7oRYShf6NJoNY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
