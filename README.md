@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Hang On - Sam Parker Remix by Le Youth, Gordi, Sam Parker](https://open.spotify.com/track/0DVMyXwq787NiWq75Re0ka)
+- [Name of Love by Franky Wah, Lee Foss, SPNCR](https://open.spotify.com/track/7jBeqtv9JMIbZnawM1iTJx)
+- [Reverie - Extended by INNERVERSE](https://open.spotify.com/track/6yPvsVTZUHBKNg6yYEayQo)
+- [No Good by DJ Katch, Clearest](https://open.spotify.com/track/08PwBZbBAUt5jRPmTwJ43z)
 - [Sky (Shining Bright) by KC Lights](https://open.spotify.com/track/1XD6o0qz5kmwZiMLxEZaig)
-- [Solid Ground by Giulio Cercato](https://open.spotify.com/track/5AfQmIW0HV5FeibFEyHDn8)
-- [Underwater - Leossa Remix by Le Youth, Leossa](https://open.spotify.com/track/02tKAxBF9EazkMi4pBXb3o)
-- [Human All Along by Robby East, LeyeT](https://open.spotify.com/track/7Jd6BlwZIhHHNOA4EZJ20X)
-- [How Did We Get Here by Andrew Nagy, Lovlee](https://open.spotify.com/track/6rObeWLiabZriNlsKwVt5N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
