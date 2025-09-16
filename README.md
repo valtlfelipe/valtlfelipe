@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli)** - Deploy any container to Cloudflare with a single command. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Your Favorite Song by APE, Astrid James](https://open.spotify.com/track/6DUoSZfPiO6XdSg1QZXJc0)
-- [What Would You Say by igor](https://open.spotify.com/track/4kMN9xVC4gSVqlXSNxWXec)
-- [Go There by San Mateo Drive](https://open.spotify.com/track/0ZBwEh3ToSQdPaOZkhG0QV)
-- [Bliss by Lanle, aiden](https://open.spotify.com/track/25lEFq05NpR82h4uKlHKUR)
-- [Keep On Rising by Summer Is Calling, Gasparian, Tasita D&#39;Mour](https://open.spotify.com/track/3YQ0ldJKhzgoIVy5vmAJZh)
+- [Trust You by MistaJam, Scott Quinn](https://open.spotify.com/track/4zGReDJNtrZkxxNUxgLu3Y)
+- [Sunset Call by Lanle](https://open.spotify.com/track/21axwxF0QVfJvjC5orPJwy)
+- [Super Powers by TELYKAST, Oaks](https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c)
+- [Follow by KC Lights](https://open.spotify.com/track/2OcT8PP3BIeTXMp1rYBHiS)
+- [Take Me Home by Giulio Cercato](https://open.spotify.com/track/4ZF2JMJ50VI8LxA3DCg5Tl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
