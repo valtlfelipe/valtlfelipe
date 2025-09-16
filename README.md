@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Mayday by Mojave Grey](https://open.spotify.com/track/3AlB6Dc4azLkpmBsQagcbO)
-- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
-- [Just Nowhere Close by MATHX](https://open.spotify.com/track/37bxWB1YIsqShbdQpgeH3y)
-- [Summer Feeling by Giulio Cercato](https://open.spotify.com/track/053XkkdQek1QEq4G6SnzEQ)
-- [Godess of Fire by V A E L O R A](https://open.spotify.com/track/0B9qcZy27FJji3N71OA8v5)
+- [Underwater - Leossa Remix by Le Youth, Leossa](https://open.spotify.com/track/02tKAxBF9EazkMi4pBXb3o)
+- [Human All Along by Robby East, LeyeT](https://open.spotify.com/track/7Jd6BlwZIhHHNOA4EZJ20X)
+- [How Did We Get Here by Andrew Nagy, Lovlee](https://open.spotify.com/track/6rObeWLiabZriNlsKwVt5N)
+- [Lovin U by Haasy, PRAZI](https://open.spotify.com/track/0WVOgLhVL1Zy4raPUPKV89)
+- [Sirens by Dallerium, FARLEY](https://open.spotify.com/track/14tDY4UrwhZbhRktMhZ2v5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
