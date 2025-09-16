@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli)** - Deploy any container to Cloudflare with a single command. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [About U by Reel Mood, Tima Dee](https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP)
-- [Closing Hour by Panuma, Tim Hughes](https://open.spotify.com/track/5m8yfomGrRuslN7B3PfF3C)
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [Goodbye by Le Youth](https://open.spotify.com/track/7pbwj0NdJ55BbMGFxf7WsO)
-- [Don&#39;t Wanna Know by Falden](https://open.spotify.com/track/24oxm9zL3c78hH9EuJyJh9)
+- [Your Favorite Song by APE, Astrid James](https://open.spotify.com/track/6DUoSZfPiO6XdSg1QZXJc0)
+- [What Would You Say by igor](https://open.spotify.com/track/4kMN9xVC4gSVqlXSNxWXec)
+- [Go There by San Mateo Drive](https://open.spotify.com/track/0ZBwEh3ToSQdPaOZkhG0QV)
+- [Bliss by Lanle, aiden](https://open.spotify.com/track/25lEFq05NpR82h4uKlHKUR)
+- [Keep On Rising by Summer Is Calling, Gasparian, Tasita D&#39;Mour](https://open.spotify.com/track/3YQ0ldJKhzgoIVy5vmAJZh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
