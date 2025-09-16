@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Give Me Love by THAT KIND](https://open.spotify.com/track/5wx8ilXSkwZ3b9btWZ4e1U)
-- [Ecstasy by THAT KIND](https://open.spotify.com/track/2K1WjqzeMlnQ412x7msDEf)
-- [Still With Francis by Duce](https://open.spotify.com/track/7MEJGPf7aGuiE01puSnhxW)
-- [Like You by Amés](https://open.spotify.com/track/7CAUCor77enYo6ZCwHtiRC)
-- [Tell Me by Falden, Fare](https://open.spotify.com/track/2TLICM4QNi7BRg7Wa0kzdN)
+- [Mayday by Mojave Grey](https://open.spotify.com/track/3AlB6Dc4azLkpmBsQagcbO)
+- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
+- [Just Nowhere Close by MATHX](https://open.spotify.com/track/37bxWB1YIsqShbdQpgeH3y)
+- [Summer Feeling by Giulio Cercato](https://open.spotify.com/track/053XkkdQek1QEq4G6SnzEQ)
+- [Godess of Fire by V A E L O R A](https://open.spotify.com/track/0B9qcZy27FJji3N71OA8v5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
