@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[the-ora/browser](https://github.com/the-ora/browser)** - Less noise, more browsing. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Survivors by Cammie Robinson](https://open.spotify.com/track/4lXZKQGTUfEju6Ks8gJVwX)
-- [Alright (Tonight) by THAT KIND](https://open.spotify.com/track/1MQvaQFiteOD4fPgqWXFF0)
-- [Nobody Else by Amés](https://open.spotify.com/track/2rT9gW3eg6CAJBafnS20T6)
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
-- [Hold My Breath by Hyzteria, Leah Guest](https://open.spotify.com/track/39IQMZoAQkWgQdDvsDSzl4)
+- [Give Me Love by THAT KIND](https://open.spotify.com/track/5wx8ilXSkwZ3b9btWZ4e1U)
+- [Ecstasy by THAT KIND](https://open.spotify.com/track/2K1WjqzeMlnQ412x7msDEf)
+- [Still With Francis by Duce](https://open.spotify.com/track/7MEJGPf7aGuiE01puSnhxW)
+- [Like You by Amés](https://open.spotify.com/track/7CAUCor77enYo6ZCwHtiRC)
+- [Tell Me by Falden, Fare](https://open.spotify.com/track/2TLICM4QNi7BRg7Wa0kzdN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
