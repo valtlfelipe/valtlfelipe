@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli)** - Deploy any container to Cloudflare with a single command. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
-- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
-- [Atmosphere by Chiara Meloni, Tanaka](https://open.spotify.com/track/6HZr8TGsZICYNNRoLfLF85)
-- [Bittersweet by Nathan C, Darla Jade](https://open.spotify.com/track/4dsbLVnLqTavINHInT4hCo)
-- [Sky by KC Lights](https://open.spotify.com/track/2iCDOekJr7oRYShf6NJoNY)
+- [About U by Reel Mood, Tima Dee](https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP)
+- [Closing Hour by Panuma, Tim Hughes](https://open.spotify.com/track/5m8yfomGrRuslN7B3PfF3C)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [Goodbye by Le Youth](https://open.spotify.com/track/7pbwj0NdJ55BbMGFxf7WsO)
+- [Don&#39;t Wanna Know by Falden](https://open.spotify.com/track/24oxm9zL3c78hH9EuJyJh9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
