@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Waste My Love by Oliver Cricket, DAV5, RAGUZZA](https://open.spotify.com/track/0zHaPkZcEMiAgzdL6hgh1v)
-- [Summer In Love by THAT KIND](https://open.spotify.com/track/23YgwwIwWYabfpvv3W1EMb)
-- [Can&#39;t Help But Loving You by Alex Adair](https://open.spotify.com/track/62wTeRZbLjVp8JrELsghQ5)
-- [Through The Night by MashBit, LAERZ](https://open.spotify.com/track/0OTxyXl67uf77d553TRLZZ)
-- [Watching over You by Nu Aspect, Marlo Rex](https://open.spotify.com/track/3OTz9JVR0pfKbhaCL45cJy)
+- [Remember by Midnight Pass, Ruffnux](https://open.spotify.com/track/6JqO8gCbkx5eekwKyTr71o)
+- [Girl (Mixed) by KC Lights](https://open.spotify.com/track/0oKG9tOheybt1bxE8Kz8o0)
+- [Light Upon Me by mölly, ANYLIA](https://open.spotify.com/track/0DnD0tWyO7RoeiRSz3GRG8)
+- [Make It Better by Paul Schulze](https://open.spotify.com/track/5pMOrhDsjGXFjMBdVk7nZ1)
+- [Weightless by Hyzteria](https://open.spotify.com/track/14Qgz11mmNGbIQ57IZlAUF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
