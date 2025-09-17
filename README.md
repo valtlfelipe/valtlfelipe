@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [When I&#39;m Around You by Running Touch](https://open.spotify.com/track/2MYTYXJXUj3YeCsGfiIdRq)
-- [Almost Home by Nadia Ali, Summer Is Calling, iRO](https://open.spotify.com/track/2bMATlixJ3kp39jCbg8rsf)
-- [Waiting For Us by Steve Kroeger, BIMINI, Tep No](https://open.spotify.com/track/0nV1xGEGl3rM1cdHPj5dNj)
-- [Deep Blue by Giulio Cercato](https://open.spotify.com/track/5zsTtUIvSlS5RepAMFrHjN)
-- [Lost My Way by Sean Sines](https://open.spotify.com/track/3AkZr85PL2oZOds2SrgtYI)
+- [I See You by RAZUNA](https://open.spotify.com/track/5lJt8jABBLICwHmJkuLfVI)
+- [Live Without Love (Klingande Remix Edit) by Shouse, David Guetta, Klingande](https://open.spotify.com/track/5kMjeYbAfMSDQxsX138bu6)
+- [Feel So Alive by Danglo, Siente, Oli Gosh](https://open.spotify.com/track/5Cznt9idpH9qSwTuMXBnMc)
+- [Good Morning by Farlight](https://open.spotify.com/track/09ml3xcjtlIFDJOK2VP1Qi)
+- [HOLLYWOOD by Sean Quinn](https://open.spotify.com/track/4TTjqIowzUhgtzXgezuPcz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
