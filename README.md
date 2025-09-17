@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Remember by Midnight Pass, Ruffnux](https://open.spotify.com/track/6JqO8gCbkx5eekwKyTr71o)
-- [Girl (Mixed) by KC Lights](https://open.spotify.com/track/0oKG9tOheybt1bxE8Kz8o0)
-- [Light Upon Me by mölly, ANYLIA](https://open.spotify.com/track/0DnD0tWyO7RoeiRSz3GRG8)
-- [Make It Better by Paul Schulze](https://open.spotify.com/track/5pMOrhDsjGXFjMBdVk7nZ1)
-- [Weightless by Hyzteria](https://open.spotify.com/track/14Qgz11mmNGbIQ57IZlAUF)
+- [Nobody Else by Amés](https://open.spotify.com/track/2rT9gW3eg6CAJBafnS20T6)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [Hold My Breath by Hyzteria, Leah Guest](https://open.spotify.com/track/39IQMZoAQkWgQdDvsDSzl4)
+- [See You Everywhere by Le Youth](https://open.spotify.com/track/69w0BUzkYaYKutBqKKs3WS)
+- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
