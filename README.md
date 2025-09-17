@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [I See You by RAZUNA](https://open.spotify.com/track/5lJt8jABBLICwHmJkuLfVI)
-- [Live Without Love (Klingande Remix Edit) by Shouse, David Guetta, Klingande](https://open.spotify.com/track/5kMjeYbAfMSDQxsX138bu6)
-- [Feel So Alive by Danglo, Siente, Oli Gosh](https://open.spotify.com/track/5Cznt9idpH9qSwTuMXBnMc)
-- [Good Morning by Farlight](https://open.spotify.com/track/09ml3xcjtlIFDJOK2VP1Qi)
-- [HOLLYWOOD by Sean Quinn](https://open.spotify.com/track/4TTjqIowzUhgtzXgezuPcz)
+- [Waste My Love by Oliver Cricket, DAV5, RAGUZZA](https://open.spotify.com/track/0zHaPkZcEMiAgzdL6hgh1v)
+- [Summer In Love by THAT KIND](https://open.spotify.com/track/23YgwwIwWYabfpvv3W1EMb)
+- [Can&#39;t Help But Loving You by Alex Adair](https://open.spotify.com/track/62wTeRZbLjVp8JrELsghQ5)
+- [Through The Night by MashBit, LAERZ](https://open.spotify.com/track/0OTxyXl67uf77d553TRLZZ)
+- [Watching over You by Nu Aspect, Marlo Rex](https://open.spotify.com/track/3OTz9JVR0pfKbhaCL45cJy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
