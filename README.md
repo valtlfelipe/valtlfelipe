@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli)** - Deploy any container to Cloudflare with a single command. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Take Hold of Me by Pia De Maio](https://open.spotify.com/track/4jWMoK4Xqrm0JL1LaIx5E1)
-- [Don&#39;t Let The Sun Go Down - Nora Van Elken Remix by Amés, Nora Van Elken](https://open.spotify.com/track/0FqEnYJf43IN4NtIr9dxah)
-- [We Re Moving as One by V A E L O R A](https://open.spotify.com/track/7CnaCYBrjeZvHP9JOhEraX)
-- [Turn Back Time by Diplo, Sonny Fodera](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6)
-- [What If You Fly by Oliver River](https://open.spotify.com/track/09np57gcBN1dq1gtsZ2uIB)
+- [Everything by Alon, LOWEN](https://open.spotify.com/track/25eP5WfzHnkWWt4JIQUDyg)
+- [Feel Around You by Le Youth, LeyeT](https://open.spotify.com/track/7nWvuyjrcLK2QnWAwXBfnv)
+- [The Otherside by Ross Quinn](https://open.spotify.com/track/6dVaPIowc4SX9Qm3Zj2KQq)
+- [Trust The Fall by Le P, Sam Pellegrino](https://open.spotify.com/track/0HKKvG5EbChHIXzEHzU2MT)
+- [Feelings by farfetch&#39;d, Tobtok](https://open.spotify.com/track/1ZSuGfwnaWCLfIIVS5Qxp7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
