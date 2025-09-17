@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli)** - Deploy any container to Cloudflare with a single command. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Everything by Alon, LOWEN](https://open.spotify.com/track/25eP5WfzHnkWWt4JIQUDyg)
-- [Feel Around You by Le Youth, LeyeT](https://open.spotify.com/track/7nWvuyjrcLK2QnWAwXBfnv)
-- [The Otherside by Ross Quinn](https://open.spotify.com/track/6dVaPIowc4SX9Qm3Zj2KQq)
-- [Trust The Fall by Le P, Sam Pellegrino](https://open.spotify.com/track/0HKKvG5EbChHIXzEHzU2MT)
-- [Feelings by farfetch&#39;d, Tobtok](https://open.spotify.com/track/1ZSuGfwnaWCLfIIVS5Qxp7)
+- [Live Without Love (David Guetta Remix - Edit) by Shouse, David Guetta](https://open.spotify.com/track/2rlprp43zoydEdxOkneJ52)
+- [Not Meant To Be Easy by Last Island](https://open.spotify.com/track/15DrELygQXVIbh1jw1pI58)
+- [Do This To Me by Fallen](https://open.spotify.com/track/67ULjiChEyHqirx6ZsJe8R)
+- [Lowest by Embody, Kyle Reynolds, So Damn Easy](https://open.spotify.com/track/168CHo0nA7qis8zx4fOdzn)
+- [MAGNETS - Extended Mix by JLV, Oscar Duke](https://open.spotify.com/track/0m0I6I0IbSGIqgfngXkcZo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
