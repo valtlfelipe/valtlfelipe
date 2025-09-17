@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli)** - Deploy any container to Cloudflare with a single command. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Live Without Love (David Guetta Remix - Edit) by Shouse, David Guetta](https://open.spotify.com/track/2rlprp43zoydEdxOkneJ52)
-- [Not Meant To Be Easy by Last Island](https://open.spotify.com/track/15DrELygQXVIbh1jw1pI58)
-- [Do This To Me by Fallen](https://open.spotify.com/track/67ULjiChEyHqirx6ZsJe8R)
-- [Lowest by Embody, Kyle Reynolds, So Damn Easy](https://open.spotify.com/track/168CHo0nA7qis8zx4fOdzn)
-- [MAGNETS - Extended Mix by JLV, Oscar Duke](https://open.spotify.com/track/0m0I6I0IbSGIqgfngXkcZo)
+- [Deep Blue by Giulio Cercato](https://open.spotify.com/track/5zsTtUIvSlS5RepAMFrHjN)
+- [Lost My Way by Sean Sines](https://open.spotify.com/track/3AkZr85PL2oZOds2SrgtYI)
+- [Feel It All (Tritonia 494) by mölly](https://open.spotify.com/track/6ei6QtTZyVuGXH0VlcHoxm)
+- [Cry (Just A Little) by Steff da Campo, Robbie Mendez](https://open.spotify.com/track/1iKJxbCsI4fYDKb0yuLSdX)
+- [Burning by Gorgon City, EVAN GIIA](https://open.spotify.com/track/5Anlcdi30ZhKEO9KVlyd8z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
