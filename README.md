@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Matoki by Aves, Snoophkeen](https://open.spotify.com/track/2mNEkQRCB2A7qUmUcbPghz)
-- [Garden to Sky by Ian Ewing](https://open.spotify.com/track/2FJTPw5reG4E1hdQ2m6Vt6)
-- [Foresight by Enough Cereals](https://open.spotify.com/track/5HJkjmNBU30nCwMIphmy0g)
-- [3am, Sao Paulo by less.people, Psalm Trees](https://open.spotify.com/track/03LRjbSrJDBvuswILU6Xza)
-- [Luck by J.Folk](https://open.spotify.com/track/2XvTJbHPjQUdJzRZLHJFt0)
+- [polaroid by Ward Wills](https://open.spotify.com/track/3YIjBqBTlgvVlu6gHkefxI)
+- [Odyssey by Misha, Makzo](https://open.spotify.com/track/6Lzt9zv2VhIeww2xYoGPWe)
+- [Left Behind by C Y G N](https://open.spotify.com/track/4ONcDzEQhrfSto7UrkfSC3)
+- [River’s Bass by Vhsceral](https://open.spotify.com/track/0SSJP3dlQlseGkYROl1Vvv)
+- [Sweetcalm by Tesk](https://open.spotify.com/track/0VBtT45h0WN2m76mjuBz8i)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
