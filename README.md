@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [polaroid by Ward Wills](https://open.spotify.com/track/3YIjBqBTlgvVlu6gHkefxI)
-- [Odyssey by Misha, Makzo](https://open.spotify.com/track/6Lzt9zv2VhIeww2xYoGPWe)
-- [Left Behind by C Y G N](https://open.spotify.com/track/4ONcDzEQhrfSto7UrkfSC3)
-- [River’s Bass by Vhsceral](https://open.spotify.com/track/0SSJP3dlQlseGkYROl1Vvv)
-- [Sweetcalm by Tesk](https://open.spotify.com/track/0VBtT45h0WN2m76mjuBz8i)
+- [Eastern Winds by Saib](https://open.spotify.com/track/2gC6dQo9saM1aLdMDfsDFU)
+- [High Hope - Philanthrope Remix by Psalm Trees, ALEXANDER, Philanthrope](https://open.spotify.com/track/7dzKPyaVx0lCieesz9CZhL)
+- [No Direction by SwuM, Lenny Loops](https://open.spotify.com/track/7gVVYtWw6Mo6LqIO56lj9E)
+- [S Class by Kreatev, 88JAY](https://open.spotify.com/track/5bgLhmQN9LKP36aLGABdn5)
+- [Spark by Tesk](https://open.spotify.com/track/1CrrJ1myAu3RESZWpamF4G)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
