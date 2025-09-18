@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Breathe In by Psalm Trees, less.people](https://open.spotify.com/track/3eUu3GhITsbhN27e6Obaz8)
-- [Plush by Ward Wills](https://open.spotify.com/track/2cFD09vGgbgWkGIPT5UUgG)
-- [Little Help by Yasper](https://open.spotify.com/track/1Yjaim8ewecKPFOb5FtBYV)
-- [Dreamscape Lagoon by Enzalla](https://open.spotify.com/track/7H58Rh1xMGT11jBCliairH)
-- [Melvin by Boukas, Fredrik Bergsten, Samuel Axelson](https://open.spotify.com/track/0mywMJgH5LeMDubZW4jJ3P)
+- [Green Lime by Nymano, Suuna](https://open.spotify.com/track/2Q3VZf35x0GmKxMulU0qYN)
+- [That Summer by Psalm Trees, ALEXANDER](https://open.spotify.com/track/63lCMiLkytVb3yjlPOAxOk)
+- [Spirals by Enough Cereals](https://open.spotify.com/track/14nyzDICQeMpKxFS3sZ02J)
+- [Twins by Rose Noir](https://open.spotify.com/track/5qJP5PIZnC8pOX3MYEHmr0)
+- [Not a Ghost by Enluv](https://open.spotify.com/track/7powVU2qfDbkFkzNQIyu7U)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
