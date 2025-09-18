@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Red Leaf by Suuna](https://open.spotify.com/track/2jDDLu6hFF3qAhyTNCg2NM)
-- [La Verdure by Makzo, Guillaume Muschalle](https://open.spotify.com/track/0dm06bIlFo92spz39gAYxc)
-- [Sleeping Norboo - Moods Remix by Psalm Trees, ALEXANDER, Moods](https://open.spotify.com/track/3Fgpy0rBMZNP4vvJM4ZYEs)
-- [Wingspan by invention_](https://open.spotify.com/track/4wdXF6LD9NE8kx30dNRN5U)
-- [Zen Headbutt by Dotlights](https://open.spotify.com/track/3O5njvd5zm3dinj44ZY2Nq)
+- [Vermont Canyon by Teddy Roxpin, MAXIMILLIAN](https://open.spotify.com/track/2BwIKsgnBeCmPjZAjIljqz)
+- [You Bring Me Life by Psalm Trees, ALEXANDER](https://open.spotify.com/track/77wNV4xA0ULPzYGoHrKyt6)
+- [Backup Dancer by Dotlights](https://open.spotify.com/track/1z45pm8VikMxIOniyNGbPH)
+- [Shade by Mac Kay](https://open.spotify.com/track/2m3isbN0o0ZIE0gvseXfuG)
+- [Early Autumn by Evil Needle, Justin Wyatt](https://open.spotify.com/track/1C8K6AVDaTQbTHxPkbFQDo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
