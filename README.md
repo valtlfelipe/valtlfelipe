@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Sleep Talking by Beyond, Marlo Rex](https://open.spotify.com/track/5B8yexFn22KcFZKuf7zFAc)
+- [Survivors by Cammie Robinson](https://open.spotify.com/track/4lXZKQGTUfEju6Ks8gJVwX)
 - [Alright (Tonight) by THAT KIND](https://open.spotify.com/track/1MQvaQFiteOD4fPgqWXFF0)
 - [Nobody Else by Amés](https://open.spotify.com/track/2rT9gW3eg6CAJBafnS20T6)
 - [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
-- [Hold My Breath by Hyzteria, Leah Guest](https://open.spotify.com/track/39IQMZoAQkWgQdDvsDSzl4)
-- [See You Everywhere by Le Youth](https://open.spotify.com/track/69w0BUzkYaYKutBqKKs3WS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
