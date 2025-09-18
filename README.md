@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Sturgeon Bay by Ian Ewing, Strehlow](https://open.spotify.com/track/5dqdjnJS4d4H13twSlNlQx)
-- [Desert by oddfish](https://open.spotify.com/track/1iOXXBImluvQSpE2GFvZxd)
-- [Meadow Terrain by Mama Aiuto](https://open.spotify.com/track/0AX79mOMJgKWpDujiNKVY9)
-- [Lonesome by Tesk](https://open.spotify.com/track/52jm3LDMK7mayxankQFzej)
-- [Fold by Vhsceral, Justin Wyatt](https://open.spotify.com/track/3hQTVXsh2V9pxhgqi158je)
+- [Red Leaf by Suuna](https://open.spotify.com/track/2jDDLu6hFF3qAhyTNCg2NM)
+- [La Verdure by Makzo, Guillaume Muschalle](https://open.spotify.com/track/0dm06bIlFo92spz39gAYxc)
+- [Sleeping Norboo - Moods Remix by Psalm Trees, ALEXANDER, Moods](https://open.spotify.com/track/3Fgpy0rBMZNP4vvJM4ZYEs)
+- [Wingspan by invention_](https://open.spotify.com/track/4wdXF6LD9NE8kx30dNRN5U)
+- [Zen Headbutt by Dotlights](https://open.spotify.com/track/3O5njvd5zm3dinj44ZY2Nq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
