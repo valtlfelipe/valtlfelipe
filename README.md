@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Vermont Canyon by Teddy Roxpin, MAXIMILLIAN](https://open.spotify.com/track/2BwIKsgnBeCmPjZAjIljqz)
-- [You Bring Me Life by Psalm Trees, ALEXANDER](https://open.spotify.com/track/77wNV4xA0ULPzYGoHrKyt6)
-- [Backup Dancer by Dotlights](https://open.spotify.com/track/1z45pm8VikMxIOniyNGbPH)
-- [Shade by Mac Kay](https://open.spotify.com/track/2m3isbN0o0ZIE0gvseXfuG)
-- [Early Autumn by Evil Needle, Justin Wyatt](https://open.spotify.com/track/1C8K6AVDaTQbTHxPkbFQDo)
+- [Matoki by Aves, Snoophkeen](https://open.spotify.com/track/2mNEkQRCB2A7qUmUcbPghz)
+- [Garden to Sky by Ian Ewing](https://open.spotify.com/track/2FJTPw5reG4E1hdQ2m6Vt6)
+- [Foresight by Enough Cereals](https://open.spotify.com/track/5HJkjmNBU30nCwMIphmy0g)
+- [3am, Sao Paulo by less.people, Psalm Trees](https://open.spotify.com/track/03LRjbSrJDBvuswILU6Xza)
+- [Luck by J.Folk](https://open.spotify.com/track/2XvTJbHPjQUdJzRZLHJFt0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
