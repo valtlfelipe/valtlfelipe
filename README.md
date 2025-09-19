@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Loup Solitaire by Lascko](https://open.spotify.com/track/64NZs09hmerD7CudiX196q)
-- [Pareidolia by less.people](https://open.spotify.com/track/0Ho7X36HKh3V4lUfvT1pwQ)
-- [Growing Pains by Arbour](https://open.spotify.com/track/0OnEjssDb9Me5EfiKxY2WO)
-- [Stay Positive by Aves](https://open.spotify.com/track/1kyFeAW5x5tsJ08So7a5zj)
-- [Avalon by Ian Ewing](https://open.spotify.com/track/4FeA6m7ndqi7QliFxgYaxw)
+- [soaked up by metricity](https://open.spotify.com/track/7uJm5b3FwhvXSAhNCht3Ma)
+- [Dance Around by Dove Tales](https://open.spotify.com/track/5GyoQHJLwBr7yjqZSrOdri)
+- [El Nido by One Astra](https://open.spotify.com/track/5y4jIRCzdlaMVGiT4P9HPl)
+- [Elevate by Molinerd](https://open.spotify.com/track/3UNkKybunQxyPE6y0PD74i)
+- [Memories by Rayo del Sol](https://open.spotify.com/track/2vfjGQHhpb0lGNzP088tVk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
