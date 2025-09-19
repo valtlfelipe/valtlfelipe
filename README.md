@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Amaretto by Marin Lavelle](https://open.spotify.com/track/40meWVs9i002bPbkZthfVR)
-- [Cold Sun by Cushy](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt)
-- [New York Dance by Sombra Azul](https://open.spotify.com/track/5WQ8vgQgyCF8jjhlJMOtSu)
-- [Para Sol by Teide Garcia](https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4)
-- [hot streak by temperley](https://open.spotify.com/track/7A6Y8nJXkpL8WOiAJ7NhVt)
+- [Summer High by Palo Santo](https://open.spotify.com/track/0hnTSQUrWBcI4cSAJipBOw)
+- [Hazy by Tilja](https://open.spotify.com/track/3JDWe0YJ7fwIGpXchl79C0)
+- [The Feels by Peqasus](https://open.spotify.com/track/12ZDfHYGroYkrsxSSolen1)
+- [Would Have Been by Lashi](https://open.spotify.com/track/1ZuEJCQ56UsvsNmBQrpvgo)
+- [After Hours by Flx Jayson](https://open.spotify.com/track/1D9UrRbGi9qLGHQvldxh3o)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
