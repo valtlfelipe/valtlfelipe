@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [My Mind by Sonido Solar](https://open.spotify.com/track/4D4LilSp8N17KxGPmRfPq8)
+- [Rooftop Lunch by Pat Jr](https://open.spotify.com/track/0BbV9NJYb32Hdf8KIPHLiO)
+- [High on You by Natasha Fierce](https://open.spotify.com/track/1mXRUJv1zLPcrkcOmnL7wC)
+- [platform 11 by Landayn](https://open.spotify.com/track/6H42CMBnrLd36AfjdbD9UH)
 - [Summer High by Palo Santo](https://open.spotify.com/track/0hnTSQUrWBcI4cSAJipBOw)
-- [Hazy by Tilja](https://open.spotify.com/track/3JDWe0YJ7fwIGpXchl79C0)
-- [The Feels by Peqasus](https://open.spotify.com/track/12ZDfHYGroYkrsxSSolen1)
-- [Would Have Been by Lashi](https://open.spotify.com/track/1ZuEJCQ56UsvsNmBQrpvgo)
-- [After Hours by Flx Jayson](https://open.spotify.com/track/1D9UrRbGi9qLGHQvldxh3o)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
