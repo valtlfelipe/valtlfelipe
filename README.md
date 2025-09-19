@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Ocean Blue by LeeDee](https://open.spotify.com/track/2Di8gjxNomIbXi0hctCYHv)
-- [Glide by Niriko](https://open.spotify.com/track/4jJFVzaQirzpLgVg0zGcFg)
-- [Rainfall by Purple Smog](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2)
-- [Studio Floor by Twin Iguana](https://open.spotify.com/track/3gts9Ik78hcSSUX5CXACJH)
-- [At Ease by Bricks and Mortar](https://open.spotify.com/track/7ngEf3xSGP1IZka8QiXdwf)
+- [108 Dreams by Delphine Dekker](https://open.spotify.com/track/5CJWDaqKx5wKJUginbzNhr)
+- [Back Home by Pascal Marcel](https://open.spotify.com/track/351rejqsz5uECQ7w1mI9dv)
+- [Ko Lipe by Pink Lotus](https://open.spotify.com/track/0f4qPItjQNiBETdP6ajdho)
+- [Shimmer by David Dumeau](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4)
+- [Waves by Gabriel Morais Jr, Ayla Nova](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
