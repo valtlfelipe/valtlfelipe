@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [soaked up by metricity](https://open.spotify.com/track/7uJm5b3FwhvXSAhNCht3Ma)
-- [Dance Around by Dove Tales](https://open.spotify.com/track/5GyoQHJLwBr7yjqZSrOdri)
-- [El Nido by One Astra](https://open.spotify.com/track/5y4jIRCzdlaMVGiT4P9HPl)
-- [Elevate by Molinerd](https://open.spotify.com/track/3UNkKybunQxyPE6y0PD74i)
-- [Memories by Rayo del Sol](https://open.spotify.com/track/2vfjGQHhpb0lGNzP088tVk)
+- [Ocean Blue by LeeDee](https://open.spotify.com/track/2Di8gjxNomIbXi0hctCYHv)
+- [Glide by Niriko](https://open.spotify.com/track/4jJFVzaQirzpLgVg0zGcFg)
+- [Rainfall by Purple Smog](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2)
+- [Studio Floor by Twin Iguana](https://open.spotify.com/track/3gts9Ik78hcSSUX5CXACJH)
+- [At Ease by Bricks and Mortar](https://open.spotify.com/track/7ngEf3xSGP1IZka8QiXdwf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
