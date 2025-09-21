@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [on my mind by Good Kings](https://open.spotify.com/track/79A8xKMQDj3mPY0J7CNpLy)
-- [Curvature by Colton Jefferson](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq)
-- [Nebulous Spirits by Hans Blu](https://open.spotify.com/track/46XBBYQiRPg8sGdwfj6MRk)
-- [My Mind by Sonido Solar](https://open.spotify.com/track/4D4LilSp8N17KxGPmRfPq8)
-- [Rooftop Lunch by Pat Jr](https://open.spotify.com/track/0BbV9NJYb32Hdf8KIPHLiO)
+- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [paloma beach by Naoko Omi](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9)
+- [Desire by Ian Asher, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0)
+- [I Love You by Belters Only](https://open.spotify.com/track/4QkKWvtMj675AKd8IForfc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
