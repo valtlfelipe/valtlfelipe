@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/once-campfire](https://github.com/basecamp/once-campfire)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Forget You by FAST BOY, Topic](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [paloma beach by Naoko Omi](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9)
-- [Desire by Ian Asher, Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0)
-- [I Love You by Belters Only](https://open.spotify.com/track/4QkKWvtMj675AKd8IForfc)
+- [It&#39;s Not Right But It&#39;s Okay by Felix Jaehn, Whitney Houston](https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc)
+- [Substitution (feat. Julian Perretta) by Purple Disco Machine, Kungs, Julian Perretta](https://open.spotify.com/track/6BjG4NirMgJfC6QAvbfBNG)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [On &amp; On by Armin van Buuren, Punctual, Alika](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r)
+- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
