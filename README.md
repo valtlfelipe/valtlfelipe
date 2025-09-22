@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[RediSearch/RediSearch](https://github.com/RediSearch/RediSearch)** - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [New Life by Wavey](https://open.spotify.com/track/3uvYzu0w2eidLXXBV7k4tr)
-- [Galaxy From Home by Aludra](https://open.spotify.com/track/1BTsjlr9xjyhsW8venOXrc)
-- [On &amp; On by itsgreat](https://open.spotify.com/track/2IoLTyUjouXo4ViShHxxcu)
-- [Into the Night by nømad, Donner, Horxata](https://open.spotify.com/track/33ljt9tVhlLy9K8Kmg1xA3)
-- [Moment by Panuma, Nina Carr](https://open.spotify.com/track/11fQ56KIXCrTjuln0h7juk)
+- [Take It Back by DRAY](https://open.spotify.com/track/5PjDGOpFqorEZ4wuqsn2ZY)
+- [Siren by Fedders, Barmuda](https://open.spotify.com/track/1dasrNWDzxdtx9BonLMNsV)
+- [Knockout by Kodrek, hmny.](https://open.spotify.com/track/3pJQ9XkvOyS2vwRQp9o9PG)
+- [spark by just nearby](https://open.spotify.com/track/3U2mBMWAjWWWvZEEFLguYM)
+- [Taste by Wavey](https://open.spotify.com/track/3134QpOcZm1ciiukvW5Po7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
