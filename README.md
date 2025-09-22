@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[areibman/bottleneck](https://github.com/areibman/bottleneck)** - Native Electron app for reviewing pull requests dramatically faster than Github web. Specialized for handling reviews for background agents working on multiple concurrent threads (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [You Got It by Quarantino, Krmoni](https://open.spotify.com/track/7MCPNdtppr1Jz9r4z7M9Cf)
-- [I&#39;m Done by Nofsky, SOFYKA](https://open.spotify.com/track/0gQcEtHlSEaXb40pdhFMki)
-- [Hit The Ground by Nick Raff](https://open.spotify.com/track/2iWJTXzBPvMu6x7qA9onF1)
-- [close to the end by Lonely Night, Nody, Ari](https://open.spotify.com/track/4qcadKGUuiRfspUBRWDAD3)
-- [Dragonfruit by aural](https://open.spotify.com/track/7e5ABnsSrqePMfS9ZHpngf)
+- [It&#39;s Alright by Odare, Colin Stauber](https://open.spotify.com/track/0RNFfXUyxmvTeutXktbL95)
+- [With Me by Nofsky, Lukas Goss](https://open.spotify.com/track/2p2aR4DcQHTmhtvSyAUOtk)
+- [Open Your Eyes by Nick Raff](https://open.spotify.com/track/3Ebt1WALSn914WYdfCKV4B)
+- [Nothing Else Matters by Voldea](https://open.spotify.com/track/5rYV0llI5eRj1bQ0WF3yOC)
+- [Let&#39;s Go Home (Erlando Remix) by Eklo, Erlando](https://open.spotify.com/track/74TcTabEAOFdGWsVzY20JB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
