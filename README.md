@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[areibman/bottleneck](https://github.com/areibman/bottleneck)** - Native Electron app for reviewing pull requests dramatically faster than Github web. Specialized for handling reviews for background agents working on multiple concurrent threads (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [The New Beginnings by Seawayz](https://open.spotify.com/track/2PrTFaEza8ZPg8UNU2uCKK)
-- [Last Time by Aselec, bayme](https://open.spotify.com/track/1TLC7eZBWYGd9mtuuOULbM)
-- [Wanna See You by Luis Coren](https://open.spotify.com/track/0RqAxIVVabwGj3sxGrQALh)
-- [On My Way - Chill Mix by Kaskade](https://open.spotify.com/track/6DJWa8i5LmmPCvR15jKMCO)
-- [Eyes Open by Luune](https://open.spotify.com/track/33wEcW2cRCQTTDvV24ML81)
+- [Let You In (I Need You) by Nofsky, Matt Steep](https://open.spotify.com/track/21syLa9Kj5jairMdOK5I9M)
+- [Nothing Else But You by aiden](https://open.spotify.com/track/6zJm9r21lKyVfejK6NJlHV)
+- [Feel The Emotion by fwd/slash](https://open.spotify.com/track/6chebJZzTQfGMINE4dium9)
+- [Thank You by Ruxolf, JDM, Ollie Wade](https://open.spotify.com/track/4npEZVTX8J0iDrxS9eMuQK)
+- [Espresso by Aludra](https://open.spotify.com/track/3F8JZXZSuRkO5sxlNz3fnJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
