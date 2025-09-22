@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[areibman/bottleneck](https://github.com/areibman/bottleneck)** - Native Electron app for reviewing pull requests dramatically faster than Github web. Specialized for handling reviews for background agents working on multiple concurrent threads (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Let You In (I Need You) by Nofsky, Matt Steep](https://open.spotify.com/track/21syLa9Kj5jairMdOK5I9M)
-- [Nothing Else But You by aiden](https://open.spotify.com/track/6zJm9r21lKyVfejK6NJlHV)
-- [Feel The Emotion by fwd/slash](https://open.spotify.com/track/6chebJZzTQfGMINE4dium9)
-- [Thank You by Ruxolf, JDM, Ollie Wade](https://open.spotify.com/track/4npEZVTX8J0iDrxS9eMuQK)
-- [Espresso by Aludra](https://open.spotify.com/track/3F8JZXZSuRkO5sxlNz3fnJ)
+- [You Got It by Quarantino, Krmoni](https://open.spotify.com/track/7MCPNdtppr1Jz9r4z7M9Cf)
+- [I&#39;m Done by Nofsky, SOFYKA](https://open.spotify.com/track/0gQcEtHlSEaXb40pdhFMki)
+- [Hit The Ground by Nick Raff](https://open.spotify.com/track/2iWJTXzBPvMu6x7qA9onF1)
+- [close to the end by Lonely Night, Nody, Ari](https://open.spotify.com/track/4qcadKGUuiRfspUBRWDAD3)
+- [Dragonfruit by aural](https://open.spotify.com/track/7e5ABnsSrqePMfS9ZHpngf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
