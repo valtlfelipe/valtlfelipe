@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[KartikLabhshetwar/lazycommit](https://github.com/KartikLabhshetwar/lazycommit)** - A CLI that writes your git commit messages for you with AI using Groq. Never write a commit message again. (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [It&#39;s Alright by Odare, Colin Stauber](https://open.spotify.com/track/0RNFfXUyxmvTeutXktbL95)
-- [Nothing Else But You by aiden](https://open.spotify.com/track/6zJm9r21lKyVfejK6NJlHV)
-- [Sudden Silence by Grafine](https://open.spotify.com/track/1KQgVOzETywRJpcIyhqjLB)
-- [if i&#39;m not with you by NORRA](https://open.spotify.com/track/75tCgkn6zwqFIWRCoYASJQ)
-- [Let&#39;s Go Home (Jawster Remix) by Eklo, Jawster](https://open.spotify.com/track/5yg9QJrLrMxQW5R2wFlJTP)
+- [Chasing Cars by RAZZ, Holly, Warm &amp; Cold](https://open.spotify.com/track/41G25uUPxnNoy4qSVIaKLG)
+- [Dream A Dream Tonight by Penelope Cru, 1N Progress, ChillTide](https://open.spotify.com/track/2VXntINCt3A1QIpR3DqC6Q)
+- [One Last Time by NM](https://open.spotify.com/track/6YPmaSehLyyY5ImwNkmEGv)
+- [Take it Slow by aural](https://open.spotify.com/track/6MxbiSK1W3igcuuxaIMDNf)
+- [Frozen in Time by aiden](https://open.spotify.com/track/7k774GQLbe78zxvfcYaZ38)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
