@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[basecamp/omarchy](https://github.com/basecamp/omarchy)** - Opinionated Arch/Hyprland Setup (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [On &amp; On by itsgreat](https://open.spotify.com/track/2IoLTyUjouXo4ViShHxxcu)
-- [Ego in Ashes by Pleasurian Pneumatikos](https://open.spotify.com/track/3GSk1wNWezqNfeA1UCytWl)
-- [Strangers by TWOPILOTS, James Hersey, ARTUNIS](https://open.spotify.com/track/5FZ3F8RDenKwUHvAfcdGjS)
-- [Love U by NORRA](https://open.spotify.com/track/3hAEMnD6olqDSKFcFiZHop)
-- [Secrets by Klama](https://open.spotify.com/track/2ozxnv4Q8GVypUqek65aLD)
+- [Whenever You&#39;re Ready by Klama](https://open.spotify.com/track/1XfXrS8hA0LLPM7qsEn3h6)
+- [Light Year - Extended Mix by Alex Breitling, Jyll](https://open.spotify.com/track/1HfAcYk4io72yXGrKIgPJc)
+- [Siren Song - Original by CamelPhat, Eden](https://open.spotify.com/track/4A96LpUrw3lJI6Bx10JU6u)
+- [Let You Know by Y.V.E. 48](https://open.spotify.com/track/5M0X9GCiDeJtqg388YdPoA)
+- [Love You by P.A.V](https://open.spotify.com/track/31BnaBEwBK7RDCUp2AlIgx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
