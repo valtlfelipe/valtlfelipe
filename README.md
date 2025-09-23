@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[KartikLabhshetwar/lazycommit](https://github.com/KartikLabhshetwar/lazycommit)** - A CLI that writes your git commit messages for you with AI using Groq. Never write a commit message again. (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Chasing Cars by RAZZ, Holly, Warm &amp; Cold](https://open.spotify.com/track/41G25uUPxnNoy4qSVIaKLG)
-- [Dream A Dream Tonight by Penelope Cru, 1N Progress, ChillTide](https://open.spotify.com/track/2VXntINCt3A1QIpR3DqC6Q)
-- [One Last Time by NM](https://open.spotify.com/track/6YPmaSehLyyY5ImwNkmEGv)
-- [Take it Slow by aural](https://open.spotify.com/track/6MxbiSK1W3igcuuxaIMDNf)
-- [Frozen in Time by aiden](https://open.spotify.com/track/7k774GQLbe78zxvfcYaZ38)
+- [Need You There by M-22](https://open.spotify.com/track/6CMF35Wo3xRxGTLDMjvxlY)
+- [Autumn Colours by 08 Pulse](https://open.spotify.com/track/1T87iE0IwTuGiesEpAPLSw)
+- [Self Soothe by Kris Karrey](https://open.spotify.com/track/4Cjw3QAstdWCu5qlTwKZpG)
+- [Follow Me by Neascape](https://open.spotify.com/track/7jC7WUEvLlBzr4ONF25eft)
+- [Today Is Enough (ABGT645) - Mixed by Cornelius SA, Elliot Vast](https://open.spotify.com/track/4u9OhSxpQefQiUx67ifIP6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
