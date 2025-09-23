@@ -13,7 +13,7 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - [Whenever You&#39;re Ready by Klama](https://open.spotify.com/track/1XfXrS8hA0LLPM7qsEn3h6)
 - [Whenever You&#39;re Ready by Klama](https://open.spotify.com/track/1XfXrS8hA0LLPM7qsEn3h6)
 - [Whenever You&#39;re Ready by Klama](https://open.spotify.com/track/1XfXrS8hA0LLPM7qsEn3h6)
-- [First Light by edapollo, Mild Minds](https://open.spotify.com/track/2mAmzLJzgXFmiunBbHkMKc)
 - [Whenever You&#39;re Ready by Klama](https://open.spotify.com/track/1XfXrS8hA0LLPM7qsEn3h6)
+- [First Light by edapollo, Mild Minds](https://open.spotify.com/track/2mAmzLJzgXFmiunBbHkMKc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
