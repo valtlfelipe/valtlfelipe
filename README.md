@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[superfly/litefs](https://github.com/superfly/litefs)** - FUSE-based file system for replicating SQLite databases across a cluster of machines (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Survivor - Mixed by Little Foot, ALLKNIGHT](https://open.spotify.com/track/4aDlmjRltwNvfezMof0mLT)
-- [Light Upon Me (Future Horizons 458) by mölly, ANYLIA](https://open.spotify.com/track/50s8mU7bjJ9ue2Pb2sVz0d)
-- [Solitude by Naws](https://open.spotify.com/track/0Sb18ey0LU9n4DS5mliToi)
-- [Shatter by V A E L O R A](https://open.spotify.com/track/4fsgZIg8oizrMbPaLTTEUt)
-- [Fearless - Mixed by Alex Breitling](https://open.spotify.com/track/5VX1cQHudaTDaGDxfxpCHG)
+- [Volcano by Rowland Giles, Toutounji](https://open.spotify.com/track/5IDgICEO4v6iZ1i0XCpY53)
+- [Here Again - Extended Mix by mölly, Kazmyn](https://open.spotify.com/track/0ZmVjCfATiQkXG4CEROlry)
+- [Ember Moon by zaccwithtwocs](https://open.spotify.com/track/3BPQ0Bybti3Qv4wNOCPx6I)
+- [Infinity 2008 by Lane Boy](https://open.spotify.com/track/2P4CtXqPqeBCllSrTUBohY)
+- [Wanna Know (Tritonia 507) by Jack Willard, Lovlee](https://open.spotify.com/track/4oBAN3oh1bc5EtfMA42Waj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
