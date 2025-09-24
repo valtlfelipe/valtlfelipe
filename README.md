@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[superfly/litefs](https://github.com/superfly/litefs)** - FUSE-based file system for replicating SQLite databases across a cluster of machines (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Further (Tritonia 514) by Jack Willard](https://open.spotify.com/track/0qrJVCtQbxDeVVe53mMoyo)
-- [Feel The Emotion by fwd/slash](https://open.spotify.com/track/6chebJZzTQfGMINE4dium9)
-- [Hold Me Down by Avoure, Plaha](https://open.spotify.com/track/5SObgJFhw8eNy1wxB2ab9u)
-- [Light Year by Alex Breitling, Jyll](https://open.spotify.com/track/1TwLyvoMOPLQmuF65aw1Or)
-- [Blink by Bob Moses](https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV)
+- [Survivor - Mixed by Little Foot, ALLKNIGHT](https://open.spotify.com/track/4aDlmjRltwNvfezMof0mLT)
+- [Light Upon Me (Future Horizons 458) by mölly, ANYLIA](https://open.spotify.com/track/50s8mU7bjJ9ue2Pb2sVz0d)
+- [Solitude by Naws](https://open.spotify.com/track/0Sb18ey0LU9n4DS5mliToi)
+- [Shatter by V A E L O R A](https://open.spotify.com/track/4fsgZIg8oizrMbPaLTTEUt)
+- [Fearless - Mixed by Alex Breitling](https://open.spotify.com/track/5VX1cQHudaTDaGDxfxpCHG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
