@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[imputnet/helium](https://github.com/imputnet/helium)** - Private, fast, and honest web browser (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Live Again by Freyer, Tom Bailey](https://open.spotify.com/track/0043P7bYcwUB3y6af6as94)
-- [With You Tonight by Tygga, Tyla Boy, AFROBEATZ](https://open.spotify.com/track/3q9HeXQ5JuhkMbrGApm36d)
-- [I&#39;ll Take a Chance by Hollway](https://open.spotify.com/track/0HIvaq0mqvptcgR7frWXWB)
-- [For You - Mixed by Jack Willard, Coastlines](https://open.spotify.com/track/3MKNkQGcXahv44HtItYpqE)
-- [My Faith by Neshama](https://open.spotify.com/track/0znRdWqp1mn2kPIOHCtBF9)
+- [Never Be Like You - Extended by S.O.T.N., Tyron Hapi, Gigi Russ](https://open.spotify.com/track/3zlKkRNuM0j9uyleqP9W7w)
+- [Great Plains - Extended Mix by Verbala](https://open.spotify.com/track/5DEUfuTjU2CuvBS7GHTeg6)
+- [Needed Love by Alex Breitling](https://open.spotify.com/track/4FRhRoWBfxlI6uzI1ji3qx)
+- [On The Edge - Mixed by UOAK, Damaui, Lisa Mechelina](https://open.spotify.com/track/5ZYVWYHAIFOwyEYVw8buOZ)
+- [Pure Need by Shoumeck](https://open.spotify.com/track/1AbS99slZu8EUkkjYW82tv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
