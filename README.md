@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[imputnet/helium](https://github.com/imputnet/helium)** - Private, fast, and honest web browser (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Ibiza Dreams - Extended Sunshine Edit by sundraze](https://open.spotify.com/track/4GnplqqaL6jWKX0lJsXVXu)
-- [Healing - Amél &amp; Alion Remix by Jonasu, Emily Roberts, Amél, Alion](https://open.spotify.com/track/4SaNp8z7aGTAgIAMUBJJ6g)
-- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
-- [Carry On - Chill Mix by Morgin Madison, HILYTE](https://open.spotify.com/track/7KgZBfomiq7wXgogmhKKiH)
-- [Behind My Eyes (Tritonia 501) by Klur, BJOERN](https://open.spotify.com/track/7BRSlYfJrds3SMzDG21X63)
+- [Hard To Find by Kintar, Paige, Biishop](https://open.spotify.com/track/5frSIUFx2M6I5gOPRYWGik)
+- [Radio Silence by Heard Right, Finley Brückner](https://open.spotify.com/track/1IbI4MWPNHz0Wh5zkvYAfM)
+- [Life Is A Journey by Vince Parro](https://open.spotify.com/track/2shekhcdV5fg4CTpl39TOa)
+- [Time Flies By - Mixed by Rowland Giles](https://open.spotify.com/track/5j0ZOax4HtBMoOI6HgPrp9)
+- [Midwest by Con&#39;s Universe](https://open.spotify.com/track/1XjtxR1LsonBbiQo6ubHKn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
