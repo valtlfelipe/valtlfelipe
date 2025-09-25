@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[imputnet/helium](https://github.com/imputnet/helium)** - Private, fast, and honest web browser (1 day ago)
 
 #### 🎧 Spotify recent tracks
+- [Shapeshift by Rezident](https://open.spotify.com/track/7tZc1hKO4YCYiqgmGYcTMD)
+- [Seek and You Shall Find by DOMPOON, Kazmyn](https://open.spotify.com/track/5plZLqf51abEsWikg7UI0S)
 - [Never Be Like You - Extended by S.O.T.N., Tyron Hapi, Gigi Russ](https://open.spotify.com/track/3zlKkRNuM0j9uyleqP9W7w)
 - [Great Plains - Extended Mix by Verbala](https://open.spotify.com/track/5DEUfuTjU2CuvBS7GHTeg6)
 - [Needed Love by Alex Breitling](https://open.spotify.com/track/4FRhRoWBfxlI6uzI1ji3qx)
-- [On The Edge - Mixed by UOAK, Damaui, Lisa Mechelina](https://open.spotify.com/track/5ZYVWYHAIFOwyEYVw8buOZ)
-- [Pure Need by Shoumeck](https://open.spotify.com/track/1AbS99slZu8EUkkjYW82tv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
