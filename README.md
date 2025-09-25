@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[imputnet/helium](https://github.com/imputnet/helium)** - Private, fast, and honest web browser (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Hard To Find by Kintar, Paige, Biishop](https://open.spotify.com/track/5frSIUFx2M6I5gOPRYWGik)
-- [Radio Silence by Heard Right, Finley Brückner](https://open.spotify.com/track/1IbI4MWPNHz0Wh5zkvYAfM)
-- [Life Is A Journey by Vince Parro](https://open.spotify.com/track/2shekhcdV5fg4CTpl39TOa)
-- [Time Flies By - Mixed by Rowland Giles](https://open.spotify.com/track/5j0ZOax4HtBMoOI6HgPrp9)
-- [Midwest by Con&#39;s Universe](https://open.spotify.com/track/1XjtxR1LsonBbiQo6ubHKn)
+- [Today Is Enough by Cornelius SA, Elliot Vast](https://open.spotify.com/track/6uwQcJnol87C0xNwhtUvNj)
+- [Another Light by CEAUS, Jan Liva](https://open.spotify.com/track/0DKKvHAylVSqLqtSC1yvxn)
+- [Hold On Me (Tritonia 508) by Andrew Long](https://open.spotify.com/track/6Po41B5v7b4sGfWocyEUT6)
+- [Mago by Max Merlin](https://open.spotify.com/track/54PR7wsIf1NMzjIdaKKifj)
+- [weightless by cypress](https://open.spotify.com/track/45UjcIbW9sWfPPKeEHh5GL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
