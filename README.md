@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[imputnet/helium](https://github.com/imputnet/helium)** - Private, fast, and honest web browser (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
-- [Melodies of Us by Marc Wiese, LAUT](https://open.spotify.com/track/2T507e8TJFSzI3wJwGhWyC)
-- [Steady As The Sea - Palisade Extended Remix by Le Roy, Jyll, Palisade](https://open.spotify.com/track/02Ln5jla4Pty4KTPD03osJ)
-- [Know Right Now by The Cyberjacks](https://open.spotify.com/track/6iC22resHj4Fi9srVxGp4v)
-- [I&#39;m With You by Mellowdy](https://open.spotify.com/track/7uN26gzhKyuKpB6NfKjH8u)
+- [Ibiza Dreams - Extended Sunshine Edit by sundraze](https://open.spotify.com/track/4GnplqqaL6jWKX0lJsXVXu)
+- [Healing - Amél &amp; Alion Remix by Jonasu, Emily Roberts, Amél, Alion](https://open.spotify.com/track/4SaNp8z7aGTAgIAMUBJJ6g)
+- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
+- [Carry On - Chill Mix by Morgin Madison, HILYTE](https://open.spotify.com/track/7KgZBfomiq7wXgogmhKKiH)
+- [Behind My Eyes (Tritonia 501) by Klur, BJOERN](https://open.spotify.com/track/7BRSlYfJrds3SMzDG21X63)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
