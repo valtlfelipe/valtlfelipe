@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pvolok/mprocs](https://github.com/pvolok/mprocs)** - Run multiple commands in parallel (2 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Radio Silence - Extended Mix by Heard Right, Finley Brückner](https://open.spotify.com/track/35z5asn5HEBD0MbKwtTR3V)
+- [Right Here - Mixed by Datskie](https://open.spotify.com/track/4kmtbFbSk5UTcu4HiFgolZ)
 - [I&#39;ll Go To You by Drics](https://open.spotify.com/track/7Bm0cpT0iJD22xd2mx9g6G)
 - [To Love Again (Tritonia 518) - Alex Baker Remix by Blonde Maze, Lizzy Land, Alex Baker](https://open.spotify.com/track/49BEYeRm9Z1F4wlKriIKsY)
 - [Secrets - Extended Mix by Alex Breitling](https://open.spotify.com/track/7awSqhAbkPJX5uk3guNL8N)
-- [Looking Within by San Mateo Drive](https://open.spotify.com/track/6PBW9wQmr40Q7vmHYRG1dI)
-- [Steady As The Sea - Mixed by Le Roy, Jyll](https://open.spotify.com/track/4CNVlpRtSUPMwNCKiwJvWB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
