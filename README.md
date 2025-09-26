@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pvolok/mprocs](https://github.com/pvolok/mprocs)** - Run multiple commands in parallel (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Radio Silence - Extended Mix by Heard Right, Finley Brückner](https://open.spotify.com/track/35z5asn5HEBD0MbKwtTR3V)
-- [Right Here - Mixed by Datskie](https://open.spotify.com/track/4kmtbFbSk5UTcu4HiFgolZ)
-- [I&#39;ll Go To You by Drics](https://open.spotify.com/track/7Bm0cpT0iJD22xd2mx9g6G)
-- [To Love Again (Tritonia 518) - Alex Baker Remix by Blonde Maze, Lizzy Land, Alex Baker](https://open.spotify.com/track/49BEYeRm9Z1F4wlKriIKsY)
-- [Secrets - Extended Mix by Alex Breitling](https://open.spotify.com/track/7awSqhAbkPJX5uk3guNL8N)
+- [Glimpse (What It Feels Like) - Extended Mix by Rhea Silvia, Akkilles](https://open.spotify.com/track/5SWKZ08awImy16NVMVEEiG)
+- [Lost In The High by Pilch](https://open.spotify.com/track/2GajyP41CvF54uZ95ZevgL)
+- [Rising Sun (Tritonia 516) by Mats Westbroek, Guy Didden](https://open.spotify.com/track/0hHamHzIQi0GznU8R3LgQ1)
+- [The Leap (Tritonia 495) by mölly, Courtney Storm](https://open.spotify.com/track/1hgTKWZ1bDsAE92e5HFiq5)
+- [Expressing by Special Chill Label](https://open.spotify.com/track/3B4MqdkwQ0Q33fMJiPtW3l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
