@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[imputnet/helium](https://github.com/imputnet/helium)** - Private, fast, and honest web browser (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Eyes On You by four30](https://open.spotify.com/track/7Cjm0EQl5pE3srLd9C2koT)
-- [Is It You by Elias Veer](https://open.spotify.com/track/6lWfZYC47nHQd70fsWOCze)
-- [Lost Now by Coastlines, ISME, Rory Hope](https://open.spotify.com/track/2Sz8MOcnST8RVmk4Tv9hTT)
-- [Fall by w.ill](https://open.spotify.com/track/4b0tpPJf5XqyrB8Ai1j38V)
-- [Today Is Enough by Cornelius SA, Elliot Vast](https://open.spotify.com/track/6uwQcJnol87C0xNwhtUvNj)
+- [Longing for the Light by Kompa55](https://open.spotify.com/track/1UvKBvnABafgmp7BgY16is)
+- [Finding by Heard Right, Fløa](https://open.spotify.com/track/1ERg0n603d7mr5aEh3525I)
+- [Weightless by Slow Ted, Solanca](https://open.spotify.com/track/2At3YktQRWj4u9uYVCiKN2)
+- [Shapeshift - Extended Mix by Rezident](https://open.spotify.com/track/6gT2WMuaLVc2lGyc6XxnPd)
+- [Pure Need - Extended Version by Shoumeck](https://open.spotify.com/track/4QRo1k3KqkgWpp9TwvUHmK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
