@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[imputnet/helium](https://github.com/imputnet/helium)** - Private, fast, and honest web browser (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Longing for the Light by Kompa55](https://open.spotify.com/track/1UvKBvnABafgmp7BgY16is)
-- [Finding by Heard Right, Fløa](https://open.spotify.com/track/1ERg0n603d7mr5aEh3525I)
-- [Weightless by Slow Ted, Solanca](https://open.spotify.com/track/2At3YktQRWj4u9uYVCiKN2)
-- [Shapeshift - Extended Mix by Rezident](https://open.spotify.com/track/6gT2WMuaLVc2lGyc6XxnPd)
-- [Pure Need - Extended Version by Shoumeck](https://open.spotify.com/track/4QRo1k3KqkgWpp9TwvUHmK)
+- [Souls Of Night - Mixed by Alex Breitling](https://open.spotify.com/track/6LAY5u9ZWihM1jlbIcvIdW)
+- [Turn It Around - Edit by VEHA, Rondo Mo](https://open.spotify.com/track/65TWqSo27ydwPSAkDpaFDd)
+- [Rushing In (Tritonia 509) by mölly, MØØNE](https://open.spotify.com/track/3sAfwZ9UhaMnkEEkAUxjvq)
+- [I&#39;ll Take a Chance - Extended Mix by Hollway](https://open.spotify.com/track/5ven7LW0IUSDpN5vEhOV5R)
+- [Miss You by Mike Key, S:NE](https://open.spotify.com/track/1ODVfS5DF2phEFF4d9ooA9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
