@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pvolok/mprocs](https://github.com/pvolok/mprocs)** - Run multiple commands in parallel (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Belly Dancer by Imanbek, BYOR](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil)
+- [hoyo - Leo Lauretti Remix by shiny things, Moise, Leo Lauretti](https://open.spotify.com/track/2YeHyC3QwNRWfqE1NlyQ8z)
 - [Glimpse (What It Feels Like) - Extended Mix by Rhea Silvia, Akkilles](https://open.spotify.com/track/5SWKZ08awImy16NVMVEEiG)
 - [Lost In The High by Pilch](https://open.spotify.com/track/2GajyP41CvF54uZ95ZevgL)
 - [Rising Sun (Tritonia 516) by Mats Westbroek, Guy Didden](https://open.spotify.com/track/0hHamHzIQi0GznU8R3LgQ1)
-- [The Leap (Tritonia 495) by mölly, Courtney Storm](https://open.spotify.com/track/1hgTKWZ1bDsAE92e5HFiq5)
-- [Expressing by Special Chill Label](https://open.spotify.com/track/3B4MqdkwQ0Q33fMJiPtW3l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
