@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pvolok/mprocs](https://github.com/pvolok/mprocs)** - Run multiple commands in parallel (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Hard Feelings by Summer Dusk, Amaranth Skies, Anna-Sophia Henry](https://open.spotify.com/track/25A41FINBLXcf10segOcMh)
+- [Down by Rick Groove](https://open.spotify.com/track/4Am5t94EuGd1iN5dCJc7iT)
+- [Need Somebody by Jerro, Lizzy Land](https://open.spotify.com/track/6KTWtfD0ciy5N3Lid45D3G)
 - [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG)
 - [yes baby by Madison Beer](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA)
-- [One in a Million by Bebe Rexha, David Guetta](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz)
-- [Hot In It (feat. Charli XCX) by Tiësto, Charli xcx](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn)
-- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
