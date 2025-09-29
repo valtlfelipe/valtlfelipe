@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pvolok/mprocs](https://github.com/pvolok/mprocs)** - Run multiple commands in parallel (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Never Alone by Keys &amp; Copper, Ravenna Moscoso](https://open.spotify.com/track/6piPDfayuXglezmbGo23F4)
-- [Never Back Down by AUGUSTKID, Steeg](https://open.spotify.com/track/5b2aT0oupLtuESAmnpdnyh)
-- [Closer by RAISEN](https://open.spotify.com/track/3NJiyJo9pu8qpkNxLzX7XW)
-- [4th July by Michael Milano Dj](https://open.spotify.com/track/54rVTMJ90RlMiCh88Ez8gM)
-- [You by Luey](https://open.spotify.com/track/7zrtOiDGcXYUcApquoxHfq)
+- [Give It Up by Jerro, Lyrah](https://open.spotify.com/track/6mxNpsWOeIXwL64D9hyinr)
+- [Excellence by Villatic](https://open.spotify.com/track/2qZoIExTELnnYFgn5AlIBb)
+- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
+- [Desert Sky by Nicholas Gunn, Brittany Egbert](https://open.spotify.com/track/4BKyMhNaXCmWswxtzlMjFE)
+- [Live It Again by Emblè, Natty Rico, Paul Hawksworth](https://open.spotify.com/track/3rmvC67y4WmVyDjGRBxiXw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
