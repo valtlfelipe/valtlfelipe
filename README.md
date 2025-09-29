@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pvolok/mprocs](https://github.com/pvolok/mprocs)** - Run multiple commands in parallel (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Make It Easy by Robby East, Lizzy Land](https://open.spotify.com/track/5309UdeptmNbeOV4iTw5nl)
 - [Sure Thing by Impani, LU2VYK](https://open.spotify.com/track/41h0H10TYujH8h3rnPKRmN)
 - [Wide Awake by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/3VMpFBqmPfuVp9LH7TvKOh)
 - [Wide Awake by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/3VMpFBqmPfuVp9LH7TvKOh)
 - [All By Myself by Alok, Sigala, Ellie Goulding](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb)
-- [Give It Up by Jerro, Lyrah](https://open.spotify.com/track/6mxNpsWOeIXwL64D9hyinr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
