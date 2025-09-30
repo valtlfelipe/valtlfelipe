@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pvolok/mprocs](https://github.com/pvolok/mprocs)** - Run multiple commands in parallel (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [90 days by Dimside](https://open.spotify.com/track/16k0IlZHe3P2TYnT3vKOTw)
-- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
-- [Whisper by Naws](https://open.spotify.com/track/4dxBovD9dEYnRKRjoyXHRE)
-- [Hear Me Now by Jerro, Lyrah](https://open.spotify.com/track/7DNs9NU7juTmSwieYzuSGm)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
+- [The Fool by Jerro](https://open.spotify.com/track/4lWZp94yvNRHC8H2z2FePw)
+- [Stellation by Klur](https://open.spotify.com/track/2FJdNaapk5ZFaNeKJG0dcu)
+- [Strangers by TWOPILOTS, James Hersey, ARTUNIS](https://open.spotify.com/track/5FZ3F8RDenKwUHvAfcdGjS)
+- [Gentle Solace by Marshall Watson Music](https://open.spotify.com/track/7mvZMpWkAvNtSdyR0SGxMN)
+- [I&#39;m With You by Mellowdy](https://open.spotify.com/track/7uN26gzhKyuKpB6NfKjH8u)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
