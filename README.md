@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pvolok/mprocs](https://github.com/pvolok/mprocs)** - Run multiple commands in parallel (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Go Back Now (feat. Beacon) by Jerro, Beacon](https://open.spotify.com/track/3eZmygzZNxqqwOL1yIgBWI)
+- [Big Sky by Jack Willard](https://open.spotify.com/track/1yv6MpP9hHtPnoxkNGVnUw)
 - [Mayday by Mojave Grey](https://open.spotify.com/track/3AlB6Dc4azLkpmBsQagcbO)
 - [Save Me - Bonus Track by Youngr](https://open.spotify.com/track/4eRYvaIDwQIurUKni4Vyvw)
 - [fractured light by kalm](https://open.spotify.com/track/4I7DlZoH5WWLAnKrBQ2RkZ)
-- [Make It Easy by Robby East, Lizzy Land](https://open.spotify.com/track/5309UdeptmNbeOV4iTw5nl)
-- [Sure Thing by Impani, LU2VYK](https://open.spotify.com/track/41h0H10TYujH8h3rnPKRmN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
