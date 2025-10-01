@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pvolok/mprocs](https://github.com/pvolok/mprocs)** - Run multiple commands in parallel (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Like Love by Valentino](https://open.spotify.com/track/5icO2z1vObS9JomeE8APIC)
+- [Serotonin (speaks to me) by joki, Ridges](https://open.spotify.com/track/6ZRWGSexfCNErfw34knhDb)
+- [Hard to Breathe by Light Chaser](https://open.spotify.com/track/3m1WKJ9bhMJPOKXffCKH4K)
 - [Hold On by Faodail, noo](https://open.spotify.com/track/4IcDzpQy7x2afUtUeICOhv)
 - [The Fool by Jerro](https://open.spotify.com/track/4lWZp94yvNRHC8H2z2FePw)
-- [Stellation by Klur](https://open.spotify.com/track/2FJdNaapk5ZFaNeKJG0dcu)
-- [Strangers by TWOPILOTS, James Hersey, ARTUNIS](https://open.spotify.com/track/5FZ3F8RDenKwUHvAfcdGjS)
-- [Gentle Solace by Marshall Watson Music](https://open.spotify.com/track/7mvZMpWkAvNtSdyR0SGxMN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
