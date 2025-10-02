@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/capnweb](https://github.com/cloudflare/capnweb)** - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hold You Like That by RAZZ, Mason](https://open.spotify.com/track/15qoSBISnljwd5w6V6Tc17)
-- [Night and Day by Valentino](https://open.spotify.com/track/1NI5Z4qz3JbyVq0kOQSFHW)
-- [Yucca Mesa by Roosevelt](https://open.spotify.com/track/37UislQfjf5hU9qMz187W9)
-- [I Got Doubts by spring gang, Vicki Vox](https://open.spotify.com/track/1gyNmvLSZnqcFE58EijUAI)
-- [Better Off Alone by Alex Baker](https://open.spotify.com/track/77Uq9iUiWYFMhXOuvz3I4Y)
+- [Never Change by Otherwish](https://open.spotify.com/track/3KImELoRJDwA1IXqwB8d0r)
+- [First Breath by Stendahl](https://open.spotify.com/track/0UdWJUzZoenu4V03q2luZ6)
+- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
+- [Heart on Fire by Nofsky](https://open.spotify.com/track/3xOzE6SHmhylka1EuKx1HZ)
+- [Moments by Bibano Beach Club, Lucky Reinhard](https://open.spotify.com/track/7jAUMzKgtgNyQoFHqekbAy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
