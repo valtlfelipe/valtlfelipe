@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/capnweb](https://github.com/cloudflare/capnweb)** - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [The Thought of You by Blonde Maze, imallryt](https://open.spotify.com/track/0Cuiebpn7tG3Qs8CNSIaN2)
 - [No One Like You by Alex Adair](https://open.spotify.com/track/58yE7laRs6ptzfLKWXLN9u)
 - [High Above by Klur](https://open.spotify.com/track/2RoO003dAA1pwJqkZtAyQP)
 - [Lost by Le Youth, Jerro, Lizzy Land](https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg)
 - [Violet Skies by Youngr, Ekko](https://open.spotify.com/track/51i4vXkMQGATBtL8wZxr50)
-- [Dynamite by Jones Meadow](https://open.spotify.com/track/3MnLrVim214p7Xu6YqOcqU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
