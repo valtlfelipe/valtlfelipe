@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/capnweb](https://github.com/cloudflare/capnweb)** - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Hold You Like That by RAZZ, Mason](https://open.spotify.com/track/15qoSBISnljwd5w6V6Tc17)
 - [Night and Day by Valentino](https://open.spotify.com/track/1NI5Z4qz3JbyVq0kOQSFHW)
 - [Yucca Mesa by Roosevelt](https://open.spotify.com/track/37UislQfjf5hU9qMz187W9)
 - [I Got Doubts by spring gang, Vicki Vox](https://open.spotify.com/track/1gyNmvLSZnqcFE58EijUAI)
 - [Better Off Alone by Alex Baker](https://open.spotify.com/track/77Uq9iUiWYFMhXOuvz3I4Y)
-- [The Thought of You by Blonde Maze, imallryt](https://open.spotify.com/track/0Cuiebpn7tG3Qs8CNSIaN2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
