@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[khairul169/garage-webui](https://github.com/khairul169/garage-webui)** - WebUI for Garage Object Storage Service (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Never Change by Otherwish](https://open.spotify.com/track/3KImELoRJDwA1IXqwB8d0r)
-- [First Breath by Stendahl](https://open.spotify.com/track/0UdWJUzZoenu4V03q2luZ6)
-- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
-- [Heart on Fire by Nofsky](https://open.spotify.com/track/3xOzE6SHmhylka1EuKx1HZ)
-- [Moments by Bibano Beach Club, Lucky Reinhard](https://open.spotify.com/track/7jAUMzKgtgNyQoFHqekbAy)
+- [Coming Home by Jerro](https://open.spotify.com/track/3NQoHb0wUUnc1gxGwan7mc)
+- [Lucid Dreams by NOTSOBAD, Gaullin, Richard Judge](https://open.spotify.com/track/0Shr6wvhXo9zpT4M5Y5iec)
+- [Make Me Feel Better - 2025 Edit by Alex Adair](https://open.spotify.com/track/0GqZ3deuRcromFjc404K4M)
+- [episode by cypress, Courtney Storm](https://open.spotify.com/track/7nszldP9W5SgyjB71BAd1t)
+- [Weightless by Béatrice Dupont](https://open.spotify.com/track/7qpSG7U66Gh7FpLqLotQ0W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
