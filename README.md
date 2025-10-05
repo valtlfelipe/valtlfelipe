@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[khairul169/garage-webui](https://github.com/khairul169/garage-webui)** - WebUI for Garage Object Storage Service (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Vista by Jack Willard](https://open.spotify.com/track/2NXdccGwej9QethnRpOT6s)
-- [Moment Of Healing by w.ill](https://open.spotify.com/track/5QryxQfX9D6ARLlVdbrQo2)
-- [Emote by Naws](https://open.spotify.com/track/62ANOXW6BoFihaxKex8ArL)
-- [No Return by Massane](https://open.spotify.com/track/5eizBzFqa4HFMz1AG80B7M)
-- [Marooned by Jerro](https://open.spotify.com/track/3Bj2emVtkUtYlA6roLBuTp)
+- [Single Summer by PS1, Richard Judge](https://open.spotify.com/track/4RL4c0VVOuadzz2qVcwaOd)
+- [I Am What I Am (PS1 Remix) by Mark Morrison, PS1](https://open.spotify.com/track/1knkD5x7ZzEa1SzWtfs9Cc)
+- [Pepas by Farruko](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
