@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[khairul169/garage-webui](https://github.com/khairul169/garage-webui)** - WebUI for Garage Object Storage Service (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Our future by Tom Stone](https://open.spotify.com/track/30hmWpuKUwavPbyAA4VEwZ)
-- [Open Your Eyes by LUÜM](https://open.spotify.com/track/4lnBmUAj4dlWF2wV0re59I)
-- [Wake Up by edapollo](https://open.spotify.com/track/4y7G1DJnVkOKLZQfTWN6JX)
-- [Can&#39;t Help But Loving You - Chill Mix by Alex Adair](https://open.spotify.com/track/1vlDOIod4Jw1pjLaa3zBMt)
-- [Hard Feelings by Summer Dusk, Amaranth Skies, Anna-Sophia Henry](https://open.spotify.com/track/25A41FINBLXcf10segOcMh)
+- [Elevate (Chill Mix) by Kelli-Leigh](https://open.spotify.com/track/5uHEJG2ROEJC1cwCMDW1ZH)
+- [That Feeling by Matchy](https://open.spotify.com/track/7hPODnCjDKiVtjKFtQcbwr)
+- [Freshwater by Che-Yung](https://open.spotify.com/track/16sXdI0owFWsOqRHWb7Yv1)
+- [The Good Part by TELYKAST, LORYN](https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI)
+- [Right Now - Original Mix by Alex Hook, Rene](https://open.spotify.com/track/6uaKbpJpqnjzcj1QSnXzMr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
