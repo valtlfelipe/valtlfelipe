@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[khairul169/garage-webui](https://github.com/khairul169/garage-webui)** - WebUI for Garage Object Storage Service (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Elevate (Chill Mix) by Kelli-Leigh](https://open.spotify.com/track/5uHEJG2ROEJC1cwCMDW1ZH)
-- [That Feeling by Matchy](https://open.spotify.com/track/7hPODnCjDKiVtjKFtQcbwr)
-- [Freshwater by Che-Yung](https://open.spotify.com/track/16sXdI0owFWsOqRHWb7Yv1)
-- [The Good Part by TELYKAST, LORYN](https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI)
-- [Right Now - Original Mix by Alex Hook, Rene](https://open.spotify.com/track/6uaKbpJpqnjzcj1QSnXzMr)
+- [But the two of us by Ourson](https://open.spotify.com/track/5lklAcSaegL0HSynxXrINi)
+- [Aurora&#39;s Thin Veil by Blugazer](https://open.spotify.com/track/1k7wdiD5xpGSl389jFbeME)
+- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
+- [Swetro by Johan Vilborg](https://open.spotify.com/track/0rouXKWzISyGGFo8yuQcar)
+- [Something Real by Hex &amp; Solstice, Sleepless Skies](https://open.spotify.com/track/6nfkhI3pKnUBUGeMiaToWV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
