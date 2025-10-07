@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[PlakarKorp/plakar](https://github.com/PlakarKorp/plakar)** - plakar is a backup solution powered by Kloset and ptar (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Beautiful Day by Aludra](https://open.spotify.com/track/3vECFj4Z92Z9Ak1a8koqkG)
-- [episode by cypress, Courtney Storm](https://open.spotify.com/track/7nszldP9W5SgyjB71BAd1t)
-- [Hold On - Mixed by San Mateo Drive](https://open.spotify.com/track/4eclPzxZfuHYQO2nEoGmbM)
-- [Feels The Same by Dallien, RVPTR, RVZE](https://open.spotify.com/track/2i5WXSxVuJFJbn6dAKLEnk)
-- [Think Of Me by nineveh.](https://open.spotify.com/track/0aQME3ISdo2GNC0Bii9aaI)
+- [Growing Mind by LEEX](https://open.spotify.com/track/5TBZWLA8P57VSykv8EpGjr)
+- [Steady As The Sea - Palisade Remix by Le Roy, Jyll, Palisade](https://open.spotify.com/track/5NbEX6qiPA1m5pwa4ofuh6)
+- [No One Like You by Alex Adair](https://open.spotify.com/track/58yE7laRs6ptzfLKWXLN9u)
+- [Solara by AKSHT, Alpas](https://open.spotify.com/track/7c8UWDD8cMaKnCeqppHirE)
+- [Pendejo by Rodg](https://open.spotify.com/track/4XcxQoo4GXBHFIESZq7Hf8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
