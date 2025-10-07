@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[PlakarKorp/plakar](https://github.com/PlakarKorp/plakar)** - plakar is a backup solution powered by Kloset and ptar (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [if i&#39;m not with you by NORRA](https://open.spotify.com/track/75tCgkn6zwqFIWRCoYASJQ)
-- [Bittersweet by Nathan C, Darla Jade](https://open.spotify.com/track/4dsbLVnLqTavINHInT4hCo)
-- [Night in Arrakeen by Verbala](https://open.spotify.com/track/3ezxL2q9anePj3hFKOymKV)
-- [Parallel by Alex Baker, Hanging Valleys](https://open.spotify.com/track/1snMkzVaRI1ENcXEne7OVE)
-- [Going Under by Darking On](https://open.spotify.com/track/2JaNrKsTNCJl3RUSsIKcMT)
+- [Think About Me by MDROM](https://open.spotify.com/track/24W4brGWP7GEEeo2Kv8vkn)
+- [Borrowed Memories by Blugazer](https://open.spotify.com/track/61PU4SmJ92j1CPUyrjVImY)
+- [Heavy by LuvLess, Freddie Mudge](https://open.spotify.com/track/4oQYtbsHz7RjRcs9V9oPEo)
+- [Dreamgaze by noetic](https://open.spotify.com/track/4LOkIJf1OiBjvfL1rOekC3)
+- [Take It All Back by Jake Neumar](https://open.spotify.com/track/6q8GmdLVGlcVmHaTDp9enJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
