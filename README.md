@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[PlakarKorp/plakar](https://github.com/PlakarKorp/plakar)** - plakar is a backup solution powered by Kloset and ptar (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Feel Again by TELYKAST, Moa Lisa](https://open.spotify.com/track/7ycPxbAlnh9t5OqFduGMcM)
+- [Make Me Feel Like (Don&#39;t Nobody Else) by NORRA](https://open.spotify.com/track/4oLNiCIVvGyoUt219VAshi)
+- [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
 - [Growing Mind by LEEX](https://open.spotify.com/track/5TBZWLA8P57VSykv8EpGjr)
 - [Steady As The Sea - Palisade Remix by Le Roy, Jyll, Palisade](https://open.spotify.com/track/5NbEX6qiPA1m5pwa4ofuh6)
-- [No One Like You by Alex Adair](https://open.spotify.com/track/58yE7laRs6ptzfLKWXLN9u)
-- [Solara by AKSHT, Alpas](https://open.spotify.com/track/7c8UWDD8cMaKnCeqppHirE)
-- [Pendejo by Rodg](https://open.spotify.com/track/4XcxQoo4GXBHFIESZq7Hf8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
