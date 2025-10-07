@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[PlakarKorp/plakar](https://github.com/PlakarKorp/plakar)** - plakar is a backup solution powered by Kloset and ptar (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Think About Me by MDROM](https://open.spotify.com/track/24W4brGWP7GEEeo2Kv8vkn)
-- [Borrowed Memories by Blugazer](https://open.spotify.com/track/61PU4SmJ92j1CPUyrjVImY)
-- [Heavy by LuvLess, Freddie Mudge](https://open.spotify.com/track/4oQYtbsHz7RjRcs9V9oPEo)
-- [Dreamgaze by noetic](https://open.spotify.com/track/4LOkIJf1OiBjvfL1rOekC3)
-- [Take It All Back by Jake Neumar](https://open.spotify.com/track/6q8GmdLVGlcVmHaTDp9enJ)
+- [Solid Ground by Marc Wiese, Gabi Juliano](https://open.spotify.com/track/5uF3feCtXIELkY396WUg5e)
+- [Late Night Call by LO, Mallou](https://open.spotify.com/track/3b8wbDV1X8vsdO4Ai5abTh)
+- [A Dream Away by Alex Hook, Rene](https://open.spotify.com/track/10gNgF9MTkznd8STDOZgVh)
+- [Real Love by Mike D&#39; Jais](https://open.spotify.com/track/1fb8PXyD9PfOE54BYmtmCe)
+- [Mist by VEHA](https://open.spotify.com/track/4reU8aYwYfUVZG04YTXnHh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
