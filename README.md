@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[PlakarKorp/plakar](https://github.com/PlakarKorp/plakar)** - plakar is a backup solution powered by Kloset and ptar (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Take Me Home by MXV, Joel Winterflood](https://open.spotify.com/track/2sMT7isjALKOvc8wFhDswK)
-- [Better Off Alone by Alex Baker](https://open.spotify.com/track/77Uq9iUiWYFMhXOuvz3I4Y)
-- [Love U by NORRA](https://open.spotify.com/track/3hAEMnD6olqDSKFcFiZHop)
-- [True by edapollo, Shallou](https://open.spotify.com/track/6BUboGsbk4M4eed4pfKGbz)
-- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
+- [Further by Jack Willard](https://open.spotify.com/track/0sHhc7CSihE399hRj3hB9f)
+- [9th Ave by Rodg](https://open.spotify.com/track/5JZ8RfDr77rUuaqmggMwx0)
+- [Sunday Morning by The kid in blue, Alberto Ciccarini, Poul](https://open.spotify.com/track/5GL6mdzyFK2HbJiH0pg9nM)
+- [Know Who You Are by San Mateo Drive, Ren Ocean](https://open.spotify.com/track/0uz7gY8pdvz0cm063f2OVS)
+- [Something Like This by Night Breeze, Darkly A.M.](https://open.spotify.com/track/6nUgoDamnqMr8CvGCP7g91)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
