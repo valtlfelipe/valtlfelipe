@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[PlakarKorp/plakar](https://github.com/PlakarKorp/plakar)** - plakar is a backup solution powered by Kloset and ptar (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [if i&#39;m not with you by NORRA](https://open.spotify.com/track/75tCgkn6zwqFIWRCoYASJQ)
+- [Bittersweet by Nathan C, Darla Jade](https://open.spotify.com/track/4dsbLVnLqTavINHInT4hCo)
 - [Night in Arrakeen by Verbala](https://open.spotify.com/track/3ezxL2q9anePj3hFKOymKV)
 - [Parallel by Alex Baker, Hanging Valleys](https://open.spotify.com/track/1snMkzVaRI1ENcXEne7OVE)
 - [Going Under by Darking On](https://open.spotify.com/track/2JaNrKsTNCJl3RUSsIKcMT)
-- [Feel Again by TELYKAST, Moa Lisa](https://open.spotify.com/track/7ycPxbAlnh9t5OqFduGMcM)
-- [Make Me Feel Like (Don&#39;t Nobody Else) by NORRA](https://open.spotify.com/track/4oLNiCIVvGyoUt219VAshi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
