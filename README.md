@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[PlakarKorp/plakar](https://github.com/PlakarKorp/plakar)** - plakar is a backup solution powered by Kloset and ptar (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Further by Jack Willard](https://open.spotify.com/track/0sHhc7CSihE399hRj3hB9f)
-- [9th Ave by Rodg](https://open.spotify.com/track/5JZ8RfDr77rUuaqmggMwx0)
-- [Sunday Morning by The kid in blue, Alberto Ciccarini, Poul](https://open.spotify.com/track/5GL6mdzyFK2HbJiH0pg9nM)
-- [Know Who You Are by San Mateo Drive, Ren Ocean](https://open.spotify.com/track/0uz7gY8pdvz0cm063f2OVS)
-- [Something Like This by Night Breeze, Darkly A.M.](https://open.spotify.com/track/6nUgoDamnqMr8CvGCP7g91)
+- [Woke Up in Love by Alex Keeper](https://open.spotify.com/track/1cBb6fiyDm4LAcMSJCHHCF)
+- [What A Feeling (Tritonia 508) by Courtney Storm, Finley Brückner](https://open.spotify.com/track/5audIt9BAx7wOrbfuAbKqi)
+- [Making Time by Ourson](https://open.spotify.com/track/7u87HZQy8KnuhjVx4pPLjl)
+- [Moonlight by Night Breeze](https://open.spotify.com/track/0nrI60N0B6JTvdVaO7g2D5)
+- [Slow Motion by Exit Coda, Jennisan](https://open.spotify.com/track/1YWjU3cZwoyBCYQhxFOBeJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
