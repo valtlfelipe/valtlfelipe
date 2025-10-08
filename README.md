@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** - Eclipse Mosquitto - An open source MQTT broker (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
-- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
-- [First Breath by Stendahl](https://open.spotify.com/track/0UdWJUzZoenu4V03q2luZ6)
-- [Want Love by Rodg](https://open.spotify.com/track/5n252y6KCDjRQbR7glxGaf)
-- [No Tears by Mandarin Plaza, Mike D&#39; Jais](https://open.spotify.com/track/27LoXm0hwHXV9ItUdFhJmk)
+- [8 Hours by TMPST, Maynørr, Courtney Storm](https://open.spotify.com/track/47VyUnvICGolR4gx1NnPuS)
+- [Descent - Radio Edit by Night Breeze, Dias Ridge](https://open.spotify.com/track/4cnA6jbUXOxPALQktVUKBf)
+- [Human All Along by Robby East, LeyeT](https://open.spotify.com/track/7Jd6BlwZIhHHNOA4EZJ20X)
+- [Incanto by Julien Pastel](https://open.spotify.com/track/7Ax0qsiyDbcjR5tkuvfQGU)
+- [Wanna Feel by Chris Luno, Ando K](https://open.spotify.com/track/2DvVC9YKOmiRz5FtpCFDQS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
