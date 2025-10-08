@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** - Eclipse Mosquitto - An open source MQTT broker (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Stuck In My Head by Slow Ted](https://open.spotify.com/track/4S7fLFfE7wrCcrqS47BoRS)
-- [Oceanside by aural](https://open.spotify.com/track/4kjM8ZACBgacTfx7dkbTCv)
-- [Fall by w.ill](https://open.spotify.com/track/4b0tpPJf5XqyrB8Ai1j38V)
-- [Into the Night by nømad, Donner, Horxata](https://open.spotify.com/track/33ljt9tVhlLy9K8Kmg1xA3)
-- [Lost Now by Coastlines, ISME, Rory Hope](https://open.spotify.com/track/2Sz8MOcnST8RVmk4Tv9hTT)
+- [Supermassive - Mixed by Jack Willard](https://open.spotify.com/track/6sBkVR85WefGRrswch9jLz)
+- [Jungle by The kid in blue](https://open.spotify.com/track/4OjdjSC3daLXsixkIU4FGM)
+- [We Keep Coming Back by MXV, djimboh](https://open.spotify.com/track/5J6POzF23aYsZGyRRdfLCJ)
+- [Take it Slow by aural](https://open.spotify.com/track/6MxbiSK1W3igcuuxaIMDNf)
+- [Say Nothing by edapollo](https://open.spotify.com/track/4bhqoBrKQngj2kv2IPTGOE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
