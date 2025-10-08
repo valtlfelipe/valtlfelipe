@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** - Eclipse Mosquitto - An open source MQTT broker (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hold The Key by Lys, Joel Winterflood](https://open.spotify.com/track/4Fo2MZX7SpBlwGEJx1IGtd)
-- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
-- [8 Hours by TMPST, Maynørr, Courtney Storm](https://open.spotify.com/track/47VyUnvICGolR4gx1NnPuS)
-- [Descent - Radio Edit by Night Breeze, Dias Ridge](https://open.spotify.com/track/4cnA6jbUXOxPALQktVUKBf)
-- [Human All Along by Robby East, LeyeT](https://open.spotify.com/track/7Jd6BlwZIhHHNOA4EZJ20X)
+- [Nightshift by Jack Willard](https://open.spotify.com/track/5ZeDBPZ5OjVmUFCcmdUE1E)
+- [Times I&#39;ve Missed by Ourson, Ren Ocean](https://open.spotify.com/track/1fuKKFB7S9OZa9lIsweTm0)
+- [On Your Mind by aural](https://open.spotify.com/track/0iUYjYT4gVBfaG6umwpRAR)
+- [Tides Of Time by w.ill](https://open.spotify.com/track/0yXhktRl4FKcf3q2R6aGnK)
+- [We Are Young by Alex Breitling](https://open.spotify.com/track/13xEtVZxK4WXprFsV8ytj8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
