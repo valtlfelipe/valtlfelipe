@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** - Eclipse Mosquitto - An open source MQTT broker (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Supermassive - Mixed by Jack Willard](https://open.spotify.com/track/6sBkVR85WefGRrswch9jLz)
-- [Jungle by The kid in blue](https://open.spotify.com/track/4OjdjSC3daLXsixkIU4FGM)
-- [We Keep Coming Back by MXV, djimboh](https://open.spotify.com/track/5J6POzF23aYsZGyRRdfLCJ)
-- [Take it Slow by aural](https://open.spotify.com/track/6MxbiSK1W3igcuuxaIMDNf)
-- [Say Nothing by edapollo](https://open.spotify.com/track/4bhqoBrKQngj2kv2IPTGOE)
+- [Immortal Youth by MXV](https://open.spotify.com/track/19SjaY6rnyjzQf3wMIsQxL)
+- [Like I Do by Iskarelyn, Edward Snellen](https://open.spotify.com/track/3O9Bqcv0H1onhXZvsJIQow)
+- [Night And Day by Klama](https://open.spotify.com/track/6WhI5UTTCJgdPwe6ewUck0)
+- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
+- [Wait for Me by Alex Keeper](https://open.spotify.com/track/7941WO5pIHH86RyLRc7asK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
