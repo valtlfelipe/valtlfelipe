@@ -3,17 +3,17 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
+- **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (today)
+- **[kynnyhsap/how](https://github.com/kynnyhsap/how)** - Ask your terminal (AI) about cli commands (today)
 - **[hunvreus/devpush](https://github.com/hunvreus/devpush)** - Like Vercel, but open source and for all languages. (1 day ago)
 - **[pyoner/timelock-npm-registry](https://github.com/pyoner/timelock-npm-registry)** - TimeLock NPM Registry (6 days ago)
 - **[eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** - Eclipse Mosquitto - An open source MQTT broker (1 week ago)
-- **[Lorenzo-Coslado/fingerprinter-js](https://github.com/Lorenzo-Coslado/fingerprinter-js)** - Lightweight JavaScript library (with full TypeScript support) for generating unique browser fingerprints — ideal for device identification, analytics, and fraud prevention. (1 week ago)
-- **[PlakarKorp/plakar](https://github.com/PlakarKorp/plakar)** - plakar is a backup solution powered by Kloset and ptar (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [On My Mind by Klama](https://open.spotify.com/track/3aM7GIPqUcpkUUoBYhGxab)
-- [Solid Ground by Marc Wiese, Gabi Juliano](https://open.spotify.com/track/5uF3feCtXIELkY396WUg5e)
-- [Late Night Call by LO, Mallou](https://open.spotify.com/track/3b8wbDV1X8vsdO4Ai5abTh)
-- [A Dream Away by Alex Hook, Rene](https://open.spotify.com/track/10gNgF9MTkznd8STDOZgVh)
-- [Real Love by Mike D&#39; Jais](https://open.spotify.com/track/1fb8PXyD9PfOE54BYmtmCe)
+- [Young And Beautiful by Carla Stefani, Filogy](https://open.spotify.com/track/4xiPOhaMr1759QAysIfCNH)
+- [I Know You Tried Sometimes by Ourson](https://open.spotify.com/track/2lzNGhGIw9wty9BbCoTuhq)
+- [Falling by Naws, Marksman, Ayca](https://open.spotify.com/track/3tk5kZ2dGjRMJ2VA2WGA1Z)
+- [Feel Again - Lounge Edit by TELYKAST, Summer Is Calling, Moa Lisa](https://open.spotify.com/track/0YZPP5q0xm182fbAI6uTgg)
+- [Seeking by Dias Ridge](https://open.spotify.com/track/5r7vAxbvXsO9t5kR1xUwuk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
