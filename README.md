@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** - Eclipse Mosquitto - An open source MQTT broker (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Nightshift by Jack Willard](https://open.spotify.com/track/5ZeDBPZ5OjVmUFCcmdUE1E)
-- [Times I&#39;ve Missed by Ourson, Ren Ocean](https://open.spotify.com/track/1fuKKFB7S9OZa9lIsweTm0)
-- [On Your Mind by aural](https://open.spotify.com/track/0iUYjYT4gVBfaG6umwpRAR)
-- [Tides Of Time by w.ill](https://open.spotify.com/track/0yXhktRl4FKcf3q2R6aGnK)
-- [We Are Young by Alex Breitling](https://open.spotify.com/track/13xEtVZxK4WXprFsV8ytj8)
+- [Stuck In My Head by Slow Ted](https://open.spotify.com/track/4S7fLFfE7wrCcrqS47BoRS)
+- [Oceanside by aural](https://open.spotify.com/track/4kjM8ZACBgacTfx7dkbTCv)
+- [Fall by w.ill](https://open.spotify.com/track/4b0tpPJf5XqyrB8Ai1j38V)
+- [Into the Night by nømad, Donner, Horxata](https://open.spotify.com/track/33ljt9tVhlLy9K8Kmg1xA3)
+- [Lost Now by Coastlines, ISME, Rory Hope](https://open.spotify.com/track/2Sz8MOcnST8RVmk4Tv9hTT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
