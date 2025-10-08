@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[PlakarKorp/plakar](https://github.com/PlakarKorp/plakar)** - plakar is a backup solution powered by Kloset and ptar (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [On My Mind by Klama](https://open.spotify.com/track/3aM7GIPqUcpkUUoBYhGxab)
 - [Solid Ground by Marc Wiese, Gabi Juliano](https://open.spotify.com/track/5uF3feCtXIELkY396WUg5e)
 - [Late Night Call by LO, Mallou](https://open.spotify.com/track/3b8wbDV1X8vsdO4Ai5abTh)
 - [A Dream Away by Alex Hook, Rene](https://open.spotify.com/track/10gNgF9MTkznd8STDOZgVh)
 - [Real Love by Mike D&#39; Jais](https://open.spotify.com/track/1fb8PXyD9PfOE54BYmtmCe)
-- [Mist by VEHA](https://open.spotify.com/track/4reU8aYwYfUVZG04YTXnHh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
