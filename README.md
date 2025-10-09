@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kynnyhsap/how](https://github.com/kynnyhsap/how)** - Ask your terminal (AI) about cli commands (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
-- [Dragonfruit by aural](https://open.spotify.com/track/7e5ABnsSrqePMfS9ZHpngf)
-- [Make Me Feel Better - 2025 Edit by Alex Adair](https://open.spotify.com/track/0GqZ3deuRcromFjc404K4M)
-- [Deep Into The Blue - Radio Edit by Night Breeze, Dias Ridge](https://open.spotify.com/track/6ev5q8vaTxhCQWEDtaliK3)
-- [West Coast by Courtney Storm](https://open.spotify.com/track/5TYMfTsBChRmVRDPvjhWVQ)
+- [Take Me Home by MXV, Joel Winterflood](https://open.spotify.com/track/2sMT7isjALKOvc8wFhDswK)
+- [Better Off Alone by Alex Baker](https://open.spotify.com/track/77Uq9iUiWYFMhXOuvz3I4Y)
+- [Love U by NORRA](https://open.spotify.com/track/3hAEMnD6olqDSKFcFiZHop)
+- [True by edapollo, Shallou](https://open.spotify.com/track/6BUboGsbk4M4eed4pfKGbz)
+- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
