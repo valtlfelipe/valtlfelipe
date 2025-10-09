@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[hunvreus/devpush](https://github.com/hunvreus/devpush)** - Like Vercel, but open source and for all languages. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Nocturne by Ourson](https://open.spotify.com/track/3PP0UpQxl9ki5GyL0UZZ3u)
-- [Illusion by Dias Ridge](https://open.spotify.com/track/2JjSvMangEWKliKXhBlsPM)
-- [Wanaka Springs by Night Breeze](https://open.spotify.com/track/7a9GISYtVsRLqhHitmLowD)
-- [Night by Mike D&#39; Jais, Mandarin Plaza](https://open.spotify.com/track/2n6dLQAG4xAxltdSz1nisf)
-- [How Far We Go by Rolipso, clarity.](https://open.spotify.com/track/6oONesBTPoKDKjO7CdgWdf)
+- [Atlantis by Marzell Paris](https://open.spotify.com/track/0PJuIFpRVzbySm84UTG3bv)
+- [Burning by NOAM](https://open.spotify.com/track/4XwEh3yY4FtG4a9CrBFEbf)
+- [Always Yours by Udipta, Aykaax](https://open.spotify.com/track/7Gdv9nJzlCyed0VV3MV5zB)
+- [Often by Luke Luxe](https://open.spotify.com/track/6ANILkhFqNpAbcqhlWYBTp)
+- [Say Yes To Heaven by Carla Stefani, Groovity, Filogy](https://open.spotify.com/track/0Mz3PAgaPSYCbVN6HMrzGQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
