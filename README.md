@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kynnyhsap/how](https://github.com/kynnyhsap/how)** - Ask your terminal (AI) about cli commands (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Let It Go by edapollo](https://open.spotify.com/track/2wTHqiNi7e9csn7vFJLZIU)
-- [Typhoon by Alex Baker, Hanging Valleys](https://open.spotify.com/track/6ERnooV7BG8KTQY41ZEVH0)
-- [fractured light by kalm](https://open.spotify.com/track/4I7DlZoH5WWLAnKrBQ2RkZ)
-- [Do The Evolution by Mike D&#39; Jais](https://open.spotify.com/track/5c4A10KvehP11wCHfMpsT6)
-- [But the two of us by Ourson](https://open.spotify.com/track/5lklAcSaegL0HSynxXrINi)
+- [Remember by Midnight Pass, Ruffnux](https://open.spotify.com/track/6JqO8gCbkx5eekwKyTr71o)
+- [Out Of My Mind by Night Breeze](https://open.spotify.com/track/26GAy0WPlOaFl1JdkOEP8m)
+- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
+- [End To Begin - Radio Edit by Dias Ridge](https://open.spotify.com/track/7d88vZhtoEwGs63FUOSqnG)
+- [Need A Second by Nathan C, ALLKNIGHT](https://open.spotify.com/track/4pJF7MrSiXtjthcEqB1aEJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
