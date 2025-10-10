@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [All for Nothing by Heard Right](https://open.spotify.com/track/2Rwv0yI6yPU2oG0suBMTUY)
-- [I&#39;ll Be There by Ourson](https://open.spotify.com/track/5sAmCCvdiJdpAuGfW9JAJZ)
-- [Floating by Massane](https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1)
-- [Heaven by Marc Wiese](https://open.spotify.com/track/3qKUB6VHHMFHQNiYqiQbS7)
-- [Impossible by Klur, LeyeT](https://open.spotify.com/track/5Gp51Zz6thK0Wg0fQwc9ra)
+- [Forever by Alex Breitling, Golowko](https://open.spotify.com/track/4RHFfNB4qNWrePfzFmq4sI)
+- [You&#39;re On My Mind by Ourson](https://open.spotify.com/track/7kBAhLmaHDYdkzhbHTdiRt)
+- [Archipelago by Béatrice Dupont](https://open.spotify.com/track/3Q7uxYBXRiVu5wEy7YfSYz)
+- [Lights - Hessian Remix by Alex Baker, Hanging Valleys, Hessian](https://open.spotify.com/track/6q2ZgOWwUemqFOhAhMmoZQ)
+- [Unspoken by Klur](https://open.spotify.com/track/60fT7VLnydlDRWbKPkv7bO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
