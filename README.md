@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula)** - A fast, lightweight web framework in C for building modern web applications (today)
-- **[hookdeck/outpost](https://github.com/hookdeck/outpost)** - Open Source Outbound Webhooks and Event Destinations Infrastructure (1 day ago)
-- **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 day ago)
-- **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (1 day ago)
-- **[kynnyhsap/how](https://github.com/kynnyhsap/how)** - Ask your terminal (AI) about cli commands (1 day ago)
+- **[ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula)** - A fast, lightweight web framework in C for building modern web applications (1 day ago)
+- **[hookdeck/outpost](https://github.com/hookdeck/outpost)** - Open Source Outbound Webhooks and Event Destinations Infrastructure (2 days ago)
+- **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (2 days ago)
+- **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (2 days ago)
+- **[kynnyhsap/how](https://github.com/kynnyhsap/how)** - Ask your terminal (AI) about cli commands (2 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Think Of Me by nineveh.](https://open.spotify.com/track/0aQME3ISdo2GNC0Bii9aaI)
