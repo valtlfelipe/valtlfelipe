@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Parallel by Alex Baker, Hanging Valleys](https://open.spotify.com/track/1snMkzVaRI1ENcXEne7OVE)
-- [Going Under by Darking On](https://open.spotify.com/track/2JaNrKsTNCJl3RUSsIKcMT)
-- [Feel Again by TELYKAST, Moa Lisa](https://open.spotify.com/track/7ycPxbAlnh9t5OqFduGMcM)
-- [Make Me Feel Like (Don&#39;t Nobody Else) by NORRA](https://open.spotify.com/track/4oLNiCIVvGyoUt219VAshi)
-- [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
+- [Under the Stars. by Misc.Inc, Oliver River](https://open.spotify.com/track/2XacDb9ppJtdsl29hEl5vZ)
+- [I Found You by Drics](https://open.spotify.com/track/2VeXxa23aRQvGoCUMNEoRS)
+- [Carry On - Chill Mix by Morgin Madison, HILYTE](https://open.spotify.com/track/7KgZBfomiq7wXgogmhKKiH)
+- [Way We Loved by Marc Suarez, Anntoine](https://open.spotify.com/track/2ApYWfvaeQD2QfKLANkCfl)
+- [Volcano by Rowland Giles, Toutounji](https://open.spotify.com/track/5IDgICEO4v6iZ1i0XCpY53)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
