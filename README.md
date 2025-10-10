@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Solitude by Naws](https://open.spotify.com/track/0Sb18ey0LU9n4DS5mliToi)
-- [We&#39;re One by Heard Right, Anriu](https://open.spotify.com/track/2Z3Mz5nJTWOvS5MhkvCzsI)
-- [connection by nineveh.](https://open.spotify.com/track/47NgFpkO3RiYsPZgJOl79H)
-- [Silence by Verbala](https://open.spotify.com/track/532hPwzCDYWjfXRtqOe5lK)
-- [On My Mind by Klama](https://open.spotify.com/track/3aM7GIPqUcpkUUoBYhGxab)
+- [Young And Beautiful by Carla Stefani, Filogy](https://open.spotify.com/track/4xiPOhaMr1759QAysIfCNH)
+- [I Know You Tried Sometimes by Ourson](https://open.spotify.com/track/2lzNGhGIw9wty9BbCoTuhq)
+- [Falling by Naws, Marksman, Ayca](https://open.spotify.com/track/3tk5kZ2dGjRMJ2VA2WGA1Z)
+- [Feel Again - Lounge Edit by TELYKAST, Summer Is Calling, Moa Lisa](https://open.spotify.com/track/0YZPP5q0xm182fbAI6uTgg)
+- [Seeking by Dias Ridge](https://open.spotify.com/track/5r7vAxbvXsO9t5kR1xUwuk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
