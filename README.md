@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [First Breath by Stendahl](https://open.spotify.com/track/0UdWJUzZoenu4V03q2luZ6)
-- [Want Love by Rodg](https://open.spotify.com/track/5n252y6KCDjRQbR7glxGaf)
-- [No Tears by Mandarin Plaza, Mike D&#39; Jais](https://open.spotify.com/track/27LoXm0hwHXV9ItUdFhJmk)
-- [Nebula by dwelyr](https://open.spotify.com/track/3JxUDwK4clwu4sB2i1Q5KA)
-- [Surrender Your Love by TELYKAST, Sam Gray](https://open.spotify.com/track/3lsaizjKzS1fxdo7eIum40)
+- [The Thought of You by Blonde Maze, imallryt](https://open.spotify.com/track/0Cuiebpn7tG3Qs8CNSIaN2)
+- [Be Your Friend by XYSM, EDGR](https://open.spotify.com/track/10TsQZCb8QVql2ocirBc6R)
+- [Times I&#39;ve Missed by Ourson, Ren Ocean](https://open.spotify.com/track/1fuKKFB7S9OZa9lIsweTm0)
+- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
+- [Catch by Jones Meadow](https://open.spotify.com/track/7h2xHnlFVvw13EWy4C0FNV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
