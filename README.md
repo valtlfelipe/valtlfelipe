@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The Thought of You by Blonde Maze, imallryt](https://open.spotify.com/track/0Cuiebpn7tG3Qs8CNSIaN2)
-- [Be Your Friend by XYSM, EDGR](https://open.spotify.com/track/10TsQZCb8QVql2ocirBc6R)
-- [Times I&#39;ve Missed by Ourson, Ren Ocean](https://open.spotify.com/track/1fuKKFB7S9OZa9lIsweTm0)
-- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
-- [Catch by Jones Meadow](https://open.spotify.com/track/7h2xHnlFVvw13EWy4C0FNV)
+- [All for Nothing by Heard Right](https://open.spotify.com/track/2Rwv0yI6yPU2oG0suBMTUY)
+- [I&#39;ll Be There by Ourson](https://open.spotify.com/track/5sAmCCvdiJdpAuGfW9JAJZ)
+- [Floating by Massane](https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1)
+- [Heaven by Marc Wiese](https://open.spotify.com/track/3qKUB6VHHMFHQNiYqiQbS7)
+- [Impossible by Klur, LeyeT](https://open.spotify.com/track/5Gp51Zz6thK0Wg0fQwc9ra)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
