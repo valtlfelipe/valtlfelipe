@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Young And Beautiful by Carla Stefani, Filogy](https://open.spotify.com/track/4xiPOhaMr1759QAysIfCNH)
-- [I Know You Tried Sometimes by Ourson](https://open.spotify.com/track/2lzNGhGIw9wty9BbCoTuhq)
-- [Falling by Naws, Marksman, Ayca](https://open.spotify.com/track/3tk5kZ2dGjRMJ2VA2WGA1Z)
-- [Feel Again - Lounge Edit by TELYKAST, Summer Is Calling, Moa Lisa](https://open.spotify.com/track/0YZPP5q0xm182fbAI6uTgg)
-- [Seeking by Dias Ridge](https://open.spotify.com/track/5r7vAxbvXsO9t5kR1xUwuk)
+- [First Breath by Stendahl](https://open.spotify.com/track/0UdWJUzZoenu4V03q2luZ6)
+- [Want Love by Rodg](https://open.spotify.com/track/5n252y6KCDjRQbR7glxGaf)
+- [No Tears by Mandarin Plaza, Mike D&#39; Jais](https://open.spotify.com/track/27LoXm0hwHXV9ItUdFhJmk)
+- [Nebula by dwelyr](https://open.spotify.com/track/3JxUDwK4clwu4sB2i1Q5KA)
+- [Surrender Your Love by TELYKAST, Sam Gray](https://open.spotify.com/track/3lsaizjKzS1fxdo7eIum40)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
