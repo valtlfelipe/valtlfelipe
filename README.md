@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Let Go by Alex Baker, Slowtide](https://open.spotify.com/track/0rMfY4QqYdzZFWGDeKLaP1)
+- [Overthink Tomorrow by Alo](https://open.spotify.com/track/7JsJ6R2zVBP8k2wm6tGIAK)
+- [Floating by Moment in Time](https://open.spotify.com/track/2NLgWMWGDY7lCmBuD6sghX)
+- [Candlelight by XYSM, Joywalk](https://open.spotify.com/track/6uhtgpSpkXEO8BZDl3Ddpe)
 - [Cold Light - 6am Remix by KC Lights, Leo Stannard](https://open.spotify.com/track/6BRsln8RDWDl91YmJpCYxY)
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [Make It Easy by Robby East, Lizzy Land](https://open.spotify.com/track/5309UdeptmNbeOV4iTw5nl)
-- [1&#43;1=1 by XYSM, EDGR](https://open.spotify.com/track/1Uk7cYdAjIukY1naydK11y)
-- [Forever by Alex Breitling, Golowko](https://open.spotify.com/track/4RHFfNB4qNWrePfzFmq4sI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
