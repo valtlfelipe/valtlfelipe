@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [rolling stone by shiny things](https://open.spotify.com/track/0KWrccSH8XDkIfhwcDlqpE)
-- [I&#39;d Rather Be Alone by XYSM, EDGR](https://open.spotify.com/track/3e3NPloQESLLcs1ftn04AV)
-- [Feel The Emotion by fwd/slash](https://open.spotify.com/track/6chebJZzTQfGMINE4dium9)
-- [Let Go by Alex Baker, Slowtide](https://open.spotify.com/track/0rMfY4QqYdzZFWGDeKLaP1)
-- [Overthink Tomorrow by Alo](https://open.spotify.com/track/7JsJ6R2zVBP8k2wm6tGIAK)
+- [The Only by Lost In Pacific](https://open.spotify.com/track/1uvKCBu0nN2cjL3Rowam2V)
+- [Sunshine by Julien Pastel](https://open.spotify.com/track/1wIODZsTfklKJFYnPFJKQ5)
+- [SCARY by XYSM](https://open.spotify.com/track/0F5Pi9D61QE7UEhtMIqub6)
+- [Into The Ocean by MALIAN, twocolouredman](https://open.spotify.com/track/5eY9jGygXyO5x1djxydy6e)
+- [Fly by edapollo, Dorothea](https://open.spotify.com/track/5vCmoK5J8IhoFbMSvOeDBg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
