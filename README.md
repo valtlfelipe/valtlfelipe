@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [SNAP by Rosa Linn](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6)
-- [Bones by Imagine Dragons](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G)
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
-- [Golden by HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS)
-- [Pink Pony Club by Chappell Roan](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)
+- [Tattoo by Loreen](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6)
+- [Good Luck, Babe! by Chappell Roan](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu)
+- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
+- [Water by Tyla](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw)
+- [we can&#39;t be friends (wait for your love) by Ariana Grande](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
