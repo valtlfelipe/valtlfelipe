@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Tattoo by Loreen](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6)
-- [Good Luck, Babe! by Chappell Roan](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
-- [Water by Tyla](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw)
-- [we can&#39;t be friends (wait for your love) by Ariana Grande](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC)
+- [Until I Found You (with Em Beihold) - Em Beihold Version by Stephen Sanchez, Em Beihold](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN)
+- [Born Again (feat. Doja Cat &amp; RAYE) by LISA, Doja Cat, RAYE](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf)
+- [Cupid - Twin Version by FIFTY FIFTY](https://open.spotify.com/track/53DDMPqgMWNrEeE3NjThKE)
+- [Lost on You by LP](https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu)
+- [Anxiety by Doechii](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
