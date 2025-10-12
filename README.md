@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Still With Francis by Duce](https://open.spotify.com/track/7MEJGPf7aGuiE01puSnhxW)
+- [Daybreak by Duce, Maynørr, Courtney Storm](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA)
 - [Road by Lane 8, Arctic Lake](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d)
 - [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
 - [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
-- [The Only by Lost In Pacific](https://open.spotify.com/track/1uvKCBu0nN2cjL3Rowam2V)
-- [Sunshine by Julien Pastel](https://open.spotify.com/track/1wIODZsTfklKJFYnPFJKQ5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
