@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Teardrops by Why U So](https://open.spotify.com/track/44qyK0YHfZz9AngFaWmycU)
 - [Unwritten by Natasha Bedingfield](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf)
 - [Until I Found You (with Em Beihold) - Em Beihold Version by Stephen Sanchez, Em Beihold](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN)
 - [Born Again (feat. Doja Cat &amp; RAYE) by LISA, Doja Cat, RAYE](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf)
 - [Cupid - Twin Version by FIFTY FIFTY](https://open.spotify.com/track/53DDMPqgMWNrEeE3NjThKE)
-- [Lost on You by LP](https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
