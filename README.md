@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Underneath The Light by Baked Moon, Mallou](https://open.spotify.com/track/6aOL7zUF8RK33gRyOgh9om)
-- [Won&#39;t You Say by Anton Kling](https://open.spotify.com/track/32HPlVqnkMOkdKC2rD2UxZ)
-- [No Echoes - Mees Salomé Remix by Estiva, Mees Salomé](https://open.spotify.com/track/5v3YS7PTe6UFrIkm8Tvkkh)
-- [My Home by Alina Renae](https://open.spotify.com/track/5KKqCW5KIImgnUUm2IfYF5)
-- [Way Back Home by Tom Kha](https://open.spotify.com/track/5u227fVmzxX4bHjs95yGvq)
+- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [Wander by MXV, mölly, Courtney Storm](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr)
+- [Where You Are - Millero Remix by John Summit, HAYLA, Millero](https://open.spotify.com/track/3ukWtMaZrKTO9mp9Fp3hb4)
+- [White Sand by Saint Haux](https://open.spotify.com/track/6SlbjaFsBJSKj170nrqopL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
