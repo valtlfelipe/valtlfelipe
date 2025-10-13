@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
-- [Wander by MXV, mölly, Courtney Storm](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr)
-- [Where You Are - Millero Remix by John Summit, HAYLA, Millero](https://open.spotify.com/track/3ukWtMaZrKTO9mp9Fp3hb4)
-- [White Sand by Saint Haux](https://open.spotify.com/track/6SlbjaFsBJSKj170nrqopL)
+- [Honest by Panuma, Andy Gribben, maybealice](https://open.spotify.com/track/7fPsvPq52xosZqtGWm7rLs)
+- [Solid Ground by Marc Wiese, Gabi Juliano](https://open.spotify.com/track/5uF3feCtXIELkY396WUg5e)
+- [Love by P.A.V](https://open.spotify.com/track/3fSdGxtm9tod3B7LGMcc1P)
+- [what am i doing? by mia more, wavves, La Costa](https://open.spotify.com/track/51xujywawyovgH5SBqaODG)
+- [hoyo by shiny things, Moise](https://open.spotify.com/track/0JT3o1tGkslq0gKAc6rgF7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
