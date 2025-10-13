@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ksdme/ut](https://github.com/ksdme/ut)** - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [On A Mission by Felon, Jess Hayes](https://open.spotify.com/track/3qvf9mABpuuYtBcEtD1F0H)
-- [Myla by Ophanim](https://open.spotify.com/track/7v4zSvvkbcS452oCn1cM04)
-- [Electric Feel by Multiversa, Electric Hearts, SECMOS](https://open.spotify.com/track/5OVH2EDqua2tf0972lxm8z)
-- [Moment by blu skies, sunsett.](https://open.spotify.com/track/0Jxws9MnSgvmuX0PYIXODm)
-- [Nice To Each Other by Olivia Dean](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l)
+- [Underneath The Light by Baked Moon, Mallou](https://open.spotify.com/track/6aOL7zUF8RK33gRyOgh9om)
+- [Won&#39;t You Say by Anton Kling](https://open.spotify.com/track/32HPlVqnkMOkdKC2rD2UxZ)
+- [No Echoes - Mees Salomé Remix by Estiva, Mees Salomé](https://open.spotify.com/track/5v3YS7PTe6UFrIkm8Tvkkh)
+- [My Home by Alina Renae](https://open.spotify.com/track/5KKqCW5KIImgnUUm2IfYF5)
+- [Way Back Home by Tom Kha](https://open.spotify.com/track/5u227fVmzxX4bHjs95yGvq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
