@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Always by LuvLess](https://open.spotify.com/track/6NXgFe04IN78UyvAlISZ46)
-- [Think About You by LO](https://open.spotify.com/track/0CV3Sy9CWqnGpoqISaCgOy)
-- [Nothing by Iskarelyn](https://open.spotify.com/track/4UknjsWikz5vg3yvVOg9Qz)
-- [Fine Lines by Felon, EKE](https://open.spotify.com/track/4yZFRsi0Jn2Ws7bLeyY67b)
-- [So Easy (To Fall In Love) by Olivia Dean](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397)
+- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
+- [Moment by Panuma, Nina Carr](https://open.spotify.com/track/11fQ56KIXCrTjuln0h7juk)
+- [Sweet Dream by P.A.V](https://open.spotify.com/track/2oAa5LXr7P4Wwj0VnFfEGv)
+- [Right Time by NORRA](https://open.spotify.com/track/4MiqMCkdCbEKHJkEW0DaLu)
+- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
