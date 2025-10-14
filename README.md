@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
-- [Eyes Off You by Polar Inc., XIRA](https://open.spotify.com/track/5YQ4BJs60OgPVEwisLNiu3)
-- [Underneath The Light by Baked Moon, Mallou](https://open.spotify.com/track/6aOL7zUF8RK33gRyOgh9om)
-- [Speak Your Mind by VEHA, Extra Special](https://open.spotify.com/track/3ixuxoVAfb3EbrwPVJ4z45)
-- [Great Plains by Verbala](https://open.spotify.com/track/7B2qwF4Qf0dwmuU2UQ3upI)
+- [Hazia Nights by Atmosun](https://open.spotify.com/track/5d7sAOn4dkbMHcM2X5QFP5)
+- [My Home by Alina Renae](https://open.spotify.com/track/5KKqCW5KIImgnUUm2IfYF5)
+- [Won&#39;t You Say by Anton Kling](https://open.spotify.com/track/32HPlVqnkMOkdKC2rD2UxZ)
+- [White Sand by Saint Haux](https://open.spotify.com/track/6SlbjaFsBJSKj170nrqopL)
+- [Moment by blu skies, sunsett.](https://open.spotify.com/track/0Jxws9MnSgvmuX0PYIXODm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
