@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Won&#39;t You Say by Anton Kling](https://open.spotify.com/track/32HPlVqnkMOkdKC2rD2UxZ)
-- [Bloom in the Ashes by MaMan, Passenger 10](https://open.spotify.com/track/49LbPOTEvdFDjoGmKi99vY)
-- [White Sand by Saint Haux](https://open.spotify.com/track/6SlbjaFsBJSKj170nrqopL)
-- [Moment by blu skies, sunsett.](https://open.spotify.com/track/0Jxws9MnSgvmuX0PYIXODm)
-- [Myla by Ophanim](https://open.spotify.com/track/7v4zSvvkbcS452oCn1cM04)
+- [Caged by firstcoast., Courtney Storm](https://open.spotify.com/track/5XkSjfm3Hc8kQpA9yzH9F3)
+- [In My Arms - Flyboy Chillmix by Ferreck Dawn, Robosonic, Nikki Ambers, Flyboy](https://open.spotify.com/track/7mQgiJXMjCR7q9sitA665l)
+- [Forever Ago by Areo](https://open.spotify.com/track/3EL276aXU3x3IS749dZtfl)
+- [Ocean Drive by 2FarAway, pinkskies](https://open.spotify.com/track/2njAaLpeIxpFPYsWnnXkJ3)
+- [Cold Sparks by Adam Rise](https://open.spotify.com/track/6R74CN0EywErukonQW5uVl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
