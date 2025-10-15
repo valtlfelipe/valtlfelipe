@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Summer Never Ends by Seawayz](https://open.spotify.com/track/7koTQwtTbBJ23FKMBOZfnD)
-- [Teardrop by Elderbrook, Jan Blomqvist](https://open.spotify.com/track/5Va5bw06JZxkdhVBXnjo6X)
-- [Can You by MXV, Courtney Storm](https://open.spotify.com/track/1IViMQ0Ifl0N9Gbkwdifso)
-- [Higher by Alex Keeper](https://open.spotify.com/track/3Qq3pa10jbYlZiCT6p4OGO)
-- [Holding On by MashBit, Luke Alexander, sunsett.](https://open.spotify.com/track/70cc5nSWcRNCnsRt9A3b9Z)
+- [Sequoia by Klur](https://open.spotify.com/track/4lJyaozNlyhNcA5uYECgZZ)
+- [Lifeline by Robby East, Jyll](https://open.spotify.com/track/3J6XE1BCxefjLuAnYRwKS7)
+- [Passing Through by Alex Baker, James Hersey](https://open.spotify.com/track/6Mk1znOEjOAbn3dyw8DdpU)
+- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
+- [Good Time by Alex Keeper](https://open.spotify.com/track/08mV4fxdj7MgunZjVHqoyT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
