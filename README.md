@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Another Life by MVRØ](https://open.spotify.com/track/6a3VTcqaCx7vBqpbEpDiKW)
-- [Only With You (Tritonia 516) by Rowland Giles](https://open.spotify.com/track/4Ik1ysTp3Mla3ZExOKqe6t)
-- [Flutter by Coastlines](https://open.spotify.com/track/3BfibDq8VNQY5JLKb2n9ib)
-- [Off World by Verbala](https://open.spotify.com/track/2V5kYF7CDqcnsE3rVB1Nfn)
-- [Swimming - Mixed by VEHA](https://open.spotify.com/track/176eyh1qPP4VyCP2Px8k3K)
+- [Big Sky - Extended Mix by Jack Willard](https://open.spotify.com/track/4kBpNB2efIumz7FfxTfWFU)
+- [Dominoes by Modera, Andrew Burrow, Susie Ledge](https://open.spotify.com/track/5Ea5hsn4vK8NJaJDuiQBNt)
+- [Gumo by Verbala](https://open.spotify.com/track/3YV3BCLkNdsQkKajbjUhpD)
+- [Swimming - Extended Mix by VEHA](https://open.spotify.com/track/6ZfMG8rSwAIYgxO0Kj7Oqn)
+- [Falling Stars by Coastlines](https://open.spotify.com/track/3JedRGQuhH67qqJ1VHnOOL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
