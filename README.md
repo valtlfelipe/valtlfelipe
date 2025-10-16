@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Love In Slow Motion (Tritonia 460) by Robby East, Kuala](https://open.spotify.com/track/3Sp7ji9b6y9tFZBms3UPIa)
-- [Love or Lust by UOAK, Lara Nord, Ceci](https://open.spotify.com/track/23j6H6ro9ROzREhMDhcRbM)
-- [Glimpse (What It Feels Like) [Tritonia 505] by Rhea Silvia, Akkilles](https://open.spotify.com/track/3saLZGkdw3r54xqmS5Pfx7)
-- [Here for you by Marc Wiese](https://open.spotify.com/track/7xwsU3qO7nKYXoYMdTVfB8)
-- [Colors of the Moon by Marc Wiese, LAUT](https://open.spotify.com/track/7uKgblEqhZCg0IdCl6rbRC)
+- [Another Life by MVRØ](https://open.spotify.com/track/6a3VTcqaCx7vBqpbEpDiKW)
+- [Only With You (Tritonia 516) by Rowland Giles](https://open.spotify.com/track/4Ik1ysTp3Mla3ZExOKqe6t)
+- [Flutter by Coastlines](https://open.spotify.com/track/3BfibDq8VNQY5JLKb2n9ib)
+- [Off World by Verbala](https://open.spotify.com/track/2V5kYF7CDqcnsE3rVB1Nfn)
+- [Swimming - Mixed by VEHA](https://open.spotify.com/track/176eyh1qPP4VyCP2Px8k3K)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
