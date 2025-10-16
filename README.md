@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Scattered Skies by Jack Willard](https://open.spotify.com/track/0I6Hjw3bSfKbU79p0Oke9c)
-- [Shimmer by Andrew Long](https://open.spotify.com/track/7xPEGvoZBxofprLhWZfjbM)
-- [Tales (Tritonia 469) by Marc Wiese, LAUT](https://open.spotify.com/track/5YTS5iKtxSBY9EnEdDJPBv)
-- [Ripple In Time by Coastlines, AllezVed, HEFE](https://open.spotify.com/track/5rsAoOf736JwXX4JYDePbi)
-- [Pull Me Through - Mixed by Klur, Diana Miro](https://open.spotify.com/track/5pbqC0UnSUpA0yMKQre9aI)
+- [Early Years by San Mateo Drive](https://open.spotify.com/track/5FziDh9cdhDIvzPZVrZhIM)
+- [Autumn Leaves - Extended Mix by w.ill](https://open.spotify.com/track/4XcYBse6QHb4aqBzUQT5xY)
+- [Glimpse (What It Feels Like) - Extended Mix by Rhea Silvia, Akkilles](https://open.spotify.com/track/5SWKZ08awImy16NVMVEEiG)
+- [Breaking Point by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/4SqzqgMMsLmtgVDMVBPrls)
+- [Melodies of Us by Marc Wiese, LAUT](https://open.spotify.com/track/2T507e8TJFSzI3wJwGhWyC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
