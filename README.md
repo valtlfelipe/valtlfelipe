@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Blooming - Mixed by Alex Breitling](https://open.spotify.com/track/5yAttk0cKFRSSjjSG1xvHL)
-- [Memory by Light Chaser](https://open.spotify.com/track/5KrX8uCGicf3twys3gXg9U)
-- [Mist - Extended Mix by VEHA](https://open.spotify.com/track/0ZvAgkISHK6JNBsDJ42rLz)
-- [Ember (Luis Kuper Remix) by Exit Coda, Luis Kuper](https://open.spotify.com/track/4YKquPFjsGJPwjYBkWH6F0)
-- [Another Way Home by Coastlines](https://open.spotify.com/track/0B94aeEhMicZUKweJEswEf)
+- [Scattered Skies by Jack Willard](https://open.spotify.com/track/0I6Hjw3bSfKbU79p0Oke9c)
+- [Shimmer by Andrew Long](https://open.spotify.com/track/7xPEGvoZBxofprLhWZfjbM)
+- [Tales (Tritonia 469) by Marc Wiese, LAUT](https://open.spotify.com/track/5YTS5iKtxSBY9EnEdDJPBv)
+- [Ripple In Time by Coastlines, AllezVed, HEFE](https://open.spotify.com/track/5rsAoOf736JwXX4JYDePbi)
+- [Pull Me Through - Mixed by Klur, Diana Miro](https://open.spotify.com/track/5pbqC0UnSUpA0yMKQre9aI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
