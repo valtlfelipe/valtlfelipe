@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Neem by Verbala](https://open.spotify.com/track/1574IQS8BP9QKARakGSYHp)
+- [This Fire&#39;s Burning - Mixed by Coastlines](https://open.spotify.com/track/7rQMgMbmskumjnknPzEO8v)
+- [Tides Of Time (FHR450) by w.ill](https://open.spotify.com/track/5Z44yAip0x1xHTBJzYGQ54)
 - [Find Your Light - djimboh Remix by dwelyr, djimboh](https://open.spotify.com/track/6lnIzg2Phe4OdJiyGlrKpl)
 - [Find Your Light - djimboh Remix by dwelyr, djimboh](https://open.spotify.com/track/6lnIzg2Phe4OdJiyGlrKpl)
-- [Early Years by San Mateo Drive](https://open.spotify.com/track/5FziDh9cdhDIvzPZVrZhIM)
-- [Autumn Leaves - Extended Mix by w.ill](https://open.spotify.com/track/4XcYBse6QHb4aqBzUQT5xY)
-- [Glimpse (What It Feels Like) - Extended Mix by Rhea Silvia, Akkilles](https://open.spotify.com/track/5SWKZ08awImy16NVMVEEiG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
