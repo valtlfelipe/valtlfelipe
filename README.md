@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Blooming - Mixed by Alex Breitling](https://open.spotify.com/track/5yAttk0cKFRSSjjSG1xvHL)
+- [Memory by Light Chaser](https://open.spotify.com/track/5KrX8uCGicf3twys3gXg9U)
+- [Mist - Extended Mix by VEHA](https://open.spotify.com/track/0ZvAgkISHK6JNBsDJ42rLz)
+- [Ember (Luis Kuper Remix) by Exit Coda, Luis Kuper](https://open.spotify.com/track/4YKquPFjsGJPwjYBkWH6F0)
 - [Another Way Home by Coastlines](https://open.spotify.com/track/0B94aeEhMicZUKweJEswEf)
-- [Revenge of the Groove by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/4R8Lk6cGMS1wm4sxGhEtPH)
-- [Inspiration of the Lion - MALIAN Remix by MALIAN, Marius Nitzbon](https://open.spotify.com/track/6hIrhw6mLJx1yMXyraobyp)
-- [Can You See - Soul Engineers Remix by UOAK, Jope, Soul Engineers](https://open.spotify.com/track/52EveyzfmVcT8afWulmnwK)
-- [Faded and Pale - Extended Mix by VEHA, Teesalu](https://open.spotify.com/track/39UMwix5LEy4FDgJujxk8Q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
