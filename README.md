@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Ten Out Of Ten by R3HAB, ROU](https://open.spotify.com/track/1vr6OT3o3Amd1SXCr5TlWh)
-- [NOW IT&#39;S GONE by IN PARALLEL](https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7)
-- [Take U by Jengi](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco)
-- [Heaven by Sara Landry, Alt8](https://open.spotify.com/track/79nRqde4cRssDzkJcu275a)
-- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG)
+- [Sweet Release by Nu Aspect](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq)
+- [Drown by EBEN](https://open.spotify.com/track/2K7W7iXlIa6mt5XO479vzy)
+- [Super Powers by TELYKAST, Oaks](https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c)
+- [Focus (feat. CLOVES) by John Summit, CLOVES](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7)
+- [Heaven Is A State Of Mind by MashBit, VisionV, Casey Cook](https://open.spotify.com/track/5NxOVuCN3ErW5gOl4bTwGV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
