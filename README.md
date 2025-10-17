@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Say My Name - Remix by Morgan Seatree, Florence &#43; The Machine](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32)
-- [Silence - John Summit Remix by Delerium, Sarah McLachlan, John Summit](https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm)
-- [Melody For The Misfits by Robby East](https://open.spotify.com/track/6WDdncgMzkh7MQPExXEaTo)
-- [Memory by Light Chaser](https://open.spotify.com/track/5KrX8uCGicf3twys3gXg9U)
-- [Alouma by UOAK, CallumCantSleep](https://open.spotify.com/track/2tTicbDuCXvjeRUJWcycEt)
+- [Ten Out Of Ten by R3HAB, ROU](https://open.spotify.com/track/1vr6OT3o3Amd1SXCr5TlWh)
+- [NOW IT&#39;S GONE by IN PARALLEL](https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7)
+- [Take U by Jengi](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco)
+- [Heaven by Sara Landry, Alt8](https://open.spotify.com/track/79nRqde4cRssDzkJcu275a)
+- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
