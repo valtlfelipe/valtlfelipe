@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [It Feels So Good - Jamy Nox Remix by Matt Sassari, HUGEL, Sonique, Jamy Nox](https://open.spotify.com/track/4o1t8bOiuHwjijH2b0LrmA)
-- [Never Walk Alone - Alex Wann Remix by BLOND:ISH, Stevie Appleton, Alex Wann](https://open.spotify.com/track/4thF83xkGC9hLkzQ6TnW09)
-- [Hollow (feat. Bonn) - Kölsch Remix by MORTEN, ARTBAT, Kölsch, Bonn](https://open.spotify.com/track/3fnI9Ex6M82n68TK6bxJWX)
-- [una noche con hugel by HUGEL, Alleh, Yorghaki](https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun)
-- [I Adore You - ARTBAT Remix by HUGEL, Topic, ARTBAT, Arash, Daecolm](https://open.spotify.com/track/1Zg16X9sBXpfQbs6fgVJzH)
+- [The Way You Move (feat. Sleepy Brown) by Outkast, Sleepy Brown](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD)
+- [White Flag by Dido](https://open.spotify.com/track/5ht9FVBi07F48ZAfIf7WdC)
+- [Naive by The Kooks](https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU)
+- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
+- [Lady - Hear Me Tonight by Modjo](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
