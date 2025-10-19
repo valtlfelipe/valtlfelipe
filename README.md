@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
-- [DJ Got Us Fallin&#39; In Love (feat. Pitbull) by USHER, Pitbull](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn)
-- [No Lie by Sean Paul, Dua Lipa](https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA)
-- [Ain&#39;t Nobody (Loves Me Better) (feat. Jasmine Thompson) by Felix Jaehn, Jasmine Thompson](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x)
-- [Riptide by Vance Joy](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm)
+- [Lean On (feat. MØ &amp; DJ Snake) by Major Lazer, MØ, DJ Snake](https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16)
+- [Are You With Me by Lost Frequencies](https://open.spotify.com/track/4255amV4enzl28KAn16rUO)
+- [Hideaway by Kiesza](https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM)
+- [Electric Love by BØRNS](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ)
+- [Feel So Close - Radio Edit by Calvin Harris](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
