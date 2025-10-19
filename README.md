@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Lean On (feat. MØ &amp; DJ Snake) by Major Lazer, MØ, DJ Snake](https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16)
-- [Are You With Me by Lost Frequencies](https://open.spotify.com/track/4255amV4enzl28KAn16rUO)
-- [Hideaway by Kiesza](https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM)
-- [Electric Love by BØRNS](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ)
-- [Feel So Close - Radio Edit by Calvin Harris](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)
+- [Ritual by Tiësto, Jonas Blue, Rita Ora](https://open.spotify.com/track/0teJO13Uua0AamcZ681qOd)
+- [ocean eyes by Billie Eilish](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9)
+- [Feel It Still by Portugal. The Man](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK)
+- [Fast Car by Jonas Blue, Dakota](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p)
+- [3 Nights by Dominic Fike](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
