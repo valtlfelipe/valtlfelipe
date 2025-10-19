@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Camera by Ed Sheeran](https://open.spotify.com/track/356ASHe2rEf7gBYby3hDX1)
 - [Hollow (feat. Bonn) - Kölsch Remix by MORTEN, ARTBAT, Kölsch, Bonn](https://open.spotify.com/track/3fnI9Ex6M82n68TK6bxJWX)
-- [Too Sweet by Hozier](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0)
-- [DAISIES by Justin Bieber](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb)
-- [Another Love by Tom Odell](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO)
+- [Hollow (feat. Bonn) - Kölsch Remix by MORTEN, ARTBAT, Kölsch, Bonn](https://open.spotify.com/track/3fnI9Ex6M82n68TK6bxJWX)
+- [Hollow (feat. Bonn) - Kölsch Remix by MORTEN, ARTBAT, Kölsch, Bonn](https://open.spotify.com/track/3fnI9Ex6M82n68TK6bxJWX)
+- [Hollow (feat. Bonn) - Kölsch Remix by MORTEN, ARTBAT, Kölsch, Bonn](https://open.spotify.com/track/3fnI9Ex6M82n68TK6bxJWX)
+- [Hollow (feat. Bonn) - Kölsch Remix by MORTEN, ARTBAT, Kölsch, Bonn](https://open.spotify.com/track/3fnI9Ex6M82n68TK6bxJWX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
