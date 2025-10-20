@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Skyforest by Nora Van Elken](https://open.spotify.com/track/5jbACejNaFVNaNz1jZ2Boh)
-- [Lake Nivu by Jerro](https://open.spotify.com/track/6M3dHm9RLBhU1C2mdW2Pvi)
-- [See - Instrumental by Colin Stauber](https://open.spotify.com/track/0kS1UvKHIZdYWK1LEGJ0ww)
-- [Get It Right by just here., CLOVER](https://open.spotify.com/track/74IQfFNLctoqDpQTIZTPYI)
-- [Dénia by Solara](https://open.spotify.com/track/7pvK9R4raMRGvRIgzfzRg1)
+- [Tired by P.A.V](https://open.spotify.com/track/77Wy355qw4O5KgO7wGrv0f)
+- [Vivid Dreams by Nora Van Elken](https://open.spotify.com/track/6axdWwSHdsV6sklSx2iPzW)
+- [Remember by four30](https://open.spotify.com/track/5xCKzq3WE3d3t6aJykg4zl)
+- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
+- [Fall by w.ill](https://open.spotify.com/track/4b0tpPJf5XqyrB8Ai1j38V)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
