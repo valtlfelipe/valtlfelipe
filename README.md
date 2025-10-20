@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [As The Days Pass by Iskarelyn](https://open.spotify.com/track/2V7rDDFFDNBQAIOx1Usq7j)
-- [Drivin Thru the Night - Jerro Remix by Petit Biscuit, Jerro](https://open.spotify.com/track/6rmg5uKySdvKQIAff7N1pB)
-- [Voices by Tobias Bergson](https://open.spotify.com/track/3OhbKriIb52oPlq7wdNMzz)
-- [alive by Edannn, just nearby, bayme](https://open.spotify.com/track/65w7FcAoyaq0qpP8amE0tx)
-- [Addicted by Holen](https://open.spotify.com/track/7AMe932TtrqdBKCZR6aDik)
+- [Autumn Leaves by w.ill](https://open.spotify.com/track/4FxdriRA0ZaRMZ17QktZdZ)
+- [The Fool by Jerro](https://open.spotify.com/track/4lWZp94yvNRHC8H2z2FePw)
+- [Ghost Voices - Lane 8 Remix by Lane 8, Virtual Self](https://open.spotify.com/track/5TSwDA5UvNPnBu1maDYbDi)
+- [Dream About by NORRA](https://open.spotify.com/track/0bHCgNfgv8pEuaLsNjSua9)
+- [From the Past by Morgin Madison, Meeting Molly](https://open.spotify.com/track/1W1twgpF3bFRQGanGXi1gA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
