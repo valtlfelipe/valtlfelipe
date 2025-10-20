@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hold Me Down by B-Rain, RAZZ, Ema Feud](https://open.spotify.com/track/0hdRaXColEX1JGmEn9C4BD)
-- [I Love You by Sean Blanc, Sunset Oasis](https://open.spotify.com/track/6xnrV3afOQLcd0810MRL4A)
-- [Run Away With Me by Carly Rae Jepsen](https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO)
-- [Ritual by Tiësto, Jonas Blue, Rita Ora](https://open.spotify.com/track/0teJO13Uua0AamcZ681qOd)
-- [ocean eyes by Billie Eilish](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9)
+- [Tomtebo by West &amp; Zander](https://open.spotify.com/track/1Rks0AsEen5Ef9mc0kvZ7S)
+- [Dare to Dream by Passenger 10](https://open.spotify.com/track/2HtBRvMQIPlAx4QJtVssnp)
+- [Moon River by Nora Van Elken](https://open.spotify.com/track/2cvPgUW2Ato25dQRmXmqFn)
+- [Play Day by Oskarr Starr](https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw)
+- [Never Far by HAK3N](https://open.spotify.com/track/3XnGkmaMnX5yLokPdDcQi5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
