@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Tomtebo by West &amp; Zander](https://open.spotify.com/track/1Rks0AsEen5Ef9mc0kvZ7S)
-- [Dare to Dream by Passenger 10](https://open.spotify.com/track/2HtBRvMQIPlAx4QJtVssnp)
-- [Moon River by Nora Van Elken](https://open.spotify.com/track/2cvPgUW2Ato25dQRmXmqFn)
-- [Play Day by Oskarr Starr](https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw)
-- [Never Far by HAK3N](https://open.spotify.com/track/3XnGkmaMnX5yLokPdDcQi5)
+- [As The Days Pass by Iskarelyn](https://open.spotify.com/track/2V7rDDFFDNBQAIOx1Usq7j)
+- [Drivin Thru the Night - Jerro Remix by Petit Biscuit, Jerro](https://open.spotify.com/track/6rmg5uKySdvKQIAff7N1pB)
+- [Voices by Tobias Bergson](https://open.spotify.com/track/3OhbKriIb52oPlq7wdNMzz)
+- [alive by Edannn, just nearby, bayme](https://open.spotify.com/track/65w7FcAoyaq0qpP8amE0tx)
+- [Addicted by Holen](https://open.spotify.com/track/7AMe932TtrqdBKCZR6aDik)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
