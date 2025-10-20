@@ -3,7 +3,7 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (6 days ago)
+- **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (1 week ago)
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (1 week ago)
 - **[ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula)** - A intuitive, lightweight web framework in C for building modern web applications (1 week ago)
 - **[hookdeck/outpost](https://github.com/hookdeck/outpost)** - Open Source Outbound Webhooks and Event Destinations Infrastructure (1 week ago)
