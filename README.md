@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[hookdeck/outpost](https://github.com/hookdeck/outpost)** - Open Source Outbound Webhooks and Event Destinations Infrastructure (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Light Year (Tritonia 516) by Alex Breitling, Jyll](https://open.spotify.com/track/0D8XJcNEuF5kgnvGZjf4fw)
-- [Talk with Me by Klama](https://open.spotify.com/track/13mgcv0WPkbNKH1TOt024p)
-- [Eyes On You by four30](https://open.spotify.com/track/7Cjm0EQl5pE3srLd9C2koT)
-- [Looking 4 Love by Second Sun](https://open.spotify.com/track/3nKX4UBDbwUHLU97LmEOsq)
-- [Know Who You Are by San Mateo Drive, Ren Ocean](https://open.spotify.com/track/0uz7gY8pdvz0cm063f2OVS)
+- [Follow the Sun by dusk:dawn, CLOVER](https://open.spotify.com/track/2yjcHBjwWbj7hWNFLohjSU)
+- [Read My Thoughts by Civet Cat](https://open.spotify.com/track/4zzmQTdvUQ15eH3TfQqEBd)
+- [Adíos! by André Aguado](https://open.spotify.com/track/0uyboVC4XZ3dfXEKZjNKgW)
+- [Drift by Jörd](https://open.spotify.com/track/4Vgc4ylpXrbTVbbBceCrVN)
+- [Wander by MXV, mölly, Courtney Storm](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
