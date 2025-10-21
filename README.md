@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[hookdeck/outpost](https://github.com/hookdeck/outpost)** - Open Source Outbound Webhooks and Event Destinations Infrastructure (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Message by Rezident](https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF)
-- [Grow by Klama](https://open.spotify.com/track/12mDVwA6yJ4e9TPaWTQ7Py)
-- [Coastal Skies by sûr faire](https://open.spotify.com/track/6XtdSiUF4zQ6YlLVeuIDc2)
-- [Borealis by Nora Van Elken](https://open.spotify.com/track/3NCM384DVtwjuEqkOGcy4G)
-- [Into the Night by nømad, Donner, Horxata](https://open.spotify.com/track/33ljt9tVhlLy9K8Kmg1xA3)
+- [Sol by Stendahl](https://open.spotify.com/track/4Jv2xEsEFgw8QuNEtwgNka)
+- [Faded and Pale by VEHA, Teesalu](https://open.spotify.com/track/0JKxOfsBgyp8jYb1fs19p5)
+- [Love by w.ill](https://open.spotify.com/track/5yVhe3a6r111Wp89XXqLIx)
+- [Hold On - Mixed by San Mateo Drive](https://open.spotify.com/track/4eclPzxZfuHYQO2nEoGmbM)
+- [Souls Not Bodies by Midnight Pass](https://open.spotify.com/track/4BIiC6k94so9Odloc8z4MR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
