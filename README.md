@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Make It Easy by Robby East, Lizzy Land](https://open.spotify.com/track/5309UdeptmNbeOV4iTw5nl)
-- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
-- [In My Eyes by Odare](https://open.spotify.com/track/3heGxV4Tjgjb5E3Qx5Blks)
-- [Don&#39;t Let Me Go by Lane 8, Arctic Lake](https://open.spotify.com/track/6bxHq66ka9XINFSpEYCkde)
-- [Hanami by Nora Van Elken](https://open.spotify.com/track/00VVzCN5KFvcMcGsFX3O7o)
+- [Closing Hour by Panuma, Tim Hughes](https://open.spotify.com/track/5m8yfomGrRuslN7B3PfF3C)
+- [Sweet Dream by P.A.V](https://open.spotify.com/track/2oAa5LXr7P4Wwj0VnFfEGv)
+- [Love Me by Klama](https://open.spotify.com/track/1ZwsOPywbaiXknPBKOFycY)
+- [Vespera by Odare](https://open.spotify.com/track/1TE8FMVmFWuf7cezZ31DkX)
+- [Say Goodbye by Rhea Silvia](https://open.spotify.com/track/0besROWpMFtqOAVKopQA0L)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
