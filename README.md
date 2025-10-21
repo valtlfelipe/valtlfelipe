@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Mokkapps/nuxt-email-renderer](https://github.com/Mokkapps/nuxt-email-renderer)** - A Nuxt module that helps building beautiful, responsive email templates using Vue.js components. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Torii by Nora Van Elken](https://open.spotify.com/track/5ZAg8FYCmtpcY7lBFPcak3)
-- [Rosso by Chris Savor, Stendahl](https://open.spotify.com/track/3P4kOSAVk0aUH7fVVlMS2D)
-- [Demons by Jerro, Sophia Bel](https://open.spotify.com/track/24ek143fI5CVTih3X03tpO)
-- [Can&#39;t Hold You by Odare](https://open.spotify.com/track/4psCZB4Abc4Lf1bFed3krg)
-- [Moment Of Healing by w.ill](https://open.spotify.com/track/5QryxQfX9D6ARLlVdbrQo2)
+- [Make It Easy by Robby East, Lizzy Land](https://open.spotify.com/track/5309UdeptmNbeOV4iTw5nl)
+- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
+- [In My Eyes by Odare](https://open.spotify.com/track/3heGxV4Tjgjb5E3Qx5Blks)
+- [Don&#39;t Let Me Go by Lane 8, Arctic Lake](https://open.spotify.com/track/6bxHq66ka9XINFSpEYCkde)
+- [Hanami by Nora Van Elken](https://open.spotify.com/track/00VVzCN5KFvcMcGsFX3O7o)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
