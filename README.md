@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[hookdeck/outpost](https://github.com/hookdeck/outpost)** - Open Source Outbound Webhooks and Event Destinations Infrastructure (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Truth by Shallou](https://open.spotify.com/track/2Z2gj2b0aWREukQZtRGMR6)
+- [Daylight by mölly, Bridges](https://open.spotify.com/track/3Pi08C77jfcAjgvzHpgHYu)
 - [Follow the Sun by dusk:dawn, CLOVER](https://open.spotify.com/track/2yjcHBjwWbj7hWNFLohjSU)
 - [Read My Thoughts by Civet Cat](https://open.spotify.com/track/4zzmQTdvUQ15eH3TfQqEBd)
 - [Adíos! by André Aguado](https://open.spotify.com/track/0uyboVC4XZ3dfXEKZjNKgW)
-- [Drift by Jörd](https://open.spotify.com/track/4Vgc4ylpXrbTVbbBceCrVN)
-- [Wander by MXV, mölly, Courtney Storm](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
