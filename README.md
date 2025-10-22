@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[hookdeck/outpost](https://github.com/hookdeck/outpost)** - Open Source Outbound Webhooks and Event Destinations Infrastructure (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Milo&#39;s Breeze by Sum Wave](https://open.spotify.com/track/0dRkDLn2br5vver9AaGirB)
-- [Meant For You by TMPST, Maynørr, Bridges](https://open.spotify.com/track/70O3Jp4ikmGybskiEx4Pi3)
-- [After All This Time by Otherwish](https://open.spotify.com/track/6vrIHPz9KzOZYs7snydrJm)
-- [Bittersweetener by Duckmaw](https://open.spotify.com/track/1ErzC5Cace2XjJzbkDluK7)
-- [Hypnotized by Second Sun, Etza](https://open.spotify.com/track/7HozH1ZYWBEqfJsmEvlpVm)
+- [Stay the Night by RAZZ, EFA, Moody Violet](https://open.spotify.com/track/0PbUTx3YxxEMYPoY58ZERn)
+- [Feel so Alive by dvine](https://open.spotify.com/track/7GhRIpskQny9LbRGMaBqVL)
+- [Where You Go by Neascape](https://open.spotify.com/track/3ZrFPGpxyE1t5MLuLBHIrk)
+- [Dusk Till Dawn by HAK3N](https://open.spotify.com/track/6A6L7oTwerdVbn05F0BF76)
+- [Take Your Time (With Me) by Tim Enso](https://open.spotify.com/track/4lWgpTdWxVRwJhcZOW1mIJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
