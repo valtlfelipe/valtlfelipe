@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[hookdeck/outpost](https://github.com/hookdeck/outpost)** - Open Source Outbound Webhooks and Event Destinations Infrastructure (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [INFINITE by SoN](https://open.spotify.com/track/3soQNBnujuHVriffjZJ6jU)
+- [Something About Us. by ANDREWBATES](https://open.spotify.com/track/6kbUyGhW2SvmGvy2eHlEhL)
 - [Golden Hour by Attom](https://open.spotify.com/track/4NMD0T32YAIG1pKlnGW8FM)
 - [Give You My Love by JEVANA](https://open.spotify.com/track/5QP4EbRXAf7Y1P1zTQXEiu)
 - [Honest by just here., CLOVER](https://open.spotify.com/track/0LWPhTRMJfWF5AipqXDPFX)
-- [Always by Colin Stauber, YVMV](https://open.spotify.com/track/0FtrhaT95UcFH9VCiKh4G2)
-- [Vision by Saive](https://open.spotify.com/track/50uwBWX5qHTrE8vhkMEIB8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
