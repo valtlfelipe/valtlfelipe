@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula)** - A intuitive, lightweight web framework in C for building modern web applications (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Cold Sparks by Adam Rise](https://open.spotify.com/track/6R74CN0EywErukonQW5uVl)
-- [Halo by Jack Emery](https://open.spotify.com/track/3eyYwQ3il08EFvhJrcLKDN)
-- [No Echoes - Mees Salomé Remix by Estiva, Mees Salomé](https://open.spotify.com/track/5v3YS7PTe6UFrIkm8Tvkkh)
-- [Play Day by Oskarr Starr](https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw)
-- [Notre-dame by Triomphe](https://open.spotify.com/track/2HbIfGXrg2cyy8yVOoCJhB)
+- [Underneath The Light by Baked Moon, Mallou](https://open.spotify.com/track/6aOL7zUF8RK33gRyOgh9om)
+- [On A Mission by Felon, Jess Hayes](https://open.spotify.com/track/3qvf9mABpuuYtBcEtD1F0H)
+- [REAL LIFE by EMOCA, KHALIFI, Aidan Auci, Aziz Baker](https://open.spotify.com/track/5IWw83EL0g4ppWtGf94gu3)
+- [Caged by firstcoast., Courtney Storm](https://open.spotify.com/track/5XkSjfm3Hc8kQpA9yzH9F3)
+- [Teardrops by Why U So](https://open.spotify.com/track/44qyK0YHfZz9AngFaWmycU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
