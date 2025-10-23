@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula)** - A intuitive, lightweight web framework in C for building modern web applications (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [alive by Edannn, just nearby, bayme](https://open.spotify.com/track/65w7FcAoyaq0qpP8amE0tx)
+- [Dare to Dream by Passenger 10](https://open.spotify.com/track/2HtBRvMQIPlAx4QJtVssnp)
+- [Tomorrow&#39;s Sky by Approaching Black](https://open.spotify.com/track/3g0HJC70tDzOY61tzH3NN4)
+- [Way Back Home by sûr faire, CLOVER](https://open.spotify.com/track/3rcm3Dt7RflO0xRMv3ppve)
 - [Myla by Ophanim](https://open.spotify.com/track/7v4zSvvkbcS452oCn1cM04)
-- [Underneath The Light by Baked Moon, Mallou](https://open.spotify.com/track/6aOL7zUF8RK33gRyOgh9om)
-- [On A Mission by Felon, Jess Hayes](https://open.spotify.com/track/3qvf9mABpuuYtBcEtD1F0H)
-- [REAL LIFE by EMOCA, KHALIFI, Aidan Auci, Aziz Baker](https://open.spotify.com/track/5IWw83EL0g4ppWtGf94gu3)
-- [Caged by firstcoast., Courtney Storm](https://open.spotify.com/track/5XkSjfm3Hc8kQpA9yzH9F3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
