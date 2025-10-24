@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Nobody Knows - Belters Only Remix by Ape Drums, Clementine Douglas, Belters Only](https://open.spotify.com/track/1unlWf6dqVy71XhAdlMjH0)
-- [Exhale by T. Matthias, Alimish](https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1)
-- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
-- [My Love by Jethro Heston](https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp)
-- [Bits of Hope by NOTSOBAD, MA:RK](https://open.spotify.com/track/2fNGtLKkyg64a7cr5UkAiu)
+- [Mean to Me by YUMA, LissA](https://open.spotify.com/track/4b3DcCqrtubEnebf4lV7JD)
+- [Take Me Home by Nu Aspect, TCTS, RAHH](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA)
+- [All My Love by WILL K, Dark Dhalia](https://open.spotify.com/track/3T7r7lcohSGa9XRe3OigY4)
+- [Do You Know by Just Kiddin](https://open.spotify.com/track/4vL0opblJinx8hFKTjoIFV)
+- [Rushing by Cristoph, Jem Cooke](https://open.spotify.com/track/7vkwvDitDuDU2gSKCOqoEB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
