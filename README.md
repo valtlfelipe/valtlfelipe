@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Nobody Knows - Belters Only Remix by Ape Drums, Clementine Douglas, Belters Only](https://open.spotify.com/track/1unlWf6dqVy71XhAdlMjH0)
+- [Exhale by T. Matthias, Alimish](https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1)
+- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [My Love by Jethro Heston](https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp)
 - [Bits of Hope by NOTSOBAD, MA:RK](https://open.spotify.com/track/2fNGtLKkyg64a7cr5UkAiu)
-- [Strings Attached by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8)
-- [Surrender by DRAY](https://open.spotify.com/track/3KXXozoDcc8mRrFUIQIoC6)
-- [You&#39;re Makin&#39; Me High by DJ Katch, Amira Eldine](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA)
-- [Golden Hour by Attom](https://open.spotify.com/track/4NMD0T32YAIG1pKlnGW8FM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
