@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Howling by SOMMA](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO)
+- [Get Through This by Nathan C](https://open.spotify.com/track/4NkHMtDWqqfU9snFt7Ae6j)
+- [Reminds Me Of You by Hii Spirits, Rromarin](https://open.spotify.com/track/4WWdzgApSRfHVfKve4DqBx)
 - [Mean to Me by YUMA, LissA](https://open.spotify.com/track/4b3DcCqrtubEnebf4lV7JD)
 - [Take Me Home by Nu Aspect, TCTS, RAHH](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA)
-- [All My Love by WILL K, Dark Dhalia](https://open.spotify.com/track/3T7r7lcohSGa9XRe3OigY4)
-- [Do You Know by Just Kiddin](https://open.spotify.com/track/4vL0opblJinx8hFKTjoIFV)
-- [Rushing by Cristoph, Jem Cooke](https://open.spotify.com/track/7vkwvDitDuDU2gSKCOqoEB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
