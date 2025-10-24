@@ -3,10 +3,10 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (1 day ago)
-- **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 days ago)
+- **[stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (2 days ago)
+- **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (3 days ago)
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (1 week ago)
-- **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (1 week ago)
+- **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 - **[ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula)** - A intuitive, lightweight web framework in C for building modern web applications (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
