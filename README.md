@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Sweet Harmony by The Beloved](https://open.spotify.com/track/2iBQoV2OnmNJKso9B7nBy7)
-- [Baby, I Love Your Way by Big Mountain](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa)
-- [Stay (feat. Maty Noyes) by Kygo, Maty Noyes](https://open.spotify.com/track/7gBj0VgcuAgkXkiRRYvSmK)
-- [Good Life by OneRepublic](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4)
-- [Freedom! &#39;90 - Remastered by George Michael](https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5)
+- [Moon Rider (feat. Wrabel) - OTR Remix by Jai Wolf, OTR, WRABEL](https://open.spotify.com/track/2dJruelM5pKxBJbiDYGiG0)
+- [Seamount (Tritonia 521) by Klur](https://open.spotify.com/track/7uvRqoeHfu3xX9lE5GMqGh)
+- [The Moment by Surf Mesa, Stace Cadet](https://open.spotify.com/track/25XA7l8OJIirmdvhstQP5G)
+- [Forgive Me - Edit by Lexer](https://open.spotify.com/track/0Yi8VMYHyPH1wHAjjmGuKj)
+- [Stargazer by Mearzie](https://open.spotify.com/track/7hj4okSkY9ENWo6Alpnrul)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
