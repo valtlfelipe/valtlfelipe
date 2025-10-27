@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [YUKON by artcriminal, NOMADICS, Liv Grace Blue](https://open.spotify.com/track/5Z7ByAW8E0XCPAcobux5aH)
-- [a glance by starbend, moire](https://open.spotify.com/track/5NFtMYd7qyRS5btHcSnY0A)
-- [Arrival by Heard Right](https://open.spotify.com/track/6yKoaxutM0zThOlJF4oyKC)
-- [Sunset Driver by Lynnic](https://open.spotify.com/track/02L6IvnFVGxQUmsLVUTjYy)
-- [Afloat by Jörd](https://open.spotify.com/track/1hZQzGZcy0quSzYWx0AZXP)
+- [Rise - Extended Mix by Lynnic](https://open.spotify.com/track/6VJmwCYGpXtZoLSpXOjFGO)
+- [Tides Of Time (Tritonia 497) by w.ill](https://open.spotify.com/track/3zSzTPDYZbbcWiCjUn2oEm)
+- [Somebody Like You by Surf Mesa](https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT)
+- [Run Back by Rowland Giles](https://open.spotify.com/track/2ytME89XomtxnfTfttLoM9)
+- [Unbound by Klur, BJOERN](https://open.spotify.com/track/0R4xuGjgy9Ok3461DMAnDf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
