@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Moon Rider (feat. Wrabel) - OTR Remix by Jai Wolf, OTR, WRABEL](https://open.spotify.com/track/2dJruelM5pKxBJbiDYGiG0)
-- [Seamount (Tritonia 521) by Klur](https://open.spotify.com/track/7uvRqoeHfu3xX9lE5GMqGh)
-- [The Moment by Surf Mesa, Stace Cadet](https://open.spotify.com/track/25XA7l8OJIirmdvhstQP5G)
-- [Forgive Me - Edit by Lexer](https://open.spotify.com/track/0Yi8VMYHyPH1wHAjjmGuKj)
-- [Stargazer by Mearzie](https://open.spotify.com/track/7hj4okSkY9ENWo6Alpnrul)
+- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
+- [Into The Ocean by MALIAN, twocolouredman](https://open.spotify.com/track/5eY9jGygXyO5x1djxydy6e)
+- [Love Me by SNSE](https://open.spotify.com/track/75GCzd89lECW8q5mE3xVEC)
+- [Cocktail Dreams by Sum Wave](https://open.spotify.com/track/4fCl2HCJmauhUURMlvAWRF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
