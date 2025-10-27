@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
-- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
-- [Into The Ocean by MALIAN, twocolouredman](https://open.spotify.com/track/5eY9jGygXyO5x1djxydy6e)
-- [Love Me by SNSE](https://open.spotify.com/track/75GCzd89lECW8q5mE3xVEC)
-- [Cocktail Dreams by Sum Wave](https://open.spotify.com/track/4fCl2HCJmauhUURMlvAWRF)
+- [YUKON by artcriminal, NOMADICS, Liv Grace Blue](https://open.spotify.com/track/5Z7ByAW8E0XCPAcobux5aH)
+- [a glance by starbend, moire](https://open.spotify.com/track/5NFtMYd7qyRS5btHcSnY0A)
+- [Arrival by Heard Right](https://open.spotify.com/track/6yKoaxutM0zThOlJF4oyKC)
+- [Sunset Driver by Lynnic](https://open.spotify.com/track/02L6IvnFVGxQUmsLVUTjYy)
+- [Afloat by Jörd](https://open.spotify.com/track/1hZQzGZcy0quSzYWx0AZXP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
