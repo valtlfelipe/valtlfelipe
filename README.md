@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [I Don&#39;t Mind by Modera](https://open.spotify.com/track/2UG6VVbVRKItxSkQjJDgui)
-- [Getsumei by Nora Van Elken](https://open.spotify.com/track/3OkrcsCGU5xc96n1fVfj7z)
-- [Someone to Hold by Nu Aspect, Tudor](https://open.spotify.com/track/3ZxAvk6788NXvTsvl0qqEF)
-- [Watching Dreamscapes Passing By by Blugazer](https://open.spotify.com/track/1IRarwfOfmAMZiMRTUuQKY)
-- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
+- [Wanna Feel by Chris Luno, Ando K](https://open.spotify.com/track/2DvVC9YKOmiRz5FtpCFDQS)
+- [Crave You by Anto](https://open.spotify.com/track/7t5Xv3Qsm2RZth5Jny6ott)
+- [Málaga - Sax Edit by sundraze, Tobÿ](https://open.spotify.com/track/1t6sp06ptGtE3BqgJw39BE)
+- [Astray (ABGT650) - Mixed by Guy Didden, ALLKNIGHT](https://open.spotify.com/track/3tNPed8jy7HMn80DM2odXq)
+- [Running Back by Jyye, Julia Temos](https://open.spotify.com/track/1CFCcgPrNHShuYX6xjIjps)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
