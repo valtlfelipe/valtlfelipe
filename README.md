@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Mist - Extended Mix by VEHA](https://open.spotify.com/track/0ZvAgkISHK6JNBsDJ42rLz)
-- [Einar - Mixed by Blugazer, Seawayz](https://open.spotify.com/track/1X08MIFuhUyfX0c0nwSLwJ)
-- [Thoughts by No Koriander](https://open.spotify.com/track/78LPcwbCJCfUbOtBGDjAus)
-- [Cherish by Badflite](https://open.spotify.com/track/4ZYL4h2sQEWVBXoSuLcMEA)
-- [For You by Jerro, Otherwish](https://open.spotify.com/track/07hrk9dON2OJTGwNmF0EPL)
+- [I Don&#39;t Mind by Modera](https://open.spotify.com/track/2UG6VVbVRKItxSkQjJDgui)
+- [Getsumei by Nora Van Elken](https://open.spotify.com/track/3OkrcsCGU5xc96n1fVfj7z)
+- [Someone to Hold by Nu Aspect, Tudor](https://open.spotify.com/track/3ZxAvk6788NXvTsvl0qqEF)
+- [Watching Dreamscapes Passing By by Blugazer](https://open.spotify.com/track/1IRarwfOfmAMZiMRTUuQKY)
+- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
