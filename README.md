@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
+- [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
+- [Sweet Harmony by The Beloved](https://open.spotify.com/track/2iBQoV2OnmNJKso9B7nBy7)
+- [Erase Me - Radio Mix by Anto, Lyle M](https://open.spotify.com/track/4ShXwskjzmFPM8yEKJCkw3)
 - [Colors by Verbala](https://open.spotify.com/track/0jZwlCZ1GJxmXJy3KdtbBG)
-- [Into The Ocean - Lynnic &amp; ItsArius Remix by MALIAN, Lynnic, ItsArius](https://open.spotify.com/track/3AmcDenpbtv714CSQ8DfiZ)
-- [Encryption (Tritonia 521) by Klur](https://open.spotify.com/track/5Ru2EThfFhfQ0VKvcdyLdE)
-- [Rise by Lynnic](https://open.spotify.com/track/3uBy64hFwBlmt48c2xnUlg)
-- [Moment Of Healing by w.ill](https://open.spotify.com/track/5QryxQfX9D6ARLlVdbrQo2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
