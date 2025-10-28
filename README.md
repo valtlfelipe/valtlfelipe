@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Close To Me by Dale Howard](https://open.spotify.com/track/6y5LexCWlXz46m0bVwRweD)
-- [only you by offrails, Jonny Kings](https://open.spotify.com/track/1kVzUlo2gqcLwQzKU8fdHj)
-- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
-- [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
-- [Sweet Harmony by The Beloved](https://open.spotify.com/track/2iBQoV2OnmNJKso9B7nBy7)
+- [Lifeline by Lstn](https://open.spotify.com/track/6SeUFF5wRJn5MxzrWvpLYt)
+- [Away - Two Lanes Remix by Benji Lewis, TWO LANES](https://open.spotify.com/track/5Bzpl53QoCQTGKcIFeEDWv)
+- [4 U by terro](https://open.spotify.com/track/5FGfkNELCBTUPjQVDsQCLt)
+- [home back by No Koriander](https://open.spotify.com/track/62F3f2WbDrYCWarzhBSLsP)
+- [Worlds Apart - PROFF Remix by Shingo Nakamura, Warung, PROFF](https://open.spotify.com/track/11vdTubFrrMporME9bLiib)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
