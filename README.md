@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Wanna Feel by Chris Luno, Ando K](https://open.spotify.com/track/2DvVC9YKOmiRz5FtpCFDQS)
-- [Crave You by Anto](https://open.spotify.com/track/7t5Xv3Qsm2RZth5Jny6ott)
-- [Málaga - Sax Edit by sundraze, Tobÿ](https://open.spotify.com/track/1t6sp06ptGtE3BqgJw39BE)
-- [Astray (ABGT650) - Mixed by Guy Didden, ALLKNIGHT](https://open.spotify.com/track/3tNPed8jy7HMn80DM2odXq)
-- [Running Back by Jyye, Julia Temos](https://open.spotify.com/track/1CFCcgPrNHShuYX6xjIjps)
+- [Colors by Verbala](https://open.spotify.com/track/0jZwlCZ1GJxmXJy3KdtbBG)
+- [Into The Ocean - Lynnic &amp; ItsArius Remix by MALIAN, Lynnic, ItsArius](https://open.spotify.com/track/3AmcDenpbtv714CSQ8DfiZ)
+- [Encryption (Tritonia 521) by Klur](https://open.spotify.com/track/5Ru2EThfFhfQ0VKvcdyLdE)
+- [Rise by Lynnic](https://open.spotify.com/track/3uBy64hFwBlmt48c2xnUlg)
+- [Moment Of Healing by w.ill](https://open.spotify.com/track/5QryxQfX9D6ARLlVdbrQo2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
