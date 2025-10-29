@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Cold Light - 6am Remix by KC Lights, Leo Stannard](https://open.spotify.com/track/6BRsln8RDWDl91YmJpCYxY)
-- [Orange Clouds by Guy Didden](https://open.spotify.com/track/3v8CbIi4uBw6O1F2D7PWuu)
-- [Fine Line by Solayne, Nina Carr](https://open.spotify.com/track/1Zs00RxHcTA6BhoGSm7tI0)
-- [Marea Turquesa by Flexible Fire](https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc)
-- [all that matters by first sun](https://open.spotify.com/track/1g2ae8JoYgPuYN13mqks54)
+- [Big Sky by Jack Willard](https://open.spotify.com/track/1yv6MpP9hHtPnoxkNGVnUw)
+- [Somebody Like You by Surf Mesa](https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT)
+- [Unbound by TOMB](https://open.spotify.com/track/7Ga0UUOoWhScCqfsIBZcS1)
+- [Light Of Day - Parra for Cuva Remix by ODESZA, Ólafur Arnalds, Parra for Cuva](https://open.spotify.com/track/6f8gNNCNSveUl4gxt7tzp0)
+- [Cyan by Flexible Fire, Etza](https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
