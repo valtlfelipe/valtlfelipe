@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [VIBE by Chris Keya, TRISHUL, Afrodisiac](https://open.spotify.com/track/4pGqc5VVeFcB4ZyQFXP1fN)
-- [Smile by A.M.R](https://open.spotify.com/track/3cQ2pYZrrqTUVqrzPMDRoX)
-- [Hope by Forty Cats, Ra5im](https://open.spotify.com/track/1a0SYFyOM3Vr1EEm77W2k5)
-- [Stuck On You by DJ MorpheuZ, Music Total, Jeremie](https://open.spotify.com/track/2TaKvXbDSKYh1X2vuNktsW)
-- [dreaming, falling by floare, spaziocorrente](https://open.spotify.com/track/1EYEXLK5HREmX5wGzr5iZ4)
+- [Cold Light - 6am Remix by KC Lights, Leo Stannard](https://open.spotify.com/track/6BRsln8RDWDl91YmJpCYxY)
+- [Orange Clouds by Guy Didden](https://open.spotify.com/track/3v8CbIi4uBw6O1F2D7PWuu)
+- [Fine Line by Solayne, Nina Carr](https://open.spotify.com/track/1Zs00RxHcTA6BhoGSm7tI0)
+- [Marea Turquesa by Flexible Fire](https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc)
+- [all that matters by first sun](https://open.spotify.com/track/1g2ae8JoYgPuYN13mqks54)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
