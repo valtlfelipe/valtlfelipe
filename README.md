@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [Run Back by Rowland Giles](https://open.spotify.com/track/2ytME89XomtxnfTfttLoM9)
 - [La Cumbre by Flexible Fire](https://open.spotify.com/track/1qgR8XYlajv6y09cskZQcV)
 - [Leave You by Einmusik, Lexer, Jyll](https://open.spotify.com/track/3p1j9R2oZG7GG9OtJxphWX)
 - [I Never Leave You Alone by Roads We Walk, Sha7an](https://open.spotify.com/track/3kCp4w7RjbKcLh8fJoPwiw)
-- [Erase Me by Anto, Lyle M](https://open.spotify.com/track/3JVZoAQ0UMf1Qft4vkPcL2)
-- [Swimming - Mixed by VEHA](https://open.spotify.com/track/4v8armtgbQYp4aXLoRcN2u)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
