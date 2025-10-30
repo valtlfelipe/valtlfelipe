@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [How to Save a Life by The Fray](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J)
-- [Complicated by Avril Lavigne](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F)
-- [Like A G6 by Far East Movement, The Cataracs, DEV](https://open.spotify.com/track/5AyL2kgLtTWEu3qO3B9SqK)
-- [Say OK by Vanessa Hudgens](https://open.spotify.com/track/73qbBlEAcm2HfnAaSnP1II)
-- [The Reason by Hoobastank](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY)
+- [Always On Time by Ja Rule, Ashanti](https://open.spotify.com/track/2hNf1rawV2XAZ6Jld2Fxwf)
+- [Dilemma by Nelly, Kelly Rowland](https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM)
+- [Want to Want Me by Jason Derulo](https://open.spotify.com/track/6zKrj4SomgfbvsfuTAuElE)
+- [Hey Ya! by Outkast](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM)
+- [Anything by The Calling](https://open.spotify.com/track/0oKngZDxhD0icerKIj0IBf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
