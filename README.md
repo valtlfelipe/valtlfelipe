@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [All I Ever See by Voldea](https://open.spotify.com/track/5JK8DJmtbFkfIRJVqjDDEc)
-- [Looking Back by Echonaut](https://open.spotify.com/track/4CEzXTbeyfSulXqjH0h8qj)
-- [Oh LE by Baila Curry](https://open.spotify.com/track/6LASObpXmX37Fa4LcWlAfP)
-- [Hypnotica - Radio-Edit by Lynnic, Neil Richter](https://open.spotify.com/track/6rsaNBtww99lyAfRCcRafl)
-- [In Time by Verbala](https://open.spotify.com/track/6zC6bTpBp0LrWTSYMKDTKK)
+- [Hotel California - Live On MTV, 1994 by Eagles](https://open.spotify.com/track/2GpBrAoCwt48fxjgjlzMd4)
+- [Wide Awake by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/3VMpFBqmPfuVp9LH7TvKOh)
+- [Like Home by Robby East](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A)
+- [Flash Pattern - Extended Mix by YOTTO](https://open.spotify.com/track/0Rc6PG6Swv7c9SUZVLw2WR)
+- [More Than I Should by Dizaro, Nyday](https://open.spotify.com/track/1PcO74Vd357bqju14pWi8J)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
