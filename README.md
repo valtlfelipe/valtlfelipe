@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [How You Remind Me by Nickelback](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf)
-- [Upside Down by Jack Johnson](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ)
-- [Hey Oh - Radio Edit by Tragédie](https://open.spotify.com/track/15RB3lFt2Mhc16m5fTTYkh)
-- [So Sick by Ne-Yo](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT)
-- [Where Is The Love? by Black Eyed Peas](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ)
+- [How to Save a Life by The Fray](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J)
+- [Complicated by Avril Lavigne](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F)
+- [Like A G6 by Far East Movement, The Cataracs, DEV](https://open.spotify.com/track/5AyL2kgLtTWEu3qO3B9SqK)
+- [Say OK by Vanessa Hudgens](https://open.spotify.com/track/73qbBlEAcm2HfnAaSnP1II)
+- [The Reason by Hoobastank](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
