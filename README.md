@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [One by U2](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU)
-- [Un-Break My Heart by Toni Braxton](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB)
-- [Shape Of My Heart by Sting](https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH)
-- [Under the Bridge by Red Hot Chili Peppers](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0)
-- [Killing Me Softly With His Song by Fugees, Ms. Lauryn Hill](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl)
+- [How You Remind Me by Nickelback](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf)
+- [Upside Down by Jack Johnson](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ)
+- [Hey Oh - Radio Edit by Tragédie](https://open.spotify.com/track/15RB3lFt2Mhc16m5fTTYkh)
+- [So Sick by Ne-Yo](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT)
+- [Where Is The Love? by Black Eyed Peas](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
