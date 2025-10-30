@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgEdge/spock](https://github.com/pgEdge/spock)** - Logical multi-master PostgreSQL replication (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Always On Time by Ja Rule, Ashanti](https://open.spotify.com/track/2hNf1rawV2XAZ6Jld2Fxwf)
-- [Dilemma by Nelly, Kelly Rowland](https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM)
-- [Want to Want Me by Jason Derulo](https://open.spotify.com/track/6zKrj4SomgfbvsfuTAuElE)
-- [Hey Ya! by Outkast](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM)
-- [Anything by The Calling](https://open.spotify.com/track/0oKngZDxhD0icerKIj0IBf)
+- [Sexy Love by Ne-Yo](https://open.spotify.com/track/10aWGOqSDBqvNzJ9NeKDbK)
+- [Promiscuous by Nelly Furtado, Timbaland](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN)
+- [Drop It Like It&#39;s Hot by Snoop Dogg, Pharrell Williams](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO)
+- [Wonderful by Ja Rule, R. Kelly, Ashanti](https://open.spotify.com/track/1bl99Q4umnPomYGv3dQP67)
+- [Get Right by Jennifer Lopez](https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
