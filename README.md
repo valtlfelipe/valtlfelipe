@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Love Bites by Def Leppard](https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz)
+- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
 - [Love Cost by Zach Golden, QBSmith](https://open.spotify.com/track/50OkYBKaEf9H4apzq5opHj)
 - [Aloha by Møme, Merryn Jeann](https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0)
 - [Take Me Higher by BLR, NBLM](https://open.spotify.com/track/4kDyJVeJYDe1rJ8yQY2Dal)
-- [Feel the Love (feat. John Newman) - Radio Edit by Rudimental, John Newman](https://open.spotify.com/track/5crHvEPQ13FbQGQSscm5Ns)
-- [I Remember - John Summit Remix by deadmau5, Kaskade, John Summit](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
