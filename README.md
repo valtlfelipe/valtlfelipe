@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [China In Your Hand by T&#39;Pau](https://open.spotify.com/track/0ow5yxh0ouMJ0om8EyEt8P)
-- [What&#39;s Love Got to Do with It by Tina Turner](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br)
-- [Angel Of The Morning by Juice Newton](https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva)
-- [Beautiful Boy (Darling Boy) - 2010 Remastered by John Lennon](https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx)
-- [Can&#39;t Fight This Feeling by REO Speedwagon](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse)
+- [Baby, Come To Me by Patti Austin](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4)
+- [Everything I Own by Boy George](https://open.spotify.com/track/1ZgEpCLk5sQcwMSpIpGfiQ)
+- [Sweet Sixteen - Remastered 2001 by Billy Idol](https://open.spotify.com/track/3kyW3qviTr2dIyvqa1lEWC)
+- [How Am I Supposed to Live Without You by Michael Bolton](https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz)
+- [Don&#39;t Break My Heart by UB40](https://open.spotify.com/track/5uFvdXnqas4nZtQUb3mwTv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
