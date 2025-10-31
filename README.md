@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Far Away by Nickelback](https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl)
-- [Girlfriend - Pied Piper Remix by B2K, R. Kelly, Ron G](https://open.spotify.com/track/4GaNRPAcU6A7CC4BuHMTyk)
-- [Sexy Love by Ne-Yo](https://open.spotify.com/track/10aWGOqSDBqvNzJ9NeKDbK)
-- [Promiscuous by Nelly Furtado, Timbaland](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN)
-- [Drop It Like It&#39;s Hot by Snoop Dogg, Pharrell Williams](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO)
+- [Whatcha Say by Jason Derulo](https://open.spotify.com/track/7xkQdy0cy5ymoWT7nedvLz)
+- [Sex on Fire by Kings of Leon](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45)
+- [What Goes Around.../...Comes Around (Interlude) by Justin Timberlake](https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey)
+- [In My Place by Coldplay](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah)
+- [Thank You by Dido](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
