@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [I Remember - John Summit Remix by deadmau5, Kaskade, John Summit](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz)
+- [Blame (feat. John Newman) by Calvin Harris, John Newman](https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn)
 - [Rivers by Thomas Jack](https://open.spotify.com/track/3NBDgwEAGMj0aKRsU8zoO9)
 - [Blow You Up (feat. AlunaGeorge &amp; Less Is Moore) by Yogi, AlunaGeorge, Less Is Moore](https://open.spotify.com/track/0MpuMMLaWGLYHC9MxKc3VH)
 - [Over &amp; Over by Deekey, MOORAD, Nathan Brumley](https://open.spotify.com/track/47Ca74wVapLcHR2RMrqduY)
-- [Impossible (feat. John Martin) by David Guetta, MORTEN, John Martin](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y)
-- [Never Say Never - Extended Mix by Basement Jaxx](https://open.spotify.com/track/42suZFjDtBbl9sESKm4oj2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
