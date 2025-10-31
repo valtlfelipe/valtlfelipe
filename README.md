@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Mirrors by Justin Timberlake](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV)
-- [Me &amp; U by Cassie](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT)
-- [Bring Me To Life by Evanescence](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp)
-- [All Good Things (Come To An End) by Nelly Furtado](https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1)
-- [My Love (feat. T.I.) by Justin Timberlake, T.I.](https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL)
+- [Rivers by Thomas Jack](https://open.spotify.com/track/3NBDgwEAGMj0aKRsU8zoO9)
+- [Blow You Up (feat. AlunaGeorge &amp; Less Is Moore) by Yogi, AlunaGeorge, Less Is Moore](https://open.spotify.com/track/0MpuMMLaWGLYHC9MxKc3VH)
+- [Over &amp; Over by Deekey, MOORAD, Nathan Brumley](https://open.spotify.com/track/47Ca74wVapLcHR2RMrqduY)
+- [Impossible (feat. John Martin) by David Guetta, MORTEN, John Martin](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y)
+- [Never Say Never - Extended Mix by Basement Jaxx](https://open.spotify.com/track/42suZFjDtBbl9sESKm4oj2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
