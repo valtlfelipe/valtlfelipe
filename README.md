@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Love Bites by Def Leppard](https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz)
-- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
-- [Love Cost by Zach Golden, QBSmith](https://open.spotify.com/track/50OkYBKaEf9H4apzq5opHj)
-- [Aloha by Møme, Merryn Jeann](https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0)
-- [Take Me Higher by BLR, NBLM](https://open.spotify.com/track/4kDyJVeJYDe1rJ8yQY2Dal)
+- [China In Your Hand by T&#39;Pau](https://open.spotify.com/track/0ow5yxh0ouMJ0om8EyEt8P)
+- [What&#39;s Love Got to Do with It by Tina Turner](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br)
+- [Angel Of The Morning by Juice Newton](https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva)
+- [Beautiful Boy (Darling Boy) - 2010 Remastered by John Lennon](https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx)
+- [Can&#39;t Fight This Feeling by REO Speedwagon](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
