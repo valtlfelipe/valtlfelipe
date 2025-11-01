@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Fine Fine Baby (with Kah-Lo) by Jamie Jones, Kah-Lo](https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO)
-- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
-- [Sierra by Argy, Baset](https://open.spotify.com/track/1B7BRFwQJL3LvD5UA4iHpx)
-- [See It As A Sign by Carlita, Myd](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o)
-- [Tell Me What You Want by Oden &amp; Fatzo, Poppy Baskcomb](https://open.spotify.com/track/7pPMx57fvpINMYGE0eZFhp)
+- [Creep by GAMPER &amp; DADONI](https://open.spotify.com/track/6KtHzurc7we1i8WbdbDpJD)
+- [Turn Up The Love by Claptone, Crystal Fighters](https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [Riptide by TWOPILOTS](https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C)
+- [I Got U by Duke Dumont, Jax Jones](https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
