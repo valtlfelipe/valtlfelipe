@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Creep by GAMPER &amp; DADONI](https://open.spotify.com/track/6KtHzurc7we1i8WbdbDpJD)
-- [Turn Up The Love by Claptone, Crystal Fighters](https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [Riptide by TWOPILOTS](https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C)
-- [I Got U by Duke Dumont, Jax Jones](https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV)
+- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
+- [True by CYRIL, Kita Alexander](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm)
+- [Bloom (Brendan Mills Remix) by Lucas Estrada, TWOPILOTS, Brendan Mills](https://open.spotify.com/track/18IP0JyVbV7ignrEW0HyNR)
+- [Fast Car by Jonas Blue, Dakota](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p)
+- [Ocean Drive by Duke Dumont](https://open.spotify.com/track/4b93D55xv3YCH5mT4p6HPn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
