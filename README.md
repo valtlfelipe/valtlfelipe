@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Englishman In New York by Sting](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp)
-- [Baby Can I Hold You by Tracy Chapman](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F)
-- [Holding Back the Years - 2008 Remaster by Simply Red](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ)
-- [That&#39;s What Friends Are For (with Elton John, Gladys Knight &amp; Stevie Wonder) by Dionne Warwick, Elton John, Gladys Knight, Stevie Wonder](https://open.spotify.com/track/1OzrlK57iLTIjmbZC1ppWM)
-- [It&#39;s Only Love - 2008 Remaster by Simply Red](https://open.spotify.com/track/6i1uWZYWabNHq2wQnoca58)
+- [Fine Fine Baby (with Kah-Lo) by Jamie Jones, Kah-Lo](https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO)
+- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
+- [Sierra by Argy, Baset](https://open.spotify.com/track/1B7BRFwQJL3LvD5UA4iHpx)
+- [See It As A Sign by Carlita, Myd](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o)
+- [Tell Me What You Want by Oden &amp; Fatzo, Poppy Baskcomb](https://open.spotify.com/track/7pPMx57fvpINMYGE0eZFhp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
