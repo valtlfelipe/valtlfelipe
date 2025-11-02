@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Wonderwall - Remastered by Oasis](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa)
-- [Wish I Could Fly by Roxette](https://open.spotify.com/track/6F1ZirVF5m1UHEiWv8A7fw)
-- [My Love Is Your Love by Whitney Houston](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ)
-- [All for Love by Rod Stewart](https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV)
-- [Drive by R.E.M.](https://open.spotify.com/track/3geRffSf6eAruhg23RkpKV)
+- [Get It On by T. Rex](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF)
+- [Thank You by Dido](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l)
+- [Shape Of My Heart by Sting](https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH)
+- [Thank You by Dido](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l)
+- [Kiss from a Rose by Seal](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
