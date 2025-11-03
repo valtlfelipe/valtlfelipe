@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Over Now by LNDRS, CUBY, R eyes](https://open.spotify.com/track/4a36WHg2GZUU9mL8MwP3fo)
-- [Faded by ZHU](https://open.spotify.com/track/0zL9dieoCcjBWV01y73Cj1)
-- [Sweet Child O&#39; Mine by Guns N&#39; Roses](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW)
-- [Enter Sandman - Remastered 2021 by Metallica](https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q)
-- [Californication by Red Hot Chili Peppers](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox)
+- [Saltwater (FYH434) by Claptone, Chicane, Moya Brennan](https://open.spotify.com/track/2u0Mt7nDHK2FswWjcpNCYb)
+- [Are You by Sons Of Maria](https://open.spotify.com/track/5SfQmmOQp5Id17CnInfHp8)
+- [Be So Cold by LAR, Chris Savor](https://open.spotify.com/track/1lTyq9RWS2Zl4kjZfQJLpR)
+- [Sleepless by Lust.](https://open.spotify.com/track/5wzpq1NV4T8tGMmAaZR0B4)
+- [Hold Me by CLÜE](https://open.spotify.com/track/4UG79UQK3QVzaXvAVR2N2k)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
