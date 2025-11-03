@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Saltwater (FYH434) by Claptone, Chicane, Moya Brennan](https://open.spotify.com/track/2u0Mt7nDHK2FswWjcpNCYb)
-- [Are You by Sons Of Maria](https://open.spotify.com/track/5SfQmmOQp5Id17CnInfHp8)
-- [Be So Cold by LAR, Chris Savor](https://open.spotify.com/track/1lTyq9RWS2Zl4kjZfQJLpR)
-- [Sleepless by Lust.](https://open.spotify.com/track/5wzpq1NV4T8tGMmAaZR0B4)
-- [Hold Me by CLÜE](https://open.spotify.com/track/4UG79UQK3QVzaXvAVR2N2k)
+- [I Choose You by TMPST, Maynørr, Donner](https://open.spotify.com/track/3HB71BvCcDKmRcsuz7PAv7)
+- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
+- [Release The Brake by Dizaro, Lewyn](https://open.spotify.com/track/0mxovgy84fI7JTx5pHhkAJ)
+- [Right Here - Beatrice Dupont Remix by Mintd, Mesa &amp; Boss, Béatrice Dupont](https://open.spotify.com/track/6sh0T0i4yT13ADcQwuErfi)
+- [Silhouettes (feat. Poppy Baskcomb) by Sonny Fodera, Poppy Baskcomb](https://open.spotify.com/track/7tD6LnkidZjXqWk9ZUYHnd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
