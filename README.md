@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [That&#39;s So True by Cupido](https://open.spotify.com/track/3kxcjujR0wQfRSTqxciDYj)
-- [The Awakening - 2020 Edit by YORK, Scot &amp; Millfield](https://open.spotify.com/track/1oOOiIOR4OXntHkpSvytwb)
-- [Divine by terro, Etza](https://open.spotify.com/track/4ABLw6QdTVWy6WVAbPWMYA)
-- [Jungle by The kid in blue](https://open.spotify.com/track/4OjdjSC3daLXsixkIU4FGM)
-- [Polarization by Melosense](https://open.spotify.com/track/21WFhBGBhcozF2sJ41EjEh)
+- [By My Side by NORRA](https://open.spotify.com/track/7iK7y2VeYKs3fo5hUZKl7e)
+- [Heavy - Chill Mix by LuvLess, Freddie Mudge](https://open.spotify.com/track/5hz0k2dAqlB8xkiRw4tpmJ)
+- [You Give Me Something by Amani Amara](https://open.spotify.com/track/0rbPl0K6VJlatwaitzPjwh)
+- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
+- [Away From Here by Melosense](https://open.spotify.com/track/1nR5Jw4jq8XLJPhY1iLVh9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
