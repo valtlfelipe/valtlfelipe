@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Over Now by LNDRS, CUBY, R eyes](https://open.spotify.com/track/4a36WHg2GZUU9mL8MwP3fo)
+- [Faded by ZHU](https://open.spotify.com/track/0zL9dieoCcjBWV01y73Cj1)
 - [Sweet Child O&#39; Mine by Guns N&#39; Roses](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW)
 - [Enter Sandman - Remastered 2021 by Metallica](https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q)
 - [Californication by Red Hot Chili Peppers](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox)
-- [Get It On by T. Rex](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF)
-- [Thank You by Dido](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
