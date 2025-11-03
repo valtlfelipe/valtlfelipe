@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Right Time by NORRA](https://open.spotify.com/track/4MiqMCkdCbEKHJkEW0DaLu)
-- [Falls by Che-Yung](https://open.spotify.com/track/3UwMQhLOWiddOoT1YdimtG)
-- [Breathe by Anton Kling](https://open.spotify.com/track/7CrkhgZWxoWkw4kXkHGtm4)
-- [You Don&#39;t Mind by Mike Mana](https://open.spotify.com/track/7setdIoyZUzE5VBb2WBfyC)
-- [Moments by Melosense](https://open.spotify.com/track/0BVCCuHQTb2z2XPbNIukLM)
+- [Pale Blue - Andromedha Remix by A.M.R, Andromedha](https://open.spotify.com/track/6wPDYtYqUweSYpaXwp2OPT)
+- [Slow Motion by Exit Coda, Jennisan](https://open.spotify.com/track/1YWjU3cZwoyBCYQhxFOBeJ)
+- [Golden by Klama](https://open.spotify.com/track/6gdgUTJQcYtSBrPQQhToVw)
+- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
+- [Troubled Water by Panuma, blaank, birø, Idun Nicoline](https://open.spotify.com/track/4wsnIQl5IXJnf7UxFIJsFX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
