@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Botanica by fwd/slash](https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs)
-- [Scent of Wood - Bound to Divide Remix by UOAK, Ceci, Bound to Divide](https://open.spotify.com/track/7hB5XhraRlHeAE5ONIcSWY)
-- [Falling Off by Shingo Nakamura](https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au)
-- [Make Me Feel Like (Don&#39;t Nobody Else) by NORRA](https://open.spotify.com/track/4oLNiCIVvGyoUt219VAshi)
-- [Pale Blue by A.M.R](https://open.spotify.com/track/4g7AKQPyJE7o1Oa3thtOUm)
+- [Marea Turquesa by Flexible Fire](https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc)
+- [Solitude by Naws](https://open.spotify.com/track/0Sb18ey0LU9n4DS5mliToi)
+- [Love U - Extended Mix by NORRA](https://open.spotify.com/track/41VryQZTir3ZsoehN3nUv3)
+- [Whenever by P.A.V](https://open.spotify.com/track/09AjysGQs2BsWowsMwrHUr)
+- [Be Somebody by Midnight Pass](https://open.spotify.com/track/7vaJ4jJfxQVoJOGujY8xOS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
