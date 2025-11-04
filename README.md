@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Floating by Golowko, MBP, Alicee](https://open.spotify.com/track/5QvokVJipC39PQcG7uN44v)
-- [Pale Blue - Andromedha Remix by A.M.R, Andromedha](https://open.spotify.com/track/6wPDYtYqUweSYpaXwp2OPT)
-- [Slow Motion by Exit Coda, Jennisan](https://open.spotify.com/track/1YWjU3cZwoyBCYQhxFOBeJ)
-- [Golden by Klama](https://open.spotify.com/track/6gdgUTJQcYtSBrPQQhToVw)
-- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
+- [Now You&#39;re Gone by ARTO](https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW)
+- [Dawn by Tim Enso](https://open.spotify.com/track/5rU3OiL1ShYr9ikaB2sTKZ)
+- [Feels The Same by Dallien, RVPTR, RVZE](https://open.spotify.com/track/2i5WXSxVuJFJbn6dAKLEnk)
+- [Hear My Call by H:dn](https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW)
+- [Leave U Here by Sebastian Davidson, Melosense](https://open.spotify.com/track/1PitUEpajJb3g3zLpJHp0c)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
