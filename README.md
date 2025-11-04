@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Floating by Golowko, MBP, Alicee](https://open.spotify.com/track/5QvokVJipC39PQcG7uN44v)
 - [Pale Blue - Andromedha Remix by A.M.R, Andromedha](https://open.spotify.com/track/6wPDYtYqUweSYpaXwp2OPT)
 - [Slow Motion by Exit Coda, Jennisan](https://open.spotify.com/track/1YWjU3cZwoyBCYQhxFOBeJ)
 - [Golden by Klama](https://open.spotify.com/track/6gdgUTJQcYtSBrPQQhToVw)
 - [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
-- [Troubled Water by Panuma, blaank, birø, Idun Nicoline](https://open.spotify.com/track/4wsnIQl5IXJnf7UxFIJsFX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
