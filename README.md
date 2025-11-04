@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Botanica by fwd/slash](https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs)
+- [Scent of Wood - Bound to Divide Remix by UOAK, Ceci, Bound to Divide](https://open.spotify.com/track/7hB5XhraRlHeAE5ONIcSWY)
 - [Falling Off by Shingo Nakamura](https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au)
 - [Make Me Feel Like (Don&#39;t Nobody Else) by NORRA](https://open.spotify.com/track/4oLNiCIVvGyoUt219VAshi)
 - [Pale Blue by A.M.R](https://open.spotify.com/track/4g7AKQPyJE7o1Oa3thtOUm)
-- [Leave You by Einmusik, Lexer, Jyll](https://open.spotify.com/track/3p1j9R2oZG7GG9OtJxphWX)
-- [I Don&#39;t Wanna Go by Cordeliers](https://open.spotify.com/track/0naSOB1o1Co9dFQsPH1vvZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
