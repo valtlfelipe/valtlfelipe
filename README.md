@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
+- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
+- [Happy Ever After by nømad, Mallou, Juli Mala](https://open.spotify.com/track/63Kz2BnkduF7yFEc6dzb5a)
 - [Want by Areo](https://open.spotify.com/track/7LKv3rZaSG2YJ1sopzDcJp)
 - [Always by LuvLess](https://open.spotify.com/track/6NXgFe04IN78UyvAlISZ46)
-- [Lost In Gruvv - Extended Mix by Melosense](https://open.spotify.com/track/6eedkvPYmDdjTlWrt3SjSL)
-- [Going Under by Darking On](https://open.spotify.com/track/2JaNrKsTNCJl3RUSsIKcMT)
-- [connection by nineveh.](https://open.spotify.com/track/47NgFpkO3RiYsPZgJOl79H)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
