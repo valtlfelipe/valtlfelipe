@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Move by Cupido](https://open.spotify.com/track/47MLcydmEyKAsnH0lVOEfU)
-- [Be So Cold by LAR, Chris Savor](https://open.spotify.com/track/1lTyq9RWS2Zl4kjZfQJLpR)
-- [Walk by vidi roca, Giorgio Gee](https://open.spotify.com/track/47ioXOdiQfKwD9ww1cYGTH)
-- [Thank You by Dido](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l)
-- [Floating by Massane](https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1)
+- [Cove by Massane](https://open.spotify.com/track/5MDkD03ZUsDgLVa2CuxovD)
+- [Hold on Tight by Piece Wise, ASTIR, ALSO ASTIR](https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO)
+- [Coming Home - Piece Wise Remix by Bound to Divide, Lewyn, Piece Wise](https://open.spotify.com/track/6htFwwNUkg67OasDBXZeHi)
+- [On My Own by dusk:dawn](https://open.spotify.com/track/39vJcIx2GmmxVmDyZLSaqR)
+- [Blooming - Mixed by Alex Breitling](https://open.spotify.com/track/5yAttk0cKFRSSjjSG1xvHL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
