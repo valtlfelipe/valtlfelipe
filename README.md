@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Be So Cold by LAR, Chris Savor](https://open.spotify.com/track/1lTyq9RWS2Zl4kjZfQJLpR)
+- [Walk by vidi roca, Giorgio Gee](https://open.spotify.com/track/47ioXOdiQfKwD9ww1cYGTH)
+- [Thank You by Dido](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l)
 - [Floating by Massane](https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1)
 - [Raining by terro, Eijk, Courtney Storm](https://open.spotify.com/track/4wDLESPxtKUMvWWEzBFxW5)
-- [Sunlight by Flexible Fire, Etza](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx)
-- [Follow the Sun by dusk:dawn, CLOVER](https://open.spotify.com/track/2yjcHBjwWbj7hWNFLohjSU)
-- [Gravity Bends by Light Chaser, Tep No](https://open.spotify.com/track/2ZEePX78Hp3SZIUvzbI300)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
