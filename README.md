@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Can&#39;t Replace You by Melosense](https://open.spotify.com/track/2hF8PIGeIqcSIwGlQCwpwo)
+- [Meant For You by TMPST, Maynørr, Bridges](https://open.spotify.com/track/70O3Jp4ikmGybskiEx4Pi3)
+- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
+- [Ah Up by Sound Quelle](https://open.spotify.com/track/0pbZX9CK1W2iIiUFJf39wr)
 - [Marea Turquesa by Flexible Fire](https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc)
-- [Solitude by Naws](https://open.spotify.com/track/0Sb18ey0LU9n4DS5mliToi)
-- [Love U - Extended Mix by NORRA](https://open.spotify.com/track/41VryQZTir3ZsoehN3nUv3)
-- [Whenever by P.A.V](https://open.spotify.com/track/09AjysGQs2BsWowsMwrHUr)
-- [Be Somebody by Midnight Pass](https://open.spotify.com/track/7vaJ4jJfxQVoJOGujY8xOS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
