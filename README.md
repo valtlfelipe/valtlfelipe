@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [You Know Me by Odare](https://open.spotify.com/track/0pDUiglcDHXeS2gJ8cUCi8)
-- [imprint by Kaskade, Courtney Storm](https://open.spotify.com/track/3L0h00fEoCLUU5bEJCezve)
-- [Novae by Massane](https://open.spotify.com/track/50dON9WkhCG2XNpbGJN5fu)
-- [Dämmerung by JAS1X, Golowko](https://open.spotify.com/track/7pw2Dk1iVAl5z2aoNzN3y6)
+- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
+- [Polarization - Extended Mix by Melosense](https://open.spotify.com/track/1QpxJX7FX0vvX3vT6ck0Yl)
+- [Home (Baba) by Jörd](https://open.spotify.com/track/6W0iC6U7Fj3yAWMVfr2YaO)
+- [Falling Apart by Massane](https://open.spotify.com/track/6tGCxVJPo7iIydUVHOjVbM)
+- [Don&#39;t You Worry Child by NORRA](https://open.spotify.com/track/1on8TuNoLPuSQclKvDOpRq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
