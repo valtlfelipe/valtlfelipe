@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Serene by HAK3N](https://open.spotify.com/track/5ZZtfkpgLJMJrJ37HLH7f1)
-- [The Skies by Rytes](https://open.spotify.com/track/4pPf7VPUD94YgOi4qXKklB)
-- [Sundown by Duce](https://open.spotify.com/track/0w7Usw5verGQnWj5vtJSy8)
-- [Promise You by Massane](https://open.spotify.com/track/5ihg3KlX5BV7p4ZDLMbfgK)
-- [Back To My Love - Falden Remix by Tritonal, Marlhy, Falden](https://open.spotify.com/track/6z3tvGWNT0H1DPZLc1b7fv)
+- [Reflections by Melosense](https://open.spotify.com/track/4RYKXNgejydhpRq1Kx2P1K)
+- [Right Time by NORRA](https://open.spotify.com/track/4MiqMCkdCbEKHJkEW0DaLu)
+- [Run Away With Me by Sonny Del Sol](https://open.spotify.com/track/4Lhb7ntmqqWNjbXm7cYTrc)
+- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
+- [Goodbye on Pine Alley by Massane](https://open.spotify.com/track/1EUUzHv0zOVjYBUhkklrIH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
