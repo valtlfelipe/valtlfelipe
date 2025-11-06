@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [You &amp; I by Rolipso, clarity.](https://open.spotify.com/track/7bSVTnNp6Z7aWlgjdPDnYU)
-- [9th Ave by Rodg](https://open.spotify.com/track/5JZ8RfDr77rUuaqmggMwx0)
-- [Run Deep - Extended by Nu Aspect](https://open.spotify.com/track/4UBbQTYl5gv4DOIYjsbMdq)
-- [Won&#39;t You Say by Anton Kling](https://open.spotify.com/track/32HPlVqnkMOkdKC2rD2UxZ)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
+- [Serene by HAK3N](https://open.spotify.com/track/5ZZtfkpgLJMJrJ37HLH7f1)
+- [The Skies by Rytes](https://open.spotify.com/track/4pPf7VPUD94YgOi4qXKklB)
+- [Sundown by Duce](https://open.spotify.com/track/0w7Usw5verGQnWj5vtJSy8)
+- [Promise You by Massane](https://open.spotify.com/track/5ihg3KlX5BV7p4ZDLMbfgK)
+- [Back To My Love - Falden Remix by Tritonal, Marlhy, Falden](https://open.spotify.com/track/6z3tvGWNT0H1DPZLc1b7fv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
