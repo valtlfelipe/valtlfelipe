@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [To The End by Trilucid, Esque](https://open.spotify.com/track/77a4iUk7a9Rtzqzd4gHuTz)
-- [Falling Stars by Coastlines](https://open.spotify.com/track/3JedRGQuhH67qqJ1VHnOOL)
-- [Cove by Massane](https://open.spotify.com/track/5MDkD03ZUsDgLVa2CuxovD)
-- [Hold on Tight by Piece Wise, ASTIR, ALSO ASTIR](https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO)
-- [Coming Home - Piece Wise Remix by Bound to Divide, Lewyn, Piece Wise](https://open.spotify.com/track/6htFwwNUkg67OasDBXZeHi)
+- [5am by Massane](https://open.spotify.com/track/15OVDVrLMRIZsqnT0Kkhgg)
+- [Are You by Sons Of Maria](https://open.spotify.com/track/5SfQmmOQp5Id17CnInfHp8)
+- [Hold Me by CLÜE](https://open.spotify.com/track/4UG79UQK3QVzaXvAVR2N2k)
+- [Release The Brake by Dizaro, Lewyn](https://open.spotify.com/track/0mxovgy84fI7JTx5pHhkAJ)
+- [Be So Cold by LAR, Chris Savor](https://open.spotify.com/track/1lTyq9RWS2Zl4kjZfQJLpR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
