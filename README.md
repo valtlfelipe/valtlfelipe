@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Love You Back by Massane](https://open.spotify.com/track/77blB5UVGX4l0BoAZAOKnO)
-- [Coasting by Piece Wise, De Rien](https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix)
-- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
-- [Haunted by Dillistone](https://open.spotify.com/track/7qX8Vl5H5IxQiXGWXHa0kD)
-- [Nostalgia by Melosense](https://open.spotify.com/track/0Vtwa1eRykSFTGXbDBq7d2)
+- [You &amp; I by Rolipso, clarity.](https://open.spotify.com/track/7bSVTnNp6Z7aWlgjdPDnYU)
+- [9th Ave by Rodg](https://open.spotify.com/track/5JZ8RfDr77rUuaqmggMwx0)
+- [Run Deep - Extended by Nu Aspect](https://open.spotify.com/track/4UBbQTYl5gv4DOIYjsbMdq)
+- [Won&#39;t You Say by Anton Kling](https://open.spotify.com/track/32HPlVqnkMOkdKC2rD2UxZ)
+- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
