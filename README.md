@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rictic/jsonriver](https://github.com/rictic/jsonriver)** - A simple, fast streaming JSON parser built on standards. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [One Breath by Nofsky, SOFYKA](https://open.spotify.com/track/45cmNbLfo1UW4m3iFrIidC)
+- [Summer&#39;s End by Massane](https://open.spotify.com/track/0ad22SFsPKkHtI22ghecQe)
+- [Can You See by UOAK, Jope](https://open.spotify.com/track/7CRdvO49IiymJSzodIur4f)
+- [Remember by Midnight Pass, Ruffnux](https://open.spotify.com/track/6JqO8gCbkx5eekwKyTr71o)
 - [Rosso by Chris Savor, Stendahl](https://open.spotify.com/track/3P4kOSAVk0aUH7fVVlMS2D)
-- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
-- [LoveBreak by Melosense](https://open.spotify.com/track/4j84gvVhZ65qi4mDWXTX2k)
-- [Over Now by LNDRS, CUBY, R eyes](https://open.spotify.com/track/4a36WHg2GZUU9mL8MwP3fo)
-- [On The Beach - Kryder Remix by YORK, Kryder](https://open.spotify.com/track/57Y9YzDxXB2sVlhvqK94sK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
