@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [You Don&#39;t Mind by Mike Mana](https://open.spotify.com/track/7setdIoyZUzE5VBb2WBfyC)
-- [Thoughts Of You by fwd/slash](https://open.spotify.com/track/0oaQir7edmmFUTW7t137eW)
-- [Don&#39;t Give Up - Chicane Lockdown Remix by Chicane, Bryan Adams](https://open.spotify.com/track/0r9iKmg2mBaBoE1fsSJknc)
-- [Calmness by Iskarelyn](https://open.spotify.com/track/6Url3AfCgyvrEGl8g67HIs)
-- [In Time by Verbala](https://open.spotify.com/track/6zC6bTpBp0LrWTSYMKDTKK)
+- [SOS (feat. Aloe Blacc) by Avicii, Aloe Blacc](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5)
+- [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U)
+- [Slide Away by Miley Cyrus](https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9)
+- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
+- [Fly Away by Tones And I](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
