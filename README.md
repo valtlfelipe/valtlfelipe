@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [SOS (feat. Aloe Blacc) by Avicii, Aloe Blacc](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5)
-- [Wasted Love (feat. Lagique) by Ofenbach, Lagique](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U)
-- [Slide Away by Miley Cyrus](https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9)
-- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
-- [Fly Away by Tones And I](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76)
+- [I Feel It Coming by The Weeknd, Daft Punk](https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt)
+- [Somebody by Dagny](https://open.spotify.com/track/78AZoiQnRHHKY0mf9Iy4RD)
+- [Heartbreak Anthem (with David Guetta &amp; Little Mix) by Galantis, David Guetta, Little Mix](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP)
+- [Tell It To My Heart by MEDUZA, Hozier](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA)
+- [Melody by Sigala](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
