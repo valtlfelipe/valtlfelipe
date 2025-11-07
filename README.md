@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Leave Me by Massane](https://open.spotify.com/track/5NsnKnGYfZUPefRAZZRyTJ)
-- [Be Somebody by Midnight Pass](https://open.spotify.com/track/7vaJ4jJfxQVoJOGujY8xOS)
-- [About Us (feat. EMME) by Le Youth, EMME](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv)
-- [Between Your Sighs by MAXTAGE, Hafex](https://open.spotify.com/track/0QfTIcoImQ20w8SeqF65Dy)
-- [Lichtblick by Alex Breitling](https://open.spotify.com/track/38R4QogVQ7BdFFUppjjELT)
+- [About by Anton Kling](https://open.spotify.com/track/6X7RtmkZZnQEaYqYjQCCaG)
+- [alive by Edannn, just nearby, bayme](https://open.spotify.com/track/65w7FcAoyaq0qpP8amE0tx)
+- [Say It Right by noetic](https://open.spotify.com/track/4lrk4MonVk7yYrcQvoqbuX)
+- [Falling Apart by Massane](https://open.spotify.com/track/6tGCxVJPo7iIydUVHOjVbM)
+- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
