@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [About by Anton Kling](https://open.spotify.com/track/6X7RtmkZZnQEaYqYjQCCaG)
-- [alive by Edannn, just nearby, bayme](https://open.spotify.com/track/65w7FcAoyaq0qpP8amE0tx)
-- [Say It Right by noetic](https://open.spotify.com/track/4lrk4MonVk7yYrcQvoqbuX)
-- [Falling Apart by Massane](https://open.spotify.com/track/6tGCxVJPo7iIydUVHOjVbM)
-- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
+- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
+- [Memories by Massane](https://open.spotify.com/track/7sXtIzVFmmDqvvzGyBoSAX)
+- [Bonfire by Tudor](https://open.spotify.com/track/736VDbKKgjzvPOoKjjti4R)
+- [Like That by Iskarelyn](https://open.spotify.com/track/7o7KcHo8swUwhipVEnRxS5)
+- [Talk with Me by Klama](https://open.spotify.com/track/13mgcv0WPkbNKH1TOt024p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
