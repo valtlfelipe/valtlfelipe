@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Parting Ways by Miravo](https://open.spotify.com/track/02Pn1TbmDBUymxhDknminH)
-- [With You (No More) by terro](https://open.spotify.com/track/7czvgr7rLhjA2NlUyTguzw)
-- [Addicted by Holen](https://open.spotify.com/track/7AMe932TtrqdBKCZR6aDik)
-- [Forever In My Mind by Madism, LPW](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB)
-- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
+- [Into The Ocean by MALIAN, twocolouredman](https://open.spotify.com/track/5eY9jGygXyO5x1djxydy6e)
+- [Haunting Me by Ardiyan](https://open.spotify.com/track/13HyBy8sVih8i5Pq5udf3t)
+- [Absence by Isam Hadjih](https://open.spotify.com/track/6zKC0tSFoB6GvjKDFtpztv)
+- [Feels Like Home by Tom Kha](https://open.spotify.com/track/1arNYFQeLFK2xsv5SAPxpw)
+- [Was It A Dream by Maynørr, Manunt, sunsett.](https://open.spotify.com/track/0dSAUKyLQN2MjZMSYkIjoR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
