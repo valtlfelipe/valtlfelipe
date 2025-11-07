@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Never Look Back by Chicane](https://open.spotify.com/track/5Vt31WxV1bndCjy2CwQdRx)
-- [Feels The Same by Dallien, RVPTR, RVZE](https://open.spotify.com/track/2i5WXSxVuJFJbn6dAKLEnk)
-- [Hurt so Good by ODBLU](https://open.spotify.com/track/4295c18ZjUelQNGXYfiU20)
-- [Last Snow by dwelyr](https://open.spotify.com/track/29wngDHVdqnqRQ4Nne0ebr)
-- [Hiraya by Isam Hadjih](https://open.spotify.com/track/4Mwi08F9DlQv2DNkWTvPaX)
+- [Sun Goes Down by Odare](https://open.spotify.com/track/7thJOVUhy4yE9KCJuwtV6i)
+- [Next To Me by Daybreak](https://open.spotify.com/track/3hZwt2TsWeIlB9ziHhdtmz)
+- [Better Than This by Keanler, Lewyn](https://open.spotify.com/track/2ZoKeEKH1Y2yp0GJAvNngn)
+- [My Time by Naws](https://open.spotify.com/track/1QFKOdlrnzZu0hg91IgaDe)
+- [Motion by Rolipso, Eli Rêve, SITHEA](https://open.spotify.com/track/14mdSzTmx6ASXRpUNOghxO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
