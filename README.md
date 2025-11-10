@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [My House by John Gold](https://open.spotify.com/track/4HX2FCDopG6pxUQHCMUKO5)
-- [Better Me For You (Brown Eyes) by Max McNown](https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ)
-- [Till We Meet in Light by Sol.](https://open.spotify.com/track/5HCMkptmHFInmkG8RWrkLf)
-- [You&#39;ve Got Another Thing Coming - From the Netflix Series &#34;Nobody Wants This&#34; Season 2 by Teddy Swims](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz)
-- [Lighter by Alberto Ciccarini, Poul](https://open.spotify.com/track/5SGKdMtnTCaFtIjWHrhb9U)
+- [Sailing by Chicane](https://open.spotify.com/track/4CfG49r7r2NUrteLdUF2yI)
+- [Feeling Free by Florian Wreedt, LEJKEYS](https://open.spotify.com/track/7f2NkKcSydXXPAwzlm511l)
+- [Waves of Desire by Kairo Mansa](https://open.spotify.com/track/78n9BLpZLTZOV7XWmg4j8I)
+- [afterparty - Gigamesh Remix by amour, Gigamesh](https://open.spotify.com/track/2RPQLcNRp2BhDOIE5ewZJD)
+- [Better Day (feat. Nile Rodgers &amp; Josh Barry) by Wh0, Nile Rodgers, Josh Barry](https://open.spotify.com/track/5jGfO7gPEAYwzwJG4VvW5n)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
