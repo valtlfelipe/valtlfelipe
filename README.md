@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [You&#39;ve Got Another Thing Coming - From the Netflix Series &#34;Nobody Wants This&#34; Season 2 by Teddy Swims](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz)
-- [Lighter by Alberto Ciccarini, Poul](https://open.spotify.com/track/5SGKdMtnTCaFtIjWHrhb9U)
-- [come home by LSR/CITY, Annabel](https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv)
-- [Running in the Air by Chicco Secci](https://open.spotify.com/track/2MQ9u2jSBy4wT9kvAPbb5M)
-- [Silhouette by Cathleen Kleinert](https://open.spotify.com/track/2c4WGmGMLydYmEFvZhIBa8)
+- [Better Day (feat. Nile Rodgers &amp; Josh Barry) by Wh0, Nile Rodgers, Josh Barry](https://open.spotify.com/track/5jGfO7gPEAYwzwJG4VvW5n)
+- [Fraud by STHLMA](https://open.spotify.com/track/4IRV9YWThTmcNxrwpDXVGC)
+- [Mind Off by Carlita, WhoMadeWho, Orsay](https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM)
+- [Lay With Me - Satin Jackets Remix by Phantoms, Vanessa Hudgens, Satin Jackets](https://open.spotify.com/track/1htuUwrFoQ17Z3ZPHveKqF)
+- [Haunting Me by Ardiyan](https://open.spotify.com/track/13HyBy8sVih8i5Pq5udf3t)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
