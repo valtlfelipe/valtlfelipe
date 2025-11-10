@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Keep Chasing Stars by Skinny Dipp, Sound Casino](https://open.spotify.com/track/5wWkCGoOrb2px2jWcJAFaP)
-- [Heroes (we could be) - Amtrac Remix by Alesso, Tove Lo](https://open.spotify.com/track/7anJjQNSjKhPfkvRGBKiHJ)
-- [Hot Blooded by New Constellations](https://open.spotify.com/track/1ElySIlHwm1HX7sUjAZZnp)
-- [Deeper in love (special version) by Artificial Deejay](https://open.spotify.com/track/1bJBVcdQv6TjM8Yf0dUiBE)
-- [Hollow by DAV5, James O&#39;Hea](https://open.spotify.com/track/6WHwNUO1oZNRlj4qSuYO2H)
+- [afterparty - Gigamesh Remix by amour, Gigamesh](https://open.spotify.com/track/2RPQLcNRp2BhDOIE5ewZJD)
+- [Better Day (feat. Nile Rodgers &amp; Josh Barry) by Wh0, Nile Rodgers, Josh Barry](https://open.spotify.com/track/5jGfO7gPEAYwzwJG4VvW5n)
+- [Fraud by STHLMA](https://open.spotify.com/track/4IRV9YWThTmcNxrwpDXVGC)
+- [Mind Off by Carlita, WhoMadeWho, Orsay](https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM)
+- [Lay With Me - Satin Jackets Remix by Phantoms, Vanessa Hudgens, Satin Jackets](https://open.spotify.com/track/1htuUwrFoQ17Z3ZPHveKqF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
