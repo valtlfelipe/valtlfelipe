@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sierra-db/sierradb](https://github.com/sierra-db/sierradb)** - SierraDB: The immutable database for events (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Can&#39;t Tame Her by Zara Larsson](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz)
-- [Heaven by Avicii](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ)
-- [Midnight Sky by Miley Cyrus](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX)
-- [Late Night Talking by Harry Styles](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK)
-- [Woke Up in Love by Kygo, Gryffin, Calum Scott](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo)
+- [My House by John Gold](https://open.spotify.com/track/4HX2FCDopG6pxUQHCMUKO5)
+- [Better Me For You (Brown Eyes) by Max McNown](https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ)
+- [Till We Meet in Light by Sol.](https://open.spotify.com/track/5HCMkptmHFInmkG8RWrkLf)
+- [You&#39;ve Got Another Thing Coming - From the Netflix Series &#34;Nobody Wants This&#34; Season 2 by Teddy Swims](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz)
+- [Lighter by Alberto Ciccarini, Poul](https://open.spotify.com/track/5SGKdMtnTCaFtIjWHrhb9U)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
