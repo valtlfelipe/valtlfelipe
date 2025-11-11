@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Another Dawn by Massane, Kinnship](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA)
-- [Ah Up by Sound Quelle](https://open.spotify.com/track/0pbZX9CK1W2iIiUFJf39wr)
-- [About Us (feat. EMME) by Le Youth, EMME](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv)
-- [The Rope (feat. POLIÇA) by Lane 8](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx)
-- [Weightless (jamesjamesjames Remix) by Ben Böhmer, Panama, jamesjamesjames](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC)
+- [Going Under by Darking On](https://open.spotify.com/track/2JaNrKsTNCJl3RUSsIKcMT)
+- [5am by Massane](https://open.spotify.com/track/15OVDVrLMRIZsqnT0Kkhgg)
+- [Solitude by Naws](https://open.spotify.com/track/0Sb18ey0LU9n4DS5mliToi)
+- [Reflection by Rezident](https://open.spotify.com/track/4QHHdw8ZJik6oRTZpdo8n9)
+- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
