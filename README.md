@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Going Under by Darking On](https://open.spotify.com/track/2JaNrKsTNCJl3RUSsIKcMT)
-- [5am by Massane](https://open.spotify.com/track/15OVDVrLMRIZsqnT0Kkhgg)
-- [Solitude by Naws](https://open.spotify.com/track/0Sb18ey0LU9n4DS5mliToi)
-- [Reflection by Rezident](https://open.spotify.com/track/4QHHdw8ZJik6oRTZpdo8n9)
-- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
+- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
+- [Emorio by Trinix, Fafá de Belém](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL)
+- [Help Me Lose My Mind by Gravagerz](https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1)
+- [Hold This Memory by Deepend, Madism](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI)
+- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
