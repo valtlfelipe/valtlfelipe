@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [You&#39;re Not There by Sinova](https://open.spotify.com/track/0v5WeGtYG1I9foYD8kCFKS)
-- [Closure by Massane, Benjamin Roustaing](https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O)
-- [Reflections by Melosense](https://open.spotify.com/track/4RYKXNgejydhpRq1Kx2P1K)
-- [Better Me For You (Brown Eyes) by Max McNown](https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ)
-- [Till We Meet in Light by Sol.](https://open.spotify.com/track/5HCMkptmHFInmkG8RWrkLf)
+- [Another Dawn by Massane, Kinnship](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA)
+- [Ah Up by Sound Quelle](https://open.spotify.com/track/0pbZX9CK1W2iIiUFJf39wr)
+- [About Us (feat. EMME) by Le Youth, EMME](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv)
+- [The Rope (feat. POLIÇA) by Lane 8](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx)
+- [Weightless (jamesjamesjames Remix) by Ben Böhmer, Panama, jamesjamesjames](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
