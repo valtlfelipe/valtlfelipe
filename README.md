@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
-- [Lie To Me by Thom Merlin, Foínix, Brandon Chase](https://open.spotify.com/track/7Bue9Cua1VRTbepCvZ6dDt)
-- [Are You With Me by Lost Frequencies](https://open.spotify.com/track/39QlSLkqq5shnpAXchT9sI)
-- [Good Life (feat. Elderbrook) by goodlife, Elderbrook](https://open.spotify.com/track/7FJVrTfU5eWPQowHttM4Rp)
-- [Fast Car by Jonas Blue, Dakota](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p)
+- [Summer Feeling by Matoma, Jonah Kagen](https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO)
+- [I Took A Pill In Ibiza - Seeb Remix by Mike Posner, Seeb](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)
+- [Covered By The Clouds by NSH](https://open.spotify.com/track/6qOd4FxG2FvYGCq9gqIwGA)
+- [Show Me Love - EDX Remix / Radio Edit by Sam Feldt, Kimberly Anne, EDX](https://open.spotify.com/track/4bAmAVdks2Y84VNVVLXFwN)
+- [True by CYRIL, Kita Alexander](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
