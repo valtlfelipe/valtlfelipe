@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)** - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
-- [Emorio by Trinix, Fafá de Belém](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL)
-- [Help Me Lose My Mind by Gravagerz](https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1)
-- [Hold This Memory by Deepend, Madism](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI)
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
+- [Lie To Me by Thom Merlin, Foínix, Brandon Chase](https://open.spotify.com/track/7Bue9Cua1VRTbepCvZ6dDt)
+- [Are You With Me by Lost Frequencies](https://open.spotify.com/track/39QlSLkqq5shnpAXchT9sI)
+- [Good Life (feat. Elderbrook) by goodlife, Elderbrook](https://open.spotify.com/track/7FJVrTfU5eWPQowHttM4Rp)
+- [Fast Car by Jonas Blue, Dakota](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
