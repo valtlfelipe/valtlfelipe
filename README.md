@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Doses &amp; Mimosas (Vintage Culture &amp; Zerky Remix) - Radio Edit by Vintage Culture, Zerky, Cherub](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu)
+- [Woke Up in Love by Kygo, Gryffin, Calum Scott](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo)
+- [Find Love Now by Cheat Codes, Punctual, Raphaella](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt)
+- [Friday (Alone Right Now) by ATRIP](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby)
 - [Stargazing by Monocule, Leo Stannard, Nicky Romero](https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB)
-- [Sunshine by D.O.D, RAHH](https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX)
-- [Good Feeling by Duvall, Sam Gray](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM)
-- [More Love (feat. Secondcity) by Noizu, Secondcity](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd)
-- [About Damn Time - Purple Disco Machine Remix by Lizzo, Purple Disco Machine](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
