@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [One in a Million by Bebe Rexha, David Guetta](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz)
-- [Forever And A Day - Diplo Remix by LP Giobbi, Caroline Byrne, Diplo](https://open.spotify.com/track/5ozhK7GvUKSNSr1LrclYM2)
-- [Night Feels by AR/CO](https://open.spotify.com/track/6oELcspL4BONtElLhJfBPI)
-- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
-- [Little Things x Gypsy Woman - L BEATS MASHUP by Jorja Smith](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP)
+- [Stargazing by Monocule, Leo Stannard, Nicky Romero](https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB)
+- [Sunshine by D.O.D, RAHH](https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX)
+- [Good Feeling by Duvall, Sam Gray](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM)
+- [More Love (feat. Secondcity) by Noizu, Secondcity](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd)
+- [About Damn Time - Purple Disco Machine Remix by Lizzo, Purple Disco Machine](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
