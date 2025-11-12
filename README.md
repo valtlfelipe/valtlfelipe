@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jj-vcs/jj](https://github.com/jj-vcs/jj)** - A Git-compatible VCS that is both simple and powerful (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
-- [Is This Love - Remix by Bob Marley &amp; The Wailers, LVNDSCAPE, Bolier](https://open.spotify.com/track/1G8yVHxDLlEjDAt02Dfbmi)
-- [Cool Kids by Toby Rose, TWOPILOTS](https://open.spotify.com/track/1nOrmN6H9MmEzSTU024eAX)
-- [Summer Feeling by Matoma, Jonah Kagen](https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO)
-- [I Took A Pill In Ibiza - Seeb Remix by Mike Posner, Seeb](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)
+- [Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework by HUGEL](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg)
+- [Billie (loving arms) by Fred again..](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G)
+- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
+- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
+- [Move (feat. Camila Cabello &amp; Malachiii) by Adam Port, Stryv, Camila Cabello, Malachiii, Keinemusik, Orso](https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
