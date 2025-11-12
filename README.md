@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jj-vcs/jj](https://github.com/jj-vcs/jj)** - A Git-compatible VCS that is both simple and powerful (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework by HUGEL](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg)
-- [Billie (loving arms) by Fred again..](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G)
-- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
-- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
-- [Move (feat. Camila Cabello &amp; Malachiii) by Adam Port, Stryv, Camila Cabello, Malachiii, Keinemusik, Orso](https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG)
+- [Glide by NEIKED, Portugal. The Man](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K)
+- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
+- [I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) by Oliver Heldens, Nile Rodgers, House Gospel Choir](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY)
+- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
+- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
