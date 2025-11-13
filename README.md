@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Believing In Us by Cheat Codes, Oaks](https://open.spotify.com/track/6WljWthiqncq6ad3FiDM8r)
+- [Waiting by Tchami, NIIKO X SWAE](https://open.spotify.com/track/6E36ezapy6yorkh8UbNO65)
+- [You Make Me Feel by Solardo, Comanavago](https://open.spotify.com/track/4z2ZZU3skkejktx83PbKiR)
+- [Magic With You by DJ Licious, Alex Germys, Alex Lucas](https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv)
 - [JOY (By My Side) by Joy Anonymous, Sammy Virji](https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3)
-- [Dance With You by Mohtiv](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6)
-- [Get Up by Keys N Krates](https://open.spotify.com/track/6eqI6rkIXqJO5uIuli36Ey)
-- [Let Me by Matoma](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw)
-- [Don’t Wake Me Up by Jonas Blue, Why Don&#39;t We](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
