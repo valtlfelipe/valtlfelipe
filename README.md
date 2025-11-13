@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Holding Your Hand by SACHI, Poppy Baskcomb](https://open.spotify.com/track/6UK7PodvHTVM9vItl0VOKh)
+- [Feels This Good by Sigala, Mae Muller, Caity Baser, Stefflon Don](https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep)
 - [Lucky (feat. Remi Wolf) by Zedd, Remi Wolf](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb)
 - [Anywhere With You by AFROJACK, Lucas &amp; Steve, DubVision](https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS)
 - [THIS IS FOR YOU (feat. Niki &amp; the Dove) by KC Lights, Niki &amp; The Dove](https://open.spotify.com/track/2EY0iypCKjix9tBeaGvm03)
-- [The One (feat. Jocelyn Brown) by Chloé Caillet, Luke Alessi, Jocelyn Brown](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM)
-- [Dance All Over Me - Jax Jones Remix by George Ezra, Jax Jones](https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
