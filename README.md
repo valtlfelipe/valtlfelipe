@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Feel Good by XANDRA](https://open.spotify.com/track/4p7iocuzpoJgTLC1TLd2PZ)
-- [Clap Your Hands by Kungs](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI)
-- [Pure Shores by All Saints, Tourist](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ)
-- [Be My One by Sonny Fodera, KOLIDESCOPES, Hayley May](https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8)
-- [heaven in your arms by salute, Jessie Ware](https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi)
+- [Promises by WEISS, Louise Marshall](https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi)
+- [get down on it by Young Franco, Kool &amp; The Gang](https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI)
+- [More Than I Can Say by GAMPER &amp; DADONI, D.T.E](https://open.spotify.com/track/3vHywq842LVtcGAuEMuk2H)
+- [Sun Will Shine by Robin Schulz, Tom Walker](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf)
+- [These Are The Days (feat. Liv Dawson) by Anton Powers, ManyFew, Liv Dawson](https://open.spotify.com/track/39GX8fhLrxiPcNAMgZhWUa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
