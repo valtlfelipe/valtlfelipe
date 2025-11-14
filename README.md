@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Freedom by Oliver Heldens, Armin van Buuren, Sam Harper](https://open.spotify.com/track/5VoByKp0qo2OVO1ehyPtSa)
-- [Carry You by Martin Garrix, Third Party, Oaks, Declan J Donovan](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2)
-- [Fly by KC Lights, Welt](https://open.spotify.com/track/4hB6Riwyg06VWFVgOTiKWz)
-- [Somebody To Use by Alesso](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13)
-- [Deep Inside by Maur](https://open.spotify.com/track/4UyLsFc8HIcj7k4N6fXBWt)
+- [Life Lesson by Belters Only, Sonny Fodera, Jazzy](https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr)
+- [Like The Old Days by Barry Can&#39;t Swim](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix)
+- [Forgive Me by ESSEL](https://open.spotify.com/track/4QNHkL09PIRR9TY11blRLY)
+- [I’m Going Underground by Flux Vortex](https://open.spotify.com/track/0efjjqr8RCTCWsGYFmmDBe)
+- [Keeping Your Head Up - Jonas Blue Remix; Radio Edit [Radio Edit] by Birdy, Jonas Blue](https://open.spotify.com/track/26uWcFPeunNydCH7rl7nyA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
