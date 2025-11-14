@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
-- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
-- [Another Life (feat. FLETCHER &amp; Josh Golden) by Surf Mesa, Joshua Golden, FLETCHER](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq)
-- [Quanto Tempo (with Victor Flash) by Kungs, Victor Flash, Adela Jens](https://open.spotify.com/track/5i24PYpfyaGHkVBbymOtSA)
-- [Rhythm (Of The Night) by Something Good, YOTTO](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx)
+- [Freedom by Oliver Heldens, Armin van Buuren, Sam Harper](https://open.spotify.com/track/5VoByKp0qo2OVO1ehyPtSa)
+- [Carry You by Martin Garrix, Third Party, Oaks, Declan J Donovan](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2)
+- [Fly by KC Lights, Welt](https://open.spotify.com/track/4hB6Riwyg06VWFVgOTiKWz)
+- [Somebody To Use by Alesso](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13)
+- [Deep Inside by Maur](https://open.spotify.com/track/4UyLsFc8HIcj7k4N6fXBWt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
