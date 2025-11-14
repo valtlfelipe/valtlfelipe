@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Stereo by twocolors, Roe Byrne](https://open.spotify.com/track/3ekheCAmDutf88rPe0WQU1)
-- [Be Somebody by Otto Knows, Alex Aris](https://open.spotify.com/track/6GLATZeuyPYDhYs5VEOq7s)
-- [Ain&#39;t Me Without You by WEISS](https://open.spotify.com/track/6yrZy3rpbx86Vqrdgcs5gu)
-- [Slow Song (with Dragonette) by The Knocks, Dragonette](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H)
-- [Live Without Love by Shouse, David Guetta](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA)
+- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
+- [Something Stronger by Rules, SHYA, Coldabank](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe)
+- [Another Life (feat. FLETCHER &amp; Josh Golden) by Surf Mesa, Joshua Golden, FLETCHER](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq)
+- [Quanto Tempo (with Victor Flash) by Kungs, Victor Flash, Adela Jens](https://open.spotify.com/track/5i24PYpfyaGHkVBbymOtSA)
+- [Rhythm (Of The Night) by Something Good, YOTTO](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
