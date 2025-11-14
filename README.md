@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Life Lesson by Belters Only, Sonny Fodera, Jazzy](https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr)
-- [Like The Old Days by Barry Can&#39;t Swim](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix)
-- [Forgive Me by ESSEL](https://open.spotify.com/track/4QNHkL09PIRR9TY11blRLY)
-- [I’m Going Underground by Flux Vortex](https://open.spotify.com/track/0efjjqr8RCTCWsGYFmmDBe)
-- [Keeping Your Head Up - Jonas Blue Remix; Radio Edit [Radio Edit] by Birdy, Jonas Blue](https://open.spotify.com/track/26uWcFPeunNydCH7rl7nyA)
+- [All Mine by D.O.D](https://open.spotify.com/track/55vxJOfCXlkiFzELyNTYQm)
+- [The Fate of Ophelia - Loud Luxury Remix by Taylor Swift, Loud Luxury](https://open.spotify.com/track/6PlBKImSl4AZoxBU7F649D)
+- [In My Blue by Melodream, Barmuda](https://open.spotify.com/track/6YRam9ksY9dJWfFxqtcPxC)
+- [Human (feat. Echoes) - Aaron Hibell Remix by John Summit, Echoes, Aaron Hibell](https://open.spotify.com/track/6hQRP0fV38up2v9YPZikNh)
+- [Roze (forgive) by Fred again.., I Am Roze](https://open.spotify.com/track/4iWbvTeormWby3QX0nO85q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
