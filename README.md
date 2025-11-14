@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Lover by Otto Knows, Dice Of Nights, Alex Aris](https://open.spotify.com/track/40u9pTla24PIkyRLKKVh6a)
-- [Hollow (feat. Bonn) by MORTEN, ARTBAT, Bonn](https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa)
-- [Heaven or Not by Diplo, Riva Starr, Kareen Lomax](https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF)
-- [Easy by 3LAU, XIRA](https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR)
-- [Ease My Mind by Chris Lake, Abel Balder](https://open.spotify.com/track/0zVYrhlpgLHLqnEtv38Fko)
+- [Stereo by twocolors, Roe Byrne](https://open.spotify.com/track/3ekheCAmDutf88rPe0WQU1)
+- [Be Somebody by Otto Knows, Alex Aris](https://open.spotify.com/track/6GLATZeuyPYDhYs5VEOq7s)
+- [Ain&#39;t Me Without You by WEISS](https://open.spotify.com/track/6yrZy3rpbx86Vqrdgcs5gu)
+- [Slow Song (with Dragonette) by The Knocks, Dragonette](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H)
+- [Live Without Love by Shouse, David Guetta](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
