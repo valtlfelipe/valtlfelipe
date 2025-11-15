@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Moments - Ben Böhmer &amp; Nils Hoffmann Remix by Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0)
-- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
-- [Original Sin by Sofi Tukker](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6)
-- [Inner Light by Elderbrook, Bob Moses](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0)
+- [Dance All Over Me - Jax Jones Remix by George Ezra, Jax Jones](https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW)
+- [Clap Your Hands by Kungs](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI)
+- [Summer In New York by Sofi Tukker](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q)
+- [Find Love Now by Cheat Codes, Punctual, Raphaella](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt)
+- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
