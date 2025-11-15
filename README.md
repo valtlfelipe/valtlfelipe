@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [You&#39;re Free by Icona Pop, Ultra Naté](https://open.spotify.com/track/0KF938333oCvIXDxe72K44)
+- [get down on it by Young Franco, Kool &amp; The Gang](https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI)
+- [CHOOSE LOVE by KC Lights, Marlo Rex](https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri)
+- [Stay the Night by Sigala, Talia Mar](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR)
 - [Dance All Over Me - Jax Jones Remix by George Ezra, Jax Jones](https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW)
-- [Clap Your Hands by Kungs](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI)
-- [Summer In New York by Sofi Tukker](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q)
-- [Find Love Now by Cheat Codes, Punctual, Raphaella](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt)
-- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
