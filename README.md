@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Vaitimbora by Mari Froes, Trinix](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm)
-- [Moments - Ben Böhmer &amp; Nils Hoffmann Remix by Kidnap, Leo Stannard, Ben Böhmer, Nils Hoffmann](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0)
-- [Sunshine by D.O.D, RAHH](https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX)
-- [Dopamine by Purple Disco Machine, Eyelar](https://open.spotify.com/track/3x4HQL358aI7js8F43mN7S)
-- [What A Life by John Summit, Guz, Stevie Appleton](https://open.spotify.com/track/1KbLVz3ZcdUOt2wBXqU2cG)
+- [Baldin de Gelo by Claudia Leitte](https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ)
+- [Por Supuesto by Marina Sena](https://open.spotify.com/track/6FKfZNVgfSS2IBxiAqwSCr)
+- [Pesadão by IZA, Marcelo Falcão](https://open.spotify.com/track/2nPYWC7Jtd3gsd1iMQT3Vs)
+- [BRABA by Luísa Sonza](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg)
+- [Envolver by Anitta](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
