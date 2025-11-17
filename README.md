@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Heavy - Chill Mix by LuvLess, Freddie Mudge](https://open.spotify.com/track/5hz0k2dAqlB8xkiRw4tpmJ)
+- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
 - [episode by cypress, Courtney Storm](https://open.spotify.com/track/7nszldP9W5SgyjB71BAd1t)
 - [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
 - [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
-- [Mirrors by Luke Taylor](https://open.spotify.com/track/4r9WKF5AyzPbq4ujwcb7Aa)
-- [Sign by PLVTO, PRAZI](https://open.spotify.com/track/4IzZhMq81dTt0R1GU4Gh32)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
