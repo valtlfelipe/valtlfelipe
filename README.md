@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
-- [Right Time by NORRA](https://open.spotify.com/track/4MiqMCkdCbEKHJkEW0DaLu)
-- [Wander (Tritonia 518) by MXV, mölly, Courtney Storm](https://open.spotify.com/track/5QlQoOOwRz4fa7d8txxxeE)
-- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
-- [Volcano by Rowland Giles, Toutounji](https://open.spotify.com/track/5IDgICEO4v6iZ1i0XCpY53)
+- [Must Be Dreaming by anamē, Bien](https://open.spotify.com/track/17kDoCyWLuTKgSf0Oxr2dV)
+- [Great Plains by Verbala](https://open.spotify.com/track/7B2qwF4Qf0dwmuU2UQ3upI)
+- [Falling Stars by Coastlines](https://open.spotify.com/track/3JedRGQuhH67qqJ1VHnOOL)
+- [Close My Eyes by Rules](https://open.spotify.com/track/6nsGa3ha4ZbTpTUi8AZFud)
+- [Need You Back by Dallien, Danny CLLS, nøya.](https://open.spotify.com/track/12gI2yh6rN3P5NPPDzfxp8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
