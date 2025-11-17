@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Chase the Sun by La Giang](https://open.spotify.com/track/24Yz9uDygbyWGhnxpfvHKN)
-- [Ternaire by Jkaro](https://open.spotify.com/track/6v9x73VAN5n2X0ec6h3xVV)
-- [Can&#39;t Get Enough by LTN, Ghostbeat](https://open.spotify.com/track/7DQMSNMg1EDnSKrxd5QfM8)
-- [Green Tick by Jerry Baccardi](https://open.spotify.com/track/7ayciFXuWTqoghoViNrD9L)
-- [Luh - Oliver River Remix by PIANIKA, Oliver River](https://open.spotify.com/track/1H2V6Xv4vefhsLt8C1UvRZ)
+- [episode by cypress, Courtney Storm](https://open.spotify.com/track/7nszldP9W5SgyjB71BAd1t)
+- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
+- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
+- [Mirrors by Luke Taylor](https://open.spotify.com/track/4r9WKF5AyzPbq4ujwcb7Aa)
+- [Sign by PLVTO, PRAZI](https://open.spotify.com/track/4IzZhMq81dTt0R1GU4Gh32)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
