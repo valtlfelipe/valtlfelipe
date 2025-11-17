@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Heavy - Chill Mix by LuvLess, Freddie Mudge](https://open.spotify.com/track/5hz0k2dAqlB8xkiRw4tpmJ)
-- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
-- [episode by cypress, Courtney Storm](https://open.spotify.com/track/7nszldP9W5SgyjB71BAd1t)
-- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
-- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [Right Time by NORRA](https://open.spotify.com/track/4MiqMCkdCbEKHJkEW0DaLu)
+- [Wander (Tritonia 518) by MXV, mölly, Courtney Storm](https://open.spotify.com/track/5QlQoOOwRz4fa7d8txxxeE)
+- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
+- [Volcano by Rowland Giles, Toutounji](https://open.spotify.com/track/5IDgICEO4v6iZ1i0XCpY53)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
