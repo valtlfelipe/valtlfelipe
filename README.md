@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Moirai by PIANIKA](https://open.spotify.com/track/1phIexjGfTuqXIIdc57gmn)
-- [Little Love by Estiva](https://open.spotify.com/track/4ZO6VPQitBVBHGcCwVHQrZ)
-- [Closing Hour by Panuma, Tim Hughes](https://open.spotify.com/track/5m8yfomGrRuslN7B3PfF3C)
-- [I Should Go Home by STHLMA](https://open.spotify.com/track/3Vp9TnL0Y8KywoWTJepmVZ)
-- [That&#39;s Alright by San Mateo Drive, Jake Neumar](https://open.spotify.com/track/5tOnvNzRUykrAbvb2heDWb)
+- [Hymn For Tomorrow by Hyperbits, Tzese](https://open.spotify.com/track/6xkWMhbYdKgsUqtKZg4sdp)
+- [Our World by Rezident, Elmar](https://open.spotify.com/track/430PPsBrIlbBQqtRKHV5jF)
+- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
+- [So Say It by Light Chaser](https://open.spotify.com/track/6o4oCh9PmukaDaud7ovqiO)
+- [Constellation by Iskarelyn](https://open.spotify.com/track/43IfRCag3KxS6SpLtOTfql)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
