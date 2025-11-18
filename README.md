@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Troubled Water by Panuma, blaank, birø, Idun Nicoline](https://open.spotify.com/track/4wsnIQl5IXJnf7UxFIJsFX)
-- [Feel The Emotion by fwd/slash](https://open.spotify.com/track/6chebJZzTQfGMINE4dium9)
-- [Nebula by dwelyr](https://open.spotify.com/track/3JxUDwK4clwu4sB2i1Q5KA)
-- [Moving In by Rezident, Elmar](https://open.spotify.com/track/3QTRSMkio5iEka29Ek2DD5)
-- [Light Year (Tritonia 516) by Alex Breitling, Jyll](https://open.spotify.com/track/0D8XJcNEuF5kgnvGZjf4fw)
+- [Dreamgaze by noetic](https://open.spotify.com/track/4LOkIJf1OiBjvfL1rOekC3)
+- [We Ignite by Stendahl](https://open.spotify.com/track/3XIvMHBXM6lkxo4I2hoqwL)
+- [Morning Light by Luke Taylor, Iskarelyn](https://open.spotify.com/track/5BPDwJUH53YezM8pv3CRRr)
+- [Deep End by Mazro, Introspect](https://open.spotify.com/track/616j6ZDkGoohVH9J7OFov4)
+- [Keep Feeling Like This by Chris Savor, Jason Uechi](https://open.spotify.com/track/1jIiXLQezN8Bmk27I8Qdan)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
