@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Still With Francis by Duce](https://open.spotify.com/track/7MEJGPf7aGuiE01puSnhxW)
-- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
-- [All I Need by aural, sunsett.](https://open.spotify.com/track/4M2e8fGMYH0dfXWVilOOYd)
-- [Stuck In A Moment by TEKASAE](https://open.spotify.com/track/3tVRB6778ttkhT3CfaIG9S)
-- [Never Dream - Datskie Remix by Blonde Maze, Attom, Datskie](https://open.spotify.com/track/5t9gewQFX94XL6wqwGGZnz)
+- [Fire by AN3M](https://open.spotify.com/track/4aM0puKwl7ZhAuuOKwYWV2)
+- [Can&#39;t Help But Loving You - Chill Mix by Alex Adair](https://open.spotify.com/track/1vlDOIod4Jw1pjLaa3zBMt)
+- [Daylight by mölly, Bridges](https://open.spotify.com/track/3Pi08C77jfcAjgvzHpgHYu)
+- [Take it Slow by aural](https://open.spotify.com/track/6MxbiSK1W3igcuuxaIMDNf)
+- [Closer to You by Blonde Maze, LeyeT](https://open.spotify.com/track/61EWCgI4mLW1UF8vgYfT1Y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
