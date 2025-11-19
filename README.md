@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Home by Meanetik](https://open.spotify.com/track/289f8Rj2s9ts6Lir53qROP)
-- [Eternity by Luke Taylor](https://open.spotify.com/track/6OovX7qKmkVseS5fTxS8BZ)
-- [You Give Me by NGTY](https://open.spotify.com/track/5tWsOjYlPpqZJ3V4UPQSPW)
-- [Euphoria by OCULA, LeyeT](https://open.spotify.com/track/1Sx86xHVVfdwmkttEHvXtK)
-- [Be There by miksklim](https://open.spotify.com/track/2F0CvA0RR90DhUTD09HFU9)
+- [Luh - Oliver River Remix by PIANIKA, Oliver River](https://open.spotify.com/track/1H2V6Xv4vefhsLt8C1UvRZ)
+- [The Best Part - Lost Prince Remix by gardenstate, Bien, Lost Prince](https://open.spotify.com/track/6Jzmhn3m6ukvfNAgYVKLqj)
+- [You Set Me on Fire by Mazro](https://open.spotify.com/track/5lZg1Gk89SvRsLHgIselXX)
+- [Empty Spaces by Willow](https://open.spotify.com/track/76iNgvLwHw2JI6cHg0THmx)
+- [Raindrifting by Favna](https://open.spotify.com/track/18Ob0zJxvCTPmQqoJ0U6NC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
