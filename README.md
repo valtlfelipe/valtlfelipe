@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [A Little Life - before saudade Remix by Little Foot, Zemi Gold, before saudade](https://open.spotify.com/track/4F5hEBUsWlfjIiE2Sf8qXm)
-- [Steps by Massane, MALIAN, Roundrobin](https://open.spotify.com/track/3Dn8jGRCvVOtAIaG0pY6we)
-- [Come Undone (feat. Caitlyn Scarlett) by Hyzteria, Caitlyn Scarlett](https://open.spotify.com/track/6x9WvCHyz25kyK3hmhqJvv)
-- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
-- [Daybreak by Duce, Maynørr, Courtney Storm](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA)
+- [Between Mountain Tops - Radio Edit by Meanetik](https://open.spotify.com/track/3EEy2ShVQXQIqfOx8TVqi1)
+- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
+- [Hold Me Close by miksklim, Rico 56](https://open.spotify.com/track/50rOUQlJ4BdBFP8ZsxUP7g)
+- [Tectonic by Coastlines](https://open.spotify.com/track/2ZnUpFDtxqDlZmzmSMgWrL)
+- [Love Me The Same by Astrality, Krysta Youngs](https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
