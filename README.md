@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
-- [Remember by Midnight Pass, Ruffnux](https://open.spotify.com/track/6JqO8gCbkx5eekwKyTr71o)
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
-- [Right Time by NORRA](https://open.spotify.com/track/4MiqMCkdCbEKHJkEW0DaLu)
-- [Wander (Tritonia 518) by MXV, mölly, Courtney Storm](https://open.spotify.com/track/5QlQoOOwRz4fa7d8txxxeE)
+- [Love U by NORRA](https://open.spotify.com/track/3hAEMnD6olqDSKFcFiZHop)
+- [Hold Me by four30](https://open.spotify.com/track/4JHLMynVGOV4PTkqtIWY78)
+- [No Echoes (Tritonia 516) - Mees Salomé Remix by Estiva, Mees Salomé](https://open.spotify.com/track/5GPNL4wcnJxsg6CF54qzlC)
+- [Serene by HAK3N](https://open.spotify.com/track/5ZZtfkpgLJMJrJ37HLH7f1)
+- [Safe Place by Luke Taylor, Astrid Røse](https://open.spotify.com/track/1PJjUOy566NpVWmK8HYJaY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
