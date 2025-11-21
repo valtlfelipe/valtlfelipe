@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [blue lashes by Isam Hadjih](https://open.spotify.com/track/3T9Bxt7RiPqPUve1ZvJM0m)
-- [Light by TOMB](https://open.spotify.com/track/5gY5dHJSbolTg0wxzhJynj)
-- [Talk with Me by Klama](https://open.spotify.com/track/13mgcv0WPkbNKH1TOt024p)
-- [Talk with Me by Klama](https://open.spotify.com/track/13mgcv0WPkbNKH1TOt024p)
-- [Ocean by D.Polo](https://open.spotify.com/track/1f4M2A1M18c5XdOr0acebQ)
+- [Find Love Now by Cheat Codes, Punctual, Raphaella](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt)
+- [Anywhere With You by AFROJACK, Lucas &amp; Steve, DubVision](https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS)
+- [Please Be Mine by Kungs, DJ Seinfeld, Club Azur](https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy)
+- [Divine by terro, Etza](https://open.spotify.com/track/4ABLw6QdTVWy6WVAbPWMYA)
+- [Open Roads - Mixed by MXV](https://open.spotify.com/track/1m6Y97YISQyaWrJiCWfgTJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
