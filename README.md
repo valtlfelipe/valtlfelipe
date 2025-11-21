@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Promises by WEISS, Louise Marshall](https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi)
-- [Beat Of Your Heart by Purple Disco Machine, ÁSDÍS](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr)
-- [We Groovin (with Jazzy) by Jamie Jones, Jazzy](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv)
-- [Magic With You by DJ Licious, Alex Germys, Alex Lucas](https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv)
-- [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
+- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
+- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
+- [Let Me Love U by Baauer](https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26)
+- [These Are The Days (feat. Liv Dawson) by Anton Powers, ManyFew, Liv Dawson](https://open.spotify.com/track/39GX8fhLrxiPcNAMgZhWUa)
+- [Friday (Alone Right Now) by ATRIP](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
