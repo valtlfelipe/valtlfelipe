@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Say It To Me by Otto Knows](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ)
-- [In The Dark by Armin van Buuren, David Guetta, Aldae](https://open.spotify.com/track/492Ms0eG4ylkf1m50ORty7)
-- [The Music Began To Play by Mark Knight, Armand Van Helden](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj)
-- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
-- [All Day (feat. Nonô) by Welshy, Nonô](https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R)
+- [Promises by WEISS, Louise Marshall](https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi)
+- [Beat Of Your Heart by Purple Disco Machine, ÁSDÍS](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr)
+- [We Groovin (with Jazzy) by Jamie Jones, Jazzy](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv)
+- [Magic With You by DJ Licious, Alex Germys, Alex Lucas](https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv)
+- [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
