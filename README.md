@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Find Love Now by Cheat Codes, Punctual, Raphaella](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt)
-- [Anywhere With You by AFROJACK, Lucas &amp; Steve, DubVision](https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS)
-- [Please Be Mine by Kungs, DJ Seinfeld, Club Azur](https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy)
-- [Divine by terro, Etza](https://open.spotify.com/track/4ABLw6QdTVWy6WVAbPWMYA)
-- [Open Roads - Mixed by MXV](https://open.spotify.com/track/1m6Y97YISQyaWrJiCWfgTJ)
+- [Say It To Me by Otto Knows](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ)
+- [In The Dark by Armin van Buuren, David Guetta, Aldae](https://open.spotify.com/track/492Ms0eG4ylkf1m50ORty7)
+- [The Music Began To Play by Mark Knight, Armand Van Helden](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj)
+- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
+- [All Day (feat. Nonô) by Welshy, Nonô](https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
