@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[logchimp/logchimp](https://github.com/logchimp/logchimp)** - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
-- [Forever by Chris Brown](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML)
-- [Good Feeling by Flo Rida](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8)
-- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
-- [A Sky Full of Stars by Coldplay](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ)
+- [Glad You Came by The Wanted](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj)
+- [Higher by Taio Cruz, Kylie Minogue](https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo)
+- [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
+- [Baby, I Love Your Way by Big Mountain](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa)
+- [Paradise by Coldplay](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
