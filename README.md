@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase/etl](https://github.com/supabase/etl)** - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Desert Bloom by Elegant Ape](https://open.spotify.com/track/1RkNRvUOpavpdecCBSfH2z)
-- [Color (Sun Goes Down) - Extended Mix by Thierry Von Der Warth, Lenji](https://open.spotify.com/track/03YEbgQybcMCrfq0XqUvQq)
-- [Breathe Out by Boy At The Beach, Johannes Jungleson](https://open.spotify.com/track/37qvyZnrcJazLl3VlS7wZH)
-- [Waiting So Long by NORRA](https://open.spotify.com/track/3BXpifhrd0zQTKX9jQMDDy)
-- [wait for you by cypress, Rowland Giles](https://open.spotify.com/track/1a2eXjseJxPEpz27rsoCJw)
+- [Captivated by LTN, Ghostbeat, Nina Carr](https://open.spotify.com/track/3pNnSLPQUHxUrLMoiMNN6d)
+- [Yearning For You by fwd/slash](https://open.spotify.com/track/2IWDOZYiugAgXOOQLRePqk)
+- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
+- [Shadows by Panuma, TwoWorldsApart, Dan Soleil](https://open.spotify.com/track/73ts8OmqhuvzrwAP3qFGwC)
+- [Beloved by Sol.](https://open.spotify.com/track/33uoiOxZva7eikL3rnJkaj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
