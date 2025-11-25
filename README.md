@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase/etl](https://github.com/supabase/etl)** - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
-- [twisted stars by dreem](https://open.spotify.com/track/3PGicBcWozV0IUKTWYYQk3)
-- [Inertia by Hessian](https://open.spotify.com/track/1DC4WYpBda2uT0lQ3v7evG)
-- [This Fire&#39;s Burning by Coastlines](https://open.spotify.com/track/3zyVrLOJxv8P7Dz2N4jsj1)
-- [Fine Lines - Extended Mix by Felon, EKE](https://open.spotify.com/track/0ZwRfWFskNUDAeA5k6qjeX)
+- [You Shine Tonight by Tony El Campeon](https://open.spotify.com/track/4gvSK7htqKlwvCz5SDIkTe)
+- [Primrose - Mixed by MXV](https://open.spotify.com/track/3WeS3pmh3caCCRYgjok1qg)
+- [Every Storm by Light of Ages](https://open.spotify.com/track/1UXMq2SQvs4ymhxk3u5WRT)
+- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
+- [Nebula by dwelyr](https://open.spotify.com/track/3JxUDwK4clwu4sB2i1Q5KA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
