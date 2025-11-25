@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase/etl](https://github.com/supabase/etl)** - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Cosmic People by Conibow](https://open.spotify.com/track/10WfjXl3BuKPYuHiWvxego)
-- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
-- [Gaslight by Banaati, artie.](https://open.spotify.com/track/5oOxCAU058sCv4S7JiynSR)
-- [On My Mind by Klama](https://open.spotify.com/track/3aM7GIPqUcpkUUoBYhGxab)
-- [Golden Horizon by Nabila Moyo](https://open.spotify.com/track/2sRffPuy4zEsPoxSKc5QNV)
+- [Dulcet by dwelyr, Matrx](https://open.spotify.com/track/5tWioqaFqX3BUMJiBbqKVO)
+- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
+- [I Touch Myself by Victoria James](https://open.spotify.com/track/2ih3F9o7apewUTGZT3wj0p)
+- [Wander (Tritonia 518) by MXV, mölly, Courtney Storm](https://open.spotify.com/track/5QlQoOOwRz4fa7d8txxxeE)
+- [only the fire by mivra](https://open.spotify.com/track/5iN5JsYK1nDmlzY0SEeJXO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
