@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase/etl](https://github.com/supabase/etl)** - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [All We&#39;ve Got by aural](https://open.spotify.com/track/2hvYcuptJ3CNOHmF18Rocg)
-- [Change by Hayyoo](https://open.spotify.com/track/6jlEugNoShukKRB40pJf59)
-- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
-- [Waiting - Extended Mix by Sickluv](https://open.spotify.com/track/44KWq7lg3CB8soCoYAjSZo)
-- [Beachside Mirage by Aether Shift](https://open.spotify.com/track/1rCNxZbxDv4IYG7jrlzxBh)
+- [Whispers of Renewal by Noah &#43; Known](https://open.spotify.com/track/3MtTfqKoMTY1OAqu3asZEp)
+- [Prada by Tako](https://open.spotify.com/track/70aucIo8PlPCsVQe2hOObG)
+- [Stay for a While by SNSE](https://open.spotify.com/track/4lBbmz8DxzUvsymHdk8dhQ)
+- [Strange Encounters by NEAL DEAN, Heidi West](https://open.spotify.com/track/2eiCINk5vQMrDMIN9nsmoN)
+- [Promise by Elliot Vast](https://open.spotify.com/track/6qN0v8e3tA7kP4IDrFjeWP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
