@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase/etl](https://github.com/supabase/etl)** - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Ah Up by Sound Quelle](https://open.spotify.com/track/0pbZX9CK1W2iIiUFJf39wr)
-- [Polarization by Melosense](https://open.spotify.com/track/21WFhBGBhcozF2sJ41EjEh)
-- [Summer&#39;s End by Massane](https://open.spotify.com/track/0ad22SFsPKkHtI22ghecQe)
-- [Inertia (Tritonia 524) by Hessian](https://open.spotify.com/track/0mWdP0bUJiSufMi7Vkk2Ws)
-- [Belong (Vocal Mix) by The Lost Cafe](https://open.spotify.com/track/3TgnCiyDzrZscRQa3McEZB)
+- [Mind Off by Carlita, WhoMadeWho, Orsay](https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM)
+- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
+- [Aquatic by Nora En Pure](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK)
+- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
+- [Hung by Sound Quelle](https://open.spotify.com/track/5KteBzvgHmFUGpjJ8iN3XY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
