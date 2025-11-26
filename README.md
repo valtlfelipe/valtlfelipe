@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase/etl](https://github.com/supabase/etl)** - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [No More Waiting by AZERDK, DJ Zabeat](https://open.spotify.com/track/35sRXAdN2lg66vkjvI6gbj)
-- [Light It Up - Extended Mix by LTN, FTBG](https://open.spotify.com/track/0PRdMiYPPFEugG9BFg2SrP)
-- [Strange Nights by ZeLeo](https://open.spotify.com/track/32h0VddZWXDHmNQjhTED22)
-- [On And On by VAVRA](https://open.spotify.com/track/58FodGUMCTaL9ePDsmElT0)
-- [Back To You by Dallien, KZann, Spagbo](https://open.spotify.com/track/2uyxNUSxJq0fHFon3otFGZ)
+- [Last Snow - Extended Mix by dwelyr](https://open.spotify.com/track/2qysBK0dFsWMp6L4aPK5Az)
+- [Troubled Water by Panuma, blaank, birø, Idun Nicoline](https://open.spotify.com/track/4wsnIQl5IXJnf7UxFIJsFX)
+- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
+- [Northern Lights by RAZZ, SAINY, Idun Nicoline](https://open.spotify.com/track/00IIYTbwHQNH2wmcRz4Lee)
+- [Out Of My Mind by LB74](https://open.spotify.com/track/48h8L5boVl2PfBT47oY6fl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
