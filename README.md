@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Stay by w.ill](https://open.spotify.com/track/3rkp3IGj5pNBTqGjihMNJe)
-- [Can You See by UOAK, Jope](https://open.spotify.com/track/7CRdvO49IiymJSzodIur4f)
-- [Rhythm (Of The Night) by Something Good, YOTTO](https://open.spotify.com/track/2a8ozWMspmoaqM44oHeCRo)
-- [Our World by Rezident, Elmar](https://open.spotify.com/track/430PPsBrIlbBQqtRKHV5jF)
-- [Memories by Massane](https://open.spotify.com/track/7sXtIzVFmmDqvvzGyBoSAX)
+- [All I Need by Nora En Pure](https://open.spotify.com/track/6qyTKkv5D6UYZXSn5UCmos)
+- [Close To Heaven by ZUSO, Beckah Amani](https://open.spotify.com/track/3mZV2GdDyZn83wso5REabA)
+- [Falling Off by Shingo Nakamura](https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au)
+- [Cove by Massane](https://open.spotify.com/track/5MDkD03ZUsDgLVa2CuxovD)
+- [Explore by Melosense](https://open.spotify.com/track/1iWaxxAN8mryBxC4ORf02n)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
