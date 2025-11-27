@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase/etl](https://github.com/supabase/etl)** - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Love You Back by Massane](https://open.spotify.com/track/77blB5UVGX4l0BoAZAOKnO)
-- [Mind Off by Carlita, WhoMadeWho, Orsay](https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM)
-- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
-- [Aquatic by Nora En Pure](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK)
-- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
+- [Can You by MXV, Courtney Storm](https://open.spotify.com/track/1IViMQ0Ifl0N9Gbkwdifso)
+- [Muse by Rezident, Kate Morgan](https://open.spotify.com/track/0Ung09zr13qBaEGMtTDmrQ)
+- [Floating by Massane](https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1)
+- [Rising Above Thought by MXV](https://open.spotify.com/track/4hLN7QtDPxr1J53JJNd0hA)
+- [La Cumbre by Flexible Fire](https://open.spotify.com/track/1qgR8XYlajv6y09cskZQcV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
