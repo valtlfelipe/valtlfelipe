@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Moments by Melosense](https://open.spotify.com/track/0BVCCuHQTb2z2XPbNIukLM)
-- [Reflection by Rezident](https://open.spotify.com/track/4QHHdw8ZJik6oRTZpdo8n9)
-- [5am by Massane](https://open.spotify.com/track/15OVDVrLMRIZsqnT0Kkhgg)
-- [Sunlight by Flexible Fire, Etza](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx)
-- [In Your Eyes by Nora En Pure](https://open.spotify.com/track/501sz40LhXSFQHA2LTXMpw)
+- [Finally by VAVRA](https://open.spotify.com/track/6JJPwlYDJrx6u2oYhNDlpL)
+- [The Last Dinosaur by Little Foot](https://open.spotify.com/track/6Lo45pcs2HehJ04FxaY0vy)
+- [Closer by Slow Ted, Phil Odd, TMPST](https://open.spotify.com/track/4K6j4py6eaG1iBppZQ2dS5)
+- [Euphoria by OCULA, LeyeT](https://open.spotify.com/track/1Sx86xHVVfdwmkttEHvXtK)
+- [Message by Rezident](https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
