@@ -3,7 +3,7 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)** - Technitium DNS Server (2 days ago)
+- **[TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)** - Technitium DNS Server (3 days ago)
 - **[giscus/giscus](https://github.com/giscus/giscus)** - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (2 weeks ago)
 - **[kurrier-org/kurrier](https://github.com/kurrier-org/kurrier)** - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (2 weeks ago)
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
