@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase/etl](https://github.com/supabase/etl)** - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Sunlight by Flexible Fire, Etza](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx)
+- [In Your Eyes by Nora En Pure](https://open.spotify.com/track/501sz40LhXSFQHA2LTXMpw)
+- [Never Far by HAK3N](https://open.spotify.com/track/3XnGkmaMnX5yLokPdDcQi5)
 - [The Chills by The Pressure](https://open.spotify.com/track/4LcXZPdx1tL63jzfsqdsHp)
 - [Story to Remember by Melosense](https://open.spotify.com/track/5jpEBnl7zk7zbs8dNXnvxn)
-- [Moving In by Rezident, Elmar](https://open.spotify.com/track/3QTRSMkio5iEka29Ek2DD5)
-- [Novae by Massane](https://open.spotify.com/track/50dON9WkhCG2XNpbGJN5fu)
-- [Turn Up The Love by Claptone, Crystal Fighters](https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
