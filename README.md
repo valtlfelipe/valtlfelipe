@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Light by TOMB](https://open.spotify.com/track/5gY5dHJSbolTg0wxzhJynj)
-- [All I Need by Nora En Pure](https://open.spotify.com/track/6qyTKkv5D6UYZXSn5UCmos)
-- [Close To Heaven by ZUSO, Beckah Amani](https://open.spotify.com/track/3mZV2GdDyZn83wso5REabA)
-- [Falling Off by Shingo Nakamura](https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au)
-- [Cove by Massane](https://open.spotify.com/track/5MDkD03ZUsDgLVa2CuxovD)
+- [After Dark by LTN, Ghostbeat](https://open.spotify.com/track/2B2vTMJ6vcsHAsbkcSWJRR)
+- [One Good Reason by Rezident, Biishop](https://open.spotify.com/track/78rkJWLEiS9xLHoLTvKBMD)
+- [Only Want You by MXV](https://open.spotify.com/track/0u5DIHmlyxroXRFXBMqQDO)
+- [Pale Blue by A.M.R](https://open.spotify.com/track/4g7AKQPyJE7o1Oa3thtOUm)
+- [Run by Lane 8, Kasablanca](https://open.spotify.com/track/0yjxW8s0Uuk9uKi0Nh9B7T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
