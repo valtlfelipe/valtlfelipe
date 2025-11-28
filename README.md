@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [How It Was by Azeon., terro](https://open.spotify.com/track/2qmXGUYeDEsNUamDzUgkHO)
+- [Secrets by Klama](https://open.spotify.com/track/2ozxnv4Q8GVypUqek65aLD)
+- [Feels The Same by Dallien, RVPTR, RVZE](https://open.spotify.com/track/2i5WXSxVuJFJbn6dAKLEnk)
+- [Waves by Abroad](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM)
 - [Whenever by P.A.V](https://open.spotify.com/track/09AjysGQs2BsWowsMwrHUr)
-- [Care by w.ill](https://open.spotify.com/track/4HfmvXaKMjCiovgJMrS5wP)
-- [Moonshine by Panuma, Nina Carr](https://open.spotify.com/track/4V2qhPdFPs5Sqh7gBOHdr4)
-- [Riverside - Timefive Remix by The Translator, Q&#39;Aila, Timefive](https://open.spotify.com/track/0jjaFaqYAXSYGoMGzaTRl6)
-- [Sunrise by Keanler](https://open.spotify.com/track/5GAqaoEhGaKVqs65KCiimJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
