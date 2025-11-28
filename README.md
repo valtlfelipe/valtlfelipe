@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Sun Burns Out by Odare](https://open.spotify.com/track/6oPZ5l1DRwH4vWZl0YX6gd)
-- [Boss by KVSH, GIACOBBI](https://open.spotify.com/track/4wrGdAeguFjVoM8ubqjuI0)
-- [September by Dubdogz](https://open.spotify.com/track/0atuGBPKrSp6UhdOBTGdHF)
-- [No Need To Play by Elekfantz](https://open.spotify.com/track/1SXLiP7lCv6qPsSoOrpP9R)
-- [I&#39;ll Be Here by Avi Snow, Zeeba](https://open.spotify.com/track/3Sv6liwDwv868Dfodi4V09)
+- [Botanica by fwd/slash](https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs)
+- [Breathe Out by Boy At The Beach, Johannes Jungleson](https://open.spotify.com/track/37qvyZnrcJazLl3VlS7wZH)
+- [wait for you by cypress, Rowland Giles](https://open.spotify.com/track/1a2eXjseJxPEpz27rsoCJw)
+- [Moments by Mellowdy](https://open.spotify.com/track/0Ge1nmERkZ1FxWIHBk5vNL)
+- [Inner Light by Elderbrook, Bob Moses](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
