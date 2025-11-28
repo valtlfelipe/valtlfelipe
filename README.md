@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [The World by Abroad](https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7)
+- [Sunshine by Elderbrook, Snakehips](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ)
+- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
+- [Whispers of Renewal by Noah &#43; Known](https://open.spotify.com/track/3MtTfqKoMTY1OAqu3asZEp)
 - [Botanica by fwd/slash](https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs)
-- [Breathe Out by Boy At The Beach, Johannes Jungleson](https://open.spotify.com/track/37qvyZnrcJazLl3VlS7wZH)
-- [wait for you by cypress, Rowland Giles](https://open.spotify.com/track/1a2eXjseJxPEpz27rsoCJw)
-- [Moments by Mellowdy](https://open.spotify.com/track/0Ge1nmERkZ1FxWIHBk5vNL)
-- [Inner Light by Elderbrook, Bob Moses](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
