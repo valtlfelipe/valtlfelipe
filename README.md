@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [After Dark by LTN, Ghostbeat](https://open.spotify.com/track/2B2vTMJ6vcsHAsbkcSWJRR)
-- [One Good Reason by Rezident, Biishop](https://open.spotify.com/track/78rkJWLEiS9xLHoLTvKBMD)
-- [Only Want You by MXV](https://open.spotify.com/track/0u5DIHmlyxroXRFXBMqQDO)
-- [Pale Blue by A.M.R](https://open.spotify.com/track/4g7AKQPyJE7o1Oa3thtOUm)
-- [Run by Lane 8, Kasablanca](https://open.spotify.com/track/0yjxW8s0Uuk9uKi0Nh9B7T)
+- [Sun Burns Out by Odare](https://open.spotify.com/track/6oPZ5l1DRwH4vWZl0YX6gd)
+- [Boss by KVSH, GIACOBBI](https://open.spotify.com/track/4wrGdAeguFjVoM8ubqjuI0)
+- [September by Dubdogz](https://open.spotify.com/track/0atuGBPKrSp6UhdOBTGdHF)
+- [No Need To Play by Elekfantz](https://open.spotify.com/track/1SXLiP7lCv6qPsSoOrpP9R)
+- [I&#39;ll Be Here by Avi Snow, Zeeba](https://open.spotify.com/track/3Sv6liwDwv868Dfodi4V09)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
