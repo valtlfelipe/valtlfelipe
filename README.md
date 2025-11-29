@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Hold Me by SK Austen](https://open.spotify.com/track/7C6CZq5ydli7hOWvbLXfw6)
+- [Tranquility by Rytes](https://open.spotify.com/track/53j9HH3oQ11Ip0Hvd4njzk)
+- [refract by cypress](https://open.spotify.com/track/2U4VITRVXaPYlyneGP2kiq)
 - [Belong (Vocal Mix) by The Lost Cafe](https://open.spotify.com/track/3TgnCiyDzrZscRQa3McEZB)
 - [Weightless (jamesjamesjames Remix) by Ben Böhmer, Panama, jamesjamesjames](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC)
-- [Chronicles Of Nowhere by MXV](https://open.spotify.com/track/09SW29WTS0gRdNWtcgTxXg)
-- [Latch by TEEMID LAB](https://open.spotify.com/track/3tWcsNkSKVCRKgoL3yUJyw)
-- [Breezy Waves by Aether Shift](https://open.spotify.com/track/5XFhNSppE0oWwe5y0zjlNm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
