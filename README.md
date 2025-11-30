@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [One in a Million by Bebe Rexha, David Guetta](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz)
-- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
-- [How You Feel (ft Leven Kali) by ANOTR, Leven Kali, Erik Bandt](https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL)
-- [Temptation by Bakermat, Elise LeGrow](https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS)
-- [All Day (feat. Nonô) by Welshy, Nonô](https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R)
+- [B Somebody by Chloé Caillet, SG Lewis](https://open.spotify.com/track/1YjaqAl5NJLerViBolct9E)
+- [By Your Side (feat. Tom Grennan) by Calvin Harris, Tom Grennan](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV)
+- [There She Goes by CYRIL, MOONLGHT, The La&#39;s](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7)
+- [JOY (By My Side) by Joy Anonymous, Sammy Virji](https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3)
+- [heaven in your arms by salute, Jessie Ware](https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
