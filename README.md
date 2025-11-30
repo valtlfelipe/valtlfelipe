@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Danielle (smile on my face) by Fred again..](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv)
-- [It&#39;s A Feeling by Sigala, Trevor Daniel, 24kGoldn](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8)
-- [Holding Your Hand by SACHI, Poppy Baskcomb](https://open.spotify.com/track/6UK7PodvHTVM9vItl0VOKh)
-- [Glide by NEIKED, Portugal. The Man](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K)
-- [Good Feeling (feat. Rhys Lewis) by Bakermat, Rhys Lewis](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO)
+- [Relax My Eyes by ANOTR, Abel Balder](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH)
+- [Symphony (feat. Zara Larsson) by Clean Bandit, Zara Larsson](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8)
+- [Endless Summer by Alan Walker, Zak Abel](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK)
+- [Tell Me What You Want by Oden &amp; Fatzo, Poppy Baskcomb](https://open.spotify.com/track/7pPMx57fvpINMYGE0eZFhp)
+- [Addicted - Zerb Acid VIP by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
