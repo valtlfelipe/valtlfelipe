@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Get Up by Keys N Krates](https://open.spotify.com/track/6eqI6rkIXqJO5uIuli36Ey)
-- [Better Than This by John Summit, Parachute Youth](https://open.spotify.com/track/5OLSGox6JVpAyEQuoSYRcs)
-- [I LUV U (Sunny) by Alex Gaudino, BLENDER, Ragdoll](https://open.spotify.com/track/5Zr3A0yB8p60zWiK7kwFxl)
-- [In The Dark by Armin van Buuren, David Guetta, Aldae](https://open.spotify.com/track/492Ms0eG4ylkf1m50ORty7)
-- [True by CYRIL, Kita Alexander](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm)
+- [Can&#39;t Sleep by HAK3N](https://open.spotify.com/track/7bo3JSUUiiM9BfcZYtitpa)
+- [Higher - Matt Leger Remix by Joseph Crime, Matt Leger](https://open.spotify.com/track/2oAeUnkZKsS6WNFJYxayEj)
+- [Feel You Right There by Jako Diaz, OMERGY, Josiah Nichols](https://open.spotify.com/track/12DHjn3YI1Nu6d3zm3vfe3)
+- [Behind Us by Maone](https://open.spotify.com/track/4HkWabKZ9mZtEnKDJpoACp)
+- [Call My Name by Human Rias, Afnan Prince](https://open.spotify.com/track/67FK5OIIEgUlU4GmQp4PIW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
