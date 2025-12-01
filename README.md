@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Lifetime by J Ribbon](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL)
-- [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
-- [Heartbeat (Tritonia 524) by Hessian, Courtney Storm](https://open.spotify.com/track/0QLRGnLqNgnEBaf37KX1S6)
-- [Desire by Kozua](https://open.spotify.com/track/7nKCCCvkdY3vmR10AeUBKH)
-- [Morning Flight by Yasin Guven](https://open.spotify.com/track/65pW9pYC2IwtrgYZvBelpd)
+- [Made For Loving You by VAVRA](https://open.spotify.com/track/2mXsBi5KdnKXUUfWZaydLO)
+- [undress by aelera](https://open.spotify.com/track/0xsKg6J6ylmCgzeOEOp887)
+- [Seasons Shift by Light of Ages](https://open.spotify.com/track/0p2Yj09kHIAjrS8ZiTlGtN)
+- [You Set Me on Fire by Mazro](https://open.spotify.com/track/5lZg1Gk89SvRsLHgIselXX)
+- [Never Alone - Extended Mix by zaccwithtwocs, Heather Janssen](https://open.spotify.com/track/7bHVvVrLR8ZcwM7ZfLT8T2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
