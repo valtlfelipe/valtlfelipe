@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Blue Sky by TOMB](https://open.spotify.com/track/6slbQhAP3kiDxXBiRzdAxX)
-- [Part Of Me by Neascape](https://open.spotify.com/track/6bJiWavSBej10Ub92KJufG)
-- [Sunlight by Ambyion](https://open.spotify.com/track/6y2OEiZLTG0HNM8KdcHIht)
-- [Boreal by Massane](https://open.spotify.com/track/1kWwj0Dw976uu197FnvFxK)
-- [You Are Never Alone by MXV](https://open.spotify.com/track/60Z66fNHcLMpY8nBpkMepv)
+- [Acacia (Tritonia 524) by Hessian](https://open.spotify.com/track/73oLusbMdjMJd2NiTarki8)
+- [It&#39;s Always Been You by MXV](https://open.spotify.com/track/4kzghsE6r9sJyViCoI6K0O)
+- [Falls by Che-Yung](https://open.spotify.com/track/3UwMQhLOWiddOoT1YdimtG)
+- [Lake Nivu by Jerro](https://open.spotify.com/track/6M3dHm9RLBhU1C2mdW2Pvi)
+- [So Alive by May Zoean](https://open.spotify.com/track/5lkns7grxl5HmRuq8KPw50)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
