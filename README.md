@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kurrier-org/kurrier](https://github.com/kurrier-org/kurrier)** - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Losing My Mind by Anriu](https://open.spotify.com/track/6a18MRLFZuAUsaSK62FHpJ)
-- [Daylight (Future Horizons 464) by mölly, Bridges](https://open.spotify.com/track/0bHZ34m9LxUZqVfpalahjf)
-- [Sturdy by Jerro](https://open.spotify.com/track/6kOef2qZrTjBvRfAIaJhN4)
-- [Only Want You by MXV](https://open.spotify.com/track/0u5DIHmlyxroXRFXBMqQDO)
-- [Never Alone by zaccwithtwocs, Heather Janssen](https://open.spotify.com/track/49e8ayGgVyYcVeu053wadZ)
+- [Feel Like Living by Pietro Pavan](https://open.spotify.com/track/7ML5D4qKVZqU3xDs3XVvJQ)
+- [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
+- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
+- [Heaven&#39;s Shore by Ambyion](https://open.spotify.com/track/6kA1hKbUUOW7eca6NBtd5Z)
+- [Remember To Live by Oliver River](https://open.spotify.com/track/79DibX4MeVEFydCIADEG4O)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
