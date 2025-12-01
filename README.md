@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** - Awesome apps, software, and SaaS deals on Black Friday. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Can&#39;t Sleep by HAK3N](https://open.spotify.com/track/7bo3JSUUiiM9BfcZYtitpa)
-- [Higher - Matt Leger Remix by Joseph Crime, Matt Leger](https://open.spotify.com/track/2oAeUnkZKsS6WNFJYxayEj)
-- [Feel You Right There by Jako Diaz, OMERGY, Josiah Nichols](https://open.spotify.com/track/12DHjn3YI1Nu6d3zm3vfe3)
-- [Behind Us by Maone](https://open.spotify.com/track/4HkWabKZ9mZtEnKDJpoACp)
-- [Call My Name by Human Rias, Afnan Prince](https://open.spotify.com/track/67FK5OIIEgUlU4GmQp4PIW)
+- [Lifetime by J Ribbon](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL)
+- [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
+- [Heartbeat (Tritonia 524) by Hessian, Courtney Storm](https://open.spotify.com/track/0QLRGnLqNgnEBaf37KX1S6)
+- [Desire by Kozua](https://open.spotify.com/track/7nKCCCvkdY3vmR10AeUBKH)
+- [Morning Flight by Yasin Guven](https://open.spotify.com/track/65pW9pYC2IwtrgYZvBelpd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
