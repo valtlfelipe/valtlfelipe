@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kurrier-org/kurrier](https://github.com/kurrier-org/kurrier)** - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Losing My Mind by Anriu](https://open.spotify.com/track/6a18MRLFZuAUsaSK62FHpJ)
+- [Daylight (Future Horizons 464) by mölly, Bridges](https://open.spotify.com/track/0bHZ34m9LxUZqVfpalahjf)
+- [Sturdy by Jerro](https://open.spotify.com/track/6kOef2qZrTjBvRfAIaJhN4)
+- [Only Want You by MXV](https://open.spotify.com/track/0u5DIHmlyxroXRFXBMqQDO)
 - [Never Alone by zaccwithtwocs, Heather Janssen](https://open.spotify.com/track/49e8ayGgVyYcVeu053wadZ)
-- [Closer by blaank, Jörd, Lighthouse](https://open.spotify.com/track/4RF358diHjNIMYzxQWXKRy)
-- [Make You Mine by Stendahl](https://open.spotify.com/track/2bbjDrZw5OsRy3wtqmfO1N)
-- [Collide by Light Chaser](https://open.spotify.com/track/6ZlhIzBGgqfpsMEr7yjXUH)
-- [My Addictions - Extended Mix by MXV](https://open.spotify.com/track/7tQXTljDXjni4G9S5K1usT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
