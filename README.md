@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kurrier-org/kurrier](https://github.com/kurrier-org/kurrier)** - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Lonely Together by Avicii, Rita Ora](https://open.spotify.com/track/4CznlctarxgWvy3NoMFfMH)
-- [Paradise by MEDUZA, Dermot Kennedy](https://open.spotify.com/track/40FUdLENDY3sZmHEM25lpE)
-- [The Right Song by Tiësto, Oliver Heldens, Natalie La Rose](https://open.spotify.com/track/59yxjfkqhOPacjiolBHQDC)
-- [Caught Up (with Olivia O&#39;Brien) by Gryffin, Olivia O&#39;Brien](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1)
-- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
+- [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
+- [Bad Reputation (feat. Joe Janiak) by Avicii, Joe Janiak](https://open.spotify.com/track/0HZgYFimoJG9Ijy8InUWcV)
+- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
+- [World Gone Wild (feat. Sam Martin) by Robin Schulz, CYRIL, Sam Martin](https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1)
+- [Never Be Lonely by Jax Jones, Zoe Wees](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
