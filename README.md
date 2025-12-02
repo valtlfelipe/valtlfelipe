@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kurrier-org/kurrier](https://github.com/kurrier-org/kurrier)** - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Desert Bloom by Elegant Ape](https://open.spotify.com/track/1RkNRvUOpavpdecCBSfH2z)
-- [Malibu by UOAK](https://open.spotify.com/track/3XovubwzGKYpP9Aite7eV9)
-- [Belong (Instrumental) by The Lost Cafe](https://open.spotify.com/track/2XXEGxtvTTav1ZBwNNjozN)
-- [Bath Time - Mixed by MXV](https://open.spotify.com/track/5DmaLccImB2sLaNLj9n5wS)
-- [Aquatic by Nora En Pure](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK)
+- [Days &amp; Nights by Sevenkey, Guezmark](https://open.spotify.com/track/7oTQAGx4ZKsSg3AyvORFkR)
+- [Closer by Jerro](https://open.spotify.com/track/72lXX5BRR12VBVyOaHyfR2)
+- [Only For A Moment by Rezident, Ekko](https://open.spotify.com/track/6YAD96LzVMdGPIOdiIrdeJ)
+- [Light It Up - Extended Mix by LTN, FTBG](https://open.spotify.com/track/0PRdMiYPPFEugG9BFg2SrP)
+- [undress by aelera](https://open.spotify.com/track/0xsKg6J6ylmCgzeOEOp887)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
