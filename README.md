@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kurrier-org/kurrier](https://github.com/kurrier-org/kurrier)** - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [If I Lose Myself - Alesso vs OneRepublic by OneRepublic, Alesso](https://open.spotify.com/track/3ScJy88F8KqGDfWu8XJhHx)
-- [Leave Before You Love Me (with Jonas Brothers) by Marshmello, Jonas Brothers](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1)
-- [Heaven by Avicii](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ)
-- [Stereo by twocolors, Roe Byrne](https://open.spotify.com/track/3ekheCAmDutf88rPe0WQU1)
-- [When I&#39;m With You by Kaskade, Colette](https://open.spotify.com/track/4rXflTOWCja5YDR96lINzu)
+- [Live Without Love by Shouse, David Guetta](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA)
+- [SOS (feat. Aloe Blacc) by Avicii, Aloe Blacc](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5)
+- [Save The World by Swedish House Mafia](https://open.spotify.com/track/1zIEwDU2IZyHjy17ssOvyr)
+- [I Will Be Here - Wolfgang Gartner Remix by Tiësto, Sneaky Sound System](https://open.spotify.com/track/6PtXaQhZvH4JFU5xe1aqRx)
+- [feelslikeimfallinginlove - Zerb x Coldplay by Coldplay, Zerb](https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
