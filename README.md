@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[giscus/giscus](https://github.com/giscus/giscus)** - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Pearly by Polar Inc.](https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn)
-- [Oh, Miles by Lane 8, Julia Church](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd)
-- [All I Need by Nora En Pure](https://open.spotify.com/track/6qyTKkv5D6UYZXSn5UCmos)
-- [Smile by A.M.R](https://open.spotify.com/track/3cQ2pYZrrqTUVqrzPMDRoX)
-- [Our World by Rezident, Elmar](https://open.spotify.com/track/430PPsBrIlbBQqtRKHV5jF)
+- [We Keep Coming Back by MXV, djimboh](https://open.spotify.com/track/5J6POzF23aYsZGyRRdfLCJ)
+- [Hung by Sound Quelle](https://open.spotify.com/track/5KteBzvgHmFUGpjJ8iN3XY)
+- [Tribe of Kindness by Nora En Pure](https://open.spotify.com/track/2C4qlSBJ9u5fzvciCwHy8B)
+- [Message by Rezident](https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF)
+- [Waitin&#39; by HotLap](https://open.spotify.com/track/0bruK7CIEhyQO8tzeRTnjg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
