@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kurrier-org/kurrier](https://github.com/kurrier-org/kurrier)** - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Magic Moment (feat. Chris de Sarandy) by Glockenbach, Chris de Sarandy](https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT)
-- [Beautiful People by David Guetta, Sia](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W)
-- [The Spark by AFROJACK, Spree Wilson](https://open.spotify.com/track/5CYJB5Md92kvcrZ4lJDALY)
-- [Love Tonight (David Guetta Remix) by Shouse, David Guetta](https://open.spotify.com/track/5zf8rvPF22Q3dcKKWWUoeA)
-- [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
+- [Desert Bloom by Elegant Ape](https://open.spotify.com/track/1RkNRvUOpavpdecCBSfH2z)
+- [Malibu by UOAK](https://open.spotify.com/track/3XovubwzGKYpP9Aite7eV9)
+- [Belong (Instrumental) by The Lost Cafe](https://open.spotify.com/track/2XXEGxtvTTav1ZBwNNjozN)
+- [Bath Time - Mixed by MXV](https://open.spotify.com/track/5DmaLccImB2sLaNLj9n5wS)
+- [Aquatic by Nora En Pure](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
