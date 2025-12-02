@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kurrier-org/kurrier](https://github.com/kurrier-org/kurrier)** - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Magic Moment (feat. Chris de Sarandy) by Glockenbach, Chris de Sarandy](https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT)
+- [Beautiful People by David Guetta, Sia](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W)
+- [The Spark by AFROJACK, Spree Wilson](https://open.spotify.com/track/5CYJB5Md92kvcrZ4lJDALY)
+- [Love Tonight (David Guetta Remix) by Shouse, David Guetta](https://open.spotify.com/track/5zf8rvPF22Q3dcKKWWUoeA)
 - [I Like It (with Nate Smith) by Alesso, Nate Smith](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K)
-- [Bad Reputation (feat. Joe Janiak) by Avicii, Joe Janiak](https://open.spotify.com/track/0HZgYFimoJG9Ijy8InUWcV)
-- [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
-- [World Gone Wild (feat. Sam Martin) by Robin Schulz, CYRIL, Sam Martin](https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1)
-- [Never Be Lonely by Jax Jones, Zoe Wees](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
