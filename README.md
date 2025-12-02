@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kurrier-org/kurrier](https://github.com/kurrier-org/kurrier)** - Kurrier is a modern, self-hosted webmail that integrates with all the major ESP&#39;s. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Lonely Together by Avicii, Rita Ora](https://open.spotify.com/track/4CznlctarxgWvy3NoMFfMH)
+- [Paradise by MEDUZA, Dermot Kennedy](https://open.spotify.com/track/40FUdLENDY3sZmHEM25lpE)
+- [The Right Song by Tiësto, Oliver Heldens, Natalie La Rose](https://open.spotify.com/track/59yxjfkqhOPacjiolBHQDC)
 - [Caught Up (with Olivia O&#39;Brien) by Gryffin, Olivia O&#39;Brien](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1)
 - [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
-- [Original Sin by Sofi Tukker](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6)
-- [Live Without Love by Shouse, David Guetta](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA)
-- [SOS (feat. Aloe Blacc) by Avicii, Aloe Blacc](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
