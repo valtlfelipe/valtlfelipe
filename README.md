@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[giscus/giscus](https://github.com/giscus/giscus)** - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Only For Us To Know by Hyperbits, San Mateo Drive, Jake Neumar](https://open.spotify.com/track/5ZSp3htbUiyoqut0ET97Ds)
+- [Light by TOMB](https://open.spotify.com/track/5gY5dHJSbolTg0wxzhJynj)
+- [Reflection by Rezident](https://open.spotify.com/track/4QHHdw8ZJik6oRTZpdo8n9)
 - [Perfect Night by Rodg](https://open.spotify.com/track/5NfoWBGTG7KZMITHMN16Il)
 - [We Ignite by Stendahl](https://open.spotify.com/track/3XIvMHBXM6lkxo4I2hoqwL)
-- [We Keep Coming Back by MXV, djimboh](https://open.spotify.com/track/5J6POzF23aYsZGyRRdfLCJ)
-- [Hung by Sound Quelle](https://open.spotify.com/track/5KteBzvgHmFUGpjJ8iN3XY)
-- [Tribe of Kindness by Nora En Pure](https://open.spotify.com/track/2C4qlSBJ9u5fzvciCwHy8B)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
