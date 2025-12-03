@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)** - Technitium DNS Server (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Found You (with Calvin Harris) by benny blanco, Calvin Harris](https://open.spotify.com/track/1kQhi22kyluRCnIPAXtxEZ)
-- [Heroes (we could be) - Amtrac Remix by Alesso, Tove Lo](https://open.spotify.com/track/7anJjQNSjKhPfkvRGBKiHJ)
-- [Ocean Drive by Duke Dumont](https://open.spotify.com/track/4b93D55xv3YCH5mT4p6HPn)
-- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
-- [Afterglow by Bob Moses, Kasablanca](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44)
+- [Forever Yours - Avicii Tribute by Kygo, Avicii, Sandro Cavazza](https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf)
+- [Somebody To Use by Alesso](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13)
+- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
+- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
+- [Hanging On - CRi Remix by Bob Moses, CRi](https://open.spotify.com/track/1DkpkxabQnbRmhvdjdmnnW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
