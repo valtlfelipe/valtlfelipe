@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)** - Technitium DNS Server (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Memories by Grafine](https://open.spotify.com/track/7qZgWS0w3ZpuRuREDQ1MEK)
-- [No Gravity (feat. Bava) by Zedd, Bava](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g)
-- [Cool - Sonny Alven Remix by Alesso, Roy English, Sonny Alven](https://open.spotify.com/track/2X7kWAhkyadjjOf0o4UCPF)
-- [Melt by Duke Dumont](https://open.spotify.com/track/4YXJZWRPQbrlA84IrQ7p07)
-- [Heaven Takes You Home (feat. Connie Constance) by Swedish House Mafia, Connie Constance](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4)
+- [I Found You (with Calvin Harris) by benny blanco, Calvin Harris](https://open.spotify.com/track/1kQhi22kyluRCnIPAXtxEZ)
+- [Heroes (we could be) - Amtrac Remix by Alesso, Tove Lo](https://open.spotify.com/track/7anJjQNSjKhPfkvRGBKiHJ)
+- [Ocean Drive by Duke Dumont](https://open.spotify.com/track/4b93D55xv3YCH5mT4p6HPn)
+- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
+- [Afterglow by Bob Moses, Kasablanca](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
