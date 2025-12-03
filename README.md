@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[giscus/giscus](https://github.com/giscus/giscus)** - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Let It Go by Ross Quinn](https://open.spotify.com/track/6vs2JoHlRqH5OmgUNFPrGi)
-- [Elve by Polar Inc.](https://open.spotify.com/track/5ZDinjswyWnPfJlxuK24sQ)
-- [Rio Manso by Flexible Fire, Oval-O](https://open.spotify.com/track/5dKMNvdYKf2FGlCfmToEVv)
-- [Captivated - Extended Mix by LTN, Ghostbeat, Nina Carr](https://open.spotify.com/track/2V4w3SM9QK0qG84BYP8OF1)
-- [Hands That Feed by Enamour](https://open.spotify.com/track/3Hy9Qo2egCx8HPCPSnMtti)
+- [This Is Your Life by Robin Schulz](https://open.spotify.com/track/6zYBSah53JHmmrjjLOcXM8)
+- [Rule The World by GAMPER &amp; DADONI, ILIRA](https://open.spotify.com/track/22sKunNSPMCy2lvSLOY5yX)
+- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
+- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
+- [Pedal (feat. Tide Lane) by NOAM, Spijk, Tide Lane](https://open.spotify.com/track/3pfjLaTFU25q6MU9M31By9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
