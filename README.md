@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)** - Technitium DNS Server (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Forever Yours - Avicii Tribute by Kygo, Avicii, Sandro Cavazza](https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf)
-- [Somebody To Use by Alesso](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13)
-- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
-- [Lioness by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR)
-- [Hanging On - CRi Remix by Bob Moses, CRi](https://open.spotify.com/track/1DkpkxabQnbRmhvdjdmnnW)
+- [I Remember - John Summit Remix by deadmau5, Kaskade, John Summit](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz)
+- [I Wanna Know by Alesso, Nico &amp; Vinz](https://open.spotify.com/track/2kYqdSlrtovVMMIn6ykzba)
+- [How You Love Me by 3LAU, Bright Lights](https://open.spotify.com/track/0A1y3d5O3SDvXaQ8snkmOf)
+- [Seen it Coming by Bob Moses](https://open.spotify.com/track/3L9ZOuzzOZNKrFcJdLc38w)
+- [Back To My Love - Falden Remix by Tritonal, Marlhy, Falden](https://open.spotify.com/track/6z3tvGWNT0H1DPZLc1b7fv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
