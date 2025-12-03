@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[giscus/giscus](https://github.com/giscus/giscus)** - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Let It Go by Ross Quinn](https://open.spotify.com/track/6vs2JoHlRqH5OmgUNFPrGi)
+- [Elve by Polar Inc.](https://open.spotify.com/track/5ZDinjswyWnPfJlxuK24sQ)
+- [Rio Manso by Flexible Fire, Oval-O](https://open.spotify.com/track/5dKMNvdYKf2FGlCfmToEVv)
+- [Captivated - Extended Mix by LTN, Ghostbeat, Nina Carr](https://open.spotify.com/track/2V4w3SM9QK0qG84BYP8OF1)
 - [Hands That Feed by Enamour](https://open.spotify.com/track/3Hy9Qo2egCx8HPCPSnMtti)
-- [Summer In New York by Sofi Tukker](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q)
-- [Get Up by Keys N Krates](https://open.spotify.com/track/6eqI6rkIXqJO5uIuli36Ey)
-- [Kenopsia by Polar Inc.](https://open.spotify.com/track/7kuQOJPzOCwwgyNZPwbT2R)
-- [Cold Light - 6am Remix by KC Lights, Leo Stannard](https://open.spotify.com/track/6BRsln8RDWDl91YmJpCYxY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
