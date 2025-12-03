@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)** - Technitium DNS Server (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Whatcha Doing by Passive Progressive](https://open.spotify.com/track/04JDybIOMEFteaes1lMpHE)
+- [Starlight (Keep Me Afloat) by Martin Garrix, DubVision, Shaun Farrugia](https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA)
+- [Save The World by Swedish House Mafia](https://open.spotify.com/track/65hRZOQkVjmBdusz1N7aOv)
+- [Make You Say by Zedd, Maren Morris, BEAUZ](https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV)
 - [I Remember - John Summit Remix by deadmau5, Kaskade, John Summit](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz)
-- [I Wanna Know by Alesso, Nico &amp; Vinz](https://open.spotify.com/track/2kYqdSlrtovVMMIn6ykzba)
-- [How You Love Me by 3LAU, Bright Lights](https://open.spotify.com/track/0A1y3d5O3SDvXaQ8snkmOf)
-- [Seen it Coming by Bob Moses](https://open.spotify.com/track/3L9ZOuzzOZNKrFcJdLc38w)
-- [Back To My Love - Falden Remix by Tritonal, Marlhy, Falden](https://open.spotify.com/track/6z3tvGWNT0H1DPZLc1b7fv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
