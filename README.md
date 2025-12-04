@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Dopamine by Purple Disco Machine, Eyelar](https://open.spotify.com/track/3x4HQL358aI7js8F43mN7S)
-- [Let Me by Matoma](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw)
-- [Pure Shores by All Saints, Tourist](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ)
-- [Happier (feat. Clementine Douglas) by The Blessed Madonna, Clementine Douglas](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv)
-- [Never Going Home Tonight (feat. Madison Love) by David Guetta, Alesso, Madison Love](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO)
+- [Forever Baby by Carlita, Janet Planet](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo)
+- [Dance With You by Mohtiv](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6)
+- [Endless Summer by Alan Walker, Zak Abel](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK)
+- [Sunshine by D.O.D, RAHH](https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX)
+- [Dance All Over Me - Jax Jones Remix by George Ezra, Jax Jones](https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
