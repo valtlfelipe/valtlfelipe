@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Night Feels by AR/CO](https://open.spotify.com/track/6oELcspL4BONtElLhJfBPI)
-- [Good Time by Jodie Harsh](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ)
-- [How You Samba by Kris Kross Amsterdam, Sofía Reyes, Tinie Tempah](https://open.spotify.com/track/5gl0Sw1FaHzio6Sw0s7sQi)
-- [Starlight (Keep Me Afloat) by Martin Garrix, DubVision, Shaun Farrugia](https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA)
-- [You&#39;re Free by Icona Pop, Ultra Naté](https://open.spotify.com/track/0KF938333oCvIXDxe72K44)
+- [get down on it by Young Franco, Kool &amp; The Gang](https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI)
+- [Happy Music by Supershy](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0)
+- [Move (feat. Camila Cabello &amp; Malachiii) by Adam Port, Stryv, Camila Cabello, Malachiii, Keinemusik, Orso](https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG)
+- [Sunday Best by Coco &amp; Breezy, Aluna](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n)
+- [Feels This Good by Sigala, Mae Muller, Caity Baser, Stefflon Don](https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
