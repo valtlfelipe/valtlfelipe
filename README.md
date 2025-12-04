@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Speak About It by Cloudcage, Jack Willard](https://open.spotify.com/track/16IpOhT7oGbzcn6FGjjjCX)
-- [Good Love by DJ Ferno, Nyoki, Kaitlin Aragon](https://open.spotify.com/track/3ASbB0xbGRlFufPazFHPPp)
-- [Feel You Right There by Jako Diaz, OMERGY, Josiah Nichols](https://open.spotify.com/track/12DHjn3YI1Nu6d3zm3vfe3)
-- [Lucky (feat. Remi Wolf) by Zedd, Remi Wolf](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb)
-- [Anywhere With You by AFROJACK, Lucas &amp; Steve, DubVision](https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS)
+- [Falling Again by Brendel, DXSTN, Courtney Storm](https://open.spotify.com/track/11qBL6eb3y7t0IR7VYOQ0X)
+- [Highlights by Zorro, Ooyy](https://open.spotify.com/track/65WLQk6JqvgM2gs5Nh2D8i)
+- [Let You Down by YVMV, musv](https://open.spotify.com/track/1JXanB4EBft20VApb5TUpx)
+- [Apart by Vintagewave](https://open.spotify.com/track/1mv8m0GbzWo3O2p4r30AJt)
+- [Fall Into by Matt Dylan](https://open.spotify.com/track/0rXkHwTmH54wSraJNaDxM2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
