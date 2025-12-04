@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Glide by NEIKED, Portugal. The Man](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K)
-- [Mine 4 All Time by GUDFELLA](https://open.spotify.com/track/1jmkxyaWnXqObZbe6sTleG)
-- [These Words by Badger, Natasha Bedingfield](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz)
-- [Forever Baby by Carlita, Janet Planet](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo)
-- [Dance With You by Mohtiv](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6)
+- [Find Love Now by Cheat Codes, Punctual, Raphaella](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt)
+- [Baddy On The Floor by Jamie xx, Honey Dijon](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN)
+- [Addicted - Zerb Acid VIP by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X)
+- [Promises by WEISS, Louise Marshall](https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi)
+- [Get Up by Keys N Krates](https://open.spotify.com/track/6eqI6rkIXqJO5uIuli36Ey)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
