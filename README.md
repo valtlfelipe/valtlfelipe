@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Find Love Now by Cheat Codes, Punctual, Raphaella](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt)
-- [Baddy On The Floor by Jamie xx, Honey Dijon](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN)
-- [Addicted - Zerb Acid VIP by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X)
-- [Promises by WEISS, Louise Marshall](https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi)
-- [Get Up by Keys N Krates](https://open.spotify.com/track/6eqI6rkIXqJO5uIuli36Ey)
+- [Night Feels by AR/CO](https://open.spotify.com/track/6oELcspL4BONtElLhJfBPI)
+- [Good Time by Jodie Harsh](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ)
+- [How You Samba by Kris Kross Amsterdam, Sofía Reyes, Tinie Tempah](https://open.spotify.com/track/5gl0Sw1FaHzio6Sw0s7sQi)
+- [Starlight (Keep Me Afloat) by Martin Garrix, DubVision, Shaun Farrugia](https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA)
+- [You&#39;re Free by Icona Pop, Ultra Naté](https://open.spotify.com/track/0KF938333oCvIXDxe72K44)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
