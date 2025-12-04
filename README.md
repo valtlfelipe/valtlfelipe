@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [get down on it by Young Franco, Kool &amp; The Gang](https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI)
-- [Happy Music by Supershy](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0)
-- [Move (feat. Camila Cabello &amp; Malachiii) by Adam Port, Stryv, Camila Cabello, Malachiii, Keinemusik, Orso](https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG)
-- [Sunday Best by Coco &amp; Breezy, Aluna](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n)
-- [Feels This Good by Sigala, Mae Muller, Caity Baser, Stefflon Don](https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep)
+- [Speak About It by Cloudcage, Jack Willard](https://open.spotify.com/track/16IpOhT7oGbzcn6FGjjjCX)
+- [Good Love by DJ Ferno, Nyoki, Kaitlin Aragon](https://open.spotify.com/track/3ASbB0xbGRlFufPazFHPPp)
+- [Feel You Right There by Jako Diaz, OMERGY, Josiah Nichols](https://open.spotify.com/track/12DHjn3YI1Nu6d3zm3vfe3)
+- [Lucky (feat. Remi Wolf) by Zedd, Remi Wolf](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb)
+- [Anywhere With You by AFROJACK, Lucas &amp; Steve, DubVision](https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
