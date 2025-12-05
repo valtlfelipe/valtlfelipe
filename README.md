@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Lifetime by J Ribbon](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL)
-- [Antarctica by Slow Ted](https://open.spotify.com/track/3L3kgXIhA8kALdS1Wcqgbt)
-- [Long Way Home by Sinova](https://open.spotify.com/track/2gSY7MTPrPBmZsp5SG9KNv)
-- [Late Mornings by Jan William](https://open.spotify.com/track/4e2ot6QnOGPM6dmsBLPSLe)
-- [Pantheon by Jerro](https://open.spotify.com/track/7jzYd0OEy6RGAIZrXMRU7f)
+- [Runnin&#39; On The Moon by Isam Hadjih](https://open.spotify.com/track/7jiXouARrMibGaRkeDPYV9)
+- [Last Snow - Mixed by dwelyr](https://open.spotify.com/track/5TZnphaxrq19gf5lmN3Saa)
+- [All My Life by VAVRA](https://open.spotify.com/track/2H8w8yyCtYu0s5LdrZIMeS)
+- [Breathe by blaank, May Zoean](https://open.spotify.com/track/4j3vmYTKWVVlqoaW7FcIVX)
+- [Never Alone - Extended Mix by zaccwithtwocs, Heather Janssen](https://open.spotify.com/track/7bHVvVrLR8ZcwM7ZfLT8T2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
