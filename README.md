@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
-- [My Dear by Roth, Wegner](https://open.spotify.com/track/6RtmMJGW862UlDma7mmUgX)
-- [Fading 2001 by Shoumeck](https://open.spotify.com/track/4QrhRdrCVCXjMR9W5dkxmv)
-- [Butterfly Chase by Mike Hotten, Karmaloft](https://open.spotify.com/track/0bPa5r1KKfZ1nov3jtOVD6)
-- [Closer by Jerro](https://open.spotify.com/track/72lXX5BRR12VBVyOaHyfR2)
+- [Lifetime by J Ribbon](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL)
+- [Antarctica by Slow Ted](https://open.spotify.com/track/3L3kgXIhA8kALdS1Wcqgbt)
+- [Long Way Home by Sinova](https://open.spotify.com/track/2gSY7MTPrPBmZsp5SG9KNv)
+- [Late Mornings by Jan William](https://open.spotify.com/track/4e2ot6QnOGPM6dmsBLPSLe)
+- [Pantheon by Jerro](https://open.spotify.com/track/7jzYd0OEy6RGAIZrXMRU7f)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
