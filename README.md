@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Falling Again by Brendel, DXSTN, Courtney Storm](https://open.spotify.com/track/11qBL6eb3y7t0IR7VYOQ0X)
-- [Highlights by Zorro, Ooyy](https://open.spotify.com/track/65WLQk6JqvgM2gs5Nh2D8i)
-- [Let You Down by YVMV, musv](https://open.spotify.com/track/1JXanB4EBft20VApb5TUpx)
-- [Apart by Vintagewave](https://open.spotify.com/track/1mv8m0GbzWo3O2p4r30AJt)
-- [Fall Into by Matt Dylan](https://open.spotify.com/track/0rXkHwTmH54wSraJNaDxM2)
+- [Higher - Matt Leger Remix by Joseph Crime, Matt Leger](https://open.spotify.com/track/2oAeUnkZKsS6WNFJYxayEj)
+- [Behind Us by Maone](https://open.spotify.com/track/4HkWabKZ9mZtEnKDJpoACp)
+- [Touch by Momenhue](https://open.spotify.com/track/2xllwDlUYVIxwATgH5xXc8)
+- [Same Dream by Steven Weston, Taė](https://open.spotify.com/track/13S2GurJpAAYccXMgBPzmx)
+- [Ozeanblau by Ambyion](https://open.spotify.com/track/5wLTRdHh1iKn9zOa86CS8M)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
