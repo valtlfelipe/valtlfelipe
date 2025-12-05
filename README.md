@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The Wait - Mixed by Slow Ted, Songspire](https://open.spotify.com/track/4o18P2NDJ0wdVvgcw4Tyo8)
-- [New Hope by Qualysto](https://open.spotify.com/track/6OxgJeggAHg8rWE3KaReoe)
-- [Sunlight by Ambyion](https://open.spotify.com/track/6y2OEiZLTG0HNM8KdcHIht)
-- [Heartbeat (Tritonia 524) by Hessian, Courtney Storm](https://open.spotify.com/track/0QLRGnLqNgnEBaf37KX1S6)
-- [Great Plains by Verbala](https://open.spotify.com/track/7B2qwF4Qf0dwmuU2UQ3upI)
+- [Here Comes the Hotstepper - Heartical Mix by iNi Kamoze, Salaam Remi](https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
+- [Everytime We Touch - Radio Edit by Cascada](https://open.spotify.com/track/74PyndGWYtfs86n60lAsYW)
+- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
+- [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/7EH2enDP1q3upRqctbOz3n)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
