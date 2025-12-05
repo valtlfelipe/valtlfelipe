@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Higher - Matt Leger Remix by Joseph Crime, Matt Leger](https://open.spotify.com/track/2oAeUnkZKsS6WNFJYxayEj)
-- [Behind Us by Maone](https://open.spotify.com/track/4HkWabKZ9mZtEnKDJpoACp)
-- [Touch by Momenhue](https://open.spotify.com/track/2xllwDlUYVIxwATgH5xXc8)
-- [Same Dream by Steven Weston, Taė](https://open.spotify.com/track/13S2GurJpAAYccXMgBPzmx)
-- [Ozeanblau by Ambyion](https://open.spotify.com/track/5wLTRdHh1iKn9zOa86CS8M)
+- [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
+- [My Dear by Roth, Wegner](https://open.spotify.com/track/6RtmMJGW862UlDma7mmUgX)
+- [Fading 2001 by Shoumeck](https://open.spotify.com/track/4QrhRdrCVCXjMR9W5dkxmv)
+- [Butterfly Chase by Mike Hotten, Karmaloft](https://open.spotify.com/track/0bPa5r1KKfZ1nov3jtOVD6)
+- [Closer by Jerro](https://open.spotify.com/track/72lXX5BRR12VBVyOaHyfR2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
