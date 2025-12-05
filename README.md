@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Coastline by RAZZ, Pherick](https://open.spotify.com/track/7Msp6y4kUqFjMNfnBxQty8)
-- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
-- [Lagoon by Qualysto](https://open.spotify.com/track/37l6nrAm73UXLa6qnAtYeT)
-- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
-- [I Don&#39;t Need To Say by VAVRA](https://open.spotify.com/track/72FYEQEd07HFnk5OydcfP6)
+- [Heartbeat (Tritonia 524) by Hessian, Courtney Storm](https://open.spotify.com/track/0QLRGnLqNgnEBaf37KX1S6)
+- [Great Plains by Verbala](https://open.spotify.com/track/7B2qwF4Qf0dwmuU2UQ3upI)
+- [undress by aelera](https://open.spotify.com/track/0xsKg6J6ylmCgzeOEOp887)
+- [DOPAMINE by Vintagewave](https://open.spotify.com/track/4o3oQQXIeClir1f1O7dq3b)
+- [Beneath The Lights by Blancwater](https://open.spotify.com/track/4VjMaoJR3x5oUvSoWMda7R)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
