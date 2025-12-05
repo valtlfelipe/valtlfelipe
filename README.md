@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Back To You by Dallien, KZann, Spagbo](https://open.spotify.com/track/2uyxNUSxJq0fHFon3otFGZ)
-- [Forever by Hessian, Yellowitz](https://open.spotify.com/track/5Ia5F9lPczHoYXOCo1TyRq)
-- [Rushing In by mölly, MØØNE](https://open.spotify.com/track/2SFSd0cuykFFzAYDGH42jD)
-- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
-- [Mouie by Jerro](https://open.spotify.com/track/2v8kyBaSjGoitS9efkl3v6)
+- [Coastline by RAZZ, Pherick](https://open.spotify.com/track/7Msp6y4kUqFjMNfnBxQty8)
+- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
+- [Lagoon by Qualysto](https://open.spotify.com/track/37l6nrAm73UXLa6qnAtYeT)
+- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
+- [I Don&#39;t Need To Say by VAVRA](https://open.spotify.com/track/72FYEQEd07HFnk5OydcfP6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
