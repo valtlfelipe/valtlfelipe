@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Here Comes the Hotstepper - Heartical Mix by iNi Kamoze, Salaam Remi](https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx)
-- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
-- [Everytime We Touch - Radio Edit by Cascada](https://open.spotify.com/track/74PyndGWYtfs86n60lAsYW)
-- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
-- [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/7EH2enDP1q3upRqctbOz3n)
+- [Gettin&#39; Jiggy Wit It by Will Smith](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp)
+- [All Around The World (La La La) by R3HAB, A Touch Of Class](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp)
+- [Don&#39;t Stop The Music by Rihanna](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy)
+- [Hey Brother by Avicii](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk)
+- [No Lie by Sean Paul, Dua Lipa](https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
