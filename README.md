@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Push The Feeling On - Mk Dub Revisited Edit by Nightcrawlers, MK](https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag)
+- [All Around The World (La La La) by R3HAB, A Touch Of Class](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp)
 - [Without You (feat. Usher) by David Guetta, USHER](https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum)
 - [You Don&#39;t Know Me by Jax Jones, RAYE](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu)
 - [Children by Robert Miles](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)
-- [Sweet Dreams (Are Made of This) - 2005 Remaster by Eurythmics, Annie Lennox, Dave Stewart](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS)
-- [I Gotta Feeling by Black Eyed Peas](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
