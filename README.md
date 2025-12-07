@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Push The Feeling On - Mk Dub Revisited Edit by Nightcrawlers, MK](https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag)
-- [All Around The World (La La La) by R3HAB, A Touch Of Class](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp)
-- [Without You (feat. Usher) by David Guetta, USHER](https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum)
-- [You Don&#39;t Know Me by Jax Jones, RAYE](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu)
-- [Children by Robert Miles](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)
+- [I Wanna Dance with Somebody (Who Loves Me) by Whitney Houston](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj)
+- [Rhythm Is a Dancer - 7&#34; Edit by SNAP!](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)
+- [All That She Wants by Ace of Base](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9)
+- [Praise You (Radio Edit) by Fatboy Slim](https://open.spotify.com/track/1j8GQQGyC26O1TeW4LLvjk)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
