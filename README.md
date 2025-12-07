@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
+- [Cheerleader (Felix Jaehn Remix) - Radio Edit by OMI, Felix Jaehn](https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy)
+- [Tubthumping by Chumbawamba](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ)
+- [Sing Hallelujah! by Dr. Alban](https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg)
 - [I Wanna Dance with Somebody (Who Loves Me) by Whitney Houston](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj)
-- [Rhythm Is a Dancer - 7&#34; Edit by SNAP!](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)
-- [All That She Wants by Ace of Base](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9)
-- [Praise You (Radio Edit) by Fatboy Slim](https://open.spotify.com/track/1j8GQQGyC26O1TeW4LLvjk)
-- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
