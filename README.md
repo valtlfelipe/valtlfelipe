@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Disturbia by Rihanna](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc)
 - [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
 - [Cheerleader (Felix Jaehn Remix) - Radio Edit by OMI, Felix Jaehn](https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy)
 - [Tubthumping by Chumbawamba](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ)
 - [Sing Hallelujah! by Dr. Alban](https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg)
-- [I Wanna Dance with Somebody (Who Loves Me) by Whitney Houston](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
