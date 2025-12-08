@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Into The Night by Freddie Mudge](https://open.spotify.com/track/2ZOvWOQCBEfUJuitIhslXO)
-- [Soi Ari by Soul Nova](https://open.spotify.com/track/6KdLBSkW5MHLlSOiobxNsm)
-- [You Saved Me by Sourcee](https://open.spotify.com/track/5w2QBEj48CUbDjYyuFJoqD)
-- [Looking At Me by Leo Lauretti, Cosmaks](https://open.spotify.com/track/5LJzsHLmQ1Hj1D4TUdy5wR)
-- [Solace by MEHÍLOVE](https://open.spotify.com/track/7DaNcVk8wgrVcHFm0V2PA9)
+- [Miss U by Parada](https://open.spotify.com/track/0FBZJo6U1Ms0YtPsjfS0dg)
+- [Hey Now by Paige, Nihil Young, Innarius](https://open.spotify.com/track/0D4jfYqgPUjzAWbXsxvd4n)
+- [Where We Belong by Amtrac](https://open.spotify.com/track/1eCbYVNIkLFf54XkKWN6uf)
+- [Madalena by Edward Snellen](https://open.spotify.com/track/4lC3AJifTcbf9398QR4253)
+- [Open Sea by HËRE](https://open.spotify.com/track/2WDCB4bTArj5tx1BQL6K2z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
