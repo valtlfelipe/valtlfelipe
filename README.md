@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Need Somebody by Jerro, Lizzy Land](https://open.spotify.com/track/6KTWtfD0ciy5N3Lid45D3G)
-- [Early Years by San Mateo Drive](https://open.spotify.com/track/5FziDh9cdhDIvzPZVrZhIM)
-- [Solid Ground by Marc Wiese, Gabi Juliano](https://open.spotify.com/track/5uF3feCtXIELkY396WUg5e)
-- [Autumn Leaves by w.ill](https://open.spotify.com/track/4FxdriRA0ZaRMZ17QktZdZ)
-- [Beyond Worries by Shoumeck, Ceci](https://open.spotify.com/track/2lWLhC9arjzZTh5On3PcNJ)
+- [Time by four30](https://open.spotify.com/track/4ttxjekytfxpN08dZpoQtr)
+- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
+- [Luna&#39;s Dream by Dokho](https://open.spotify.com/track/6yDwrSuGafugPjhmAfTr0i)
+- [Playing With Fire by Anriu](https://open.spotify.com/track/0zmS2bw6o1FdLtpUQmjVkD)
+- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
