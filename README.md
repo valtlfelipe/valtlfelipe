@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[patroni/patroni](https://github.com/patroni/patroni)** - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [REDD by GALAFUNK](https://open.spotify.com/track/0dPbJj1MTx83jQfJHeWY5X)
 - [Waves - Robin Schulz Radio Edit by Mr. Probz, Robin Schulz](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs)
 - [Don&#39;t Feel the Same by Amani Amara](https://open.spotify.com/track/2jWwaTuOfPHD0G82jPnscY)
 - [You Never Know by Parada, Asphodelle](https://open.spotify.com/track/5TDMW2owGn523GDflee8BA)
 - [On The Run by NVRT](https://open.spotify.com/track/2qI55suh5Otdu3NdxLeBzY)
-- [Remember To Live by Oliver River](https://open.spotify.com/track/79DibX4MeVEFydCIADEG4O)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
