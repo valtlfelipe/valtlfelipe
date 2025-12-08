@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Schnitzel by Alex H](https://open.spotify.com/track/3Uw9dzVnYqyTrdXUdhbfDL)
-- [Say Hello by Enamour, Meliha](https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi)
-- [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
-- [Coming Home by Bound to Divide, Lewyn](https://open.spotify.com/track/34IXNMBuEBScydzVVTwBlM)
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [The Mountain by Andrew Nagy, Joel Winterflood](https://open.spotify.com/track/25DrHc6fsJ1UumUHHHXppc)
+- [Body and Soul by Flow Loris](https://open.spotify.com/track/4KX0JCJLdWL0JS8yjghNvX)
+- [Nossa Casa by terro](https://open.spotify.com/track/30llHiEO5U6SaCkM5mcu7x)
+- [Serene by HAK3N](https://open.spotify.com/track/5ZZtfkpgLJMJrJ37HLH7f1)
+- [Late Mornings by Jan William](https://open.spotify.com/track/4e2ot6QnOGPM6dmsBLPSLe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
