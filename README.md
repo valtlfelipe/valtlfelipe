@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Take Me Over by Neascape](https://open.spotify.com/track/44UfNiNi8WwvwKow9JrFBq)
-- [Feel It All by mölly](https://open.spotify.com/track/7dgy6Px3ND1PRThRZlOwbm)
-- [Wide Awake by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/3VMpFBqmPfuVp9LH7TvKOh)
-- [Fading 2001 by Shoumeck](https://open.spotify.com/track/4QrhRdrCVCXjMR9W5dkxmv)
-- [fading signals by aelera, starbend](https://open.spotify.com/track/1FbWMa9dGZGm0nroahQR3f)
+- [Need Somebody by Jerro, Lizzy Land](https://open.spotify.com/track/6KTWtfD0ciy5N3Lid45D3G)
+- [Early Years by San Mateo Drive](https://open.spotify.com/track/5FziDh9cdhDIvzPZVrZhIM)
+- [Solid Ground by Marc Wiese, Gabi Juliano](https://open.spotify.com/track/5uF3feCtXIELkY396WUg5e)
+- [Autumn Leaves by w.ill](https://open.spotify.com/track/4FxdriRA0ZaRMZ17QktZdZ)
+- [Beyond Worries by Shoumeck, Ceci](https://open.spotify.com/track/2lWLhC9arjzZTh5On3PcNJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
