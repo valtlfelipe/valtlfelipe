@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The Mountain by Andrew Nagy, Joel Winterflood](https://open.spotify.com/track/25DrHc6fsJ1UumUHHHXppc)
-- [Body and Soul by Flow Loris](https://open.spotify.com/track/4KX0JCJLdWL0JS8yjghNvX)
-- [Nossa Casa by terro](https://open.spotify.com/track/30llHiEO5U6SaCkM5mcu7x)
-- [Serene by HAK3N](https://open.spotify.com/track/5ZZtfkpgLJMJrJ37HLH7f1)
-- [Late Mornings by Jan William](https://open.spotify.com/track/4e2ot6QnOGPM6dmsBLPSLe)
+- [Take Me Over by Neascape](https://open.spotify.com/track/44UfNiNi8WwvwKow9JrFBq)
+- [Feel It All by mölly](https://open.spotify.com/track/7dgy6Px3ND1PRThRZlOwbm)
+- [Wide Awake by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/3VMpFBqmPfuVp9LH7TvKOh)
+- [Fading 2001 by Shoumeck](https://open.spotify.com/track/4QrhRdrCVCXjMR9W5dkxmv)
+- [fading signals by aelera, starbend](https://open.spotify.com/track/1FbWMa9dGZGm0nroahQR3f)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
