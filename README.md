@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [I Won&#39;t Give Up On You by Alex H](https://open.spotify.com/track/6rfeJZNR2nxZJuWh7CszNz)
+- [Silver Lining by Falden](https://open.spotify.com/track/4O4W2KMtCo9Kpn8o9ExxYn)
 - [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
 - [Liar by ARIV3](https://open.spotify.com/track/69oqNuisdEwY8g1OS4zSOL)
 - [We Are Young by Alex Breitling](https://open.spotify.com/track/13xEtVZxK4WXprFsV8ytj8)
-- [Stellar by MEHÍLOVE](https://open.spotify.com/track/1gZKsO8o7wZzc0wuJWLlZO)
-- [episode by cypress, Courtney Storm](https://open.spotify.com/track/7nszldP9W5SgyjB71BAd1t)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
