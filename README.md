@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Nossa Casa by terro](https://open.spotify.com/track/30llHiEO5U6SaCkM5mcu7x)
-- [Serene by HAK3N](https://open.spotify.com/track/5ZZtfkpgLJMJrJ37HLH7f1)
-- [Late Mornings by Jan William](https://open.spotify.com/track/4e2ot6QnOGPM6dmsBLPSLe)
-- [Silence If You Fall by Alex H](https://open.spotify.com/track/0mnEOBld5Q5sS75iCvbMZp)
-- [Innerspace by TOMB](https://open.spotify.com/track/67wkHOYVbkX376dwcjJQ4S)
+- [Desires by Banaati](https://open.spotify.com/track/1MYGbWfbuHTEBmjWVBrLi1)
+- [Aligned by Slow Ted](https://open.spotify.com/track/1FJ30vrIqdagpDSUfXTIXu)
+- [Care by w.ill](https://open.spotify.com/track/4HfmvXaKMjCiovgJMrS5wP)
+- [Testify by TIANBO, TMPST, Montagu](https://open.spotify.com/track/10xateGXXEj2VhrDeAnpzr)
+- [If This Is Heaven by Falden, sadHAPPY](https://open.spotify.com/track/6LLg5TrR0WyE37nBMLjkf6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
