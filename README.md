@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [I Won&#39;t Give Up On You by Alex H](https://open.spotify.com/track/6rfeJZNR2nxZJuWh7CszNz)
-- [Silver Lining by Falden](https://open.spotify.com/track/4O4W2KMtCo9Kpn8o9ExxYn)
-- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
-- [Liar by ARIV3](https://open.spotify.com/track/69oqNuisdEwY8g1OS4zSOL)
-- [We Are Young by Alex Breitling](https://open.spotify.com/track/13xEtVZxK4WXprFsV8ytj8)
+- [Lose Control by Banaati, Max Blücher, KARTINI](https://open.spotify.com/track/7dZDTCKoEYHjW1lHio6gne)
+- [winter air by first sun](https://open.spotify.com/track/30kuONhY4ORpVC2A83g3v6)
+- [Goes Away by Hayyoo](https://open.spotify.com/track/0nkB0fKycj6nBxhRYobT5k)
+- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
+- [Never Far by HAK3N](https://open.spotify.com/track/3XnGkmaMnX5yLokPdDcQi5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
