@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The Clouds by Rytes](https://open.spotify.com/track/0pigL2K6ytVP3L2TR1Zuvx)
-- [Stay (Tritonia 478) by w.ill](https://open.spotify.com/track/05LCePt75lKcRcTTsStUzk)
-- [Take it Slow by aural](https://open.spotify.com/track/6MxbiSK1W3igcuuxaIMDNf)
-- [Haunted by vahr](https://open.spotify.com/track/77l9JjHfNzwaqT0kH7iXZg)
-- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
+- [REDD by GALAFUNK](https://open.spotify.com/track/0dPbJj1MTx83jQfJHeWY5X)
+- [Oceade (Tritonia 464) by Dokho](https://open.spotify.com/track/6dyEkYWC8sPvG3UpHYVGgz)
+- [fool for your love by aelera](https://open.spotify.com/track/4qdzmjFYz4z5UaSyzk6fzp)
+- [I&#39;m Over You by Leo Lauretti, Arnie Way](https://open.spotify.com/track/249mR9cYycFSNdQ9jcjU9Z)
+- [Light Year (Tritonia 516) by Alex Breitling, Jyll](https://open.spotify.com/track/0D8XJcNEuF5kgnvGZjf4fw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
