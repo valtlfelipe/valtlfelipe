@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [All We&#39;ve Got by aural](https://open.spotify.com/track/2hvYcuptJ3CNOHmF18Rocg)
-- [Only For Us To Know by Hyperbits, San Mateo Drive, Jake Neumar](https://open.spotify.com/track/5ZSp3htbUiyoqut0ET97Ds)
-- [One Night In Medellín by Dokho](https://open.spotify.com/track/5EIaORnFxs9u1RhmhoBUlK)
-- [Home by Christian Löffler](https://open.spotify.com/track/3TWLXrA7eWPFdXC52JK9IX)
-- [Like I Used To by Steven Weston, Låpsley](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg)
+- [Venice Beach by Kozua](https://open.spotify.com/track/3S1ANvfLwD21P0A8Jvy6LX)
+- [Growing Up by Farlight](https://open.spotify.com/track/0k4kEc3E5UbYvCwvC9N8f1)
+- [Endless Road by shandr, bayme](https://open.spotify.com/track/7DDxR63YsDJKrzKZSmPf2J)
+- [Tides Of Time by w.ill](https://open.spotify.com/track/0yXhktRl4FKcf3q2R6aGnK)
+- [I Can&#39;t See - Extended by ROW, Samuel Miller](https://open.spotify.com/track/7v4CkKgv07ZztFpeZDcro3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
