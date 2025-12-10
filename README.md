@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [refract by cypress](https://open.spotify.com/track/2U4VITRVXaPYlyneGP2kiq)
-- [Change of Driver by Falden, PEARL](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x)
-- [What If You Fly by Oliver River](https://open.spotify.com/track/09np57gcBN1dq1gtsZ2uIB)
-- [Myla by Ophanim](https://open.spotify.com/track/7v4zSvvkbcS452oCn1cM04)
-- [Route 66 by STHLMA](https://open.spotify.com/track/7bV5fhOzVX6lsXFLMCWFbu)
+- [Find Your Light - djimboh Remix by dwelyr, djimboh](https://open.spotify.com/track/6lnIzg2Phe4OdJiyGlrKpl)
+- [Make It Out by Falden, ALLKNIGHT](https://open.spotify.com/track/0aPcpU9wdqQu0eNgFIBnPN)
+- [wait for you by cypress, Rowland Giles](https://open.spotify.com/track/1a2eXjseJxPEpz27rsoCJw)
+- [Lose Control by Banaati, Max Blücher, KARTINI](https://open.spotify.com/track/7dZDTCKoEYHjW1lHio6gne)
+- [winter air by first sun](https://open.spotify.com/track/30kuONhY4ORpVC2A83g3v6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
