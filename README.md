@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Take Me Under by Jarod Glawe](https://open.spotify.com/track/2qhjHNufIXnBJ98BjgyfRr)
-- [Take Me Over by Neascape](https://open.spotify.com/track/44UfNiNi8WwvwKow9JrFBq)
-- [Feel It All by mölly](https://open.spotify.com/track/7dgy6Px3ND1PRThRZlOwbm)
-- [Wide Awake by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/3VMpFBqmPfuVp9LH7TvKOh)
-- [Fading 2001 by Shoumeck](https://open.spotify.com/track/4QrhRdrCVCXjMR9W5dkxmv)
+- [All We&#39;ve Got by aural](https://open.spotify.com/track/2hvYcuptJ3CNOHmF18Rocg)
+- [Only For Us To Know by Hyperbits, San Mateo Drive, Jake Neumar](https://open.spotify.com/track/5ZSp3htbUiyoqut0ET97Ds)
+- [One Night In Medellín by Dokho](https://open.spotify.com/track/5EIaORnFxs9u1RhmhoBUlK)
+- [Home by Christian Löffler](https://open.spotify.com/track/3TWLXrA7eWPFdXC52JK9IX)
+- [Like I Used To by Steven Weston, Låpsley](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
