@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [On Your Mind by aural](https://open.spotify.com/track/0iUYjYT4gVBfaG6umwpRAR)
-- [Stay by Falden](https://open.spotify.com/track/4z2DiFW5DlkVrG5lM4hOvM)
-- [The Leap by mölly, Courtney Storm](https://open.spotify.com/track/5sXa2p2ilHMBgcX8FO52Ep)
-- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
-- [Love by w.ill](https://open.spotify.com/track/5yVhe3a6r111Wp89XXqLIx)
+- [undress by aelera](https://open.spotify.com/track/0xsKg6J6ylmCgzeOEOp887)
+- [Never Let You Go by terro, TMPST](https://open.spotify.com/track/6qEH1WMq3t3ZrNejH3JJLs)
+- [The Clouds by Rytes](https://open.spotify.com/track/0pigL2K6ytVP3L2TR1Zuvx)
+- [Stay (Tritonia 478) by w.ill](https://open.spotify.com/track/05LCePt75lKcRcTTsStUzk)
+- [Take it Slow by aural](https://open.spotify.com/track/6MxbiSK1W3igcuuxaIMDNf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
