@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli)** - A super fast CLI tool to decode and encode JWTs built in Rust (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Internal World by MEHÍLOVE](https://open.spotify.com/track/6iXSjGxzgJS5UqnItBnSnd)
-- [I Won&#39;t Give Up On You by Alex H](https://open.spotify.com/track/6rfeJZNR2nxZJuWh7CszNz)
-- [Silver Lining by Falden](https://open.spotify.com/track/4O4W2KMtCo9Kpn8o9ExxYn)
-- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
-- [Liar by ARIV3](https://open.spotify.com/track/69oqNuisdEwY8g1OS4zSOL)
+- [refract by cypress](https://open.spotify.com/track/2U4VITRVXaPYlyneGP2kiq)
+- [Change of Driver by Falden, PEARL](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x)
+- [What If You Fly by Oliver River](https://open.spotify.com/track/09np57gcBN1dq1gtsZ2uIB)
+- [Myla by Ophanim](https://open.spotify.com/track/7v4zSvvkbcS452oCn1cM04)
+- [Route 66 by STHLMA](https://open.spotify.com/track/7bV5fhOzVX6lsXFLMCWFbu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
