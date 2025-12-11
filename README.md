@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[facebook/rocksdb](https://github.com/facebook/rocksdb)** - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Glamorous by Fergie, Ludacris](https://open.spotify.com/track/4N0tDOF2bo9JEpSqLNlpjq)
+- [Too Sweet by Hozier](https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ)
+- [Pink Pony Club by Chappell Roan](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)
+- [Pink Pony Club by Chappell Roan](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)
 - [Slide (feat. Frank Ocean &amp; Migos) by Calvin Harris, Frank Ocean, Migos, Funk Wav](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl)
-- [Cooler Than Me - Single Mix by Mike Posner, Gigamesh](https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj)
-- [Training Season by Dua Lipa](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap)
-- [A Bar Song (Tipsy) by Shaboozey](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf)
-- [Time of Our Lives by Pitbull, Ne-Yo](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
