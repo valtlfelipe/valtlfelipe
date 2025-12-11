@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[facebook/rocksdb](https://github.com/facebook/rocksdb)** - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Your Love - Diplo Remix by The Outfield, Diplo](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y)
-- [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
-- [Remember by Becky Hill, David Guetta](https://open.spotify.com/track/4yAofTZhl3MdElTqO33oi5)
-- [The Days - NOTION Remix by Chrystal, NOTION](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)
-- [CHANEL by Tyla](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7)
+- [I Wanna Go - John Summit Remix by John Summit, Britney Spears](https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho)
+- [Money Made Me A Savage - Calabria by Ely Oaks, LAVINIA](https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4)
+- [Makeba - Ian Asher Remix by Jain, Ian Asher](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L)
+- [PYHU (Put Your Hands Up) by HUGEL, Kurd Maverick](https://open.spotify.com/track/0zKsNJbYwvNTpePcwra0Qq)
+- [leavemealone by Fred again.., Baby Keem](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
