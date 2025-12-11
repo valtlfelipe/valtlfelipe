@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[facebook/rocksdb](https://github.com/facebook/rocksdb)** - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Wanna Go - John Summit Remix by John Summit, Britney Spears](https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho)
-- [Money Made Me A Savage - Calabria by Ely Oaks, LAVINIA](https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4)
-- [Makeba - Ian Asher Remix by Jain, Ian Asher](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L)
-- [PYHU (Put Your Hands Up) by HUGEL, Kurd Maverick](https://open.spotify.com/track/0zKsNJbYwvNTpePcwra0Qq)
-- [leavemealone by Fred again.., Baby Keem](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic)
+- [Walking On A Dream by Empire Of The Sun](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)
+- [I Follow Rivers - The Magician Remix by Lykke Li, The Magician](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9)
+- [Neverender by Justice, Tame Impala](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj)
+- [No Broke Boys by Disco Lines, Tinashe](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj)
+- [I Only Smoke When I Drink by nimino](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
