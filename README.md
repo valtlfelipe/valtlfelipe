@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[facebook/rocksdb](https://github.com/facebook/rocksdb)** - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Walking On A Dream by Empire Of The Sun](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)
-- [I Follow Rivers - The Magician Remix by Lykke Li, The Magician](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9)
-- [Neverender by Justice, Tame Impala](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj)
-- [No Broke Boys by Disco Lines, Tinashe](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj)
-- [I Only Smoke When I Drink by nimino](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR)
+- [Slide (feat. Frank Ocean &amp; Migos) by Calvin Harris, Frank Ocean, Migos, Funk Wav](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl)
+- [Cooler Than Me - Single Mix by Mike Posner, Gigamesh](https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj)
+- [Training Season by Dua Lipa](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap)
+- [A Bar Song (Tipsy) by Shaboozey](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf)
+- [Time of Our Lives by Pitbull, Ne-Yo](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
