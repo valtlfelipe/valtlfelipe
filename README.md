@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[facebook/rocksdb](https://github.com/facebook/rocksdb)** - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Body Go (with Tyla) by MOLIY, Tyla](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P)
-- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
-- [It&#39;s Not Right But It&#39;s Okay by Felix Jaehn, Whitney Houston](https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc)
-- [Show Me Love (with Tyla) by WizTheMc, bees &amp; honey, Tyla](https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ)
-- [Illegal by PinkPantheress](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG)
+- [Forever Young by David Guetta, Alphaville, Ava Max](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk)
+- [Blessings by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z)
+- [Say My Name - Remix by Morgan Seatree, Florence &#43; The Machine](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32)
+- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
+- [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
