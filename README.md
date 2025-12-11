@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[facebook/rocksdb](https://github.com/facebook/rocksdb)** - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Marea (we’ve lost dancing) by Fred again.., The Blessed Madonna](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR)
-- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
-- [Stereo by Alex Keeper](https://open.spotify.com/track/7lkCCTUKQFQiwOSVBXkEQM)
-- [Good Life (feat. Elderbrook) by goodlife, Elderbrook](https://open.spotify.com/track/7FJVrTfU5eWPQowHttM4Rp)
-- [What You&#39;ve Made by Nck, Petropaul](https://open.spotify.com/track/3G18LdZmlGTN4YbHRPawHK)
+- [Body Go (with Tyla) by MOLIY, Tyla](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P)
+- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
+- [It&#39;s Not Right But It&#39;s Okay by Felix Jaehn, Whitney Houston](https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc)
+- [Show Me Love (with Tyla) by WizTheMc, bees &amp; honey, Tyla](https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ)
+- [Illegal by PinkPantheress](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
