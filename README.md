@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[facebook/rocksdb](https://github.com/facebook/rocksdb)** - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/7rXke3ttpL2uXel9Nesf4u)
-- [RIZZ by AYYBO](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH)
-- [Overdrive (feat. Norma Jean Martine) by Ofenbach, Norma Jean Martine](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ)
-- [Clouds by BUNT., Nate Traveller](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG)
-- [Shiver by John Summit, HAYLA](https://open.spotify.com/track/32VIrOsJmwvqRm4rWFBCsi)
+- [Your Love - Diplo Remix by The Outfield, Diplo](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y)
+- [Perfect (Exceeder) by David Guetta, Mason, Princess Superstar](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi)
+- [Remember by Becky Hill, David Guetta](https://open.spotify.com/track/4yAofTZhl3MdElTqO33oi5)
+- [The Days - NOTION Remix by Chrystal, NOTION](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)
+- [CHANEL by Tyla](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
