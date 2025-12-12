@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[facebook/rocksdb](https://github.com/facebook/rocksdb)** - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Glamorous by Fergie, Ludacris](https://open.spotify.com/track/4N0tDOF2bo9JEpSqLNlpjq)
-- [Too Sweet by Hozier](https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ)
-- [Pink Pony Club by Chappell Roan](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)
-- [Pink Pony Club by Chappell Roan](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)
-- [Slide (feat. Frank Ocean &amp; Migos) by Calvin Harris, Frank Ocean, Migos, Funk Wav](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl)
+- [Run by ATB, Nu Aspect, Orem](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ)
+- [Hold Me by Lavern](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg)
+- [Innerbloom - Radio Edit by RÜFÜS DU SOL](https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf)
+- [I Remember - John Summit Remix by deadmau5, Kaskade, John Summit](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz)
+- [Echo by RSCL, Repiet, Julia Kleijn](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
