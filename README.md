@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [You &amp; Me - Rivo Remix by Disclosure, Rivo, Eliza Doolittle](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [Edge of Desire by Jonas Blue, Malive](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT)
-- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG)
-- [Wale Wale (feat. Sofiya Nzau) [WITH U Remix Radio Edit] by TRESOR, WITH U, Sofiya Nzau](https://open.spotify.com/track/3wgC5bBD5Iq8iEubEBkqZx)
-- [Weightless by Ben Böhmer, Panama](https://open.spotify.com/track/70kAyzsYTZYAe5a7b0LYJf)
+- [Isaka (6am) &amp;friends Mix - In Beirut by CIZA, &amp;friends, Thukuthela](https://open.spotify.com/track/5cEd5LzzWeutQ4em2YzHyR)
+- [Blessings by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z)
+- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
+- [Sierra by Argy, Baset](https://open.spotify.com/track/1B7BRFwQJL3LvD5UA4iHpx)
+- [Big Energy by Latto](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
