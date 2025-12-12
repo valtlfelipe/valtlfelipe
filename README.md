@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[facebook/rocksdb](https://github.com/facebook/rocksdb)** - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Don&#39;t Look Back by whøsisai](https://open.spotify.com/track/7jd9hEJYfVr54J0e9pTnQr)
+- [Hung by Sound Quelle](https://open.spotify.com/track/5KteBzvgHmFUGpjJ8iN3XY)
+- [Rebirth by Tinlicker, Hero Baldwin](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6)
+- [Life on Hold by Nora En Pure](https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH)
 - [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/3j11iDncb7ZeDMw7lFucqM)
-- [Rising Above Thought by MXV](https://open.spotify.com/track/4hLN7QtDPxr1J53JJNd0hA)
-- [Muse by Rezident, Kate Morgan](https://open.spotify.com/track/0Ung09zr13qBaEGMtTDmrQ)
-- [Human (feat. Echoes) - Aaron Hibell Remix by John Summit, Echoes, Aaron Hibell](https://open.spotify.com/track/6hQRP0fV38up2v9YPZikNh)
-- [The Best Part - Lost Prince Remix by gardenstate, Bien, Lost Prince](https://open.spotify.com/track/6Jzmhn3m6ukvfNAgYVKLqj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
