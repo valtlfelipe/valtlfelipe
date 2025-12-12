@@ -3,17 +3,17 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
+- **[ferreira-tb/tauri-store](https://github.com/ferreira-tb/tauri-store)** - Persistent stores for Tauri (today)
+- **[aptabase/aptabase](https://github.com/aptabase/aptabase)** - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (today)
+- **[aptabase/tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase)** - Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (today)
+- **[Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs)** - Generate TypeScript bindings from Rust types (today)
 - **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (1 day ago)
-- **[fractalbits-labs/fractalbits-main](https://github.com/fractalbits-labs/fractalbits-main)** - The ultimate S3 compatible high performance object storage in the AI era. (4 days ago)
-- **[rustfs/rustfs](https://github.com/rustfs/rustfs)** - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 week ago)
-- **[psviderski/uncloud](https://github.com/psviderski/uncloud)** - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (1 week ago)
-- **[facebook/rocksdb](https://github.com/facebook/rocksdb)** - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Don&#39;t Look Back by whøsisai](https://open.spotify.com/track/7jd9hEJYfVr54J0e9pTnQr)
-- [Hung by Sound Quelle](https://open.spotify.com/track/5KteBzvgHmFUGpjJ8iN3XY)
-- [Rebirth by Tinlicker, Hero Baldwin](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6)
-- [Life on Hold by Nora En Pure](https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH)
-- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/3j11iDncb7ZeDMw7lFucqM)
+- [Undecided by Lstn](https://open.spotify.com/track/5xHTTfJ6tawlT2ecAR5k9n)
+- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
+- [Lagoon by Qualysto](https://open.spotify.com/track/37l6nrAm73UXLa6qnAtYeT)
+- [Schnitzel by Alex H](https://open.spotify.com/track/3Uw9dzVnYqyTrdXUdhbfDL)
+- [Elements Of A New Life by VER:WEST, Tiësto](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
