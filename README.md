@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Undecided by Lstn](https://open.spotify.com/track/5xHTTfJ6tawlT2ecAR5k9n)
-- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
-- [Lagoon by Qualysto](https://open.spotify.com/track/37l6nrAm73UXLa6qnAtYeT)
-- [Schnitzel by Alex H](https://open.spotify.com/track/3Uw9dzVnYqyTrdXUdhbfDL)
-- [Elements Of A New Life by VER:WEST, Tiësto](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs)
+- [Weightless by Ben Böhmer, Panama](https://open.spotify.com/track/70kAyzsYTZYAe5a7b0LYJf)
+- [Another Dawn by Massane, Kinnship](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA)
+- [Fractal by Tinlicker](https://open.spotify.com/track/5K5CvZolPrlzOIvo080rAI)
+- [Diamonds by Lane 8, Solomon Grey](https://open.spotify.com/track/2IpfiNS4x20FJ5qKTHWaJ3)
+- [New Love by Le Youth, Sultan &#43; Shepard, Panama](https://open.spotify.com/track/7CAsrtI5Df8ZOrKZ2ImrVO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
