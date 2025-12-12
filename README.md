@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[facebook/rocksdb](https://github.com/facebook/rocksdb)** - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
-- [Out Of Time by Ross Quinn](https://open.spotify.com/track/51cgJEFd8FPzkUZeXyV1rp)
-- [Closure by Massane, Benjamin Roustaing](https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O)
-- [Inner Light by Elderbrook, Bob Moses](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj)
-- [In The Dark by Armin van Buuren, David Guetta, Aldae](https://open.spotify.com/track/492Ms0eG4ylkf1m50ORty7)
+- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/3j11iDncb7ZeDMw7lFucqM)
+- [Rising Above Thought by MXV](https://open.spotify.com/track/4hLN7QtDPxr1J53JJNd0hA)
+- [Muse by Rezident, Kate Morgan](https://open.spotify.com/track/0Ung09zr13qBaEGMtTDmrQ)
+- [Human (feat. Echoes) - Aaron Hibell Remix by John Summit, Echoes, Aaron Hibell](https://open.spotify.com/track/6hQRP0fV38up2v9YPZikNh)
+- [The Best Part - Lost Prince Remix by gardenstate, Bien, Lost Prince](https://open.spotify.com/track/6Jzmhn3m6ukvfNAgYVKLqj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
