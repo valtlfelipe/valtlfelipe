@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Khanya by Naarly, ANT Mifsud, Thabza De Soul](https://open.spotify.com/track/7IrgLdwrCGhPpyIhFNRHYo)
-- [WACUKA by AVAION, Sofiya Nzau](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4)
-- [Forever Baby by Carlita, Janet Planet](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo)
-- [All In A Dream by LP Giobbi, DJ Tennis, Joseph Ashworth](https://open.spotify.com/track/03jQHo0HFj5onzoexiaMPI)
-- [All In A Dream by LP Giobbi, DJ Tennis, Joseph Ashworth](https://open.spotify.com/track/03jQHo0HFj5onzoexiaMPI)
+- [Move by Adam Port, Stryv, Keinemusik, Orso, Malachiii](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4)
+- [September 31st by Xinobi, Máximo](https://open.spotify.com/track/5r1cTCi0jtzJeiMPPDQLLM)
+- [This Rhythm (feat. RAHH) by Prospa, RAHH](https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66)
+- [The Less I Know The Better by Mau P](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY)
+- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
