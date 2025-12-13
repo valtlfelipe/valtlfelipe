@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Take Me Down by Natascha Polké](https://open.spotify.com/track/5kYD8wp3DP5nyHAQYKjv7t)
-- [Jackie B by &amp;friends, JOSEPH (CH), Brent Faiyaz](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa)
-- [Milkshake 20 - Alex Wann Remix by Kelis, Alex Wann](https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ)
-- [Say What by Rampa, Adam Port, &amp;ME, chuala, Keinemusik](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal)
-- [Kimbara by Barry Can&#39;t Swim](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk)
+- [Lucid Dreams by THEMBA, Khenya, ABEL](https://open.spotify.com/track/1rXruDjwgqjEkjtLB4QuUx)
+- [Last Night by Loofy](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN)
+- [A Gira by unfazed](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex)
+- [Her Eyes by Charlie Jeer](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B)
+- [Amana by Maz, VXSION](https://open.spotify.com/track/60M7mbaOxwWrIOQNsNaBJH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
