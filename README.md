@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Lucid Dreams by THEMBA, Khenya, ABEL](https://open.spotify.com/track/1rXruDjwgqjEkjtLB4QuUx)
-- [Last Night by Loofy](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN)
-- [A Gira by unfazed](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex)
-- [Her Eyes by Charlie Jeer](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B)
-- [Amana by Maz, VXSION](https://open.spotify.com/track/60M7mbaOxwWrIOQNsNaBJH)
+- [Taste by Sabrina Carpenter](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q)
+- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
+- [Golden by Harry Styles](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl)
+- [Physical by Dua Lipa](https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
