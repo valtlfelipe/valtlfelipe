@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Taste by Sabrina Carpenter](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q)
-- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
-- [Golden by Harry Styles](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl)
-- [Physical by Dua Lipa](https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW)
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
+- [One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)
+- [Save Your Tears (with Ariana Grande) (Remix) by The Weeknd, Ariana Grande](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy)
+- [Here With Me by Marshmello, CHVRCHES](https://open.spotify.com/track/2jpKZFnBk98Ud3EoZiBOTf)
+- [Born To Be Yours by Kygo, Imagine Dragons](https://open.spotify.com/track/0kHyKhJMukHEPfeh8s7rdM)
+- [Better by Khalid](https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
