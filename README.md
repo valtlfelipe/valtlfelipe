@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Californication by Red Hot Chili Peppers](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox)
-- [Starman - 2012 Remaster by David Bowie](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq)
-- [Dream On by Aerosmith](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH)
-- [Kickstart My Heart by Mötley Crüe](https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew)
-- [Everlong by Foo Fighters](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)
+- [Finder by Catching Shapes](https://open.spotify.com/track/5YbAUeEr2CuZRmOkPVQK3w)
+- [Light in the Darkness by Divine Vibes](https://open.spotify.com/track/6IKWLaMXUvYtuudc139Qg4)
+- [Silver Lining by Matrx](https://open.spotify.com/track/5rUH1C6qV9yob39mHRjXMF)
+- [After Sun by Nihoni](https://open.spotify.com/track/3Xb1M7Ftoxjiu6KdhR5Czi)
+- [Away from There by Lstn, Rohn Dahlberg](https://open.spotify.com/track/2A6NubJR9tqXftF9kGCIQG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
