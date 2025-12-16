@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Finder by Catching Shapes](https://open.spotify.com/track/5YbAUeEr2CuZRmOkPVQK3w)
-- [Light in the Darkness by Divine Vibes](https://open.spotify.com/track/6IKWLaMXUvYtuudc139Qg4)
-- [Silver Lining by Matrx](https://open.spotify.com/track/5rUH1C6qV9yob39mHRjXMF)
-- [After Sun by Nihoni](https://open.spotify.com/track/3Xb1M7Ftoxjiu6KdhR5Czi)
-- [Away from There by Lstn, Rohn Dahlberg](https://open.spotify.com/track/2A6NubJR9tqXftF9kGCIQG)
+- [After the Rain by Aera Blue](https://open.spotify.com/track/26tqPHqGza9cQtJTWNQ8Fo)
+- [Remedy by Durante, Running Touch](https://open.spotify.com/track/77STv3QfLIyHRWKT89jJCU)
+- [Erase by LAR, Nu-La](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt)
+- [Who You Are by RAINE, LAR](https://open.spotify.com/track/0jWR88X5SttlBKaYD1CX3Y)
+- [Echoes by Jake and the colors](https://open.spotify.com/track/0cm5lZIYTTO3WjpQ1Yhsrk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
