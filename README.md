@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [After the Rain by Aera Blue](https://open.spotify.com/track/26tqPHqGza9cQtJTWNQ8Fo)
-- [Remedy by Durante, Running Touch](https://open.spotify.com/track/77STv3QfLIyHRWKT89jJCU)
-- [Erase by LAR, Nu-La](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt)
-- [Who You Are by RAINE, LAR](https://open.spotify.com/track/0jWR88X5SttlBKaYD1CX3Y)
-- [Echoes by Jake and the colors](https://open.spotify.com/track/0cm5lZIYTTO3WjpQ1Yhsrk)
+- [Paralia by Dokho](https://open.spotify.com/track/1WXias1FHh0Kyl2zGdYQnC)
+- [Same Dream by Steven Weston, Taė](https://open.spotify.com/track/13S2GurJpAAYccXMgBPzmx)
+- [New Hope by Qualysto](https://open.spotify.com/track/6OxgJeggAHg8rWE3KaReoe)
+- [Spiral by Jack Willard](https://open.spotify.com/track/0L1VCvBXiL73HKvhwnbq9d)
+- [Don&#39;t Stop Me Now by Nathan Behrens](https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
