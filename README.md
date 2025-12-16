@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[ferreira-tb/tauri-store](https://github.com/ferreira-tb/tauri-store)** - Persistent stores for Tauri (3 days ago)
-- **[aptabase/aptabase](https://github.com/aptabase/aptabase)** - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (3 days ago)
-- **[aptabase/tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase)** - Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (3 days ago)
-- **[Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs)** - Generate TypeScript bindings from Rust types (3 days ago)
-- **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (4 days ago)
+- **[ferreira-tb/tauri-store](https://github.com/ferreira-tb/tauri-store)** - Persistent stores for Tauri (4 days ago)
+- **[aptabase/aptabase](https://github.com/aptabase/aptabase)** - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (4 days ago)
+- **[aptabase/tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase)** - Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (4 days ago)
+- **[Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs)** - Generate TypeScript bindings from Rust types (4 days ago)
+- **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (5 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Californication by Red Hot Chili Peppers](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox)
