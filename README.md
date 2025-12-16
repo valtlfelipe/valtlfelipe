@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter)** - Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Green Spaces by Jake Kaiser](https://open.spotify.com/track/7MyzLDEgPPxKEhCoAJgvgz)
-- [Cosmos - Alexander Volosnikov Remix by Sam Davies, Alexander Volosnikov](https://open.spotify.com/track/6sqhyfCLxOQhU80IFJfAJq)
-- [Called by Lstn, Rohn Dahlberg](https://open.spotify.com/track/3KtxQAgNxCEINXNgVuzsun)
-- [Paralia by Dokho](https://open.spotify.com/track/1WXias1FHh0Kyl2zGdYQnC)
-- [Same Dream by Steven Weston, Taė](https://open.spotify.com/track/13S2GurJpAAYccXMgBPzmx)
+- [Love Syndrome by Enamour](https://open.spotify.com/track/167J53zotbS1GdqHofZqc5)
+- [Untold Truth by Lstn, Rohn Dahlberg](https://open.spotify.com/track/4twnGKOmxj4QsPbaXVHLd2)
+- [Only Want You by MXV](https://open.spotify.com/track/0u5DIHmlyxroXRFXBMqQDO)
+- [Closer by Slow Ted, Phil Odd, TMPST](https://open.spotify.com/track/4K6j4py6eaG1iBppZQ2dS5)
+- [Salomea by Dokho](https://open.spotify.com/track/73E3LsSJByd9ksH9wm8SWR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
