@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[aptabase/tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase)** - Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Watermark by Nora En Pure](https://open.spotify.com/track/72uuQWQuAek5WAhEqkLUBg)
-- [Oceade by Dokho](https://open.spotify.com/track/2FuSwMHdRSmooL6lxpLlTm)
-- [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
-- [We Are Young by Alex Breitling](https://open.spotify.com/track/13xEtVZxK4WXprFsV8ytj8)
-- [Dulcet by dwelyr, Matrx](https://open.spotify.com/track/5tWioqaFqX3BUMJiBbqKVO)
+- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
+- [Feel The Emotion by fwd/slash](https://open.spotify.com/track/6chebJZzTQfGMINE4dium9)
+- [Flug &amp; Fall - Edit by Ben Böhmer](https://open.spotify.com/track/0fpjCtjg1LJE0vQokXil1F)
+- [Closer by Catching Shapes](https://open.spotify.com/track/1EIQTujhBzTnZClEr97aAJ)
+- [Give Me Something by Steven Weston, Ormella](https://open.spotify.com/track/30BG3CiHyan22xQyJ3nLpa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
