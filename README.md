@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[aptabase/tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase)** - Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Dive by Ben Böhmer, Margret](https://open.spotify.com/track/3Vm9l2Ce4bcClwBOrPIUje)
-- [Kenosis by Enamour](https://open.spotify.com/track/5VAWGwKflAaPQbdG8YX3EC)
-- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
-- [Patient Patterns by Jack Willard](https://open.spotify.com/track/5mA9L5C4bRlb9JV23HTjCE)
-- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
+- [Whispers Of The Night by Kaiyan](https://open.spotify.com/track/1Jzc8lLBqSvvm5Szgy3D84)
+- [Yours - Mixed by djimboh](https://open.spotify.com/track/3AtCmnyXedW8CKq4w2XFZ5)
+- [Exploring The Mind - Mixed by LTN, Ghostbeat](https://open.spotify.com/track/5ldyasDvDCMAIM5j4XI7Oh)
+- [Desire by Kozua](https://open.spotify.com/track/7nKCCCvkdY3vmR10AeUBKH)
+- [Slow Bloom by EMBRZ](https://open.spotify.com/track/09LxWNANqoVFZ8WFlO5A5V)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
