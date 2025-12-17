@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[aptabase/tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase)** - Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Beside You by Christian Löffler](https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD)
-- [Cosmos - Mixed by Sam Davies](https://open.spotify.com/track/2Qn39loLScByrdkBUandr2)
-- [Jamir by Dokho](https://open.spotify.com/track/5NGeDVRkvIJFnZX7Dgeufp)
-- [I&#39;m Not So Different by Jackarta](https://open.spotify.com/track/20NFD5lloqw2vKoKXgwLes)
-- [We Do Not Lose Heart by Divine Vibes](https://open.spotify.com/track/7wt9VYmE59RFbvyG8JST1T)
+- [Watermark by Nora En Pure](https://open.spotify.com/track/72uuQWQuAek5WAhEqkLUBg)
+- [Oceade by Dokho](https://open.spotify.com/track/2FuSwMHdRSmooL6lxpLlTm)
+- [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
+- [We Are Young by Alex Breitling](https://open.spotify.com/track/13xEtVZxK4WXprFsV8ytj8)
+- [Dulcet by dwelyr, Matrx](https://open.spotify.com/track/5tWioqaFqX3BUMJiBbqKVO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
