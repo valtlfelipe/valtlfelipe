@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[aptabase/tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase)** - Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Dive by Ben Böhmer, Margret](https://open.spotify.com/track/3Vm9l2Ce4bcClwBOrPIUje)
+- [Kenosis by Enamour](https://open.spotify.com/track/5VAWGwKflAaPQbdG8YX3EC)
+- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
+- [Patient Patterns by Jack Willard](https://open.spotify.com/track/5mA9L5C4bRlb9JV23HTjCE)
 - [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
-- [Feel The Emotion by fwd/slash](https://open.spotify.com/track/6chebJZzTQfGMINE4dium9)
-- [Flug &amp; Fall - Edit by Ben Böhmer](https://open.spotify.com/track/0fpjCtjg1LJE0vQokXil1F)
-- [Closer by Catching Shapes](https://open.spotify.com/track/1EIQTujhBzTnZClEr97aAJ)
-- [Give Me Something by Steven Weston, Ormella](https://open.spotify.com/track/30BG3CiHyan22xQyJ3nLpa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
