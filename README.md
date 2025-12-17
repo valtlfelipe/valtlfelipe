@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[aptabase/tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase)** - Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Sundancer by Douran](https://open.spotify.com/track/1HFoyU7YPyw4IqXIkNvNgF)
+- [Autumn In Amsterdam by Jordin Post](https://open.spotify.com/track/0Xtrn8zvFyWyHs95vyM3bb)
+- [Roots - Extended Mix by Klur](https://open.spotify.com/track/5vK0hnzIcbCSVS0dEFQdqR)
 - [Elastic Sun by Forty Cats](https://open.spotify.com/track/71DJZ67WEid3oLEPNT0S7m)
 - [Moments by djimboh](https://open.spotify.com/track/5GoRIFjC2EiAokCqqDBW6k)
-- [Need To Feel Loved by Sander van Doorn, LVNDSCAPE](https://open.spotify.com/track/3p9CxElbqwkyfzVbqgHHRS)
-- [Drift - Ben Böhmer Remix by Nils Hoffmann, Ben Böhmer](https://open.spotify.com/track/3h5WD9iPepIFx5f6OMSnQt)
-- [In Memoriam by Ben Böhmer](https://open.spotify.com/track/3E0catUU8PXnYOx7c39dkq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
