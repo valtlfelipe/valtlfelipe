@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** - Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers. (today)
-- **[ferreira-tb/tauri-store](https://github.com/ferreira-tb/tauri-store)** - Persistent stores for Tauri (4 days ago)
-- **[aptabase/aptabase](https://github.com/aptabase/aptabase)** - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (4 days ago)
-- **[aptabase/tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase)** - Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (4 days ago)
-- **[Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs)** - Generate TypeScript bindings from Rust types (4 days ago)
+- **[productdevbook/port-killer](https://github.com/productdevbook/port-killer)** - Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers. (1 day ago)
+- **[ferreira-tb/tauri-store](https://github.com/ferreira-tb/tauri-store)** - Persistent stores for Tauri (5 days ago)
+- **[aptabase/aptabase](https://github.com/aptabase/aptabase)** - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (5 days ago)
+- **[aptabase/tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase)** - Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (5 days ago)
+- **[Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs)** - Generate TypeScript bindings from Rust types (5 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Nightbus by MXV](https://open.spotify.com/track/3EEiRpyxGEApP6wREtuD1W)
