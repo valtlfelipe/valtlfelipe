@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Thoughts by Lstn](https://open.spotify.com/track/0wW2ee5FlJLiZS9tNXK9GX)
-- [Weightless by Ben Böhmer, Panama](https://open.spotify.com/track/70kAyzsYTZYAe5a7b0LYJf)
-- [Gilmore by Polar Inc.](https://open.spotify.com/track/0T0dQaFYhxxtnSK3XkbiFU)
-- [Dancing Shadows by Kaiyan](https://open.spotify.com/track/5iets69Dfnu1ZCpWjN7GfX)
-- [Day One by Bound to Divide](https://open.spotify.com/track/0oldHR8gIENRw5l8pBuAL2)
+- [Autumn by Ben Böhmer](https://open.spotify.com/track/7ocpmlXkxJVGtPLLFQhMGP)
+- [Spaces by Braxton](https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY)
+- [The Wanderer - Extended Mix by LTN, Ghostbeat](https://open.spotify.com/track/6hujTj9gzSnVwcae3KJKjq)
+- [Frangipani by Kaiyan](https://open.spotify.com/track/4I7u21ZlgZzCR0cmv30PuN)
+- [u love me too by giant cactus](https://open.spotify.com/track/2OM7V6HfazpW9AkVEF00GX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
