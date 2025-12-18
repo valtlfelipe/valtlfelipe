@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Kingfisher by TOMB](https://open.spotify.com/track/70CB8jQljPe4C8UQBvJnGA)
-- [Rising Above Thought by MXV](https://open.spotify.com/track/4hLN7QtDPxr1J53JJNd0hA)
-- [Fade to Blue by Ben Böhmer](https://open.spotify.com/track/0ESNxorKovvlnBd2NgdgQt)
-- [Limania by Dokho, Moon Kyoo](https://open.spotify.com/track/2B6aHcgVRAqbuyfPDSLtYv)
-- [QvB by Kaiyan](https://open.spotify.com/track/3sXzJ8AnqDVm7ZmOgLZ1j9)
+- [Thoughts by Lstn](https://open.spotify.com/track/0wW2ee5FlJLiZS9tNXK9GX)
+- [Weightless by Ben Böhmer, Panama](https://open.spotify.com/track/70kAyzsYTZYAe5a7b0LYJf)
+- [Gilmore by Polar Inc.](https://open.spotify.com/track/0T0dQaFYhxxtnSK3XkbiFU)
+- [Dancing Shadows by Kaiyan](https://open.spotify.com/track/5iets69Dfnu1ZCpWjN7GfX)
+- [Day One by Bound to Divide](https://open.spotify.com/track/0oldHR8gIENRw5l8pBuAL2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
