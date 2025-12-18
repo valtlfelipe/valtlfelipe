@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[aptabase/aptabase](https://github.com/aptabase/aptabase)** - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Chance by VEHA](https://open.spotify.com/track/1xMnD8BpWav7mJWDyYiO4e)
+- [Want U by MEHÍLOVE](https://open.spotify.com/track/4DfSwISNHjcuUjuzBKjjB4)
+- [Falling - Extended Mix by Spark030](https://open.spotify.com/track/4zCjsQWkbylA3Xzg6yotwN)
 - [Corridors by TOMB, Into The Ether](https://open.spotify.com/track/0OC90TN0flAjDvaEOfSto5)
 - [So Alone by Bound to Divide](https://open.spotify.com/track/2cCce5bh0Raued0yzFKqTm)
-- [Kupona by MaMan](https://open.spotify.com/track/5HPbDVgCJJduKTKce7YA7r)
-- [It&#39;s Never The Last (Things Never Last) by Leaving Laurel](https://open.spotify.com/track/7ALcDrAtYzDxBs4yZKt9IS)
-- [Gone Forever - Demmo Remix by Spark030, Demmo](https://open.spotify.com/track/4E8vROzVyK2CQewXKBDIx2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
