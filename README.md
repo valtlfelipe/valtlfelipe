@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Losing My Mind by Anriu](https://open.spotify.com/track/6a18MRLFZuAUsaSK62FHpJ)
-- [Froggy by Sound Quelle, Jackarta](https://open.spotify.com/track/5lKDqlxKkoZwyPZNwuKG98)
-- [Morning Falls - Edit by Ben Böhmer](https://open.spotify.com/track/1tCKkQ602lTzojiciUXXuG)
-- [Great Plains by Verbala](https://open.spotify.com/track/7B2qwF4Qf0dwmuU2UQ3upI)
-- [I Know by Illumia](https://open.spotify.com/track/2JWYbCznyy1YX3CjkJZFik)
+- [Hey Darling by Anriu](https://open.spotify.com/track/4wfDlh3Kv2j10wfdVeuLj3)
+- [Times of Sorrow by Lstn](https://open.spotify.com/track/3QVvtX2g7L46TsCdxt1qRA)
+- [Nowhere To Run by LTN](https://open.spotify.com/track/6msK490czzcTEQoEcQzhNO)
+- [Shine by Hessian, mölly, Afnan Prince](https://open.spotify.com/track/5J02vp8CZYokpjeha2OBav)
+- [Granite by Jake Kaiser](https://open.spotify.com/track/158Sq2cle4rexG995V5VhH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
