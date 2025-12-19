@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Exploring The Mind by LTN, Ghostbeat](https://open.spotify.com/track/4YXcmuhTyk1b9X9ObiwsRd)
-- [Yours by djimboh](https://open.spotify.com/track/4py97jkt3UjrYu73lPzvIS)
-- [Won&#39;t Be The Same by Friends &amp; I, a.bech](https://open.spotify.com/track/4AlxtYzRJzEnB4cN1TMgQo)
-- [No Return by Massane](https://open.spotify.com/track/5eizBzFqa4HFMz1AG80B7M)
-- [Wake Me Up by Passing Clouds](https://open.spotify.com/track/3vXlDxKSYLXrAYZdo7AUfJ)
+- [Pastel by Polar Inc.](https://open.spotify.com/track/5QpKqIBqSBy5ji4GPJ1UIN)
+- [Further by Jack Willard](https://open.spotify.com/track/0sHhc7CSihE399hRj3hB9f)
+- [In Time by Verbala](https://open.spotify.com/track/6zC6bTpBp0LrWTSYMKDTKK)
+- [Samaria by Dokho](https://open.spotify.com/track/6ASE6LRIQsGM7fWLz2NY1P)
+- [Reach The Goal by Jackarta](https://open.spotify.com/track/2j3oW7euFWjETVomsu30So)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
