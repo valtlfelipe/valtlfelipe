@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Hey Darling by Anriu](https://open.spotify.com/track/4wfDlh3Kv2j10wfdVeuLj3)
-- [Times of Sorrow by Lstn](https://open.spotify.com/track/3QVvtX2g7L46TsCdxt1qRA)
-- [Nowhere To Run by LTN](https://open.spotify.com/track/6msK490czzcTEQoEcQzhNO)
-- [Shine by Hessian, mölly, Afnan Prince](https://open.spotify.com/track/5J02vp8CZYokpjeha2OBav)
-- [Granite by Jake Kaiser](https://open.spotify.com/track/158Sq2cle4rexG995V5VhH)
+- [Exploring The Mind by LTN, Ghostbeat](https://open.spotify.com/track/4YXcmuhTyk1b9X9ObiwsRd)
+- [Yours by djimboh](https://open.spotify.com/track/4py97jkt3UjrYu73lPzvIS)
+- [Won&#39;t Be The Same by Friends &amp; I, a.bech](https://open.spotify.com/track/4AlxtYzRJzEnB4cN1TMgQo)
+- [No Return by Massane](https://open.spotify.com/track/5eizBzFqa4HFMz1AG80B7M)
+- [Wake Me Up by Passing Clouds](https://open.spotify.com/track/3vXlDxKSYLXrAYZdo7AUfJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
