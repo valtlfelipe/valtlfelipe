@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Lovely by JAS1X](https://open.spotify.com/track/3m5wgKw6bE0iBoa2NOhcly)
-- [Blue Sky by TOMB](https://open.spotify.com/track/6slbQhAP3kiDxXBiRzdAxX)
-- [Mist by VEHA](https://open.spotify.com/track/4reU8aYwYfUVZG04YTXnHh)
-- [Cressida by Kaiyan](https://open.spotify.com/track/0WlNLl158fjHFE3yQ7iXNF)
-- [Endless Skies by Alex Breitling, Golowko](https://open.spotify.com/track/41qwr66dyEuCqCVB4UxzhN)
+- [Golden Memories by Kaiyan, Lumynesynth](https://open.spotify.com/track/3XlthupwOStKPdLIFtFyXv)
+- [Inertia by Hessian](https://open.spotify.com/track/1DC4WYpBda2uT0lQ3v7evG)
+- [The Summit by Braxton](https://open.spotify.com/track/2Jzbk1NzZFCoV5SL5GxJYy)
+- [Make Room by LTN, Ghostbeat](https://open.spotify.com/track/6fXrVWQGYwXoxMOLKomO4K)
+- [Up Here by djimboh, Lumynesynth](https://open.spotify.com/track/4Bhvds0QIzg1Gp0WRXCJGN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
