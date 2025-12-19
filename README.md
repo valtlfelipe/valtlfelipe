@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Don&#39;t Stop Me Now by Nathan Behrens](https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd)
-- [Same Love by Priior](https://open.spotify.com/track/27XUQvyuao15aRHWDqwjin)
-- [ID #1 - Mixed by ID.](https://open.spotify.com/track/7qXuTpZ6i4zgIuWV7KvR5D)
-- [Closer by Last Sun](https://open.spotify.com/track/2kmuueC57xmykm6SY11259)
-- [Here She Comes by Jackarta](https://open.spotify.com/track/5kndIH4oFIzwcoRCjbbx4W)
+- [Ah Up by Sound Quelle](https://open.spotify.com/track/0pbZX9CK1W2iIiUFJf39wr)
+- [Perfect Night by Rodg](https://open.spotify.com/track/5NfoWBGTG7KZMITHMN16Il)
+- [Capella by Hosini](https://open.spotify.com/track/0JtZTAkLmaCfjeM27ULuIc)
+- [Hands That Feed by Enamour](https://open.spotify.com/track/3Hy9Qo2egCx8HPCPSnMtti)
+- [So Real by Qualysto](https://open.spotify.com/track/3F5DqndDfbqZdEETpYLrV8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
