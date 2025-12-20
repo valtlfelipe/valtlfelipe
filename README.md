@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Honey Boy (feat. Nile Rodgers &amp; Shenseea) by Purple Disco Machine, Benjamin Ingrosso, Nile Rodgers, Shenseea](https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40)
 - [Akon&#39;s Beautiful Day - David Guetta &amp; Hypaton Remix by Akon, David Guetta, Hypaton](https://open.spotify.com/track/1RKqTwaovKWaxs9I8xdygQ)
 - [Dream by Collect 200](https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a)
 - [Heaven by Dimitri Vegas &amp; Like Mike, Azteck, Hayley May](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM)
-- [Good Time by Jodie Harsh](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ)
 - [Good Time by Jodie Harsh](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
