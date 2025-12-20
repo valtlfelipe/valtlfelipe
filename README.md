@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [The Music Began To Play by Mark Knight, Armand Van Helden](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj)
+- [There She Goes by CYRIL, MOONLGHT, The La&#39;s](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7)
+- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
+- [Baby Girl by Disco Lines](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz)
 - [Better Times by KC Lights, Låpsley](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8)
-- [All For Love by Felix Jaehn, Sandro Cavazza](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus)
-- [Long Train Runnin&#39; by The Doobie Brothers](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP)
-- [Give Me Something by Steven Weston, Ormella](https://open.spotify.com/track/30BG3CiHyan22xQyJ3nLpa)
-- [Forever by Hessian, Yellowitz](https://open.spotify.com/track/5Ia5F9lPczHoYXOCo1TyRq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
