@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Stop This Flame - Celeste x MK by Celeste, MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot)
-- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
-- [What A Life by John Summit, Guz, Stevie Appleton](https://open.spotify.com/track/1KbLVz3ZcdUOt2wBXqU2cG)
-- [Symphony (feat. Zara Larsson) by Clean Bandit, Zara Larsson](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8)
-- [Sunshine by Elderbrook, Snakehips](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ)
+- [Akon&#39;s Beautiful Day - David Guetta &amp; Hypaton Remix by Akon, David Guetta, Hypaton](https://open.spotify.com/track/1RKqTwaovKWaxs9I8xdygQ)
+- [Dream by Collect 200](https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a)
+- [Heaven by Dimitri Vegas &amp; Like Mike, Azteck, Hayley May](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM)
+- [Good Time by Jodie Harsh](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ)
+- [Good Time by Jodie Harsh](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
