@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Long Train Runnin&#39; by The Doobie Brothers](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP)
+- [Give Me Something by Steven Weston, Ormella](https://open.spotify.com/track/30BG3CiHyan22xQyJ3nLpa)
 - [Forever by Hessian, Yellowitz](https://open.spotify.com/track/5Ia5F9lPczHoYXOCo1TyRq)
 - [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
 - [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
-- [The End by Elderbrook](https://open.spotify.com/track/7tu4R4fQFRH5iG8BvVVPjS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
