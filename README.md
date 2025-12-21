@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Fly Away - Sunset Bros Remix by Amba Shepherd, Sunset Bros](https://open.spotify.com/track/2MyhFaTZwOKBXDGZANhZ7M)
-- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
-- [I Can&#39;t Get Nothing - Radio by Tiko&#39;s Groove, Gosha](https://open.spotify.com/track/2loRALVpIwCGPgqykI6tPQ)
-- [Man With The Red Face - Hardwell Remix by Mark Knight, Funkagenda, Hardwell](https://open.spotify.com/track/0Q6991QBoX99np2IkwwO6a)
-- [Focus Shift by Dallic](https://open.spotify.com/track/3pIZW8KU4gdNj1zOR3yq8X)
+- [Dance With Somebody - Extended Mix by Sam Feldt, Benny Bridges](https://open.spotify.com/track/1GWCAlC1yASAfnyMEK7H8Z)
+- [These Words - Extended Mix by Badger, Natasha Bedingfield](https://open.spotify.com/track/0zV6O1Fr2FhgscanTcZZKl)
+- [Titanium (feat. Sia) - Extended by David Guetta, Sia](https://open.spotify.com/track/4FLvw0zEwjMaEfcqvUpTeR)
+- [Training Season - Extended by Dua Lipa](https://open.spotify.com/track/2FZwnQYXFyg6b5sCRHQ0fD)
+- [Levels - Radio Edit by Avicii](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
