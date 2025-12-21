@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Secrets - Radio Edit by Tiësto, KSHMR, VASSY](https://open.spotify.com/track/69zxj1EFDfAouZu9JDmQld)
-- [Back In Time by Freyer, Joel Winterflood](https://open.spotify.com/track/0FdVLK98RAdEoQNZnftoGh)
-- [Feel Your Love by Bhaskar, Lucas Estrada, EEVA](https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI)
-- [Summer by Calvin Harris](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)
-- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [Fly Away - Sunset Bros Remix by Amba Shepherd, Sunset Bros](https://open.spotify.com/track/2MyhFaTZwOKBXDGZANhZ7M)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
+- [I Can&#39;t Get Nothing - Radio by Tiko&#39;s Groove, Gosha](https://open.spotify.com/track/2loRALVpIwCGPgqykI6tPQ)
+- [Man With The Red Face - Hardwell Remix by Mark Knight, Funkagenda, Hardwell](https://open.spotify.com/track/0Q6991QBoX99np2IkwwO6a)
+- [Focus Shift by Dallic](https://open.spotify.com/track/3pIZW8KU4gdNj1zOR3yq8X)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
