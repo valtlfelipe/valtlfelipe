@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [New Horizons by Bound to Divide](https://open.spotify.com/track/7sSC4W63J6rGPt3A6ERLgh)
-- [Hang Loose by Jackarta](https://open.spotify.com/track/7HDYg7oaQ9jo16TKoExie3)
-- [Sun In Your Eyes - Spencer Brown Remix by Above &amp; Beyond, Spencer Brown](https://open.spotify.com/track/5oAPU3iWvPvlSctqWioz3i)
-- [Scent of Wood - Bound to Divide Remix by UOAK, Ceci, Bound to Divide](https://open.spotify.com/track/7hB5XhraRlHeAE5ONIcSWY)
-- [Sunrise by ORACLE](https://open.spotify.com/track/59Iv8sTgb7XjG1sydJTwdk)
+- [Venice Beach (Happiness Within) - Mixed by Kozua](https://open.spotify.com/track/39nCOc2qN1OTNE6CZIUkhh)
+- [Internal World by MEHÍLOVE](https://open.spotify.com/track/6iXSjGxzgJS5UqnItBnSnd)
+- [Serene by HAK3N](https://open.spotify.com/track/5ZZtfkpgLJMJrJ37HLH7f1)
+- [Through The Darkness - Mixed by LTN, Ghostbeat](https://open.spotify.com/track/24cdQrBiDTDjV93Ks27E4P)
+- [Eau De Vie by Kaiyan](https://open.spotify.com/track/4k84XaNsd7C8QNnpwIZ07f)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
