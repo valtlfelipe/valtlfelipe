@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Midnight Solitude by Daimon Noir](https://open.spotify.com/track/26e3cIVmLxZlc1kxxhBo1X)
-- [Need To Feel Loved - Tinlicker Remix by Reflekt, delline bass, Tinlicker](https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN)
-- [Lost In You (Falling In Love) by Dezza](https://open.spotify.com/track/48F5ZkDe3nz2n84TG2KhAd)
-- [The Light by CallumCantSleep](https://open.spotify.com/track/77XeS0cFLJj6nSTKJud8kl)
-- [Flying The Moment by Omfeel](https://open.spotify.com/track/3ok8Y3SOQC8qrZfEzptyvq)
+- [Skydream by Radush](https://open.spotify.com/track/2n71gzCwkR6411Dt3dIydf)
+- [Water Sports by Michael Cassette](https://open.spotify.com/track/2txdI7S9YhyMfJJKmTEkCI)
+- [Gratitude - anamē PM Mix by Above &amp; Beyond, anamē, Marty Longstaff](https://open.spotify.com/track/7Gg4F3xlkGbeXUzO89PzmJ)
+- [Uncover by Banyan, Fractures](https://open.spotify.com/track/3MPZHwI4uMElGIBBmVRSJP)
+- [Bird Song by Tommy Baynen](https://open.spotify.com/track/51I0lTQg6Jy5D7IqbrMEDU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
