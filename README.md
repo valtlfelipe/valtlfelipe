@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Whistle - Extended Mix by Jax Jones, Calum Scott](https://open.spotify.com/track/5jfD6wlyZ4Bv9hOvB9yFl1)
-- [Lioness - Extended Mix by Swedish House Mafia, Niki &amp; The Dove](https://open.spotify.com/track/4t0ARRLvXhTTtSwfjq9p8t)
-- [Blessings - Extended Mix by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/7D80TMT1hUj4okrfiSi8iL)
-- [Dance With Somebody - Extended Mix by Sam Feldt, Benny Bridges](https://open.spotify.com/track/1GWCAlC1yASAfnyMEK7H8Z)
-- [These Words - Extended Mix by Badger, Natasha Bedingfield](https://open.spotify.com/track/0zV6O1Fr2FhgscanTcZZKl)
+- [Midnight Solitude by Daimon Noir](https://open.spotify.com/track/26e3cIVmLxZlc1kxxhBo1X)
+- [Need To Feel Loved - Tinlicker Remix by Reflekt, delline bass, Tinlicker](https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN)
+- [Lost In You (Falling In Love) by Dezza](https://open.spotify.com/track/48F5ZkDe3nz2n84TG2KhAd)
+- [The Light by CallumCantSleep](https://open.spotify.com/track/77XeS0cFLJj6nSTKJud8kl)
+- [Flying The Moment by Omfeel](https://open.spotify.com/track/3ok8Y3SOQC8qrZfEzptyvq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
