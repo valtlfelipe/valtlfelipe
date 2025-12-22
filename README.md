@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jjimenezgarcia/bitwarden-remove-duplicates](https://github.com/jjimenezgarcia/bitwarden-remove-duplicates)** - Remove duplicates of your Bitwarden vault using the BW client (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Nothing Without You - Tinlicker Rework - Edit by Tinlicker, Thomas Oliver](https://open.spotify.com/track/7Fr0eqmSwAscOmzDCJ3yAF)
-- [One Day At A Time by Trilucid](https://open.spotify.com/track/5WHtYopcNXTHKZLBylpczo)
-- [Whispers Of The Night by Kaiyan](https://open.spotify.com/track/1Jzc8lLBqSvvm5Szgy3D84)
-- [Roots by Klur](https://open.spotify.com/track/04F3ezdihPP6qeEOWI4ehJ)
-- [Thus Far by Hessian](https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN)
+- [To The End by Trilucid, Esque](https://open.spotify.com/track/77a4iUk7a9Rtzqzd4gHuTz)
+- [Beyond The Meadow - Extended Mix by Kaiyan](https://open.spotify.com/track/50FrsAwr2XtPtD2P2XIaMO)
+- [Entangled by Klur](https://open.spotify.com/track/4A5Ebpn121lJi0UfGTXqUD)
+- [Jupiter by Jordin Post](https://open.spotify.com/track/57bJWt9jcma2vUAhvbAY75)
+- [Where We Belong - Edit by VEHA](https://open.spotify.com/track/0lZMl4mZkYmlTLVq2Xe62R)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
