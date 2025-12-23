@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Lose Your Love by Does it matter, Francis Skyes](https://open.spotify.com/track/35wi3d4iZS9oHjprF7G3ji)
-- [Dark by Does it matter, Francis Skyes](https://open.spotify.com/track/1HkqhqJOsVUhb3GKmHuk4A)
-- [Safe House by LOWKEY, Steam Phunk, JAIKO](https://open.spotify.com/track/4olGvpgzOoPhGCfWYdGFx5)
-- [Sunrise by Lust.](https://open.spotify.com/track/2Y5vxK20raCFInOyeuz57L)
-- [Hurt by Does it matter](https://open.spotify.com/track/3xwys3gdpqhoMh2KagQt7w)
+- [You &amp; Me by Cloudcage](https://open.spotify.com/track/31FiNVcn7XR4AARNIVa7bs)
+- [Dancing in the Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
+- [Under the Sun by Fini, Francis Skyes](https://open.spotify.com/track/7IabOF0F1Cx4eWe7FjdpzN)
+- [Just Fine by Drics](https://open.spotify.com/track/11jHthuSox1s2QT9PvCjJZ)
+- [Not My Problem by Floating Club](https://open.spotify.com/track/4K3IRZq72PJsyWuIqLkRkX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
