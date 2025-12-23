@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [90 days by Dimside](https://open.spotify.com/track/16k0IlZHe3P2TYnT3vKOTw)
-- [Latidos by Amani Amara](https://open.spotify.com/track/6Ax92dhh4B65RZk9eW33D0)
-- [Malibu by UOAK](https://open.spotify.com/track/3XovubwzGKYpP9Aite7eV9)
-- [Green by Changed Habits](https://open.spotify.com/track/40tllS05MDGO2pAzSom72N)
-- [Holy Water by ledenn](https://open.spotify.com/track/05KDpqfNRV6wuksUDHyQF0)
+- [Lost by Floating Club](https://open.spotify.com/track/352Ex7DrYwaIRKzZIpb5uP)
+- [time by Dimside](https://open.spotify.com/track/7BbPwsyKJG9lEX5D1B41YL)
+- [Move Me by Lavern](https://open.spotify.com/track/6LptEwO1ObZvVQXlU0BPIJ)
+- [i&#39;m calling by puulse, lunne.](https://open.spotify.com/track/65GP2OR9sW9ba2pZ7rWXKV)
+- [Like That by Lane Boy, LissA](https://open.spotify.com/track/452IPXUtixq2BXVPxsUtHh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
