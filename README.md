@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Panorama by Klur](https://open.spotify.com/track/4IsVKZLTyGAkkWDEmihMAf)
-- [Voices by Braxton, Lovlee](https://open.spotify.com/track/2M2zorewLO3B47csyLbRQm)
-- [Venice Beach (Happiness Within) - Mixed by Kozua](https://open.spotify.com/track/39nCOc2qN1OTNE6CZIUkhh)
-- [Internal World by MEHÍLOVE](https://open.spotify.com/track/6iXSjGxzgJS5UqnItBnSnd)
-- [Serene by HAK3N](https://open.spotify.com/track/5ZZtfkpgLJMJrJ37HLH7f1)
+- [Lose Your Love by Does it matter, Francis Skyes](https://open.spotify.com/track/35wi3d4iZS9oHjprF7G3ji)
+- [Dark by Does it matter, Francis Skyes](https://open.spotify.com/track/1HkqhqJOsVUhb3GKmHuk4A)
+- [Safe House by LOWKEY, Steam Phunk, JAIKO](https://open.spotify.com/track/4olGvpgzOoPhGCfWYdGFx5)
+- [Sunrise by Lust.](https://open.spotify.com/track/2Y5vxK20raCFInOyeuz57L)
+- [Hurt by Does it matter](https://open.spotify.com/track/3xwys3gdpqhoMh2KagQt7w)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
