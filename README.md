@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Panorama by Klur](https://open.spotify.com/track/4IsVKZLTyGAkkWDEmihMAf)
+- [Voices by Braxton, Lovlee](https://open.spotify.com/track/2M2zorewLO3B47csyLbRQm)
 - [Venice Beach (Happiness Within) - Mixed by Kozua](https://open.spotify.com/track/39nCOc2qN1OTNE6CZIUkhh)
 - [Internal World by MEHÍLOVE](https://open.spotify.com/track/6iXSjGxzgJS5UqnItBnSnd)
 - [Serene by HAK3N](https://open.spotify.com/track/5ZZtfkpgLJMJrJ37HLH7f1)
-- [Through The Darkness - Mixed by LTN, Ghostbeat](https://open.spotify.com/track/24cdQrBiDTDjV93Ks27E4P)
-- [Eau De Vie by Kaiyan](https://open.spotify.com/track/4k84XaNsd7C8QNnpwIZ07f)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
