@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
-- [Frozen by ALSO ASTIR](https://open.spotify.com/track/3XP3SglqMhNYoAj29zW7ud)
-- [High by Alex Keeper, ARI.](https://open.spotify.com/track/7BTsvHlBcQC0xX9hCXE0hg)
-- [Love On Sight by Changed Habits](https://open.spotify.com/track/0LW1MDyYwz4RebcfAgr4nw)
-- [How Do You Do by Boostereo, DEEPT1ME, Deep Mage](https://open.spotify.com/track/0M6tvOb1IiAURPQd0FVMrf)
+- [90 days by Dimside](https://open.spotify.com/track/16k0IlZHe3P2TYnT3vKOTw)
+- [Latidos by Amani Amara](https://open.spotify.com/track/6Ax92dhh4B65RZk9eW33D0)
+- [Malibu by UOAK](https://open.spotify.com/track/3XovubwzGKYpP9Aite7eV9)
+- [Green by Changed Habits](https://open.spotify.com/track/40tllS05MDGO2pAzSom72N)
+- [Holy Water by ledenn](https://open.spotify.com/track/05KDpqfNRV6wuksUDHyQF0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
