@@ -11,9 +11,9 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 
 #### 🎧 Spotify recent tracks
 - [Last Christmas by Wham!](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78)
+- [Last Christmas by Wham!](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78)
 - [Lighter by Galantis, David Guetta, 5 Seconds of Summer](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3)
 - [It Feels So Good - Jamy Nox Remix by Matt Sassari, HUGEL, Sonique, Jamy Nox](https://open.spotify.com/track/4o1t8bOiuHwjijH2b0LrmA)
 - [What A Wonderful World by Louis Armstrong](https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9)
-- [Wait So Long (Why Do I Have To) by Swedish House Mafia](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
