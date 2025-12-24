@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Last Christmas by Wham!](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78)
+- [Lighter by Galantis, David Guetta, 5 Seconds of Summer](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3)
+- [It Feels So Good - Jamy Nox Remix by Matt Sassari, HUGEL, Sonique, Jamy Nox](https://open.spotify.com/track/4o1t8bOiuHwjijH2b0LrmA)
+- [What A Wonderful World by Louis Armstrong](https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9)
 - [Wait So Long (Why Do I Have To) by Swedish House Mafia](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT)
-- [Waitin&#39; by HotLap](https://open.spotify.com/track/0bruK7CIEhyQO8tzeRTnjg)
-- [Golden - David Guetta REM/X (Extended) by HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast, David Guetta](https://open.spotify.com/track/3p3FbElRZudNO4hp1Av8MO)
-- [Heaven Takes You Home (feat. Connie Constance) - Extended Mix by Swedish House Mafia, Connie Constance](https://open.spotify.com/track/6GGYu7crGYv0Rl2PKKtr3Y)
-- [Stumblin&#39; In - Extended Mix by CYRIL](https://open.spotify.com/track/4MiDbkXgeV4lEz07NIQLPz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
