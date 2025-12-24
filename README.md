@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Spend The Night by Alex Adair](https://open.spotify.com/track/6xaWCl3MF3cBmXrrcqQsfm)
-- [Hannah (the sun) by Fred again..](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a)
-- [Forever by terro, Lighthouse](https://open.spotify.com/track/2iNxtEnoIlhhssv46J5QUW)
-- [She&#39;s Heavenly by Samuel Miller](https://open.spotify.com/track/5xStP4JYvfZkMwcmCWaH9b)
-- [Don&#39;t Worry by Androma](https://open.spotify.com/track/70cYue5as0ZpC2sspqtii8)
+- [Dark by Does it matter, Francis Skyes](https://open.spotify.com/track/6dK43NdCFXhIOXuKlygO97)
+- [Fear by RAZZ, AgusAlvarez](https://open.spotify.com/track/209YwvH7jZcQ99fR4AZt5P)
+- [Stuck On Your Love by HNE](https://open.spotify.com/track/5bdlV0zEi5UEmY9ycCJ8Iw)
+- [Say Goodbye by Ten Pictures](https://open.spotify.com/track/7kZwycmA0V5jm1pEKhmcXE)
+- [Demons - Massane Remix by Jerro, Sophia Bel, Massane](https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
