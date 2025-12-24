@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Got Me Like by Lavern](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP)
-- [What Is This Happiness? by Luna Blue](https://open.spotify.com/track/7cXAN0D6BYxR3YosEZGFWV)
-- [Yo No Lo Sé by ERIICE](https://open.spotify.com/track/5ihq4qbjaO2r5Ga9aGlsMj)
-- [Where Did You Go by Leo Chase](https://open.spotify.com/track/3kLuuPQIuL7AunuU24y1Qt)
-- [Heart (feat. Madeline) by Forester, Madeline Megery](https://open.spotify.com/track/1BKpgXxb9OgZfmQsHRcbls)
+- [Spend The Night by Alex Adair](https://open.spotify.com/track/6xaWCl3MF3cBmXrrcqQsfm)
+- [Hannah (the sun) by Fred again..](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a)
+- [Forever by terro, Lighthouse](https://open.spotify.com/track/2iNxtEnoIlhhssv46J5QUW)
+- [She&#39;s Heavenly by Samuel Miller](https://open.spotify.com/track/5xStP4JYvfZkMwcmCWaH9b)
+- [Don&#39;t Worry by Androma](https://open.spotify.com/track/70cYue5as0ZpC2sspqtii8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
