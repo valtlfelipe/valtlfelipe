@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Slow Bloom - Mixed by EMBRZ](https://open.spotify.com/track/3Kncoe3lzUo8OeQWW3Vqak)
-- [Spellbound by oskar med k](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T)
-- [Golden Sunset by Lavern](https://open.spotify.com/track/679xwHGrkNsNQHh6KacLxA)
-- [Outlines by Leo Chase](https://open.spotify.com/track/75QKtuVwYEx9lHR6anq5ki)
-- [I Don&#39;t Wanna Go by BTRN, Zens](https://open.spotify.com/track/14cgu9NfusKsVAxC7GxcFf)
+- [Wake Up by Alex Keeper](https://open.spotify.com/track/6EyKOiLeQJWXGrxG6Ir9fV)
+- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
+- [Places by Elderbrook, Shimza](https://open.spotify.com/track/4fRgzxAJcqhjYv5DQJSdRH)
+- [Magnetic by Jake and the colors](https://open.spotify.com/track/3JucIuB78WGKCSFXy7hndh)
+- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
