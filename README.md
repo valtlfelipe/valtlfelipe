@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Sunshine by OneRepublic](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B)
-- [Padam Padam by Kylie Minogue](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5)
-- [You Should Probably Leave by Chris Stapleton](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt)
-- [Guy For That (Feat. Luke Combs) by Post Malone, Luke Combs](https://open.spotify.com/track/6StwwqB84sJeLr7tZDTxEX)
-- [Lasting Lover by Sigala, James Arthur](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY)
+- [weren&#39;t for the wind by Ella Langley](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM)
+- [Budapest by George Ezra](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1)
+- [Numb by Marshmello, Khalid](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL)
+- [Don&#39;t Start Now by Dua Lipa](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg)
+- [Rain On Me (with Ariana Grande) by Lady Gaga, Ariana Grande](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
