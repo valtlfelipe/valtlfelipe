@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hot In It (feat. Charli XCX) by Tiësto, Charli xcx](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn)
-- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
-- [Higher Love by Kygo, Whitney Houston](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY)
-- [Don&#39;t Call Me Up by Mabel](https://open.spotify.com/track/4QjVfuu7om31HBan0jlX4p)
-- [Honey Boy (feat. Nile Rodgers &amp; Shenseea) by Purple Disco Machine, Benjamin Ingrosso, Nile Rodgers, Shenseea](https://open.spotify.com/track/3CTgRPxyTh2w7wBjVFH88e)
+- [Satellite by Khalid](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY)
+- [Weekend Vibe by Jubël](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL)
+- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
+- [I&#39;m Not Here To Make Friends by Sam Smith, Calvin Harris, Jessie Reyez](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM)
+- [Friday (feat. Mufasa &amp; Hypeman) - Dopamine Re-Edit by Riton, Nightcrawlers, Mufasa &amp; Hypeman, Mufasa, Dopamine](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
