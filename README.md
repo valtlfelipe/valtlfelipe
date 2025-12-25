@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Bittersweet Symphony by GAMPER &amp; DADONI, Emily Roberts](https://open.spotify.com/track/0Gp23ds4JDUwan98IfNNL5)
+- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
+- [Endless Summer by Alan Walker, Zak Abel](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK)
 - [Give It Up by KC &amp; The Sunshine Band](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN)
 - [Edge of Seventeen - 2016 Remaster by Stevie Nicks](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z)
-- [Maneater by Daryl Hall &amp; John Oates](https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY)
-- [The Way It Is by Bruce Hornsby and the Range](https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t)
-- [Back To Life by Soul II Soul, Caron Wheeler](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
