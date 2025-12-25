@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Satellite by Khalid](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY)
-- [Weekend Vibe by Jubël](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL)
-- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
-- [I&#39;m Not Here To Make Friends by Sam Smith, Calvin Harris, Jessie Reyez](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM)
-- [Friday (feat. Mufasa &amp; Hypeman) - Dopamine Re-Edit by Riton, Nightcrawlers, Mufasa &amp; Hypeman, Mufasa, Dopamine](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl)
+- [Sunshine by OneRepublic](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B)
+- [Padam Padam by Kylie Minogue](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5)
+- [You Should Probably Leave by Chris Stapleton](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt)
+- [Guy For That (Feat. Luke Combs) by Post Malone, Luke Combs](https://open.spotify.com/track/6StwwqB84sJeLr7tZDTxEX)
+- [Lasting Lover by Sigala, James Arthur](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
