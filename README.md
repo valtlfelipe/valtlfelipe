@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Operation Midnight by Luttrell](https://open.spotify.com/track/5pm2LgbtFoy7lqVsn4Vcy9)
+- [Different - Album Edit by Volen Sentir, Marsh, XIRA](https://open.spotify.com/track/6KCFEkP7dhw4xvrgXBuy3m)
+- [Spend My Days by L.GU., MXV, Coulson](https://open.spotify.com/track/3wT0B6dNb6H9U89aXMQdSy)
+- [Afterrush by Svalka](https://open.spotify.com/track/47K93PoMolZJ3GXecoDVVh)
 - [Love Me, Let Me Go by ORACLE, Holochrome](https://open.spotify.com/track/3gfs6iBl6Zr0f4Lw1lXIqh)
-- [Pigeon Lake by Daniel Steidtmann](https://open.spotify.com/track/7yvZgPEl80idsm6i5zs47W)
-- [To The Ground by Matt Fax](https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO)
-- [The Tide by COLIN](https://open.spotify.com/track/41gKZCfsHIfyRLu1z2W6W1)
-- [Feel Your Weight - Angara Remix by Arkangel, Angara](https://open.spotify.com/track/4TGkRkPLT470QC5CKv8iKr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
