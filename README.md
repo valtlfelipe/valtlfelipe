@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [weren&#39;t for the wind by Ella Langley](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM)
-- [Budapest by George Ezra](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1)
-- [Numb by Marshmello, Khalid](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL)
-- [Don&#39;t Start Now by Dua Lipa](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg)
-- [Rain On Me (with Ariana Grande) by Lady Gaga, Ariana Grande](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu)
+- [Love Me, Let Me Go by ORACLE, Holochrome](https://open.spotify.com/track/3gfs6iBl6Zr0f4Lw1lXIqh)
+- [Pigeon Lake by Daniel Steidtmann](https://open.spotify.com/track/7yvZgPEl80idsm6i5zs47W)
+- [To The Ground by Matt Fax](https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO)
+- [The Tide by COLIN](https://open.spotify.com/track/41gKZCfsHIfyRLu1z2W6W1)
+- [Feel Your Weight - Angara Remix by Arkangel, Angara](https://open.spotify.com/track/4TGkRkPLT470QC5CKv8iKr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
