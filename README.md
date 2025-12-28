@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
+- [Take You Dancing by Jason Derulo](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3)
+- [Look Who&#39;s Laughing Now by Benjamin Ingrosso](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7)
+- [Players by Coi Leray](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij)
 - [I Feel Good by Pink Sweat$](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F)
-- [Hot Stuff by Kygo, Donna Summer](https://open.spotify.com/track/00ETaeHUQ6lops3oWU1Wrt)
-- [In The City by Charli xcx, Sam Smith](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku)
-- [Alone (with Nicki Minaj) by Kim Petras, Nicki Minaj](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP)
-- [Don&#39;t Call Me Up by Mabel](https://open.spotify.com/track/4QjVfuu7om31HBan0jlX4p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
