@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Best Is Yet To Come (with Kyle Reynolds) by Gryffin, Kyle Reynolds](https://open.spotify.com/track/2gZwBmkSmsVfEPFWGuWTDk)
+- [Dance The Night - From Barbie The Album by Dua Lipa](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA)
 - [exes by Tate McRae](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8)
 - [3 Nights by Dominic Fike](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u)
 - [You for Me by Sigala, Rita Ora](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp)
-- [Lost In You (Falling In Love) by Dezza](https://open.spotify.com/track/48F5ZkDe3nz2n84TG2KhAd)
-- [Higher Love by Kygo, Whitney Houston](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
