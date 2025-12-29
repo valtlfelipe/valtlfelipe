@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
-- [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
-- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
-- [Right Here by LIKETHIS](https://open.spotify.com/track/53KT12S4Dzo0xw533fMiBD)
-- [We Are Young by Alex Breitling](https://open.spotify.com/track/13xEtVZxK4WXprFsV8ytj8)
+- [IOU by EMBRZ, Lizzy Land](https://open.spotify.com/track/7Ad3f9WKd8VfGmRH9SMLq8)
+- [Lailonie by Marsh](https://open.spotify.com/track/1xxVuNcCyuHBmoCeeajQjU)
+- [Captivated by LTN, Ghostbeat, Nina Carr](https://open.spotify.com/track/3pNnSLPQUHxUrLMoiMNN6d)
+- [Do You Feel The Same? - OCULA Remix by Emmit Fenn, OCULA](https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC)
+- [Rebirth by Tinlicker, Hero Baldwin](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
