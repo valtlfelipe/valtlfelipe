@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Here She Comes by Jackarta](https://open.spotify.com/track/5kndIH4oFIzwcoRCjbbx4W)
-- [That&#39;s Life by Scorz](https://open.spotify.com/track/6iwnnTtJcKlpbq11OlnTvx)
-- [Yours by djimboh](https://open.spotify.com/track/4py97jkt3UjrYu73lPzvIS)
-- [Promises by Angara](https://open.spotify.com/track/2eCMIFeibfdRG8VWofjupI)
-- [Just Hold On by Jordin Post](https://open.spotify.com/track/5rALG3uffPJW7cOx7RcVMa)
+- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
+- [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
+- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
+- [Right Here by LIKETHIS](https://open.spotify.com/track/53KT12S4Dzo0xw533fMiBD)
+- [We Are Young by Alex Breitling](https://open.spotify.com/track/13xEtVZxK4WXprFsV8ytj8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
