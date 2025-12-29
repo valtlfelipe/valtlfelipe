@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Silence by NORRA](https://open.spotify.com/track/0LEhVAHl8e2gz68aoG2oH1)
-- [Come To Life by Scorz, Diana Leah](https://open.spotify.com/track/2Cn42wAQwgQ5qv61UUdKdR)
-- [Sundown by Coconut &amp; Palm Trees](https://open.spotify.com/track/09PSpnj9hH0kpoRDRWucVW)
-- [In The City by Charli xcx, Sam Smith](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku)
-- [Alone (with Nicki Minaj) by Kim Petras, Nicki Minaj](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP)
+- [I Need Someone (feat. Nathan Ball &amp; Caleb Femi) (Yotto Remix) (Edit) by Faithless, Nathan Ball, Caleb Femi, YOTTO](https://open.spotify.com/track/5zSKKXVyP0U1aMIMHojm2Y)
+- [Home by THE21](https://open.spotify.com/track/0X3bAPlwrlSJTJUfAS8bi5)
+- [Like The Moon by Clement Kim](https://open.spotify.com/track/2G7y2CPsvovh1ffxEsjA5C)
+- [Forgiveness by Marsh, Wassu, Mariel Beausejour](https://open.spotify.com/track/5s7Yqr1WzXgSJ1TzOLoO1Q)
+- [Joint Venture by Hausward](https://open.spotify.com/track/6XASJldL6SppN0ZnTmmTza)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
