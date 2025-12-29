@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Overseas by ANUQRAM](https://open.spotify.com/track/2yGTeWHEw8aU2viDrKcvLd)
-- [Say Hello by Enamour, Meliha](https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi)
-- [What If We Go Back by Into The Ether, JOSEFINA](https://open.spotify.com/track/7yNgOjGsrsirD8LA5hgguX)
-- [Herealways by Jordin Post](https://open.spotify.com/track/4gbMgmhUXyALxtSzDqwngF)
-- [Hollow by Emmit Fenn, Shallou](https://open.spotify.com/track/0QWfkVxD0iy0a8vRhQWm3s)
+- [The World by Abroad](https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7)
+- [It&#39;s Ok It&#39;s Alright by Emmit Fenn](https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow)
+- [Venice Beach by Kozua](https://open.spotify.com/track/3S1ANvfLwD21P0A8Jvy6LX)
+- [Falling Apart by Leaving Laurel](https://open.spotify.com/track/0UO0Fl2CaNNpeh7WB2kvsC)
+- [90 days by Dimside](https://open.spotify.com/track/16k0IlZHe3P2TYnT3vKOTw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
