@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
-- [Spacewalk by Mative](https://open.spotify.com/track/41EmHawyVQTo8P05jRs62E)
-- [Change of Driver by Falden, PEARL](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x)
-- [Up Here - Extended Mix by djimboh, Lumynesynth](https://open.spotify.com/track/0jFH43bEMdwCoh84cmv4fN)
-- [Fragments by Marsh, Jodie Knight](https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh)
+- [The Mountain by Andrew Nagy, Joel Winterflood](https://open.spotify.com/track/25DrHc6fsJ1UumUHHHXppc)
+- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
+- [Be Brave by djimboh](https://open.spotify.com/track/5QeJCkBNHe6a8T5uusmqIv)
+- [The Summit by Braxton](https://open.spotify.com/track/2Jzbk1NzZFCoV5SL5GxJYy)
+- [White Lie (Pneuma) by Marsh, ALLKNIGHT](https://open.spotify.com/track/2JMgji1SzQcnmM4HnBQ4GD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
