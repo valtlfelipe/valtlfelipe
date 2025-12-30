@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[CrystallineCore/Biscuit](https://github.com/CrystallineCore/Biscuit)** - Biscuit is a specialized PostgreSQL index access method (IAM) designed for blazing-fast pattern matching on LIKE queries, with native support for multi-column searches. It eliminates the recheck overhead of trigram indexes while delivering significant performance improvements on wildcard-heavy queries. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Capella by Hosini](https://open.spotify.com/track/0JtZTAkLmaCfjeM27ULuIc)
-- [fireflies (for as far as we could see) - edit by Leaving Laurel](https://open.spotify.com/track/3YvEJGwqNiyIvoo07C2JXF)
-- [Safari by ANUQRAM](https://open.spotify.com/track/41lLd64uG2eerLMlJsXl6v)
-- [River Of Dreams by Kaiyan, EMBLM](https://open.spotify.com/track/6RfncGOXKpLWQLWvjBSNt7)
-- [Cos Of You - Edit by Joseph Ray](https://open.spotify.com/track/2Qbo6KJqPy6LSNonvjCFIR)
+- [Fall by w.ill](https://open.spotify.com/track/4b0tpPJf5XqyrB8Ai1j38V)
+- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
+- [Piece Of Me by Jackarta, Andrew Benson](https://open.spotify.com/track/6zZ1bB7zfpK97immHMXyn7)
+- [Pure by Rezident](https://open.spotify.com/track/6OXnL79ZUpY7zsp01yU0q4)
+- [Never Far by HAK3N](https://open.spotify.com/track/3XnGkmaMnX5yLokPdDcQi5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
