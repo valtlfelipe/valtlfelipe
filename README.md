@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[CrystallineCore/Biscuit](https://github.com/CrystallineCore/Biscuit)** - Biscuit is a specialized PostgreSQL index access method (IAM) designed for blazing-fast pattern matching on LIKE queries, with native support for multi-column searches. It eliminates the recheck overhead of trigram indexes while delivering significant performance improvements on wildcard-heavy queries. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Remedy by fwd/slash](https://open.spotify.com/track/2K2PVKuP1iuLjisZzF0nP2)
-- [Northern Lights by Sam Davies](https://open.spotify.com/track/65GQVnAiY8ysjux8YS5BcH)
-- [Light Year (Tritonia 516) by Alex Breitling, Jyll](https://open.spotify.com/track/0D8XJcNEuF5kgnvGZjf4fw)
-- [Something For Nothing by Boy North, MØØNE](https://open.spotify.com/track/6gVx2sRgEKxiikJsZZOnHf)
-- [Hymn by Marsh](https://open.spotify.com/track/6765w6VdIenpaZqZc87auA)
+- [Same Dream by Steven Weston, Taė](https://open.spotify.com/track/13S2GurJpAAYccXMgBPzmx)
+- [Come Closer by Shingo Nakamura](https://open.spotify.com/track/45Vgw12kFugNF15bLJqCwm)
+- [Out Of Time by Ross Quinn](https://open.spotify.com/track/51cgJEFd8FPzkUZeXyV1rp)
+- [Pearly by Polar Inc.](https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn)
+- [Tides by Farves, Sebastian Moriarty, Ellysse Mason](https://open.spotify.com/track/68vmAMQR3pAIYVeyBJKur4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
