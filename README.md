@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [The Mountain by Andrew Nagy, Joel Winterflood](https://open.spotify.com/track/25DrHc6fsJ1UumUHHHXppc)
-- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
-- [Be Brave by djimboh](https://open.spotify.com/track/5QeJCkBNHe6a8T5uusmqIv)
-- [The Summit by Braxton](https://open.spotify.com/track/2Jzbk1NzZFCoV5SL5GxJYy)
-- [White Lie (Pneuma) by Marsh, ALLKNIGHT](https://open.spotify.com/track/2JMgji1SzQcnmM4HnBQ4GD)
+- [Breakaway (with Lovlee) by Andrew Nagy, Lovlee](https://open.spotify.com/track/7M39ypjUTFFvaQoHVxTNc3)
+- [Journal by Polar Inc.](https://open.spotify.com/track/7uBr4fZvDFskB5CvxXGOi2)
+- [Heal by EMBRZ](https://open.spotify.com/track/2FWOuzgDH9AKozwg9wQ7HV)
+- [The River by Braxton](https://open.spotify.com/track/2mTJqFsfAsv1ivDFF8h5LZ)
+- [Take Me by Lstn](https://open.spotify.com/track/6FZfPWE4iw6jp2ppsKyMXV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
