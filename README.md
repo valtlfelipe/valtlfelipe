@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jamierpond/yapi](https://github.com/jamierpond/yapi)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Push And Pull by Rezident](https://open.spotify.com/track/1rdP315UTD8DYQR2NWsd7y)
-- [Must Be Dreaming by anamē, Bien](https://open.spotify.com/track/17kDoCyWLuTKgSf0Oxr2dV)
-- [Ghost Voices - Lane 8 Remix by Lane 8, Virtual Self](https://open.spotify.com/track/5TSwDA5UvNPnBu1maDYbDi)
-- [All My Light - Extended Mix by Boy North](https://open.spotify.com/track/0Ver2M9ACOsKQemaEAYCft)
-- [Take That Leap by Massane](https://open.spotify.com/track/2qkAgWaBylD14quHwtDap5)
+- [The Bridge - Chicane Rework by Jody Wisternoff, Sian Evans, Chicane](https://open.spotify.com/track/23S3VBhXxJBGYs8MCzygpb)
+- [In Time by Verbala](https://open.spotify.com/track/6zC6bTpBp0LrWTSYMKDTKK)
+- [One Last Touch by Hessian, LAR, Keepa](https://open.spotify.com/track/110op23Y2YOaK04f7ahX26)
+- [So Real by Qualysto](https://open.spotify.com/track/3F5DqndDfbqZdEETpYLrV8)
+- [Too Weak by Jerro](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
