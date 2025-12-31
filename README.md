@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jamierpond/yapi](https://github.com/jamierpond/yapi)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [The Well-Tempered Clavier I, Prelude &amp; Fugue No. 1 in C Major, BWV 846: I. Prelude by Johann Sebastian Bach, Lang Lang](https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU)
+- [Hot Stuff by Kygo, Donna Summer](https://open.spotify.com/track/00ETaeHUQ6lops3oWU1Wrt)
 - [Forever by Hessian, Yellowitz](https://open.spotify.com/track/5Ia5F9lPczHoYXOCo1TyRq)
 - [Dancing Shadows by Kaiyan](https://open.spotify.com/track/5iets69Dfnu1ZCpWjN7GfX)
 - [Marooned by Jerro](https://open.spotify.com/track/3Bj2emVtkUtYlA6roLBuTp)
-- [The Bridge - Chicane Rework by Jody Wisternoff, Sian Evans, Chicane](https://open.spotify.com/track/23S3VBhXxJBGYs8MCzygpb)
-- [In Time by Verbala](https://open.spotify.com/track/6zC6bTpBp0LrWTSYMKDTKK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
