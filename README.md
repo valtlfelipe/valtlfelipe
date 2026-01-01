@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jamierpond/yapi](https://github.com/jamierpond/yapi)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I CAN’T LOSE YOU by Confidence Man](https://open.spotify.com/track/4LJOC3L3wmOqX7jxC7DNTb)
-- [Million Voices - Radio Edit by Otto Knows](https://open.spotify.com/track/1gJbFyxVnTF8RTGCLyQxCL)
-- [Neverender by Justice, Tame Impala](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj)
-- [In My Mind by Dynoro, Gigi D&#39;Agostino](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33)
-- [Sing by Travis](https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S)
+- [Pé Na Areia by Diogo Nogueira](https://open.spotify.com/track/1b0qrz3GCfvlpo05Dso8Re)
+- [Pela Última Vez - Ao Vivo by Grupo Menos É Mais, NATTAN](https://open.spotify.com/track/6B7ot6Wlqf7zt3FCkYl2FJ)
+- [Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo) by Turma do Pagode, Grupo Menos É Mais](https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk)
+- [Olha Onde Eu Tô by Ana Castela](https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm)
+- [Cerveja De Garrafa (Fumaça Que Eu Faço) - Ao Vivo Em São Paulo / 2017 by Atitude 67](https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
