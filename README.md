@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jamierpond/yapi](https://github.com/jamierpond/yapi)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Pé Na Areia by Diogo Nogueira](https://open.spotify.com/track/1b0qrz3GCfvlpo05Dso8Re)
-- [Pela Última Vez - Ao Vivo by Grupo Menos É Mais, NATTAN](https://open.spotify.com/track/6B7ot6Wlqf7zt3FCkYl2FJ)
-- [Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo) by Turma do Pagode, Grupo Menos É Mais](https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk)
-- [Olha Onde Eu Tô by Ana Castela](https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm)
-- [Cerveja De Garrafa (Fumaça Que Eu Faço) - Ao Vivo Em São Paulo / 2017 by Atitude 67](https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX)
+- [Messy by Lola Young](https://open.spotify.com/track/2YuUy4hBCVm4L5IRHu0iVl)
+- [Abandonado - Ao Vivo Em Brazil/2008 by Exaltasamba](https://open.spotify.com/track/0HCuwztevX33tSpKWONoZj)
+- [Lapada Dela - Ao Vivo by Grupo Menos É Mais, Matheus Fernandes](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr)
+- [Eu nunca amei assim / Sobrenatural / Sem Radar - Ao Vivo by Kamisa 10](https://open.spotify.com/track/2sZA8JGCtCVe43s0kFtMSI)
+- [Falta Você - Ao Vivo by Thiaguinho](https://open.spotify.com/track/6gFL0JSbPbKBvCiBtNtOtn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
