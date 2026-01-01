@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jamierpond/yapi](https://github.com/jamierpond/yapi)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Dancing in the Moonlight by Toploader](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od)
-- [The Way I Are by Timbaland, Keri Hilson, D.O.E.](https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn)
-- [Pure Shores by All Saints](https://open.spotify.com/track/6ZLGthToczpvnL5Eoy6yrY)
-- [One More Time - Radio Edit by Daft Punk](https://open.spotify.com/track/0ijhkvBpA7OBlY4clWSUZw)
-- [Lady - Hear Me Tonight by Modjo](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6)
+- [I CAN’T LOSE YOU by Confidence Man](https://open.spotify.com/track/4LJOC3L3wmOqX7jxC7DNTb)
+- [Million Voices - Radio Edit by Otto Knows](https://open.spotify.com/track/1gJbFyxVnTF8RTGCLyQxCL)
+- [Neverender by Justice, Tame Impala](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj)
+- [In My Mind by Dynoro, Gigi D&#39;Agostino](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33)
+- [Sing by Travis](https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
