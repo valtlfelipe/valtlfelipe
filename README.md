@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
+- **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (today)
 - **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** - Open-source email observability for AWS SES (2 days ago)
 - **[usetrmnl/plugins](https://github.com/usetrmnl/plugins)** - e-ink dashboard plugin logic (3 days ago)
 - **[music-assistant/server](https://github.com/music-assistant/server)** - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. (5 days ago)
 - **[ahonn/tauri-plugin-sparkle-updater](https://github.com/ahonn/tauri-plugin-sparkle-updater)** - A Tauri plugin that integrates the Sparkle update framework for macOS applications. (1 week ago)
-- **[jamierpond/yapi](https://github.com/jamierpond/yapi)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
 - [Messy by Lola Young](https://open.spotify.com/track/2YuUy4hBCVm4L5IRHu0iVl)
