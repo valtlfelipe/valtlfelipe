@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usetrmnl/plugins](https://github.com/usetrmnl/plugins)** - e-ink dashboard plugin logic (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Forever by terro, Lighthouse](https://open.spotify.com/track/2iNxtEnoIlhhssv46J5QUW)
-- [Lonely by Alex Keeper](https://open.spotify.com/track/6t35AceGWg9CJyVTAw8EJT)
-- [miss u by Dimside](https://open.spotify.com/track/1ulczdXwYVTWtpPknSZgJU)
-- [Don&#39;t Let Go by Leo Chase](https://open.spotify.com/track/4mcjEc0cATI3YtdJV0tJQK)
-- [Lost by Floating Club](https://open.spotify.com/track/352Ex7DrYwaIRKzZIpb5uP)
+- [Guessing by Floating Club](https://open.spotify.com/track/4IjCuRcHEhLfUH24DPUaol)
+- [Away by XIX99](https://open.spotify.com/track/0OyuQbNjc9ZAL25O9JJ4l1)
+- [Anymore by Friends &amp; I](https://open.spotify.com/track/0x7N7pvwZTUYCsSvYfjDHp)
+- [Take Your Time by Jake and the colors](https://open.spotify.com/track/5HSXglXPD0DJn4UgjNAadK)
+- [Beneath The Lights by Blancwater](https://open.spotify.com/track/4VjMaoJR3x5oUvSoWMda7R)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
