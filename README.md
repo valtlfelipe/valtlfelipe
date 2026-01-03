@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usetrmnl/plugins](https://github.com/usetrmnl/plugins)** - e-ink dashboard plugin logic (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Meu Pedaço de Pecado by João Gomes](https://open.spotify.com/track/0KbGTtipoc4GnUiYEVzfQh)
-- [Messy by Lola Young](https://open.spotify.com/track/2YuUy4hBCVm4L5IRHu0iVl)
-- [Abandonado - Ao Vivo Em Brazil/2008 by Exaltasamba](https://open.spotify.com/track/0HCuwztevX33tSpKWONoZj)
-- [Lapada Dela - Ao Vivo by Grupo Menos É Mais, Matheus Fernandes](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr)
-- [Eu nunca amei assim / Sobrenatural / Sem Radar - Ao Vivo by Kamisa 10](https://open.spotify.com/track/2sZA8JGCtCVe43s0kFtMSI)
+- [Forever by terro, Lighthouse](https://open.spotify.com/track/2iNxtEnoIlhhssv46J5QUW)
+- [Lonely by Alex Keeper](https://open.spotify.com/track/6t35AceGWg9CJyVTAw8EJT)
+- [miss u by Dimside](https://open.spotify.com/track/1ulczdXwYVTWtpPknSZgJU)
+- [Don&#39;t Let Go by Leo Chase](https://open.spotify.com/track/4mcjEc0cATI3YtdJV0tJQK)
+- [Lost by Floating Club](https://open.spotify.com/track/352Ex7DrYwaIRKzZIpb5uP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
