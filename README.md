@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usetrmnl/plugins](https://github.com/usetrmnl/plugins)** - e-ink dashboard plugin logic (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Dreamin&#39; by Fargro, RVLE](https://open.spotify.com/track/3FtqkEST8eFWmh8opcCLgB)
-- [Yellow by Niicap, Jadanaë](https://open.spotify.com/track/6qGiXMtDuZiItgekdecWsd)
-- [Walking On a Dream by NEIMY](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf)
-- [miss u by Dimside](https://open.spotify.com/track/1ulczdXwYVTWtpPknSZgJU)
-- [Keep Running by Alex Keeper](https://open.spotify.com/track/3BaoBF6jweQg8Lpf8WPsMJ)
+- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/1fieQCVNP3f50PZnKGvBe4)
+- [Inner Light by Elderbrook, Bob Moses](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj)
+- [Escape (feat. Hayla) by Kx5, deadmau5, Kaskade, HAYLA](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK)
+- [The Best Part by anamē, gardenstate, Bien](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP)
+- [Where You Are by John Summit, HAYLA](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
