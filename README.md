@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usetrmnl/plugins](https://github.com/usetrmnl/plugins)** - e-ink dashboard plugin logic (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
-- [Because You Move Me by Tinlicker, Helsloot](https://open.spotify.com/track/1fieQCVNP3f50PZnKGvBe4)
-- [Inner Light by Elderbrook, Bob Moses](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj)
-- [Escape (feat. Hayla) by Kx5, deadmau5, Kaskade, HAYLA](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK)
-- [The Best Part by anamē, gardenstate, Bien](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP)
+- [Sunshine by Lavern](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH)
+- [Porque Te Vas by Crisologo](https://open.spotify.com/track/1OoZaL1VE3GitN5xyHnDwM)
+- [haunted by puulse](https://open.spotify.com/track/5G1DsGxeQDFwTz0GzcOBtj)
+- [Passerby by rshand](https://open.spotify.com/track/60MKXAjrvmhQfVTI9OYfGD)
+- [Passerby by rshand](https://open.spotify.com/track/60MKXAjrvmhQfVTI9OYfGD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
