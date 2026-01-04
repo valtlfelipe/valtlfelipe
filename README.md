@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** - Open-source email observability for AWS SES (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
+- [Dancing in the Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
+- [Mayflower by AFTRHRS](https://open.spotify.com/track/7428nGgGKxhbeS4VejP1Am)
 - [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
 - [Is It Enough by Manaawa, Cole Morehead](https://open.spotify.com/track/6mYVcRJ6UroKIazzorznCR)
-- [Is It Enough by Manaawa, Cole Morehead](https://open.spotify.com/track/6mYVcRJ6UroKIazzorznCR)
-- [Sunrise by Lust.](https://open.spotify.com/track/2Y5vxK20raCFInOyeuz57L)
-- [Sunshine by Lavern](https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
