@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usetrmnl/plugins](https://github.com/usetrmnl/plugins)** - e-ink dashboard plugin logic (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Moon (And It Went Like) by Kid Francescoli, Julia Minkin](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E)
-- [Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework by HUGEL](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg)
-- [Solace by Midnight Run](https://open.spotify.com/track/4AcAMhSi6bLY940S0FQ94j)
-- [Dark by Does it matter, Francis Skyes](https://open.spotify.com/track/6dK43NdCFXhIOXuKlygO97)
-- [Say Goodbye by Ten Pictures](https://open.spotify.com/track/7kZwycmA0V5jm1pEKhmcXE)
+- [Dreamin&#39; by Fargro, RVLE](https://open.spotify.com/track/3FtqkEST8eFWmh8opcCLgB)
+- [Yellow by Niicap, Jadanaë](https://open.spotify.com/track/6qGiXMtDuZiItgekdecWsd)
+- [Walking On a Dream by NEIMY](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf)
+- [miss u by Dimside](https://open.spotify.com/track/1ulczdXwYVTWtpPknSZgJU)
+- [Keep Running by Alex Keeper](https://open.spotify.com/track/3BaoBF6jweQg8Lpf8WPsMJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
