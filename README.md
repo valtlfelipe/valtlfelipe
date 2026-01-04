@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usetrmnl/plugins](https://github.com/usetrmnl/plugins)** - e-ink dashboard plugin logic (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Say Goodbye by Ten Pictures](https://open.spotify.com/track/7kZwycmA0V5jm1pEKhmcXE)
 - [Guessing by Floating Club](https://open.spotify.com/track/4IjCuRcHEhLfUH24DPUaol)
 - [Away by XIX99](https://open.spotify.com/track/0OyuQbNjc9ZAL25O9JJ4l1)
 - [Anymore by Friends &amp; I](https://open.spotify.com/track/0x7N7pvwZTUYCsSvYfjDHp)
 - [Take Your Time by Jake and the colors](https://open.spotify.com/track/5HSXglXPD0DJn4UgjNAadK)
-- [Beneath The Lights by Blancwater](https://open.spotify.com/track/4VjMaoJR3x5oUvSoWMda7R)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
