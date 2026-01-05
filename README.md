@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** - Open-source email observability for AWS SES (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [No Time by Lastlings](https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp)
-- [One Foot In The Past, One Foot In The Future by Chicane](https://open.spotify.com/track/3TBCsUlXcMLs5JuARL6rOP)
-- [Naama by Sultan &#43; Shepard, Nathan Nicholson](https://open.spotify.com/track/2CFGJOKqK7pOdGN4Ujg0Ea)
-- [Faded and Pale by VEHA, Teesalu](https://open.spotify.com/track/0JKxOfsBgyp8jYb1fs19p5)
-- [Capella by Hosini](https://open.spotify.com/track/0JtZTAkLmaCfjeM27ULuIc)
+- [Freedom Of Light by Kaiyan](https://open.spotify.com/track/2wGm7LWiIRTEm6QuFl3O9g)
+- [Patient Patterns by Jack Willard](https://open.spotify.com/track/5mA9L5C4bRlb9JV23HTjCE)
+- [Be Brave by djimboh](https://open.spotify.com/track/5QeJCkBNHe6a8T5uusmqIv)
+- [A Love That&#39;s Hard To Find by Chicane](https://open.spotify.com/track/0cY7RPkcti7Fydj2LS8lCH)
+- [Zima by Sultan &#43; Shepard, Delhia De France](https://open.spotify.com/track/4Xt7JriSe3E1mHC4B7f8FF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
