@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** - Open-source email observability for AWS SES (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Wild by Massane, Colouring](https://open.spotify.com/track/4h5lhXniHc4DjlEX3a7G0D)
-- [Please Don&#39;t Break It by Lstn](https://open.spotify.com/track/7nkiaINaSFewi5ITExL1Wl)
-- [Like You by Marsh, Wassu](https://open.spotify.com/track/6CA5cIXak02jYPpQaFuDON)
-- [Lullaby Horizon - Sunday Maybe Mix by Way Out West](https://open.spotify.com/track/4TDyDwL3iPD4iyVi6xWq6e)
-- [Parallel Lines - Enzo Bennet Remix by ATTLAS, Enzo Bennet](https://open.spotify.com/track/32bXTwGoLpMjuVf7VYkatu)
+- [Summer in E Major by Chicane, The Mannequin](https://open.spotify.com/track/3GBJ89gVcnJkiS9ra3FdM6)
+- [What A Feeling by Courtney Storm, Finley Brückner](https://open.spotify.com/track/4MqY1JHLLfI0V62iZ3MDNa)
+- [Inertia by Hessian](https://open.spotify.com/track/1DC4WYpBda2uT0lQ3v7evG)
+- [Give Me Something by Steven Weston, Ormella](https://open.spotify.com/track/30BG3CiHyan22xQyJ3nLpa)
+- [Eu Topos by Marsh, Mimi Page](https://open.spotify.com/track/4oAZrNEBTbpEggnXhSbi3l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
