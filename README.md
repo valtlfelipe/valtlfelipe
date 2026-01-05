@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** - Open-source email observability for AWS SES (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [And U - Original Mix by Hosini](https://open.spotify.com/track/6loSOckXP7ENA1M6r7iPhi)
-- [Rebirth by Tinlicker, Hero Baldwin](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6)
-- [Forgiveness by Marsh, Wassu, Mariel Beausejour](https://open.spotify.com/track/5s7Yqr1WzXgSJ1TzOLoO1Q)
-- [Set Fire To My Gun by Elderbrook](https://open.spotify.com/track/6XfkP6lxj7kod0uBaOp3fr)
-- [Cold Light - 6am Remix by KC Lights, Leo Stannard](https://open.spotify.com/track/6BRsln8RDWDl91YmJpCYxY)
+- [River Of Dreams by Kaiyan, EMBLM](https://open.spotify.com/track/6RfncGOXKpLWQLWvjBSNt7)
+- [Orange Sky by Anriu](https://open.spotify.com/track/6MaiMZvEzNDoWhOA9MG8uK)
+- [Mist by VEHA](https://open.spotify.com/track/4reU8aYwYfUVZG04YTXnHh)
+- [Up Here by djimboh, Lumynesynth](https://open.spotify.com/track/4Bhvds0QIzg1Gp0WRXCJGN)
+- [No Return by Massane](https://open.spotify.com/track/5eizBzFqa4HFMz1AG80B7M)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
