@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** - Open-source email observability for AWS SES (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Make You Stay by Chicane](https://open.spotify.com/track/0zNsYMjUNT6K3OiURdiATr)
-- [One By One by Diplo, Elderbrook, andhim](https://open.spotify.com/track/4KWbK1q4wxaLRykcpy6tHK)
-- [The Deepest Truth by AY.ATA](https://open.spotify.com/track/1A5HM0vaULLtxS1OZqPHLH)
-- [Veloria by RumbiaHouse](https://open.spotify.com/track/7b8mK329y3DrWMLa2UTKna)
-- [RnR - Remix by UN Chamber Music Society, Sultan &#43; Shepard, Brenda Vongova](https://open.spotify.com/track/7I696f383bZVXDL4zDu1Fv)
+- [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
+- [Closure by Massane, Benjamin Roustaing](https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O)
+- [Leave You by Einmusik, Lexer, Jyll](https://open.spotify.com/track/3p1j9R2oZG7GG9OtJxphWX)
+- [Follow Me by Nox Vahn, Marsh, Mimi Page](https://open.spotify.com/track/4M1XQKuTPqV470eFBiqKpO)
+- [Moonrise - Extended Mix by Zimmer](https://open.spotify.com/track/3RWRbqV2RMXh009qgNHn7t)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
