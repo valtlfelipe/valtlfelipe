@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** - Open-source email observability for AWS SES (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Sunstroke - Disco Citizens Evolution Mix by Chicane, Disco Citizens](https://open.spotify.com/track/6BvnyTx6VBuqyTK2cfYmNA)
+- [Floating - Extended Mix by Klur](https://open.spotify.com/track/7KyxK5GxsKjuqycJCEKrMR)
+- [All That Remains - GVN Remix by Sultan &#43; Shepard, Fractures, GVN](https://open.spotify.com/track/3HcF0ajxA3dHbta4WABsAf)
+- [Favourite Game by AVIRA, Nourey, Tom Bailey](https://open.spotify.com/track/0b1lgzhrxVAoU9xlspCWL6)
 - [Freedom Of Light by Kaiyan](https://open.spotify.com/track/2wGm7LWiIRTEm6QuFl3O9g)
-- [Patient Patterns by Jack Willard](https://open.spotify.com/track/5mA9L5C4bRlb9JV23HTjCE)
-- [Be Brave by djimboh](https://open.spotify.com/track/5QeJCkBNHe6a8T5uusmqIv)
-- [A Love That&#39;s Hard To Find by Chicane](https://open.spotify.com/track/0cY7RPkcti7Fydj2LS8lCH)
-- [Zima by Sultan &#43; Shepard, Delhia De France](https://open.spotify.com/track/4Xt7JriSe3E1mHC4B7f8FF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
