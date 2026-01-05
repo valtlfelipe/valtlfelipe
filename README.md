@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** - Open-source email observability for AWS SES (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Take Me Away by LAERZ](https://open.spotify.com/track/3DtXx0uFcSACTI1XVl9idX)
-- [Things I&#39;ve Learned - AUST Remix by BRKLYN, Jocelyn Alice, Fairlane, AUST](https://open.spotify.com/track/2nRxqEq4EWbDmBPRozMIoJ)
-- [All I See by BetweenUs](https://open.spotify.com/track/18weulVGrDukxgOaUlnQJO)
-- [Following the Sun by SUPER-Hi, NEEKA](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7)
-- [Dancing in the Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
+- [Make You Stay by Chicane](https://open.spotify.com/track/0zNsYMjUNT6K3OiURdiATr)
+- [One By One by Diplo, Elderbrook, andhim](https://open.spotify.com/track/4KWbK1q4wxaLRykcpy6tHK)
+- [The Deepest Truth by AY.ATA](https://open.spotify.com/track/1A5HM0vaULLtxS1OZqPHLH)
+- [Veloria by RumbiaHouse](https://open.spotify.com/track/7b8mK329y3DrWMLa2UTKna)
+- [RnR - Remix by UN Chamber Music Society, Sultan &#43; Shepard, Brenda Vongova](https://open.spotify.com/track/7I696f383bZVXDL4zDu1Fv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
