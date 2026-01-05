@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** - Open-source email observability for AWS SES (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Rebirth by Tinlicker, Hero Baldwin](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6)
+- [Forgiveness by Marsh, Wassu, Mariel Beausejour](https://open.spotify.com/track/5s7Yqr1WzXgSJ1TzOLoO1Q)
+- [Set Fire To My Gun by Elderbrook](https://open.spotify.com/track/6XfkP6lxj7kod0uBaOp3fr)
+- [Cold Light - 6am Remix by KC Lights, Leo Stannard](https://open.spotify.com/track/6BRsln8RDWDl91YmJpCYxY)
 - [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
-- [Closure by Massane, Benjamin Roustaing](https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O)
-- [Leave You by Einmusik, Lexer, Jyll](https://open.spotify.com/track/3p1j9R2oZG7GG9OtJxphWX)
-- [Follow Me by Nox Vahn, Marsh, Mimi Page](https://open.spotify.com/track/4M1XQKuTPqV470eFBiqKpO)
-- [Moonrise - Extended Mix by Zimmer](https://open.spotify.com/track/3RWRbqV2RMXh009qgNHn7t)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
