@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [West Coast by Courtney Storm](https://open.spotify.com/track/5TYMfTsBChRmVRDPvjhWVQ)
+- [Tidal Heart by Kaiyan, MØØNE](https://open.spotify.com/track/5uIDY9hjkQ8z1f4OcShp7k)
+- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
 - [Hurry Up We&#39;re Dreaming by Ourson, Francis Skyes](https://open.spotify.com/track/3niUHZZ9CPbiJv77ERRRKs)
 - [RnR by Sultan &#43; Shepard](https://open.spotify.com/track/1MKMYTuVJIYTgaHkY2odWk)
-- [Interlude by Chicane](https://open.spotify.com/track/2K1a2gd06E2Nwu7Rbpgu34)
-- [Golden Record by TEEMID](https://open.spotify.com/track/49lIyn2aJjHLNuDHsxZQkc)
-- [Bird Song by Elderbrook](https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
