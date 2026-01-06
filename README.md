@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [refract by cypress](https://open.spotify.com/track/2U4VITRVXaPYlyneGP2kiq)
-- [The End by Elderbrook](https://open.spotify.com/track/7tu4R4fQFRH5iG8BvVVPjS)
-- [Leave You - Extended Mix by Einmusik, Lexer, Jyll](https://open.spotify.com/track/7G5hCQCP0Q4YbPtzyqgFV1)
-- [Tell Me by Tinlicker, Helsloot, Hero Baldwin](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7)
-- [Open Sea by HËRE](https://open.spotify.com/track/2WDCB4bTArj5tx1BQL6K2z)
+- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
+- [Stranger by CRi](https://open.spotify.com/track/0kjgsXF5EwW97Q1IfcxvUh)
+- [Sunrise by ORACLE](https://open.spotify.com/track/59Iv8sTgb7XjG1sydJTwdk)
+- [episode by cypress, Courtney Storm](https://open.spotify.com/track/7nszldP9W5SgyjB71BAd1t)
+- [The Things We Found by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/6CO7HRc7B8BIqqr4thL8Ud)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
