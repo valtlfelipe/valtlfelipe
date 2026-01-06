@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** - Open-source email observability for AWS SES (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Under The Surface by Sultan &#43; Shepard, Nathan Nicholson](https://open.spotify.com/track/4PRVsjP4N72PAg1R62eT5J)
-- [Falling Apart by Massane](https://open.spotify.com/track/6tGCxVJPo7iIydUVHOjVbM)
-- [Find Myself by djimboh](https://open.spotify.com/track/6KeB9HdNCyqxH87OdS4cfK)
-- [Feel It All by mölly](https://open.spotify.com/track/7dgy6Px3ND1PRThRZlOwbm)
-- [Heartbeat (Tritonia 524) by Hessian, Courtney Storm](https://open.spotify.com/track/0QLRGnLqNgnEBaf37KX1S6)
+- [All My Love by Elderbrook](https://open.spotify.com/track/43kSqdln7yxrRszyfugbft)
+- [With You by Klur](https://open.spotify.com/track/2Pr3IUqoFPAkd0hJZ8jDSm)
+- [Nowhere To Run by LTN](https://open.spotify.com/track/6msK490czzcTEQoEcQzhNO)
+- [Hey Darling by Anriu](https://open.spotify.com/track/4wfDlh3Kv2j10wfdVeuLj3)
+- [Now Or Never by Chicane](https://open.spotify.com/track/4fGeRJshdoHKSB3lefofnr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
