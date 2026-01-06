@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
-- [Stranger by CRi](https://open.spotify.com/track/0kjgsXF5EwW97Q1IfcxvUh)
-- [Sunrise by ORACLE](https://open.spotify.com/track/59Iv8sTgb7XjG1sydJTwdk)
-- [episode by cypress, Courtney Storm](https://open.spotify.com/track/7nszldP9W5SgyjB71BAd1t)
-- [The Things We Found by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/6CO7HRc7B8BIqqr4thL8Ud)
+- [Slow Bloom by EMBRZ](https://open.spotify.com/track/09LxWNANqoVFZ8WFlO5A5V)
+- [Symphony of Hope by MaMan](https://open.spotify.com/track/2PhycEBYnXUMZlqUAnW9Ag)
+- [Find Your Light - djimboh Remix by dwelyr, djimboh](https://open.spotify.com/track/6lnIzg2Phe4OdJiyGlrKpl)
+- [A Power Over Me by Joseph Ray, Elliot Vast](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di)
+- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
