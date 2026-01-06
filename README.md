@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [West Coast by Courtney Storm](https://open.spotify.com/track/5TYMfTsBChRmVRDPvjhWVQ)
-- [Tidal Heart by Kaiyan, MØØNE](https://open.spotify.com/track/5uIDY9hjkQ8z1f4OcShp7k)
-- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
-- [Hurry Up We&#39;re Dreaming by Ourson, Francis Skyes](https://open.spotify.com/track/3niUHZZ9CPbiJv77ERRRKs)
-- [RnR by Sultan &#43; Shepard](https://open.spotify.com/track/1MKMYTuVJIYTgaHkY2odWk)
+- [Same Dream by Steven Weston, Taė](https://open.spotify.com/track/13S2GurJpAAYccXMgBPzmx)
+- [All This Time Alone by Chicane, The Mannequin](https://open.spotify.com/track/4edC3CYlRCcRU1jMJJoSIR)
+- [Why Do We Shake In The Cold? by Elderbrook](https://open.spotify.com/track/7Kynvv4x293YNQy1wPeY5B)
+- [More Than You Ever Know by Sultan &#43; Shepard, Angela McCluskey](https://open.spotify.com/track/0HWt1VRBM1b6beVmcjPxIH)
+- [I Can&#39;t See - Extended by ROW, Samuel Miller](https://open.spotify.com/track/7v4CkKgv07ZztFpeZDcro3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
