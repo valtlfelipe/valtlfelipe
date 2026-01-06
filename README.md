@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Roots by Klur](https://open.spotify.com/track/04F3ezdihPP6qeEOWI4ehJ)
-- [Beyond The Meadow - Extended Mix by Kaiyan](https://open.spotify.com/track/50FrsAwr2XtPtD2P2XIaMO)
-- [Never Look Back by Chicane](https://open.spotify.com/track/5Vt31WxV1bndCjy2CwQdRx)
-- [China Plate by djimboh](https://open.spotify.com/track/0aGjzEGpEJgBLb5KoZAS8i)
-- [We Are Infinite by Zimmer](https://open.spotify.com/track/0UD1CRmjaJJTKgfMoSuS4X)
+- [refract by cypress](https://open.spotify.com/track/2U4VITRVXaPYlyneGP2kiq)
+- [The End by Elderbrook](https://open.spotify.com/track/7tu4R4fQFRH5iG8BvVVPjS)
+- [Leave You - Extended Mix by Einmusik, Lexer, Jyll](https://open.spotify.com/track/7G5hCQCP0Q4YbPtzyqgFV1)
+- [Tell Me by Tinlicker, Helsloot, Hero Baldwin](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7)
+- [Open Sea by HËRE](https://open.spotify.com/track/2WDCB4bTArj5tx1BQL6K2z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
