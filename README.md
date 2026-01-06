@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Slow Bloom by EMBRZ](https://open.spotify.com/track/09LxWNANqoVFZ8WFlO5A5V)
-- [Symphony of Hope by MaMan](https://open.spotify.com/track/2PhycEBYnXUMZlqUAnW9Ag)
-- [Find Your Light - djimboh Remix by dwelyr, djimboh](https://open.spotify.com/track/6lnIzg2Phe4OdJiyGlrKpl)
-- [A Power Over Me by Joseph Ray, Elliot Vast](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di)
-- [Don&#39;t Forget My Love by Diplo, Miguel](https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn)
+- [Herealways by Jordin Post](https://open.spotify.com/track/4gbMgmhUXyALxtSzDqwngF)
+- [The Thought of You by Blonde Maze, imallryt](https://open.spotify.com/track/0Cuiebpn7tG3Qs8CNSIaN2)
+- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
+- [New Love by Le Youth, Sultan &#43; Shepard, Panama](https://open.spotify.com/track/7CAsrtI5Df8ZOrKZ2ImrVO)
+- [Dulcet by dwelyr, Matrx](https://open.spotify.com/track/5tWioqaFqX3BUMJiBbqKVO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
