@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Moonrise - Extended Mix by Zimmer](https://open.spotify.com/track/3RWRbqV2RMXh009qgNHn7t)
-- [If You Say So by TRE, Courtney Storm](https://open.spotify.com/track/7r9RxUItyqIq7jEIFAvMq4)
-- [No Need To Hide by Helsloot, Quibus, Marcel Young](https://open.spotify.com/track/024TgtXFxGA9oxeW36nzI8)
-- [For You by Jack Willard, Coastlines](https://open.spotify.com/track/6qJXWYGrzDLMS7aGIVmtkx)
-- [Deep Dive by Ønawa](https://open.spotify.com/track/2NYioyWKyTL6y2WlFVVzq2)
+- [Rebirth by Tinlicker, Hero Baldwin](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6)
+- [Forgiveness by Marsh, Wassu, Mariel Beausejour](https://open.spotify.com/track/5s7Yqr1WzXgSJ1TzOLoO1Q)
+- [Set Fire To My Gun by Elderbrook](https://open.spotify.com/track/6XfkP6lxj7kod0uBaOp3fr)
+- [Cold Light - 6am Remix by KC Lights, Leo Stannard](https://open.spotify.com/track/6BRsln8RDWDl91YmJpCYxY)
+- [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
