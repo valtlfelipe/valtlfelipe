@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Kuaga - Sonny Alven Remix by Pierce Fulton, Sonny Alven](https://open.spotify.com/track/0jVjBo2LkUy50FYODALvrA)
-- [Nostalgia by Bless You](https://open.spotify.com/track/4ZuEukSYORnCT1nAH5cBqa)
-- [Love at First Sight by TEEMID](https://open.spotify.com/track/2XR0wxwBDgOxZ3m5LtfCj4)
-- [thought i knew you better by glittr](https://open.spotify.com/track/3o1UcrLKvWqD8M0vpRe2A3)
-- [Somebody Loves You - Paul Thomas Remix by Aly &amp; Fila, Plumb, Paul Thomas](https://open.spotify.com/track/4D1MZYkBeUXbizRC0Th0tF)
+- [Moonrise - Extended Mix by Zimmer](https://open.spotify.com/track/3RWRbqV2RMXh009qgNHn7t)
+- [If You Say So by TRE, Courtney Storm](https://open.spotify.com/track/7r9RxUItyqIq7jEIFAvMq4)
+- [No Need To Hide by Helsloot, Quibus, Marcel Young](https://open.spotify.com/track/024TgtXFxGA9oxeW36nzI8)
+- [For You by Jack Willard, Coastlines](https://open.spotify.com/track/6qJXWYGrzDLMS7aGIVmtkx)
+- [Deep Dive by Ønawa](https://open.spotify.com/track/2NYioyWKyTL6y2WlFVVzq2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
