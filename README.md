@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Rebirth by Tinlicker, Hero Baldwin](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6)
-- [Forgiveness by Marsh, Wassu, Mariel Beausejour](https://open.spotify.com/track/5s7Yqr1WzXgSJ1TzOLoO1Q)
-- [Set Fire To My Gun by Elderbrook](https://open.spotify.com/track/6XfkP6lxj7kod0uBaOp3fr)
-- [Cold Light - 6am Remix by KC Lights, Leo Stannard](https://open.spotify.com/track/6BRsln8RDWDl91YmJpCYxY)
-- [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
+- [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
+- [My Stripes by Marsh, Leo Wood](https://open.spotify.com/track/5yDZJIh6e5W7WrPbv5xmTv)
+- [Just Be Free by LTN, Aelyn](https://open.spotify.com/track/0vzfq52K5y8J6nPfbSh6lg)
+- [Careless Love by Croquet Club](https://open.spotify.com/track/1YfozkIZZDwDloWUY6o1Xr)
+- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
