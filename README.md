@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Herealways by Jordin Post](https://open.spotify.com/track/4gbMgmhUXyALxtSzDqwngF)
-- [The Thought of You by Blonde Maze, imallryt](https://open.spotify.com/track/0Cuiebpn7tG3Qs8CNSIaN2)
-- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
-- [New Love by Le Youth, Sultan &#43; Shepard, Panama](https://open.spotify.com/track/7CAsrtI5Df8ZOrKZ2ImrVO)
-- [Dulcet by dwelyr, Matrx](https://open.spotify.com/track/5tWioqaFqX3BUMJiBbqKVO)
+- [Your Intent by Jordin Post](https://open.spotify.com/track/6ZOpxPcWSAZxBvMDrt5pmc)
+- [Laomedeia by Hosini](https://open.spotify.com/track/2o0W6KZaRbkvvvJZdd7FEV)
+- [Barely Breathing by Du0](https://open.spotify.com/track/79shoYFHSQWVcZSnukFZ8o)
+- [Landing by Zimmer](https://open.spotify.com/track/6BemPjYZ2P48K1kEXJHIs3)
+- [Silver Lining by Falden](https://open.spotify.com/track/4O4W2KMtCo9Kpn8o9ExxYn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
