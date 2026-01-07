@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Your Intent by Jordin Post](https://open.spotify.com/track/6ZOpxPcWSAZxBvMDrt5pmc)
-- [Laomedeia by Hosini](https://open.spotify.com/track/2o0W6KZaRbkvvvJZdd7FEV)
-- [Barely Breathing by Du0](https://open.spotify.com/track/79shoYFHSQWVcZSnukFZ8o)
-- [Landing by Zimmer](https://open.spotify.com/track/6BemPjYZ2P48K1kEXJHIs3)
-- [Silver Lining by Falden](https://open.spotify.com/track/4O4W2KMtCo9Kpn8o9ExxYn)
+- [Kuaga - Sonny Alven Remix by Pierce Fulton, Sonny Alven](https://open.spotify.com/track/0jVjBo2LkUy50FYODALvrA)
+- [Nostalgia by Bless You](https://open.spotify.com/track/4ZuEukSYORnCT1nAH5cBqa)
+- [Love at First Sight by TEEMID](https://open.spotify.com/track/2XR0wxwBDgOxZ3m5LtfCj4)
+- [thought i knew you better by glittr](https://open.spotify.com/track/3o1UcrLKvWqD8M0vpRe2A3)
+- [Somebody Loves You - Paul Thomas Remix by Aly &amp; Fila, Plumb, Paul Thomas](https://open.spotify.com/track/4D1MZYkBeUXbizRC0Th0tF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
