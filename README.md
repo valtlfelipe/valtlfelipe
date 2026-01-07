@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/merchant](https://github.com/ygwyg/merchant)** - The backend for selling things on the internet. (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Faded and Pale by VEHA, Teesalu](https://open.spotify.com/track/0JKxOfsBgyp8jYb1fs19p5)
 - [Capella by Hosini](https://open.spotify.com/track/0JtZTAkLmaCfjeM27ULuIc)
 - [Captivated by LTN, Ghostbeat, Nina Carr](https://open.spotify.com/track/3pNnSLPQUHxUrLMoiMNN6d)
 - [Lost In You by Marsh](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2)
 - [Don&#39;t Look Down by Chicane](https://open.spotify.com/track/3nwmfWDSPM30PeLnbPwGBp)
-- [Ayla by Sultan &#43; Shepard](https://open.spotify.com/track/4gXB1f9qUFaoXHteCLmWNg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
