@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Should Have Seen It Coming by Franky Wah, AETHO](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH)
-- [Tomorrow - Sultan &#43; Shepard Remix by Joris Voorn, Sultan &#43; Shepard](https://open.spotify.com/track/1y2RxVO6ByEantKv7cDqRt)
-- [Another Dawn by Massane, Kinnship](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA)
-- [Broken Mirror by Elderbrook](https://open.spotify.com/track/44oPs8vjsT9v6Hjt50TvVh)
-- [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
+- [Eu Topos by Marsh, Mimi Page](https://open.spotify.com/track/4oAZrNEBTbpEggnXhSbi3l)
+- [Losing Ground by Sultan &#43; Shepard, Tishmal](https://open.spotify.com/track/0VGn7T0W9DOBupPa3eZGOB)
+- [Captivated - Extended Mix by LTN, Ghostbeat, Nina Carr](https://open.spotify.com/track/2V4w3SM9QK0qG84BYP8OF1)
+- [Hold On by Rezident, Von Boch, Elissa Mielke](https://open.spotify.com/track/2swpBJ59aasdLddSSmx5wP)
+- [Wild by Massane, Colouring](https://open.spotify.com/track/4h5lhXniHc4DjlEX3a7G0D)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
