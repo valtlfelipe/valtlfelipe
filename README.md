@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** - local cloudflare (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Should Have Seen It Coming by Franky Wah, AETHO](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH)
+- [Tomorrow - Sultan &#43; Shepard Remix by Joris Voorn, Sultan &#43; Shepard](https://open.spotify.com/track/1y2RxVO6ByEantKv7cDqRt)
+- [Another Dawn by Massane, Kinnship](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA)
+- [Broken Mirror by Elderbrook](https://open.spotify.com/track/44oPs8vjsT9v6Hjt50TvVh)
 - [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
-- [My Stripes by Marsh, Leo Wood](https://open.spotify.com/track/5yDZJIh6e5W7WrPbv5xmTv)
-- [Just Be Free by LTN, Aelyn](https://open.spotify.com/track/0vzfq52K5y8J6nPfbSh6lg)
-- [Careless Love by Croquet Club](https://open.spotify.com/track/1YfozkIZZDwDloWUY6o1Xr)
-- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
