@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/merchant](https://github.com/ygwyg/merchant)** - The backend for selling things on the internet. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Echoes by VEHA](https://open.spotify.com/track/1A9PYofKgX0sSTRPde6LjX)
-- [Catching Wildfire by Kaiyan, Leo Wood](https://open.spotify.com/track/31XfDmNEqoYeskJYbu57eD)
-- [Just One Way by Into The Ether](https://open.spotify.com/track/3QBnsAHwmmRdOqH7bzidRs)
-- [Killing Time by Helsloot, Chris Howard, Boy Wolf](https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj)
-- [Revenge of the Groove by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/4R8Lk6cGMS1wm4sxGhEtPH)
+- [Wondering by YOTTO, CAPS](https://open.spotify.com/track/3jHiQQn8cQV9SyYn8z6TIK)
+- [Under The Surface by Sultan &#43; Shepard, Nathan Nicholson](https://open.spotify.com/track/4PRVsjP4N72PAg1R62eT5J)
+- [Falling Apart by Massane](https://open.spotify.com/track/6tGCxVJPo7iIydUVHOjVbM)
+- [Find Myself by djimboh](https://open.spotify.com/track/6KeB9HdNCyqxH87OdS4cfK)
+- [Feel It All by mölly](https://open.spotify.com/track/7dgy6Px3ND1PRThRZlOwbm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
