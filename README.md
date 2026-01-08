@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/merchant](https://github.com/ygwyg/merchant)** - The backend for selling things on the internet. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Foss by Marsh, Mimi Page](https://open.spotify.com/track/4lbIJiKr3cO5lUdwXajd1f)
-- [Lion by Sultan &#43; Shepard](https://open.spotify.com/track/0qR5k1sR39NcbNJfejxRm9)
-- [By My Side by Massane, MAGNUS](https://open.spotify.com/track/0oiXA5d3B3QAbHFwom7OJZ)
-- [QvB by Kaiyan](https://open.spotify.com/track/3sXzJ8AnqDVm7ZmOgLZ1j9)
-- [Everything All At Once by Jack Willard, Coastlines, MØØNE](https://open.spotify.com/track/6GVwBMdjAAgI59pyvxa1XR)
+- [Echoes by VEHA](https://open.spotify.com/track/1A9PYofKgX0sSTRPde6LjX)
+- [Catching Wildfire by Kaiyan, Leo Wood](https://open.spotify.com/track/31XfDmNEqoYeskJYbu57eD)
+- [Just One Way by Into The Ether](https://open.spotify.com/track/3QBnsAHwmmRdOqH7bzidRs)
+- [Killing Time by Helsloot, Chris Howard, Boy Wolf](https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj)
+- [Revenge of the Groove by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/4R8Lk6cGMS1wm4sxGhEtPH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
