@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/merchant](https://github.com/ygwyg/merchant)** - The backend for selling things on the internet. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [One Foot In The Past, One Foot In The Future by Chicane](https://open.spotify.com/track/3TBCsUlXcMLs5JuARL6rOP)
-- [Naama by Sultan &#43; Shepard, Nathan Nicholson](https://open.spotify.com/track/2CFGJOKqK7pOdGN4Ujg0Ea)
-- [Faded and Pale by VEHA, Teesalu](https://open.spotify.com/track/0JKxOfsBgyp8jYb1fs19p5)
-- [Capella by Hosini](https://open.spotify.com/track/0JtZTAkLmaCfjeM27ULuIc)
-- [Captivated by LTN, Ghostbeat, Nina Carr](https://open.spotify.com/track/3pNnSLPQUHxUrLMoiMNN6d)
+- [Sunstroke - Disco Citizens Evolution Mix by Chicane, Disco Citizens](https://open.spotify.com/track/6BvnyTx6VBuqyTK2cfYmNA)
+- [Floating - Extended Mix by Klur](https://open.spotify.com/track/7KyxK5GxsKjuqycJCEKrMR)
+- [All That Remains - GVN Remix by Sultan &#43; Shepard, Fractures, GVN](https://open.spotify.com/track/3HcF0ajxA3dHbta4WABsAf)
+- [Favourite Game by AVIRA, Nourey, Tom Bailey](https://open.spotify.com/track/0b1lgzhrxVAoU9xlspCWL6)
+- [Freedom Of Light by Kaiyan](https://open.spotify.com/track/2wGm7LWiIRTEm6QuFl3O9g)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
