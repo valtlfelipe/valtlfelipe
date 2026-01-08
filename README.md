@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ygwyg/merchant](https://github.com/ygwyg/merchant)** - The backend for selling things on the internet. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Sunstroke - Disco Citizens Evolution Mix by Chicane, Disco Citizens](https://open.spotify.com/track/6BvnyTx6VBuqyTK2cfYmNA)
-- [Floating - Extended Mix by Klur](https://open.spotify.com/track/7KyxK5GxsKjuqycJCEKrMR)
-- [All That Remains - GVN Remix by Sultan &#43; Shepard, Fractures, GVN](https://open.spotify.com/track/3HcF0ajxA3dHbta4WABsAf)
-- [Favourite Game by AVIRA, Nourey, Tom Bailey](https://open.spotify.com/track/0b1lgzhrxVAoU9xlspCWL6)
-- [Freedom Of Light by Kaiyan](https://open.spotify.com/track/2wGm7LWiIRTEm6QuFl3O9g)
+- [Foss by Marsh, Mimi Page](https://open.spotify.com/track/4lbIJiKr3cO5lUdwXajd1f)
+- [Lion by Sultan &#43; Shepard](https://open.spotify.com/track/0qR5k1sR39NcbNJfejxRm9)
+- [By My Side by Massane, MAGNUS](https://open.spotify.com/track/0oiXA5d3B3QAbHFwom7OJZ)
+- [QvB by Kaiyan](https://open.spotify.com/track/3sXzJ8AnqDVm7ZmOgLZ1j9)
+- [Everything All At Once by Jack Willard, Coastlines, MØØNE](https://open.spotify.com/track/6GVwBMdjAAgI59pyvxa1XR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
