@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Renset/macai](https://github.com/Renset/macai)** - All-in-one native macOS AI chat application for virtually any AI provider (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Roots by Klur](https://open.spotify.com/track/04F3ezdihPP6qeEOWI4ehJ)
-- [Beyond The Meadow - Extended Mix by Kaiyan](https://open.spotify.com/track/50FrsAwr2XtPtD2P2XIaMO)
-- [Never Look Back by Chicane](https://open.spotify.com/track/5Vt31WxV1bndCjy2CwQdRx)
-- [China Plate by djimboh](https://open.spotify.com/track/0aGjzEGpEJgBLb5KoZAS8i)
-- [We Are Infinite by Zimmer](https://open.spotify.com/track/0UD1CRmjaJJTKgfMoSuS4X)
+- [Tell Me by Tinlicker, Helsloot, Hero Baldwin](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7)
+- [Open Sea by HËRE](https://open.spotify.com/track/2WDCB4bTArj5tx1BQL6K2z)
+- [Break Your Fall by Sultan &#43; Shepard, HRRTZ, Liz Cass](https://open.spotify.com/track/2mxkL5fSzQjkLQMJ0B68Zc)
+- [Overseas by ANUQRAM](https://open.spotify.com/track/2yGTeWHEw8aU2viDrKcvLd)
+- [Sensing You by AVIRA, Nicholas Gunn](https://open.spotify.com/track/0B3DmjQeC1JNkZDNqawmsD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
