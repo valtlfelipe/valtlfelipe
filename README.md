@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase-community/seed](https://github.com/supabase-community/seed)** - Automatically seed your database with production-like dummy data based on your schema for local development and testing. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Somebody Like You by Surf Mesa](https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT)
-- [Waste my time by Kölsch, CamelPhat](https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL)
-- [Dirty Cash (Money Talks) by PAWSA, The Adventures Of Stevie V](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX)
-- [Surrender by Alesso, Becky Hill](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY)
-- [Like A Prayer by LSR/CITY, Gareth Emery, Annabel](https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN)
+- [Tidal Wave by MashBit, Lexi Scatena](https://open.spotify.com/track/0Ec7CMUXnfpSCZsJL26lhS)
+- [Nostalgia by Sammy Virji, Issey Cross](https://open.spotify.com/track/5D5uC8J6xBkGN66eLnqdvG)
+- [Blessings - Cassian Remix by Calvin Harris, Clementine Douglas, Cassian](https://open.spotify.com/track/3GpNIq74pzLjdIKplMvSV2)
+- [Friday, I&#39;m In Luv by Alok, Alan Fitzpatrick](https://open.spotify.com/track/7wEU6OZQsAhk967lLnU4tx)
+- [Together by David Guetta, Hypaton, Bonnie Tyler](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
