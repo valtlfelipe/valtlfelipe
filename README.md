@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase-community/seed](https://github.com/supabase-community/seed)** - Automatically seed your database with production-like dummy data based on your schema for local development and testing. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Tidal Wave by MashBit, Lexi Scatena](https://open.spotify.com/track/0Ec7CMUXnfpSCZsJL26lhS)
-- [Nostalgia by Sammy Virji, Issey Cross](https://open.spotify.com/track/5D5uC8J6xBkGN66eLnqdvG)
-- [Blessings - Cassian Remix by Calvin Harris, Clementine Douglas, Cassian](https://open.spotify.com/track/3GpNIq74pzLjdIKplMvSV2)
-- [Friday, I&#39;m In Luv by Alok, Alan Fitzpatrick](https://open.spotify.com/track/7wEU6OZQsAhk967lLnU4tx)
-- [Together by David Guetta, Hypaton, Bonnie Tyler](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM)
+- [Howling by SOMMA](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO)
+- [Oh, Miles by Lane 8, Julia Church](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd)
+- [Night in Arrakeen by Verbala](https://open.spotify.com/track/3ezxL2q9anePj3hFKOymKV)
+- [Orchard by TOMB](https://open.spotify.com/track/092NhxMCOuAV83i1XbwXIZ)
+- [Volcano by Rowland Giles, Toutounji](https://open.spotify.com/track/5IDgICEO4v6iZ1i0XCpY53)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
