@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase-community/copycat](https://github.com/supabase-community/copycat)** - Generate deterministic fake values: The same input will always generate the same fake-output. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Daybreak by w.ill](https://open.spotify.com/track/0WGtaEi5PE16mCOjhCM23h)
-- [Last Snow by dwelyr](https://open.spotify.com/track/29wngDHVdqnqRQ4Nne0ebr)
-- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
-- [Tides by Bound to Divide](https://open.spotify.com/track/5QPxui3tKB1QjHvsMEqf9n)
-- [Senses of Comfort by Nora En Pure](https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl)
+- [Hymn for the Weekend - Seeb Remix by Coldplay, Seeb](https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu)
+- [Be the One by Dua Lipa](https://open.spotify.com/track/7FCfMXYTIiQ9b4hDYs4Iol)
+- [Blame (feat. John Newman) by Calvin Harris, John Newman](https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn)
+- [Cool - Sonny Alven Remix by Alesso, Roy English, Sonny Alven](https://open.spotify.com/track/2X7kWAhkyadjjOf0o4UCPF)
+- [Easy by 3LAU, XIRA](https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
