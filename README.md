@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase-community/copycat](https://github.com/supabase-community/copycat)** - Generate deterministic fake values: The same input will always generate the same fake-output. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Bitch, Don&#39;t Kill My Vibe by Trace, Liquid Rose](https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW)
-- [Amana by Maz, VXSION](https://open.spotify.com/track/60M7mbaOxwWrIOQNsNaBJH)
-- [Undressed - Vidojean X Oliver Loenn Remix by Kim Cesarion, Vidojean X Oliver Loenn](https://open.spotify.com/track/1f0ErRtNccQIzEnqRm0BA2)
-- [Not The Same by Nitefreak, Imad, Clubhouse](https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF)
-- [Yamore by MoBlack, Salif Keita, Benja (NL), Franc Fala, Cesária Evora](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm)
+- [Bo Bom by Moeaike](https://open.spotify.com/track/2V5h4oenUhCeWXsJualNd7)
+- [More Than You Know - Mont Rouge Remix by Axwell /\ Ingrosso, Axwell, Sebastian Ingrosso, Mont Rouge](https://open.spotify.com/track/2F8eiUxSGMbRYr62P27XI9)
+- [Back On 74 - Rework by Betical, Arper](https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT)
+- [YAWA (Man On A Mission) by Édel, Zani (BR)](https://open.spotify.com/track/0D6UC4OFsNmrrC0LjVxSs0)
+- [Karibu by WITH U](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
