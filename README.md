@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase-community/seed](https://github.com/supabase-community/seed)** - Automatically seed your database with production-like dummy data based on your schema for local development and testing. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The End by Elderbrook](https://open.spotify.com/track/7tu4R4fQFRH5iG8BvVVPjS)
-- [Leave You - Extended Mix by Einmusik, Lexer, Jyll](https://open.spotify.com/track/7G5hCQCP0Q4YbPtzyqgFV1)
-- [Tell Me by Tinlicker, Helsloot, Hero Baldwin](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7)
-- [Open Sea by HËRE](https://open.spotify.com/track/2WDCB4bTArj5tx1BQL6K2z)
-- [Break Your Fall by Sultan &#43; Shepard, HRRTZ, Liz Cass](https://open.spotify.com/track/2mxkL5fSzQjkLQMJ0B68Zc)
+- [ALL MY LOVE - PNAU x Coldplay by Coldplay, PNAU](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN)
+- [Save My Love (with Ellie Goulding &amp; AVAION) by Marshmello, Ellie Goulding, AVAION](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5)
+- [Tell Me by Sonny Fodera, Clementine Douglas](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8)
+- [Ocean by Calvin Harris, Jessie Reyez](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W)
+- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
