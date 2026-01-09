@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase-community/seed](https://github.com/supabase-community/seed)** - Automatically seed your database with production-like dummy data based on your schema for local development and testing. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Toxic by Chris Lake, Ragie Ban](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO)
-- [Super Powers by TELYKAST, Oaks](https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c)
-- [All I Know (with Khalid) by Rudimental, Khalid](https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP)
-- [SOLANA by Alex LeMirage](https://open.spotify.com/track/3xcf6DL9oc2botvStMUlnD)
-- [Lifeline by Jonas Blue, Izzy Bizu](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm)
+- [Somebody Like You by Surf Mesa](https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT)
+- [Waste my time by Kölsch, CamelPhat](https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL)
+- [Dirty Cash (Money Talks) by PAWSA, The Adventures Of Stevie V](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX)
+- [Surrender by Alesso, Becky Hill](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY)
+- [Like A Prayer by LSR/CITY, Gareth Emery, Annabel](https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
