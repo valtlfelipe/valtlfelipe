@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase-community/seed](https://github.com/supabase-community/seed)** - Automatically seed your database with production-like dummy data based on your schema for local development and testing. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [ALL MY LOVE - PNAU x Coldplay by Coldplay, PNAU](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN)
-- [Save My Love (with Ellie Goulding &amp; AVAION) by Marshmello, Ellie Goulding, AVAION](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5)
-- [Tell Me by Sonny Fodera, Clementine Douglas](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8)
-- [Ocean by Calvin Harris, Jessie Reyez](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W)
-- [Whatever by Kygo, Ava Max](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs)
+- [Toxic by Chris Lake, Ragie Ban](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO)
+- [Super Powers by TELYKAST, Oaks](https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c)
+- [All I Know (with Khalid) by Rudimental, Khalid](https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP)
+- [SOLANA by Alex LeMirage](https://open.spotify.com/track/3xcf6DL9oc2botvStMUlnD)
+- [Lifeline by Jonas Blue, Izzy Bizu](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
