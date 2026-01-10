@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase-community/copycat](https://github.com/supabase-community/copycat)** - Generate deterministic fake values: The same input will always generate the same fake-output. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Lioness - Francis Mercier Remix by Swedish House Mafia, Niki &amp; The Dove, Francis Mercier](https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq)
-- [Nothing That I Need by Von Boch](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N)
-- [Lake Como by Gordo, Larry June](https://open.spotify.com/track/0XWEq7N03iwa7ZWuznfU6c)
-- [My Love (2024) by Alex Wann, Route 94, Jess Glynne](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk)
-- [Wile Out (feat. Surya Sen) by Bontan, Surya Sen](https://open.spotify.com/track/3dEOOgfF6zXFDhLHat95pQ)
+- [Don&#39;t Let Go by Leo Chase](https://open.spotify.com/track/4mcjEc0cATI3YtdJV0tJQK)
+- [Ya Everything by Drics](https://open.spotify.com/track/3yZ0yLZAlYApbLyfKUlYSd)
+- [Anymore by Friends &amp; I](https://open.spotify.com/track/0x7N7pvwZTUYCsSvYfjDHp)
+- [Dreaming by Thunder](https://open.spotify.com/track/46XpZgZjDK9Vpz5TBZUiYu)
+- [Everlong by Does it matter, Francis Skyes](https://open.spotify.com/track/6oHsOxtryi0lJh9nGq4SFG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
