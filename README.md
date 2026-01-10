@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Tripping by Ten Pictures](https://open.spotify.com/track/0jPorueqYc5r9w0QO8Ff3x)
-- [bleeding by Oliver River, Holochrome](https://open.spotify.com/track/2Gnzz3HtvPDmYhaDUkHbcs)
-- [Yearning For You by fwd/slash](https://open.spotify.com/track/2IWDOZYiugAgXOOQLRePqk)
-- [aye by ERIICE](https://open.spotify.com/track/6XgeWYRdwCh7eklqQb2qzI)
-- [Together by Lynnic, Mocean](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73)
+- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
+- [Won&#39;t Be The Same by Friends &amp; I, a.bech](https://open.spotify.com/track/4AlxtYzRJzEnB4cN1TMgQo)
+- [Fall in Love by Ten Pictures](https://open.spotify.com/track/6jJd37qUEHn20Dczf9BHlU)
+- [Come Alive by Jake and the colors](https://open.spotify.com/track/4uqls8UNqKMx34XMwvUrGm)
+- [Care for You by Midnight Run](https://open.spotify.com/track/46uWE1WkNWnywvjiNRzXt4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
