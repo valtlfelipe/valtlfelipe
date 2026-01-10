@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Be Around by Sönnefelt](https://open.spotify.com/track/40e1KxAoSRdxCUEKM0K7JM)
-- [Don&#39;t Worry by Androma](https://open.spotify.com/track/70cYue5as0ZpC2sspqtii8)
-- [Need You Around by Francis Skyes, FWLR](https://open.spotify.com/track/5DkI5tKqYYCeFhGZlvEcwT)
-- [Hands On Me by Nyday, Dizaro](https://open.spotify.com/track/2J1GixbzaP84jrJ0zqwXPl)
-- [Problems by Leo Chase](https://open.spotify.com/track/3M2NjmFrDeLxGHL1niL1Ha)
+- [Marea by Solara](https://open.spotify.com/track/2mMibGiQzLxd1Cxo1Szf7p)
+- [Thoughts Of You by fwd/slash](https://open.spotify.com/track/0oaQir7edmmFUTW7t137eW)
+- [I Run by HAVEN., Kaitlin Aragon](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g)
+- [Summer Pain by Drics](https://open.spotify.com/track/3O7YEM6mSmhGzsmbdr5eEf)
+- [Summer Pain by Drics](https://open.spotify.com/track/3O7YEM6mSmhGzsmbdr5eEf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
