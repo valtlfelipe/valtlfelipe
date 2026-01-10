@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Move Me by Lavern](https://open.spotify.com/track/6LptEwO1ObZvVQXlU0BPIJ)
-- [Don&#39;t Let Go by Leo Chase](https://open.spotify.com/track/4mcjEc0cATI3YtdJV0tJQK)
-- [Ya Everything by Drics](https://open.spotify.com/track/3yZ0yLZAlYApbLyfKUlYSd)
-- [Anymore by Friends &amp; I](https://open.spotify.com/track/0x7N7pvwZTUYCsSvYfjDHp)
-- [Dreaming by Thunder](https://open.spotify.com/track/46XpZgZjDK9Vpz5TBZUiYu)
+- [Be Around by Sönnefelt](https://open.spotify.com/track/40e1KxAoSRdxCUEKM0K7JM)
+- [Don&#39;t Worry by Androma](https://open.spotify.com/track/70cYue5as0ZpC2sspqtii8)
+- [Need You Around by Francis Skyes, FWLR](https://open.spotify.com/track/5DkI5tKqYYCeFhGZlvEcwT)
+- [Hands On Me by Nyday, Dizaro](https://open.spotify.com/track/2J1GixbzaP84jrJ0zqwXPl)
+- [Problems by Leo Chase](https://open.spotify.com/track/3M2NjmFrDeLxGHL1niL1Ha)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
