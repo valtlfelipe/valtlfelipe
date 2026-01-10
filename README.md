@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabase-community/copycat](https://github.com/supabase-community/copycat)** - Generate deterministic fake values: The same input will always generate the same fake-output. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Girl With The Tattoo [Wakyin Remix] by Miguel, Wakyin](https://open.spotify.com/track/0Vo1vtDZgMVD1qras4UPTI)
-- [Bo Bom by Moeaike](https://open.spotify.com/track/2V5h4oenUhCeWXsJualNd7)
-- [More Than You Know - Mont Rouge Remix by Axwell /\ Ingrosso, Axwell, Sebastian Ingrosso, Mont Rouge](https://open.spotify.com/track/2F8eiUxSGMbRYr62P27XI9)
-- [Back On 74 - Rework by Betical, Arper](https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT)
-- [YAWA (Man On A Mission) by Édel, Zani (BR)](https://open.spotify.com/track/0D6UC4OFsNmrrC0LjVxSs0)
+- [Lioness - Francis Mercier Remix by Swedish House Mafia, Niki &amp; The Dove, Francis Mercier](https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq)
+- [Nothing That I Need by Von Boch](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N)
+- [Lake Como by Gordo, Larry June](https://open.spotify.com/track/0XWEq7N03iwa7ZWuznfU6c)
+- [My Love (2024) by Alex Wann, Route 94, Jess Glynne](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk)
+- [Wile Out (feat. Surya Sen) by Bontan, Surya Sen](https://open.spotify.com/track/3dEOOgfF6zXFDhLHat95pQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
