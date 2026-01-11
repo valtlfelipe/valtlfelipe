@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Degradê - Ao Vivo by Xande de Pilares, Ferrugem](https://open.spotify.com/track/6GYTlakLY14kQ0lyvJ1IXt)
-- [Degradê - Ao Vivo by Xande de Pilares, Ferrugem](https://open.spotify.com/track/6GYTlakLY14kQ0lyvJ1IXt)
-- [Alô Virgínia - Ao Vivo by Grupo Chocolate, Turma do Pagode](https://open.spotify.com/track/75cbS6bJO0yUVXKVrRdSgv)
-- [Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo) by Turma do Pagode, Grupo Menos É Mais](https://open.spotify.com/track/5A4DlgM68SnFSKImnMeiUH)
-- [Como Nunca Amei Ninguém / Por Tão Pouco - Ao Vivo by Thiaguinho, Sorriso Maroto](https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM)
+- [Tighten It Up - Barney Bones - DRAMA Edit by DRAMA, Barney Bones](https://open.spotify.com/track/5suNUnahl3rSictF1dBPei)
+- [She&#39;s On My Mind by Romy](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9)
+- [Street Wave by Ron Trent, Lars Bartkuhn](https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8)
+- [Edge of Desire by Jonas Blue, Malive](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT)
+- [Temptation by Eden Prince](https://open.spotify.com/track/6QVjXrRFyDt24wT8DkiYnh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
