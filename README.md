@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [There For You by Willow](https://open.spotify.com/track/3TPYOpX9qaLUv2mVWYkhBD)
-- [Silverlining by Jake and the colors](https://open.spotify.com/track/0iiltuIJQDtF7d2COMbVq8)
-- [Shining Stars by Midnight Run](https://open.spotify.com/track/4Ik6SHpNHDJFPT4z2QTuqJ)
-- [On &amp; On by Leo Chase](https://open.spotify.com/track/1qSYWXVTHigc3HdkmhZaXa)
-- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
+- [Alô Virgínia - Ao Vivo by Grupo Chocolate, Turma do Pagode](https://open.spotify.com/track/75cbS6bJO0yUVXKVrRdSgv)
+- [Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo) by Turma do Pagode, Grupo Menos É Mais](https://open.spotify.com/track/5A4DlgM68SnFSKImnMeiUH)
+- [Como Nunca Amei Ninguém / Por Tão Pouco - Ao Vivo by Thiaguinho, Sorriso Maroto](https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM)
+- [Nike e Shortinho / Desencana - Ao Vivo by Marvvila, Ayla, Mannda Lym](https://open.spotify.com/track/2l1fgtVMhwKdmkbhOc9ySl)
+- [Pela Última Vez - Ao Vivo by Grupo Menos É Mais, NATTAN](https://open.spotify.com/track/4bxyHku6rNffRealVxu30p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
