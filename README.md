@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [sous les étoiles - Maple Sun Electronic Rework by Tom Merrall, Maple Sun](https://open.spotify.com/track/5iU4M6wEA3vNL5BSYGXh3N)
-- [Mood (Feat. Caroline Byrne &amp; Neyl) by Ahmed Spins, Ankhoï, Caroline Byrne, Neyl](https://open.spotify.com/track/1dpVevoWQT7syIxcWDywWm)
-- [Tighten It Up - Barney Bones - DRAMA Edit by DRAMA, Barney Bones](https://open.spotify.com/track/5suNUnahl3rSictF1dBPei)
-- [She&#39;s On My Mind by Romy](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9)
-- [Street Wave by Ron Trent, Lars Bartkuhn](https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8)
+- [Chasing Ghosts by Nils Hoffmann, Vancouver Sleep Clinic](https://open.spotify.com/track/6MlNV9B7KxD3ILAgyE7FY9)
+- [Adrift At Sea by Elypsis](https://open.spotify.com/track/6jcO486etLh9WtmgS8pRtF)
+- [The Only Answer by Rafa&#39;EL, Matt Leger](https://open.spotify.com/track/7M4qgeHcJ20qmBxHdvB4jS)
+- [Late by Tontario](https://open.spotify.com/track/6lDdZ1yjLeteSJNyhCtrdf)
+- [Lowlight by Farbenklang](https://open.spotify.com/track/7bW9ZF0pOmr5W7SfgVkAHq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
