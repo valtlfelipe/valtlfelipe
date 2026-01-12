@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Nebula by dwelyr](https://open.spotify.com/track/3JxUDwK4clwu4sB2i1Q5KA)
+- [Light by TOMB](https://open.spotify.com/track/5gY5dHJSbolTg0wxzhJynj)
+- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
+- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
 - [Stay Still, A Little While (ABGTN2026) - Mixed by Lane 8, Jyll](https://open.spotify.com/track/3Yo8MfqAliyibsAIBpH07U)
-- [Harmonies by Lstn](https://open.spotify.com/track/5czVQY3PDYBwo3LQhaqtBQ)
-- [In Time by Verbala](https://open.spotify.com/track/6zC6bTpBp0LrWTSYMKDTKK)
-- [blinded by Le Youth, Orem](https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi)
-- [Innerspace by TOMB](https://open.spotify.com/track/67wkHOYVbkX376dwcjJQ4S)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
