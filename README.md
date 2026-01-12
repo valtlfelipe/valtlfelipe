@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Chasing Ghosts by Nils Hoffmann, Vancouver Sleep Clinic](https://open.spotify.com/track/6MlNV9B7KxD3ILAgyE7FY9)
-- [Adrift At Sea by Elypsis](https://open.spotify.com/track/6jcO486etLh9WtmgS8pRtF)
-- [The Only Answer by Rafa&#39;EL, Matt Leger](https://open.spotify.com/track/7M4qgeHcJ20qmBxHdvB4jS)
-- [Late by Tontario](https://open.spotify.com/track/6lDdZ1yjLeteSJNyhCtrdf)
-- [Lowlight by Farbenklang](https://open.spotify.com/track/7bW9ZF0pOmr5W7SfgVkAHq)
+- [Stay Still, A Little While (ABGTN2026) - Mixed by Lane 8, Jyll](https://open.spotify.com/track/3Yo8MfqAliyibsAIBpH07U)
+- [Harmonies by Lstn](https://open.spotify.com/track/5czVQY3PDYBwo3LQhaqtBQ)
+- [In Time by Verbala](https://open.spotify.com/track/6zC6bTpBp0LrWTSYMKDTKK)
+- [blinded by Le Youth, Orem](https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi)
+- [Innerspace by TOMB](https://open.spotify.com/track/67wkHOYVbkX376dwcjJQ4S)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
