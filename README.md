@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Where I Go by Harmless Night, Hanging Valleys](https://open.spotify.com/track/7j4lmMNysDrBQ7EM5gZamm)
-- [The Only Answer by Rafa&#39;EL, Matt Leger](https://open.spotify.com/track/7M4qgeHcJ20qmBxHdvB4jS)
-- [sous les étoiles - Maple Sun Electronic Rework by Tom Merrall, Maple Sun](https://open.spotify.com/track/5iU4M6wEA3vNL5BSYGXh3N)
-- [Conditions - Edit by Philipp Wolf](https://open.spotify.com/track/3azJpFvEqmdmBQR5Wkio3z)
-- [Intuitions by Maty Owl](https://open.spotify.com/track/2pAbd0jGLP8EtlUINfIq6S)
+- [Bloom From Silence by Deeparture, Emma Jackson](https://open.spotify.com/track/35GcNuRqZSIaxiUsEHjrs1)
+- [Go Back (feat. Keirah Kirton) by James iD, Keirah Kirton](https://open.spotify.com/track/4lHtfmSyl5egxwBCZbiuSe)
+- [Hypnotised by Nik Alevizos, LJ MASE, Ella XO](https://open.spotify.com/track/1X8dlEX5eAGHU6u0NtdDxx)
+- [Wild Side by Khealo, Courtney Storm](https://open.spotify.com/track/1uoDEbxOBjuC5zlF93SFY9)
+- [Elevate by Lstn, Banaati](https://open.spotify.com/track/4N5fhC9CW1Rt4doyulBgAd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
