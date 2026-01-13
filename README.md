@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Sunset Dreams by Neon Zebra, Loungify](https://open.spotify.com/track/1khUhepQTyBQfK2Xj2WXV4)
+- [Lowlight by Farbenklang](https://open.spotify.com/track/7bW9ZF0pOmr5W7SfgVkAHq)
+- [Awake by Aéro Jay](https://open.spotify.com/track/6MNVap0mo6ljTngvp1P1tu)
+- [Adrift At Sea by Elypsis](https://open.spotify.com/track/6jcO486etLh9WtmgS8pRtF)
 - [Bloom From Silence by Deeparture, Emma Jackson](https://open.spotify.com/track/35GcNuRqZSIaxiUsEHjrs1)
-- [Go Back (feat. Keirah Kirton) by James iD, Keirah Kirton](https://open.spotify.com/track/4lHtfmSyl5egxwBCZbiuSe)
-- [Hypnotised by Nik Alevizos, LJ MASE, Ella XO](https://open.spotify.com/track/1X8dlEX5eAGHU6u0NtdDxx)
-- [Wild Side by Khealo, Courtney Storm](https://open.spotify.com/track/1uoDEbxOBjuC5zlF93SFY9)
-- [Elevate by Lstn, Banaati](https://open.spotify.com/track/4N5fhC9CW1Rt4doyulBgAd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
