@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Where You Want to Go by Matrx](https://open.spotify.com/track/1ZmY83uBdgFbFSoJl37mdm)
-- [Wander by MXV, mölly, Courtney Storm](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr)
-- [sometimes it’s scary but it’s still just you and me - Edit by Leaving Laurel](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG)
-- [Moving On by mölly](https://open.spotify.com/track/50V1z9iKXYy1bVfXHr3dJt)
-- [90 days by Dimside](https://open.spotify.com/track/16k0IlZHe3P2TYnT3vKOTw)
+- [Northern Lights by Sam Davies](https://open.spotify.com/track/65GQVnAiY8ysjux8YS5BcH)
+- [Let It Fall - Extended Mix by Nofsky](https://open.spotify.com/track/7J4zgFFmoHnegpJm4PiZxU)
+- [Stars - Lynnic Remix by ItsArius, Donner, Lynnic](https://open.spotify.com/track/5ml7zh8UsF2cnWl5aZYxKK)
+- [Closer by Christian Löffler, Shallou](https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19)
+- [Daybreak by w.ill](https://open.spotify.com/track/0WGtaEi5PE16mCOjhCM23h)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
