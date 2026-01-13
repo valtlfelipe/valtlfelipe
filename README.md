@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Needed You the Most by Johannes Jungleson](https://open.spotify.com/track/21UpdyX4FmQ590aDDItA6v)
-- [Losing My Mind by Anriu](https://open.spotify.com/track/6a18MRLFZuAUsaSK62FHpJ)
-- [Make Room by LTN, Ghostbeat](https://open.spotify.com/track/6fXrVWQGYwXoxMOLKomO4K)
-- [we carried one another by Leaving Laurel](https://open.spotify.com/track/6hQW3g5lxlJvmd1SqWVgsq)
-- [Ebb &amp; Flow by Midnight Pass](https://open.spotify.com/track/1cWednRp2CUjfFU5tfhj7B)
+- [Another Day - Mixed by w.ill](https://open.spotify.com/track/5aNUQsD97lRNHmsdph6klg)
+- [High at Midnight by Daimon Noir](https://open.spotify.com/track/5VyhQPO4mQMZDSQ7YWwbJw)
+- [Our Eclipse by Marco Fenyes, Paul Gilmore](https://open.spotify.com/track/7yWovYABHa2Pe2oHYWyB2m)
+- [The Rebirth by Into The Ether](https://open.spotify.com/track/3siAZSqqkhlZbQkGvOYW0X)
+- [Yours - Mixed by djimboh](https://open.spotify.com/track/3AtCmnyXedW8CKq4w2XFZ5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
