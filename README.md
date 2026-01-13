@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Low Heat by Daimon Noir](https://open.spotify.com/track/0KhIatcKH31BQK6Nd1sWOh)
-- [Talk About Nothing by Marco Fenyes, Paul Gilmore](https://open.spotify.com/track/1sMABFhnVdheoPZdYNTkFr)
-- [Keystone by dwelyr, Lumynesynth](https://open.spotify.com/track/7mw795m72qto9gIZG4mrf9)
-- [Northern Lights by Sam Davies](https://open.spotify.com/track/65GQVnAiY8ysjux8YS5BcH)
-- [Let It Fall - Extended Mix by Nofsky](https://open.spotify.com/track/7J4zgFFmoHnegpJm4PiZxU)
+- [Green Spaces by Jake Kaiser](https://open.spotify.com/track/7MyzLDEgPPxKEhCoAJgvgz)
+- [Walking With Him (Interplay 559) by LTN, Ghostbeat](https://open.spotify.com/track/7JJ9hX52KQhgefus07teF9)
+- [Paralia by Dokho](https://open.spotify.com/track/1WXias1FHh0Kyl2zGdYQnC)
+- [Memory by Saive](https://open.spotify.com/track/0ZryRehYNEGOAIfdB4YTx5)
+- [Coffee House by Jan William](https://open.spotify.com/track/7tnBL2k4xFCykBhg5JDDrO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
