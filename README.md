@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Equal by ODESZA, Låpsley](https://open.spotify.com/track/0MgAJsBMfmL7w24eM09Wzl)
-- [Home by Adriatique, Marino Canal, Delhia De France](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q)
-- [Forever And A Day by LP Giobbi, Caroline Byrne](https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2)
-- [Wildfire - Colyn Remix by RÜFÜS DU SOL, Colyn](https://open.spotify.com/track/6l4DAumg138A324aTQfXUi)
-- [Mind Off by Carlita, WhoMadeWho, Orsay](https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM)
+- [Wide Awake by ODESZA, Charlie Houston](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB)
+- [Murmur by Sultan &#43; Shepard](https://open.spotify.com/track/5Kx9WqL3coud5FmQvtchAS)
+- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
+- [Better by nimino, Manta](https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh)
+- [Addicted (feat. TIMID.) by Naarly, Daytona, LEWS, FIRSTCLASS, TIMID.](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
