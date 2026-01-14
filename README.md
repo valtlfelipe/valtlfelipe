@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Million Miles Away by Miss Monique, P.O.U, Susie Ledge](https://open.spotify.com/track/4wDM0nGseA8k7Eh6fHMk5w)
-- [BE LIKE YOU by LE YORA, SOMMA, JEWELS, YUMA, MAGNUS](https://open.spotify.com/track/4mrTnLzoLKwcqPqo0N8vZZ)
-- [Flora by Joris Voorn, Jan Blomqvist](https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As)
-- [Get High by Kaz James](https://open.spotify.com/track/27n6pyuG14KbNViU8QFZAq)
-- [Ride by Klangkarussell](https://open.spotify.com/track/2DimMk00BsDm19bbxTzY03)
+- [Surrender (feat. Curtis Harding) by RÜFÜS DU SOL, Curtis Harding](https://open.spotify.com/track/1qX3kSjUNJkUlVSPDXGGP1)
+- [Afterglow by Klangkarussell, GIVVEN](https://open.spotify.com/track/5nBv2uSCkXBFd8z0HI0otB)
+- [Back To Life by Adriatique, Samm (BE), Jaimes](https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5)
+- [Time by Carlita](https://open.spotify.com/track/0IAIsE9u9AYUH3wh7p77AE)
+- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
