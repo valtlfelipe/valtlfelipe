@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Maze Of Memories by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/4ynY3o2BtztX3AdESEe3St)
+- [Late Night (Marten Lou x Foals) by Marten Lou, Foals](https://open.spotify.com/track/2LDdllWwaDlBKcXv5jTJCG)
 - [Wide Awake by ODESZA, Charlie Houston](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB)
 - [Murmur by Sultan &#43; Shepard](https://open.spotify.com/track/5Kx9WqL3coud5FmQvtchAS)
 - [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
-- [Better by nimino, Manta](https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh)
-- [Addicted (feat. TIMID.) by Naarly, Daytona, LEWS, FIRSTCLASS, TIMID.](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
