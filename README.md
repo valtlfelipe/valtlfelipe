@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [A Dance by Tiger Stripes](https://open.spotify.com/track/1oYiMevynZFADiPNx1NXAT)
+- [Everything - Carl Price &amp; Paul Hawkins Righteous Mix by Carl Price, Paul Hawkins, Soul Jawa](https://open.spotify.com/track/07v3cP4SIEyJxLjrt1sfMO)
 - [Fire Fire by Shimza, AR/CO, Kasango](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ)
 - [Sunrise (Adam Ten Remix) by Shouse, Adam Ten](https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk)
 - [Closer Than Ever - Arodes Remix by Imbermind, Arodes](https://open.spotify.com/track/3jeFImBk9dH4GawbHaw3Nn)
-- [Lost by Vintage Culture, Gabss](https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj)
-- [Wale Wale (feat. Sofiya Nzau) [WITH U Remix Radio Edit] by TRESOR, WITH U, Sofiya Nzau](https://open.spotify.com/track/3wgC5bBD5Iq8iEubEBkqZx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
