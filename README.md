@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Surrender (feat. Curtis Harding) by RÜFÜS DU SOL, Curtis Harding](https://open.spotify.com/track/1qX3kSjUNJkUlVSPDXGGP1)
-- [Afterglow by Klangkarussell, GIVVEN](https://open.spotify.com/track/5nBv2uSCkXBFd8z0HI0otB)
-- [Back To Life by Adriatique, Samm (BE), Jaimes](https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5)
-- [Time by Carlita](https://open.spotify.com/track/0IAIsE9u9AYUH3wh7p77AE)
-- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
+- [What I Need by Naarly, Sickluv, Thabza De Soul](https://open.spotify.com/track/3xSeXxD1kT2DXyWBbDAIxB)
+- [New Sky by RÜFÜS DU SOL](https://open.spotify.com/track/29tIhq8ByVaG5GVlnS4XRL)
+- [Sun Is Shining by Kaz James](https://open.spotify.com/track/3Vv7Zeqig8hfejz3oJ3l09)
+- [Wait So Long (Why Do I Have To) by Swedish House Mafia](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT)
+- [Your Body by Marten Lou](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
