@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hide U by Kosheen, Marten Lou, Isidoros](https://open.spotify.com/track/4V5CI7i0zZJxXUgwzfjuDI)
-- [Falling Apart by Catching Flies](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA)
-- [Hibernation by WhoMadeWho, Sainte Vie](https://open.spotify.com/track/2VIe5CnoDarbQZxDXfnWCS)
-- [Sun Will Rise - Edit by Marten Lou, Sasson (FR)](https://open.spotify.com/track/0vS9fkI3eI1JYjR1JuffHE)
-- [Mio by Sultan &#43; Shepard](https://open.spotify.com/track/5gev0QrXY6XNMquwPsrol6)
+- [Ghostkeeper by Klangkarussell, GIVVEN](https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC)
+- [Blessings by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z)
+- [Missing You by Eli &amp; Fur](https://open.spotify.com/track/1COJ6VExjnRXY4UaWNCvgU)
+- [Ascend by Dezko](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2)
+- [LONELY by Alex LeMirage](https://open.spotify.com/track/09PUTIs33PUjiogm9PsAPk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
