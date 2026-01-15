@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Fine Line by Solayne, Nina Carr](https://open.spotify.com/track/1Zs00RxHcTA6BhoGSm7tI0)
-- [You Are My High by Sultan &#43; Shepard](https://open.spotify.com/track/6YfvJOrdzWQFAz63aeXPp4)
-- [A Tiny Home in the Universe by MaMan](https://open.spotify.com/track/7ApiHmtyd7xKLkROWZvkaq)
-- [You by Marten Lou, ORI](https://open.spotify.com/track/7pQntlcrkJ2LGypMgPQO54)
-- [Our World by Rezident, Elmar](https://open.spotify.com/track/430PPsBrIlbBQqtRKHV5jF)
+- [Night in Arrakeen by Verbala](https://open.spotify.com/track/3ezxL2q9anePj3hFKOymKV)
+- [Flying Away with You by WhoMadeWho, Tripolism](https://open.spotify.com/track/0GxkWCaowNJxbaCdrcAPFe)
+- [Watching over You by Nu Aspect, Marlo Rex](https://open.spotify.com/track/3OTz9JVR0pfKbhaCL45cJy)
+- [To Love Again by Blonde Maze, Lizzy Land](https://open.spotify.com/track/71SsuQwp3EQnNXLtgCcA2H)
+- [Silver Lining by Falden](https://open.spotify.com/track/4O4W2KMtCo9Kpn8o9ExxYn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
