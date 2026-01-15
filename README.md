@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Mercy by Marsh](https://open.spotify.com/track/7LaBuSH1fG5mTv737ANEwH)
-- [Shapeshift by Rezident](https://open.spotify.com/track/0XB6SWRD8vyfO5i47NS3Fv)
-- [Behind Her Eyes by Sultan &#43; Shepard](https://open.spotify.com/track/3BsS9mtA4XzLKKVBFClqNF)
-- [Cos Of You by Joseph Ray](https://open.spotify.com/track/7nAbkjtxvS00NBcOlapI9V)
-- [Midnight Sun by Jan Blomqvist, Natascha Polké](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI)
+- [Train of Thoughts by Nora En Pure](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM)
+- [One Last Touch by Hessian, LAR, Keepa](https://open.spotify.com/track/110op23Y2YOaK04f7ahX26)
+- [Moving In by Rezident, Elmar](https://open.spotify.com/track/3QTRSMkio5iEka29Ek2DD5)
+- [Maze Of Memories - Extended Mix by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/6s4nbL6Gmb0AEr0JPblBxa)
+- [Disappear Again - Edit by Jan Blomqvist, Beobê](https://open.spotify.com/track/406ytRuC7uxEK8rOvpHR0N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
