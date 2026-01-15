@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Called Your Name by Nu Aspect, Jake Neumar](https://open.spotify.com/track/27z5prnleELd1ifzlnaEHJ)
-- [Falling by Carlita, Mascolo](https://open.spotify.com/track/31WTl05dYGhTzgen7JLLDF)
-- [Never Alone by WhoMadeWho](https://open.spotify.com/track/7i04EIGhl9IUhHyUnJIMpJ)
-- [Weightless (jamesjamesjames Remix) by Ben Böhmer, Panama, jamesjamesjames](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC)
-- [Ghostkeeper by Klangkarussell, GIVVEN](https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC)
+- [Mercy by Marsh](https://open.spotify.com/track/7LaBuSH1fG5mTv737ANEwH)
+- [Shapeshift by Rezident](https://open.spotify.com/track/0XB6SWRD8vyfO5i47NS3Fv)
+- [Behind Her Eyes by Sultan &#43; Shepard](https://open.spotify.com/track/3BsS9mtA4XzLKKVBFClqNF)
+- [Cos Of You by Joseph Ray](https://open.spotify.com/track/7nAbkjtxvS00NBcOlapI9V)
+- [Midnight Sun by Jan Blomqvist, Natascha Polké](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
