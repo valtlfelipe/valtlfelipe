@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Train of Thoughts by Nora En Pure](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM)
-- [One Last Touch by Hessian, LAR, Keepa](https://open.spotify.com/track/110op23Y2YOaK04f7ahX26)
-- [Moving In by Rezident, Elmar](https://open.spotify.com/track/3QTRSMkio5iEka29Ek2DD5)
-- [Maze Of Memories - Extended Mix by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/6s4nbL6Gmb0AEr0JPblBxa)
-- [Disappear Again - Edit by Jan Blomqvist, Beobê](https://open.spotify.com/track/406ytRuC7uxEK8rOvpHR0N)
+- [Fine Line by Solayne, Nina Carr](https://open.spotify.com/track/1Zs00RxHcTA6BhoGSm7tI0)
+- [You Are My High by Sultan &#43; Shepard](https://open.spotify.com/track/6YfvJOrdzWQFAz63aeXPp4)
+- [A Tiny Home in the Universe by MaMan](https://open.spotify.com/track/7ApiHmtyd7xKLkROWZvkaq)
+- [You by Marten Lou, ORI](https://open.spotify.com/track/7pQntlcrkJ2LGypMgPQO54)
+- [Our World by Rezident, Elmar](https://open.spotify.com/track/430PPsBrIlbBQqtRKHV5jF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
