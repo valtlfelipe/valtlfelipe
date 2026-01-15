@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Maze Of Memories by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/4ynY3o2BtztX3AdESEe3St)
-- [Late Night (Marten Lou x Foals) by Marten Lou, Foals](https://open.spotify.com/track/2LDdllWwaDlBKcXv5jTJCG)
-- [Wide Awake by ODESZA, Charlie Houston](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB)
-- [Murmur by Sultan &#43; Shepard](https://open.spotify.com/track/5Kx9WqL3coud5FmQvtchAS)
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
+- [Communicate by Sultan &#43; Shepard](https://open.spotify.com/track/172om5zC8R0HHXOzpjUX2m)
+- [Destination Lost by Jan Blomqvist, Rodriguez Jr.](https://open.spotify.com/track/2YpD9Go9kzxCc325pgJTjM)
+- [Lioness - Francis Mercier Remix by Swedish House Mafia, Niki &amp; The Dove, Francis Mercier](https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq)
+- [Fight for You (Devotion) by Marten Lou, Shouse](https://open.spotify.com/track/4woIlIOeYmxrosdtquYvX8)
+- [How Deep Is Your Love by WITH U, Merlin](https://open.spotify.com/track/0nC5DUHon23N4G3FRY48Ni)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
