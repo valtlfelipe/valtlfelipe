@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Night in Arrakeen by Verbala](https://open.spotify.com/track/3ezxL2q9anePj3hFKOymKV)
-- [Flying Away with You by WhoMadeWho, Tripolism](https://open.spotify.com/track/0GxkWCaowNJxbaCdrcAPFe)
-- [Watching over You by Nu Aspect, Marlo Rex](https://open.spotify.com/track/3OTz9JVR0pfKbhaCL45cJy)
-- [To Love Again by Blonde Maze, Lizzy Land](https://open.spotify.com/track/71SsuQwp3EQnNXLtgCcA2H)
-- [Silver Lining by Falden](https://open.spotify.com/track/4O4W2KMtCo9Kpn8o9ExxYn)
+- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
+- [Hear My Call by H:dn](https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW)
+- [Moon by Alex Wann, Malachiii, bees &amp; honey](https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog)
+- [Waterfall by Klur](https://open.spotify.com/track/4WFaNSUrZO5qFCTI4yCXh5)
+- [Inertia by Hessian](https://open.spotify.com/track/1DC4WYpBda2uT0lQ3v7evG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
