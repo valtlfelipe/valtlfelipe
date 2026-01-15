@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
-- [Hear My Call by H:dn](https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW)
-- [Moon by Alex Wann, Malachiii, bees &amp; honey](https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog)
-- [Waterfall by Klur](https://open.spotify.com/track/4WFaNSUrZO5qFCTI4yCXh5)
-- [Inertia by Hessian](https://open.spotify.com/track/1DC4WYpBda2uT0lQ3v7evG)
+- [Unbound by Klur, BJOERN](https://open.spotify.com/track/0R4xuGjgy9Ok3461DMAnDf)
+- [Revenge of the Groove by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/4R8Lk6cGMS1wm4sxGhEtPH)
+- [The Way You Say - LP Giobbi Remix by Carlita, LP Giobbi](https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m)
+- [We Are Young by Alex Breitling](https://open.spotify.com/track/13xEtVZxK4WXprFsV8ytj8)
+- [My Love (2024) by Alex Wann, Route 94, Jess Glynne](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
