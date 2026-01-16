@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Here for You (feat. Ella Henderson) by Kygo, Ella Henderson](https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6)
-- [Here for You (feat. Ella Henderson) by Kygo, Ella Henderson](https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6)
-- [Chasing The Sun by The Wanted](https://open.spotify.com/track/4b4c0oH7PtrPsI86drzgFs)
-- [Desire - Gryffin Remix by Olly Alexander (Years &amp; Years), Gryffin](https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS)
-- [Hymn for the Weekend - Seeb Remix by Coldplay, Seeb](https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu)
+- [Show Me Love (feat. Elisabeth Troy) by Clean Bandit, Elisabeth Troy](https://open.spotify.com/track/7aJyMyhYppupv3lDyuk3WE)
+- [Roses by The Chainsmokers, ROZES](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z)
+- [Feel the Vibe - Radio Edit by Bob Sinclar, Dawn Tallman](https://open.spotify.com/track/6YeWkHmwqMLPqqjuYYl3t1)
+- [Right Here by Jess Glynne](https://open.spotify.com/track/6mE7cjA9svHRq3k63FAvYn)
+- [Shots by Imagine Dragons](https://open.spotify.com/track/0FQA22KGLQdDesHAJtrEEE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
