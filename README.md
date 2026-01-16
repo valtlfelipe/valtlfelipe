@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
-- [Paradise by Coldplay](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D)
-- [One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)
-- [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
-- [Sweet Harmony by The Beloved](https://open.spotify.com/track/2iBQoV2OnmNJKso9B7nBy7)
+- [Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] by Daft Punk, Pharrell Williams, Nile Rodgers](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof)
+- [Boom Clap by Charli xcx](https://open.spotify.com/track/094RugjgLW6CdPLOJctBZ3)
+- [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
+- [Don&#39;t Worry (with Ray Dalton) - Radio Edit by Madcon, Ray Dalton](https://open.spotify.com/track/63CSozvYUEudPp12679UVF)
+- [I Gotta Feeling by Black Eyed Peas](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
