@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Let It Roll by Flo Rida](https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh)
+- [Ties by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/4KDKoOYAnLnR7Tek17eD02)
+- [Moth To A Flame (with The Weeknd) by Swedish House Mafia, The Weeknd](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK)
 - [Outlines - Radio Edit by Mike Mago, Dragonette](https://open.spotify.com/track/7kN9qpwvDZeiUsbtBrTjNo)
 - [Every Day by Eric Prydz](https://open.spotify.com/track/4j1hJwuawbvpm2q2orbgj7)
-- [One Love (feat. Estelle) by David Guetta, Estelle](https://open.spotify.com/track/27UbJMlccoT0HuojJo91S8)
-- [Wherever I Go by OneRepublic](https://open.spotify.com/track/46jLy47W8rkf8rEX04gMKB)
-- [Show Me Love (feat. Elisabeth Troy) by Clean Bandit, Elisabeth Troy](https://open.spotify.com/track/7aJyMyhYppupv3lDyuk3WE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
