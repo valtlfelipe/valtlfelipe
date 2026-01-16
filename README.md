@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Here for You (feat. Ella Henderson) by Kygo, Ella Henderson](https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6)
+- [Here for You (feat. Ella Henderson) by Kygo, Ella Henderson](https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6)
 - [Chasing The Sun by The Wanted](https://open.spotify.com/track/4b4c0oH7PtrPsI86drzgFs)
 - [Desire - Gryffin Remix by Olly Alexander (Years &amp; Years), Gryffin](https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS)
 - [Hymn for the Weekend - Seeb Remix by Coldplay, Seeb](https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu)
-- [Hold My Hand by Jess Glynne](https://open.spotify.com/track/1eOJAiCKFuMda0fPRvjcuc)
-- [Never Forget You by Zara Larsson, MNEK](https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
