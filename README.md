@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Let It Roll by Flo Rida](https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh)
-- [Ties by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/4KDKoOYAnLnR7Tek17eD02)
-- [Moth To A Flame (with The Weeknd) by Swedish House Mafia, The Weeknd](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK)
-- [Outlines - Radio Edit by Mike Mago, Dragonette](https://open.spotify.com/track/7kN9qpwvDZeiUsbtBrTjNo)
-- [Every Day by Eric Prydz](https://open.spotify.com/track/4j1hJwuawbvpm2q2orbgj7)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
+- [Feel This Moment (feat. Christina Aguilera) by Pitbull, Christina Aguilera](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl)
+- [Me Encontra by Charlie Brown Jr.](https://open.spotify.com/track/5yEais1zgeW1MjLrx7tsie)
+- [Right Now by Rihanna, David Guetta](https://open.spotify.com/track/42Ow7PS3YtCWplolUUigDo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
