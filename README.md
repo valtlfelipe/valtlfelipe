@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [I Got U by Duke Dumont, Jax Jones](https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
+- [We Are The People - southstar Remix by Empire Of The Sun, southstar](https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
 - [REACT by Switch Disco, Ella Henderson, Robert Miles](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi)
-- [Crazy What Love Can Do by David Guetta, Becky Hill, Ella Henderson](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq)
-- [Currency (Count On Me) (ft Cimafunk and PAMÉ) by ANOTR, Cimafunk, PAMÉ](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS)
-- [BED by Joel Corry, RAYE, David Guetta](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS)
-- [These Days (feat. Jess Glynne, Macklemore &amp; Dan Caplen) - AJR Remix by Rudimental, Jess Glynne, Macklemore, Dan Caplen, AJR](https://open.spotify.com/track/4DMvvYvDNiEv2QUciZCyp7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
