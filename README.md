@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[onmax/nuxt-convex](https://github.com/onmax/nuxt-convex)** - Nuxt module for Convex (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [I Got U by Duke Dumont, Jax Jones](https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
 - [We Are The People - southstar Remix by Empire Of The Sun, southstar](https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC)
 - [Timber by Pitbull, Kesha](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)
 - [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
-- [REACT by Switch Disco, Ella Henderson, Robert Miles](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi)
-- [Blessings by Calvin Harris, Clementine Douglas](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
