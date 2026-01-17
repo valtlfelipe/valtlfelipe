@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[thwbh/tauri-typegen](https://github.com/thwbh/tauri-typegen)** - A rust crate that automatically generates TypeScript models and bindings from your Tauri commands (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Got U by Duke Dumont, Jax Jones](https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV)
-- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
-- [We Are The People - southstar Remix by Empire Of The Sun, southstar](https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC)
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
-- [REACT by Switch Disco, Ella Henderson, Robert Miles](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi)
+- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
+- [Crying On The Dancefloor by Sam Feldt, Jonas Blue, Endless Summer, Violet Days](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6)
+- [Told You So by Martin Garrix, Jex](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll)
+- [All Around The World (La La La) by R3HAB, A Touch Of Class](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp)
+- [Not At This Party - David Guetta Remix by Dasha, David Guetta](https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
