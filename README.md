@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[onmax/nuxt-convex](https://github.com/onmax/nuxt-convex)** - Nuxt module for Convex (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Summer Days (feat. Macklemore &amp; Patrick Stump of Fall Out Boy) by Martin Garrix, Macklemore, Fall Out Boy](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM)
 - [Wake Me Up by Avicii](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2)
 - [Lean On (feat. MØ &amp; DJ Snake) by Major Lazer, MØ, DJ Snake](https://open.spotify.com/track/2e7s0oEzUoJtDSPtYJuVvD)
 - [Sofia by vonce](https://open.spotify.com/track/30uXgQ9zhjkYL0h5cqsaDz)
 - [Sofia by vonce](https://open.spotify.com/track/30uXgQ9zhjkYL0h5cqsaDz)
-- [Levitating (feat. DaBaby) by Dua Lipa, DaBaby](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
