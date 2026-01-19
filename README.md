@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[onmax/nuxt-convex](https://github.com/onmax/nuxt-convex)** - Nuxt module for Convex (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
-- [Bittersweet (Tritonia 465) by Kiholm](https://open.spotify.com/track/5ZfCsX1UWTu6DTTcVIYBso)
-- [Yours by djimboh](https://open.spotify.com/track/4py97jkt3UjrYu73lPzvIS)
-- [Luna&#39;s Dream by Dokho](https://open.spotify.com/track/6yDwrSuGafugPjhmAfTr0i)
-- [find myself by aelera](https://open.spotify.com/track/6HJIhZBhGeDUkLni3gt2U1)
+- [Baqueado - Ao Vivo by Panda, Ícaro e Gilmar, MJ Records](https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo)
+- [Se Eu Te Perdoar - Ao Vivo by Clayton &amp; Romário, Zé Felipe](https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5)
+- [Ele E Ela❤️❌ - Ao Vivo by Hugo &amp; Guilherme, Grupo Menos É Mais](https://open.spotify.com/track/7rBBIdAFWC2m9mdCFrO42o)
+- [Vai Cair Água - Ao Vivo by Diego &amp; Arnaldo, Zé Neto &amp; Cristiano](https://open.spotify.com/track/1Vsh9frTSsEwqwcbvZpItT)
+- [Quarto 67 - Ao Vivo by Guilherme &amp; Benuto, Luan Santana](https://open.spotify.com/track/22E5DzxkTROdxSmSz3kaIo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
