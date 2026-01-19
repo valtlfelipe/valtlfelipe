@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[onmax/nuxt-convex](https://github.com/onmax/nuxt-convex)** - Nuxt module for Convex (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [What If You Fly by Oliver River](https://open.spotify.com/track/09np57gcBN1dq1gtsZ2uIB)
-- [Terra Incognita by Tommy Loude](https://open.spotify.com/track/4yw3KfMyoQwlCr6ZEKT65p)
-- [Do You by oskar med k](https://open.spotify.com/track/3MbNPY4xh4LgYCFSQnz0no)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
-- [Change of Driver by Falden, PEARL](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x)
+- [Drift Away by Alex Breitling](https://open.spotify.com/track/3fc76LcSqH8jYX56DHlZpz)
+- [Bittersweet (Tritonia 465) by Kiholm](https://open.spotify.com/track/5ZfCsX1UWTu6DTTcVIYBso)
+- [Yours by djimboh](https://open.spotify.com/track/4py97jkt3UjrYu73lPzvIS)
+- [Luna&#39;s Dream by Dokho](https://open.spotify.com/track/6yDwrSuGafugPjhmAfTr0i)
+- [find myself by aelera](https://open.spotify.com/track/6HJIhZBhGeDUkLni3gt2U1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
