@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[outray-tunnel/outray](https://github.com/outray-tunnel/outray)** - OpenSource ngrok alternative. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Assumptions by Sam Gellaitry](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)
+- [No Money by Galantis](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd)
+- [Unstoppable - R3HAB Remix by Sia, R3HAB](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq)
 - [Scent of Wood - Bound to Divide Remix by UOAK, Ceci, Bound to Divide](https://open.spotify.com/track/7hB5XhraRlHeAE5ONIcSWY)
 - [Fragments by Marsh, Jodie Knight](https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh)
-- [Rushing In by mölly, MØØNE](https://open.spotify.com/track/2SFSd0cuykFFzAYDGH42jD)
-- [Feels Like This by Hessian](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC)
-- [Take That Leap by Massane](https://open.spotify.com/track/2qkAgWaBylD14quHwtDap5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
