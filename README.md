@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tryportal/portal](https://github.com/tryportal/portal)** - Portal is the open-source Slack replacement. Chat in real time, keep conversations tidy in channels, and collaborate freely with zero tracking or spying. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Neverender by Justice, Tame Impala](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj)
-- [Only Girl (In The World) by Rihanna](https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ)
-- [The Less I Know The Better by Tame Impala](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
-- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
-- [Crying On The Dancefloor by Sam Feldt, Jonas Blue, Endless Summer, Violet Days](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6)
+- [Rosso by Chris Savor, Stendahl](https://open.spotify.com/track/3P4kOSAVk0aUH7fVVlMS2D)
+- [Roots by Klur](https://open.spotify.com/track/04F3ezdihPP6qeEOWI4ehJ)
+- [Botanica by fwd/slash](https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs)
+- [Run by Lane 8, Kasablanca](https://open.spotify.com/track/0yjxW8s0Uuk9uKi0Nh9B7T)
+- [Journal by Polar Inc.](https://open.spotify.com/track/7uBr4fZvDFskB5CvxXGOi2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
