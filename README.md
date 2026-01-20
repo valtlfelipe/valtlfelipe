@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tryportal/portal](https://github.com/tryportal/portal)** - Portal is the open-source Slack replacement. Chat in real time, keep conversations tidy in channels, and collaborate freely with zero tracking or spying. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Hurry Up We&#39;re Dreaming by Ourson, Francis Skyes](https://open.spotify.com/track/3niUHZZ9CPbiJv77ERRRKs)
+- [Hymn by Marsh](https://open.spotify.com/track/6765w6VdIenpaZqZc87auA)
+- [Come Back Around by Eli &amp; Fur](https://open.spotify.com/track/3UYCT2pnTs2M6qkfF89UN9)
 - [Love Syndrome by Enamour](https://open.spotify.com/track/167J53zotbS1GdqHofZqc5)
 - [Solid Ground by Marc Wiese, Gabi Juliano](https://open.spotify.com/track/5uF3feCtXIELkY396WUg5e)
-- [Just by Lane 8](https://open.spotify.com/track/6BHx1NCBASduR31WNTzm5S)
-- [Forever by Hessian, Yellowitz](https://open.spotify.com/track/5Ia5F9lPczHoYXOCo1TyRq)
-- [Daylight by mölly, Bridges](https://open.spotify.com/track/3Pi08C77jfcAjgvzHpgHYu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
