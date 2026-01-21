@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[outray-tunnel/outray](https://github.com/outray-tunnel/outray)** - OpenSource ngrok alternative. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [blinded by Le Youth, Orem](https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi)
-- [For You - Mixed by Jack Willard, Coastlines](https://open.spotify.com/track/3MKNkQGcXahv44HtItYpqE)
-- [Pray - Chris Malinchak Mix by Booka Shade, Chris Malinchak](https://open.spotify.com/track/1qCmDqc1bufbyDfujHVrvS)
-- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
-- [Need Somebody by Jerro, Lizzy Land](https://open.spotify.com/track/6KTWtfD0ciy5N3Lid45D3G)
+- [3 Days Later by Adam Ten, Rhye](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j)
+- [The Last Goodbye by ODESZA, Bettye LaVette](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC)
+- [Whispers Of The Night by Kaiyan](https://open.spotify.com/track/1Jzc8lLBqSvvm5Szgy3D84)
+- [Vista by Jack Willard](https://open.spotify.com/track/2NXdccGwej9QethnRpOT6s)
+- [Hope(less) by Thysma](https://open.spotify.com/track/32QOs0HlvQa2mfUi8DCeRK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
