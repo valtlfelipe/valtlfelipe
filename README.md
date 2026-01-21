@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[outray-tunnel/outray](https://github.com/outray-tunnel/outray)** - OpenSource ngrok alternative. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Light Falls by EMBRZ](https://open.spotify.com/track/4quQKMyWq9nLKNteKFn4MO)
-- [refract by cypress](https://open.spotify.com/track/2U4VITRVXaPYlyneGP2kiq)
-- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
-- [Broken Mirror by Elderbrook](https://open.spotify.com/track/44oPs8vjsT9v6Hjt50TvVh)
-- [Coffee by Abroad](https://open.spotify.com/track/0cuvkojX6QbHAdX4f025L3)
+- [Running by Falden](https://open.spotify.com/track/620TZTKa2gC9Qi6Jp5POK1)
+- [Barely Breathing by Du0](https://open.spotify.com/track/79shoYFHSQWVcZSnukFZ8o)
+- [Back To My Bed by Elderbrook](https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK)
+- [Still With Francis by Duce](https://open.spotify.com/track/7MEJGPf7aGuiE01puSnhxW)
+- [Stereo by Alex Keeper](https://open.spotify.com/track/1KtbrGdj2rLkGXFjtFJ4Ei)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
