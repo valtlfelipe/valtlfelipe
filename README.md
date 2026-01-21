@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[outray-tunnel/outray](https://github.com/outray-tunnel/outray)** - OpenSource ngrok alternative. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Day One by Bound to Divide](https://open.spotify.com/track/0oldHR8gIENRw5l8pBuAL2)
-- [Aligned by Slow Ted](https://open.spotify.com/track/1FJ30vrIqdagpDSUfXTIXu)
-- [Amor by Marsh, Wassu](https://open.spotify.com/track/4ogJOit8BDfK2iHHSwsuxY)
-- [Here She Comes by Jackarta](https://open.spotify.com/track/5kndIH4oFIzwcoRCjbbx4W)
-- [Big Sky by Jack Willard](https://open.spotify.com/track/1yv6MpP9hHtPnoxkNGVnUw)
+- [Leave You by Einmusik, Lexer, Jyll](https://open.spotify.com/track/3p1j9R2oZG7GG9OtJxphWX)
+- [Leave You by Einmusik, Lexer, Jyll](https://open.spotify.com/track/3p1j9R2oZG7GG9OtJxphWX)
+- [Floating by Klur](https://open.spotify.com/track/4qzIWW9yArNdpuqc9SbtJH)
+- [Light Beam by Tinlicker](https://open.spotify.com/track/3ElJuZPmBGeyZotv1yrusW)
+- [Lifetime by J Ribbon](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
