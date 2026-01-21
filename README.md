@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[whispem/minikv](https://github.com/whispem/minikv)** - A production-ready distributed key-value store with Raft consensus. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Pantheon by Jerro](https://open.spotify.com/track/7jzYd0OEy6RGAIZrXMRU7f)
-- [Alive by w.ill](https://open.spotify.com/track/1pnQtWDDHZYgqRmlxKM7cq)
-- [Moving On by mölly](https://open.spotify.com/track/50V1z9iKXYy1bVfXHr3dJt)
-- [All My Light - Extended Mix by Boy North](https://open.spotify.com/track/0Ver2M9ACOsKQemaEAYCft)
-- [For You by Jack Willard, Coastlines](https://open.spotify.com/track/6qJXWYGrzDLMS7aGIVmtkx)
+- [Yours - Mixed by djimboh](https://open.spotify.com/track/3AtCmnyXedW8CKq4w2XFZ5)
+- [Echoes by VEHA](https://open.spotify.com/track/1A9PYofKgX0sSTRPde6LjX)
+- [Too Weak by Jerro](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14)
+- [Golden - Mixed by Rhea Silvia](https://open.spotify.com/track/5fAwVrmltSwQdrM1fyZzUA)
+- [When You&#39;re High - Soul Engineers Remix by Lara Nord, Fagin, Soul Engineers](https://open.spotify.com/track/5fvdwxUsl0bWaIfkMEWo25)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
