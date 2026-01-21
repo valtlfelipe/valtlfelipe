@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[outray-tunnel/outray](https://github.com/outray-tunnel/outray)** - OpenSource ngrok alternative. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Running by Falden](https://open.spotify.com/track/620TZTKa2gC9Qi6Jp5POK1)
-- [Barely Breathing by Du0](https://open.spotify.com/track/79shoYFHSQWVcZSnukFZ8o)
-- [Back To My Bed by Elderbrook](https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK)
-- [Still With Francis by Duce](https://open.spotify.com/track/7MEJGPf7aGuiE01puSnhxW)
-- [Stereo by Alex Keeper](https://open.spotify.com/track/1KtbrGdj2rLkGXFjtFJ4Ei)
+- [Until We Leave the Ground - Steve James Remix by Emmit Fenn, Steve James](https://open.spotify.com/track/3LX6Bv3jfbABw1KQsYOYtZ)
+- [Heal by EMBRZ](https://open.spotify.com/track/2FWOuzgDH9AKozwg9wQ7HV)
+- [Serotonin (speaks to me) by joki, Ridges](https://open.spotify.com/track/6ZRWGSexfCNErfw34knhDb)
+- [Nossa Casa by terro](https://open.spotify.com/track/30llHiEO5U6SaCkM5mcu7x)
+- [Numb - Chill Mix by Elderbrook](https://open.spotify.com/track/3ifkXomA0L2CmqSWyrVPkm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
