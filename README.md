@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[outray-tunnel/outray](https://github.com/outray-tunnel/outray)** - OpenSource ngrok alternative. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Yours Tonight by fwd/slash](https://open.spotify.com/track/6epYioiACrRs1EXI49p893)
-- [Walk Away (feat. Ailbhe Reddy) by Elderbrook, Ailbhe Reddy](https://open.spotify.com/track/3qpbvXLn62vd5nKUIqCAWV)
-- [Views by Leo Chase](https://open.spotify.com/track/7D7LLc7hFbgccHHUf8d6TR)
-- [Coming Up (Hold On) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/0pAKG0jaOC5Zc6RykZzvgC)
-- [weightless - vocal edit by cypress, solaene](https://open.spotify.com/track/2J3UUywmOKA5c8uiHOHoGn)
+- [blinded by Le Youth, Orem](https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi)
+- [For You - Mixed by Jack Willard, Coastlines](https://open.spotify.com/track/3MKNkQGcXahv44HtItYpqE)
+- [Pray - Chris Malinchak Mix by Booka Shade, Chris Malinchak](https://open.spotify.com/track/1qCmDqc1bufbyDfujHVrvS)
+- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
+- [Need Somebody by Jerro, Lizzy Land](https://open.spotify.com/track/6KTWtfD0ciy5N3Lid45D3G)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
