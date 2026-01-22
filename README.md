@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[UserOrient/orient-ui](https://github.com/UserOrient/orient-ui)** - 🖌️ Flutter widgets without Material or Cupertino. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [All That&#39;s Left by Kaiyan](https://open.spotify.com/track/4oqojtxAzYAbG2D5ssIa2E)
-- [Solid Gold Love by Sultan &#43; Shepard, Richard Walters](https://open.spotify.com/track/4teNp2dyq0TzB6DnliNg9Z)
-- [Looking At Me by Leo Lauretti, Cosmaks](https://open.spotify.com/track/5LJzsHLmQ1Hj1D4TUdy5wR)
-- [Together by Heard Right, Anriu](https://open.spotify.com/track/7KZkkAJE4WYTzVr4jc7kt2)
-- [A Power Over Me by Joseph Ray, Elliot Vast](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di)
+- [Your Hand In Mine by Boxer, Solar Sentience](https://open.spotify.com/track/1tcRQ4g11a5n7JcrxtPQRZ)
+- [Ah Up - Noequalgods Remix by Sound Quelle, Noequalgods](https://open.spotify.com/track/42axPdBy49wS0FRpefJVCG)
+- [QvB by Kaiyan](https://open.spotify.com/track/3sXzJ8AnqDVm7ZmOgLZ1j9)
+- [Moving In by Rezident, Elmar](https://open.spotify.com/track/3QTRSMkio5iEka29Ek2DD5)
+- [Heartbeat (Tritonia 524) by Hessian, Courtney Storm](https://open.spotify.com/track/0QLRGnLqNgnEBaf37KX1S6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
