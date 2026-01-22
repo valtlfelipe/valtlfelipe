@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[whispem/minikv](https://github.com/whispem/minikv)** - A production-ready distributed key-value store with Raft consensus. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Up Here - Extended Mix by djimboh, Lumynesynth](https://open.spotify.com/track/0jFH43bEMdwCoh84cmv4fN)
-- [Go Back Now (feat. Beacon) by Jerro, Beacon](https://open.spotify.com/track/3eZmygzZNxqqwOL1yIgBWI)
-- [Slow Bloom by EMBRZ](https://open.spotify.com/track/09LxWNANqoVFZ8WFlO5A5V)
-- [Everything All At Once by Jack Willard, Coastlines, MØØNE](https://open.spotify.com/track/6GVwBMdjAAgI59pyvxa1XR)
-- [Dancing Shadows by Kaiyan](https://open.spotify.com/track/5iets69Dfnu1ZCpWjN7GfX)
+- [All The Giants Are Sleeping by Fløa](https://open.spotify.com/track/61x5JyHWNwhsW2O4iqElhT)
+- [River Of Dreams by Kaiyan, EMBLM](https://open.spotify.com/track/6RfncGOXKpLWQLWvjBSNt7)
+- [In Your Arms by Dezza](https://open.spotify.com/track/3NoPCTKM8sYlQB42uZwisd)
+- [Legacy by Jerro, Tailor](https://open.spotify.com/track/7zaXIOG25HJ7S3dxlz0gMR)
+- [Spiral by Jack Willard](https://open.spotify.com/track/0L1VCvBXiL73HKvhwnbq9d)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
