@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[whispem/minikv](https://github.com/whispem/minikv)** - A production-ready distributed key-value store with Raft consensus. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
-- [Behind My Eyes by Klur, BJOERN](https://open.spotify.com/track/2Yvaiie3x4f3z84JLXG2Wi)
-- [Close Your Eyes by Dezza](https://open.spotify.com/track/48tGkYAzKPKvgvx8BZPozB)
-- [Just Hold On by Jordin Post](https://open.spotify.com/track/5rALG3uffPJW7cOx7RcVMa)
-- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
+- [Forbidden by Abroad](https://open.spotify.com/track/0as1lvy0Cf4MosH8xr5kdk)
+- [All My Light by Boy North](https://open.spotify.com/track/0IaepkGvzAExMFiTF8GktU)
+- [You Already Know by Sultan &#43; Shepard, Benjamin Roustaing](https://open.spotify.com/track/6R8ggIjGRfK3fH0z7oZlHT)
+- [Playing With Fire by Anriu](https://open.spotify.com/track/0zmS2bw6o1FdLtpUQmjVkD)
+- [Come Back Home by Tinlicker, Roos Jonker](https://open.spotify.com/track/4yAGUSWR2xzOEV0SLgBWZX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
