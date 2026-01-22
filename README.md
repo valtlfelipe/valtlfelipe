@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[whispem/minikv](https://github.com/whispem/minikv)** - A production-ready distributed key-value store with Raft consensus. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Forbidden by Abroad](https://open.spotify.com/track/0as1lvy0Cf4MosH8xr5kdk)
-- [All My Light by Boy North](https://open.spotify.com/track/0IaepkGvzAExMFiTF8GktU)
-- [You Already Know by Sultan &#43; Shepard, Benjamin Roustaing](https://open.spotify.com/track/6R8ggIjGRfK3fH0z7oZlHT)
-- [Playing With Fire by Anriu](https://open.spotify.com/track/0zmS2bw6o1FdLtpUQmjVkD)
-- [Come Back Home by Tinlicker, Roos Jonker](https://open.spotify.com/track/4yAGUSWR2xzOEV0SLgBWZX)
+- [Voodoo by Tinlicker, Ben Böhmer](https://open.spotify.com/track/5cGBQ9W3XtRuRQFgDklDrI)
+- [Get To You by Abroad](https://open.spotify.com/track/0OjD5Pql1zUIGNS7oSjST7)
+- [Glimmer In The Dark - Extended Mix by Trilucid, Esque](https://open.spotify.com/track/2H4SbbIBQirhIf7pAH0XcQ)
+- [Neptune by Sultan &#43; Shepard](https://open.spotify.com/track/5HwJ2rVYhbrdpZqBCeUXh3)
+- [Reach The Goal by Jackarta](https://open.spotify.com/track/2j3oW7euFWjETVomsu30So)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
