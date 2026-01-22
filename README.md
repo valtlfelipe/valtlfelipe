@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[whispem/minikv](https://github.com/whispem/minikv)** - A production-ready distributed key-value store with Raft consensus. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Voodoo by Tinlicker, Ben Böhmer](https://open.spotify.com/track/5cGBQ9W3XtRuRQFgDklDrI)
-- [Get To You by Abroad](https://open.spotify.com/track/0OjD5Pql1zUIGNS7oSjST7)
-- [Glimmer In The Dark - Extended Mix by Trilucid, Esque](https://open.spotify.com/track/2H4SbbIBQirhIf7pAH0XcQ)
-- [Neptune by Sultan &#43; Shepard](https://open.spotify.com/track/5HwJ2rVYhbrdpZqBCeUXh3)
-- [Reach The Goal by Jackarta](https://open.spotify.com/track/2j3oW7euFWjETVomsu30So)
+- [Cosmos - Alexander Volosnikov Remix by Sam Davies, Alexander Volosnikov](https://open.spotify.com/track/6sqhyfCLxOQhU80IFJfAJq)
+- [I&#39;m Not So Different by Jackarta](https://open.spotify.com/track/20NFD5lloqw2vKoKXgwLes)
+- [Something For Nothing by Boy North, MØØNE](https://open.spotify.com/track/6gVx2sRgEKxiikJsZZOnHf)
+- [Real Love by Dezza](https://open.spotify.com/track/3TGY2eZzAMnS53QbDzQ6p2)
+- [Losing Ground by Sultan &#43; Shepard, Tishmal](https://open.spotify.com/track/0VGn7T0W9DOBupPa3eZGOB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
