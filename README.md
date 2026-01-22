@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[whispem/minikv](https://github.com/whispem/minikv)** - A production-ready distributed key-value store with Raft consensus. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [All The Giants Are Sleeping by Fløa](https://open.spotify.com/track/61x5JyHWNwhsW2O4iqElhT)
-- [River Of Dreams by Kaiyan, EMBLM](https://open.spotify.com/track/6RfncGOXKpLWQLWvjBSNt7)
-- [In Your Arms by Dezza](https://open.spotify.com/track/3NoPCTKM8sYlQB42uZwisd)
-- [Legacy by Jerro, Tailor](https://open.spotify.com/track/7zaXIOG25HJ7S3dxlz0gMR)
-- [Spiral by Jack Willard](https://open.spotify.com/track/0L1VCvBXiL73HKvhwnbq9d)
+- [Losing My Mind by Anriu](https://open.spotify.com/track/6a18MRLFZuAUsaSK62FHpJ)
+- [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
+- [Breathless by Jerro, Forester](https://open.spotify.com/track/2Fk3wqvdC79jULDvNp9pji)
+- [Inertia by Hessian](https://open.spotify.com/track/1DC4WYpBda2uT0lQ3v7evG)
+- [Floating - Extended Mix by Klur](https://open.spotify.com/track/7KyxK5GxsKjuqycJCEKrMR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
