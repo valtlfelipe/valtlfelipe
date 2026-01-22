@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[whispem/minikv](https://github.com/whispem/minikv)** - A production-ready distributed key-value store with Raft consensus. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Losing My Mind by Anriu](https://open.spotify.com/track/6a18MRLFZuAUsaSK62FHpJ)
-- [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
-- [Breathless by Jerro, Forester](https://open.spotify.com/track/2Fk3wqvdC79jULDvNp9pji)
-- [Inertia by Hessian](https://open.spotify.com/track/1DC4WYpBda2uT0lQ3v7evG)
-- [Floating - Extended Mix by Klur](https://open.spotify.com/track/7KyxK5GxsKjuqycJCEKrMR)
+- [Unbound by Klur, BJOERN](https://open.spotify.com/track/0R4xuGjgy9Ok3461DMAnDf)
+- [Lost In You (Falling In Love) by Dezza](https://open.spotify.com/track/48F5ZkDe3nz2n84TG2KhAd)
+- [Tidal Heart by Kaiyan, MØØNE](https://open.spotify.com/track/5uIDY9hjkQ8z1f4OcShp7k)
+- [Herealways - Extended Mix by Jordin Post](https://open.spotify.com/track/61M5r5AWEWpF1i73Qqpsmi)
+- [Foreign Woods - Original Mix by Jerro](https://open.spotify.com/track/7G9Z2rAzYvcV4Y1uBYLBPk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
