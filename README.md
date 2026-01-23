@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen &amp; Droid in a loop until your PRD is complete. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Cloud Lifter by Sultan &#43; Shepard](https://open.spotify.com/track/2x5UeFzZPitMMSVSbkraPL)
-- [Deep, Dark &amp; Purple - Tom Middleton Remix by Jackarta, Tom Middleton](https://open.spotify.com/track/4oHRMrPD9zpVoxM9k7l0PE)
-- [Wild by Massane, Colouring](https://open.spotify.com/track/4h5lhXniHc4DjlEX3a7G0D)
-- [Get On by ANUQRAM](https://open.spotify.com/track/5san1JtdlqadtZt5qCH4UZ)
-- [Human by Boxer, RYTERBAND](https://open.spotify.com/track/7vAMtMWm1Dl45zpdH5cwwG)
+- [Morning at Olio&#39;s by Sultan &#43; Shepard](https://open.spotify.com/track/5NAL7MurDxK2Ctu0o94lfJ)
+- [Slowly by Abroad](https://open.spotify.com/track/4R2k0jJXI6KcZjUaSVCWH0)
+- [Cold Light - 6am Remix by KC Lights, Leo Stannard](https://open.spotify.com/track/6BRsln8RDWDl91YmJpCYxY)
+- [Run Away by Enamour, Aryan Saleh](https://open.spotify.com/track/5JbIeuHU4Z1TwU9zsK9QqW)
+- [Oceans by Boxer, RYTERBAND](https://open.spotify.com/track/3BwRhchKmo0BD3AjPuOseA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
