@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen &amp; Droid in a loop until your PRD is complete. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Highest Love by Sultan &#43; Shepard, LANKS](https://open.spotify.com/track/2amj2auYcmzfTLyQhMTKDr)
-- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
-- [Ocean Of Thoughts by Parallel Voices](https://open.spotify.com/track/4EIWWIrFMGqvPGFSsxBp58)
-- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
-- [Bittersweet (Tritonia 465) by Kiholm](https://open.spotify.com/track/5ZfCsX1UWTu6DTTcVIYBso)
+- [For You - Mixed by Jack Willard, Coastlines](https://open.spotify.com/track/3MKNkQGcXahv44HtItYpqE)
+- [Pray - Chris Malinchak Mix by Booka Shade, Chris Malinchak](https://open.spotify.com/track/1qCmDqc1bufbyDfujHVrvS)
+- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
+- [Need Somebody by Jerro, Lizzy Land](https://open.spotify.com/track/6KTWtfD0ciy5N3Lid45D3G)
+- [Wish You Knew by Carlita](https://open.spotify.com/track/6jhMc1AQnbzbh1dvDdV9YB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
