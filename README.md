@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen &amp; Droid in a loop until your PRD is complete. (2 days ago)
 
 #### 🎧 Spotify recent tracks
+- [We Keep Coming Back - Extended Mix by MXV, djimboh](https://open.spotify.com/track/6xkvEEBbWEf0x1uBIjh4qy)
+- [The Loved Are Never Lost by Trilucid](https://open.spotify.com/track/3WdzsAb3OzEBrQArVgrmSA)
+- [So Real by Qualysto](https://open.spotify.com/track/3F5DqndDfbqZdEETpYLrV8)
 - [The Night Knows God by Daimon Noir](https://open.spotify.com/track/38UTv5d93OLDK0GzZ1Wtd1)
 - [Hold Me Closer by Sultan &#43; Shepard](https://open.spotify.com/track/0jA4jjVsFkaJsMXBBrwlxY)
-- [Twin Souls by Luttrell](https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC)
-- [Morning at Olio&#39;s by Sultan &#43; Shepard](https://open.spotify.com/track/5NAL7MurDxK2Ctu0o94lfJ)
-- [Slowly by Abroad](https://open.spotify.com/track/4R2k0jJXI6KcZjUaSVCWH0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
