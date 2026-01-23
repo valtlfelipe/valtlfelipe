@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen &amp; Droid in a loop until your PRD is complete. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Precious Time by MXV, Yasin](https://open.spotify.com/track/7tEtQEA5Jl7oMs3pacLNTc)
-- [Lighter Than Love by Steven Weston, RHODES](https://open.spotify.com/track/5u2znCgpIX0a6Vj3tlSswE)
-- [Muse Of Mine by Westseven, Ross Farren](https://open.spotify.com/track/4BaqXzbpE5MfxkPrExKUUN)
-- [Dream With Somebody by Tinlicker](https://open.spotify.com/track/4SErnGGqWKWguljxnMNLg6)
-- [nCTRL by Sultan &#43; Shepard](https://open.spotify.com/track/1UsihyKWTyBBSDZ8t76DAj)
+- [Highest Love by Sultan &#43; Shepard, LANKS](https://open.spotify.com/track/2amj2auYcmzfTLyQhMTKDr)
+- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
+- [Ocean Of Thoughts by Parallel Voices](https://open.spotify.com/track/4EIWWIrFMGqvPGFSsxBp58)
+- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
+- [Bittersweet (Tritonia 465) by Kiholm](https://open.spotify.com/track/5ZfCsX1UWTu6DTTcVIYBso)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
