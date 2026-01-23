@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen &amp; Droid in a loop until your PRD is complete. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [For You - Mixed by Jack Willard, Coastlines](https://open.spotify.com/track/3MKNkQGcXahv44HtItYpqE)
-- [Pray - Chris Malinchak Mix by Booka Shade, Chris Malinchak](https://open.spotify.com/track/1qCmDqc1bufbyDfujHVrvS)
-- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
-- [Need Somebody by Jerro, Lizzy Land](https://open.spotify.com/track/6KTWtfD0ciy5N3Lid45D3G)
-- [Wish You Knew by Carlita](https://open.spotify.com/track/6jhMc1AQnbzbh1dvDdV9YB)
+- [For You by Jack Willard, Coastlines](https://open.spotify.com/track/6qJXWYGrzDLMS7aGIVmtkx)
+- [Freedom Of Light by Kaiyan](https://open.spotify.com/track/2wGm7LWiIRTEm6QuFl3O9g)
+- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
+- [Mouie by Jerro](https://open.spotify.com/track/2v8kyBaSjGoitS9efkl3v6)
+- [Stay (Tritonia 478) by w.ill](https://open.spotify.com/track/05LCePt75lKcRcTTsStUzk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
