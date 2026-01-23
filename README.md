@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen &amp; Droid in a loop until your PRD is complete. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Silence by Kidnap](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5)
-- [You Are My High by Sultan &#43; Shepard](https://open.spotify.com/track/6YfvJOrdzWQFAz63aeXPp4)
-- [Undertow by djimboh](https://open.spotify.com/track/3DyXBu3TBDaI1NY0CYSTrP)
-- [Revenge of the Groove by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/4R8Lk6cGMS1wm4sxGhEtPH)
-- [Blue Nights by Joseph Ray](https://open.spotify.com/track/6ib1srsXpK0EG9Dyu5MyoK)
+- [Precious Time by MXV, Yasin](https://open.spotify.com/track/7tEtQEA5Jl7oMs3pacLNTc)
+- [Lighter Than Love by Steven Weston, RHODES](https://open.spotify.com/track/5u2znCgpIX0a6Vj3tlSswE)
+- [Muse Of Mine by Westseven, Ross Farren](https://open.spotify.com/track/4BaqXzbpE5MfxkPrExKUUN)
+- [Dream With Somebody by Tinlicker](https://open.spotify.com/track/4SErnGGqWKWguljxnMNLg6)
+- [nCTRL by Sultan &#43; Shepard](https://open.spotify.com/track/1UsihyKWTyBBSDZ8t76DAj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
