@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy)** - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen &amp; Droid in a loop until your PRD is complete. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [We Keep Coming Back - Extended Mix by MXV, djimboh](https://open.spotify.com/track/6xkvEEBbWEf0x1uBIjh4qy)
-- [The Loved Are Never Lost by Trilucid](https://open.spotify.com/track/3WdzsAb3OzEBrQArVgrmSA)
-- [So Real by Qualysto](https://open.spotify.com/track/3F5DqndDfbqZdEETpYLrV8)
-- [The Night Knows God by Daimon Noir](https://open.spotify.com/track/38UTv5d93OLDK0GzZ1Wtd1)
-- [Hold Me Closer by Sultan &#43; Shepard](https://open.spotify.com/track/0jA4jjVsFkaJsMXBBrwlxY)
+- [Silence by Kidnap](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5)
+- [You Are My High by Sultan &#43; Shepard](https://open.spotify.com/track/6YfvJOrdzWQFAz63aeXPp4)
+- [Undertow by djimboh](https://open.spotify.com/track/3DyXBu3TBDaI1NY0CYSTrP)
+- [Revenge of the Groove by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/4R8Lk6cGMS1wm4sxGhEtPH)
+- [Blue Nights by Joseph Ray](https://open.spotify.com/track/6ib1srsXpK0EG9Dyu5MyoK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
