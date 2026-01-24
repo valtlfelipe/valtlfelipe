@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[timescale/pg_textsearch](https://github.com/timescale/pg_textsearch)** - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed. (2 days ago)
 
 #### 🎧 Spotify recent tracks
+- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
+- [Missing by Chris van Dutch, Crystal Rock, Felix Schorn, Natalie Major](https://open.spotify.com/track/4wlWLYAsj9UhvekTtRFVO8)
+- [Don&#39;t Let Me Down by The Chainsmokers, Daya](https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK)
 - [Disco Cone (Take It High) [ft. WENZL] by Enisa, WENZL](https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM)
 - [Heavy Metal Love by twocolors](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr)
-- [Back In Time by Freyer, Joel Winterflood](https://open.spotify.com/track/0FdVLK98RAdEoQNZnftoGh)
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
-- [The Last Goodbye (Live) by ODESZA](https://open.spotify.com/track/6y6vQOD1k3fBySGpjPmIkJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
