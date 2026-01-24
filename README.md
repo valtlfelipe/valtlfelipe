@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[skiptools/skip](https://github.com/skiptools/skip)** - Skip enables the creation of native SwiftUI apps for iOS and Android (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [When I’m Gone (with Katy Perry) by Alesso, Katy Perry](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the)
 - [Sure Thing by Impani, LU2VYK](https://open.spotify.com/track/41h0H10TYujH8h3rnPKRmN)
 - [Like Home by Robby East](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A)
 - [All My Light - Extended Mix by Boy North](https://open.spotify.com/track/0Ver2M9ACOsKQemaEAYCft)
 - [For You by Jack Willard, Coastlines](https://open.spotify.com/track/6qJXWYGrzDLMS7aGIVmtkx)
-- [Freedom Of Light by Kaiyan](https://open.spotify.com/track/2wGm7LWiIRTEm6QuFl3O9g)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
