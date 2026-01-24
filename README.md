@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[fayazara/bucketdrop](https://github.com/fayazara/bucketdrop)** - BucketDrop is a tiny, open-source menu bar app for uploading files to your own S3-compatible storage.  No dashboards. No syncing folders. No vendor lock-in.  Just drop a file and get a shareable URL instantly. (1 day ago)
 
 #### 🎧 Spotify recent tracks
+- [Habits (Stay High) - The Chainsmokers Extended Mix by Tove Lo, The Chainsmokers](https://open.spotify.com/track/7lxKUx67JrEoxjayHCb0Xr)
 - [Sunrise - Nick Endhem Remix by STIGM4N, Nick Endhem](https://open.spotify.com/track/76qa8en8JhPmQEn2rXvsg7)
 - [Pumped Up - Ryan Riback Remix by Klingande, Ryan Riback](https://open.spotify.com/track/4DWSl33tt6k4H4Unj7YWs5)
 - [Spotlight by Ohh no!](https://open.spotify.com/track/2WsE1QSxM7SdRYVNeeJeZa)
 - [Need U by Dallerium](https://open.spotify.com/track/16f328vvR2PtDqNfd4BIV8)
-- [The Stars Are Mine by Chocolate Puma, Pep &amp; Rash](https://open.spotify.com/track/0qF7Piw3F3mLJ1ni5Iw0bb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
