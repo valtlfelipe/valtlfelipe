@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[timescale/pg_textsearch](https://github.com/timescale/pg_textsearch)** - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed. (2 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Body Talk by Ofenbach, SVEA](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN)
+- [Say So by Doja Cat](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ)
+- [Forever Baby by Carlita, Janet Planet](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo)
+- [Feel It by Cupidon, Milaa](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH)
 - [Some Say - Felix Jaehn Remix by Nea, Felix Jaehn](https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv)
-- [Big Energy by Latto](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT)
-- [Never Walk Alone by BLOND:ISH, Stevie Appleton](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz)
-- [Giant (with Rag&#39;n&#39;Bone Man) by Calvin Harris, Rag&#39;n&#39;Bone Man](https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd)
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
