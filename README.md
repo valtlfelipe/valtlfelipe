@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[fayazara/bucketdrop](https://github.com/fayazara/bucketdrop)** - BucketDrop is a tiny, open-source menu bar app for uploading files to your own S3-compatible storage.  No dashboards. No syncing folders. No vendor lock-in.  Just drop a file and get a shareable URL instantly. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Something Just Like This by The Chainsmokers, Coldplay](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH)
-- [Scatman (ski-ba-bop-ba-dop-bop) by Scatman John](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh)
-- [Give Me Everything (feat. Nayer) by Pitbull, AFROJACK, Ne-Yo, Nayer](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W)
-- [Cruel by GATTÜSO, Love Harder](https://open.spotify.com/track/7APMZM7jg1CNlxmQANjSGc)
-- [Lion (In My Head) by MOTi](https://open.spotify.com/track/1GCGWEVekX5WGgfEByDGKE)
+- [On Top Of The World by Imagine Dragons](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w)
+- [Sex by Cheat Codes, Kris Kross Amsterdam](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0)
+- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
+- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
+- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
