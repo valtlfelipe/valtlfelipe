@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[fayazara/bucketdrop](https://github.com/fayazara/bucketdrop)** - BucketDrop is a tiny, open-source menu bar app for uploading files to your own S3-compatible storage.  No dashboards. No syncing folders. No vendor lock-in.  Just drop a file and get a shareable URL instantly. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [World Hold On (Children of the Sky) - Radio Edit by Bob Sinclar, Steve Edwards](https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti)
-- [On Top Of The World by Imagine Dragons](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w)
-- [Sex by Cheat Codes, Kris Kross Amsterdam](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0)
-- [Jackie Chan by Tiësto, Dzeko, Preme, Post Malone](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp)
-- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
+- [The Letter by Chris Malinchak](https://open.spotify.com/track/52PEMnAiQbYGnxBCHQTF5E)
+- [Underwater by Mondingo](https://open.spotify.com/track/3gx7yQg1NJFlp8smFw4hmM)
+- [Gorongosa by OKASSUS, Hexlogic](https://open.spotify.com/track/6YUDQr2aoeFJrf9VkhJeAt)
+- [Faded Dreams by Baan Sabai, Johannes Jungleson](https://open.spotify.com/track/27p1TpBvBCkmOAK5Ay7o16)
+- [Give Into You (Henry Green Remix) by yuraa, Henry Green](https://open.spotify.com/track/78yjphRBGMLqtASBuNBN4X)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
