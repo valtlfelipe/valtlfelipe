@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[fayazara/bucketdrop](https://github.com/fayazara/bucketdrop)** - BucketDrop is a tiny, open-source menu bar app for uploading files to your own S3-compatible storage.  No dashboards. No syncing folders. No vendor lock-in.  Just drop a file and get a shareable URL instantly. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [see you by Emi Navarro](https://open.spotify.com/track/1h7lwqGgphkZTnxw0J1U3k)
-- [This Moment With You - Abakus Remix by Cinnamon Chasers, Abakus](https://open.spotify.com/track/4gkY5fUCzXZxvV7c6DGcUF)
-- [Made For Each Other - Extended Mix by Clér Letiv](https://open.spotify.com/track/7oOE5x6gtFt5jfu8Iwv91s)
-- [Steps on Water by Mar Vei](https://open.spotify.com/track/125n10fByRjOOrOpAFQmDE)
-- [In Time by Matteo Cole](https://open.spotify.com/track/5kEfG4oWMHLiugnA9oLuLi)
+- [One More Time Tonight by Daimon Noir](https://open.spotify.com/track/1QxwzW5gIyuuY0J72sVdIX)
+- [Lido by Midnight Pass](https://open.spotify.com/track/6yjmDghIrQBpxl8H2rmcmh)
+- [There For Me by Klaverson](https://open.spotify.com/track/3nLrmAYROQK0LQMaTwgCLR)
+- [Ride - Tiësto Remix by Cary Brothers, Tiësto](https://open.spotify.com/track/6mQtk93728MAVquRoaJT0j)
+- [Come My Way by Blue Noir, Lipless](https://open.spotify.com/track/65Sz16dwo2wozRfkmjDEyc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
