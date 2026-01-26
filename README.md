@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[UserOrient/userorient-flutter](https://github.com/UserOrient/userorient-flutter)** - 💬 User feedback SDK for Flutter (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [A White Dream by Stendahl](https://open.spotify.com/track/5s0dawL7Xg6yw9waYW9YyG)
-- [One More Time Tonight by Daimon Noir](https://open.spotify.com/track/1QxwzW5gIyuuY0J72sVdIX)
-- [Lido by Midnight Pass](https://open.spotify.com/track/6yjmDghIrQBpxl8H2rmcmh)
-- [There For Me by Klaverson](https://open.spotify.com/track/3nLrmAYROQK0LQMaTwgCLR)
-- [Ride - Tiësto Remix by Cary Brothers, Tiësto](https://open.spotify.com/track/6mQtk93728MAVquRoaJT0j)
+- [Dancing through life by Café](https://open.spotify.com/track/3QpqVDlmOhiGthBGubIWi3)
+- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
+- [Coda - Original Mix by André Sobota](https://open.spotify.com/track/6RQlVchbYCFS8167QTxHz0)
+- [Run - Sultan &#43; Shepard Remix by Lane 8, Kasablanca, Sultan &#43; Shepard](https://open.spotify.com/track/2cGYvbK5vDrtgBn1VeH9xa)
+- [Crash - Original Mix by Chris Malinchak](https://open.spotify.com/track/3qNYkFSeL9Sd43XYaMVRXO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
