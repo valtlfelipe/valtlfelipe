@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[UserOrient/userorient-flutter](https://github.com/UserOrient/userorient-flutter)** - 💬 User feedback SDK for Flutter (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Little Voices by Lane 8](https://open.spotify.com/track/2Y6tsWU7hFsEa4MnjSQDay)
-- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
-- [Running by Parallel Voices](https://open.spotify.com/track/5bukDgowMSuWxKrHNcP7kt)
-- [some thoughts by attic pulse](https://open.spotify.com/track/6VXMy1sH4hMvFo5f4dvPii)
-- [Nostalgia by Melosense](https://open.spotify.com/track/0Vtwa1eRykSFTGXbDBq7d2)
+- [Love Me Better by 6sept](https://open.spotify.com/track/18B5MObyYFZOGAzvwioIlr)
+- [Fine Line by Solayne, Nina Carr](https://open.spotify.com/track/1Zs00RxHcTA6BhoGSm7tI0)
+- [Prism by Shingo Nakamura](https://open.spotify.com/track/2pe5RNLEYPdrDHV4MAO8QD)
+- [Shed My Skin by Naws](https://open.spotify.com/track/20GcLtgqFdjQIPOQ9LtLiV)
+- [Dapple by Jody Wisternoff, James Grant](https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
