@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[UserOrient/userorient-flutter](https://github.com/UserOrient/userorient-flutter)** - 💬 User feedback SDK for Flutter (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Little Voices by Lane 8](https://open.spotify.com/track/2Y6tsWU7hFsEa4MnjSQDay)
+- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
+- [Running by Parallel Voices](https://open.spotify.com/track/5bukDgowMSuWxKrHNcP7kt)
+- [some thoughts by attic pulse](https://open.spotify.com/track/6VXMy1sH4hMvFo5f4dvPii)
 - [Nostalgia by Melosense](https://open.spotify.com/track/0Vtwa1eRykSFTGXbDBq7d2)
-- [Hope by Chris Malinchak](https://open.spotify.com/track/2i0RS0LplpCoyIV3wvT1DE)
-- [Change of Driver by Falden, PEARL](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x)
-- [Herealways by Jordin Post](https://open.spotify.com/track/4gbMgmhUXyALxtSzDqwngF)
-- [The Rope (feat. POLIÇA) by Lane 8](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
