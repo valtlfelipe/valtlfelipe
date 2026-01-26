@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[UserOrient/userorient-flutter](https://github.com/UserOrient/userorient-flutter)** - 💬 User feedback SDK for Flutter (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Love Me Better by 6sept](https://open.spotify.com/track/18B5MObyYFZOGAzvwioIlr)
-- [Fine Line by Solayne, Nina Carr](https://open.spotify.com/track/1Zs00RxHcTA6BhoGSm7tI0)
-- [Prism by Shingo Nakamura](https://open.spotify.com/track/2pe5RNLEYPdrDHV4MAO8QD)
-- [Shed My Skin by Naws](https://open.spotify.com/track/20GcLtgqFdjQIPOQ9LtLiV)
-- [Dapple by Jody Wisternoff, James Grant](https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m)
+- [Still by Parallel Voices](https://open.spotify.com/track/0geU6xmEUcLBxOXSc2yntJ)
+- [Just by Lane 8](https://open.spotify.com/track/6BHx1NCBASduR31WNTzm5S)
+- [The Next Day by Chris Malinchak](https://open.spotify.com/track/4rEKJH0DOdQdGTndQXxx4O)
+- [Keep On It by Mar Vei](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ)
+- [First Breath by Stendahl](https://open.spotify.com/track/0UdWJUzZoenu4V03q2luZ6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
