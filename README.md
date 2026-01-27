@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Nosso Primeiro Beijo - Ao Vivo by Gloria Groove](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e)
-- [Brinda Aê - Ao Vivo by Grupo Menos É Mais](https://open.spotify.com/track/03Xt1TTim0FhR5fS48DLhE)
-- [Degradê - Ao Vivo by Xande de Pilares, Ferrugem](https://open.spotify.com/track/6GYTlakLY14kQ0lyvJ1IXt)
-- [Suposto Namorado - Ao Vivo by Turma do Pagode, Dilsinho, Kamisa 10](https://open.spotify.com/track/2U3oR7BF3c1qKdm2G4RY2Y)
-- [A Pagodeira - Ao Vivo by Marvvila, Pk, Mc Don Juan](https://open.spotify.com/track/2nNxtJ8Ce702sXXbVBwvW6)
+- [Não Te Mereço by Vitinho](https://open.spotify.com/track/1jjpREr7VVD0z1EOyXQNaz)
+- [Não Volta Pra Mim - Ao Vivo by Yan, Ferrugem](https://open.spotify.com/track/03AFW2unDBhYoTEOuX7oeu)
+- [Como Nunca Amei Ninguém / Por Tão Pouco - Ao Vivo by Thiaguinho, Sorriso Maroto](https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM)
+- [A Fila Anda - Ao Vivo by Grupo Revelação](https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI)
+- [Pedindo a Conta - Ao Vivo by Turma do Pagode, Zeca Pagodinho](https://open.spotify.com/track/5xLvGCVembLRg5jt1NlDEo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
