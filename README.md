@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI)** - Fast, AI-agent friendly CLI for App Store Connect. Ship apps with zero friction. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [All Night Long by Marsh](https://open.spotify.com/track/1dVOnNVLfZ4LgCM2eDr97M)
-- [Kochi by Sultan &#43; Shepard](https://open.spotify.com/track/3qda6E8ABSxAXfyxQtdtwF)
-- [It’s Only - ODESZA VIP Remix by ODESZA, Zyra](https://open.spotify.com/track/2XyNLoEWc4IDt9OVzXZUXl)
-- [Wandering Nights by DJ San](https://open.spotify.com/track/6MhG1NtHedKyWUZWGtixxI)
-- [Just One Way by Into The Ether](https://open.spotify.com/track/3QBnsAHwmmRdOqH7bzidRs)
+- [Here She Comes by Jackarta](https://open.spotify.com/track/5kndIH4oFIzwcoRCjbbx4W)
+- [All My Light by Boy North](https://open.spotify.com/track/0IaepkGvzAExMFiTF8GktU)
+- [Your Eyes by Marsh, Jesse Bullitt](https://open.spotify.com/track/1zHcd0XUVS1c8z8Uo2Jm3I)
+- [Making Time by Sultan &#43; Shepard, Julia Church](https://open.spotify.com/track/4hIj1YNfEdcYnYawKK0eYd)
+- [Higher Ground by ODESZA, Naomi Wild](https://open.spotify.com/track/7KT7VGnPU5QVXN3q1BOeqb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
