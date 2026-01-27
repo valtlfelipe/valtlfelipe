@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI)** - Fast, AI-agent friendly CLI for App Store Connect. Ship apps with zero friction. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [One Last Touch by Hessian, LAR, Keepa](https://open.spotify.com/track/110op23Y2YOaK04f7ahX26)
-- [Finder by Catching Shapes](https://open.spotify.com/track/5YbAUeEr2CuZRmOkPVQK3w)
-- [Time by Carlita](https://open.spotify.com/track/0IAIsE9u9AYUH3wh7p77AE)
-- [Disconnected by Naws](https://open.spotify.com/track/0eJ49tSWSKBQ43BZ3YpyMe)
-- [Oceans by Way Out West, Liu Bei](https://open.spotify.com/track/4F5NCtrFqzN9Id0Bwuclhq)
+- [Need Your Loving by Joseph Ray](https://open.spotify.com/track/6Z9KUjMaDWnOSNhke0thx1)
+- [The Dawn by Naws](https://open.spotify.com/track/1Mw2LooDwgN2Sxosd0Gec7)
+- [Fading by Nicky Elisabeth](https://open.spotify.com/track/5jTYU9OBdvE98Q6kOJiCXe)
+- [Stay There by Tonic Walter](https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk)
+- [Drift by Parallel Voices](https://open.spotify.com/track/0YRDA2Q6YbsjEQmNqHOnDK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
