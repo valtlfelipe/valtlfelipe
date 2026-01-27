@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (today)
-- **[bugsink/bugsink](https://github.com/bugsink/bugsink)** - Self-hosted Error Tracking  (2 days ago)
-- **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (2 days ago)
-- **[rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI)** - Fast, AI-agent friendly CLI for App Store Connect. Ship apps with zero friction. (3 days ago)
-- **[UserOrient/userorient-flutter](https://github.com/UserOrient/userorient-flutter)** - 💬 User feedback SDK for Flutter (3 days ago)
+- **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (1 day ago)
+- **[bugsink/bugsink](https://github.com/bugsink/bugsink)** - Self-hosted Error Tracking  (3 days ago)
+- **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (3 days ago)
+- **[rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI)** - Fast, AI-agent friendly CLI for App Store Connect. Ship apps with zero friction. (4 days ago)
+- **[UserOrient/userorient-flutter](https://github.com/UserOrient/userorient-flutter)** - 💬 User feedback SDK for Flutter (4 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Still by Parallel Voices](https://open.spotify.com/track/0geU6xmEUcLBxOXSc2yntJ)
