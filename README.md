@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [New Love by Le Youth, Sultan &#43; Shepard, Panama](https://open.spotify.com/track/7CAsrtI5Df8ZOrKZ2ImrVO)
-- [All That Remains by Sultan &#43; Shepard, Fractures](https://open.spotify.com/track/3vc44TMyfQeVqACtMZFJOu)
-- [Alone by Lipless, Blue Noir](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln)
-- [Magnolia by Elypsis, Hausman](https://open.spotify.com/track/1WipkHdrUW9L5s8BSfey0y)
-- [In The Shadows by zaccwithtwocs](https://open.spotify.com/track/53uXAhOrn5Q0lMcjVa6CXv)
+- [Praying To A God - LUKE Remix by Mr. Probz, LUKE](https://open.spotify.com/track/4qB9e24mvDa5rG93OnmiC8)
+- [Petrichor by Klangkarussell, GIVVEN](https://open.spotify.com/track/5lxeVP8PI8jkZ8vXD0qxWT)
+- [You Were Right by RÜFÜS DU SOL](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/1YexFEloUaShjmXGE0iPR1)
+- [Shots - Broiler Remix by Imagine Dragons, Broiler](https://open.spotify.com/track/0fsEFwLSJTSHSawhe864Cp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
