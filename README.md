@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
-- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
-- [The Veldt Cinema - BYNX Edit by deadmau5, Benny Benassi, Gary Go, BYNX](https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB)
-- [I Only Smoke When I Drink by nimino](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR)
-- [Ease My Mind by Chris Lake, Abel Balder](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk)
+- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
+- [Sonnentanz - Sun Don&#39;t Shine by Klangkarussell, Will Heard](https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f)
+- [Ocean Drive by Duke Dumont](https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP)
+- [Rhythm (Of The Night) by Something Good, YOTTO](https://open.spotify.com/track/2a8ozWMspmoaqM44oHeCRo)
+- [Road by Lane 8, Arctic Lake](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
