@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Maithori by Nitefreak, Frigid Armadillo, IDRIS, Nes Mburu](https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7)
-- [Bilmirem by Ilkay Sencan, Metty](https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ)
-- [It Feels So Good - Jamy Nox Remix by Matt Sassari, HUGEL, Sonique, Jamy Nox](https://open.spotify.com/track/4o1t8bOiuHwjijH2b0LrmA)
-- [Wale Wale (feat. Sofiya Nzau) [WITH U Remix Radio Edit] by TRESOR, WITH U, Sofiya Nzau](https://open.spotify.com/track/3wgC5bBD5Iq8iEubEBkqZx)
-- [Isaka (6am) &amp;friends Mix - In Beirut by CIZA, &amp;friends, Thukuthela](https://open.spotify.com/track/5cEd5LzzWeutQ4em2YzHyR)
+- [Khanya by Naarly, ANT Mifsud, Thabza De Soul](https://open.spotify.com/track/7IrgLdwrCGhPpyIhFNRHYo)
+- [The Less I Know The Better by Mau P](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY)
+- [Jackie B by &amp;friends, JOSEPH (CH), Brent Faiyaz](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa)
+- [You Are by LP Giobbi](https://open.spotify.com/track/7xwHG2xruveDvwHnj8kZon)
+- [Edge of Desire by Jonas Blue, Malive](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
