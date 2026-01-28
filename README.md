@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Más o Menos by lloom](https://open.spotify.com/track/6z0XkSusMgnyMKs4gCEtqm)
-- [Subtle by cocabona, less.people](https://open.spotify.com/track/2wk7OrOd1tl0dfgUaDO1eG)
-- [Stand Alone Complex by Flitz&amp;Suppe](https://open.spotify.com/track/0XIEF0lCZEkNrMOsthrI8p)
-- [Childhood by chromo, the dreamer](https://open.spotify.com/track/4rolBdZzbFYX9UsoKQl0uI)
-- [backflip by Philanthrope, bert cussion](https://open.spotify.com/track/4Ngxra65EnIDDwuT6JS8Cu)
+- [Older by Mac Kay](https://open.spotify.com/track/0lVw4MC6mglmxaC6gZAzni)
+- [Looming by Birocratic, Dotlights](https://open.spotify.com/track/7HSbTmUjROd5iOHkWkNhQq)
+- [Over Skies by Aves](https://open.spotify.com/track/61QLC6tn5Gxf2pgQgySQvw)
+- [Iced Coffee by Nymano, Zeyn](https://open.spotify.com/track/2EA8NtuiXnBC59okDdcOEi)
+- [Introvert by ØDYSSEE, Florent Garcia, Dosi](https://open.spotify.com/track/1GPpNH1Qnvqrinx4VayNbm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
