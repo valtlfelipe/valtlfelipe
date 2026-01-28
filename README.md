@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Weak by Vintage Culture, Maverick Sabre, Tom Breu](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA)
-- [Sonnentanz - Sun Don&#39;t Shine by Klangkarussell, Will Heard](https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f)
-- [Ocean Drive by Duke Dumont](https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP)
-- [Rhythm (Of The Night) by Something Good, YOTTO](https://open.spotify.com/track/2a8ozWMspmoaqM44oHeCRo)
-- [Road by Lane 8, Arctic Lake](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d)
+- [Waves - Robin Schulz Radio Edit by Mr. Probz, Robin Schulz](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs)
+- [There She Goes by CYRIL, MOONLGHT, The La&#39;s](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7)
+- [Stay by FISHER](https://open.spotify.com/track/74y1VgzL668hynrvA59WQB)
+- [Hypnotized by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/0HNDr5c2IOIvfe8DPwjVO9)
+- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
