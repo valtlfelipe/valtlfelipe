@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Khanya by Naarly, ANT Mifsud, Thabza De Soul](https://open.spotify.com/track/7IrgLdwrCGhPpyIhFNRHYo)
-- [The Less I Know The Better by Mau P](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY)
-- [Jackie B by &amp;friends, JOSEPH (CH), Brent Faiyaz](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa)
-- [You Are by LP Giobbi](https://open.spotify.com/track/7xwHG2xruveDvwHnj8kZon)
-- [Edge of Desire by Jonas Blue, Malive](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT)
+- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [The Veldt Cinema - BYNX Edit by deadmau5, Benny Benassi, Gary Go, BYNX](https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB)
+- [I Only Smoke When I Drink by nimino](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR)
+- [Ease My Mind by Chris Lake, Abel Balder](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
