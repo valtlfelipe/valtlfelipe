@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Kumbaya by Zerb, Sofiya Nzau, Izzy Bizu](https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY)
-- [Sauti by Francis Mercier, Faul &amp; Wad, African Children&#39;s Choir](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz)
-- [Everywhere I Go by Vidojean X Oliver Loenn](https://open.spotify.com/track/2bVWX3FQDrlJGMPXKDmwzh)
-- [How You Feel (ft Leven Kali) by ANOTR, Leven Kali, Erik Bandt](https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL)
-- [Mess Around (Baby Baby) by Rivo, Jaquet](https://open.spotify.com/track/1Jht2fusiIuJo0KRvjUizH)
+- [Maithori by Nitefreak, Frigid Armadillo, IDRIS, Nes Mburu](https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7)
+- [Bilmirem by Ilkay Sencan, Metty](https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ)
+- [It Feels So Good - Jamy Nox Remix by Matt Sassari, HUGEL, Sonique, Jamy Nox](https://open.spotify.com/track/4o1t8bOiuHwjijH2b0LrmA)
+- [Wale Wale (feat. Sofiya Nzau) [WITH U Remix Radio Edit] by TRESOR, WITH U, Sofiya Nzau](https://open.spotify.com/track/3wgC5bBD5Iq8iEubEBkqZx)
+- [Isaka (6am) &amp;friends Mix - In Beirut by CIZA, &amp;friends, Thukuthela](https://open.spotify.com/track/5cEd5LzzWeutQ4em2YzHyR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
