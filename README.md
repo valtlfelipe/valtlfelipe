@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Alive by WITH U, Albert Breaker, mohalizer](https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8)
-- [Kongo - Hanî&#39;s remix by Kolinga, HANÎ](https://open.spotify.com/track/2nXgPf5BCRRuOdcF44CxQU)
-- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ)
-- [The Rapture Pt.III by &amp;ME, Black Coffee, Keinemusik](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn)
-- [Kimbara by Barry Can&#39;t Swim](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk)
+- [Kumbaya by Zerb, Sofiya Nzau, Izzy Bizu](https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY)
+- [Sauti by Francis Mercier, Faul &amp; Wad, African Children&#39;s Choir](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz)
+- [Everywhere I Go by Vidojean X Oliver Loenn](https://open.spotify.com/track/2bVWX3FQDrlJGMPXKDmwzh)
+- [How You Feel (ft Leven Kali) by ANOTR, Leven Kali, Erik Bandt](https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL)
+- [Mess Around (Baby Baby) by Rivo, Jaquet](https://open.spotify.com/track/1Jht2fusiIuJo0KRvjUizH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
