@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Relax My Eyes by ANOTR, Abel Balder](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH)
-- [Akasha by THEMBA, Double Touch](https://open.spotify.com/track/6DWdME78eFV3pNa7JKUHIM)
-- [Gorah by Nitefreak, Emmanuel Jal](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj)
-- [Her Eyes by Charlie Jeer](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B)
-- [Return to Oz - ARTBAT Remix by Monolink, ARTBAT](https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1)
+- [Alive by WITH U, Albert Breaker, mohalizer](https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8)
+- [Kongo - Hanî&#39;s remix by Kolinga, HANÎ](https://open.spotify.com/track/2nXgPf5BCRRuOdcF44CxQU)
+- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ)
+- [The Rapture Pt.III by &amp;ME, Black Coffee, Keinemusik](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn)
+- [Kimbara by Barry Can&#39;t Swim](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
