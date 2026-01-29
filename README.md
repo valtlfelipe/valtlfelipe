@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Winter in Patagonia by Mr Slipz](https://open.spotify.com/track/3TK2umiWm0mOnZ7rp7NBJj)
-- [Red Sun Skyline by Birocratic, Yuichiro Kato](https://open.spotify.com/track/5fTKXur44p8SDAfNz7ZBLY)
-- [Dream Travel by No Spirit](https://open.spotify.com/track/54Acfr6tMZy03WC9i80Raz)
-- [Yesterday’s News by Enluv, if only](https://open.spotify.com/track/5TYW96R5zXJgF4d3ZHDFhX)
-- [Paper windows and distant suns by Pueblo Vista, Modranicht](https://open.spotify.com/track/3mYqAqVkI6te41LmQ6554f)
+- [I Don’t Want Love - Moose Dawa Remix by Psalm Trees, ALEXANDER, Moose Dawa](https://open.spotify.com/track/0I1KVmYeOdJHvMnm2EC57u)
+- [Blueskybounce by Enluv, Felty, azula](https://open.spotify.com/track/2glXCSv7gjy1LYnKdjVRbo)
+- [Afternoon Rays by CMJ](https://open.spotify.com/track/0qZ2aVQ8XIjM1mxXx9dA4y)
+- [Meadow Terrain by Mama Aiuto](https://open.spotify.com/track/0AX79mOMJgKWpDujiNKVY9)
+- [Hope by Louddaaa](https://open.spotify.com/track/4YiCmf9l32p2ebbBzCTjdu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
