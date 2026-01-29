@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Disconnection - Radio Edit by Jake Silva, Frankie Sims](https://open.spotify.com/track/31sWBZlGUn3hjR7cxJ2Ts7)
-- [Radio Ga Ga by DJ Jurij, Salvo Bruno](https://open.spotify.com/track/1syUFiBpBVkoESyzpTfEYI)
-- [When Time Passes By by Ron van den Beuken, Tom Pulse, Martin Sola](https://open.spotify.com/track/0HEnlpAK1y0nMZCXbTTFNR)
-- [Feel It by PINKFISH](https://open.spotify.com/track/5aEc0pIHvBrz8L8pKVarVK)
-- [Kisses (feat. bbyclose) by BL3SS, CamrinWatsin, bbyclose](https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA)
+- [random thoughts by softclouds](https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC)
+- [Echo by Indigo Songs](https://open.spotify.com/track/0o5ia9lVUQ0Prp6cJygjA4)
+- [untangled by bax iv](https://open.spotify.com/track/6TVxYnAVr3jDo9J71rvVMF)
+- [The City by Audio Phill](https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin)
+- [Hopes n&#39; Lusts by Wezley Wiz](https://open.spotify.com/track/2qi8vHk6pTOB5mbOPd8TlS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
