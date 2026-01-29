@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Waterfalls (feat. Sam Harper &amp; Bobby Harvey) by James Hype, Sam Harper, Bobby Harvey](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3)
-- [Never Let You Go by Rosers, Next Promises](https://open.spotify.com/track/5E2r8DJO53ry8gI49yzDgr)
-- [Bad Days by YYVON](https://open.spotify.com/track/5x6VcHpdyBzwRYh88bkFQb)
-- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
-- [Let The Music Take Control by PINKFISH](https://open.spotify.com/track/4pvoOCoh4uhBGcMEdHQ3kP)
+- [Walking Disaster - Radio Edit by Farzin Salehi](https://open.spotify.com/track/3fsLL5eZgq413cMr3J3HQy)
+- [Beat Of My Heart - Xavi Mundo &amp; Bosque Remix by Ian Storm, Bosque, Xavi Mundo, Martina Prskalo](https://open.spotify.com/track/6bXZTVsyPDguHpn0cRiOnP)
+- [Someone To Love by Blrrdpctrs](https://open.spotify.com/track/1qXr6WBNnAyGzaEdDSOhfK)
+- [Feels Right by Aresta](https://open.spotify.com/track/4EvK0MGG9jgJUIYoosPeix)
+- [Alive by MELØ](https://open.spotify.com/track/4u2gyjVlLYkwEcqWeJfNWN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
