@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Wonderless by Wondamagik, less.people](https://open.spotify.com/track/6V91AKLoEEtnpldTjatDX0)
-- [Astro Belts by Mr Slipz](https://open.spotify.com/track/2e4BERMX6eEJiVVLbHk8dt)
-- [Backup Dancer by Dotlights](https://open.spotify.com/track/3dsLzKvmUadApf4IZrtdlZ)
-- [Loaf by Nokiaa, Molly McPhaul](https://open.spotify.com/track/334Q3LeId0AylSzftSwBEj)
-- [Legacy by Rose Noir](https://open.spotify.com/track/3JvovCbbqkvK4iqH1TWX5D)
+- [Waterfalls (feat. Sam Harper &amp; Bobby Harvey) by James Hype, Sam Harper, Bobby Harvey](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3)
+- [Never Let You Go by Rosers, Next Promises](https://open.spotify.com/track/5E2r8DJO53ry8gI49yzDgr)
+- [Bad Days by YYVON](https://open.spotify.com/track/5x6VcHpdyBzwRYh88bkFQb)
+- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
+- [Let The Music Take Control by PINKFISH](https://open.spotify.com/track/4pvoOCoh4uhBGcMEdHQ3kP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
