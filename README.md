@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Soulmate by Leavv](https://open.spotify.com/track/7j3MxJStHHyMvFIBT8i9gp)
-- [Not a Ghost by Enluv](https://open.spotify.com/track/2biJdNz7XoWsO5v0rUcR6a)
-- [The Good News by Bao, Packed Rich](https://open.spotify.com/track/6gEbzTcH1gO1Bs1Mce1N8c)
-- [Cosmic Gumbo by Ian Ewing](https://open.spotify.com/track/1CKjKN8SaHDUthPgoqHuSf)
-- [Teehee by G Mills, Guillaume Muschalle, Loyae](https://open.spotify.com/track/43ZRwrAgaekRkDzIyyiTJ6)
+- [Wherever You Are by DESH](https://open.spotify.com/track/5O598vz5kl36tXEW0l3hKV)
+- [Snowhere by invention_](https://open.spotify.com/track/5F2SQFpiN9jsI0Y3N7lQJ9)
+- [High Beams by Kreatev, 88JAY, Dotlights](https://open.spotify.com/track/79Y1o5XuU0A1qITN4OcsnO)
+- [Lucia by Ben Bada Boom, Magnole](https://open.spotify.com/track/2AJsAeMwLYvgepM9XH5pce)
+- [Dockers by ØDYSSEE](https://open.spotify.com/track/7t9J9tsYOmjwmojxCE5Re7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
