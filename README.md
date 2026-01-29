@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [I Don’t Want Love - Moose Dawa Remix by Psalm Trees, ALEXANDER, Moose Dawa](https://open.spotify.com/track/0I1KVmYeOdJHvMnm2EC57u)
-- [Blueskybounce by Enluv, Felty, azula](https://open.spotify.com/track/2glXCSv7gjy1LYnKdjVRbo)
-- [Afternoon Rays by CMJ](https://open.spotify.com/track/0qZ2aVQ8XIjM1mxXx9dA4y)
-- [Meadow Terrain by Mama Aiuto](https://open.spotify.com/track/0AX79mOMJgKWpDujiNKVY9)
-- [Hope by Louddaaa](https://open.spotify.com/track/4YiCmf9l32p2ebbBzCTjdu)
+- [Handlebars by Enluv, Felty](https://open.spotify.com/track/3cdhjqvYpZwrQODz5zvT9L)
+- [Moon Jump by Enough Cereals](https://open.spotify.com/track/1elmvI5rriVG8i0AKqyA10)
+- [Window Views by Flitz&amp;Suppe, AK420](https://open.spotify.com/track/0Skh8GTEf25okaSTjbUQGP)
+- [Frostbite Funk by Ben Bada Boom](https://open.spotify.com/track/00AFbOaCJW5xtbGgKN5rtY)
+- [I Don’t Want Love - SwuM Remix by Psalm Trees, ALEXANDER, SwuM](https://open.spotify.com/track/7BdUbHTfVwu2d6v9kM8VI1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
