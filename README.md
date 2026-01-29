@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/fastmail-cli](https://github.com/marckohlbrugge/fastmail-cli)** - A command-line interface for Fastmail (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Walking Disaster - Radio Edit by Farzin Salehi](https://open.spotify.com/track/3fsLL5eZgq413cMr3J3HQy)
-- [Beat Of My Heart - Xavi Mundo &amp; Bosque Remix by Ian Storm, Bosque, Xavi Mundo, Martina Prskalo](https://open.spotify.com/track/6bXZTVsyPDguHpn0cRiOnP)
-- [Someone To Love by Blrrdpctrs](https://open.spotify.com/track/1qXr6WBNnAyGzaEdDSOhfK)
-- [Feels Right by Aresta](https://open.spotify.com/track/4EvK0MGG9jgJUIYoosPeix)
-- [Alive by MELØ](https://open.spotify.com/track/4u2gyjVlLYkwEcqWeJfNWN)
+- [Disconnection - Radio Edit by Jake Silva, Frankie Sims](https://open.spotify.com/track/31sWBZlGUn3hjR7cxJ2Ts7)
+- [Radio Ga Ga by DJ Jurij, Salvo Bruno](https://open.spotify.com/track/1syUFiBpBVkoESyzpTfEYI)
+- [When Time Passes By by Ron van den Beuken, Tom Pulse, Martin Sola](https://open.spotify.com/track/0HEnlpAK1y0nMZCXbTTFNR)
+- [Feel It by PINKFISH](https://open.spotify.com/track/5aEc0pIHvBrz8L8pKVarVK)
+- [Kisses (feat. bbyclose) by BL3SS, CamrinWatsin, bbyclose](https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
