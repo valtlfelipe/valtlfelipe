@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Last One by Psalm Trees, ALEXANDER](https://open.spotify.com/track/7n5P1ExneFol47pUwnSflT)
-- [Dry Leaves by Sweeps, luv pug, Strehlow, 9ICK](https://open.spotify.com/track/7tVNXMv1ImQQhDYFBTCXry)
-- [New Beginnings by Kissamilé](https://open.spotify.com/track/5SU578sKenTuzfMAlU1CuS)
-- [Heading South by No Spirit, Casiio](https://open.spotify.com/track/7vsRbJaUe05rF7eOnA3lVj)
-- [That Time by dennisivnvc, Dani Catalá](https://open.spotify.com/track/0UUPjZtkxTkkW9QeQa0Zql)
+- [Ghost of You by Ward Wills](https://open.spotify.com/track/5Wpi8tCgeMWGqGMy7xzyEF)
+- [Friends by Arbour, G Mills](https://open.spotify.com/track/54g9vSSeYtL5LIS1r9Hasr)
+- [Ghostrunner by Flitz&amp;Suppe, Nuncc](https://open.spotify.com/track/03vfGdX4OIKszTqL1NHByD)
+- [Fireplace by King I Divine](https://open.spotify.com/track/5881TQDQUdKqJawqOBrsvd)
+- [Dumbar by Parkbench Epiphany](https://open.spotify.com/track/71CCMWhoXWVC5QZjgj6HrY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
