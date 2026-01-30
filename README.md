@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Seu Trio by Psalm Trees, ALEXANDER](https://open.spotify.com/track/3xsz2b415CeKhFaHRoOiYt)
-- [When All I Heard Was Artifacts by Psalm Trees, ALEXANDER](https://open.spotify.com/track/1PrJw8ZMJBd5CLHO8Nrjnp)
-- [Cloudy Eyes (Dance Tonight) by Reznik, Jesse Boykins III, Keinemusik](https://open.spotify.com/track/1NkhNXHEv33NZgMF4W4SeB)
-- [Yumi by Notre Dame](https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5)
-- [Waitin&#39; by HotLap](https://open.spotify.com/track/0bruK7CIEhyQO8tzeRTnjg)
+- [Fairy Tales by DESH, delaney.](https://open.spotify.com/track/5gzDy5Lg7o18RQAuVqRQDB)
+- [My Steeze by The BREED](https://open.spotify.com/track/3oV4lf7FhurEL3iqyuAHd7)
+- [through your breath by Sweeps](https://open.spotify.com/track/2hESu0lY0xEQE52hb818rW)
+- [New Nesting by Birocratic](https://open.spotify.com/track/6JkGzGidP5ab742NDkYHMP)
+- [Hope It’s Not by J.Folk](https://open.spotify.com/track/6yNgjXG71GvktCeCCSxfap)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
