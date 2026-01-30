@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Fairy Tales by DESH, delaney.](https://open.spotify.com/track/5gzDy5Lg7o18RQAuVqRQDB)
-- [My Steeze by The BREED](https://open.spotify.com/track/3oV4lf7FhurEL3iqyuAHd7)
-- [through your breath by Sweeps](https://open.spotify.com/track/2hESu0lY0xEQE52hb818rW)
-- [New Nesting by Birocratic](https://open.spotify.com/track/6JkGzGidP5ab742NDkYHMP)
-- [Hope It’s Not by J.Folk](https://open.spotify.com/track/6yNgjXG71GvktCeCCSxfap)
+- [Last One by Psalm Trees, ALEXANDER](https://open.spotify.com/track/7n5P1ExneFol47pUwnSflT)
+- [Dry Leaves by Sweeps, luv pug, Strehlow, 9ICK](https://open.spotify.com/track/7tVNXMv1ImQQhDYFBTCXry)
+- [New Beginnings by Kissamilé](https://open.spotify.com/track/5SU578sKenTuzfMAlU1CuS)
+- [Heading South by No Spirit, Casiio](https://open.spotify.com/track/7vsRbJaUe05rF7eOnA3lVj)
+- [That Time by dennisivnvc, Dani Catalá](https://open.spotify.com/track/0UUPjZtkxTkkW9QeQa0Zql)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
