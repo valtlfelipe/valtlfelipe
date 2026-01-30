@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Use Somebody by Arodes, Redd](https://open.spotify.com/track/2tv6GYr8MFaF29qQWqC0fU)
-- [Fell In Luv - Black Circle Remix by Carlita, Calussa, Black Circle](https://open.spotify.com/track/7eRsnszGZ5V170AbcpDQNa)
-- [Appetite by Chris Lorenzo](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz)
-- [CORAÇAO - 20th Anniversary Mix by Jerry Ropero, HUGEL, Mijangos, Jesús Fernández](https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g)
-- [Arrival by KREAM](https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt)
+- [Seu Trio by Psalm Trees, ALEXANDER](https://open.spotify.com/track/3xsz2b415CeKhFaHRoOiYt)
+- [When All I Heard Was Artifacts by Psalm Trees, ALEXANDER](https://open.spotify.com/track/1PrJw8ZMJBd5CLHO8Nrjnp)
+- [Cloudy Eyes (Dance Tonight) by Reznik, Jesse Boykins III, Keinemusik](https://open.spotify.com/track/1NkhNXHEv33NZgMF4W4SeB)
+- [Yumi by Notre Dame](https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5)
+- [Waitin&#39; by HotLap](https://open.spotify.com/track/0bruK7CIEhyQO8tzeRTnjg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
