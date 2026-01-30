@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Wanna Make Love by MAXI MERAKI](https://open.spotify.com/track/3caMURqkVUsWPucKqcP1Hk)
-- [Mess Around (Baby Baby) by Rivo, Jaquet](https://open.spotify.com/track/1Jht2fusiIuJo0KRvjUizH)
-- [Best of Me - Radio Edit by ARTBAT, Sailor &amp; I](https://open.spotify.com/track/4bJ7hDIjOucR0hGDEaVBOr)
-- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
-- [Another Life - Marten Lou Remix by Naomi Sharon, Marten Lou](https://open.spotify.com/track/7IQDLhMpgQ23GIHh550TT9)
+- [Love’s A Game by Adriatique, Bipolar Sunshine](https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5)
+- [More Love - Rampa &amp;ME Remix by Moderat, Keinemusik, Rampa, &amp;ME](https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO)
+- [Angel In The Dark by Anyma, Massano, Nathan Nicholson](https://open.spotify.com/track/5GRJ5mXnz8dalhWY14HZcV)
+- [Milkshake 20 - Alex Wann Remix by Kelis, Alex Wann](https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ)
+- [Lioness - Francis Mercier Remix by Swedish House Mafia, Niki &amp; The Dove, Francis Mercier](https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
