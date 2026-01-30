@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Ghost of You by Ward Wills](https://open.spotify.com/track/5Wpi8tCgeMWGqGMy7xzyEF)
-- [Friends by Arbour, G Mills](https://open.spotify.com/track/54g9vSSeYtL5LIS1r9Hasr)
-- [Ghostrunner by Flitz&amp;Suppe, Nuncc](https://open.spotify.com/track/03vfGdX4OIKszTqL1NHByD)
-- [Fireplace by King I Divine](https://open.spotify.com/track/5881TQDQUdKqJawqOBrsvd)
-- [Dumbar by Parkbench Epiphany](https://open.spotify.com/track/71CCMWhoXWVC5QZjgj6HrY)
+- [Fireworks by Nymano, Pandrezz](https://open.spotify.com/track/3TEb0AU6wup3IrWp9CPc1v)
+- [Peace by Philanthrope](https://open.spotify.com/track/6DbhBMYs4VB01qbLSjFedq)
+- [As Long as it’s in the Right Direction by Ezzy](https://open.spotify.com/track/1s08YiQ1GhBpiWcfJc0DgV)
+- [Ethereal by Evil Needle](https://open.spotify.com/track/3eL2esxfquRkjMQuX7slIz)
+- [Seven by Nahokimama, Toshiki Soejima](https://open.spotify.com/track/0iwNbCDLGL1Wv4wf7TpkeE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
