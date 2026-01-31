@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Sex by Cheat Codes, Kris Kross Amsterdam](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0)
-- [Good Feeling by Flo Rida](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8)
-- [Cheerleader (Felix Jaehn Remix) - Radio Edit by OMI, Felix Jaehn](https://open.spotify.com/track/6fQcqEcXfnY0L6VwS0c3gT)
-- [Can&#39;t Get You out of My Head by Kylie Minogue](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7)
-- [Rather Be (feat. Jess Glynne) by Clean Bandit, Jess Glynne](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)
+- [One (Your Name) by Swedish House Mafia, Pharrell Williams](https://open.spotify.com/track/5EJcVJZBl6HTfSf6z4dC78)
+- [Strobe - Radio Edit by deadmau5](https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U)
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
+- [Toulouse - Bobby Anthony Vocal Mix by Nicky Romero](https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99)
+- [Get Up (Rattle) [feat. Far East Movement] - Vocal Extended by Bingo Players, Far East Movement](https://open.spotify.com/track/4okbyCzHuunfsVs7OoJhAL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
