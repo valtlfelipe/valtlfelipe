@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [One (Your Name) by Swedish House Mafia, Pharrell Williams](https://open.spotify.com/track/5EJcVJZBl6HTfSf6z4dC78)
-- [Strobe - Radio Edit by deadmau5](https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U)
-- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
-- [Toulouse - Bobby Anthony Vocal Mix by Nicky Romero](https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99)
-- [Get Up (Rattle) [feat. Far East Movement] - Vocal Extended by Bingo Players, Far East Movement](https://open.spotify.com/track/4okbyCzHuunfsVs7OoJhAL)
+- [Runaway (U &amp; I) by Galantis](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo)
+- [In My Mind - Axwell Radio Edit by Ivan Gough, Feenixpawl, Georgi Kay, Axwell](https://open.spotify.com/track/2ud5ukcAgwOki5PyE53mPl)
+- [Virus (How About Now) - Radio Edit by Martin Garrix, MOTi](https://open.spotify.com/track/5MCpA6s4yxlRWK5xZ0UFl0)
+- [We Like to Party - Radio Edit by Showtek](https://open.spotify.com/track/5zBIpQdBLku4dwqtptiNgs)
+- [I Need Your Love (feat. Ellie Goulding) - Nicky Romero Remix by Calvin Harris, Ellie Goulding, Nicky Romero](https://open.spotify.com/track/74eDdfWtlPPhjsRstBXUBc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
