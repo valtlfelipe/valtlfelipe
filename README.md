@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Olha Onde Eu Tô by Ana Castela](https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm)
-- [Who We Shine For by Lex (de Kalhex), Yuichiro Kato](https://open.spotify.com/track/092is5XsUcaWrV7MGfPr3A)
-- [Rain or Shine by Birocratic, Middle School](https://open.spotify.com/track/5ILL63MscbDDWvOQl4gIiP)
-- [Sightseeing by Joe Nora](https://open.spotify.com/track/4cBNdqKcNwjoAwBY0Eny2p)
-- [nightshift by SwuM, Øneheart, Lenny Loops](https://open.spotify.com/track/1q3gj7XhHrwCcTst8I5XaJ)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
+- [King by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM)
+- [Just Dance by Lady Gaga, Colby O&#39;Donis](https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J)
+- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
+- [Scatman (ski-ba-bop-ba-dop-bop) by Scatman John](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
