@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Hypnotized by Purple Disco Machine, Sophie and the Giants](https://open.spotify.com/track/4grVkAtmqIipynBu8D9v6G)
 - [Sally, When The Wine Runs Out by ROLE MODEL](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ)
 - [Dancer by Claire Rosinkranz](https://open.spotify.com/track/2OKwRXa2FWSraary90l7AA)
 - [Project T by Dimitri Vegas &amp; Like Mike, Sander van Doorn](https://open.spotify.com/track/33saa6gZxyaMNpT9VGuhM2)
 - [Runaway (U &amp; I) by Galantis](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo)
-- [In My Mind - Axwell Radio Edit by Ivan Gough, Feenixpawl, Georgi Kay, Axwell](https://open.spotify.com/track/2ud5ukcAgwOki5PyE53mPl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
