@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [THINKING ABOUT YOU by Jaden Bojsen](https://open.spotify.com/track/3cRVc5nb6MAh2FiMKZP1BQ)
-- [City Lights by Aiiso](https://open.spotify.com/track/08SLluVdcUZCXGi3YusWuO)
-- [Lie To Me Tomorrow But Real by Stereopole](https://open.spotify.com/track/1cxzJ9Ak0YiaZZ47Cr96DN)
-- [Back To The Roots by Makebo, Amonita](https://open.spotify.com/track/09ctjXoWwXxYcvqIkmIFas)
-- [Shadows in The Room by Grim.exe](https://open.spotify.com/track/6h6eHl8WPV5LVMdzzT90Ae)
+- [Lune by PIANIKA](https://open.spotify.com/track/4DuGBIlSsCpNNjYOgOxOo5)
+- [Together by The Kite String Tangle](https://open.spotify.com/track/3w9Gddx38ouMryZzm1tWe0)
+- [Euclidean by Green Ring](https://open.spotify.com/track/44Y0Q8PevmMegKFmbA2Bby)
+- [Midnight Rush by Stereopole](https://open.spotify.com/track/6xq0rGpaetSTPEuEOOvMus)
+- [Regal by Polar Inc.](https://open.spotify.com/track/1yiLmcHovufRMfOgxqSsfI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
