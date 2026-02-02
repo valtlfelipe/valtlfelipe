@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [New Mexico by Heavy Colours](https://open.spotify.com/track/3LIehKBQhFPqSiyDK16KsP)
-- [MOVEMENTS by Mild Minds](https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj)
-- [Clouded by Green Ring](https://open.spotify.com/track/6xJ06SbLZZmb4RtgVPR1VL)
-- [Cold Light - 6am Remix by KC Lights, Leo Stannard](https://open.spotify.com/track/6BRsln8RDWDl91YmJpCYxY)
-- [Irregularity by fwd/slash](https://open.spotify.com/track/5w5JkzUQ6NeSgePXfVIXVZ)
+- [Enriched by Naws](https://open.spotify.com/track/24fqI3picwX9ywg33aVmG6)
+- [Serene by Hessian](https://open.spotify.com/track/4cBshIyiiAzbl61Ij0FjHD)
+- [Delirium by Nightwhisper](https://open.spotify.com/track/4Fu6j3ah9Tt0WjaxAl6MmH)
+- [Wild &amp; Free by TRE, Jessie Lee Thetford](https://open.spotify.com/track/1AhmsIlWiekIOecBdxYWcV)
+- [Brisa by Etza](https://open.spotify.com/track/2ZlwyosdaQ0oc6GJQjqWvj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
