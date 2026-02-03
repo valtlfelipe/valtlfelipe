@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Mojito Breeze by Jaake Alsonn](https://open.spotify.com/track/02ISCe89PcXX5gsNOwSiUw)
-- [Love You Better by Zaytune](https://open.spotify.com/track/00IIdn5ik2M1Qcjk495QBl)
-- [Next in line by Dove Tales](https://open.spotify.com/track/3cuLUAo08KMeLzsJnBxExv)
-- [Move with Me by Niriko](https://open.spotify.com/track/3rdSAummpA5v3vDx1fQ3Oh)
-- [Sun Kiss by Yelloo Hill](https://open.spotify.com/track/72MPzvnYd6fVS6Q8wF9Zjk)
+- [Sunrise Song by Luttrell](https://open.spotify.com/track/2gsa8ffLRpj0QrgsTWdJxF)
+- [Falling Apart by Massane](https://open.spotify.com/track/6tGCxVJPo7iIydUVHOjVbM)
+- [Together by Heard Right, Anriu](https://open.spotify.com/track/7KZkkAJE4WYTzVr4jc7kt2)
+- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
+- [Out of the Silence by Sultan &#43; Shepard, Tasha Josephine](https://open.spotify.com/track/5ydCAHTXVxCwoaneuCsugP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
