@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [One Not Two by Dennis Casey](https://open.spotify.com/track/2DlV3YaSPU6JCvZ30mxGNa)
-- [Moments by djimboh](https://open.spotify.com/track/5GoRIFjC2EiAokCqqDBW6k)
-- [First Glimpse by Nightwhisper](https://open.spotify.com/track/7jUPjqh2eLjkdwdSuYR76t)
-- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
-- [Alone by Naws](https://open.spotify.com/track/2SffIKg9kHaSpR6jmwUUjh)
+- [Breathe Again by Sam Wiseman](https://open.spotify.com/track/3YNQtS5pBv48TULWojiNXD)
+- [Satisfied by Catching Flies](https://open.spotify.com/track/2BirbjcIsHDyoNTfzAfkyG)
+- [Run Away by Enamour, Aryan Saleh](https://open.spotify.com/track/5JbIeuHU4Z1TwU9zsK9QqW)
+- [Only You Can Tell - Original Mix by Croquet Club](https://open.spotify.com/track/6feLDcYmUwbQgoHYxHD4qS)
+- [Yours - Extended Mix by djimboh](https://open.spotify.com/track/4EBEDaSaDhYoVFFHDyMYgu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
