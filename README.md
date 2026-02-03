@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Polarization by Melosense](https://open.spotify.com/track/21WFhBGBhcozF2sJ41EjEh)
-- [Forwards by Tom Day](https://open.spotify.com/track/44JiGjoOfR5cgjE0aptfJG)
-- [Dawn by OTR](https://open.spotify.com/track/3CG4D2u3H6BgjHxbyDyRgZ)
-- [Sidis by Polar Inc.](https://open.spotify.com/track/7pdVfc96P8czARLqkTtim4)
-- [Enriched by Naws](https://open.spotify.com/track/24fqI3picwX9ywg33aVmG6)
+- [stay alive by aelera](https://open.spotify.com/track/3BCBpsPijM6NIqSK4jEj1A)
+- [To The Ground by Matt Fax](https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO)
+- [And U - Original Mix by Hosini](https://open.spotify.com/track/6loSOckXP7ENA1M6r7iPhi)
+- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
+- [Faded by Stendahl, Fløa](https://open.spotify.com/track/4smq9RvAACeKR0fCkLYv8x)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
