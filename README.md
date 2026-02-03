@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [So Real by Qualysto](https://open.spotify.com/track/3F5DqndDfbqZdEETpYLrV8)
-- [Lullaby by fwd/slash](https://open.spotify.com/track/4A8ZojwfbDixuBUsOc2VxY)
-- [Love Pains by Forester, Freddie Elmberg, FLORES](https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q)
-- [Deluge by Archaellum](https://open.spotify.com/track/4cyIOKGmxeTfFUSNHPIjor)
-- [Home by Meanetik](https://open.spotify.com/track/289f8Rj2s9ts6Lir53qROP)
+- [Ambedo by Dezza](https://open.spotify.com/track/6BDa6TRUFqYwPPFDtUBWqy)
+- [Fragments Of The Past by Fløa](https://open.spotify.com/track/6djiZXDxLwdSFRcKYlgDf0)
+- [Guardian Angels Watch Down On You by Leaving Laurel](https://open.spotify.com/track/3iYgQiRgs6rvNBV23lnOJQ)
+- [Sol by Stendahl](https://open.spotify.com/track/4Jv2xEsEFgw8QuNEtwgNka)
+- [Just Can&#39;t Stop - Mixed by Hessian, Farves, flyckt](https://open.spotify.com/track/6mJP3AHPZoFthf65rS11VI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
