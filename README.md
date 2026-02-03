@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Sunrise Song by Luttrell](https://open.spotify.com/track/2gsa8ffLRpj0QrgsTWdJxF)
-- [Falling Apart by Massane](https://open.spotify.com/track/6tGCxVJPo7iIydUVHOjVbM)
-- [Together by Heard Right, Anriu](https://open.spotify.com/track/7KZkkAJE4WYTzVr4jc7kt2)
-- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
-- [Out of the Silence by Sultan &#43; Shepard, Tasha Josephine](https://open.spotify.com/track/5ydCAHTXVxCwoaneuCsugP)
+- [Lost Home by Keanler](https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy)
+- [Light Falls by EMBRZ](https://open.spotify.com/track/4quQKMyWq9nLKNteKFn4MO)
+- [Closure by Massane, Benjamin Roustaing](https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O)
+- [Playing With Fire - Mixed by Anriu](https://open.spotify.com/track/4vS8q4tin3Hv1sK6Ea37X0)
+- [Breathless by Jerro, Forester](https://open.spotify.com/track/2Fk3wqvdC79jULDvNp9pji)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
