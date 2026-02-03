@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)** - A drop-in, 5-20x faster, experimental Homebrew alternative (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [stay alive by aelera](https://open.spotify.com/track/3BCBpsPijM6NIqSK4jEj1A)
-- [To The Ground by Matt Fax](https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO)
-- [And U - Original Mix by Hosini](https://open.spotify.com/track/6loSOckXP7ENA1M6r7iPhi)
-- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
-- [Faded by Stendahl, Fløa](https://open.spotify.com/track/4smq9RvAACeKR0fCkLYv8x)
+- [Nido Del Águila by Flexible Fire](https://open.spotify.com/track/2jfMw0e2M2ZntjGA2PDu6j)
+- [Last Glow by Archaellum](https://open.spotify.com/track/5HTdLooCvdGTq3V9H8ShPo)
+- [Need Little, Want Less by Leaving Laurel](https://open.spotify.com/track/0gqDHyzxUItvbn7eXZ1reP)
+- [Kunzite by Hosini](https://open.spotify.com/track/4zEbnQ59YXDeCC8Cc81pjc)
+- [Irene by Jerro](https://open.spotify.com/track/2Os0qFp6l5foOfiRJYfXa4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
