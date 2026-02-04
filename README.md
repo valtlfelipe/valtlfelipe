@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sane-apps/SaneHosts](https://github.com/sane-apps/SaneHosts)** - Modern, profile-based hosts file manager for macOS. Block ads, trackers, and distractions with ease. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Dreaming by Paal Singh, El Train](https://open.spotify.com/track/3be9MbpGZtURsF4lwioEHG)
+- [Background by Sugi.wa](https://open.spotify.com/track/5wLhwyfLoBumPScIVsijuk)
 - [Turncoat by Leavv](https://open.spotify.com/track/0ajLOt6MLJBFtDFflZYWNk)
 - [Spykids by Joe Nora, Sara Kawai](https://open.spotify.com/track/3LUnmC0cXKwFzAMDCALNFS)
 - [Desert by oddfish](https://open.spotify.com/track/1iOXXBImluvQSpE2GFvZxd)
-- [Driving by Aso](https://open.spotify.com/track/0Nue7xftTSwsnvU3HjguQY)
-- [Saga by Rose Noir](https://open.spotify.com/track/2iU9pMBzY5bCIJqmX5iPgs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
