@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sane-apps/SaneHosts](https://github.com/sane-apps/SaneHosts)** - Modern, profile-based hosts file manager for macOS. Block ads, trackers, and distractions with ease. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Cloudvael by invention_](https://open.spotify.com/track/4QEBaiJeRrHhn2mRizXSGd)
-- [New Dae by El Train, G Mills](https://open.spotify.com/track/7CymdjJdsBxDZ79llH2sLQ)
-- [It’s Lucid by HM Surf](https://open.spotify.com/track/331mU40kBtwM6GWHT38Zzs)
-- [Midnight Veil by Birocratic, Kosmicho, Ross Mayfield](https://open.spotify.com/track/1EmytkeUJ2twgeJ4NgC3oy)
-- [Lagos Sundown by Nsikak David, Ian Ewing](https://open.spotify.com/track/1y3PKZ3ZCVXLlmW9hoC7yT)
+- [nightshift by SwuM, Øneheart, Lenny Loops](https://open.spotify.com/track/1q3gj7XhHrwCcTst8I5XaJ)
+- [Jake by dennisivnvc, Dani Catalá](https://open.spotify.com/track/5ytKsKsYGzx0r3IxAS3tuH)
+- [Ayọ̀ by Dunnie, Mac Kay](https://open.spotify.com/track/35ywvgU7abjMorkqmreOUx)
+- [Luck by J.Folk](https://open.spotify.com/track/2XvTJbHPjQUdJzRZLHJFt0)
+- [Velvet by Blue Wednesday, anbuu](https://open.spotify.com/track/0INw6mMUmGNwukL8TuyBVD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
