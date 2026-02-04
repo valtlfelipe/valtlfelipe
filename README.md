@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sane-apps/SaneHosts](https://github.com/sane-apps/SaneHosts)** - Modern, profile-based hosts file manager for macOS. Block ads, trackers, and distractions with ease. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Dreaming by Paal Singh, El Train](https://open.spotify.com/track/3be9MbpGZtURsF4lwioEHG)
-- [Background by Sugi.wa](https://open.spotify.com/track/5wLhwyfLoBumPScIVsijuk)
-- [Turncoat by Leavv](https://open.spotify.com/track/0ajLOt6MLJBFtDFflZYWNk)
-- [Spykids by Joe Nora, Sara Kawai](https://open.spotify.com/track/3LUnmC0cXKwFzAMDCALNFS)
-- [Desert by oddfish](https://open.spotify.com/track/1iOXXBImluvQSpE2GFvZxd)
+- [Soft Light by Sweeps, luv pug](https://open.spotify.com/track/4IJJbGdiBtG8A9EBaSLt8D)
+- [Suspect by Rose Noir](https://open.spotify.com/track/4VFOHHRKSWJ2GN01ihOy83)
+- [Sturgeon Bay by Ian Ewing, Strehlow](https://open.spotify.com/track/5lo9xhWOlWLHlwGyGdAzR3)
+- [Garnet by Ward Wills](https://open.spotify.com/track/1rbfP9ybUh2Ekfg4LIyDaz)
+- [Drowning by Enough Cereals](https://open.spotify.com/track/4O1v9YCGdCLYb4VtuQkoM8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
