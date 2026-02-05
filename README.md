@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sane-apps/SaneHosts](https://github.com/sane-apps/SaneHosts)** - Modern, profile-based hosts file manager for macOS. Block ads, trackers, and distractions with ease. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [ny90 by Ezzy](https://open.spotify.com/track/0gZeAwIPXLoyTjRa85uYyd)
-- [Down by Toonorth](https://open.spotify.com/track/7eMSkjTyrnOiKclFZLGJrM)
-- [Bloom by Sweeps, luv pug](https://open.spotify.com/track/1Q5XHrFyw8WzCOLy0jNMpO)
-- [Teal by Philanthrope](https://open.spotify.com/track/5DXmRWuZLhFiSyuNwsGLN7)
-- [Longest Wait by J.Folk](https://open.spotify.com/track/7mgaodMYQUoSA1NDxrwLOU)
+- [Elope by Dunnie](https://open.spotify.com/track/6A12siACw7NuP5Y3Zd1tMa)
+- [Zen Headbutt by Dotlights](https://open.spotify.com/track/3O5njvd5zm3dinj44ZY2Nq)
+- [Coconut by Ian Ewing](https://open.spotify.com/track/6IwfdJWgfkiTTICKhZLW6E)
+- [Always by Arbour](https://open.spotify.com/track/3fOOj0C7RBhAC58HsR9xJZ)
+- [Dream Girl by Strehlow](https://open.spotify.com/track/3aiqgRAbtibEmjMvpZgb4Q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
