@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sane-apps/SaneHosts](https://github.com/sane-apps/SaneHosts)** - Modern, profile-based hosts file manager for macOS. Block ads, trackers, and distractions with ease. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Best Life by Ben Böhmer, JONAH](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC)
-- [All My Life by Purple Disco Machine, The Magician](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [Found Love by Francis Mercier, Von Boch](https://open.spotify.com/track/1mO3hOEayERMNUGIpAwImF)
-- [WHEN IT COMES TO YOU by Angrybaby](https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A)
+- [bring your love (to the light) by Noah Henderson](https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq)
+- [Free by TELYKAST, x.o.anne](https://open.spotify.com/track/2EVfXWxhsdR4izZEhfJNRq)
+- [Chills (Feel My Love) by Oliver Heldens, David Guetta, FAST BOY](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x)
+- [You and Me by heylucas](https://open.spotify.com/track/4jnhZjWPyEeTS7VdiDC7Ui)
+- [Flames by ARTY, Nu-La](https://open.spotify.com/track/1vXP30hzwXVis2zTQI10MY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
