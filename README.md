@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sane-apps/SaneHosts](https://github.com/sane-apps/SaneHosts)** - Modern, profile-based hosts file manager for macOS. Block ads, trackers, and distractions with ease. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [You Bring Me Life by Psalm Trees, ALEXANDER](https://open.spotify.com/track/3vo982edgJYo6GC6suxOzU)
-- [The Little Company Road by Boukas, Max Galax](https://open.spotify.com/track/5FmmnSuQN2HmcsDr4mlQvv)
-- [Haïku by Kissamilé](https://open.spotify.com/track/0XPqQ1gUbZlnk6GTBgj74a)
-- [S Class by Kreatev, 88JAY](https://open.spotify.com/track/0Fvvz5VwcErOH6h8izhfir)
-- [Paper windows and distant suns by Pueblo Vista, Modranicht](https://open.spotify.com/track/3mYqAqVkI6te41LmQ6554f)
+- [Somewhere south of yesterday by Pueblo Vista, Modranicht](https://open.spotify.com/track/7nHkS6y8fzg6fXmIiBxF7e)
+- [When All I Heard Was Artifacts by Psalm Trees, ALEXANDER](https://open.spotify.com/track/1PrJw8ZMJBd5CLHO8Nrjnp)
+- [At Most by Birocratic](https://open.spotify.com/track/5KDIKJurvmegc954gH1783)
+- [Foresight by Enough Cereals](https://open.spotify.com/track/5HJkjmNBU30nCwMIphmy0g)
+- [New Beginnings by Kissamilé](https://open.spotify.com/track/5SU578sKenTuzfMAlU1CuS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
