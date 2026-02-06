@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sane-apps/SaneHosts](https://github.com/sane-apps/SaneHosts)** - Modern, profile-based hosts file manager for macOS. Block ads, trackers, and distractions with ease. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Stay by Prunk](https://open.spotify.com/track/338TIKCI7nyNsARr0bxSVX)
-- [No One Else (Feat. Corbyn Besson) by Two Friends, Corbyn Besson](https://open.spotify.com/track/6fsBBty7c7eEWvdgkNIWpa)
-- [Touch by Kasablanca](https://open.spotify.com/track/36TtItSt1Y2V5TGLi7gYD0)
-- [WAY YOU SMILE by AVAION](https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp)
-- [High On You by SNS8, LAUT](https://open.spotify.com/track/1n7RWnghX8DCYFVBeZVpHA)
+- [Embrace by Tourist](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP)
+- [Embrace by Tourist](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP)
+- [All Your Love by Jai Wolf](https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr)
+- [Eraser by Mansionair](https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T)
+- [eye2eye - Jai Wolf Remix by Tsu Nami, Jai Wolf](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
