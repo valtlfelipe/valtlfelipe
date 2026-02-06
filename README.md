@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[HugoRCD/evlog](https://github.com/HugoRCD/evlog)** - Logging that makes sense. Wide events, structured errors, zero chaos. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Heartbeat by DJ Planet Express, Katie McBride](https://open.spotify.com/track/7FCJWSLgyr1GMrV7s7tNub)
-- [Holding Me by David Jackson](https://open.spotify.com/track/0C322Be854wSym6X9BiM31)
-- [Waiting For You by Daniel Allan, NIIKO X SWAE, Brieanna Grace](https://open.spotify.com/track/32I1ZqwrF0J9IOmlGWFzUG)
-- [Hindsight (We Belong With Each Other) by Fractures](https://open.spotify.com/track/1zfr2EIFyIu58wYKwUgseS)
-- [I Never Knew Love by Chez Damier, Josh Butler](https://open.spotify.com/track/4VqUkCI0LwAe5DiF6bJ03Q)
+- [Finding Me by Ciaran McAuley, Aurosonic, Zara Taylor](https://open.spotify.com/track/3W2m42WdXWO0A8SYAEHYAf)
+- [Rain by FISHER](https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U)
+- [I had a dream... by R3HAB, Izzy Bizu](https://open.spotify.com/track/4IKowbCQsk8o6AQPaYvzQC)
+- [Slapped By My Life by Jessy Lanza](https://open.spotify.com/track/6TkqnafmCsB2JavcMkFuwE)
+- [Better Now by Hoang, VLCN, Casey Cook](https://open.spotify.com/track/20M8mlTMntyirnjCmJCp0M)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
