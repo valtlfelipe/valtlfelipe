@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[HugoRCD/evlog](https://github.com/HugoRCD/evlog)** - Logging that makes sense. Wide events, structured errors, zero chaos. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Finding Me by Ciaran McAuley, Aurosonic, Zara Taylor](https://open.spotify.com/track/3W2m42WdXWO0A8SYAEHYAf)
-- [Rain by FISHER](https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U)
-- [I had a dream... by R3HAB, Izzy Bizu](https://open.spotify.com/track/4IKowbCQsk8o6AQPaYvzQC)
-- [Slapped By My Life by Jessy Lanza](https://open.spotify.com/track/6TkqnafmCsB2JavcMkFuwE)
-- [Better Now by Hoang, VLCN, Casey Cook](https://open.spotify.com/track/20M8mlTMntyirnjCmJCp0M)
+- [Keep Dancing by heylucas, Lily Denning](https://open.spotify.com/track/4VLmZNvz2x8X5uZVqK6IOY)
+- [imprint by Kaskade, Courtney Storm](https://open.spotify.com/track/2MNRIfBBCyWHb2NV5QUpKE)
+- [Can&#39;t Go Back by Astrality, James French](https://open.spotify.com/track/2MjUXeQsfJAFhSXvpojmQX)
+- [Vertigo by Lyrah](https://open.spotify.com/track/5DhX7ONhSw9SDPfXgirEBY)
+- [Lifetime by J Ribbon](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
