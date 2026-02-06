@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[sane-apps/SaneHosts](https://github.com/sane-apps/SaneHosts)** - Modern, profile-based hosts file manager for macOS. Block ads, trackers, and distractions with ease. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Embrace by Tourist](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP)
-- [Embrace by Tourist](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP)
-- [All Your Love by Jai Wolf](https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr)
-- [Eraser by Mansionair](https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T)
-- [eye2eye - Jai Wolf Remix by Tsu Nami, Jai Wolf](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3)
+- [Postcard (All I Need Is You) by MC4D, JOSEPH](https://open.spotify.com/track/4BvrNG6oB6caIU7to1JKtC)
+- [Hold On by Nathan Dawe, Abi Flynn](https://open.spotify.com/track/6eujN0FjgcrZXcWoLFhcOc)
+- [What Love Feels Like (feat. Nathan Nicholson) by Frank Walker, Nathan Nicholson](https://open.spotify.com/track/2R1JBaPdZd9CSJtk1Vkj1Z)
+- [Gravity by Joshwa, Lauren Nicole](https://open.spotify.com/track/2J9jWkE2NUeULlJ7OSIZ3G)
+- [I Know by ORACLE, ALLKNIGHT](https://open.spotify.com/track/0HTUlHM6UBjuMFWlCGLXjg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
