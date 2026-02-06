@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[HugoRCD/evlog](https://github.com/HugoRCD/evlog)** - Logging that makes sense. Wide events, structured errors, zero chaos. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Keep Dancing by heylucas, Lily Denning](https://open.spotify.com/track/4VLmZNvz2x8X5uZVqK6IOY)
-- [imprint by Kaskade, Courtney Storm](https://open.spotify.com/track/2MNRIfBBCyWHb2NV5QUpKE)
-- [Can&#39;t Go Back by Astrality, James French](https://open.spotify.com/track/2MjUXeQsfJAFhSXvpojmQX)
-- [Vertigo by Lyrah](https://open.spotify.com/track/5DhX7ONhSw9SDPfXgirEBY)
-- [Lifetime by J Ribbon](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL)
+- [Inertia by Hessian](https://open.spotify.com/track/1DC4WYpBda2uT0lQ3v7evG)
+- [Taking Me Higher by ARTY, MRYN](https://open.spotify.com/track/0UoiboSXdV8r2Yd40Oho08)
+- [life is beautiful by heylucas](https://open.spotify.com/track/4w8FUuJSmiXVwSzK8xnJ4Q)
+- [don&#39;t u know by glittr](https://open.spotify.com/track/77YAwlFb12MAxwfL8ADKIp)
+- [Crown by BUNT.](https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
