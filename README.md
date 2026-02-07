@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[HugoRCD/evlog](https://github.com/HugoRCD/evlog)** - Logging that makes sense. Wide events, structured errors, zero chaos. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Inertia by Hessian](https://open.spotify.com/track/1DC4WYpBda2uT0lQ3v7evG)
-- [Taking Me Higher by ARTY, MRYN](https://open.spotify.com/track/0UoiboSXdV8r2Yd40Oho08)
-- [life is beautiful by heylucas](https://open.spotify.com/track/4w8FUuJSmiXVwSzK8xnJ4Q)
-- [don&#39;t u know by glittr](https://open.spotify.com/track/77YAwlFb12MAxwfL8ADKIp)
-- [Crown by BUNT.](https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB)
+- [Padam Padam by Kylie Minogue](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5)
+- [Dandelion by Galantis, JVKE](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt)
+- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
+- [Rasputin by Majestic, Boney M.](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q)
+- [still my ecstasy by Le Youth, Ella Poletti](https://open.spotify.com/track/2X3wZs9oHBDnN4MIMSFepV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
