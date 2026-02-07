@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[HugoRCD/evlog](https://github.com/HugoRCD/evlog)** - Logging that makes sense. Wide events, structured errors, zero chaos. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Padam Padam by Kylie Minogue](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5)
-- [Dandelion by Galantis, JVKE](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
-- [Rasputin by Majestic, Boney M.](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q)
-- [still my ecstasy by Le Youth, Ella Poletti](https://open.spotify.com/track/2X3wZs9oHBDnN4MIMSFepV)
+- [How Will I Know by Whitney Houston, Clean Bandit](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL)
+- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
+- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
+- [Cloudy Day by Tones And I](https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS)
+- [Potion (with Dua Lipa &amp; Young Thug) by Calvin Harris, Dua Lipa, Young Thug](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
