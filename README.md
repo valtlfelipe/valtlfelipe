@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I&#39;m Not Here To Make Friends by Sam Smith, Calvin Harris, Jessie Reyez](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM)
-- [Acapulco by Jason Derulo](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ)
-- [CAN&#39;T STOP THE FEELING! (from DreamWorks Animation&#39;s &#34;TROLLS&#34;) by Justin Timberlake](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI)
-- [About Damn Time by Lizzo](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P)
-- [How Will I Know by Whitney Houston, Clean Bandit](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL)
+- [Alone (with Nicki Minaj) by Kim Petras, Nicki Minaj](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP)
+- [Only Wanna Be With You - Pokémon 25 Version by Post Malone](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm)
+- [Shivers by Ed Sheeran](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5)
+- [Better Days (NEIKED x Mae Muller x Polo G) by NEIKED, Mae Muller, Polo G](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH)
+- [sun keeps on shining by almost monday](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
