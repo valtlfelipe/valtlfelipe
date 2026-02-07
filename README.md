@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [I&#39;m Not Here To Make Friends by Sam Smith, Calvin Harris, Jessie Reyez](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM)
+- [Acapulco by Jason Derulo](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ)
+- [CAN&#39;T STOP THE FEELING! (from DreamWorks Animation&#39;s &#34;TROLLS&#34;) by Justin Timberlake](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI)
+- [About Damn Time by Lizzo](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P)
 - [How Will I Know by Whitney Houston, Clean Bandit](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL)
-- [My Head &amp; My Heart by Ava Max](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm)
-- [Car Keys (Ayla) by Alok, Ava Max](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)
-- [Cloudy Day by Tones And I](https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS)
-- [Potion (with Dua Lipa &amp; Young Thug) by Calvin Harris, Dua Lipa, Young Thug](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
