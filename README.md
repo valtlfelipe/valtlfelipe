@@ -7,7 +7,7 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabitapp/supacode](https://github.com/supabitapp/supacode)** - native macOS codings agent orchestrator (2 days ago)
 - **[nank1ro/flutter-shadcn-ui](https://github.com/nank1ro/flutter-shadcn-ui)** - shadcn-ui ported in Flutter. Awesome UI components for Flutter, fully customizable. (5 days ago)
 - **[tw93/Mole](https://github.com/tw93/Mole)** - 🐹 Deep clean and optimize your Mac. (1 week ago)
-- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (1 week ago)
+- **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** - the best agent harness (1 week ago)
 
 #### 🎧 Spotify recent tracks
 - [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
