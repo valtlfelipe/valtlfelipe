@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** - the best agent harness (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [CAN&#39;T STOP THE FEELING! (from DreamWorks Animation&#39;s &#34;TROLLS&#34;) by Justin Timberlake](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI)
 - [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
 - [Lottery (feat. LU KALA) by Latto, LU KALA](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir)
 - [A Bar Song (Tipsy) by Shaboozey](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf)
 - [Rush by Troye Sivan](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae)
-- [Higher Power by Coldplay](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
