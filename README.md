@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** - the best agent harness (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Another Day by Feiertag, Klaverson](https://open.spotify.com/track/4nYOFYZlMveqKhi4wBbA3A)
-- [Supernova by Eugene Becker, Serra 9](https://open.spotify.com/track/3Ci9vGUxRX3MsZmJ0dHctE)
-- [Gone by Shallou](https://open.spotify.com/track/12U8LiMUvM61GseyRQ7Oiv)
-- [CAN&#39;T STOP THE FEELING! (from DreamWorks Animation&#39;s &#34;TROLLS&#34;) by Justin Timberlake](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI)
-- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
+- [All I Want, All I Need by Ourson, Lily Denning](https://open.spotify.com/track/7qhsvyBkKidKY1p1ibktmE)
+- [Quiet Place by Fløa](https://open.spotify.com/track/1qSvzISucONqyrEdn9Xvwx)
+- [In Our Hearts by GRAZZE](https://open.spotify.com/track/2WK0vNlEM3pWOMpe4UIoMm)
+- [Stranded by Art of November](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w)
+- [Moments by Kyle Watson](https://open.spotify.com/track/2LAmMdTuNzuwJGyPgCosdt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
