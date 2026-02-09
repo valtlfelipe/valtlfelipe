@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)** - the best agent harness (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [All I Want, All I Need by Ourson, Lily Denning](https://open.spotify.com/track/7qhsvyBkKidKY1p1ibktmE)
-- [Quiet Place by Fløa](https://open.spotify.com/track/1qSvzISucONqyrEdn9Xvwx)
-- [In Our Hearts by GRAZZE](https://open.spotify.com/track/2WK0vNlEM3pWOMpe4UIoMm)
-- [Stranded by Art of November](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w)
-- [Moments by Kyle Watson](https://open.spotify.com/track/2LAmMdTuNzuwJGyPgCosdt)
+- [Love Pains by Forester, Freddie Elmberg, FLORES](https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q)
+- [Palirria by OKASSUS](https://open.spotify.com/track/01qUcJOo1r5DBrXaoRrbY9)
+- [Through Human Eyes by MaMan, CLYFFTONE](https://open.spotify.com/track/3IuHpV2NyOepHDvMLLDFJh)
+- [If I Could - Original Mix by Chris Malinchak](https://open.spotify.com/track/6mdEt98GmgWGpMwPpjL2bp)
+- [Sunshine by Sound Quelle](https://open.spotify.com/track/5V54QSIipmlyMnzbNOvYVJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
