@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tw93/Mole](https://github.com/tw93/Mole)** - 🐹 Deep clean and optimize your Mac. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Will Dream It by Ourson, Yorina](https://open.spotify.com/track/0oPZOlSlqpW1FccoNLMqld)
-- [The Way That I Love You - Chill Mix by Alex Adair](https://open.spotify.com/track/29fhe8QxsFD0c1utFnAikH)
-- [Cosmos - Mixed by Sam Davies](https://open.spotify.com/track/2Qn39loLScByrdkBUandr2)
-- [Blue by Chris Malinchak](https://open.spotify.com/track/45BsNgbEAelON04gGp8sA0)
-- [Somebody Like You by Surf Mesa](https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT)
+- [Into The Storm by Elypsis](https://open.spotify.com/track/5QaBNJv5Fx0OgM6SoVOPLJ)
+- [But the two of us by Ourson](https://open.spotify.com/track/4rmEXaUKjjfWzHju3Aofzf)
+- [Out at Sea by Angara, Ren Ocean](https://open.spotify.com/track/6NlK5x3QAQa9Co1oYBd4iy)
+- [Tideline by Banaati](https://open.spotify.com/track/0XsYvEr3iScsub4VjoZvsE)
+- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
