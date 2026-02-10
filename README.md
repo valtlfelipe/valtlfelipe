@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nank1ro/flutter-shadcn-ui](https://github.com/nank1ro/flutter-shadcn-ui)** - shadcn-ui ported in Flutter. Awesome UI components for Flutter, fully customizable. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Fields by TOMB](https://open.spotify.com/track/44LfzmG2ixSPGn2bwJxoOn)
-- [The Illusion Of Impression by Fløa, Furcloud](https://open.spotify.com/track/7FcwgUhBkQ8WPlsAmcO56e)
-- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
-- [Coming Up (Hold On) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/0pAKG0jaOC5Zc6RykZzvgC)
-- [Make Me Wild by Boxer, RYTERBAND](https://open.spotify.com/track/3FgwrIBAbU6YE1m0JAo3yh)
+- [Lose Control by Banaati, Max Blücher, KARTINI](https://open.spotify.com/track/7dZDTCKoEYHjW1lHio6gne)
+- [Aligned by Slow Ted](https://open.spotify.com/track/1FJ30vrIqdagpDSUfXTIXu)
+- [If I Stayed by Blonde Maze, Modera](https://open.spotify.com/track/5XIYXLS7Arc0OBSpRtD5tp)
+- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
+- [Shine by Hessian, mölly, Afnan Prince](https://open.spotify.com/track/5J02vp8CZYokpjeha2OBav)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
