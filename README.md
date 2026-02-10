@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nank1ro/flutter-shadcn-ui](https://github.com/nank1ro/flutter-shadcn-ui)** - shadcn-ui ported in Flutter. Awesome UI components for Flutter, fully customizable. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Lose Control by Banaati, Max Blücher, KARTINI](https://open.spotify.com/track/7dZDTCKoEYHjW1lHio6gne)
-- [Aligned by Slow Ted](https://open.spotify.com/track/1FJ30vrIqdagpDSUfXTIXu)
-- [If I Stayed by Blonde Maze, Modera](https://open.spotify.com/track/5XIYXLS7Arc0OBSpRtD5tp)
-- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
-- [Shine by Hessian, mölly, Afnan Prince](https://open.spotify.com/track/5J02vp8CZYokpjeha2OBav)
+- [October by Icarus](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW)
+- [Out Of My Mind by Falden, Lewyn, Paul Mayson](https://open.spotify.com/track/5eljM1C5aJGdxIkqGhhwcq)
+- [episode by cypress, Courtney Storm](https://open.spotify.com/track/7nszldP9W5SgyjB71BAd1t)
+- [together (we are more) by Leaving Laurel](https://open.spotify.com/track/4SVsZGDkweyT5CHhKluupu)
+- [No Clouds by oskar med k, MEGGO](https://open.spotify.com/track/4xcet4z4oiexYoIyZYX9Xz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
