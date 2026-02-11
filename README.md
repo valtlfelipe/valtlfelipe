@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabitapp/supacode](https://github.com/supabitapp/supacode)** - native macOS codings agent orchestrator (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [sanctuary by Le Youth, ALLKNIGHT](https://open.spotify.com/track/0cFl0BwLlfFatK49VOu5LC)
-- [Still Care by Shallou, Origami Human](https://open.spotify.com/track/5TZLlSXrXQz51UKyEgBCSF)
-- [Shall Pass by Deeparture](https://open.spotify.com/track/6GN6TYbT9467paJeVMTPFY)
-- [Wander by MXV, mölly, Courtney Storm](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr)
-- [Waves by Chris Savor](https://open.spotify.com/track/0DOTRKFLJFfbQHeGhzh36C)
+- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
+- [Just Hold On by Jordin Post](https://open.spotify.com/track/5rALG3uffPJW7cOx7RcVMa)
+- [So Far by Shallou](https://open.spotify.com/track/2gnlH8KosgGabuXsnGWZ1F)
+- [we carried one another - edit by Leaving Laurel](https://open.spotify.com/track/0TXnlSJysxS8nFDX18Y99V)
+- [Difficult to Love - Amtrac Remix by Elderbrook, Amtrac](https://open.spotify.com/track/6i6auygCun64rp8aMDkvNR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
