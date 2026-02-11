@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabitapp/supacode](https://github.com/supabitapp/supacode)** - native macOS codings agent orchestrator (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Silver Lining by Matrx](https://open.spotify.com/track/5rUH1C6qV9yob39mHRjXMF)
-- [Be There by miksklim](https://open.spotify.com/track/2F0CvA0RR90DhUTD09HFU9)
-- [What If You Fly by Oliver River](https://open.spotify.com/track/09np57gcBN1dq1gtsZ2uIB)
-- [Keep Feeling Like This by Chris Savor, Jason Uechi](https://open.spotify.com/track/1jIiXLQezN8Bmk27I8Qdan)
-- [Do You Feel The Same? by Emmit Fenn](https://open.spotify.com/track/6srLLyUp8cfTdU7rG8Txcp)
+- [See You by Farves, Duce](https://open.spotify.com/track/7gNihynx9ol9yurDT078Mv)
+- [selune by red alder](https://open.spotify.com/track/6tb94ybwUXix8NQw848Zzu)
+- [Back To My Bed by Elderbrook](https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK)
+- [I&#39;m Not Here To Be Your Friend by Abroad](https://open.spotify.com/track/5hFpBwKpOEcpA2NEikHMSU)
+- [Yours Tonight by fwd/slash](https://open.spotify.com/track/6epYioiACrRs1EXI49p893)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
