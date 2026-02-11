@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabitapp/supacode](https://github.com/supabitapp/supacode)** - native macOS codings agent orchestrator (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [bora bora by aural](https://open.spotify.com/track/4fxFHN27g2RNRQce2WJc2w)
-- [Losing Control by four30](https://open.spotify.com/track/19bLMUpSDEBBLMrd04qAUd)
-- [Entre sombras y luz by Marc Wiese](https://open.spotify.com/track/7eCMPYwC7cC3Qc491y6eIA)
-- [Holding You Down by Veil of Eden](https://open.spotify.com/track/2iiALW9skR6Wn63xMsGysE)
-- [Lost Without You by aiden](https://open.spotify.com/track/0hCwSqaXMxvNO1ST2imfJz)
+- [Run Right Back by ORACLE, Holochrome](https://open.spotify.com/track/2sSn4HVYNcaegvazLKG0dz)
+- [Next To Me by Passing Clouds](https://open.spotify.com/track/5g5NN0a515BaOfrWL3lW5A)
+- [bleed for your love by puulse, Francis Skyes](https://open.spotify.com/track/1E77lqCDhIyZqYfzyzgpDO)
+- [Lost In Dancing by Neascape](https://open.spotify.com/track/1CrWxWAYtGqF0SsiDADE8l)
+- [Early Years by San Mateo Drive](https://open.spotify.com/track/5FziDh9cdhDIvzPZVrZhIM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
