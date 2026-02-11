@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[supabitapp/supacode](https://github.com/supabitapp/supacode)** - native macOS codings agent orchestrator (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [See You by Farves, Duce](https://open.spotify.com/track/7gNihynx9ol9yurDT078Mv)
-- [selune by red alder](https://open.spotify.com/track/6tb94ybwUXix8NQw848Zzu)
-- [Back To My Bed by Elderbrook](https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK)
-- [I&#39;m Not Here To Be Your Friend by Abroad](https://open.spotify.com/track/5hFpBwKpOEcpA2NEikHMSU)
-- [Yours Tonight by fwd/slash](https://open.spotify.com/track/6epYioiACrRs1EXI49p893)
+- [Let You Know by TUKTUK, Idun Nicoline, TAEMN](https://open.spotify.com/track/0eBBx8qZS6PaNrv4hSjqMj)
+- [Same Love by Priior](https://open.spotify.com/track/27XUQvyuao15aRHWDqwjin)
+- [Home by THE21](https://open.spotify.com/track/0X3bAPlwrlSJTJUfAS8bi5)
+- [On Your Mind by aural](https://open.spotify.com/track/0iUYjYT4gVBfaG6umwpRAR)
+- [Too Close by Duce, terro](https://open.spotify.com/track/3BViioPyfENAfJdk8TpXB1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
