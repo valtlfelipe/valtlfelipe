@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Sweet Release by Nu Aspect](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq)
-- [blackout blackout by all things break](https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ)
-- [Cold World by Why U So](https://open.spotify.com/track/2qxg6IDl6zfTDBI6M7xeTM)
-- [Leave Behind by Astrality, Krysta Youngs, Andro](https://open.spotify.com/track/0hXpNsYnw831qvqCDOCbz5)
-- [99 Eyes by Daydream Affiliate](https://open.spotify.com/track/2kWwTQdFg2Phlu5grf9bQg)
+- [Can’t Let Go by Tony El Campeon](https://open.spotify.com/track/3AlwbXxd538incpEUmTcfR)
+- [Wish You Were Here by DJ Katch, Crudu](https://open.spotify.com/track/5Ny3P72DhotKKVjQNLcuJR)
+- [No Clouds by oskar med k, MEGGO](https://open.spotify.com/track/4xcet4z4oiexYoIyZYX9Xz)
+- [Spaces by heylucas, Nina Carr](https://open.spotify.com/track/5yLTM5IymPejtwczLa42QM)
+- [Nothing Else Played by After Midnight Deep](https://open.spotify.com/track/0dEiC6LObUtKatjHXhBekB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
