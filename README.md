@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Push It by MIND](https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M)
-- [Take Me Under by Daniel Allan, Liv Grace Blue](https://open.spotify.com/track/6tcRvwmJSYjxJ1ERWaEWs4)
-- [Bette Davis Eyes by Elderbrook](https://open.spotify.com/track/1RZOXKIsd4ivru5jx2P9lI)
-- [Watching over You by Nu Aspect, Marlo Rex](https://open.spotify.com/track/3OTz9JVR0pfKbhaCL45cJy)
-- [alone by oskar med k, Marini](https://open.spotify.com/track/2blDjFWTwj3re1FLJHuJV7)
+- [YOU ARE MY SUNSHINE by Palm Monkey, RUSSI](https://open.spotify.com/track/7BnCxiZrvSeEtO4MvmV6Fp)
+- [RUNNIN by Ubo](https://open.spotify.com/track/1jNsWnyvbwysESO9anm7H3)
+- [healer by oskar med k](https://open.spotify.com/track/6rjptxqIhBWu9WU6vgimCC)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [AWGAZI by Palm Monkey, RUSSI, The Palm Tree Boy](https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
