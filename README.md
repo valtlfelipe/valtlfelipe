@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Where U Going by Neon Tide](https://open.spotify.com/track/7gwI6vjJKqpXkA1Zgfjn31)
-- [Silver Lines by Astrality, Daydream Affiliate](https://open.spotify.com/track/75X2LLppcaCG2mm6RcxyoI)
-- [Called Your Name by Nu Aspect, Jake Neumar](https://open.spotify.com/track/27z5prnleELd1ifzlnaEHJ)
-- [can i come by kalm](https://open.spotify.com/track/6ZIPhmgKBg48ncKM1EpeYx)
-- [Spellbound by oskar med k](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T)
+- [Who Are You by After Midnight Deep](https://open.spotify.com/track/2BaVnyxhT5Tdn3gPOrT5e7)
+- [Miss Me When I&#39;m Gone by Will Sass](https://open.spotify.com/track/4p3w6iZ2GtxGl0m4sUMihv)
+- [for my old me by rüüdy.](https://open.spotify.com/track/1FMEdC1pUDE6gWjoaaBvo0)
+- [Clocks by Daydream Affiliate, Reiny](https://open.spotify.com/track/1khdndUaPoIDrJ1Yo5E6xO)
+- [Keep Dancing by heylucas, Lily Denning](https://open.spotify.com/track/4VLmZNvz2x8X5uZVqK6IOY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
