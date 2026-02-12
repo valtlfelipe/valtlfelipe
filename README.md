@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Better On The Other Side by Rytes](https://open.spotify.com/track/3NDPEnw9HkcCC8QQoBjXHU)
+- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
 - [Frozen in Time by aiden](https://open.spotify.com/track/7k774GQLbe78zxvfcYaZ38)
 - [Yearning For You by fwd/slash](https://open.spotify.com/track/2IWDOZYiugAgXOOQLRePqk)
 - [bad timing by Does it matter, a.bech](https://open.spotify.com/track/1oyFFEXxEotGUEORygmMZs)
-- [Fall For You by Passing Clouds](https://open.spotify.com/track/2zRMhiA8HqafX4zQd6Lu6r)
-- [A Certain Ambiguity by zaccwithtwocs](https://open.spotify.com/track/4V05yJ1qeMduohVxOFiVXo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
