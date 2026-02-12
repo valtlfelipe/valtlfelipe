@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Better On The Other Side by Rytes](https://open.spotify.com/track/3NDPEnw9HkcCC8QQoBjXHU)
-- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
-- [Frozen in Time by aiden](https://open.spotify.com/track/7k774GQLbe78zxvfcYaZ38)
-- [Yearning For You by fwd/slash](https://open.spotify.com/track/2IWDOZYiugAgXOOQLRePqk)
-- [bad timing by Does it matter, a.bech](https://open.spotify.com/track/1oyFFEXxEotGUEORygmMZs)
+- [Where U Going by Neon Tide](https://open.spotify.com/track/7gwI6vjJKqpXkA1Zgfjn31)
+- [Silver Lines by Astrality, Daydream Affiliate](https://open.spotify.com/track/75X2LLppcaCG2mm6RcxyoI)
+- [Called Your Name by Nu Aspect, Jake Neumar](https://open.spotify.com/track/27z5prnleELd1ifzlnaEHJ)
+- [can i come by kalm](https://open.spotify.com/track/6ZIPhmgKBg48ncKM1EpeYx)
+- [Spellbound by oskar med k](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
