@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
-- [Jenny (I Wanna Ruin Our Friendship) by Ian Asher, Studio Killers](https://open.spotify.com/track/3Kx7gavZ1oFRnB2trqLLLM)
-- [Through The Night by Lynnic, ItsArius, ARI.](https://open.spotify.com/track/1KXLA5DWyLYeblY5d36kEp)
-- [magnetic magnetic by all things break](https://open.spotify.com/track/3YKoS1fMWceK5I8rWelLxD)
-- [Meet Me at the Bottom - SHAKING Remix by Lyrah, SHAKING](https://open.spotify.com/track/25GUWqv2eIBjpftkYYwgWC)
+- [We Are Here by Thierry Von Der Warth, Jorden Dux](https://open.spotify.com/track/2RSAQw13BZJBeZiXpBKjz0)
+- [Aftertaste by CARTFISH](https://open.spotify.com/track/2OF6kU2IoJU68h8w9exPLV)
+- [BOY, WAS I WRONG by CHAIME](https://open.spotify.com/track/4GyuhBBnmHH3GREQnbHCrs)
+- [PEGASUS by Alex LeMirage](https://open.spotify.com/track/2QBMthJ5uDZMYvcJNZsDDl)
+- [Teardrops by Why U So](https://open.spotify.com/track/44qyK0YHfZz9AngFaWmycU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
