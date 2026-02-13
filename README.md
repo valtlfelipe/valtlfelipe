@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
-- [Vertigo by Lyrah](https://open.spotify.com/track/5DhX7ONhSw9SDPfXgirEBY)
-- [CALL OUT MY NAME by Palm Monkey, RUSSI, Palm Brothers](https://open.spotify.com/track/0YYedbgKYRJCxptDCSD1KL)
-- [Teardrop by Elderbrook, Jan Blomqvist](https://open.spotify.com/track/0xnLakFlp3s0FEhM4Bhpzq)
-- [On &amp; On by Chris Lake, Yael Watchman](https://open.spotify.com/track/4etHuFADJ1ZxYYLj40nEiu)
+- [Knock Me Off My Feet by oskar med k](https://open.spotify.com/track/6Xgbgdi7F7BGrZPrYcxFVl)
+- [Stay by Palm Monkey, Feel On Eel](https://open.spotify.com/track/0F5Xx83Gad2HlU8N5fpglk)
+- [You&#39;re Still Here by deep dispatch](https://open.spotify.com/track/2ylJQRwHXZyE5C1g2Qw1Rh)
+- [Closer by Luis Coren, BLUSHxBLUSH](https://open.spotify.com/track/1Dw6NaeFt4eJelB2qRURzq)
+- [Fame Will Find You by Tony El Campeon](https://open.spotify.com/track/4t3EugsviQPvGfHEQb1RKJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
