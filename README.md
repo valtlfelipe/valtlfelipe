@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Can&#39;t Go Back by Astrality, James French](https://open.spotify.com/track/2MjUXeQsfJAFhSXvpojmQX)
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
-- [signs by abelon](https://open.spotify.com/track/1juVEeNjoN2R3A6KnP9ad5)
-- [Celebrate by PLÜM](https://open.spotify.com/track/0cu0NfxEvCUtCiZyDO0Nwt)
-- [Make Me Your Matter (Me &amp; You) by SEVENTH](https://open.spotify.com/track/0n26VjByDyCJeMeNOOS74Z)
+- [can i come by kalm](https://open.spotify.com/track/6ZIPhmgKBg48ncKM1EpeYx)
+- [Spellbound by oskar med k](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T)
+- [Falling for the Feeling by MIND](https://open.spotify.com/track/5GnkqqWGbPZLp1T2l0PZO8)
+- [Stay by Julien Fade](https://open.spotify.com/track/6UTUFTUBJEDtO9HXWO1KEA)
+- [Rain by FISHER](https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
