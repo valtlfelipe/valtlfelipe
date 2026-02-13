@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
 - [Vertigo by Lyrah](https://open.spotify.com/track/5DhX7ONhSw9SDPfXgirEBY)
 - [CALL OUT MY NAME by Palm Monkey, RUSSI, Palm Brothers](https://open.spotify.com/track/0YYedbgKYRJCxptDCSD1KL)
 - [Teardrop by Elderbrook, Jan Blomqvist](https://open.spotify.com/track/0xnLakFlp3s0FEhM4Bhpzq)
 - [On &amp; On by Chris Lake, Yael Watchman](https://open.spotify.com/track/4etHuFADJ1ZxYYLj40nEiu)
-- [Self Control by Lynnic, ItsArius, Lilly](https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
