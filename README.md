@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Keep It Simple by Jend](https://open.spotify.com/track/3bH6Lu3YbcsR5DRSEX9xW1)
-- [Someone to Hold by Nu Aspect, Tudor](https://open.spotify.com/track/3ZxAvk6788NXvTsvl0qqEF)
-- [We Don&#39;t Care by NM](https://open.spotify.com/track/7JoU7nlz1OjyK53S4ABStt)
-- [bleed for your love by puulse, Francis Skyes](https://open.spotify.com/track/1E77lqCDhIyZqYfzyzgpDO)
-- [AWOKEN by ANDRW FLAMEZ](https://open.spotify.com/track/6d5JtjvbfQZCIzBFHWOmiO)
+- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
+- [Jenny (I Wanna Ruin Our Friendship) by Ian Asher, Studio Killers](https://open.spotify.com/track/3Kx7gavZ1oFRnB2trqLLLM)
+- [Through The Night by Lynnic, ItsArius, ARI.](https://open.spotify.com/track/1KXLA5DWyLYeblY5d36kEp)
+- [magnetic magnetic by all things break](https://open.spotify.com/track/3YKoS1fMWceK5I8rWelLxD)
+- [Meet Me at the Bottom - SHAKING Remix by Lyrah, SHAKING](https://open.spotify.com/track/25GUWqv2eIBjpftkYYwgWC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
