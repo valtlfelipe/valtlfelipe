@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [can i come by kalm](https://open.spotify.com/track/6ZIPhmgKBg48ncKM1EpeYx)
-- [Spellbound by oskar med k](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T)
-- [Falling for the Feeling by MIND](https://open.spotify.com/track/5GnkqqWGbPZLp1T2l0PZO8)
-- [Stay by Julien Fade](https://open.spotify.com/track/6UTUFTUBJEDtO9HXWO1KEA)
-- [Rain by FISHER](https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U)
+- [Heartbeat by MIND](https://open.spotify.com/track/6RLBwMcxEX9QS2XYO7Xc52)
+- [eyes open by kalm, Aiko](https://open.spotify.com/track/54pLFtmVWrOL6zxfREiJcI)
+- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
+- [I Want You (Rules Remix) by Vandelux, Rules](https://open.spotify.com/track/7iigoDjQzcLJSVtpmSQMoc)
+- [Where U Going by Neon Tide](https://open.spotify.com/track/7gwI6vjJKqpXkA1Zgfjn31)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
