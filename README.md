@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Keep Dancing by heylucas, Lily Denning](https://open.spotify.com/track/4VLmZNvz2x8X5uZVqK6IOY)
-- [Lost You (Avaris Remix) by oskar med k, Avaris](https://open.spotify.com/track/2VfuMk4kSFYJE7NNvpnMDg)
-- [Downtown Light by Why U So](https://open.spotify.com/track/3pled4Jr2laBWkJJFwo6TJ)
-- [gravity by all things break](https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8)
-- [HONEY by Levi, Akon, Roy Woods, Halle Abadi](https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3)
+- [XOXO by Gravagerz](https://open.spotify.com/track/5E8a5pF0xAZOGEoLIFKzT5)
+- [Take My Hand Tonight by MIND](https://open.spotify.com/track/43HECX8GKH8nCWjLPapDpi)
+- [Sign (Revision) by TWO LANES, Nohr](https://open.spotify.com/track/5O8T8WO7p1Fx6CM1lT1s7J)
+- [around by oskar med k](https://open.spotify.com/track/5xgdCbT3pRtf5xol8D22Mv)
+- [Until We Leave the Ground - Steve James Remix by Emmit Fenn, Steve James](https://open.spotify.com/track/3LX6Bv3jfbABw1KQsYOYtZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
