@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [We Are Here by Thierry Von Der Warth, Jorden Dux](https://open.spotify.com/track/2RSAQw13BZJBeZiXpBKjz0)
-- [Aftertaste by CARTFISH](https://open.spotify.com/track/2OF6kU2IoJU68h8w9exPLV)
-- [BOY, WAS I WRONG by CHAIME](https://open.spotify.com/track/4GyuhBBnmHH3GREQnbHCrs)
-- [PEGASUS by Alex LeMirage](https://open.spotify.com/track/2QBMthJ5uDZMYvcJNZsDDl)
-- [Teardrops by Why U So](https://open.spotify.com/track/44qyK0YHfZz9AngFaWmycU)
+- [Constellations by Ian Asher, Jade LeMac](https://open.spotify.com/track/2qtQauWqPaGHrmrXbDa35k)
+- [Help Me Lose My Mind - Slowed Down by Gravagerz](https://open.spotify.com/track/6eLaP1VW9Moy2AHijWfhxl)
+- [Cold World - Extended by Why U So](https://open.spotify.com/track/7kMXIOHcCrMXuf2GsI1KQs)
+- [Love Me The Same by Astrality, Krysta Youngs](https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW)
+- [Better by nimino, Manta](https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
