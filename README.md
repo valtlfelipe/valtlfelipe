@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Wish You Were Here by DJ Katch, Crudu](https://open.spotify.com/track/5Ny3P72DhotKKVjQNLcuJR)
-- [No Clouds by oskar med k, MEGGO](https://open.spotify.com/track/4xcet4z4oiexYoIyZYX9Xz)
-- [Spaces by heylucas, Nina Carr](https://open.spotify.com/track/5yLTM5IymPejtwczLa42QM)
-- [Nothing Else Played by After Midnight Deep](https://open.spotify.com/track/0dEiC6LObUtKatjHXhBekB)
-- [Body by Why U So](https://open.spotify.com/track/2vzYZFEixKjhfCeSCvQcS8)
+- [Belong by Astrality, soleil, Kleeve](https://open.spotify.com/track/5LcGjaGobr1U6bsl6qpuWi)
+- [belong to one by oskar med k](https://open.spotify.com/track/1M80fAZWp0IXmwwrpM2Hz1)
+- [2 Little 2 Late by Levi, Mario](https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7)
+- [Hurts by EBEN](https://open.spotify.com/track/6bKOQSAL8FMeu8qEdlBZNx)
+- [Mood Song by Why U So, Lua Sola](https://open.spotify.com/track/79fIQTrSfK6J9r8va0INAo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
