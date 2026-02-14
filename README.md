@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Belong by Astrality, soleil, Kleeve](https://open.spotify.com/track/5LcGjaGobr1U6bsl6qpuWi)
-- [belong to one by oskar med k](https://open.spotify.com/track/1M80fAZWp0IXmwwrpM2Hz1)
-- [2 Little 2 Late by Levi, Mario](https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7)
-- [Hurts by EBEN](https://open.spotify.com/track/6bKOQSAL8FMeu8qEdlBZNx)
-- [Mood Song by Why U So, Lua Sola](https://open.spotify.com/track/79fIQTrSfK6J9r8va0INAo)
+- [alone by oskar med k, Marini](https://open.spotify.com/track/2blDjFWTwj3re1FLJHuJV7)
+- [I got you by Disclaimer](https://open.spotify.com/track/3QuLdlQ9Yu5IObbKM2V5Sb)
+- [When I&#39;m into You by GOBAITH](https://open.spotify.com/track/1savw4xrxZyzBfc2eRnPvp)
+- [Bloom by Astrality, FLORES](https://open.spotify.com/track/1rb65ahUV0k2QYq4x3Fi9y)
+- [HOT THOUGHTS (COME TO LIFE) by CHAIME](https://open.spotify.com/track/648Mm61Clktn0Hlzkgstp6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
