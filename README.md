@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Start by oskar med k](https://open.spotify.com/track/4Q7OEHRsEXCoT8dGpGXzyu)
-- [Keep Me by Julien Fade, Tudor, Caroline Byrne](https://open.spotify.com/track/4rC0oFLNAXlKDRrI2xHhhA)
-- [cloud chaser by kalm](https://open.spotify.com/track/4KXVEMVQngyfj6I3MlVOGJ)
-- [Satellite Signal by MIND](https://open.spotify.com/track/3pMuJthG4asb1jPrP2Llnu)
-- [Playback by Daydream Affiliate](https://open.spotify.com/track/1cIwWZ0UUervIBRfl8mwzc)
+- [Wish You Were Here by DJ Katch, Crudu](https://open.spotify.com/track/5Ny3P72DhotKKVjQNLcuJR)
+- [No Clouds by oskar med k, MEGGO](https://open.spotify.com/track/4xcet4z4oiexYoIyZYX9Xz)
+- [Spaces by heylucas, Nina Carr](https://open.spotify.com/track/5yLTM5IymPejtwczLa42QM)
+- [Nothing Else Played by After Midnight Deep](https://open.spotify.com/track/0dEiC6LObUtKatjHXhBekB)
+- [Body by Why U So](https://open.spotify.com/track/2vzYZFEixKjhfCeSCvQcS8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
