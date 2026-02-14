@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Skills to automate app store deployed and everything related to it using the asc cli (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Satellite Signal by MIND](https://open.spotify.com/track/3pMuJthG4asb1jPrP2Llnu)
+- [Playback by Daydream Affiliate](https://open.spotify.com/track/1cIwWZ0UUervIBRfl8mwzc)
+- [stay by oskar med k, Kitty Mack](https://open.spotify.com/track/2NzRB5dnMNao0v5d6zMaAL)
+- [5 Minutes by Don Diablo, Pink Sweat$](https://open.spotify.com/track/5FY5bSkPdugbE0i1psTU86)
 - [Part Of Me by Neascape](https://open.spotify.com/track/6bJiWavSBej10Ub92KJufG)
-- [Your Side by Mattend](https://open.spotify.com/track/2joT5Z8PWlgyerpLWqkdeB)
-- [half of you is not enough by oskar med k, Marini](https://open.spotify.com/track/0QfaEov16yHsIs1GL6QQau)
-- [Edge of Desire by Jonas Blue, Malive](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT)
-- [You&#39;re a Light by heylucas, Benji Lewis](https://open.spotify.com/track/0bCDIXl7BFRY3Re4RNsx9c)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
