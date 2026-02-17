@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Still Waves by Farbenklang](https://open.spotify.com/track/22abSoCHBHlbIlMhEY3qav)
-- [new balance by nova fell](https://open.spotify.com/track/52E8cEqDhkNIF2R9VCt2DR)
-- [Rising Sun by Ocean East](https://open.spotify.com/track/4kQMYQM70PTPnqy7mvm6yW)
-- [love u by heylucas, Lily Denning](https://open.spotify.com/track/0rCtHcW3wmcZkflrMw73VT)
-- [Seaside Breeze by Dokho](https://open.spotify.com/track/0VmOb1zyfsHIjR9vMsQngR)
+- [Lay Me Down by Panuma, blaank, Nina Carr](https://open.spotify.com/track/6VF1Wb7vNeO87tmhzo9Mqe)
+- [Parallax by Luwaks](https://open.spotify.com/track/0ckROgGxhK8F48VSue3jjj)
+- [Love It When You Lie by Isam Hadjih](https://open.spotify.com/track/0km5EKHZCbjYclrVA8saGc)
+- [More Time by Arctik](https://open.spotify.com/track/5U0vv4cIUZADO4pwLV8HfA)
+- [Lose Ourselves To Love by Abov, lunea](https://open.spotify.com/track/0u42RBBADpqS7whNIwbzfH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
