@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Malibu - Extended Mix by UOAK](https://open.spotify.com/track/1ScZ9Q1e07cm1C7xFlRnuJ)
-- [Insomniac by LAR, Keepa](https://open.spotify.com/track/2fztcPC3IMJKrDIgYcbViV)
-- [Take Me Away - Chill Mix by Chris Savor](https://open.spotify.com/track/1GOtrX5YPlex0JQab6THzi)
-- [I&#39;ll Wait by Lane 8, Channy Leaneagh](https://open.spotify.com/track/1bBglCIHeIwR78kJXJzkZo)
-- [Wicked Game by Courtney Storm](https://open.spotify.com/track/3F6mmS0pMKc0JG2fqrfI3y)
+- [Shadow by Moonkids](https://open.spotify.com/track/7uIMpL2q2PbRPaY9w4UQVS)
+- [Quiet Place by Fløa](https://open.spotify.com/track/1qSvzISucONqyrEdn9Xvwx)
+- [Solid Ground by Marc Wiese, Gabi Juliano](https://open.spotify.com/track/5uF3feCtXIELkY396WUg5e)
+- [With You by Floating Club](https://open.spotify.com/track/0kDDQshXJ5wcMPYC7cMOTQ)
+- [Better Place - Extended Mix by LAR, ALLKNIGHT](https://open.spotify.com/track/6pH3KT9ccjrwuPKlrxbCPu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
