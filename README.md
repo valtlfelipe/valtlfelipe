@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Know Who You Are by San Mateo Drive, Ren Ocean](https://open.spotify.com/track/0uz7gY8pdvz0cm063f2OVS)
-- [White Lie by Hessian, Emma Mae](https://open.spotify.com/track/1njftOjmyXeibS6TvwiCB0)
-- [lift me up by offrails](https://open.spotify.com/track/7rNyDsOI1IjnOUD5nTzDuM)
-- [What I Do by Neascape, Colin Stauber](https://open.spotify.com/track/5KxpN59MKTvKWqq0USHws2)
-- [Stay Around by Benne](https://open.spotify.com/track/5psqF7mYRNZWGS3E7969rx)
+- [Summer Is Ours (G&#39;s Dust Up) by GARZA, ENEMY PLANES](https://open.spotify.com/track/4XT191Yelwq1l8oy4eV7yA)
+- [Won&#39;t Let You Go by POURI X](https://open.spotify.com/track/7yBnbyWted0Q6RAyJnHKk1)
+- [Another Way by l&#39;essay, Cal1](https://open.spotify.com/track/5FdxRbnEDPEGudUu8e28Qi)
+- [Night Drives by HGenius](https://open.spotify.com/track/1Vl9Hnxu08bUo2Z8i8siB9)
+- [hey now by rayn, cloudseven, MELINA](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
