@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Sunset and You by Sole Sole](https://open.spotify.com/track/0xoClkfMQVpn2VPa598UlI)
-- [alive by beinghonest., sunsetdream.](https://open.spotify.com/track/1NIXuaLE1Y3xbg9PJyMJmK)
-- [Start Today by Baked Moon, outset island](https://open.spotify.com/track/0nVVyZQDvNX303LqKibo8i)
-- [Messed Up by Dim Sum](https://open.spotify.com/track/2lMXLM0yFQ8znkXLcFx00S)
-- [A Little Closer by Seawayz](https://open.spotify.com/track/7CEShR1WSwYD6J4rzIN3fx)
+- [bad timing by Does it matter, a.bech](https://open.spotify.com/track/1oyFFEXxEotGUEORygmMZs)
+- [Another Love by Solayne, Her Majesty](https://open.spotify.com/track/7slFkdJoxNJ2NAvp98MauA)
+- [Drowning by Marc Wiese, Marina Marie](https://open.spotify.com/track/415vmoCYhhfS10GnKKy59h)
+- [Spaces by Phello](https://open.spotify.com/track/0MKSAw17WOB7GvThGvZFRD)
+- [Out Of Black by Banaati](https://open.spotify.com/track/7lIjRMbAJlkfcXBRpefE1a)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
