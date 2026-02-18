@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [bleed for your love by puulse, Francis Skyes](https://open.spotify.com/track/1E77lqCDhIyZqYfzyzgpDO)
-- [Fields by TOMB](https://open.spotify.com/track/44LfzmG2ixSPGn2bwJxoOn)
-- [Remember Those Days by Vander](https://open.spotify.com/track/3Fk3ckGBQIatkGnsD5Q7tY)
-- [Quilt by birø, CEDU](https://open.spotify.com/track/2uBB8rFmizZhxGyIXcW9q5)
-- [Better by Iskarelyn](https://open.spotify.com/track/4mACgq9idslRsBBxbGOZH1)
+- [Fine Line by Solayne, Nina Carr](https://open.spotify.com/track/1Zs00RxHcTA6BhoGSm7tI0)
+- [Lost Without You by aiden](https://open.spotify.com/track/0hCwSqaXMxvNO1ST2imfJz)
+- [It Ain&#39;t Over by BALEĀ](https://open.spotify.com/track/4DFQSAlR2rZ6tnvqiMrZUE)
+- [Happy Again by hexale, Phoebe Tsen](https://open.spotify.com/track/0pEes7u46aS68jrSz6j3xe)
+- [Hurrungane by Luwaks](https://open.spotify.com/track/16zU20k3oPGdkzvIQ7YPXI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
