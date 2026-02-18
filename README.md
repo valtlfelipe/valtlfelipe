@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Far From Nothing by Fløa, Seawayz](https://open.spotify.com/track/31YSuadkIl4xznR2GnGY2X)
-- [Silver Lining - Mixed by Falden](https://open.spotify.com/track/2Cq3I2TASs3nUS4ClDShbg)
-- [Daylight - Mixed by mölly, Bridges](https://open.spotify.com/track/1nUsQwMWOJ2x4u2VjofTHF)
-- [idoido by 6sept](https://open.spotify.com/track/0Bv0ZNPOBilJZbQzFXxYq6)
-- [Feels So Long To Go by Oliver River](https://open.spotify.com/track/0ANfHJ3ywuW2SYdFSsFk2u)
+- [bleed for your love by puulse, Francis Skyes](https://open.spotify.com/track/1E77lqCDhIyZqYfzyzgpDO)
+- [Fields by TOMB](https://open.spotify.com/track/44LfzmG2ixSPGn2bwJxoOn)
+- [Remember Those Days by Vander](https://open.spotify.com/track/3Fk3ckGBQIatkGnsD5Q7tY)
+- [Quilt by birø, CEDU](https://open.spotify.com/track/2uBB8rFmizZhxGyIXcW9q5)
+- [Better by Iskarelyn](https://open.spotify.com/track/4mACgq9idslRsBBxbGOZH1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
