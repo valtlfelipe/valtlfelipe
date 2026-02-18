@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Stay Here by Sole Sole](https://open.spotify.com/track/3LoJQaLgdeBkwAmyAj1cmn)
-- [downtown by aural](https://open.spotify.com/track/7EtsJEFabVvRzesru8CtOT)
-- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
-- [Thus Far by Hessian](https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN)
-- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
+- [Made It Here by Hessian](https://open.spotify.com/track/4rw8ZJEGDiAk3VEiSpgTJl)
+- [Slip Away by Nils Hoffmann, SILÖ](https://open.spotify.com/track/7bC2RqSBp19D0FUxhWpFR5)
+- [One Last Dance by Audien, XIRA](https://open.spotify.com/track/0D5GWT5Dk0GmEZnccVlrEM)
+- [once in a lifetime by aelera](https://open.spotify.com/track/6HquCWZULfADar01bigEPg)
+- [Someone To You by Great Good Fine Ok](https://open.spotify.com/track/6AUNDGSirGLAPEzwqbtTrB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
