@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Made It Here by Hessian](https://open.spotify.com/track/4rw8ZJEGDiAk3VEiSpgTJl)
-- [Slip Away by Nils Hoffmann, SILÖ](https://open.spotify.com/track/7bC2RqSBp19D0FUxhWpFR5)
-- [One Last Dance by Audien, XIRA](https://open.spotify.com/track/0D5GWT5Dk0GmEZnccVlrEM)
-- [once in a lifetime by aelera](https://open.spotify.com/track/6HquCWZULfADar01bigEPg)
-- [Someone To You by Great Good Fine Ok](https://open.spotify.com/track/6AUNDGSirGLAPEzwqbtTrB)
+- [The Way Home by terro](https://open.spotify.com/track/4Rrj19ze7ZO6tMjcSmu3kk)
+- [Back To My Bed - VIP by Elderbrook](https://open.spotify.com/track/0eAF1CwZftTIJekNPh12uB)
+- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
+- [Feel It by Coffee Cub](https://open.spotify.com/track/0I8CpprdTN9Y5mKt8KWEHM)
+- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
