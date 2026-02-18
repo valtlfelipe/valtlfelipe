@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Summer Is Ours (G&#39;s Dust Up) by GARZA, ENEMY PLANES](https://open.spotify.com/track/4XT191Yelwq1l8oy4eV7yA)
-- [Won&#39;t Let You Go by POURI X](https://open.spotify.com/track/7yBnbyWted0Q6RAyJnHKk1)
-- [Another Way by l&#39;essay, Cal1](https://open.spotify.com/track/5FdxRbnEDPEGudUu8e28Qi)
-- [Night Drives by HGenius](https://open.spotify.com/track/1Vl9Hnxu08bUo2Z8i8siB9)
-- [hey now by rayn, cloudseven, MELINA](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork)
+- [Divine by Pjor](https://open.spotify.com/track/6vBQFZDHN7aVnAvFIIHexe)
+- [December by CARMA](https://open.spotify.com/track/1vQTW8TRwxNo5I3xMs7Q5p)
+- [Phantom by Brascon, Tania Zygar, Calper](https://open.spotify.com/track/10F9NbRODLV9WnEJ7Tr5Ix)
+- [You&#39;re the One for Me - Digital Farm Animals Remix by Great Good Fine Ok, Digital Farm Animals](https://open.spotify.com/track/0FYdQA9Fc3WCev394djbmF)
+- [The Northern Saga by Luwaks](https://open.spotify.com/track/1wt1xQv1Qrogwa7n3jv0OU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
