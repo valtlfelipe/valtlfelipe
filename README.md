@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Fine Line by Solayne, Nina Carr](https://open.spotify.com/track/1Zs00RxHcTA6BhoGSm7tI0)
-- [Lost Without You by aiden](https://open.spotify.com/track/0hCwSqaXMxvNO1ST2imfJz)
-- [It Ain&#39;t Over by BALEĀ](https://open.spotify.com/track/4DFQSAlR2rZ6tnvqiMrZUE)
-- [Happy Again by hexale, Phoebe Tsen](https://open.spotify.com/track/0pEes7u46aS68jrSz6j3xe)
-- [Hurrungane by Luwaks](https://open.spotify.com/track/16zU20k3oPGdkzvIQ7YPXI)
+- [Know Who You Are by San Mateo Drive, Ren Ocean](https://open.spotify.com/track/0uz7gY8pdvz0cm063f2OVS)
+- [White Lie by Hessian, Emma Mae](https://open.spotify.com/track/1njftOjmyXeibS6TvwiCB0)
+- [lift me up by offrails](https://open.spotify.com/track/7rNyDsOI1IjnOUD5nTzDuM)
+- [What I Do by Neascape, Colin Stauber](https://open.spotify.com/track/5KxpN59MKTvKWqq0USHws2)
+- [Stay Around by Benne](https://open.spotify.com/track/5psqF7mYRNZWGS3E7969rx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
