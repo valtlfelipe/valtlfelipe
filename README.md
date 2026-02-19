@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Divine by Pjor](https://open.spotify.com/track/6vBQFZDHN7aVnAvFIIHexe)
-- [December by CARMA](https://open.spotify.com/track/1vQTW8TRwxNo5I3xMs7Q5p)
-- [Phantom by Brascon, Tania Zygar, Calper](https://open.spotify.com/track/10F9NbRODLV9WnEJ7Tr5Ix)
-- [You&#39;re the One for Me - Digital Farm Animals Remix by Great Good Fine Ok, Digital Farm Animals](https://open.spotify.com/track/0FYdQA9Fc3WCev394djbmF)
-- [The Northern Saga by Luwaks](https://open.spotify.com/track/1wt1xQv1Qrogwa7n3jv0OU)
+- [love u by heylucas, Lily Denning](https://open.spotify.com/track/0rCtHcW3wmcZkflrMw73VT)
+- [Seaside Breeze by Dokho](https://open.spotify.com/track/0VmOb1zyfsHIjR9vMsQngR)
+- [It&#39;s Fine by Lowkey](https://open.spotify.com/track/4eqaX64vFBrKaK1lKsoNpR)
+- [Summer Sun by NLSN](https://open.spotify.com/track/3JJdKZVsLGtJjALGWTIGoS)
+- [Keep You Safe by Palma Palma](https://open.spotify.com/track/5dZnNb7KGqgnDBOIDFYFR5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
