@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Back To My Bed - VIP by Elderbrook](https://open.spotify.com/track/0eAF1CwZftTIJekNPh12uB)
+- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
+- [Feel It by Coffee Cub](https://open.spotify.com/track/0I8CpprdTN9Y5mKt8KWEHM)
 - [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
 - [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
-- [selune by red alder](https://open.spotify.com/track/6tb94ybwUXix8NQw848Zzu)
-- [There For You by Banaati, Jako Diaz](https://open.spotify.com/track/5vAU1d5B4vcg4Wq9CRhEuE)
-- [Grey Vail by Fløa](https://open.spotify.com/track/2pzKkuUEX1D2wHzQVovQOd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
