@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Closer by blaank, Jörd, Lighthouse](https://open.spotify.com/track/4RF358diHjNIMYzxQWXKRy)
-- [On Your Mind by aural](https://open.spotify.com/track/0iUYjYT4gVBfaG6umwpRAR)
-- [Be Somebody by Midnight Pass](https://open.spotify.com/track/7vaJ4jJfxQVoJOGujY8xOS)
-- [Ocean Waves by Phello](https://open.spotify.com/track/3Iv5g3L8Vk5lLYehBi1nnw)
-- [Lose Control by Banaati, Max Blücher, KARTINI](https://open.spotify.com/track/7dZDTCKoEYHjW1lHio6gne)
+- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
+- [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
+- [selune by red alder](https://open.spotify.com/track/6tb94ybwUXix8NQw848Zzu)
+- [There For You by Banaati, Jako Diaz](https://open.spotify.com/track/5vAU1d5B4vcg4Wq9CRhEuE)
+- [Grey Vail by Fløa](https://open.spotify.com/track/2pzKkuUEX1D2wHzQVovQOd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
