@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [The Northern Saga by Luwaks](https://open.spotify.com/track/1wt1xQv1Qrogwa7n3jv0OU)
-- [Next to Me by Boo Seeka](https://open.spotify.com/track/5NCW0W49nae0cMSy4jcYuZ)
-- [Lighter by Walk on Water, ERIICE](https://open.spotify.com/track/5GV1V8gGI7fPXN8JONGKeG)
-- [Never Change by Stevie Appleton](https://open.spotify.com/track/0cTvHN1nMaINu2cZFK87d8)
-- [Love Me by NΔNO](https://open.spotify.com/track/42SgyfCLFt3QLkCXwRJXLX)
+- [Keep You Safe by Palma Palma](https://open.spotify.com/track/5dZnNb7KGqgnDBOIDFYFR5)
+- [wanna go by beinghonest., sunsetdream.](https://open.spotify.com/track/1JWpGTri05kTOXvsZS5rhN)
+- [The Right Time by Moonkids](https://open.spotify.com/track/6l52VSiGFRHFnuHn27jp8T)
+- [Stepping Into Paradise by BARELO, Susie Ledge](https://open.spotify.com/track/18K9hO0YAqTc2x9Fx1YUqk)
+- [Try Again by Philia, Austin Salter](https://open.spotify.com/track/6fcAV1dKc8TRIRBja5E1om)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
