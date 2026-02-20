@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Back To My Bed - VIP by Elderbrook](https://open.spotify.com/track/0eAF1CwZftTIJekNPh12uB)
-- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
-- [Feel It by Coffee Cub](https://open.spotify.com/track/0I8CpprdTN9Y5mKt8KWEHM)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
-- [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
+- [Just Once More by outer | sunset](https://open.spotify.com/track/2LIDty6UjGVFdrIYEPQYFx)
+- [windy shores by moire](https://open.spotify.com/track/37Af3MDuFQir712qRhknDP)
+- [Somersault by Phello](https://open.spotify.com/track/3w4pBcKAR9eWO8quKe0UiU)
+- [Only With You by Rowland Giles](https://open.spotify.com/track/06JlyPswhrpSmrMxh19p90)
+- [weightless by cypress](https://open.spotify.com/track/45UjcIbW9sWfPPKeEHh5GL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
