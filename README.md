@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Too Close by Duce, terro](https://open.spotify.com/track/3BViioPyfENAfJdk8TpXB1)
-- [Far From Nothing by Fløa, Seawayz](https://open.spotify.com/track/31YSuadkIl4xznR2GnGY2X)
-- [Silver Lining - Mixed by Falden](https://open.spotify.com/track/2Cq3I2TASs3nUS4ClDShbg)
-- [Daylight - Mixed by mölly, Bridges](https://open.spotify.com/track/1nUsQwMWOJ2x4u2VjofTHF)
-- [idoido by 6sept](https://open.spotify.com/track/0Bv0ZNPOBilJZbQzFXxYq6)
+- [Happy Again by hexale, Phoebe Tsen](https://open.spotify.com/track/0pEes7u46aS68jrSz6j3xe)
+- [Hurrungane by Luwaks](https://open.spotify.com/track/16zU20k3oPGdkzvIQ7YPXI)
+- [Thoughts Of You by fwd/slash](https://open.spotify.com/track/0oaQir7edmmFUTW7t137eW)
+- [Dharma by Maple Sun](https://open.spotify.com/track/6MDcTjBKJ8XbZJg5PQcNCo)
+- [bleed for your love by puulse, Francis Skyes](https://open.spotify.com/track/1E77lqCDhIyZqYfzyzgpDO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
