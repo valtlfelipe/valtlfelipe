@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Keep You Safe by Palma Palma](https://open.spotify.com/track/5dZnNb7KGqgnDBOIDFYFR5)
-- [wanna go by beinghonest., sunsetdream.](https://open.spotify.com/track/1JWpGTri05kTOXvsZS5rhN)
-- [The Right Time by Moonkids](https://open.spotify.com/track/6l52VSiGFRHFnuHn27jp8T)
-- [Stepping Into Paradise by BARELO, Susie Ledge](https://open.spotify.com/track/18K9hO0YAqTc2x9Fx1YUqk)
-- [Try Again by Philia, Austin Salter](https://open.spotify.com/track/6fcAV1dKc8TRIRBja5E1om)
+- [One More Sunday by Piginé](https://open.spotify.com/track/5iEZD8CuT4rqRbwB7bXk3z)
+- [how does it feel by Does it matter](https://open.spotify.com/track/18oapbislXZZ8DdSJDJPYI)
+- [Dawn To Dusk by overuu](https://open.spotify.com/track/5ewicS1Fq81Gp5D9iZQalw)
+- [Pantanassa by Dokho](https://open.spotify.com/track/3aly5UpF7fcD2UnMR1UNC6)
+- [the surface by cypress, solaene](https://open.spotify.com/track/6NGxovHbkCGVK4kK8kBk0S)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
