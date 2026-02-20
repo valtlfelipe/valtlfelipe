@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [One More Sunday by Piginé](https://open.spotify.com/track/5iEZD8CuT4rqRbwB7bXk3z)
-- [how does it feel by Does it matter](https://open.spotify.com/track/18oapbislXZZ8DdSJDJPYI)
-- [Dawn To Dusk by overuu](https://open.spotify.com/track/5ewicS1Fq81Gp5D9iZQalw)
-- [Pantanassa by Dokho](https://open.spotify.com/track/3aly5UpF7fcD2UnMR1UNC6)
-- [the surface by cypress, solaene](https://open.spotify.com/track/6NGxovHbkCGVK4kK8kBk0S)
+- [Don&#39;t Lose Hope by Qvckslvr](https://open.spotify.com/track/2iGf1jA0CYzY0iZvCADjFq)
+- [Sirius by NuXeS, Eric Driven](https://open.spotify.com/track/49OxcpPoIoSEABcXxJg1G2)
+- [Never Say Goodbye by Boehm](https://open.spotify.com/track/1zUCk7fr8mj0GpN9thAQxY)
+- [Lay Me Down by Panuma, blaank, Nina Carr](https://open.spotify.com/track/6VF1Wb7vNeO87tmhzo9Mqe)
+- [Parallax by Luwaks](https://open.spotify.com/track/0ckROgGxhK8F48VSue3jjj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
