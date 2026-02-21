@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wiedymi/restty](https://github.com/wiedymi/restty)** - Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hurt Again by Into The Ether, ALLKNIGHT](https://open.spotify.com/track/1KYdFmr3dZ678rVMD58k78)
-- [Scent of Wood - Bound to Divide Remix by UOAK, Ceci, Bound to Divide](https://open.spotify.com/track/7hB5XhraRlHeAE5ONIcSWY)
-- [Escape by Maone](https://open.spotify.com/track/3RGIUvmucvBoJZ6ZBi6Rv7)
-- [Say It Right by four30](https://open.spotify.com/track/6tULSZrnlU7Xj2suCnhYga)
-- [Everlove by rshand, Holochrome](https://open.spotify.com/track/6kIN7wLSKZuQx4G3jJXRY3)
+- [Stay Here by Sole Sole](https://open.spotify.com/track/3LoJQaLgdeBkwAmyAj1cmn)
+- [downtown by aural](https://open.spotify.com/track/7EtsJEFabVvRzesru8CtOT)
+- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
+- [Thus Far by Hessian](https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN)
+- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
