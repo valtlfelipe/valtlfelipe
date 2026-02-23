@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wttw/aboutmyemail](https://github.com/wttw/aboutmyemail)** - Content for the aboutmy.email website (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [find myself by aelera](https://open.spotify.com/track/6HJIhZBhGeDUkLni3gt2U1)
-- [I&#39;ll Be Around by Elderbrook, Amtrac](https://open.spotify.com/track/32v4XcJEaB3c3NbETfJ3uV)
-- [Polarise by Phello](https://open.spotify.com/track/58Ko4sHBABXlS83PaVAkB8)
-- [Promise by heylucas](https://open.spotify.com/track/53yryXhiQH6zt8tUjE6V32)
-- [What Have You Done To Me? by Lane 8, Arctic Lake](https://open.spotify.com/track/7xIcFYp3ArbMlADjg56lDx)
+- [Whole - French Braids Rework - Remix by Jordan Hart, French Braids](https://open.spotify.com/track/386lMifC7nazKh3TNW2nvT)
+- [The Verge by Winter Kid](https://open.spotify.com/track/4oQLOzPgMdptuMsT9j7UDZ)
+- [25 by The High](https://open.spotify.com/track/79V16Xnorp1W8hnIHuX94g)
+- [Wake up with You by Chilled Virus, Csame](https://open.spotify.com/track/6dD5Q9762yAnjEvQDjrppT)
+- [Afterlife by Timefive, King Leah](https://open.spotify.com/track/3GPSHeHezemsdp7REkWvmE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
