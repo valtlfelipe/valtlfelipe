@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wttw/aboutmyemail](https://github.com/wttw/aboutmyemail)** - Content for the aboutmy.email website (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Time Will Make It Better by Surf Mesa](https://open.spotify.com/track/5noBsSN3xvlS8uR6UfMKT0)
-- [Let Me Down by Guy Didden](https://open.spotify.com/track/6SozluLQrNhsr6A76yKYrp)
-- [Night Mirage by Pete Cam](https://open.spotify.com/track/1N3Yet8P2OB2zoptwqeKsA)
-- [All This Time by Kasbo](https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY)
-- [gravity by first sun, starbend](https://open.spotify.com/track/6Qt0qFNzZgyEri1MU8TqIA)
+- [Into The Light (Tritonia 528) by Mees Salomé, Tyler Mann](https://open.spotify.com/track/1wzNBk8v8lG2BK00lFIgVE)
+- [25 by The High](https://open.spotify.com/track/79V16Xnorp1W8hnIHuX94g)
+- [Nuage by TVLI](https://open.spotify.com/track/12knb2G5n6ZEQvAEiBMeVT)
+- [dusky by Life&#39;s A Beach](https://open.spotify.com/track/3LS9PIp9Fh5WcKyoxncoKY)
+- [Can&#39;t Let Go by Felix Kay](https://open.spotify.com/track/0UX5EF5a7ggZWphMj4UUsl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
