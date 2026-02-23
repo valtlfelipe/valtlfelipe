@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wttw/aboutmyemail](https://github.com/wttw/aboutmyemail)** - Content for the aboutmy.email website (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Running In A Dream by Nils Hoffmann, Kasbo, Vancouver Sleep Clinic](https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL)
-- [Kingdom - Bless You Remix by PRISMA, Bless You](https://open.spotify.com/track/6N19eFizGDxZs9sCSalsaX)
-- [The Things We Cannot See by Malte Marten, Forester](https://open.spotify.com/track/7HordqbI2mjLGbWxpWfKWI)
-- [Whole - French Braids Rework - Remix by Jordan Hart, French Braids](https://open.spotify.com/track/386lMifC7nazKh3TNW2nvT)
-- [Losing My Mind by CRi, Jesse Mac Cormack](https://open.spotify.com/track/3M5CIljBvrqYs42AAnkgeg)
+- [Sweet Talker by Kvarmez](https://open.spotify.com/track/1cIhobkqe7oAEZ29TcU3pu)
+- [home by rüüdy.](https://open.spotify.com/track/2ApKevEX5KosZpqVoK75Rs)
+- [Paper Thin by TRIP RGAZZI](https://open.spotify.com/track/2lZJyLTHyyvRy2UXffBTzl)
+- [Can&#39;t Go Back by Astrality, James French](https://open.spotify.com/track/2MjUXeQsfJAFhSXvpojmQX)
+- [one day at a time by aelera](https://open.spotify.com/track/4lF5pTMG3c0QN2W5VA4LV2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
