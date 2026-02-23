@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wttw/aboutmyemail](https://github.com/wttw/aboutmyemail)** - Content for the aboutmy.email website (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Into The Light (Tritonia 528) by Mees Salomé, Tyler Mann](https://open.spotify.com/track/1wzNBk8v8lG2BK00lFIgVE)
-- [25 by The High](https://open.spotify.com/track/79V16Xnorp1W8hnIHuX94g)
-- [Nuage by TVLI](https://open.spotify.com/track/12knb2G5n6ZEQvAEiBMeVT)
-- [dusky by Life&#39;s A Beach](https://open.spotify.com/track/3LS9PIp9Fh5WcKyoxncoKY)
-- [Can&#39;t Let Go by Felix Kay](https://open.spotify.com/track/0UX5EF5a7ggZWphMj4UUsl)
+- [Running In A Dream by Nils Hoffmann, Kasbo, Vancouver Sleep Clinic](https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL)
+- [Kingdom - Bless You Remix by PRISMA, Bless You](https://open.spotify.com/track/6N19eFizGDxZs9sCSalsaX)
+- [The Things We Cannot See by Malte Marten, Forester](https://open.spotify.com/track/7HordqbI2mjLGbWxpWfKWI)
+- [Whole - French Braids Rework - Remix by Jordan Hart, French Braids](https://open.spotify.com/track/386lMifC7nazKh3TNW2nvT)
+- [Losing My Mind by CRi, Jesse Mac Cormack](https://open.spotify.com/track/3M5CIljBvrqYs42AAnkgeg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
