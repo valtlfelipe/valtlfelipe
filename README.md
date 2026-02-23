@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wttw/aboutmyemail](https://github.com/wttw/aboutmyemail)** - Content for the aboutmy.email website (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Whole - French Braids Rework - Remix by Jordan Hart, French Braids](https://open.spotify.com/track/386lMifC7nazKh3TNW2nvT)
-- [The Verge by Winter Kid](https://open.spotify.com/track/4oQLOzPgMdptuMsT9j7UDZ)
-- [25 by The High](https://open.spotify.com/track/79V16Xnorp1W8hnIHuX94g)
-- [Wake up with You by Chilled Virus, Csame](https://open.spotify.com/track/6dD5Q9762yAnjEvQDjrppT)
-- [Afterlife by Timefive, King Leah](https://open.spotify.com/track/3GPSHeHezemsdp7REkWvmE)
+- [Time Will Make It Better by Surf Mesa](https://open.spotify.com/track/5noBsSN3xvlS8uR6UfMKT0)
+- [Let Me Down by Guy Didden](https://open.spotify.com/track/6SozluLQrNhsr6A76yKYrp)
+- [Night Mirage by Pete Cam](https://open.spotify.com/track/1N3Yet8P2OB2zoptwqeKsA)
+- [All This Time by Kasbo](https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY)
+- [gravity by first sun, starbend](https://open.spotify.com/track/6Qt0qFNzZgyEri1MU8TqIA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
