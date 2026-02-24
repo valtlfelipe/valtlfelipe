@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wttw/aboutmyemail](https://github.com/wttw/aboutmyemail)** - Content for the aboutmy.email website (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Forever by Rytes](https://open.spotify.com/track/1houg1gfM4U3EjhSgHiKBn)
-- [Calma by Etza](https://open.spotify.com/track/59ukGWEcWf8zQJoXf0oHOX)
-- [Oh I Still Feel Ya B Side by Jonasu, Tyoz](https://open.spotify.com/track/4JVGjBJbKCE3trBUEzpcZe)
-- [Marea Turquesa by Flexible Fire](https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc)
-- [Manipura by Kvarmez](https://open.spotify.com/track/35WfdFl8xarSqYkNb8P5wH)
+- [Lifecycle by Guy Didden, Mats Westbroek](https://open.spotify.com/track/32M8LG2l7bMDm9j4jPXFC8)
+- [Just a Dream by Keymos, hexale](https://open.spotify.com/track/0o8gqzAq5EeEAGhZlg9b8B)
+- [Remember by four30](https://open.spotify.com/track/5xCKzq3WE3d3t6aJykg4zl)
+- [Silver Lining by Matrx](https://open.spotify.com/track/5rUH1C6qV9yob39mHRjXMF)
+- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
