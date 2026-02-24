@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wttw/aboutmyemail](https://github.com/wttw/aboutmyemail)** - Content for the aboutmy.email website (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Endless Dreams by spaziocorrente, Fred Ocean](https://open.spotify.com/track/0rNQ0keXSrQeCKYC421X2S)
-- [Desire by Spark030](https://open.spotify.com/track/6uEQVPSfyUeoeDPkufeshe)
-- [It All Comes Down To You - UOAK&#39;s Sunset Remix by Banaati, Run Rivers, UOAK](https://open.spotify.com/track/3AaGM8j8eEULupBfwEqMXh)
-- [Dream by STROEBEL](https://open.spotify.com/track/4GVB3mGWqsnTxAFaCpYAYo)
-- [Collide by Nils Hoffmann](https://open.spotify.com/track/3xhO0gFiUATU7VCYOj01O5)
+- [Volcano by Rowland Giles, Toutounji](https://open.spotify.com/track/5IDgICEO4v6iZ1i0XCpY53)
+- [Neon Lights by Forester, Madeline Megery](https://open.spotify.com/track/6qPIrrNkJyLCHadPFi23zg)
+- [Teardrops by Why U So](https://open.spotify.com/track/44qyK0YHfZz9AngFaWmycU)
+- [Set Me Free by Guy Didden](https://open.spotify.com/track/0QodaQsiSUGyDTAqr6Kyl5)
+- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
