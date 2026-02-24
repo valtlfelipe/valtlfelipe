@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wttw/aboutmyemail](https://github.com/wttw/aboutmyemail)** - Content for the aboutmy.email website (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Kinetic by Midnight Pass, Koresma](https://open.spotify.com/track/3ZwWFKXu8A3NwIPu7tnF8T)
-- [The Moment by Surf Mesa, Stace Cadet](https://open.spotify.com/track/25XA7l8OJIirmdvhstQP5G)
-- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
-- [Darker Days (ABGT665) - Avenue One Remix (Mixed) by Christian Burns, Avenue One](https://open.spotify.com/track/4oUfjpaYUb2W1GrWsJyN91)
-- [Coming Of Age by rshand, Jessie Lee Thetford](https://open.spotify.com/track/0IGjAMGVgHpYr0Tmh2TyAD)
+- [Endless Dreams by spaziocorrente, Fred Ocean](https://open.spotify.com/track/0rNQ0keXSrQeCKYC421X2S)
+- [Desire by Spark030](https://open.spotify.com/track/6uEQVPSfyUeoeDPkufeshe)
+- [It All Comes Down To You - UOAK&#39;s Sunset Remix by Banaati, Run Rivers, UOAK](https://open.spotify.com/track/3AaGM8j8eEULupBfwEqMXh)
+- [Dream by STROEBEL](https://open.spotify.com/track/4GVB3mGWqsnTxAFaCpYAYo)
+- [Collide by Nils Hoffmann](https://open.spotify.com/track/3xhO0gFiUATU7VCYOj01O5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
