@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wttw/aboutmyemail](https://github.com/wttw/aboutmyemail)** - Content for the aboutmy.email website (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [And I Miss You by Coffee Cub](https://open.spotify.com/track/6nzUZPSluHCa9KhIVZlwGu)
-- [Circle of Love by Johannes Jungleson](https://open.spotify.com/track/3iCecH9oW0mBOySPVeyM1N)
-- [Quilt by birø, CEDU](https://open.spotify.com/track/2uBB8rFmizZhxGyIXcW9q5)
-- [No Clouds by oskar med k, MEGGO](https://open.spotify.com/track/4xcet4z4oiexYoIyZYX9Xz)
-- [Only Here For You by Eros for you](https://open.spotify.com/track/2CgcrtKJGwwTQVdybwnsZS)
+- [Illuminate - Forester Remix by The Kite String Tangle, Dustin Tebbutt, Forester](https://open.spotify.com/track/6xOKieOmoTnUpmpLPNxwoj)
+- [Come Home by Du0, Emily Coulston](https://open.spotify.com/track/23vwSMrbuw0J3TC4EJJohk)
+- [Everything All At Once - Mixed by Jack Willard, Coastlines, MØØNE](https://open.spotify.com/track/3HO59II6upHIGQapOUWRZL)
+- [Tell Me Lies by Satin Jackets, Panama](https://open.spotify.com/track/1MqvT3hbbC4jmjdXm2fTKe)
+- [Inertia by Hessian](https://open.spotify.com/track/1DC4WYpBda2uT0lQ3v7evG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
