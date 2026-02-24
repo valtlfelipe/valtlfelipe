@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wttw/aboutmyemail](https://github.com/wttw/aboutmyemail)** - Content for the aboutmy.email website (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Volcano by Rowland Giles, Toutounji](https://open.spotify.com/track/5IDgICEO4v6iZ1i0XCpY53)
-- [Neon Lights by Forester, Madeline Megery](https://open.spotify.com/track/6qPIrrNkJyLCHadPFi23zg)
-- [Teardrops by Why U So](https://open.spotify.com/track/44qyK0YHfZz9AngFaWmycU)
-- [Set Me Free by Guy Didden](https://open.spotify.com/track/0QodaQsiSUGyDTAqr6Kyl5)
-- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
+- [Lonely by Eros for you](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO)
+- [Feel The Pulse by Light Chaser](https://open.spotify.com/track/6JDXPOVuNyBMLUw2Hao3n8)
+- [The Thought of You by Blonde Maze, imallryt](https://open.spotify.com/track/0Cuiebpn7tG3Qs8CNSIaN2)
+- [Celebration by The Meridian](https://open.spotify.com/track/7lFZmlsJomNvWMG6hEl0Wl)
+- [All This Time by Kasbo](https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
