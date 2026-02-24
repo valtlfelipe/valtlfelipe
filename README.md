@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wttw/aboutmyemail](https://github.com/wttw/aboutmyemail)** - Content for the aboutmy.email website (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Lifecycle by Guy Didden, Mats Westbroek](https://open.spotify.com/track/32M8LG2l7bMDm9j4jPXFC8)
-- [Just a Dream by Keymos, hexale](https://open.spotify.com/track/0o8gqzAq5EeEAGhZlg9b8B)
-- [Remember by four30](https://open.spotify.com/track/5xCKzq3WE3d3t6aJykg4zl)
-- [Silver Lining by Matrx](https://open.spotify.com/track/5rUH1C6qV9yob39mHRjXMF)
-- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
+- [And I Miss You by Coffee Cub](https://open.spotify.com/track/6nzUZPSluHCa9KhIVZlwGu)
+- [Circle of Love by Johannes Jungleson](https://open.spotify.com/track/3iCecH9oW0mBOySPVeyM1N)
+- [Quilt by birø, CEDU](https://open.spotify.com/track/2uBB8rFmizZhxGyIXcW9q5)
+- [No Clouds by oskar med k, MEGGO](https://open.spotify.com/track/4xcet4z4oiexYoIyZYX9Xz)
+- [Only Here For You by Eros for you](https://open.spotify.com/track/2CgcrtKJGwwTQVdybwnsZS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
