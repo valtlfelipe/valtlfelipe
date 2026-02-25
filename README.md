@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)** - Development at the speed of light (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Daylight by mölly, Bridges](https://open.spotify.com/track/3Pi08C77jfcAjgvzHpgHYu)
-- [Closer by Nils Hoffmann](https://open.spotify.com/track/2znL44ODkOcv4ZmBGD6VF7)
-- [Cloud Parade by Lanle](https://open.spotify.com/track/6rwKOFJquzj0JsNf7OdEIF)
-- [RUNNIN by Ubo](https://open.spotify.com/track/1jNsWnyvbwysESO9anm7H3)
-- [Keep Love Waiting by Bob Moses, CRi](https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh)
+- [Faded by Stendahl, Fløa](https://open.spotify.com/track/4smq9RvAACeKR0fCkLYv8x)
+- [Say Goodbye by Nils Hoffmann, will hyde](https://open.spotify.com/track/23hD7SSICUF5I2qyOMR7qM)
+- [Sunday Glow by Lanle](https://open.spotify.com/track/7u5KJ0URQuxMcJNNZ2D1bs)
+- [I&#39;ll Be There by Guy Didden](https://open.spotify.com/track/7q9hA60miXf5o7e4mzpB0g)
+- [Lost In Time by Life&#39;s A Beach, Palma Palma](https://open.spotify.com/track/3wqQghyOn57COYhBbNw4n9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
