@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[janhq/jan](https://github.com/janhq/jan)** - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Dance My Tears Away by Latroit, Charlz](https://open.spotify.com/track/19fKT6fa27HCOrtfZsKfkA)
-- [Her (Never Like This) by Florian Hope](https://open.spotify.com/track/2l3IqeB2eieIghVhRlD1ql)
-- [Home by Life&#39;s A Beach](https://open.spotify.com/track/46PLzuBfyt6JRM8cGrDeB0)
-- [u love me too by giant cactus](https://open.spotify.com/track/2OM7V6HfazpW9AkVEF00GX)
-- [We Ignite by Stendahl](https://open.spotify.com/track/3XIvMHBXM6lkxo4I2hoqwL)
+- [Better Now by Malte Marten, Tim Schaufert](https://open.spotify.com/track/5hTMlTqilqCNknYJPiV58w)
+- [Do Better by Peer Pressure, Adam Juhl](https://open.spotify.com/track/6zE3rbRVckLRIb0zjROQST)
+- [Elite Temptation by The Pleasure Syndicate](https://open.spotify.com/track/2zwiTK8Rgk2AzGkyUNNSfz)
+- [Wide Open Air by IronBass](https://open.spotify.com/track/0XaBVVq0bVeAwoseS3Eqmy)
+- [Bloom by birø, Skyknock](https://open.spotify.com/track/7dOXnJ7QqsWMYPfSfkYaL9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
