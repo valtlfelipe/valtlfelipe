@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[janhq/jan](https://github.com/janhq/jan)** - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Better Now by Malte Marten, Tim Schaufert](https://open.spotify.com/track/5hTMlTqilqCNknYJPiV58w)
-- [Do Better by Peer Pressure, Adam Juhl](https://open.spotify.com/track/6zE3rbRVckLRIb0zjROQST)
-- [Elite Temptation by The Pleasure Syndicate](https://open.spotify.com/track/2zwiTK8Rgk2AzGkyUNNSfz)
-- [Wide Open Air by IronBass](https://open.spotify.com/track/0XaBVVq0bVeAwoseS3Eqmy)
-- [Bloom by birø, Skyknock](https://open.spotify.com/track/7dOXnJ7QqsWMYPfSfkYaL9)
+- [Way Back by nowifi, Rokkidd](https://open.spotify.com/track/5op2oYfOLVVwipiBDGw2ki)
+- [Don&#39;t Look Back by STROEBEL](https://open.spotify.com/track/1PIM530ROF18rACKP9xRLA)
+- [Running In A Dream by Nils Hoffmann, Kasbo, Vancouver Sleep Clinic](https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL)
+- [Kingdom - Bless You Remix by PRISMA, Bless You](https://open.spotify.com/track/6N19eFizGDxZs9sCSalsaX)
+- [The Things We Cannot See by Malte Marten, Forester](https://open.spotify.com/track/7HordqbI2mjLGbWxpWfKWI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
