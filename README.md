@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[janhq/jan](https://github.com/janhq/jan)** - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Way Back by nowifi, Rokkidd](https://open.spotify.com/track/5op2oYfOLVVwipiBDGw2ki)
-- [Don&#39;t Look Back by STROEBEL](https://open.spotify.com/track/1PIM530ROF18rACKP9xRLA)
-- [Running In A Dream by Nils Hoffmann, Kasbo, Vancouver Sleep Clinic](https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL)
-- [Kingdom - Bless You Remix by PRISMA, Bless You](https://open.spotify.com/track/6N19eFizGDxZs9sCSalsaX)
-- [The Things We Cannot See by Malte Marten, Forester](https://open.spotify.com/track/7HordqbI2mjLGbWxpWfKWI)
+- [mercury waves by dream machine, Farlight](https://open.spotify.com/track/5wuJjpRK1FrOcxGKCTS1Jz)
+- [Everafter by Jeff Jasso](https://open.spotify.com/track/27e6i6rhi4iazmuzMpMEXj)
+- [Feel It Again by 45TUNE, Golowko, LAURAm](https://open.spotify.com/track/3cLEvmVj6BXlOYn9ULMCIw)
+- [The Verge by Winter Kid](https://open.spotify.com/track/4oQLOzPgMdptuMsT9j7UDZ)
+- [Love of My Life by Eros for you](https://open.spotify.com/track/1okTdVJviY0tCQqMevNlrG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
