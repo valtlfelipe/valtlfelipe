@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)** - Development at the speed of light (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Miss My Chance by DRAMA](https://open.spotify.com/track/1UCxW7PdkUSuGInQdpn1Kq)
-- [Me and You (feat. Vancouver Sleep Clinic) by Forester, Vancouver Sleep Clinic](https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP)
-- [Start A Fire by Nils Hoffmann, Kurtis Wells](https://open.spotify.com/track/24L15kmxUqEDMdpK6uBMx1)
-- [Citadel - Mixed by Jody Wisternoff, Jamie McDermott](https://open.spotify.com/track/7zJsLJAeAMnGySbtNLV3Ko)
-- [In Every Life by Audien](https://open.spotify.com/track/7bxtK5wS0jWP7GouQmfQIl)
+- [Daylight by mölly, Bridges](https://open.spotify.com/track/3Pi08C77jfcAjgvzHpgHYu)
+- [Closer by Nils Hoffmann](https://open.spotify.com/track/2znL44ODkOcv4ZmBGD6VF7)
+- [Cloud Parade by Lanle](https://open.spotify.com/track/6rwKOFJquzj0JsNf7OdEIF)
+- [RUNNIN by Ubo](https://open.spotify.com/track/1jNsWnyvbwysESO9anm7H3)
+- [Keep Love Waiting by Bob Moses, CRi](https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
