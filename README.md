@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[rit3zh/reacticx](https://github.com/rit3zh/reacticx)** - 💅 Beautiful React Native components. One command away. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Somebody Like You by Surf Mesa](https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT)
-- [Better This Way by MR TOUT LE MONDE](https://open.spotify.com/track/3S3tXaY97971Cp4QV6B8cV)
-- [All My Doors Are Open by goodlife, Amtrac](https://open.spotify.com/track/6JCpZLJN0fzvmyWMbuRm0h)
-- [Above by Lanle](https://open.spotify.com/track/7ddnAscNjPchk9fn8DGGR3)
-- [Sweet Talker by Kvarmez](https://open.spotify.com/track/1cIhobkqe7oAEZ29TcU3pu)
+- [Around Me by ORACLE](https://open.spotify.com/track/6US34V1ml2fkN33kPzu5Ut)
+- [Far Behind by Nils Hoffmann, Panama](https://open.spotify.com/track/4bPXeyETDREX5DiU1zMoes)
+- [Echoes of You by Nick En Mare](https://open.spotify.com/track/3wCiOryqYjkMDECKCcEo0Y)
+- [Nightsky by Mondingo](https://open.spotify.com/track/0Tv0DOBMfZQLhZvgS5qSIg)
+- [Kinetic by Midnight Pass, Koresma](https://open.spotify.com/track/3ZwWFKXu8A3NwIPu7tnF8T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
