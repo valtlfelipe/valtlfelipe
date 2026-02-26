@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[gkpacker/namefy](https://github.com/gkpacker/namefy)** (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [2016 (New York Nights) by Lotrios Ferno](https://open.spotify.com/track/5WoBz3WbhCq1QQtal9BcqW)
-- [If You Want Me Say It by Alex Adair, SHELLS, Mike Mago](https://open.spotify.com/track/2itfXKfqkAUNuOnxQg1rC4)
-- [healer by oskar med k](https://open.spotify.com/track/6rjptxqIhBWu9WU6vgimCC)
-- [Here With Me by DRAMA](https://open.spotify.com/track/526W1GLtLsmwoCPbfMFPkm)
-- [Let a Love by EMBRZ, XIRA](https://open.spotify.com/track/2sV1MNkoOpIb8aoHyFCiHl)
+- [Lifecycle by Guy Didden, Mats Westbroek](https://open.spotify.com/track/32M8LG2l7bMDm9j4jPXFC8)
+- [Just a Dream by Keymos, hexale](https://open.spotify.com/track/0o8gqzAq5EeEAGhZlg9b8B)
+- [Remember by four30](https://open.spotify.com/track/5xCKzq3WE3d3t6aJykg4zl)
+- [Silver Lining by Matrx](https://open.spotify.com/track/5rUH1C6qV9yob39mHRjXMF)
+- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
