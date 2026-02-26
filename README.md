@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[gkpacker/namefy](https://github.com/gkpacker/namefy)** (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Sóller - Sax Edit by sundraze](https://open.spotify.com/track/3tBJtwCAGmU9AqaVCsEVSI)
-- [Night 2 Night by Alex Salem](https://open.spotify.com/track/576XVLZZIyeCIH7bwMfwHu)
-- [Empty by Kealux](https://open.spotify.com/track/6AGe4d9g9gRHrMtSpCyvqa)
-- [Remember the Days by Solara, CLOVER](https://open.spotify.com/track/5jY7V6crT7TZJ7ZlkWNw9F)
-- [Our Own Island (Tritonia 529) by Sound Quelle, Tailor, Liz Cass](https://open.spotify.com/track/23rvc1Jkm499PNncnISDqE)
+- [sometimes it’s scary but it’s still just you and me - Edit by Leaving Laurel](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG)
+- [Nido Del Águila by Flexible Fire](https://open.spotify.com/track/2jfMw0e2M2ZntjGA2PDu6j)
+- [Brightest Lights (feat. POLIÇA) - Edit by Lane 8](https://open.spotify.com/track/0neoGzpS4oIaMKSjtrNMdb)
+- [Explore by Melosense](https://open.spotify.com/track/1iWaxxAN8mryBxC4ORf02n)
+- [Lost Home by Keanler](https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
