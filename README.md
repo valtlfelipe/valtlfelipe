@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[gkpacker/namefy](https://github.com/gkpacker/namefy)** (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Silver Lining (Tritonia 523) by Falden](https://open.spotify.com/track/3uAOx5RBWPpEiRjauorbrK)
-- [Holding Me Back by Nils Hoffmann, The Kite String Tangle](https://open.spotify.com/track/0rUUb15kaMPxOV4RwtxdTP)
-- [Are You Ready by Kvarmez](https://open.spotify.com/track/2jckboRxUASrPhy0au2WKS)
-- [Away by Andrew Nagy, LeyeT](https://open.spotify.com/track/7obO1wN8MnZ6xWpgjjbtkd)
-- [Lonely by Eros for you](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO)
+- [2016 (New York Nights) by Lotrios Ferno](https://open.spotify.com/track/5WoBz3WbhCq1QQtal9BcqW)
+- [If You Want Me Say It by Alex Adair, SHELLS, Mike Mago](https://open.spotify.com/track/2itfXKfqkAUNuOnxQg1rC4)
+- [healer by oskar med k](https://open.spotify.com/track/6rjptxqIhBWu9WU6vgimCC)
+- [Here With Me by DRAMA](https://open.spotify.com/track/526W1GLtLsmwoCPbfMFPkm)
+- [Let a Love by EMBRZ, XIRA](https://open.spotify.com/track/2sV1MNkoOpIb8aoHyFCiHl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
