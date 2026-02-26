@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[gkpacker/namefy](https://github.com/gkpacker/namefy)** (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [And I Miss You by Coffee Cub](https://open.spotify.com/track/6nzUZPSluHCa9KhIVZlwGu)
-- [Circle of Love by Johannes Jungleson](https://open.spotify.com/track/3iCecH9oW0mBOySPVeyM1N)
-- [Quilt by birø, CEDU](https://open.spotify.com/track/2uBB8rFmizZhxGyIXcW9q5)
-- [No Clouds by oskar med k, MEGGO](https://open.spotify.com/track/4xcet4z4oiexYoIyZYX9Xz)
-- [Only Here For You by Eros for you](https://open.spotify.com/track/2CgcrtKJGwwTQVdybwnsZS)
+- [Sóller - Sax Edit by sundraze](https://open.spotify.com/track/3tBJtwCAGmU9AqaVCsEVSI)
+- [Night 2 Night by Alex Salem](https://open.spotify.com/track/576XVLZZIyeCIH7bwMfwHu)
+- [Empty by Kealux](https://open.spotify.com/track/6AGe4d9g9gRHrMtSpCyvqa)
+- [Remember the Days by Solara, CLOVER](https://open.spotify.com/track/5jY7V6crT7TZJ7ZlkWNw9F)
+- [Our Own Island (Tritonia 529) by Sound Quelle, Tailor, Liz Cass](https://open.spotify.com/track/23rvc1Jkm499PNncnISDqE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
