@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[better-auth/better-hub](https://github.com/better-auth/better-hub)** - Re-imagining code collaboration for humans and agents (today)
-- **[ask-bonk/ask-bonk](https://github.com/ask-bonk/ask-bonk)** - Bonk is a code &amp; docs agent that can build, review and triage for you, built on Cloudflare Workers &amp; OpenCode. (today)
-- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** - Vite plugin that reimplements the Next.js API surface — deploy anywhere (today)
-- **[gkpacker/namefy](https://github.com/gkpacker/namefy)** (today)
-- **[clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)** - Development at the speed of light (1 day ago)
+- **[better-auth/better-hub](https://github.com/better-auth/better-hub)** - Re-imagining code collaboration for humans and agents (1 day ago)
+- **[ask-bonk/ask-bonk](https://github.com/ask-bonk/ask-bonk)** - Bonk is a code &amp; docs agent that can build, review and triage for you, built on Cloudflare Workers &amp; OpenCode. (1 day ago)
+- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** - Vite plugin that reimplements the Next.js API surface — deploy anywhere (1 day ago)
+- **[gkpacker/namefy](https://github.com/gkpacker/namefy)** (1 day ago)
+- **[clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)** - Development at the speed of light (2 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Faded by Stendahl, Fløa](https://open.spotify.com/track/4smq9RvAACeKR0fCkLYv8x)
