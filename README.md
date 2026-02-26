@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[gkpacker/namefy](https://github.com/gkpacker/namefy)** (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Sleep by Marsh, Jodie Knight](https://open.spotify.com/track/32RLcMmJDrcNsW0QE0zAji)
-- [Luna&#39;s Dream by Dokho](https://open.spotify.com/track/6yDwrSuGafugPjhmAfTr0i)
-- [All The Giants Are Sleeping by Fløa](https://open.spotify.com/track/61x5JyHWNwhsW2O4iqElhT)
-- [Can You by MXV, Courtney Storm](https://open.spotify.com/track/1IViMQ0Ifl0N9Gbkwdifso)
-- [Waves - OCULA Remix by Le Youth, OCULA](https://open.spotify.com/track/3IeLJ5OLr0tCHsr7SDnfi8)
+- [Always You by Ourson](https://open.spotify.com/track/1YNS3IxT9meyqhPlaWFw1Y)
+- [Falling Apart by Massane](https://open.spotify.com/track/6tGCxVJPo7iIydUVHOjVbM)
+- [Sunrise Song by Eric Luttrell](https://open.spotify.com/track/2gsa8ffLRpj0QrgsTWdJxF)
+- [Together by Heard Right, Anriu](https://open.spotify.com/track/7KZkkAJE4WYTzVr4jc7kt2)
+- [But the two of us by Ourson](https://open.spotify.com/track/4rmEXaUKjjfWzHju3Aofzf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
