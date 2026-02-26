@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[gkpacker/namefy](https://github.com/gkpacker/namefy)** (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Was It the Wind That Stirred The Trees by Boy North](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT)
-- [Primrose by MXV](https://open.spotify.com/track/4JcFw8a96ZzKiF2pyYiIwH)
-- [Tuolumne by Duce, Etza](https://open.spotify.com/track/761gozdFVZmmkKa90TVSmD)
-- [Out of the Silence by Sultan &#43; Shepard, Tasha Josephine](https://open.spotify.com/track/5ydCAHTXVxCwoaneuCsugP)
-- [Let Go Of Your Pain by Trilucid](https://open.spotify.com/track/7GRkYO4aU3Dqx1mvIUt9kW)
+- [One Week Off by Trilucid](https://open.spotify.com/track/2a5qISxLanT0vCSnCtHk5k)
+- [Kingfisher by TOMB](https://open.spotify.com/track/70CB8jQljPe4C8UQBvJnGA)
+- [Afterglow by Nils Hoffmann](https://open.spotify.com/track/4TIz60lWHqCYAHyYARLjTO)
+- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
+- [Falling by Spark030](https://open.spotify.com/track/49znjmo140zsdq7jI0LynI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
