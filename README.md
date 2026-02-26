@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[gkpacker/namefy](https://github.com/gkpacker/namefy)** (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [sometimes it’s scary but it’s still just you and me - Edit by Leaving Laurel](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG)
-- [Nido Del Águila by Flexible Fire](https://open.spotify.com/track/2jfMw0e2M2ZntjGA2PDu6j)
-- [Brightest Lights (feat. POLIÇA) - Edit by Lane 8](https://open.spotify.com/track/0neoGzpS4oIaMKSjtrNMdb)
-- [Explore by Melosense](https://open.spotify.com/track/1iWaxxAN8mryBxC4ORf02n)
-- [Lost Home by Keanler](https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy)
+- [Sleep by Marsh, Jodie Knight](https://open.spotify.com/track/32RLcMmJDrcNsW0QE0zAji)
+- [Luna&#39;s Dream by Dokho](https://open.spotify.com/track/6yDwrSuGafugPjhmAfTr0i)
+- [All The Giants Are Sleeping by Fløa](https://open.spotify.com/track/61x5JyHWNwhsW2O4iqElhT)
+- [Can You by MXV, Courtney Storm](https://open.spotify.com/track/1IViMQ0Ifl0N9Gbkwdifso)
+- [Waves - OCULA Remix by Le Youth, OCULA](https://open.spotify.com/track/3IeLJ5OLr0tCHsr7SDnfi8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
