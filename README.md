@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jillesme/tanstack-drizzle-d1-durable-object-starter](https://github.com/jillesme/tanstack-drizzle-d1-durable-object-starter)** - The Foundation to Your Next Full Stack TanStack App on Cloudflare (today)
 
 #### 🎧 Spotify recent tracks
+- [Golden Memories by Kaiyan, Lumynesynth](https://open.spotify.com/track/3XlthupwOStKPdLIFtFyXv)
 - [Closure by Massane, Benjamin Roustaing](https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O)
 - [Morning at Olio&#39;s by Sultan &#43; Shepard](https://open.spotify.com/track/5NAL7MurDxK2Ctu0o94lfJ)
 - [Everything Will Be Alright by Kiholm](https://open.spotify.com/track/4ufJ9Wg64SjtecchwoffoB)
 - [Last Dance - Nicky Elisabeth Remix by Nicky Elisabeth](https://open.spotify.com/track/3kgyZUfpmFLPY190ZMI3Ed)
-- [Only Want You by MXV](https://open.spotify.com/track/0u5DIHmlyxroXRFXBMqQDO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
