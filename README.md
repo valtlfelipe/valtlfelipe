@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)** - a fast, modern browser for the npm registry (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Retrospection by Kaiyan](https://open.spotify.com/track/7da9MIqgHcVAJLankUlv3T)
-- [Assassin (ABGT419) by Sultan &#43; Shepard](https://open.spotify.com/track/0pjaasY1kL4Xx5ZK89tKGR)
-- [Loving You by San Mateo Drive](https://open.spotify.com/track/3lTypmAFa06YevQcRqVusK)
-- [Make Me Wild by Boxer, RYTERBAND](https://open.spotify.com/track/3FgwrIBAbU6YE1m0JAo3yh)
-- [Wintry Wind by Massane](https://open.spotify.com/track/07DBzpfZm3NS8UOqPgLPss)
+- [Everything Will Be Alright by Kiholm](https://open.spotify.com/track/4ufJ9Wg64SjtecchwoffoB)
+- [Last Dance - Nicky Elisabeth Remix by Nicky Elisabeth](https://open.spotify.com/track/3kgyZUfpmFLPY190ZMI3Ed)
+- [Only Want You by MXV](https://open.spotify.com/track/0u5DIHmlyxroXRFXBMqQDO)
+- [Freedom Of Light by Kaiyan](https://open.spotify.com/track/2wGm7LWiIRTEm6QuFl3O9g)
+- [Back Through You by Sultan &#43; Shepard, Tishmal](https://open.spotify.com/track/6fWaxgvt1VeH0GimEaLODi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
