@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[better-auth/better-hub](https://github.com/better-auth/better-hub)** - Re-imagining code collaboration for humans and agents (2 days ago)
 
 #### 🎧 Spotify recent tracks
+- [RnR by Sultan &#43; Shepard](https://open.spotify.com/track/1MKMYTuVJIYTgaHkY2odWk)
 - [Take Me Higher by Trilucid](https://open.spotify.com/track/4z1r2z1ScEfjdIQfvHf5Ii)
 - [For You - Mixed by Jack Willard, Coastlines](https://open.spotify.com/track/3MKNkQGcXahv44HtItYpqE)
 - [Rolling Back by TWO LANES, Panama](https://open.spotify.com/track/1LbAV8lhCV52DqHYdNjfrc)
 - [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
-- [Keep The Night - Mixed by Eric Luttrell](https://open.spotify.com/track/37eYvqxTXVqEgInQK9aDBT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
