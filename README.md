@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/vinext](https://github.com/cloudflare/vinext)** - Vite plugin that reimplements the Next.js API surface — deploy anywhere (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [One Week Off by Trilucid](https://open.spotify.com/track/2a5qISxLanT0vCSnCtHk5k)
-- [Kingfisher by TOMB](https://open.spotify.com/track/70CB8jQljPe4C8UQBvJnGA)
-- [Afterglow by Nils Hoffmann](https://open.spotify.com/track/4TIz60lWHqCYAHyYARLjTO)
-- [Wish You Were Here by Ourson](https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu)
-- [Falling by Spark030](https://open.spotify.com/track/49znjmo140zsdq7jI0LynI)
+- [Only Way Is Up by Robby East, Richard Judge](https://open.spotify.com/track/2kWXmJK2jRPl2yEoB1QMyi)
+- [Dance My Tears Away - (Latroit Club Mix) by Latroit, Charlz](https://open.spotify.com/track/4XNn3iaEu6MLiOnt5makMJ)
+- [Do You Feel The Same? by Emmit Fenn](https://open.spotify.com/track/6srLLyUp8cfTdU7rG8Txcp)
+- [Desire (Tritonia 529) by Spark030](https://open.spotify.com/track/1knJYOrr6p8nT80LgqZ1Fl)
+- [Siwa by Sultan &#43; Shepard](https://open.spotify.com/track/1Isqzs72pybkf6iVwpNKwN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
