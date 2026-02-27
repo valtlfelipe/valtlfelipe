@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[cloudflare/vinext](https://github.com/cloudflare/vinext)** - Vite plugin that reimplements the Next.js API surface — deploy anywhere (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Only Way Is Up by Robby East, Richard Judge](https://open.spotify.com/track/2kWXmJK2jRPl2yEoB1QMyi)
-- [Dance My Tears Away - (Latroit Club Mix) by Latroit, Charlz](https://open.spotify.com/track/4XNn3iaEu6MLiOnt5makMJ)
-- [Do You Feel The Same? by Emmit Fenn](https://open.spotify.com/track/6srLLyUp8cfTdU7rG8Txcp)
-- [Desire (Tritonia 529) by Spark030](https://open.spotify.com/track/1knJYOrr6p8nT80LgqZ1Fl)
-- [Siwa by Sultan &#43; Shepard](https://open.spotify.com/track/1Isqzs72pybkf6iVwpNKwN)
+- [Froggy by Sound Quelle, Jackarta](https://open.spotify.com/track/5lKDqlxKkoZwyPZNwuKG98)
+- [Losing Ground - Rinzen Remix by Sultan &#43; Shepard, Tishmal, Rinzen](https://open.spotify.com/track/4L6wQpRy0e7UCH9Bpc1DXV)
+- [The Loved Are Never Lost by Trilucid](https://open.spotify.com/track/3WdzsAb3OzEBrQArVgrmSA)
+- [Run - Sultan &#43; Shepard Remix by Lane 8, Kasablanca, Sultan &#43; Shepard](https://open.spotify.com/track/2cGYvbK5vDrtgBn1VeH9xa)
+- [Thus Far by Hessian](https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
