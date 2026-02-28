@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jillesme/tanstack-drizzle-d1-durable-object-starter](https://github.com/jillesme/tanstack-drizzle-d1-durable-object-starter)** - The Foundation to Your Next Full Stack TanStack App on Cloudflare (1 day ago)
 
 #### 🎧 Spotify recent tracks
+- [Hollow by ábryn](https://open.spotify.com/track/5X9iuS962SaHG58kRgt3Dh)
+- [Running In A Dream by Nils Hoffmann, Kasbo, Vancouver Sleep Clinic](https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL)
+- [Always by Florian Hope](https://open.spotify.com/track/08wHv1wVEL8k1JHGKHlG6B)
+- [Kingdom - Bless You Remix by PRISMA, Bless You](https://open.spotify.com/track/6N19eFizGDxZs9sCSalsaX)
 - [The Verge by Winter Kid](https://open.spotify.com/track/4oQLOzPgMdptuMsT9j7UDZ)
-- [mercury waves by dream machine, Farlight](https://open.spotify.com/track/5wuJjpRK1FrOcxGKCTS1Jz)
-- [Running Blind by Keymos, Francis Skyes](https://open.spotify.com/track/2L3i743B96YisevjdoNpVA)
-- [Running Blind by Keymos, Francis Skyes](https://open.spotify.com/track/2L3i743B96YisevjdoNpVA)
-- [Losing My Mind by CRi, Jesse Mac Cormack](https://open.spotify.com/track/3M5CIljBvrqYs42AAnkgeg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
