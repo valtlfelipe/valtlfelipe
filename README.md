@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jillesme/tanstack-drizzle-d1-durable-object-starter](https://github.com/jillesme/tanstack-drizzle-d1-durable-object-starter)** - The Foundation to Your Next Full Stack TanStack App on Cloudflare (1 day ago)
 
 #### 🎧 Spotify recent tracks
+- [Drifting by Birdsey](https://open.spotify.com/track/2mKo0TPBUYQW3oHemmxtxJ)
+- [Shallow Walls by LJ MASE, Skyknock, Jessie Lee Thetford](https://open.spotify.com/track/0pQ2qWfc6iGbdTUvEieR3u)
+- [Hold Me Tight by D3EPANK, Xiam, Rukid](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF)
+- [Whole - French Braids Rework - Remix by Jordan Hart, French Braids](https://open.spotify.com/track/386lMifC7nazKh3TNW2nvT)
 - [Sandprints by Soul Engineers](https://open.spotify.com/track/71lb9unxqglJ0Oo39na4aH)
-- [Terracotta by Anthony Kalabretta](https://open.spotify.com/track/1NIGnsuGajQHveIFunyfgQ)
-- [Everafter by Jeff Jasso](https://open.spotify.com/track/27e6i6rhi4iazmuzMpMEXj)
-- [Overwater by Robby East, Jodie Knight](https://open.spotify.com/track/67TfXXscI4O4e0VAByWTCp)
-- [caught me falling by FIORE](https://open.spotify.com/track/755TuFgBJXIoVNfpAknobl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
