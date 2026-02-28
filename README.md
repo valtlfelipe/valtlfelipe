@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (today)
-- **[jonradoff/lastsaas](https://github.com/jonradoff/lastsaas)** - SaaS boilerplate/starter-kit in Go&#43;React with Stripe integration, multi-tenant support, comprehensive features and AI-agent ready (today)
-- **[Hookflo/tern](https://github.com/Hookflo/tern)** - A robust, scalable webhook verification framework supporting multiple platforms and signature algorithms. (today)
-- **[olucasandrade/youjustneedpostgres](https://github.com/olucasandrade/youjustneedpostgres)** (today)
-- **[jillesme/tanstack-drizzle-d1-durable-object-starter](https://github.com/jillesme/tanstack-drizzle-d1-durable-object-starter)** - The Foundation to Your Next Full Stack TanStack App on Cloudflare (today)
+- **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (1 day ago)
+- **[jonradoff/lastsaas](https://github.com/jonradoff/lastsaas)** - SaaS boilerplate/starter-kit in Go&#43;React with Stripe integration, multi-tenant support, comprehensive features and AI-agent ready (1 day ago)
+- **[Hookflo/tern](https://github.com/Hookflo/tern)** - A robust, scalable webhook verification framework supporting multiple platforms and signature algorithms. (1 day ago)
+- **[olucasandrade/youjustneedpostgres](https://github.com/olucasandrade/youjustneedpostgres)** (1 day ago)
+- **[jillesme/tanstack-drizzle-d1-durable-object-starter](https://github.com/jillesme/tanstack-drizzle-d1-durable-object-starter)** - The Foundation to Your Next Full Stack TanStack App on Cloudflare (1 day ago)
 
 #### 🎧 Spotify recent tracks
 - [Leave Me by Massane](https://open.spotify.com/track/5NsnKnGYfZUPefRAZZRyTJ)
