@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jillesme/tanstack-drizzle-d1-durable-object-starter](https://github.com/jillesme/tanstack-drizzle-d1-durable-object-starter)** - The Foundation to Your Next Full Stack TanStack App on Cloudflare (1 day ago)
 
 #### 🎧 Spotify recent tracks
+- [The Verge by Winter Kid](https://open.spotify.com/track/4oQLOzPgMdptuMsT9j7UDZ)
+- [mercury waves by dream machine, Farlight](https://open.spotify.com/track/5wuJjpRK1FrOcxGKCTS1Jz)
+- [Running Blind by Keymos, Francis Skyes](https://open.spotify.com/track/2L3i743B96YisevjdoNpVA)
+- [Running Blind by Keymos, Francis Skyes](https://open.spotify.com/track/2L3i743B96YisevjdoNpVA)
 - [Losing My Mind by CRi, Jesse Mac Cormack](https://open.spotify.com/track/3M5CIljBvrqYs42AAnkgeg)
-- [Drifting by Birdsey](https://open.spotify.com/track/2mKo0TPBUYQW3oHemmxtxJ)
-- [Shallow Walls by LJ MASE, Skyknock, Jessie Lee Thetford](https://open.spotify.com/track/0pQ2qWfc6iGbdTUvEieR3u)
-- [Hold Me Tight by D3EPANK, Xiam, Rukid](https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF)
-- [Whole - French Braids Rework - Remix by Jordan Hart, French Braids](https://open.spotify.com/track/386lMifC7nazKh3TNW2nvT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
