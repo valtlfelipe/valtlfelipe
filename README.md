@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jillesme/tanstack-drizzle-d1-durable-object-starter](https://github.com/jillesme/tanstack-drizzle-d1-durable-object-starter)** - The Foundation to Your Next Full Stack TanStack App on Cloudflare (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Hollow by ábryn](https://open.spotify.com/track/5X9iuS962SaHG58kRgt3Dh)
-- [Running In A Dream by Nils Hoffmann, Kasbo, Vancouver Sleep Clinic](https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL)
-- [Always by Florian Hope](https://open.spotify.com/track/08wHv1wVEL8k1JHGKHlG6B)
-- [Kingdom - Bless You Remix by PRISMA, Bless You](https://open.spotify.com/track/6N19eFizGDxZs9sCSalsaX)
-- [The Verge by Winter Kid](https://open.spotify.com/track/4oQLOzPgMdptuMsT9j7UDZ)
+- [omg that&#39;s vibey by Yavuz Grill](https://open.spotify.com/track/4i42zTacDKnt5HODJneJ28)
+- [Coffee On The Balcony by Mr Rawlings](https://open.spotify.com/track/7kQQkhYxeKRlfwgbUEb8H9)
+- [I Miss You by crayg](https://open.spotify.com/track/41z1UiFOpU9rI0ZGE1NloI)
+- [Soil by Bush Lily](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd)
+- [Sandcastle by Lndonfox](https://open.spotify.com/track/2aa3MeAeZSG9xHWwaXAl5U)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
