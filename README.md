@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jillesme/tanstack-drizzle-d1-durable-object-starter](https://github.com/jillesme/tanstack-drizzle-d1-durable-object-starter)** - The Foundation to Your Next Full Stack TanStack App on Cloudflare (2 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Give it all by Fabi.](https://open.spotify.com/track/1aUnUW9nPKxjyzYRvr2J3v)
 - [Slowcook by Oxi](https://open.spotify.com/track/2bAs3AunhEJqq07XcXqB1l)
 - [Glowin by Yelloo Hill](https://open.spotify.com/track/1pI3AKH7zYkbACKdqYIgVT)
 - [Glowin by Yelloo Hill](https://open.spotify.com/track/1pI3AKH7zYkbACKdqYIgVT)
 - [omg that&#39;s vibey by Yavuz Grill](https://open.spotify.com/track/4i42zTacDKnt5HODJneJ28)
-- [Coffee On The Balcony by Mr Rawlings](https://open.spotify.com/track/7kQQkhYxeKRlfwgbUEb8H9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
