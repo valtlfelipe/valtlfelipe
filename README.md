@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Freedom by crayg](https://open.spotify.com/track/7Aviz7qagNTe79tg2YVDxk)
-- [Otherworldly by Winter Kid, Summer Affairs, King Leah](https://open.spotify.com/track/22S3DgqJAWYNeQQ1XGQCA9)
-- [Sunnyside by floare, AERUNA](https://open.spotify.com/track/5KruAxELviLzIX7urwZw3x)
-- [Seaside Breeze (Tritonia 529) by Dokho](https://open.spotify.com/track/7EYowoXpI2FgRi2Z2wf8g2)
-- [Somebody by blaank, Azeon.](https://open.spotify.com/track/1vrm0sPfhNvCiXF9nAZxQH)
+- [Bali by sunbvrn](https://open.spotify.com/track/1h7lf4PHPOiOTsr9cJMv6q)
+- [Lost Inside Your Soul by Jaron](https://open.spotify.com/track/7w5P4i9uaaGJE5ID7Vo51V)
+- [Come With Me by Fred Ocean](https://open.spotify.com/track/77HuQ3RhEgQfu9JKFUM1r7)
+- [Fading Into Dawn - Mixed by Jarod Glawe](https://open.spotify.com/track/43YKowkh6kzi7HWDGepOQj)
+- [Dreaming by TRFN, Natassa Tsonis](https://open.spotify.com/track/4rS4MqX4WuSLUvNerUUtOq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
