@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Bali by sunbvrn](https://open.spotify.com/track/1h7lf4PHPOiOTsr9cJMv6q)
-- [Lost Inside Your Soul by Jaron](https://open.spotify.com/track/7w5P4i9uaaGJE5ID7Vo51V)
-- [Come With Me by Fred Ocean](https://open.spotify.com/track/77HuQ3RhEgQfu9JKFUM1r7)
-- [Fading Into Dawn - Mixed by Jarod Glawe](https://open.spotify.com/track/43YKowkh6kzi7HWDGepOQj)
-- [Dreaming by TRFN, Natassa Tsonis](https://open.spotify.com/track/4rS4MqX4WuSLUvNerUUtOq)
+- [Holding Back by Michael FK, Faodail](https://open.spotify.com/track/2SMVAQwNzOkmKEWJbRwejo)
+- [Angel Montreal by ATTLAS, Mango](https://open.spotify.com/track/6WHD2lj2ZfGmTtnGp8QL9h)
+- [When Life Begins by TMPST, Maynørr, Eijk](https://open.spotify.com/track/5uNNHW0y4EEVhZIcmgdy3t)
+- [Awake Conciousness by Tinlicker](https://open.spotify.com/track/32NatEpvay17T4UkAaYYvj)
+- [Dayglow by Eric Luttrell](https://open.spotify.com/track/5depW2WwB7sREioBQQ3VZI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
