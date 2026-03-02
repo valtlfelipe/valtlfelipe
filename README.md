@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[olucasandrade/youjustneedpostgres](https://github.com/olucasandrade/youjustneedpostgres)** - I use Postgres... a lot. You probably don&#39;t need more than that depending on your stage. This website will convince you. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Ängelholm by GÆO](https://open.spotify.com/track/41heLHhi7CC2PY08wvOJJg)
-- [Free Fall by overuu](https://open.spotify.com/track/5qBRo6vUNVT6nHllRIXhRO)
-- [Beachbreak by Trance Wax](https://open.spotify.com/track/6OycT1jW0kPxMP1KOe7cCZ)
-- [Be With You by Fred Ocean](https://open.spotify.com/track/4OFmUC1wr0fn0MpWbvkyRs)
-- [I Feel You by Leo Lieg](https://open.spotify.com/track/1dB7nSiKTIhE6niXh7trbT)
+- [Through the Sunset by KASSEO](https://open.spotify.com/track/3RoHpOaPNKCxiPWsp5c0dF)
+- [Es Vedra by Manu Zain](https://open.spotify.com/track/4HCdypNpzBnb8Q0Ebq2byG)
+- [Till the End by Loungify](https://open.spotify.com/track/58l4By97off7nNZsUfT9hD)
+- [After You by MusicbyAden](https://open.spotify.com/track/4zJFcvYYFJCtrUTOCMmlPa)
+- [Alpine Lake by Wavetrip](https://open.spotify.com/track/0D7sYmDu3r9gjyfMZpxOMN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
