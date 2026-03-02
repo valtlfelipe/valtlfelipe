@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Feel Like by Approaching Black](https://open.spotify.com/track/2JfDBav8B8OKuxHq5JC2Rj)
-- [Oceans Under by Blugazer](https://open.spotify.com/track/6eYcDi7BY6mafrhnDpE5dB)
-- [Wilderness by KASSEO](https://open.spotify.com/track/1gOw4Rcv0sXC6yWnQgeaDw)
-- [Honest by just here., CLOVER](https://open.spotify.com/track/0LWPhTRMJfWF5AipqXDPFX)
-- [Motion by Ambyion](https://open.spotify.com/track/5eJ9Y5N3Lgedolcw6g1zJd)
+- [Desire by Spark030](https://open.spotify.com/track/6uEQVPSfyUeoeDPkufeshe)
+- [Everywhere by Feathervane, NEREUS](https://open.spotify.com/track/3R4688V6wZhUXxH7DFLBoY)
+- [As The Days Pass by Iskarelyn](https://open.spotify.com/track/2V7rDDFFDNBQAIOx1Usq7j)
+- [Don&#39;t Change by Dokho](https://open.spotify.com/track/21b1RS0CM777AKMYejtAIf)
+- [Never Leave Me by Johannes Jungleson, Neon Zebra](https://open.spotify.com/track/5qS1FQ7lH45Q5tGpRmCiXJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
