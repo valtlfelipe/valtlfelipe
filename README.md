@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Slow Bloom - Jordin Post Remix by EMBRZ, Jordin Post](https://open.spotify.com/track/4KW9pblJZkbqD0yoAvss5P)
-- [When You Fall by Keymos](https://open.spotify.com/track/1hoeidErSnFU5hJ7XGiAu8)
-- [Sun Goes Down by Boehm](https://open.spotify.com/track/2CpSgavQqC4udwhBHlSzl7)
-- [Remember When by San Mateo Drive](https://open.spotify.com/track/4EM5gnndUuYL0x6zNsGKBE)
-- [Azzurro by Stendahl, Chris Savor](https://open.spotify.com/track/1ziw52r1EQzpK6IiCJezwH)
+- [Still I Run (Tritonia 529) by Lipless, LöKii](https://open.spotify.com/track/0TaQAqiOl7xJYMrrAJXFMx)
+- [Lost in Time by sûr faire](https://open.spotify.com/track/2456S0tdor7XfGJWaYXnPx)
+- [Let It Be (Real) by Mees Salomé, Chris Howard](https://open.spotify.com/track/3gfNibU2G4vvwsGDRIKnEt)
+- [Glimmers by Priior](https://open.spotify.com/track/6yhXNx2eNtLdGtAmszL6oY)
+- [passing by by Oliver River](https://open.spotify.com/track/0eSsmJzJt8aE6YgL45S6j3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
