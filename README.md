@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [See You by Farves, Duce](https://open.spotify.com/track/7gNihynx9ol9yurDT078Mv)
-- [First Time by Klaverson](https://open.spotify.com/track/4cn3Hkqrs0zIfjglMp9ycn)
-- [Déjà vu by KASSEO](https://open.spotify.com/track/6AhVAhd5rktFFEeEuRS8PS)
-- [Seaside Breeze by Dokho](https://open.spotify.com/track/0VmOb1zyfsHIjR9vMsQngR)
-- [One Not Two by Dennis Casey](https://open.spotify.com/track/2DlV3YaSPU6JCvZ30mxGNa)
+- [I&#39;ll Wait For You (ABGT666) - Mixed by Recens, Nathan Ball](https://open.spotify.com/track/23ZpLU0b00sCKOBYmmg0R7)
+- [To The Heart by Because of Art, Steven Weston, Maria Metaxa](https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91)
+- [Golden Tide by ChillTide, Penelope Cru](https://open.spotify.com/track/26iHG42e7PWYCu1RN2LmdV)
+- [Remember the Days by Solara, CLOVER](https://open.spotify.com/track/5jY7V6crT7TZJ7ZlkWNw9F)
+- [In the Dark by Johannes Jungleson](https://open.spotify.com/track/5xjSQoO3UlQEzyrJEyfcah)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
