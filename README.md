@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [So Much by BAF](https://open.spotify.com/track/176jytI4OrwwsQXcqIHsen)
-- [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
-- [Desire (Tritonia 529) by Spark030](https://open.spotify.com/track/1knJYOrr6p8nT80LgqZ1Fl)
-- [You&#39;re The One For Me by Enesence](https://open.spotify.com/track/2jdoB6hjKVL5JYciNgUf1v)
-- [Slow Collapse by Iliou](https://open.spotify.com/track/7w5VpXLeEs6IO9lhHF3pO2)
+- [Whisps by Blugazer](https://open.spotify.com/track/3jJRUKShu3R44wT1wwb5OP)
+- [tangerine by Landayn](https://open.spotify.com/track/6IJ9v96Mexj1LnImwzzW3F)
+- [Satellite by Mindblow, MINOS](https://open.spotify.com/track/0I08iOvSMTy90toCrT2gaw)
+- [Radiance by Farlight](https://open.spotify.com/track/3A2TkeUQwK8Xza7IDe1eAo)
+- [Slow Frequency by Low Meridian](https://open.spotify.com/track/7nIoqCTX3eKSz4CxUpPFfm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
