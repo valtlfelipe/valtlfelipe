@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Solo (So Low) by Mike Key, Annstiina, Adam Lowe](https://open.spotify.com/track/5z7qdNHWSilPAbcV741q12)
-- [Wake by HËRE](https://open.spotify.com/track/64Omz8rMQVCJ3pBitqOhUS)
-- [Never Look Back by Sunset Vision](https://open.spotify.com/track/4HObLktZRczwPxmDKPmFcx)
-- [Citadel - Mixed by Jody Wisternoff, Jamie McDermott](https://open.spotify.com/track/7zJsLJAeAMnGySbtNLV3Ko)
-- [Wishing Well by Lipless](https://open.spotify.com/track/3cACZcO6mnvtiHmUn2M6h0)
+- [Heaven by fuse.](https://open.spotify.com/track/76RB3Xp5brTd2EYXtOXeF5)
+- [Fire by LO, Fia De Luca](https://open.spotify.com/track/2rESC4IbBLXDgY5kUj4qga)
+- [Frames by Oldofredi](https://open.spotify.com/track/2uRJemy9UqhbA9MRkSvbEn)
+- [Again by Alena Kita](https://open.spotify.com/track/6dqlg1lI4oUbZaaqIDuz3c)
+- [Ebb &amp; Flow by Midnight Pass](https://open.spotify.com/track/1cWednRp2CUjfFU5tfhj7B)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
