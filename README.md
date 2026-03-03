@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Summer Morning by Lowkey](https://open.spotify.com/track/5luMIq3mehxDLC7Gt8H7oK)
-- [Floating by Ambyion, Shockline](https://open.spotify.com/track/7wAF8APlRYWKlIzidN4wzp)
-- [Love Me by SNSE](https://open.spotify.com/track/75GCzd89lECW8q5mE3xVEC)
-- [I Can Feel You by Approaching Black](https://open.spotify.com/track/2qmzDHJRZN8V1L7Qva3vGQ)
-- [In My Dreams (Stay) by Keymos](https://open.spotify.com/track/3wR6iV5LwUM8xvtFCcn0HX)
+- [Barefoot in the Moonlight by Oyelle](https://open.spotify.com/track/6JL1vWMgC9vT0EcRDH805M)
+- [Falling by Spark030](https://open.spotify.com/track/49znjmo140zsdq7jI0LynI)
+- [Orange Clouds by Guy Didden](https://open.spotify.com/track/3v8CbIi4uBw6O1F2D7PWuu)
+- [Freedom Of Light by Kaiyan](https://open.spotify.com/track/2wGm7LWiIRTEm6QuFl3O9g)
+- [Serene by Hessian](https://open.spotify.com/track/4cBshIyiiAzbl61Ij0FjHD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
