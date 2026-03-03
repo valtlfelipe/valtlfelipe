@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [After You by MusicbyAden](https://open.spotify.com/track/4zJFcvYYFJCtrUTOCMmlPa)
-- [Alpine Lake by Wavetrip](https://open.spotify.com/track/0D7sYmDu3r9gjyfMZpxOMN)
-- [Memory Lane by Michael FK](https://open.spotify.com/track/01Jni7AQW6iSc20EDfPiZF)
-- [Lumen by Sun Fighters](https://open.spotify.com/track/71PlF4YAeB17U2J7XLThWX)
-- [Paradox by Nina Young](https://open.spotify.com/track/5shwCOL2t5w0IDUgvqzSBh)
+- [Slow Bloom - Jordin Post Remix by EMBRZ, Jordin Post](https://open.spotify.com/track/4KW9pblJZkbqD0yoAvss5P)
+- [When You Fall by Keymos](https://open.spotify.com/track/1hoeidErSnFU5hJ7XGiAu8)
+- [Sun Goes Down by Boehm](https://open.spotify.com/track/2CpSgavQqC4udwhBHlSzl7)
+- [Remember When by San Mateo Drive](https://open.spotify.com/track/4EM5gnndUuYL0x6zNsGKBE)
+- [Azzurro by Stendahl, Chris Savor](https://open.spotify.com/track/1ziw52r1EQzpK6IiCJezwH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
