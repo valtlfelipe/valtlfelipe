@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Whisps by Blugazer](https://open.spotify.com/track/3jJRUKShu3R44wT1wwb5OP)
-- [tangerine by Landayn](https://open.spotify.com/track/6IJ9v96Mexj1LnImwzzW3F)
-- [Satellite by Mindblow, MINOS](https://open.spotify.com/track/0I08iOvSMTy90toCrT2gaw)
-- [Radiance by Farlight](https://open.spotify.com/track/3A2TkeUQwK8Xza7IDe1eAo)
-- [Slow Frequency by Low Meridian](https://open.spotify.com/track/7nIoqCTX3eKSz4CxUpPFfm)
+- [Solo (So Low) by Mike Key, Annstiina, Adam Lowe](https://open.spotify.com/track/5z7qdNHWSilPAbcV741q12)
+- [Wake by HËRE](https://open.spotify.com/track/64Omz8rMQVCJ3pBitqOhUS)
+- [Never Look Back by Sunset Vision](https://open.spotify.com/track/4HObLktZRczwPxmDKPmFcx)
+- [Citadel - Mixed by Jody Wisternoff, Jamie McDermott](https://open.spotify.com/track/7zJsLJAeAMnGySbtNLV3Ko)
+- [Wishing Well by Lipless](https://open.spotify.com/track/3cACZcO6mnvtiHmUn2M6h0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
