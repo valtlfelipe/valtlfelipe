@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[getomnico/omni](https://github.com/getomnico/omni)** - Workplace AI Assistant and Search Platform (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [It’s raining outside by EMBRZ](https://open.spotify.com/track/2WJOzQzp9aLTEvZMi8yuJq)
-- [Your Hug by ZeLeo](https://open.spotify.com/track/6zUK9uNC80hiPW6g8ysT2o)
-- [West Coast by Courtney Storm](https://open.spotify.com/track/5TYMfTsBChRmVRDPvjhWVQ)
-- [How Far by oskar med k](https://open.spotify.com/track/7j4dfvIcmrrzvA8QmiX5Dy)
-- [..with you by heylucas](https://open.spotify.com/track/2m1aeaBzmNuTkkthsu1H6K)
+- [You Go by Modera, Liu Bei](https://open.spotify.com/track/06duvJ8AJAYi3NsAJtYflk)
+- [You Already Know by Sultan &#43; Shepard, Benjamin Roustaing](https://open.spotify.com/track/6R8ggIjGRfK3fH0z7oZlHT)
+- [Better Alone by Ross Quinn](https://open.spotify.com/track/7fsiHd1FrQjjBdHvMA7uY7)
+- [Rise by EMBRZ, Abroad](https://open.spotify.com/track/6MA9z9AB9QeIpPd4wiLTJE)
+- [Glad I Found You by Elderbrook, George FitzGerald](https://open.spotify.com/track/4k5NNv1kAyfqsxyKDu2mvm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
