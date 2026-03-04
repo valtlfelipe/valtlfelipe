@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[getomnico/omni](https://github.com/getomnico/omni)** - Workplace AI Assistant and Search Platform (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [You Go by Modera, Liu Bei](https://open.spotify.com/track/06duvJ8AJAYi3NsAJtYflk)
-- [You Already Know by Sultan &#43; Shepard, Benjamin Roustaing](https://open.spotify.com/track/6R8ggIjGRfK3fH0z7oZlHT)
-- [Better Alone by Ross Quinn](https://open.spotify.com/track/7fsiHd1FrQjjBdHvMA7uY7)
-- [Rise by EMBRZ, Abroad](https://open.spotify.com/track/6MA9z9AB9QeIpPd4wiLTJE)
-- [Glad I Found You by Elderbrook, George FitzGerald](https://open.spotify.com/track/4k5NNv1kAyfqsxyKDu2mvm)
+- [White Lie by Hessian, Emma Mae](https://open.spotify.com/track/1njftOjmyXeibS6TvwiCB0)
+- [How Did We Get Here by Andrew Nagy, Lovlee](https://open.spotify.com/track/6rObeWLiabZriNlsKwVt5N)
+- [Making Time by Sultan &#43; Shepard, Julia Church](https://open.spotify.com/track/4hIj1YNfEdcYnYawKK0eYd)
+- [Always by Ross Quinn](https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE)
+- [Take a breath, let&#39;s begin by EMBRZ](https://open.spotify.com/track/0WQ2Ad7s1ZuHp5V3YQejv3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
