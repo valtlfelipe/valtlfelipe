@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Still I Run (Tritonia 529) by Lipless, LöKii](https://open.spotify.com/track/0TaQAqiOl7xJYMrrAJXFMx)
-- [Lost in Time by sûr faire](https://open.spotify.com/track/2456S0tdor7XfGJWaYXnPx)
-- [Let It Be (Real) by Mees Salomé, Chris Howard](https://open.spotify.com/track/3gfNibU2G4vvwsGDRIKnEt)
-- [Glimmers by Priior](https://open.spotify.com/track/6yhXNx2eNtLdGtAmszL6oY)
-- [passing by by Oliver River](https://open.spotify.com/track/0eSsmJzJt8aE6YgL45S6j3)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [Senses of Comfort by Nora En Pure](https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl)
+- [Love So Good by SLVRLAKE](https://open.spotify.com/track/6h4Fg1jj58G8JW7xph1pLb)
+- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
+- [Mysteries by Lstn](https://open.spotify.com/track/6HSDbXaqVrUQzxzv8KhDt1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
