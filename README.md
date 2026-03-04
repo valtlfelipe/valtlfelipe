@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [Senses of Comfort by Nora En Pure](https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl)
-- [Love So Good by SLVRLAKE](https://open.spotify.com/track/6h4Fg1jj58G8JW7xph1pLb)
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
-- [Mysteries by Lstn](https://open.spotify.com/track/6HSDbXaqVrUQzxzv8KhDt1)
+- [All We&#39;ve Got by aural](https://open.spotify.com/track/2hvYcuptJ3CNOHmF18Rocg)
+- [Called Your Name by Nu Aspect, Jake Neumar](https://open.spotify.com/track/27z5prnleELd1ifzlnaEHJ)
+- [What If You Fly by Oliver River](https://open.spotify.com/track/09np57gcBN1dq1gtsZ2uIB)
+- [Aquatic by Nora En Pure](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK)
+- [Golden by ORACLE, Nina Carr](https://open.spotify.com/track/6jMonGirFrktmZJtzL9p1v)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
