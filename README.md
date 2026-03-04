@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[getomnico/omni](https://github.com/getomnico/omni)** - Workplace AI Assistant and Search Platform (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Memories by Sultan &#43; Shepard, The Kite String Tangle](https://open.spotify.com/track/4ahh5saslEyEmIp9InfK0L)
-- [The Kind of Love by heylucas](https://open.spotify.com/track/0N0uASaWBh0Y0Ia570YtJn)
-- [What A Feeling by Courtney Storm, Finley Brückner](https://open.spotify.com/track/4MqY1JHLLfI0V62iZ3MDNa)
-- [Tranquility by Nora En Pure](https://open.spotify.com/track/3bQ2OhLYJLWOwjaVsGpvq2)
-- [Alone With You by Andrew Nagy, Ross Quinn, Gaby Gerlis](https://open.spotify.com/track/61C23J1jduYNQVe69XBupp)
+- [It’s raining outside by EMBRZ](https://open.spotify.com/track/2WJOzQzp9aLTEvZMi8yuJq)
+- [Your Hug by ZeLeo](https://open.spotify.com/track/6zUK9uNC80hiPW6g8ysT2o)
+- [West Coast by Courtney Storm](https://open.spotify.com/track/5TYMfTsBChRmVRDPvjhWVQ)
+- [How Far by oskar med k](https://open.spotify.com/track/7j4dfvIcmrrzvA8QmiX5Dy)
+- [..with you by heylucas](https://open.spotify.com/track/2m1aeaBzmNuTkkthsu1H6K)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
