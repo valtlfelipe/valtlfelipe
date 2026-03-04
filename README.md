@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)** - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Hear My Call by H:dn](https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW)
+- [Take Me Home - Mixed by Falden, FARLEY](https://open.spotify.com/track/0fAVnUI8qOgDWsxAOlY9CQ)
 - [Closer by blaank, Jörd, Lighthouse](https://open.spotify.com/track/4RF358diHjNIMYzxQWXKRy)
 - [Stranger by CRi](https://open.spotify.com/track/0kjgsXF5EwW97Q1IfcxvUh)
 - [Souls Not Bodies by Midnight Pass](https://open.spotify.com/track/4BIiC6k94so9Odloc8z4MR)
-- [half of you is not enough by oskar med k, Marini](https://open.spotify.com/track/0QfaEov16yHsIs1GL6QQau)
-- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
