@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[getpaykit/paykit](https://github.com/getpaykit/paykit)** - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [No Shape Without You by Shimza, LevyM](https://open.spotify.com/track/61z9JuSmy3ojIWoVhGHQAE)
-- [Unjust by Francis Mercier, Madmix, Toshi](https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0)
-- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
-- [Let Me In by EMBRZ](https://open.spotify.com/track/5NEbMIrZXnLabp1ojSioXl)
-- [Moments by Elderbrook](https://open.spotify.com/track/1q9TpHnaObjSKINEJPXaPx)
+- [Selva Selva by Parra for Cuva](https://open.spotify.com/track/5cfulKg8LUYQixsKqdsv1P)
+- [Closer Than Ever - Arodes Remix by Imbermind, Arodes](https://open.spotify.com/track/3jeFImBk9dH4GawbHaw3Nn)
+- [Cola - ARTBAT Remix by CamelPhat, Elderbrook, ARTBAT](https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8)
+- [No Bad Vibes by Jazzy, KILIMANJARO](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8)
+- [You &amp; Me - Notre Dame Remix by Max Styler, Notre Dame](https://open.spotify.com/track/0Qbh4yOiVqsOsNgwLCnbBH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
