@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [dreamforever by Tonic Walter, Nina Nst](https://open.spotify.com/track/0yA6WTLMSkRYdwjHBBivLS)
-- [Wicked Game by vidi roca, Giorgio Gee](https://open.spotify.com/track/4kVGdg7SoWVii2whrSZVZ0)
-- [Coffee (Give Me Something) by Tiësto, Vintage Culture](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD)
-- [So Real by Qualysto](https://open.spotify.com/track/3F5DqndDfbqZdEETpYLrV8)
-- [Serenity - Chill Mix by CARSTN, Amanda Collis](https://open.spotify.com/track/7JOE4Y5SZ2qRUYuC0cJ1Ix)
+- [Into The Light by Mees Salomé, Tyler Mann](https://open.spotify.com/track/7pxBdeweQKCFLnXOIDLVz2)
+- [Never Say Goodbye by Boehm](https://open.spotify.com/track/1zUCk7fr8mj0GpN9thAQxY)
+- [Sunshine by Sound Quelle](https://open.spotify.com/track/5V54QSIipmlyMnzbNOvYVJ)
+- [Time (Inception) by Lynnic, ItsArius](https://open.spotify.com/track/2zIBKDR4Fr0lNecVQpqWc4)
+- [Crazy Love - ANUQRAM Remix by Above &amp; Beyond, Zoë Johnston, ANUQRAM](https://open.spotify.com/track/0rQscieJqmFbGM7uZpisXu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
