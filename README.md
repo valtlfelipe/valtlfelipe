@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Golden (Tritonia 526) by Rhea Silvia](https://open.spotify.com/track/24NfDF0Ha9c0V3H2GcnJub)
-- [Take Me Higher by BLR, NBLM](https://open.spotify.com/track/4kDyJVeJYDe1rJ8yQY2Dal)
-- [Was It the Wind That Stirred The Trees by Boy North](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT)
-- [Beyond Beliefs by Ben Böhmer](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV)
-- [Una Mattina by Lynnic](https://open.spotify.com/track/6g0L8OMeK0sa1IuY1De4oy)
+- [dreamforever by Tonic Walter, Nina Nst](https://open.spotify.com/track/0yA6WTLMSkRYdwjHBBivLS)
+- [Wicked Game by vidi roca, Giorgio Gee](https://open.spotify.com/track/4kVGdg7SoWVii2whrSZVZ0)
+- [Coffee (Give Me Something) by Tiësto, Vintage Culture](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD)
+- [So Real by Qualysto](https://open.spotify.com/track/3F5DqndDfbqZdEETpYLrV8)
+- [Serenity - Chill Mix by CARSTN, Amanda Collis](https://open.spotify.com/track/7JOE4Y5SZ2qRUYuC0cJ1Ix)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
