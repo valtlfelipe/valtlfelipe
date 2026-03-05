@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[getpaykit/paykit](https://github.com/getpaykit/paykit)** - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Selva Selva by Parra for Cuva](https://open.spotify.com/track/5cfulKg8LUYQixsKqdsv1P)
-- [Closer Than Ever - Arodes Remix by Imbermind, Arodes](https://open.spotify.com/track/3jeFImBk9dH4GawbHaw3Nn)
-- [Cola - ARTBAT Remix by CamelPhat, Elderbrook, ARTBAT](https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8)
-- [No Bad Vibes by Jazzy, KILIMANJARO](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8)
-- [You &amp; Me - Notre Dame Remix by Max Styler, Notre Dame](https://open.spotify.com/track/0Qbh4yOiVqsOsNgwLCnbBH)
+- [Lady (Hear Me Tonight) - Remix by Modjo, Sparrow &amp; Barbossa, koshi, Daymaan, Sparrow (CH)](https://open.spotify.com/track/7qFeh9S1Noq5NORl3o4AYI)
+- [Let Me Come To Life by Klangkarussell](https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY)
+- [If U Ever by Konvex (FR), Meloko, Garla](https://open.spotify.com/track/2t7OYbIy8VAKophB8wJpN3)
+- [Jackie B by &amp;friends, JOSEPH (CH), Brent Faiyaz](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa)
+- [Hit the Ground by Texture](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
