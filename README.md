@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Back Into Your Arms by Modera, Blonde Maze](https://open.spotify.com/track/2iNyL0usEQAElgWAeiXfSZ)
-- [Shine by Hessian, mölly, Afnan Prince](https://open.spotify.com/track/5J02vp8CZYokpjeha2OBav)
-- [Into The Light by Mees Salomé, Tyler Mann](https://open.spotify.com/track/7pxBdeweQKCFLnXOIDLVz2)
-- [Never Say Goodbye by Boehm](https://open.spotify.com/track/1zUCk7fr8mj0GpN9thAQxY)
-- [Sunshine by Sound Quelle](https://open.spotify.com/track/5V54QSIipmlyMnzbNOvYVJ)
+- [Further by Jack Willard](https://open.spotify.com/track/0sHhc7CSihE399hRj3hB9f)
+- [You Already Know (Tritonia 417) by Sultan &#43; Shepard, Benjamin Roustaing](https://open.spotify.com/track/0DLIRITnARzQrG2sHAzEWq)
+- [Great Plains by Verbala](https://open.spotify.com/track/7B2qwF4Qf0dwmuU2UQ3upI)
+- [Never Alone by zaccwithtwocs, Heather Janssen](https://open.spotify.com/track/49e8ayGgVyYcVeu053wadZ)
+- [When I Need You by PRAANA, Freddie Elmberg](https://open.spotify.com/track/2BLtjeTuLIZLhhFjEK1tkN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
