@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Nisko by Velvet Palms](https://open.spotify.com/track/5TUfnwJOLacYQohGkIVLNl)
-- [Atlas by Stenkil](https://open.spotify.com/track/5l3ydjkyj3Q6QmRftWvxDU)
-- [Private Echo by Aurove](https://open.spotify.com/track/6ccB9FIGLKsltsNDF3ls2X)
-- [Solar Palms by Lostlow](https://open.spotify.com/track/6TtlWQvjshrzAll3V611YC)
-- [Ses Illete by Pool Villa](https://open.spotify.com/track/73JFGgO5GvmylbVudiMUgK)
+- [Addicted to You by Nash Lennox](https://open.spotify.com/track/0ZANwni7XyLPh2v0Rl9k2w)
+- [Salva by Gabriel Morais Jr](https://open.spotify.com/track/0RzJu51vnUI8K8IckedibB)
+- [The Palms by Lostlow](https://open.spotify.com/track/6Pby1rzTNp8P68GVRDm4ag)
+- [Lagoon Lights by Lashi](https://open.spotify.com/track/7JffrW7u30xua6V1nsBeZF)
+- [Mezcal Sun by Oskarr Starr](https://open.spotify.com/track/4bnlswmdE3zsdyj5Z7Xs09)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
