@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Further by Jack Willard](https://open.spotify.com/track/0sHhc7CSihE399hRj3hB9f)
-- [You Already Know (Tritonia 417) by Sultan &#43; Shepard, Benjamin Roustaing](https://open.spotify.com/track/0DLIRITnARzQrG2sHAzEWq)
-- [Great Plains by Verbala](https://open.spotify.com/track/7B2qwF4Qf0dwmuU2UQ3upI)
-- [Never Alone by zaccwithtwocs, Heather Janssen](https://open.spotify.com/track/49e8ayGgVyYcVeu053wadZ)
-- [When I Need You by PRAANA, Freddie Elmberg](https://open.spotify.com/track/2BLtjeTuLIZLhhFjEK1tkN)
+- [Drifting Glow by Lostlow](https://open.spotify.com/track/6OojMCkCvffn7f628VMfQx)
+- [Purity by Half Tone](https://open.spotify.com/track/7aJuvgHmhNay1VK8HjAV7a)
+- [NVM by Sobbel Sosch](https://open.spotify.com/track/7b6fkO1E82zlDRAxi03Wt7)
+- [Endless Now by Alkéo](https://open.spotify.com/track/2rFNzmfLO8g9Wo8mSC8RVJ)
+- [Burning Sensation by Hans Blu](https://open.spotify.com/track/0zfBEkuizYnPCoVS80Udr7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
