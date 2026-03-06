@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Back Into Your Arms by Modera, Blonde Maze](https://open.spotify.com/track/2iNyL0usEQAElgWAeiXfSZ)
+- [Shine by Hessian, mölly, Afnan Prince](https://open.spotify.com/track/5J02vp8CZYokpjeha2OBav)
 - [Into The Light by Mees Salomé, Tyler Mann](https://open.spotify.com/track/7pxBdeweQKCFLnXOIDLVz2)
 - [Never Say Goodbye by Boehm](https://open.spotify.com/track/1zUCk7fr8mj0GpN9thAQxY)
 - [Sunshine by Sound Quelle](https://open.spotify.com/track/5V54QSIipmlyMnzbNOvYVJ)
-- [Time (Inception) by Lynnic, ItsArius](https://open.spotify.com/track/2zIBKDR4Fr0lNecVQpqWc4)
-- [Crazy Love - ANUQRAM Remix by Above &amp; Beyond, Zoë Johnston, ANUQRAM](https://open.spotify.com/track/0rQscieJqmFbGM7uZpisXu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
