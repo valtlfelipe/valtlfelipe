@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [I Want You Closer by Paralax](https://open.spotify.com/track/0DUUm963f50SOK4YsovEzu)
-- [Designated Driver by XO STHLM](https://open.spotify.com/track/7z5ltDf7A1yKhIqoMQiWNb)
-- [electro mind by honeypie](https://open.spotify.com/track/39PrXMPuiawB3qWCYKw2fX)
-- [Leave Casually by Nova Ave](https://open.spotify.com/track/2vMX9bOBavhQAs8uNn8ryg)
-- [Calling by Bonsaye](https://open.spotify.com/track/56lx1e5rGc93qzwmefp7Hp)
+- [Run It Thru by Jake Velo](https://open.spotify.com/track/15G30LOHsG5NOZEtqz0RsI)
+- [Endorphin Algorithm by Plastik Flamingos](https://open.spotify.com/track/7nKytmPunWlDjFGo0QDRG0)
+- [Locking It In by Talaiio](https://open.spotify.com/track/5JTyls9UsBw7wqujLLrZLd)
+- [Blindspot by Luke Dexter](https://open.spotify.com/track/0HVp88kRkPspkhTq8eCbQ8)
+- [Citrus-sharp by Robo Rat](https://open.spotify.com/track/2ZDiNSInO1KOMU54fNRmhu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
