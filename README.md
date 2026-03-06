@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Run It Thru by Jake Velo](https://open.spotify.com/track/15G30LOHsG5NOZEtqz0RsI)
-- [Endorphin Algorithm by Plastik Flamingos](https://open.spotify.com/track/7nKytmPunWlDjFGo0QDRG0)
-- [Locking It In by Talaiio](https://open.spotify.com/track/5JTyls9UsBw7wqujLLrZLd)
-- [Blindspot by Luke Dexter](https://open.spotify.com/track/0HVp88kRkPspkhTq8eCbQ8)
-- [Citrus-sharp by Robo Rat](https://open.spotify.com/track/2ZDiNSInO1KOMU54fNRmhu)
+- [Nisko by Velvet Palms](https://open.spotify.com/track/5TUfnwJOLacYQohGkIVLNl)
+- [Atlas by Stenkil](https://open.spotify.com/track/5l3ydjkyj3Q6QmRftWvxDU)
+- [Private Echo by Aurove](https://open.spotify.com/track/6ccB9FIGLKsltsNDF3ls2X)
+- [Solar Palms by Lostlow](https://open.spotify.com/track/6TtlWQvjshrzAll3V611YC)
+- [Ses Illete by Pool Villa](https://open.spotify.com/track/73JFGgO5GvmylbVudiMUgK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
