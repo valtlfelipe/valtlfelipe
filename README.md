@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Drifting Glow by Lostlow](https://open.spotify.com/track/6OojMCkCvffn7f628VMfQx)
-- [Purity by Half Tone](https://open.spotify.com/track/7aJuvgHmhNay1VK8HjAV7a)
-- [NVM by Sobbel Sosch](https://open.spotify.com/track/7b6fkO1E82zlDRAxi03Wt7)
-- [Endless Now by Alkéo](https://open.spotify.com/track/2rFNzmfLO8g9Wo8mSC8RVJ)
-- [Burning Sensation by Hans Blu](https://open.spotify.com/track/0zfBEkuizYnPCoVS80Udr7)
+- [I Want You Closer by Paralax](https://open.spotify.com/track/0DUUm963f50SOK4YsovEzu)
+- [Designated Driver by XO STHLM](https://open.spotify.com/track/7z5ltDf7A1yKhIqoMQiWNb)
+- [electro mind by honeypie](https://open.spotify.com/track/39PrXMPuiawB3qWCYKw2fX)
+- [Leave Casually by Nova Ave](https://open.spotify.com/track/2vMX9bOBavhQAs8uNn8ryg)
+- [Calling by Bonsaye](https://open.spotify.com/track/56lx1e5rGc93qzwmefp7Hp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
