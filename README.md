@@ -3,17 +3,17 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** (today)
+- **[blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)** - Build ultra fast, tiny, and cross-platform desktop apps with Typescript. (today)
 - **[valtlfelipe/yases](https://github.com/valtlfelipe/yases)** - Yet Another SES Wrapper (2 days ago)
 - **[getsentry/warden](https://github.com/getsentry/warden)** - Your code is under new management. Agents that review your code. (2 days ago)
 - **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - Browser automation CLI for AI agents (3 days ago)
-- **[jkuri/Reframed](https://github.com/jkuri/Reframed)** - Screen recording on macOS, from capture to delivery, no detours.  (5 days ago)
-- **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Peace &amp; Quiet by Skylume](https://open.spotify.com/track/50IE1rLZyUqZdwmPBhq0T4)
-- [Palmtrace by VILT](https://open.spotify.com/track/2XJZt18grLHvgRSTaJjM8T)
-- [Golden Tide by Aicnelav](https://open.spotify.com/track/2MqbA9q1dRjXDtWbKwwjfG)
-- [Just Keep Swimming by Talaiio](https://open.spotify.com/track/1Ojr8Dr32mjKSNpxOp4osG)
-- [Temple by JKP](https://open.spotify.com/track/1mnhC4xfN4bM8TMntyRKwr)
+- [Record Time by Plastik Flamingos](https://open.spotify.com/track/1FYiIfjOwq8qT1cShYVQ9N)
+- [High Drops by Hans Blu](https://open.spotify.com/track/7bZysoABdpLd0cYS9OInK9)
+- [Voices by Aicnelav](https://open.spotify.com/track/5fvfSFJgElOl3a6DhX7JCd)
+- [Headstrong by Lndonfox](https://open.spotify.com/track/6SPyeVzlm8Mjz275Qo3Dee)
+- [Flawlux by Overture Black](https://open.spotify.com/track/4f2bnagK2EFAqA7ZhwLukC)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
