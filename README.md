@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - Browser automation CLI for AI agents (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Record Time by Plastik Flamingos](https://open.spotify.com/track/1FYiIfjOwq8qT1cShYVQ9N)
-- [High Drops by Hans Blu](https://open.spotify.com/track/7bZysoABdpLd0cYS9OInK9)
-- [Voices by Aicnelav](https://open.spotify.com/track/5fvfSFJgElOl3a6DhX7JCd)
-- [Headstrong by Lndonfox](https://open.spotify.com/track/6SPyeVzlm8Mjz275Qo3Dee)
-- [Flawlux by Overture Black](https://open.spotify.com/track/4f2bnagK2EFAqA7ZhwLukC)
+- [Nisko by Velvet Palms](https://open.spotify.com/track/5TUfnwJOLacYQohGkIVLNl)
+- [Fourth Great Year by Himari Aoki](https://open.spotify.com/track/4Dc8vlnTDInfrPrHgBC4HS)
+- [Searching for Wisdom by Ensaimada](https://open.spotify.com/track/4cBsG1TLPilTTMzXaUncPa)
+- [My Soul by Palm Club](https://open.spotify.com/track/0by5E5sNv5w9t2VdbwzxJA)
+- [lost in emotion by Ellef Antenn](https://open.spotify.com/track/6NG1JFF9QubV3us93isSyv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
