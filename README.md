@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - Browser automation CLI for AI agents (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Fading Heart by Midnight Side Eye](https://open.spotify.com/track/0XQVDAj1r7HFhRf19Vy3IT)
+- [Beyond by Dan Awy](https://open.spotify.com/track/0c7Tz0SLupBKDwhURCEGIq)
 - [Nisko by Velvet Palms](https://open.spotify.com/track/5TUfnwJOLacYQohGkIVLNl)
 - [Fourth Great Year by Himari Aoki](https://open.spotify.com/track/4Dc8vlnTDInfrPrHgBC4HS)
 - [Searching for Wisdom by Ensaimada](https://open.spotify.com/track/4cBsG1TLPilTTMzXaUncPa)
-- [My Soul by Palm Club](https://open.spotify.com/track/0by5E5sNv5w9t2VdbwzxJA)
-- [lost in emotion by Ellef Antenn](https://open.spotify.com/track/6NG1JFF9QubV3us93isSyv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
