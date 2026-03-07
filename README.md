@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[valtlfelipe/yases](https://github.com/valtlfelipe/yases)** - Yet Another SES Wrapper (1 day ago)
-- **[getsentry/warden](https://github.com/getsentry/warden)** - Your code is under new management. Agents that review your code. (1 day ago)
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - Browser automation CLI for AI agents (2 days ago)
-- **[jkuri/Reframed](https://github.com/jkuri/Reframed)** - Screen recording on macOS, from capture to delivery, no detours.  (4 days ago)
-- **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (4 days ago)
+- **[valtlfelipe/yases](https://github.com/valtlfelipe/yases)** - Yet Another SES Wrapper (2 days ago)
+- **[getsentry/warden](https://github.com/getsentry/warden)** - Your code is under new management. Agents that review your code. (2 days ago)
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - Browser automation CLI for AI agents (3 days ago)
+- **[jkuri/Reframed](https://github.com/jkuri/Reframed)** - Screen recording on macOS, from capture to delivery, no detours.  (5 days ago)
+- **[Notifuse/notifuse](https://github.com/Notifuse/notifuse)** - Notifuse is an open-source &amp; modern emailing platform (5 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Peace &amp; Quiet by Skylume](https://open.spotify.com/track/50IE1rLZyUqZdwmPBhq0T4)
