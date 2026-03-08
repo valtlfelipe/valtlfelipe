@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** (today)
-- **[blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)** - Build ultra fast, tiny, and cross-platform desktop apps with Typescript. (today)
-- **[valtlfelipe/yases](https://github.com/valtlfelipe/yases)** - Yet Another SES Wrapper (2 days ago)
-- **[getsentry/warden](https://github.com/getsentry/warden)** - Your code is under new management. Agents that review your code. (2 days ago)
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - Browser automation CLI for AI agents (3 days ago)
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** (1 day ago)
+- **[blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)** - Build ultra fast, tiny, and cross-platform desktop apps with Typescript. (1 day ago)
+- **[valtlfelipe/yases](https://github.com/valtlfelipe/yases)** - Yet Another SES Wrapper (3 days ago)
+- **[getsentry/warden](https://github.com/getsentry/warden)** - Your code is under new management. Agents that review your code. (3 days ago)
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - Browser automation CLI for AI agents (4 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Virus (How About Now) - Radio Edit by Martin Garrix, MOTi](https://open.spotify.com/track/5MCpA6s4yxlRWK5xZ0UFl0)
