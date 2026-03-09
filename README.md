@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** (1 day ago)
-- **[blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)** - Build ultra fast, tiny, and cross-platform desktop apps with Typescript. (1 day ago)
-- **[valtlfelipe/yases](https://github.com/valtlfelipe/yases)** - Yet Another SES Wrapper (3 days ago)
-- **[getsentry/warden](https://github.com/getsentry/warden)** - Your code is under new management. Agents that review your code. (3 days ago)
-- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - Browser automation CLI for AI agents (4 days ago)
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** (2 days ago)
+- **[blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)** - Build ultra fast, tiny, and cross-platform desktop apps with Typescript. (2 days ago)
+- **[valtlfelipe/yases](https://github.com/valtlfelipe/yases)** - Yet Another SES Wrapper (4 days ago)
+- **[getsentry/warden](https://github.com/getsentry/warden)** - Your code is under new management. Agents that review your code. (4 days ago)
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - Browser automation CLI for AI agents (5 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Some Say - Felix Jaehn Remix by Nea, Felix Jaehn](https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv)
