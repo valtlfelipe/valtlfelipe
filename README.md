@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - Browser automation CLI for AI agents (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Some Say - Felix Jaehn Remix by Nea, Felix Jaehn](https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv)
-- [My Love by Route 94, Jess Glynne](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU)
-- [TAKE IT OFF by FISHER, Aatig](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB)
-- [Magic In The Air by Francis Mercier, Magic System, Chawki](https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ)
-- [My Friend Has a Swimming Pool by Mausi](https://open.spotify.com/track/2HvaJzLOotkXbplceNSHaK)
+- [Odyssey by Sunset Oasis, Sean Blanc](https://open.spotify.com/track/4K50eZdc3iD4Go8HDQYVgh)
+- [Tell Me Why by Tad Forl](https://open.spotify.com/track/04is8zdJqdFc8ldjIaMeyb)
+- [Carry On by sznl., ATREOUS](https://open.spotify.com/track/2PrhweAraa7WLcX9vK5Ck3)
+- [liquid echo by pillow](https://open.spotify.com/track/1sY1PtJCyTj4Zz3XSwiTWO)
+- [Treading Water by HAYLA](https://open.spotify.com/track/6yv4uevSRhuDrBGrIgpmEh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
