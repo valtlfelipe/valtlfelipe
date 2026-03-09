@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** - Browser automation CLI for AI agents (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Odyssey by Sunset Oasis, Sean Blanc](https://open.spotify.com/track/4K50eZdc3iD4Go8HDQYVgh)
-- [Tell Me Why by Tad Forl](https://open.spotify.com/track/04is8zdJqdFc8ldjIaMeyb)
-- [Carry On by sznl., ATREOUS](https://open.spotify.com/track/2PrhweAraa7WLcX9vK5Ck3)
-- [liquid echo by pillow](https://open.spotify.com/track/1sY1PtJCyTj4Zz3XSwiTWO)
-- [Treading Water by HAYLA](https://open.spotify.com/track/6yv4uevSRhuDrBGrIgpmEh)
+- [My Friends by OLING, Viggo Dyst](https://open.spotify.com/track/5aol6iiozhnF1K7XVG54tZ)
+- [Run Away by Onycs](https://open.spotify.com/track/5FjzdCoN7sHuWCrLaxyCYv)
+- [Open Your Eyes by DRFT](https://open.spotify.com/track/1Q9PtGtAdOPlMHGvZoWNOz)
+- [All Time by hexale, RAEYA](https://open.spotify.com/track/5eMrWJGmr6JtUSbYlORdo7)
+- [Emotion - JYRYMY Remix by Hazey Eyes, Panama, JYRYMY](https://open.spotify.com/track/0i2CF1qF8fdYMYFS10bUja)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
