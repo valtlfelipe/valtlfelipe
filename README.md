@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[valtlfelipe/yases](https://github.com/valtlfelipe/yases)** - Yet Another SES Wrapper (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Any Day by TMPST, Maynørr, Nina Carr](https://open.spotify.com/track/20pYx6mT83gDbqpEsMu1Vl)
-- [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
-- [Orange Clouds by Guy Didden](https://open.spotify.com/track/3v8CbIi4uBw6O1F2D7PWuu)
-- [A White Dream by Stendahl](https://open.spotify.com/track/5s0dawL7Xg6yw9waYW9YyG)
-- [Slow Bloom by EMBRZ](https://open.spotify.com/track/09LxWNANqoVFZ8WFlO5A5V)
+- [Patient Patterns by Jack Willard](https://open.spotify.com/track/5mA9L5C4bRlb9JV23HTjCE)
+- [Senses of Comfort by Nora En Pure](https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl)
+- [Pieces by Duce, RAEYA, Finley Brückner](https://open.spotify.com/track/0NkqH471US2BHa2Z2xPPdw)
+- [Strip Away by Verbala](https://open.spotify.com/track/6AP0up18m6dGGN4BMJarvE)
+- [We Go Again by Because of Art, Steven Weston](https://open.spotify.com/track/0ALCpmGSIObbYNai6SFbMO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
