@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [liquid echo by pillow](https://open.spotify.com/track/1sY1PtJCyTj4Zz3XSwiTWO)
-- [Treading Water by HAYLA](https://open.spotify.com/track/6yv4uevSRhuDrBGrIgpmEh)
-- [Do It Again by Ramundo, Lonely Night](https://open.spotify.com/track/7Ev7GvLBh8WTTFBIBn6IYg)
-- [Radiance by Farlight](https://open.spotify.com/track/3A2TkeUQwK8Xza7IDe1eAo)
-- [Kendall Park by Duce, Piece Wise, Courtney Storm](https://open.spotify.com/track/2SXi0cldambE2930H18LoL)
+- [Tell Me Why by Tad Forl](https://open.spotify.com/track/04is8zdJqdFc8ldjIaMeyb)
+- [Odyssey by Sunset Oasis, Sean Blanc](https://open.spotify.com/track/4K50eZdc3iD4Go8HDQYVgh)
+- [Nuage by TVLI](https://open.spotify.com/track/12knb2G5n6ZEQvAEiBMeVT)
+- [21 Reasons (feat. Ella Henderson) by Nathan Dawe, Ella Henderson](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR)
+- [Carry On by sznl., ATREOUS](https://open.spotify.com/track/2PrhweAraa7WLcX9vK5Ck3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
