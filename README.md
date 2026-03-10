@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[valtlfelipe/yases](https://github.com/valtlfelipe/yases)** - Yet Another SES Wrapper (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Patient Patterns by Jack Willard](https://open.spotify.com/track/5mA9L5C4bRlb9JV23HTjCE)
-- [Senses of Comfort by Nora En Pure](https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl)
-- [Pieces by Duce, RAEYA, Finley Brückner](https://open.spotify.com/track/0NkqH471US2BHa2Z2xPPdw)
-- [Strip Away by Verbala](https://open.spotify.com/track/6AP0up18m6dGGN4BMJarvE)
-- [We Go Again by Because of Art, Steven Weston](https://open.spotify.com/track/0ALCpmGSIObbYNai6SFbMO)
+- [We Ignite by Stendahl](https://open.spotify.com/track/3XIvMHBXM6lkxo4I2hoqwL)
+- [See You by Farves, Duce](https://open.spotify.com/track/7gNihynx9ol9yurDT078Mv)
+- [Hyères by Tonic Walter](https://open.spotify.com/track/3EV4wxf8ohre8yzCWxT75S)
+- [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
+- [To Be by Elypsis](https://open.spotify.com/track/7zaaeRUjckeEEy19eA2EF2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
