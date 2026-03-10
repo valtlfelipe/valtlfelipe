@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [My Life by Rowland Giles](https://open.spotify.com/track/69dZVfz4Ytuka4sRHXlWiq)
-- [Begin Again by Duce, Yasmin Jane, JEANS](https://open.spotify.com/track/5C4gq1xa0cQc7H5dY44ZBY)
-- [Ready For You by Envotion](https://open.spotify.com/track/005YTsRuiA35wtjqIFfeRR)
-- [Where Did I Go Wrong by Moosa Saleem, Anna-Sophia Henry, Calm Springs](https://open.spotify.com/track/2gLyCwM826WDiYfsmbXUF6)
-- [Take Care by shandr](https://open.spotify.com/track/7iH28Taea7gSxAakXaiRYg)
+- [nothing to save by Altero](https://open.spotify.com/track/2gXUf0A5cD2dYR5OZibWLd)
+- [Volcano by Rowland Giles, Toutounji](https://open.spotify.com/track/5IDgICEO4v6iZ1i0XCpY53)
+- [Ursa Minor by Kidnap](https://open.spotify.com/track/2tIJt8Z76CQtQl0LE3eocH)
+- [Come Alive - 2026 Mix by YORK, Hessian, Wezn](https://open.spotify.com/track/3z7mR0aljVz4l7a6Ul4h02)
+- [Light by TOMB](https://open.spotify.com/track/5gY5dHJSbolTg0wxzhJynj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
