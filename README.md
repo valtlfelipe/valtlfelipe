@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[valtlfelipe/yases](https://github.com/valtlfelipe/yases)** - Yet Another SES Wrapper (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Reminiscence by Into The Ether](https://open.spotify.com/track/2yeUPMyvbZBuoQ1Mj8wMrk)
-- [Lowlight by Farbenklang](https://open.spotify.com/track/7bW9ZF0pOmr5W7SfgVkAHq)
-- [Never Be Afraid by Anriu](https://open.spotify.com/track/2KRJwPCQ2x7f9YpUMDRigL)
-- [Venture - Mixed by Guy Didden](https://open.spotify.com/track/7M1M5xTBp0PkJm8aJ0kXPi)
-- [Forever Here by Sinova](https://open.spotify.com/track/61EcmpLG478hOq8LU7S8vY)
+- [A Certain Ambiguity by zaccwithtwocs](https://open.spotify.com/track/4V05yJ1qeMduohVxOFiVXo)
+- [There For You by Willow](https://open.spotify.com/track/3TPYOpX9qaLUv2mVWYkhBD)
+- [Adelie by Lane 8, MYRNE](https://open.spotify.com/track/6P4YqN8UoT5r1C53DZXMyU)
+- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
+- [When Life Begins by TMPST, Maynørr, Eijk](https://open.spotify.com/track/5uNNHW0y4EEVhZIcmgdy3t)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
