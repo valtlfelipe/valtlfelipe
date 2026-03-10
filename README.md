@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Innerglow by EDX](https://open.spotify.com/track/6JOypVHG0E5UmL59Pylp7f)
-- [Who You Are by Pierse](https://open.spotify.com/track/2f3lxEryKhN6EntkEUFdx0)
-- [After Earth - Mixed by Ben Böhmer](https://open.spotify.com/track/7Brep8Am2jm1Nn1TLqJV4T)
-- [My Whole Life by The Power Alchemist](https://open.spotify.com/track/32zKfl15TIn1Xona3pxxwe)
-- [Mimose by Parra for Cuva](https://open.spotify.com/track/58wxsAHLlDL6oh8b0dotDF)
+- [liquid echo by pillow](https://open.spotify.com/track/1sY1PtJCyTj4Zz3XSwiTWO)
+- [Treading Water by HAYLA](https://open.spotify.com/track/6yv4uevSRhuDrBGrIgpmEh)
+- [Do It Again by Ramundo, Lonely Night](https://open.spotify.com/track/7Ev7GvLBh8WTTFBIBn6IYg)
+- [Radiance by Farlight](https://open.spotify.com/track/3A2TkeUQwK8Xza7IDe1eAo)
+- [Kendall Park by Duce, Piece Wise, Courtney Storm](https://open.spotify.com/track/2SXi0cldambE2930H18LoL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
