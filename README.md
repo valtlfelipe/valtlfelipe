@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)** - Build ultra fast, tiny, and cross-platform desktop apps with Typescript. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Citadel - Mixed by Jody Wisternoff, Jamie McDermott](https://open.spotify.com/track/7zJsLJAeAMnGySbtNLV3Ko)
-- [Pantanassa by Dokho](https://open.spotify.com/track/3aly5UpF7fcD2UnMR1UNC6)
-- [Remember When by San Mateo Drive](https://open.spotify.com/track/4EM5gnndUuYL0x6zNsGKBE)
-- [Daybreak by Duce, Maynørr, Courtney Storm](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA)
-- [Take Me by Approaching Black](https://open.spotify.com/track/3pMqZCilagtltFKqRkLOmv)
+- [Everlove by rshand, Holochrome](https://open.spotify.com/track/6kIN7wLSKZuQx4G3jJXRY3)
+- [Relentless by birø](https://open.spotify.com/track/4YudPrmG56lLCMV40e4fv2)
+- [Liberation by The Power Alchemist](https://open.spotify.com/track/1PJt4MLUobcswQqNevLYR6)
+- [Calm by Kaption](https://open.spotify.com/track/20Tuv2B0RhydjR97og5GYG)
+- [Lightwave by Farves](https://open.spotify.com/track/06s5vykBOEzheEyLq0AZms)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
