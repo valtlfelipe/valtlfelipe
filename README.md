@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [memories by Cinnamon Chasers](https://open.spotify.com/track/3NnaJ0mk5NDsTNS5AjXL45)
-- [Wait Home by Beauvois](https://open.spotify.com/track/79W24F7vWsx0LfEcxFRwEz)
-- [Laniakea - INNERVERSE Remix by Klur, INNERVERSE](https://open.spotify.com/track/3jQ1fE3igM0VC32tOUPqkW)
-- [Love Always Had A Way - Mixed by Amtrac](https://open.spotify.com/track/1LwH73o0dYRu8WUiMPxmk9)
-- [So Simple by Meanetik](https://open.spotify.com/track/2jbxxEFPFNc0qnub3WuNQ2)
+- [Remember When (Tritonia 530) by San Mateo Drive](https://open.spotify.com/track/2Vn6uJZo7quJHIqSsZBfee)
+- [There For You by Willow](https://open.spotify.com/track/3TPYOpX9qaLUv2mVWYkhBD)
+- [Less Is More by shandr, Lanle](https://open.spotify.com/track/4094KP9hOsY1t7U8Y0a5QA)
+- [Underneath The Lights by ALLKNIGHT](https://open.spotify.com/track/1fXOGVJpQFy0TVHeNDyJVS)
+- [Coming Back For You by Rytes](https://open.spotify.com/track/7FmRbHhjn4jSFhNpLHykcp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
