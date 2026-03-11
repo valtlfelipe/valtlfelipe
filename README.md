@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Without Me by Lust.](https://open.spotify.com/track/31ue18hgnmDnq3SS58doeF)
-- [Home by Meanetik](https://open.spotify.com/track/289f8Rj2s9ts6Lir53qROP)
-- [Let It Shine by The Power Alchemist](https://open.spotify.com/track/0H6ZNpsZrcKWxAappe5zxs)
-- [Lose Control by Banaati, Max Blücher, KARTINI](https://open.spotify.com/track/7dZDTCKoEYHjW1lHio6gne)
-- [Kingfisher by TOMB](https://open.spotify.com/track/70CB8jQljPe4C8UQBvJnGA)
+- [Vivo by Etza](https://open.spotify.com/track/0cV2UWkdCaDjqx8dfTJVJj)
+- [Closure by Massane, Benjamin Roustaing](https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O)
+- [Against the Grain by Duce, Maynørr, RAEYA](https://open.spotify.com/track/6zIrqCevd3BhrpVfCesT0Y)
+- [Take You Further by Keanler](https://open.spotify.com/track/61Wa3nixS9JibHicOp581V)
+- [Feelings Feel so Good by Boy At The Beach](https://open.spotify.com/track/5YjvrgmwiGiVyNgMyh0zee)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
