@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [On The Ground by oskar med k](https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH)
-- [chasing daylight by first sun](https://open.spotify.com/track/3U8EODlHkHUCw5T9igkCb1)
-- [Don&#39;t Leave by Tad Forl](https://open.spotify.com/track/5YYlkal9wvx0OL4SzTf9rT)
-- [On The Line by Eric Luttrell](https://open.spotify.com/track/67bc01JoSPWx2Lac4GhxDU)
-- [Vista by Jack Willard](https://open.spotify.com/track/2NXdccGwej9QethnRpOT6s)
+- [Dreamin (feat. Daya) by Dom Dolla, Daya](https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1)
+- [All This Time by Sonny Fodera, Jazzy](https://open.spotify.com/track/0m00au0MMoII2767mu4sj7)
+- [Waterfalls (feat. Sam Harper &amp; Bobby Harvey) by James Hype, Sam Harper, Bobby Harvey](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3)
+- [Wicked Game by KREAM](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA)
+- [Found Love by Francis Mercier, Von Boch](https://open.spotify.com/track/1mO3hOEayERMNUGIpAwImF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
