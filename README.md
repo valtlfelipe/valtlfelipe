@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [All We Ever Do by Keanler, Leo Stannard](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw)
-- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
-- [Remember the Days by Solara, CLOVER](https://open.spotify.com/track/5jY7V6crT7TZJ7ZlkWNw9F)
-- [Where The Rails Hold Us by Aftruu](https://open.spotify.com/track/1i7PJ0MviP98O4ILSTGgNp)
-- [one day at a time by aelera](https://open.spotify.com/track/4lF5pTMG3c0QN2W5VA4LV2)
+- [Without Me by Lust.](https://open.spotify.com/track/31ue18hgnmDnq3SS58doeF)
+- [Home by Meanetik](https://open.spotify.com/track/289f8Rj2s9ts6Lir53qROP)
+- [Let It Shine by The Power Alchemist](https://open.spotify.com/track/0H6ZNpsZrcKWxAappe5zxs)
+- [Lose Control by Banaati, Max Blücher, KARTINI](https://open.spotify.com/track/7dZDTCKoEYHjW1lHio6gne)
+- [Kingfisher by TOMB](https://open.spotify.com/track/70CB8jQljPe4C8UQBvJnGA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
