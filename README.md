@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Parachute by Tiësto, Alex Mills](https://open.spotify.com/track/1Lacx9zAbew2K82i9A0FjG)
-- [Be Your Lover by Melsen](https://open.spotify.com/track/2EqWNOZXPcIaymqOAkFAvt)
-- [Rescue Me by Justin Mylo, Karen Harding](https://open.spotify.com/track/1taZgqmYybM7nXGje9u4HH)
-- [In My Arms - KREAM Remix by ILLENIUM, HAYLA, KREAM](https://open.spotify.com/track/4wUU91B6gjMXhjiC5vYmY2)
-- [Call My Name by Shouse](https://open.spotify.com/track/3DqP5LNCGOXoFVvTqMRuKG)
+- [Over You by Nathan Dawe, Shayan](https://open.spotify.com/track/0GWpFejiwi53OSfiyXyIDJ)
+- [Hold Me by Tiësto, Jordan Shaw](https://open.spotify.com/track/5WONtR2m0Mo8Cbxtmm3yhJ)
+- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
+- [Oxygen by Martin Garrix, DubVision, Jordan Grace](https://open.spotify.com/track/2ZG0Wumvp291QIsQ9YXzHl)
+- [Take Me There by Sick Individuals, Matisse &amp; Sadko, Third Party](https://open.spotify.com/track/2cgdfL5C5P3xSm4tooGBXu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
