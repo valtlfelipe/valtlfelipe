@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Got a Friend by Mahalo, Guillaume Gordon](https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5)
-- [Make Out by JLV, Kazhi](https://open.spotify.com/track/2F86GnddMdes90OgTTp7FZ)
-- [Out Of The Dark by DubVision, Nu-La](https://open.spotify.com/track/7hdSpU6G5jyA7lmBVqHMwr)
-- [Talk by Melsen](https://open.spotify.com/track/5RgqLIWWb1ceLM01BORkez)
-- [Don&#39;t Fall For Me by RSCL, Dastic](https://open.spotify.com/track/0MYnMotI9017FjYVszNswj)
+- [Desire to Stay by X CLUB.](https://open.spotify.com/track/71DFIVLFC7VHP2S2FvGI3w)
+- [Flashlight by Justin Mylo, RESPONS](https://open.spotify.com/track/5zF0TbsMKjIUQDrOhBfrvp)
+- [Misbehave by Ship Wrek, Disco Lines](https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG)
+- [Cinema by YouNotUs, Cheat Codes, BARBZ](https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M)
+- [Lonely Days by Safri Duo, David Puentez, Jaimes](https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
