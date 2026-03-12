@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Unforgettable by Alok, Daecolm, Malou](https://open.spotify.com/track/0smB5zD5CJYMtdXvS2qS5A)
-- [ME by Steve Angello](https://open.spotify.com/track/7dyJugljupi044oQfkrzlc)
-- [Follow Your Heart by DubVision, Jordan Jade](https://open.spotify.com/track/6WV3aI7MZ2olmOj8E4Ff25)
-- [Heart by Melsen](https://open.spotify.com/track/1kG7q5rv5O4LDeM4PBhsl6)
-- [Like Thunder by HIDDN, Nøway, Calumny](https://open.spotify.com/track/4iXvR6yFywrVJ7LuD4dy71)
+- [Rise Again by DubVision](https://open.spotify.com/track/2ThOrFQx3T5omQ1b71aoHS)
+- [Ruins by Oliver Heldens, Julia Church](https://open.spotify.com/track/4jfB2EGWbtWzDoM696Ch6u)
+- [Sunrise by Shouse](https://open.spotify.com/track/0RKMhphdc7XydDTXbNDjZG)
+- [Wait So Long (Why Do I Have To) by Swedish House Mafia](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT)
+- [Sweet Nothing - 2025 Edit by D.O.D, Calvin Harris, Florence Welch](https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
