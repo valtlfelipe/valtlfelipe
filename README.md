@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [All Good Things (Come To An End) by Dynoro](https://open.spotify.com/track/5I97xVqU6oRY3ErMUVz4qB)
+- [Stranger by Von Boch, Bautiii](https://open.spotify.com/track/5ZgE9I9C2SLdctOimCxhVY)
+- [Cry For You (2025) by SIDEPIECE](https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07)
 - [Falling Up by Anabel Englund, Punctual](https://open.spotify.com/track/0yTjMXmYRi3YQNVO4h7Mef)
 - [Lights Go Out by Jauz](https://open.spotify.com/track/0Ffc4FECykHpEqI4CLlSJN)
-- [Rock My World by ACRAZE, Puku](https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS)
-- [The Horizon (With You) - Festival Edit by DubVision, Nu-La](https://open.spotify.com/track/0ERcXPDqn82XbcSEmZ1tLB)
-- [Hot Honey by Tiësto, Alana Springsteen](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
