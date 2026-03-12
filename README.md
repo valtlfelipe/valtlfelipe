@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Stay Another Night by Cheat Codes, Regard](https://open.spotify.com/track/5NyEmwp8Vtqt3D0a4DERdB)
-- [No Limit To Our Love (feat. Jantine) by Sander van Doorn, Jantine](https://open.spotify.com/track/0T4AEmyVegZkqHw1TOHXkZ)
-- [Solfa (Tila) by Francis Mercier, Ginton, MoBlack, Rindss](https://open.spotify.com/track/1pJfIeqhsGuVEHJeuBVhvr)
-- [Written In The Sky by Justin Mylo, Jordan Shaw](https://open.spotify.com/track/0vhatQLu9GSIIGDaREdvzi)
-- [Cool &#39;N Calm by Tiësto, Rafael Cerato](https://open.spotify.com/track/7puBhOuLu7ftK0X19t0gRr)
+- [Parachute by Tiësto, Alex Mills](https://open.spotify.com/track/1Lacx9zAbew2K82i9A0FjG)
+- [Be Your Lover by Melsen](https://open.spotify.com/track/2EqWNOZXPcIaymqOAkFAvt)
+- [Rescue Me by Justin Mylo, Karen Harding](https://open.spotify.com/track/1taZgqmYybM7nXGje9u4HH)
+- [In My Arms - KREAM Remix by ILLENIUM, HAYLA, KREAM](https://open.spotify.com/track/4wUU91B6gjMXhjiC5vYmY2)
+- [Call My Name by Shouse](https://open.spotify.com/track/3DqP5LNCGOXoFVvTqMRuKG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
