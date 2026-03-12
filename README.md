@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Go The Mile (Dancing) by Glen Horsborough, Leo Wood](https://open.spotify.com/track/017RSKFuk4YfiNECoMEWmZ)
-- [The Heat by Alok, Jazzy](https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p)
-- [Take Me To Another World by DubVision, Jem Cooke](https://open.spotify.com/track/1zeFHOnY6pEajgxqji58md)
-- [Let&#39;s Not Interrupt (Keep On Dancing) by The Archer](https://open.spotify.com/track/3jPRYZdAdm2JKxkmRAicE5)
-- [Everlight by Tiësto, Mathame](https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34)
+- [Falling Up by Anabel Englund, Punctual](https://open.spotify.com/track/0yTjMXmYRi3YQNVO4h7Mef)
+- [Lights Go Out by Jauz](https://open.spotify.com/track/0Ffc4FECykHpEqI4CLlSJN)
+- [Rock My World by ACRAZE, Puku](https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS)
+- [The Horizon (With You) - Festival Edit by DubVision, Nu-La](https://open.spotify.com/track/0ERcXPDqn82XbcSEmZ1tLB)
+- [Hot Honey by Tiësto, Alana Springsteen](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
