@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Rise Again by DubVision](https://open.spotify.com/track/2ThOrFQx3T5omQ1b71aoHS)
-- [Ruins by Oliver Heldens, Julia Church](https://open.spotify.com/track/4jfB2EGWbtWzDoM696Ch6u)
-- [Sunrise by Shouse](https://open.spotify.com/track/0RKMhphdc7XydDTXbNDjZG)
-- [Wait So Long (Why Do I Have To) by Swedish House Mafia](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT)
-- [Sweet Nothing - 2025 Edit by D.O.D, Calvin Harris, Florence Welch](https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3)
+- [P.R.O.G.2 by DubVision](https://open.spotify.com/track/4lcK3zg0Du6Y09Ot8xAgyA)
+- [Away by Topic, Sofiya Nzau](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP)
+- [Destiny by Alesso, SACHA](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB)
+- [In Love Today by Zerb, Ape Drums, Jeremih](https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj)
+- [VHS RAVE by Tiësto, Swimming Paul](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
