@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Over You by Nathan Dawe, Shayan](https://open.spotify.com/track/0GWpFejiwi53OSfiyXyIDJ)
-- [Hold Me by Tiësto, Jordan Shaw](https://open.spotify.com/track/5WONtR2m0Mo8Cbxtmm3yhJ)
-- [Jungle by Alok, The Chainsmokers, Mae Stephens](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)
-- [Oxygen by Martin Garrix, DubVision, Jordan Grace](https://open.spotify.com/track/2ZG0Wumvp291QIsQ9YXzHl)
-- [Take Me There by Sick Individuals, Matisse &amp; Sadko, Third Party](https://open.spotify.com/track/2cgdfL5C5P3xSm4tooGBXu)
+- [Imamou by Francis Mercier, Boukman Eksperyans](https://open.spotify.com/track/3IfKTOehj6Hlm4u3PUvxgd)
+- [FADE by Alesso, Pendulum](https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi)
+- [Drifting - Extended Mix by Tiësto, Poppy Baskcomb](https://open.spotify.com/track/4jhW2Aly1Uy9MVTv2kR0YT)
+- [Wherever You Are by DubVision, Martin Garrix, Shaun Farrugia](https://open.spotify.com/track/4FkWg5D4lOzelnjYIjy2Ur)
+- [Blackberries by FISHER, bbyclose](https://open.spotify.com/track/1AS1oLvEr6PNsCLnuEUmCi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
