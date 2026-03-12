@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Desire to Stay by X CLUB.](https://open.spotify.com/track/71DFIVLFC7VHP2S2FvGI3w)
-- [Flashlight by Justin Mylo, RESPONS](https://open.spotify.com/track/5zF0TbsMKjIUQDrOhBfrvp)
-- [Misbehave by Ship Wrek, Disco Lines](https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG)
-- [Cinema by YouNotUs, Cheat Codes, BARBZ](https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M)
-- [Lonely Days by Safri Duo, David Puentez, Jaimes](https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6)
+- [Unforgettable by Alok, Daecolm, Malou](https://open.spotify.com/track/0smB5zD5CJYMtdXvS2qS5A)
+- [ME by Steve Angello](https://open.spotify.com/track/7dyJugljupi044oQfkrzlc)
+- [Follow Your Heart by DubVision, Jordan Jade](https://open.spotify.com/track/6WV3aI7MZ2olmOj8E4Ff25)
+- [Heart by Melsen](https://open.spotify.com/track/1kG7q5rv5O4LDeM4PBhsl6)
+- [Like Thunder by HIDDN, Nøway, Calumny](https://open.spotify.com/track/4iXvR6yFywrVJ7LuD4dy71)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
