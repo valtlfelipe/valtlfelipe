@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[garethgeorge/backrest](https://github.com/garethgeorge/backrest)** - Backrest is a web UI and orchestrator for restic backup. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [P.R.O.G.2 by DubVision](https://open.spotify.com/track/4lcK3zg0Du6Y09Ot8xAgyA)
-- [Away by Topic, Sofiya Nzau](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP)
-- [Destiny by Alesso, SACHA](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB)
-- [In Love Today by Zerb, Ape Drums, Jeremih](https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj)
-- [VHS RAVE by Tiësto, Swimming Paul](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L)
+- [Stay Another Night by Cheat Codes, Regard](https://open.spotify.com/track/5NyEmwp8Vtqt3D0a4DERdB)
+- [No Limit To Our Love (feat. Jantine) by Sander van Doorn, Jantine](https://open.spotify.com/track/0T4AEmyVegZkqHw1TOHXkZ)
+- [Solfa (Tila) by Francis Mercier, Ginton, MoBlack, Rindss](https://open.spotify.com/track/1pJfIeqhsGuVEHJeuBVhvr)
+- [Written In The Sky by Justin Mylo, Jordan Shaw](https://open.spotify.com/track/0vhatQLu9GSIIGDaREdvzi)
+- [Cool &#39;N Calm by Tiësto, Rafael Cerato](https://open.spotify.com/track/7puBhOuLu7ftK0X19t0gRr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
