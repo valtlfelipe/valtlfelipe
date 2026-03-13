@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker)** - :mailbox: Cross-language temporary (disposable/throwaway) email detection library. Covers 55 734&#43; fake email providers. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Shine by Toby Romeo, Sam Fischer](https://open.spotify.com/track/1rjn2zmw1I12bTWLIz0CGS)
-- [Savin All My Love by Sofnn.](https://open.spotify.com/track/3RIfWMg4zyIEEXHbqx1mST)
-- [Waiting For A Lifetime by John Newman](https://open.spotify.com/track/1Wm5An0CgcaLHkxtPYopfT)
-- [Sensation by Alex Mills](https://open.spotify.com/track/7JzkCnefReKMERZiH6sN7p)
-- [Love Has Gone by Alok, ALTA, Robert Falcon, Jess Glynne](https://open.spotify.com/track/2KUAdU39pNYHy0zHnr8xHd)
+- [Fade Away by RSCL, Jonasu](https://open.spotify.com/track/2mrQxljHrPJ4Rk6DC2TcHE)
+- [Gravity by Martin Garrix, Sem Vox, Jaimes](https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX)
+- [Stumblin&#39; In (Arno Cost &amp; Norman Doray Remix) by CYRIL, Arno Cost, Norman Doray](https://open.spotify.com/track/0vMPd6BvjGcQ9sqwmeOYtA)
+- [Take Me Away by Laura van Dam](https://open.spotify.com/track/6GF02kCs5G3remgt3aIYHu)
+- [Out of My Hands by Alex Mills, Belters Only](https://open.spotify.com/track/6oRnGHtoBixS2qPYYL56ts)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
