@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker)** - :mailbox: Cross-language temporary (disposable/throwaway) email detection library. Covers 55 734&#43; fake email providers. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Embers by Robin Schulz](https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE)
-- [Be Mine by James Hype](https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd)
-- [Love’s A Game by Adriatique, Bipolar Sunshine](https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5)
-- [Take My Mind by DubVision](https://open.spotify.com/track/0PP0HyajxDyi0jlfBqgt5g)
-- [Kisses x My Love (feat. bbyclose) - Caleb Laurenson Mashup by BL3SS, CamrinWatsin, bbyclose, Caleb Laurenson](https://open.spotify.com/track/2kQ9AUWiggYieryKrKMe71)
+- [Flames (feat. Bandit) by Robin Schulz, Bandit](https://open.spotify.com/track/0U5cp34yeoKN4GTcedhAFo)
+- [Eden by Punctual, Hannah Boleyn](https://open.spotify.com/track/24yo0cq77Buu7pcaba93Ue)
+- [What Would I Do by John Newman, SIX40TWO](https://open.spotify.com/track/5Eh7voAN0INlX7yEj9T07Q)
+- [Living in Color by Audien, Jeoff Harris](https://open.spotify.com/track/4LTjcdAKl9s5mhgLKYHmTM)
+- [THE REASON (feat. John Newman) by Gryffin, John Newman](https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
