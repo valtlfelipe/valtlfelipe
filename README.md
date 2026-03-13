@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Don&#39;t Fall For Me by RSCL, Dastic](https://open.spotify.com/track/0MYnMotI9017FjYVszNswj)
-- [Chemistry by Alex Mills, Guz](https://open.spotify.com/track/56Boy642GbI4FKJYmkCqVZ)
-- [Endless Dreamers by DubVision, Sick Individuals](https://open.spotify.com/track/3uIKJc5B8D0iil6i1Dl2pM)
-- [Rapture by Lost Prince, Darla Jade](https://open.spotify.com/track/69RFaCGA3cqpxwxCMLvoYm)
-- [Hold On by Funk Tribu](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9)
+- [Closer by Sherman de Vries, Navaro, Brenda Mullen](https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq)
+- [Rapture by Makasi, Dannii Murphy](https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq)
+- [World Gone Wild (feat. Sam Martin) - Matt Sassari Remix by Robin Schulz, CYRIL, Matt Sassari, Sam Martin](https://open.spotify.com/track/1E3bD3DEr4wtSk7C9EqsFp)
+- [Lifted by Sick Individuals](https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9)
+- [Lay Low by Toby Romeo, Izzy Bizu, 220 KID](https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
