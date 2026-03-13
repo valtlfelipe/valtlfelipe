@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Una Velita by Tiësto](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT)
-- [Ain&#39;t Nobody by Mr. Belt &amp; Wezol, RUZE](https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH)
-- [Freek Like Me by Don Diablo](https://open.spotify.com/track/1NPmM6VERI6zEJOIoXBEuo)
-- [Seek Love (On The Beach) by Alok, Tazi, Samuele Sartini, Amanda Wilson, YORK](https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP)
-- [Feel Better by Cedric Gervais, Sick Individuals](https://open.spotify.com/track/1UOatZnMxpHnbKBVDyLVUf)
+- [Don&#39;t Fall For Me by RSCL, Dastic](https://open.spotify.com/track/0MYnMotI9017FjYVszNswj)
+- [Chemistry by Alex Mills, Guz](https://open.spotify.com/track/56Boy642GbI4FKJYmkCqVZ)
+- [Endless Dreamers by DubVision, Sick Individuals](https://open.spotify.com/track/3uIKJc5B8D0iil6i1Dl2pM)
+- [Rapture by Lost Prince, Darla Jade](https://open.spotify.com/track/69RFaCGA3cqpxwxCMLvoYm)
+- [Hold On by Funk Tribu](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
