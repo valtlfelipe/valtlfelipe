@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Follow Your Heart by DubVision, Jordan Jade](https://open.spotify.com/track/6WV3aI7MZ2olmOj8E4Ff25)
-- [Waste My Time by Sick Individuals, Madism](https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8)
-- [Save My Soul (feat. Jordan Grace) by Afroki, AFROJACK, Steve Aoki, Jordan Grace](https://open.spotify.com/track/52IUYgumUJN31TVeyfjv9t)
-- [24k Heart Of Gold by YouNotUs, Sam Feldt, Martin Jensen, Sam Gray](https://open.spotify.com/track/5knJFCWGryxZkFyYtUSCzH)
-- [Now I Got You by Janet Livv](https://open.spotify.com/track/6iRJrADZTKMh1gyrHWxVDh)
+- [Rain by FISHER](https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U)
+- [⁠⁠Butterflies by Martin Garrix, Matisse &amp; Sadko, BARBZ](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT)
+- [Mina Kupenda by Thierry Von Der Warth, joki, Mugisho](https://open.spotify.com/track/5tsSdgnZLNhVt78voyyjju)
+- [Past Life by Felix Jaehn, Jonas Blue](https://open.spotify.com/track/6YOkAimrhx6nsLEwqfJoJv)
+- [Edge of Desire by Jonas Blue, Malive](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
