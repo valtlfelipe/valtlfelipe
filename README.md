@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Rain by FISHER](https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U)
-- [⁠⁠Butterflies by Martin Garrix, Matisse &amp; Sadko, BARBZ](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT)
-- [Mina Kupenda by Thierry Von Der Warth, joki, Mugisho](https://open.spotify.com/track/5tsSdgnZLNhVt78voyyjju)
-- [Past Life by Felix Jaehn, Jonas Blue](https://open.spotify.com/track/6YOkAimrhx6nsLEwqfJoJv)
-- [Edge of Desire by Jonas Blue, Malive](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT)
+- [Eyes On U by Melsen](https://open.spotify.com/track/1slFn4P1k6661TTjPcEZQj)
+- [Head Up by Cheat Codes, Birdy](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn)
+- [Watch The Sunrise by Chris Lake, Aatig](https://open.spotify.com/track/7rwAm5rwu24GhJBl4Vcrfl)
+- [Club Bizarre by Alok, Faithless, Sam Harper, Alex Christensen](https://open.spotify.com/track/2hhDb4rGCJTigdadpRL30x)
+- [I’ll Be There by DubVision](https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
