@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Always by Plomb](https://open.spotify.com/track/5tOokq8ZNXKnecXEhW7Go0)
-- [Back To The Roots by Avenue One, Saya](https://open.spotify.com/track/54sKbVwmSouwyDgTLYO4kQ)
-- [Aperture by Joey Delvaro](https://open.spotify.com/track/4JKfFQn6wKeJLcNjkZy65c)
-- [All I Need (One More Night) by Louis Bekk](https://open.spotify.com/track/0k8KEdWbZSP69TkriudMiu)
-- [In The Dust by Bosha, Jimmy Rich](https://open.spotify.com/track/0Mz56jgowA9hM8GxhIZc4A)
+- [Dive Tritonia 530 by PRAANA, Courtney Storm](https://open.spotify.com/track/59wtKpmyoQ9q0XKfEg1KlC)
+- [Track Of Time by Betical](https://open.spotify.com/track/1zM2CmN2lgAAQyBpOIacjf)
+- [Can&#39;t Wait by Odare](https://open.spotify.com/track/0JNcy8YKBrHBre4nolMzFB)
+- [I feel it now by Café](https://open.spotify.com/track/3TV19ldVxJ2YcVGuSXWqcc)
+- [Satellite by Mindblow, MINOS](https://open.spotify.com/track/0I08iOvSMTy90toCrT2gaw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
