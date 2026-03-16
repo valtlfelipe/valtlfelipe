@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [One Day After Tomorrow - Mixed by Koelle, Into The Ether, Songspire](https://open.spotify.com/track/0t8w3UjBrf5aNyvQ8y5YMI)
-- [A WEEK IN ROME, Pt. 2 by Zank](https://open.spotify.com/track/7DHfYrhcuzWEWyCe6m8D0q)
-- [Anyone Else by Hayyoo](https://open.spotify.com/track/48dXq0DqmECwfCy3eiVWcb)
-- [Stay Here by SILON](https://open.spotify.com/track/6wE8KBHk5LdrOTOkDr8UZn)
-- [Velvet Eyed Girl by Sebastian Sellares](https://open.spotify.com/track/2rfPdyTarMgUmh9yyD3fsJ)
+- [Always by Plomb](https://open.spotify.com/track/5tOokq8ZNXKnecXEhW7Go0)
+- [Back To The Roots by Avenue One, Saya](https://open.spotify.com/track/54sKbVwmSouwyDgTLYO4kQ)
+- [Aperture by Joey Delvaro](https://open.spotify.com/track/4JKfFQn6wKeJLcNjkZy65c)
+- [All I Need (One More Night) by Louis Bekk](https://open.spotify.com/track/0k8KEdWbZSP69TkriudMiu)
+- [In The Dust by Bosha, Jimmy Rich](https://open.spotify.com/track/0Mz56jgowA9hM8GxhIZc4A)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
