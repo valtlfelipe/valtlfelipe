@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Dive Tritonia 530 by PRAANA, Courtney Storm](https://open.spotify.com/track/59wtKpmyoQ9q0XKfEg1KlC)
-- [Track Of Time by Betical](https://open.spotify.com/track/1zM2CmN2lgAAQyBpOIacjf)
-- [Can&#39;t Wait by Odare](https://open.spotify.com/track/0JNcy8YKBrHBre4nolMzFB)
-- [I feel it now by Café](https://open.spotify.com/track/3TV19ldVxJ2YcVGuSXWqcc)
-- [Satellite by Mindblow, MINOS](https://open.spotify.com/track/0I08iOvSMTy90toCrT2gaw)
+- [Life Is Fun by Lust.](https://open.spotify.com/track/7kp6oPpEJ8TQYwmsBOJIhQ)
+- [Light of The Dream (Mwanga wa Ndoto) by Hayyoo](https://open.spotify.com/track/4MfthoqeeT6qafrCUG0qTa)
+- [Forever Yours by Willow, Avira](https://open.spotify.com/track/17oBZEj9HRuvMfQgsb7kHV)
+- [Somewhere in Between by SIROH](https://open.spotify.com/track/4ppTAKSDUEV1hY7a65cAWb)
+- [Clarity by Iskarelyn](https://open.spotify.com/track/611DyRJ54YbI3bs7ORaCzE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
