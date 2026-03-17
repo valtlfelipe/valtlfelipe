@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[linuz90/gists.sh](https://github.com/linuz90/gists.sh)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Light Inside Me by The Power Alchemist](https://open.spotify.com/track/3wLR6kSyHNcpWfHWTDszLz)
-- [Through The Haze by HiT](https://open.spotify.com/track/5V1yvFUWHwnqAxbsBeF1ns)
-- [Let Go by Arnie Way](https://open.spotify.com/track/03a7zFv1jgxaNzr97OMxFv)
-- [Valere by dwelyr](https://open.spotify.com/track/44g8p6dGpZPsfYQNuXOXIz)
-- [Finally At Peace by Iskarelyn, Odare](https://open.spotify.com/track/0fIJsXCrw4RZqDR4eKejSW)
+- [Ember Moon - Alchemi Remix by zaccwithtwocs, Alchemi](https://open.spotify.com/track/6Rzjb3pa8vlwFAUf9I5UOJ)
+- [Everything by Second Sun](https://open.spotify.com/track/6gIIFnqPwyhLzDoNq6rlyO)
+- [orbit by oncor, Conro](https://open.spotify.com/track/5TgWBD04aujrILstUrL5NC)
+- [Aura by Lust.](https://open.spotify.com/track/1PMLwX7mOy85iOlJC4Exvd)
+- [Show Me Love by Leavs.](https://open.spotify.com/track/5eNyA2xwhmU2l3FkWKgsXE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
