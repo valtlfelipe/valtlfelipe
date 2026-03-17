@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[linuz90/gists.sh](https://github.com/linuz90/gists.sh)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Want You To by Floating Club](https://open.spotify.com/track/0ieBoCQF9WyxzdlzDLwaqF)
-- [Boehmerwald by MRPHLNDR](https://open.spotify.com/track/6aIPD9KTWpnLo6kfDyDOG5)
-- [Never Alone by zaccwithtwocs, Heather Janssen](https://open.spotify.com/track/49e8ayGgVyYcVeu053wadZ)
-- [I Trusted You by After Midnight](https://open.spotify.com/track/6iGOMNJJs816iG5WZojW0e)
-- [We Go Again by Because of Art, Steven Weston](https://open.spotify.com/track/0ALCpmGSIObbYNai6SFbMO)
+- [Dark Sky by &amp;friends, Emre Arisev, Emiran, Nathan Nicholson](https://open.spotify.com/track/3JjBiD8tBhmWYHJWdgC55D)
+- [Precious Time - Mixed by MXV, Songspire, Yasin](https://open.spotify.com/track/5ki90Z33s1Eb19cIWoWafL)
+- [Another Day by Iskarelyn](https://open.spotify.com/track/34G681nM0whDhnZONC9ZFv)
+- [Sky Patterns by Stendahl](https://open.spotify.com/track/1pRSK2PUc85O7i2OgCNuxR)
+- [Let Me Love You by Christian Burns, Mark Novas](https://open.spotify.com/track/3DU7UienRo3pX5RtbN8hQ4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
