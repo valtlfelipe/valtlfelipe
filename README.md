@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[linuz90/gists.sh](https://github.com/linuz90/gists.sh)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Celebration by The Meridian](https://open.spotify.com/track/7lFZmlsJomNvWMG6hEl0Wl)
-- [Our Own Island by Sound Quelle, Tailor, Liz Cass](https://open.spotify.com/track/6ShsHeGJyXyr8h7wPyrgsM)
-- [It Isn&#39;t Love by NM](https://open.spotify.com/track/7bcIJDDPUgboUf9QUXl6tS)
-- [Laniakea - INNERVERSE Remix by Klur, INNERVERSE](https://open.spotify.com/track/3jQ1fE3igM0VC32tOUPqkW)
-- [Ella by Aden Lou](https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh)
+- [Light Inside Me by The Power Alchemist](https://open.spotify.com/track/3wLR6kSyHNcpWfHWTDszLz)
+- [Through The Haze by HiT](https://open.spotify.com/track/5V1yvFUWHwnqAxbsBeF1ns)
+- [Let Go by Arnie Way](https://open.spotify.com/track/03a7zFv1jgxaNzr97OMxFv)
+- [Valere by dwelyr](https://open.spotify.com/track/44g8p6dGpZPsfYQNuXOXIz)
+- [Finally At Peace by Iskarelyn, Odare](https://open.spotify.com/track/0fIJsXCrw4RZqDR4eKejSW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
