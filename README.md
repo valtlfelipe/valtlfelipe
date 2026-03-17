@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[linuz90/gists.sh](https://github.com/linuz90/gists.sh)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Ember Moon - Alchemi Remix by zaccwithtwocs, Alchemi](https://open.spotify.com/track/6Rzjb3pa8vlwFAUf9I5UOJ)
-- [Everything by Second Sun](https://open.spotify.com/track/6gIIFnqPwyhLzDoNq6rlyO)
-- [orbit by oncor, Conro](https://open.spotify.com/track/5TgWBD04aujrILstUrL5NC)
-- [Aura by Lust.](https://open.spotify.com/track/1PMLwX7mOy85iOlJC4Exvd)
-- [Show Me Love by Leavs.](https://open.spotify.com/track/5eNyA2xwhmU2l3FkWKgsXE)
+- [Otherworldly by Winter Kid, Summer Affairs, King Leah](https://open.spotify.com/track/22S3DgqJAWYNeQQ1XGQCA9)
+- [Colours by Panuma, Nina Carr](https://open.spotify.com/track/3q2zWRbuRQfvWst5geq7DB)
+- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
+- [I want you (forever) by manskraft](https://open.spotify.com/track/3NJYLkuPFdBfl2GiytqkFL)
+- [Sunshine - Extended Mix by Sound Quelle](https://open.spotify.com/track/2rKWYt8WwsALxWlbbHNWrr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
