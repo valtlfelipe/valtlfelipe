@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[linuz90/gists.sh](https://github.com/linuz90/gists.sh)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Dark Sky by &amp;friends, Emre Arisev, Emiran, Nathan Nicholson](https://open.spotify.com/track/3JjBiD8tBhmWYHJWdgC55D)
-- [Precious Time - Mixed by MXV, Songspire, Yasin](https://open.spotify.com/track/5ki90Z33s1Eb19cIWoWafL)
-- [Another Day by Iskarelyn](https://open.spotify.com/track/34G681nM0whDhnZONC9ZFv)
-- [Sky Patterns by Stendahl](https://open.spotify.com/track/1pRSK2PUc85O7i2OgCNuxR)
-- [Let Me Love You by Christian Burns, Mark Novas](https://open.spotify.com/track/3DU7UienRo3pX5RtbN8hQ4)
+- [Celebration by The Meridian](https://open.spotify.com/track/7lFZmlsJomNvWMG6hEl0Wl)
+- [Our Own Island by Sound Quelle, Tailor, Liz Cass](https://open.spotify.com/track/6ShsHeGJyXyr8h7wPyrgsM)
+- [It Isn&#39;t Love by NM](https://open.spotify.com/track/7bcIJDDPUgboUf9QUXl6tS)
+- [Laniakea - INNERVERSE Remix by Klur, INNERVERSE](https://open.spotify.com/track/3jQ1fE3igM0VC32tOUPqkW)
+- [Ella by Aden Lou](https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
