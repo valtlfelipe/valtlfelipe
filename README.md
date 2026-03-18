@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tomehq/tome](https://github.com/tomehq/tome)** - Beautiful documentation that doesn&#39;t cost a fortune. Open-source with all of your favorite features. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [High On Love by Falden, Renze](https://open.spotify.com/track/57zJmqa0l3pwYPWv6QArz3)
-- [Can&#39;t Go Back by Astrality, James French](https://open.spotify.com/track/2MjUXeQsfJAFhSXvpojmQX)
-- [The End by Elderbrook](https://open.spotify.com/track/7tu4R4fQFRH5iG8BvVVPjS)
-- [something about u by heylucas, solaene](https://open.spotify.com/track/1aUAakwecjFJIqwICjdKFn)
-- [Feel The Emotion by fwd/slash](https://open.spotify.com/track/6chebJZzTQfGMINE4dium9)
+- [Take Me Home - Mixed by Falden, FARLEY](https://open.spotify.com/track/0fAVnUI8qOgDWsxAOlY9CQ)
+- [Coffee by Abroad](https://open.spotify.com/track/0cuvkojX6QbHAdX4f025L3)
+- [Nossa Casa by terro](https://open.spotify.com/track/30llHiEO5U6SaCkM5mcu7x)
+- [Hollow by Emmit Fenn, Shallou](https://open.spotify.com/track/0QWfkVxD0iy0a8vRhQWm3s)
+- [Troubled Water by Panuma, blaank, birø, Idun Nicoline](https://open.spotify.com/track/4wsnIQl5IXJnf7UxFIJsFX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
