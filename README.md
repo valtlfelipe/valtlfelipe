@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nuxt-modules/mcp-toolkit](https://github.com/nuxt-modules/mcp-toolkit)** - Create MCP servers directly in your Nuxt application. Define tools, resources, and prompts with a simple and intuitive API. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Share A Mind by Origami Human](https://open.spotify.com/track/6ioCdwNda76W64NywUQJbg)
-- [make it right by upsidedownhead, Elmar](https://open.spotify.com/track/4rucTn2H2xQ8wZktRYKLX9)
-- [Where The Mountains Grow by Ferry Corsten, Chris Howard](https://open.spotify.com/track/4VG2Aq26xZWJUoUywi4x4r)
-- [Waiting by Lucien](https://open.spotify.com/track/5k3RMe4baRts3LhPnPvMw6)
-- [Believe by Yahra, Jay Newman](https://open.spotify.com/track/03UHMSLS5k1YWMuqcU9ccF)
+- [something about u by heylucas, solaene](https://open.spotify.com/track/1aUAakwecjFJIqwICjdKFn)
+- [Feel The Emotion by fwd/slash](https://open.spotify.com/track/6chebJZzTQfGMINE4dium9)
+- [Feeling (Hold On You) by Rules, MURPHY](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt)
+- [It’s raining outside by EMBRZ](https://open.spotify.com/track/2WJOzQzp9aLTEvZMi8yuJq)
+- [Anyone Else by Hayyoo](https://open.spotify.com/track/48dXq0DqmECwfCy3eiVWcb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
