@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nuxt-modules/mcp-toolkit](https://github.com/nuxt-modules/mcp-toolkit)** - Create MCP servers directly in your Nuxt application. Define tools, resources, and prompts with a simple and intuitive API. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Everything I Feel by Shoumeck, Ceci](https://open.spotify.com/track/2qPTRDUfzbmP8B3BosuxGG)
-- [Timer by Heard Right, Kiholm](https://open.spotify.com/track/2CzUq4K4141waFWKwCotNh)
-- [Darker Days (ABGT665) - Avenue One Remix (Mixed) by Christian Burns, Avenue One](https://open.spotify.com/track/4oUfjpaYUb2W1GrWsJyN91)
-- [Dawn To Dusk by overuu](https://open.spotify.com/track/5ewicS1Fq81Gp5D9iZQalw)
-- [When I Need You by PRAANA, Freddie Elmberg](https://open.spotify.com/track/2BLtjeTuLIZLhhFjEK1tkN)
+- [Share A Mind by Origami Human](https://open.spotify.com/track/6ioCdwNda76W64NywUQJbg)
+- [make it right by upsidedownhead, Elmar](https://open.spotify.com/track/4rucTn2H2xQ8wZktRYKLX9)
+- [Where The Mountains Grow by Ferry Corsten, Chris Howard](https://open.spotify.com/track/4VG2Aq26xZWJUoUywi4x4r)
+- [Waiting by Lucien](https://open.spotify.com/track/5k3RMe4baRts3LhPnPvMw6)
+- [Believe by Yahra, Jay Newman](https://open.spotify.com/track/03UHMSLS5k1YWMuqcU9ccF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
