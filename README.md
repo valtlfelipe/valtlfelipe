@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nuxt-modules/mcp-toolkit](https://github.com/nuxt-modules/mcp-toolkit)** - Create MCP servers directly in your Nuxt application. Define tools, resources, and prompts with a simple and intuitive API. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [When You Fall by Keymos](https://open.spotify.com/track/1hoeidErSnFU5hJ7XGiAu8)
-- [Your Eyes by D.Polo](https://open.spotify.com/track/1HFMQH6SjnplU69mxk01gw)
-- [Make It Easy by Robby East, Lizzy Land](https://open.spotify.com/track/5309UdeptmNbeOV4iTw5nl)
-- [Red String by Spark030, Yellowitz](https://open.spotify.com/track/5JwPrdM0WIvm4Muc90Iqr1)
-- [Falling Into You - Extended Mix by Approaching Black](https://open.spotify.com/track/1yYk9zB0A3Fq2t4b1J049Y)
+- [Everything I Feel by Shoumeck, Ceci](https://open.spotify.com/track/2qPTRDUfzbmP8B3BosuxGG)
+- [Timer by Heard Right, Kiholm](https://open.spotify.com/track/2CzUq4K4141waFWKwCotNh)
+- [Darker Days (ABGT665) - Avenue One Remix (Mixed) by Christian Burns, Avenue One](https://open.spotify.com/track/4oUfjpaYUb2W1GrWsJyN91)
+- [Dawn To Dusk by overuu](https://open.spotify.com/track/5ewicS1Fq81Gp5D9iZQalw)
+- [When I Need You by PRAANA, Freddie Elmberg](https://open.spotify.com/track/2BLtjeTuLIZLhhFjEK1tkN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
