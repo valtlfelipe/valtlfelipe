@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[webadderall/Recordly](https://github.com/webadderall/Recordly)** - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recordings. An alternative to Screen Studio. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
-- [Like Wooh Wooh - Radio Edit by Rnbstylerz](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA)
-- [Here We Go Again by Oliver Tree, David Guetta](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M)
-- [The Less I Know The Better by Mau P](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY)
-- [Running Around by Ely Oaks](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE)
+- [Take Me Away by ACRAZE](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs)
+- [Miracle Maker by Dom Dolla, Clementine Douglas](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK)
+- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [Forever by ZULAN](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
