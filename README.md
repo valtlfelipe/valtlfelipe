@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[webadderall/Recordly](https://github.com/webadderall/Recordly)** - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recordings. An alternative to Screen Studio. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [You Got the Love by Rockin Moroccin](https://open.spotify.com/track/5NL4Z4UexKu7BDdilyhzQZ)
-- [Imamou by Francis Mercier, Boukman Eksperyans](https://open.spotify.com/track/3IfKTOehj6Hlm4u3PUvxgd)
-- [Closer To The Floor by Jazzy, Ankhoï](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu)
-- [Anything (Ya Ya) by Ginton, Ape Drums, Palane, Kohsea](https://open.spotify.com/track/0UPTkIZR45UaYchMgaVMAs)
-- [The Otherside (feat. Paige Cavell) by ACRAZE, Paige Cavell](https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH)
+- [Lavisa by Jason Padrone](https://open.spotify.com/track/2da0QdMmeCnZURi2Pdy2Sj)
+- [Finally by Swedish House Mafia, Alicia Keys](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg)
+- [Dancing by Grigoré, Serve Cold, Jaguar Jaguar](https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL)
+- [In And Out Of Love by Rivo, Armin van Buuren, Sharon Den Adel](https://open.spotify.com/track/64fEHUyea9EqtAkmwqxFrr)
+- [set me free by Aaron Hibell, Alex Wann](https://open.spotify.com/track/7Kmo4UQ5Co6tqtysQcLkpF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
