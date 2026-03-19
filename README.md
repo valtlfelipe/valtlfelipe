@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[webadderall/Recordly](https://github.com/webadderall/Recordly)** - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recordings. An alternative to Screen Studio. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Far Away by Sinova](https://open.spotify.com/track/68fwZWI4IMFJHXI4VAGoYf)
-- [Coastal Whispers by Béatrice Dupont](https://open.spotify.com/track/6qB4CSigLSWmBw4o9wiAXs)
-- [Shorelines - Extended Mix by Sons Of Maria](https://open.spotify.com/track/5QrTX5PZN6V9UBATyHxhGh)
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
-- [Closer by blaank, Jörd, Lighthouse](https://open.spotify.com/track/4RF358diHjNIMYzxQWXKRy)
+- [Dirty Cash (Money Talks) by PAWSA, The Adventures Of Stevie V](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX)
+- [Say My Name - Remix by Morgan Seatree, Florence &#43; The Machine](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32)
+- [Baianá by Bakermat](https://open.spotify.com/track/780be5fB7823aHG06mwTat)
+- [CORA DE HIELO (feat. Natt Calma) – Spotify Sessions by RØZ, Natt Calma](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw)
+- [Love Tonight (David Guetta Remix Edit) by Shouse, David Guetta](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
