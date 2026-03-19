@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[webadderall/Recordly](https://github.com/webadderall/Recordly)** - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recordings. An alternative to Screen Studio. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Dirty Cash (Money Talks) by PAWSA, The Adventures Of Stevie V](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX)
-- [Say My Name - Remix by Morgan Seatree, Florence &#43; The Machine](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32)
-- [Baianá by Bakermat](https://open.spotify.com/track/780be5fB7823aHG06mwTat)
-- [CORA DE HIELO (feat. Natt Calma) – Spotify Sessions by RØZ, Natt Calma](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw)
-- [Love Tonight (David Guetta Remix Edit) by Shouse, David Guetta](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
+- [Like Wooh Wooh - Radio Edit by Rnbstylerz](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA)
+- [Here We Go Again by Oliver Tree, David Guetta](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M)
+- [The Less I Know The Better by Mau P](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY)
+- [Running Around by Ely Oaks](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
