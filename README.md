@@ -7,7 +7,7 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/clearly](https://github.com/Shpigford/clearly)** - A clean, native markdown editor for macOS. (1 day ago)
 - **[puiusabin/bun-smtp](https://github.com/puiusabin/bun-smtp)** - SMTP and LMTP server library for Bun (1 day ago)
 - **[QuackbackIO/quackback](https://github.com/QuackbackIO/quackback)** - The open source alternative to Canny, UserVoice, Productboard (2 days ago)
-- **[webadderall/Recordly](https://github.com/webadderall/Recordly)** - A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. (2 days ago)
+- **[webadderall/Recordly](https://github.com/webadderall/Recordly)** - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recordings. An alternative to Screen Studio. (2 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Far Away by Sinova](https://open.spotify.com/track/68fwZWI4IMFJHXI4VAGoYf)
