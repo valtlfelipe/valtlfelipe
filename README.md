@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[webadderall/Recordly](https://github.com/webadderall/Recordly)** - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recordings. An alternative to Screen Studio. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Heartbeat by MIND](https://open.spotify.com/track/6RLBwMcxEX9QS2XYO7Xc52)
-- [Midnight Minimal by After Midnight Deep, Arden](https://open.spotify.com/track/3R7kvDqWZMaZL5NfiFynqB)
-- [Called Your Name by Nu Aspect, Jake Neumar](https://open.spotify.com/track/27z5prnleELd1ifzlnaEHJ)
-- [belong to one by oskar med k](https://open.spotify.com/track/1M80fAZWp0IXmwwrpM2Hz1)
-- [Shorelines by Sons Of Maria](https://open.spotify.com/track/4ZTOhRyYgeH5LVhQt9uj32)
+- [Better This Way by MR TOUT LE MONDE](https://open.spotify.com/track/3S3tXaY97971Cp4QV6B8cV)
+- [Come Alive - 2026 Mix by YORK, Hessian, Wezn](https://open.spotify.com/track/3z7mR0aljVz4l7a6Ul4h02)
+- [Deep in the Silence by After Midnight Deep](https://open.spotify.com/track/1q5v1O0Sbj5hokedzkKogX)
+- [around by oskar med k](https://open.spotify.com/track/5xgdCbT3pRtf5xol8D22Mv)
+- [Holding On by Rules, Gregory Porter](https://open.spotify.com/track/4hTT2n6g4oq7isk4w1adY2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
