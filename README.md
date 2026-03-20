@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[webadderall/Recordly](https://github.com/webadderall/Recordly)** - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recordings. An alternative to Screen Studio. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Sweet Nothings (feat. Minke) by Holiday87, Minke](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo)
-- [Maisha by LB74](https://open.spotify.com/track/5dphB03NIaqz4L3q76McSI)
-- [Feels So Right by Aden Lou](https://open.spotify.com/track/4POjJI8EJIbchOE0fju0QR)
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
-- [Yamore - Edit Version by MoBlack, Salif Keita, Benja (NL), Franc Fala, Cesária Evora](https://open.spotify.com/track/1y62v08lkqdPTBj7si8tnA)
+- [Are You Real? by MIND](https://open.spotify.com/track/4cEwZe5CTeONJ8cBseGm4E)
+- [Save My Love by Kygo, Khalid, Gryffin](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8)
+- [Spellbound by oskar med k](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T)
+- [looking for you by Naarly, Alléa](https://open.spotify.com/track/3aRPw3jZYoURnYRkO7611l)
+- [Orla by nimino](https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
