@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[webadderall/Recordly](https://github.com/webadderall/Recordly)** - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recordings. An alternative to Screen Studio. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
-- [Mr. Postman by Foínix](https://open.spotify.com/track/5CMATGqVwi7yV6FaIbK2Pb)
-- [healer by oskar med k](https://open.spotify.com/track/6rjptxqIhBWu9WU6vgimCC)
-- [It Isn&#39;t Love by NM](https://open.spotify.com/track/7bcIJDDPUgboUf9QUXl6tS)
-- [Problemsss by Swimming Paul, Bobbie Johnson](https://open.spotify.com/track/6xkrfrsmz7GWkIbmPd7owG)
+- [In The Morning by Maxomar](https://open.spotify.com/track/1IJtSTH3WAk5XHA97h2RaA)
+- [AWGAZI (Sunset Remix) by Lucas Estrada, Palm Monkey, RUSSI, DALEXO](https://open.spotify.com/track/4AgxONQTltUnOfMJuiLQDk)
+- [keeping it cool by Naarly, ERIICE](https://open.spotify.com/track/6FCjvn43BtjGTYx9w59mdr)
+- [Freedom by Kaskade, EZI](https://open.spotify.com/track/4ykAHRtl2xJkIzTfZXParO)
+- [Afterglow by NM](https://open.spotify.com/track/5vAa2vXfp7A6XV11y1hVNt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
