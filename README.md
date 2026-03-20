@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[QuackbackIO/quackback](https://github.com/QuackbackIO/quackback)** - The open source alternative to Canny, UserVoice, Productboard (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Magnetic by Bausa](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt)
-- [Your Hug by ZeLeo](https://open.spotify.com/track/6zUK9uNC80hiPW6g8ysT2o)
-- [Ride - MVCA Remix by Klangkarussell, MVCA](https://open.spotify.com/track/5GwjTGxaTW1XMtvAxbBYsH)
-- [Sign (Revision) by TWO LANES, Nohr](https://open.spotify.com/track/5O8T8WO7p1Fx6CM1lT1s7J)
-- [Let Me Know by Nohr](https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j)
+- [Stay by Palm Monkey, Feel On Eel](https://open.spotify.com/track/0F5Xx83Gad2HlU8N5fpglk)
+- [Oh I Still Feel Ya B Side by Jonasu, Tyoz](https://open.spotify.com/track/4JVGjBJbKCE3trBUEzpcZe)
+- [Never Let Me Down by Amés, Ferreck](https://open.spotify.com/track/3eEKTbwbiTcKOhe91LnrI1)
+- [Super High by Swimming Paul, EV](https://open.spotify.com/track/3UiyKjrGdNhnP1jbSf4JZH)
+- [YOU ARE MY SUNSHINE by Palm Monkey, RUSSI](https://open.spotify.com/track/7BnCxiZrvSeEtO4MvmV6Fp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
