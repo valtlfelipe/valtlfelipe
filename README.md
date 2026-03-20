@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[webadderall/Recordly](https://github.com/webadderall/Recordly)** - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recordings. An alternative to Screen Studio. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [You Are Close (But Out of Reach) by NM](https://open.spotify.com/track/3X8kSfWiMAO5tPwxzbOmwv)
-- [Nobody by Texture](https://open.spotify.com/track/0YvVDz8zGoaucxmGYGj559)
-- [Falling by Shimza, Elderbrook](https://open.spotify.com/track/4d8031x6HPpjQtH98BmRio)
-- [Strange Nights by ZeLeo](https://open.spotify.com/track/32h0VddZWXDHmNQjhTED22)
-- [Old Times by Naarly, Maexx, MIZAK, BVCCHUS](https://open.spotify.com/track/5RQfixUiZpuQm1c6SLk5xM)
+- [Baby by ATANA](https://open.spotify.com/track/5vzRd1FUECt6swiGgtIFxA)
+- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
+- [Under the Moonlight by Naarly, Mitch Oliver, Keilimei, Sinca](https://open.spotify.com/track/3SbSG4gekvzynHp7BVUVPj)
+- [Without You by RUSSI](https://open.spotify.com/track/6sTRRES1pZTUPbQtAYR5SW)
+- [Do You by oskar med k](https://open.spotify.com/track/3MbNPY4xh4LgYCFSQnz0no)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
