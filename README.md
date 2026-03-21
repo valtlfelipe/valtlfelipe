@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[puiusabin/bun-smtp](https://github.com/puiusabin/bun-smtp)** - SMTP and LMTP server library for Bun (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
-- [DON&#39;T KILL MY VIBE by Adrian Fyrla, Palm Monkey, Amè](https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86)
-- [Are You Real? by MIND](https://open.spotify.com/track/4cEwZe5CTeONJ8cBseGm4E)
-- [Fever by Emmit Fenn](https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y)
-- [looking for you by Naarly, Alléa](https://open.spotify.com/track/3aRPw3jZYoURnYRkO7611l)
+- [Collusion by Morgan Page, Swanky Tunes](https://open.spotify.com/track/04fMn3BAwhgH1WKa8mp95h)
+- [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
+- [Where The Lights Are Low - Mike Williams Remix by Toby Romeo, Felix Jaehn, FAULHABER, Mike Williams](https://open.spotify.com/track/6k3Oxg6tgRGFxN0ilByxZ4)
+- [All My Life - Lucas &amp; Steve Edit by Bassjackers, Lucas &amp; Steve](https://open.spotify.com/track/7I3efKFkjTMBoFKCrwQfeF)
+- [Lay It All on Me (feat. Ed Sheeran) by Rudimental, Ed Sheeran](https://open.spotify.com/track/6splO3UF8hSmK33y5fJTNk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
