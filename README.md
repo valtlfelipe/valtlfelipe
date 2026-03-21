@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[puiusabin/bun-smtp](https://github.com/puiusabin/bun-smtp)** - SMTP and LMTP server library for Bun (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Sunrise - Nick Endhem Remix by STIGM4N, Nick Endhem](https://open.spotify.com/track/76qa8en8JhPmQEn2rXvsg7)
+- [So Sorry by Rudimental, Skream](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU)
 - [Collusion by Morgan Page, Swanky Tunes](https://open.spotify.com/track/04fMn3BAwhgH1WKa8mp95h)
 - [Light by Nu Aspect](https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow)
 - [Where The Lights Are Low - Mike Williams Remix by Toby Romeo, Felix Jaehn, FAULHABER, Mike Williams](https://open.spotify.com/track/6k3Oxg6tgRGFxN0ilByxZ4)
-- [All My Life - Lucas &amp; Steve Edit by Bassjackers, Lucas &amp; Steve](https://open.spotify.com/track/7I3efKFkjTMBoFKCrwQfeF)
-- [Lay It All on Me (feat. Ed Sheeran) by Rudimental, Ed Sheeran](https://open.spotify.com/track/6splO3UF8hSmK33y5fJTNk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
