@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[puiusabin/bun-smtp](https://github.com/puiusabin/bun-smtp)** - SMTP and LMTP server library for Bun (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [On My Mind by Bob Moses, Notre Dame](https://open.spotify.com/track/4OqCbJgaxx0VuL8Q7leohP)
+- [Spellbound by oskar med k](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T)
 - [Lost In The Woods by Adriatique, Elderbrook](https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx)
 - [Jump by MIND](https://open.spotify.com/track/06fqBUtCFsSomwcG1Mvgzr)
 - [Afterglow by Lynnic, ItsArius](https://open.spotify.com/track/6YaOyLCNPydfoaDhvUzzzp)
-- [Peace I Can&#39;t Explain by Nofsky](https://open.spotify.com/track/17pcESE3fyuLaicaVs9weU)
-- [We Run by Small Town Kid](https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
