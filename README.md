@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[puiusabin/bun-smtp](https://github.com/puiusabin/bun-smtp)** - SMTP and LMTP server library for Bun (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [On My Mind by Bob Moses, Notre Dame](https://open.spotify.com/track/4OqCbJgaxx0VuL8Q7leohP)
-- [Spellbound by oskar med k](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T)
-- [Lost In The Woods by Adriatique, Elderbrook](https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx)
-- [Jump by MIND](https://open.spotify.com/track/06fqBUtCFsSomwcG1Mvgzr)
-- [Afterglow by Lynnic, ItsArius](https://open.spotify.com/track/6YaOyLCNPydfoaDhvUzzzp)
+- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0)
+- [DON&#39;T KILL MY VIBE by Adrian Fyrla, Palm Monkey, Amè](https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86)
+- [Are You Real? by MIND](https://open.spotify.com/track/4cEwZe5CTeONJ8cBseGm4E)
+- [Fever by Emmit Fenn](https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y)
+- [looking for you by Naarly, Alléa](https://open.spotify.com/track/3aRPw3jZYoURnYRkO7611l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
