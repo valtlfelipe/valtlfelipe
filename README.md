@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[puiusabin/bun-smtp](https://github.com/puiusabin/bun-smtp)** - SMTP and LMTP server library for Bun (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [On The Ground by oskar med k](https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH)
-- [We Don&#39;t Care by NM](https://open.spotify.com/track/7JoU7nlz1OjyK53S4ABStt)
-- [Wounds by James Carter](https://open.spotify.com/track/1vtPrklVfyouKAtBQMAUYw)
-- [Caught Up In The Fire by Ben Böhmer, JONAH](https://open.spotify.com/track/1cskXAWztObojI6r2j60Al)
-- [black tears by all things break](https://open.spotify.com/track/4lzsFM6Niynyr5C1GoNqT2)
+- [Lost In The Woods by Adriatique, Elderbrook](https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx)
+- [Jump by MIND](https://open.spotify.com/track/06fqBUtCFsSomwcG1Mvgzr)
+- [Afterglow by Lynnic, ItsArius](https://open.spotify.com/track/6YaOyLCNPydfoaDhvUzzzp)
+- [Peace I Can&#39;t Explain by Nofsky](https://open.spotify.com/track/17pcESE3fyuLaicaVs9weU)
+- [We Run by Small Town Kid](https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
