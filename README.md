@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[puiusabin/bun-smtp](https://github.com/puiusabin/bun-smtp)** - SMTP and LMTP server library for Bun (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
+- [Beautiful People by David Guetta, Sia](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W)
+- [Call on Me - Ryan Riback Remix by Starley, Ryan Riback](https://open.spotify.com/track/0BZ5YlY2xnwfUmyGdiOMje)
+- [China by Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK)
 - [The Less I Know The Better by Tame Impala](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
-- [Location by Cheat Codes, A7S](https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH)
-- [Gemini - Ocean Edit by David Bay](https://open.spotify.com/track/7jL8WUz7wuko9csqPjElyJ)
-- [Sunset Wave by Tobias Bergson, Michael Shynes](https://open.spotify.com/track/3kD8Ed75AXHuzNmny7BUiO)
-- [Sunset Wave by Tobias Bergson, Michael Shynes](https://open.spotify.com/track/3kD8Ed75AXHuzNmny7BUiO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
