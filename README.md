@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[puiusabin/bun-smtp](https://github.com/puiusabin/bun-smtp)** - SMTP and LMTP server library for Bun (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
+- [Levitating (feat. DaBaby) by Dua Lipa, DaBaby](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF)
+- [Fireball (feat. John Ryan) by Pitbull, John Ryan](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW)
 - [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
 - [Beautiful People by David Guetta, Sia](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W)
-- [Call on Me - Ryan Riback Remix by Starley, Ryan Riback](https://open.spotify.com/track/0BZ5YlY2xnwfUmyGdiOMje)
-- [China by Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK)
-- [The Less I Know The Better by Tame Impala](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
