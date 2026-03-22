@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Hips Don&#39;t Lie (feat. Wyclef Jean) by Shakira, Wyclef Jean](https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF)
-- [I Ain&#39;t Worried by OneRepublic](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
-- [Unstoppable - R3HAB Remix by Sia, R3HAB](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq)
-- [Pepas by Farruko](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k)
-- [Pepas by Farruko](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k)
+- [ily (i love you baby) (feat. Emilee) by Surf Mesa, Emilee](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS)
+- [Where Them Girls At (feat. Nicki Minaj &amp; Flo Rida) by David Guetta, Flo Rida, Nicki Minaj](https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB)
+- [Crying On The Dancefloor by Sam Feldt, Jonas Blue, Endless Summer, Violet Days](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6)
+- [No Money by Galantis](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd)
+- [Breaking Me by Topic, A7S](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
