@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [BED by Joel Corry, RAYE, David Guetta](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [This Is What You Came For by Calvin Harris, Rihanna](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y)
 - [This Is What It Feels Like by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9)
 - [Take You Dancing by Jason Derulo](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3)
-- [Location by Zerb, Ty Dolla $ign, Wiz Khalifa](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP)
-- [Are You With Me by Lost Frequencies](https://open.spotify.com/track/4255amV4enzl28KAn16rUO)
-- [Heroes (we could be) by Alesso, Tove Lo](https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
