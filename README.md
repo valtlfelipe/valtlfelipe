@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [BED by Joel Corry, RAYE, David Guetta](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [This Is What You Came For by Calvin Harris, Rihanna](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y)
-- [This Is What It Feels Like by Armin van Buuren, Trevor Guthrie](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9)
-- [Take You Dancing by Jason Derulo](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3)
+- [Foie Gras by Life&#39;s A Beach](https://open.spotify.com/track/33iiP4SI0wIiZcPdkkO3Td)
+- [Call Me by Lust.](https://open.spotify.com/track/4asFnFQMLBn1cO5hRZDk1f)
+- [These are your friends by Café](https://open.spotify.com/track/3uvIg2xqSDzklCwKvGS5cb)
+- [Do You Do This Often by Le P](https://open.spotify.com/track/0z23VQA5qXw1KCHLUE9mWZ)
+- [The Distance by GUAPO (AO), dela sur](https://open.spotify.com/track/6mZOxGAZXeWjbFb8MZDm1z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
