@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [what should i do by Sindresu](https://open.spotify.com/track/6SqLY2NVaXvHDzTrNG0XWk)
-- [Stay For A While by Oliver River](https://open.spotify.com/track/0QoH6zCabjpdBgs3gkFgEF)
-- [Floating by Klur](https://open.spotify.com/track/4qzIWW9yArNdpuqc9SbtJH)
-- [With You by BALEĀ](https://open.spotify.com/track/4DLaJjufxJ3YPLbbSNgCMl)
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [A Summer Fling by Æj, Josh Brown](https://open.spotify.com/track/6vyIpi8UwsQAkthv6hsT2S)
+- [Where We Should Be by Dallien, RVPTR, nøya.](https://open.spotify.com/track/1keMmDCYN3IWNU9dtacwts)
+- [IYKYK by BLANCE, Levi From Space, coolage](https://open.spotify.com/track/5aQOaLt6HwTPLx4uYb9ZHE)
+- [Aura by Lust.](https://open.spotify.com/track/1PMLwX7mOy85iOlJC4Exvd)
+- [Dancing through life by Café](https://open.spotify.com/track/3QpqVDlmOhiGthBGubIWi3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
