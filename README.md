@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Zanzibar by sunbvrn](https://open.spotify.com/track/0H5pK1YOG2bJYji4p4BRox)
-- [Noir by NOAM, Spijk, Tide Lane](https://open.spotify.com/track/3G7Toov3x7kVOxw4lZ9mV1)
-- [Nothing Around Us by P.A.V](https://open.spotify.com/track/4ZeHb7ILC8H48YNjOigV26)
-- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
-- [I feel it now by Café](https://open.spotify.com/track/3TV19ldVxJ2YcVGuSXWqcc)
+- [With You by BALEĀ](https://open.spotify.com/track/4DLaJjufxJ3YPLbbSNgCMl)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [Slow by aiden](https://open.spotify.com/track/2k26xZLUemZdibHOfUaDxK)
+- [Life Is Fun by Lust.](https://open.spotify.com/track/7kp6oPpEJ8TQYwmsBOJIhQ)
+- [Make It Easy by Robby East, Lizzy Land](https://open.spotify.com/track/5309UdeptmNbeOV4iTw5nl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
