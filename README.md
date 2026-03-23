@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Foie Gras by Life&#39;s A Beach](https://open.spotify.com/track/33iiP4SI0wIiZcPdkkO3Td)
-- [Call Me by Lust.](https://open.spotify.com/track/4asFnFQMLBn1cO5hRZDk1f)
-- [These are your friends by Café](https://open.spotify.com/track/3uvIg2xqSDzklCwKvGS5cb)
-- [Do You Do This Often by Le P](https://open.spotify.com/track/0z23VQA5qXw1KCHLUE9mWZ)
-- [The Distance by GUAPO (AO), dela sur](https://open.spotify.com/track/6mZOxGAZXeWjbFb8MZDm1z)
+- [Emotions by Passing Clouds](https://open.spotify.com/track/3IzqHpqhnELI7sb1bKB02U)
+- [Morning by BLANCE](https://open.spotify.com/track/1I4FXST79idqIdaWxyz4tf)
+- [Need 2 Know by nonplace](https://open.spotify.com/track/4wzHpgfrKc0Au9rZsmPSR0)
+- [Just One Touch by aiden](https://open.spotify.com/track/0n4K2CjqeOIgx4WeJHYfVK)
+- [Don&#39;t Be Sad by MYND](https://open.spotify.com/track/18ESSwIFOZe177UYuvkAKo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
