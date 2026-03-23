@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Always You by Ourson](https://open.spotify.com/track/1YNS3IxT9meyqhPlaWFw1Y)
-- [tell me all about it by sensse](https://open.spotify.com/track/6MNQay2ipGwLeMIU5VZJZH)
-- [Who Are You by stmp](https://open.spotify.com/track/7bH0FLsD586wJGtEogx286)
-- [Soft launch permanent (chill out &amp; background Music) by Soren Alves](https://open.spotify.com/track/0RGBGehww5WZcFF1dr7CE4)
-- [Blink of an Eye by Fred Ocean, Voldea](https://open.spotify.com/track/3eCSpTCl55vdnJWHWpsENb)
+- [Zanzibar by sunbvrn](https://open.spotify.com/track/0H5pK1YOG2bJYji4p4BRox)
+- [Noir by NOAM, Spijk, Tide Lane](https://open.spotify.com/track/3G7Toov3x7kVOxw4lZ9mV1)
+- [Nothing Around Us by P.A.V](https://open.spotify.com/track/4ZeHb7ILC8H48YNjOigV26)
+- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
+- [I feel it now by Café](https://open.spotify.com/track/3TV19ldVxJ2YcVGuSXWqcc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
