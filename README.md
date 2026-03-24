@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Flames by ARTY, Nu-La](https://open.spotify.com/track/1vXP30hzwXVis2zTQI10MY)
-- [Savannah by DRAMA](https://open.spotify.com/track/0BnlKkuszP6iIQBtMXeV48)
-- [Finding Me by Ciaran McAuley, Aurosonic, Zara Taylor](https://open.spotify.com/track/3W2m42WdXWO0A8SYAEHYAf)
-- [Plush by DJ Seinfeld](https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj)
-- [Shades by Snakehips, Absolutely](https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP)
+- [Make Me Wanna by Phantoms, No/Me](https://open.spotify.com/track/3a9GL4vO0HnWHosQAvYava)
+- [Dancing In The Dark by Noizu, Annaca](https://open.spotify.com/track/0v4y0mPJaLyCKOWC5khfmg)
+- [More Than A Friend by Don Diablo, Bipolar Sunshine](https://open.spotify.com/track/0gVlXqAE1HRkbcCDDFzJSg)
+- [3am by Łaszewo](https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h)
+- [So Far Away by Seven Lions, Lilly Ahlberg](https://open.spotify.com/track/3Z1HQgIy5WJf4nl6GR5lTE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
