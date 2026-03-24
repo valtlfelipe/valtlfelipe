@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Ride At Dawn by Above &amp; Beyond, Zoë Johnston](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d)
-- [Dive Into Me by Alok, Khalid](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ)
-- [Somebody To Love by YOTTO, Eli &amp; Fur](https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi)
-- [Heaven by Jengi, Eloise Keeble](https://open.spotify.com/track/3MhivhKf1CEfSFwD1ZwB5I)
-- [I HEART YOU by Confidence Man, Eliza Rose](https://open.spotify.com/track/5YSaWnfbnrHC2ByWY73vdo)
+- [Need Your Loving by Joseph Ray](https://open.spotify.com/track/6Z9KUjMaDWnOSNhke0thx1)
+- [Heartbeat by DJ Planet Express, Katie McBride](https://open.spotify.com/track/7FCJWSLgyr1GMrV7s7tNub)
+- [My Room (90HD) by Pocket, Anatole Muster](https://open.spotify.com/track/5DZHmx01Pt2LbNmkop8B0V)
+- [No Gravity (feat. Bava) by Zedd, Bava](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g)
+- [don&#39;t leave by LSR/CITY, Gareth Emery, Annabel](https://open.spotify.com/track/0XJUlFtz2y9AHOlqBtVjzW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
