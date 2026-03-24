@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
-- [Golden Hour by blaank, Idun Nicoline](https://open.spotify.com/track/5fhLAYW2Sc53Tyevrfq4rO)
-- [while the world rewrites by FIORE](https://open.spotify.com/track/4AG4LT46T8Zzc2z1rVJJgD)
-- [Let Go by Neon Tide](https://open.spotify.com/track/7bL9uGTNLE1SAHQUAjHne5)
-- [Know Who You Are by San Mateo Drive, Ren Ocean](https://open.spotify.com/track/0uz7gY8pdvz0cm063f2OVS)
+- [With You by Floating Club](https://open.spotify.com/track/0kDDQshXJ5wcMPYC7cMOTQ)
+- [And I Miss You by Coffee Cub](https://open.spotify.com/track/6nzUZPSluHCa9KhIVZlwGu)
+- [A Year In May by Con&#39;s Universe](https://open.spotify.com/track/0wJMGtSZB4CucrreoHTXT5)
+- [Get To You by Tom Kha](https://open.spotify.com/track/02iEVPyNUkjeHq0oGN8XK4)
+- [Never Be by Nick En Mare](https://open.spotify.com/track/20h8MnnhZGMbBmHHd0IlJb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
