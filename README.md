@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Jackfruit by it&#39;s jud, MR.FULLTIM€](https://open.spotify.com/track/77kz4xsbcup9BqkQqZ88ff)
-- [Want You To by Floating Club](https://open.spotify.com/track/0ieBoCQF9WyxzdlzDLwaqF)
-- [Where the Beat Feels Close by After Midnight](https://open.spotify.com/track/2CVwCPPn9ZVsapBNmoPaAb)
-- [Make Sense by Jaquet](https://open.spotify.com/track/6ux8SfsZqhmx1etdAxC0Dj)
-- [Sunset Ave by Nimus](https://open.spotify.com/track/2ss6XAbADU1zyCOja2fUzS)
+- [Wherever U Are by NOAM, D3EPANK, Sax&#39;Appeal](https://open.spotify.com/track/3hPQjeaLyBE0Oiz0gBRaiK)
+- [midnight prism by nina bronx](https://open.spotify.com/track/3rFsFDfMdvx013WgT5WmGf)
+- [Change of Driver by Falden, PEARL](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x)
+- [When Life Begins by TMPST, Maynørr, Eijk](https://open.spotify.com/track/5uNNHW0y4EEVhZIcmgdy3t)
+- [Stuck In Between by Ourson](https://open.spotify.com/track/1OEPxzjJz1raNKIiKiKFeI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
