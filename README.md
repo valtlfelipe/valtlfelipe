@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Need Your Loving by Joseph Ray](https://open.spotify.com/track/6Z9KUjMaDWnOSNhke0thx1)
-- [Heartbeat by DJ Planet Express, Katie McBride](https://open.spotify.com/track/7FCJWSLgyr1GMrV7s7tNub)
-- [My Room (90HD) by Pocket, Anatole Muster](https://open.spotify.com/track/5DZHmx01Pt2LbNmkop8B0V)
-- [No Gravity (feat. Bava) by Zedd, Bava](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g)
-- [don&#39;t leave by LSR/CITY, Gareth Emery, Annabel](https://open.spotify.com/track/0XJUlFtz2y9AHOlqBtVjzW)
+- [Flames by ARTY, Nu-La](https://open.spotify.com/track/1vXP30hzwXVis2zTQI10MY)
+- [Savannah by DRAMA](https://open.spotify.com/track/0BnlKkuszP6iIQBtMXeV48)
+- [Finding Me by Ciaran McAuley, Aurosonic, Zara Taylor](https://open.spotify.com/track/3W2m42WdXWO0A8SYAEHYAf)
+- [Plush by DJ Seinfeld](https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj)
+- [Shades by Snakehips, Absolutely](https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
