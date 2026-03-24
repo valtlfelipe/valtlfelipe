@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Wherever U Are by NOAM, D3EPANK, Sax&#39;Appeal](https://open.spotify.com/track/3hPQjeaLyBE0Oiz0gBRaiK)
-- [midnight prism by nina bronx](https://open.spotify.com/track/3rFsFDfMdvx013WgT5WmGf)
-- [Change of Driver by Falden, PEARL](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x)
-- [When Life Begins by TMPST, Maynørr, Eijk](https://open.spotify.com/track/5uNNHW0y4EEVhZIcmgdy3t)
-- [Stuck In Between by Ourson](https://open.spotify.com/track/1OEPxzjJz1raNKIiKiKFeI)
+- [Breathing by Ourson](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV)
+- [In Your Mind by Floating Club](https://open.spotify.com/track/7Ldp4EhmaelRLFZr82Q5hV)
+- [Remember When by San Mateo Drive](https://open.spotify.com/track/4EM5gnndUuYL0x6zNsGKBE)
+- [Evening Chill by TAPI, Lanle](https://open.spotify.com/track/5msODpQtj5zRWTE55LtIRn)
+- [Carry Me Home by Johny Luv](https://open.spotify.com/track/5SBF0WVovHn31DSmYiAKSX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
