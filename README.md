@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [WAY YOU SMILE by AVAION](https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp)
-- [Rain by FISHER](https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U)
-- [Hindsight (We Belong With Each Other) by Fractures](https://open.spotify.com/track/1zfr2EIFyIu58wYKwUgseS)
-- [You by BUNT., Oaks](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK)
-- [Slapped By My Life by Jessy Lanza](https://open.spotify.com/track/6TkqnafmCsB2JavcMkFuwE)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [All My Life by Duke Dumont, Panama](https://open.spotify.com/track/4XO2AIJyy8d5DOuVoFtBGE)
+- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi)
+- [In My Room by Julia Wolf, Badger](https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU)
+- [Come Find Me (with Clementine Douglas) by MK, Clementine Douglas](https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
