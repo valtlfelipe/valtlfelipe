@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Lately by RÜFÜS DU SOL](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K)
-- [This Version Of You - Joseph Ray Remix by ODESZA, Julianna Barwick, Joseph Ray](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy)
-- [Beyond Beliefs by Ben Böhmer](https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5)
-- [Into The Night by Tonic Walter](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB)
-- [Happy by Masters At Work, Louie Vega, Kenny Dope](https://open.spotify.com/track/4CTpWhiyqB5IGjAmveTYSv)
+- [Killing Time by Helsloot, Chris Howard, Boy Wolf](https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj)
+- [Marabelle by Anish Kumar](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm)
+- [NO SKIN by Mild Minds, Frameworks](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0)
+- [Firmoral by Polar Inc.](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ)
+- [Allein Allein by INNERVERSE, Helsloot, Malou](https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
