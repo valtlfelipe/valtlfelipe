@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Quiver by SILK](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx)
-- [Carry On - EarthLife Remix by Jan Blomqvist, EarthLife](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF)
-- [Rosa by Effemar](https://open.spotify.com/track/7sprAZt5hceqMpbJ91DuRu)
-- [3AMStillAlive - Remix by Parra for Cuva, orbit](https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p)
-- [Following by Saive](https://open.spotify.com/track/2e5yPsWLKM6DLgy2tk5zjH)
+- [Ghost - Fejká Remix by Mogli, Fejká](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q)
+- [Let You In (feat. East Forest) by ANNA, East Forest](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw)
+- [Outside by Henry Green](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO)
+- [High On Beat by Jan Blomqvist, Bloom Twins](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi)
+- [Goodbye by Monkey Safari](https://open.spotify.com/track/6bM8DrDD0hOuU0e06LKehN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
