@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Make Me Wanna by Phantoms, No/Me](https://open.spotify.com/track/3a9GL4vO0HnWHosQAvYava)
-- [Dancing In The Dark by Noizu, Annaca](https://open.spotify.com/track/0v4y0mPJaLyCKOWC5khfmg)
-- [More Than A Friend by Don Diablo, Bipolar Sunshine](https://open.spotify.com/track/0gVlXqAE1HRkbcCDDFzJSg)
-- [3am by Łaszewo](https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h)
-- [So Far Away by Seven Lions, Lilly Ahlberg](https://open.spotify.com/track/3Z1HQgIy5WJf4nl6GR5lTE)
+- [WAY YOU SMILE by AVAION](https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp)
+- [Rain by FISHER](https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U)
+- [Hindsight (We Belong With Each Other) by Fractures](https://open.spotify.com/track/1zfr2EIFyIu58wYKwUgseS)
+- [You by BUNT., Oaks](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK)
+- [Slapped By My Life by Jessy Lanza](https://open.spotify.com/track/6TkqnafmCsB2JavcMkFuwE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
