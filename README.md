@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Killing Time by Helsloot, Chris Howard, Boy Wolf](https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj)
-- [Marabelle by Anish Kumar](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm)
-- [NO SKIN by Mild Minds, Frameworks](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0)
-- [Firmoral by Polar Inc.](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ)
-- [Allein Allein by INNERVERSE, Helsloot, Malou](https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj)
+- [Miyanosawa by Qrion](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN)
+- [Heartless by WhoMadeWho, Kölsch](https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy)
+- [Marimba by GHEIST](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi)
+- [Movement by TWO LANES](https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY)
+- [One Last Call by Ben Böhmer, Felix Raphael](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
