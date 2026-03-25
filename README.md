@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
-- [All My Life by Duke Dumont, Panama](https://open.spotify.com/track/4XO2AIJyy8d5DOuVoFtBGE)
-- [Feel by LP Giobbi, Jacob Banks](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi)
-- [In My Room by Julia Wolf, Badger](https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU)
-- [Come Find Me (with Clementine Douglas) by MK, Clementine Douglas](https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE)
+- [Never Alone (feat. Lizzy Land) by Odd Mob, Lizzy Land](https://open.spotify.com/track/5oUyHGfZTseyZ50J6a7Ikk)
+- [Last Forever by Bob Moses](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q)
+- [Go by Stresshead](https://open.spotify.com/track/4Q1alc9pSrymg1ntmocKl8)
+- [CAVE (with Tove Lo) by Dom Dolla, Tove Lo](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm)
+- [Levitating by RÜFÜS DU SOL](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
