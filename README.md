@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[juanfont/headscale](https://github.com/juanfont/headscale)** - An open source, self-hosted implementation of the Tailscale control server (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Devotion by RÜFÜS DU SOL](https://open.spotify.com/track/56Qdvab5ordX97OCvgY3ie)
-- [Where the Roads Collide by Ben Böhmer, Fritz Kalkbrenner](https://open.spotify.com/track/20xquUdoWHbmEWrNRgUAOA)
-- [Eye of the Storm by Yannek Maunz, Ivy Purple](https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu)
-- [Love Story by Lui Mafuta](https://open.spotify.com/track/4Fulh4zooAuEh0QGO4ZtRy)
-- [Extraordinary - Radio Edit by She Knows](https://open.spotify.com/track/2yAGQ2mDaMg4hfckXmkI8L)
+- [The East by TWO LANES](https://open.spotify.com/track/6QSeI4XXjVPDGvJNdqL8rC)
+- [Adams Hill by Tensnake](https://open.spotify.com/track/11AO4MUjj7LTqCFJtXbtjI)
+- [Light Of Day - Parra for Cuva Remix by ODESZA, Ólafur Arnalds, Parra for Cuva](https://open.spotify.com/track/6f8gNNCNSveUl4gxt7tzp0)
+- [One Day At A Time by Trilucid](https://open.spotify.com/track/5WHtYopcNXTHKZLBylpczo)
+- [Surge - PROFF &amp; Igor Garanin Remix by Above &amp; Beyond, PROFF, Igor Garanin](https://open.spotify.com/track/4X4Ef3NY0wPl3UIYg8anis)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
