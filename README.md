@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Shpigford/chops](https://github.com/Shpigford/chops)** - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Ghost - Fejká Remix by Mogli, Fejká](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q)
-- [Let You In (feat. East Forest) by ANNA, East Forest](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw)
-- [Outside by Henry Green](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO)
-- [High On Beat by Jan Blomqvist, Bloom Twins](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi)
-- [Goodbye by Monkey Safari](https://open.spotify.com/track/6bM8DrDD0hOuU0e06LKehN)
+- [In The Morning - Edit by Fritz Kalkbrenner](https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp)
+- [Need To Feel Loved - Nils Hoffmann Remix by Sander van Doorn, LVNDSCAPE, Nils Hoffmann](https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ)
+- [Secrets by coiro, Natascha Polké](https://open.spotify.com/track/2vaZhREadMU6ROBSiI8UXp)
+- [Cold by Rich Vom Dorf](https://open.spotify.com/track/7AYBT8D3HZfgCyMRPq4esL)
+- [Cloudline (Parra for Cuva Reimagination) by Aukai, Parra for Cuva](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
