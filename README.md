@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[juanfont/headscale](https://github.com/juanfont/headscale)** - An open source, self-hosted implementation of the Tailscale control server (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Home by Ben Böhmer, JONAH](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc)
-- [Alone by Lipless, Blue Noir](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln)
-- [Stranger by CRi](https://open.spotify.com/track/0kjgsXF5EwW97Q1IfcxvUh)
-- [Marula by Robby East, A.M.R](https://open.spotify.com/track/3XoKt6xyXoBXMTjLVRYVIw)
-- [Suvi by Pretty Pink](https://open.spotify.com/track/5EwMoEspweyiYHBpOrPTml)
+- [Manila Palm by Parra for Cuva](https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn)
+- [Break My Love by RÜFÜS DU SOL](https://open.spotify.com/track/7kWLSsy2KfSFPhbbNysnns)
+- [I Wonder by TMPST, Phil Odd](https://open.spotify.com/track/5Y8geGyP8d1gTko8OCn1y3)
+- [Memories by Sultan &#43; Shepard, The Kite String Tangle](https://open.spotify.com/track/4ahh5saslEyEmIp9InfK0L)
+- [Merovingian by Polar Inc.](https://open.spotify.com/track/4eRYKgTgrtQRHfivf67Ta8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
