@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[juanfont/headscale](https://github.com/juanfont/headscale)** - An open source, self-hosted implementation of the Tailscale control server (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Something You Need by Joachim Pastor, Signum](https://open.spotify.com/track/35YssL3Ul77kSZKpKLYkQl)
-- [So Long - Christian Loeffler Remix by Joris Voorn, Kid A, Christian Löffler](https://open.spotify.com/track/1Q4iH1FFNBigEIuMRlCs4H)
-- [How To Listen To This Album by Stereoclip](https://open.spotify.com/track/0Py4iHLT1CPUOB6UJCrKeq)
-- [Waiting All My Life by JLV](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi)
-- [Lophorina by Romain Garcia](https://open.spotify.com/track/7dSzEecLuNLE5FM5m1oOtr)
+- [Oze by Stereoclip, DIM KELLY](https://open.spotify.com/track/1C8JLFbJ59YxIqK6A5W6gI)
+- [Think Of Me by UPHORA, Kiiwi](https://open.spotify.com/track/3f7UTRlyaHtaf8zsUwvTaI)
+- [Again by Piece Wise, Ali Bakgor, onebit.](https://open.spotify.com/track/3TGqWqm5cxJCdEPPI9TZaT)
+- [Underwater by RÜFÜS DU SOL](https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT)
+- [Cynnes by il:lo](https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
