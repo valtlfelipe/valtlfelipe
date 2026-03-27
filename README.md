@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[juanfont/headscale](https://github.com/juanfont/headscale)** - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Always Will - Mees Salomé Remix by Tinlicker, Nathan Nicholson, Mees Salomé](https://open.spotify.com/track/2GaEPiwjVhSMrhX0zC5zJL)
-- [Don&#39;t Forget by Sultan &#43; Shepard](https://open.spotify.com/track/1KO1NYIrzaRVhU5fFWlgJI)
-- [Journal by Polar Inc.](https://open.spotify.com/track/7uBr4fZvDFskB5CvxXGOi2)
-- [So Cold by Spada, Steand](https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq)
-- [Alone by Jan Blomqvist, Malou](https://open.spotify.com/track/3b28eJuh4eW50jXjPKpf49)
+- [sometimes it’s scary but it’s still just you and me - Edit by Leaving Laurel](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG)
+- [I Am Free by Tinlicker, Jamie Irrepressible](https://open.spotify.com/track/1JRSuXtaM9ecKdwI91RjRa)
+- [I Won&#39;t Be Running by Nils Hoffmann, bailey](https://open.spotify.com/track/3fVwuXd1OqXHxV3fcojdmi)
+- [I Just Needed This by Polar Inc., Keepa](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl)
+- [Lost In Mind by Ben Böhmer, Malou](https://open.spotify.com/track/25ZrGWzFc0Trv3024g9BSg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
