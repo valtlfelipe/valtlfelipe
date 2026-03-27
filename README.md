@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[juanfont/headscale](https://github.com/juanfont/headscale)** - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Music For My Memories by Eric Luttrell](https://open.spotify.com/track/5XKHGX4oDY7DED7djRhafx)
-- [On A Clear Day, You Can See Forever - Edit by Catching Flies, Parra for Cuva](https://open.spotify.com/track/7fR7zOZyrIHUvP1zMOcLbk)
-- [Indigo by Sultan &#43; Shepard](https://open.spotify.com/track/4WqEBIMJMmGRiEwSyRzeEQ)
-- [Lost Home by Keanler](https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy)
-- [Canopée des Cîmes by Jan Blomqvist](https://open.spotify.com/track/4ktiNowV2inYBmjNCsm7XI)
+- [A Power Over Me by Joseph Ray, Elliot Vast](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di)
+- [Muted Mind by Jan Blomqvist](https://open.spotify.com/track/1G37NE6B3QmvPnWas85SIj)
+- [Keep The Night by Eric Luttrell](https://open.spotify.com/track/65cUt4d8j76mgCsd5Jetzk)
+- [Fool&#39;s Paradise by Mees Salomé, Celine Cairo](https://open.spotify.com/track/4Wlkt4TzeJv2sqiqo1O3W9)
+- [Mesmerized by Tinlicker](https://open.spotify.com/track/6Jv9KtyQuYivJqQXqa0ywb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
