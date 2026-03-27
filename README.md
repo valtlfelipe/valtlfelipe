@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[juanfont/headscale](https://github.com/juanfont/headscale)** - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [A Power Over Me by Joseph Ray, Elliot Vast](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di)
-- [Muted Mind by Jan Blomqvist](https://open.spotify.com/track/1G37NE6B3QmvPnWas85SIj)
-- [Keep The Night by Eric Luttrell](https://open.spotify.com/track/65cUt4d8j76mgCsd5Jetzk)
-- [Fool&#39;s Paradise by Mees Salomé, Celine Cairo](https://open.spotify.com/track/4Wlkt4TzeJv2sqiqo1O3W9)
-- [Mesmerized by Tinlicker](https://open.spotify.com/track/6Jv9KtyQuYivJqQXqa0ywb)
+- [Always Will - Mees Salomé Remix by Tinlicker, Nathan Nicholson, Mees Salomé](https://open.spotify.com/track/2GaEPiwjVhSMrhX0zC5zJL)
+- [Don&#39;t Forget by Sultan &#43; Shepard](https://open.spotify.com/track/1KO1NYIrzaRVhU5fFWlgJI)
+- [Journal by Polar Inc.](https://open.spotify.com/track/7uBr4fZvDFskB5CvxXGOi2)
+- [So Cold by Spada, Steand](https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq)
+- [Alone by Jan Blomqvist, Malou](https://open.spotify.com/track/3b28eJuh4eW50jXjPKpf49)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
