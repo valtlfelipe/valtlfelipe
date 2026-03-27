@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [So It Is etc. by Jan Blomqvist](https://open.spotify.com/track/6DcEypXociXXZGmF489CGL)
+- [together (we are more) by Leaving Laurel](https://open.spotify.com/track/4SVsZGDkweyT5CHhKluupu)
+- [Fofan by Sound Quelle](https://open.spotify.com/track/2NTYnb1THpNZ1IvVeoYQxJ)
+- [Underwater by Jan Blomqvist](https://open.spotify.com/track/3h8ngkUJ5tFXEM0TyCo0NR)
 - [More Than Human by Eric Luttrell](https://open.spotify.com/track/2BaHUOsnif6i7DywslE7Kc)
-- [Sleepwalker by Tinlicker](https://open.spotify.com/track/3Iq3oYSc1sDlerHlMDxkhk)
-- [Weightless by Ben Böhmer, Panama](https://open.spotify.com/track/70kAyzsYTZYAe5a7b0LYJf)
-- [Found You by Ourson](https://open.spotify.com/track/10UOI54T2mHd5i9Du9Yxw2)
-- [Same Mistake - But Different Remix by Jan Blomqvist](https://open.spotify.com/track/7wwA5QBXfOkeYHzNbbVXtT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
