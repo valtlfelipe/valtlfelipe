@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [So It Is etc. by Jan Blomqvist](https://open.spotify.com/track/6DcEypXociXXZGmF489CGL)
-- [together (we are more) by Leaving Laurel](https://open.spotify.com/track/4SVsZGDkweyT5CHhKluupu)
-- [Fofan by Sound Quelle](https://open.spotify.com/track/2NTYnb1THpNZ1IvVeoYQxJ)
-- [Underwater by Jan Blomqvist](https://open.spotify.com/track/3h8ngkUJ5tFXEM0TyCo0NR)
-- [More Than Human by Eric Luttrell](https://open.spotify.com/track/2BaHUOsnif6i7DywslE7Kc)
+- [This Version Of You - Joseph Ray Remix by ODESZA, Julianna Barwick, Joseph Ray](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy)
+- [Alone With You by Andrew Nagy, Ross Quinn, Gaby Gerlis](https://open.spotify.com/track/61C23J1jduYNQVe69XBupp)
+- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
+- [Guiding Light by Nils Hoffmann, Hi Frisco](https://open.spotify.com/track/5zyAV9rbipCxLAbvdhQQNV)
+- [The End by Elderbrook](https://open.spotify.com/track/7tu4R4fQFRH5iG8BvVVPjS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
