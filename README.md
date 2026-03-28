@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
+- [Evermore - Radio-Edit by Rich Vom Dorf](https://open.spotify.com/track/6ZUvKV4ocfRl3troasuumX)
 - [Show Me by Fahlberg, Paul Brenning](https://open.spotify.com/track/5z0i3PeMXigFNHvBdoc9w6)
 - [nostalgia by Tonic Walter](https://open.spotify.com/track/5FwPY70yxiwEcUXmvcczxb)
 - [Stay With Me by Lyke](https://open.spotify.com/track/2uWEmwttjMM2dtEoLQe48P)
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
-- [Everything All At Once by Jack Willard, Coastlines, MØØNE](https://open.spotify.com/track/6GVwBMdjAAgI59pyvxa1XR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
