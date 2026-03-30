@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hold on to Me by Into The Ether](https://open.spotify.com/track/1gdFAT4zwW1aRVma1tFobY)
-- [Change of Driver by Falden, PEARL](https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x)
-- [Inertia by Hessian](https://open.spotify.com/track/1DC4WYpBda2uT0lQ3v7evG)
-- [Orange Clouds by Guy Didden](https://open.spotify.com/track/3v8CbIi4uBw6O1F2D7PWuu)
-- [caught me falling by FIORE](https://open.spotify.com/track/755TuFgBJXIoVNfpAknobl)
+- [Tides by Andrew Nagy, bailey](https://open.spotify.com/track/4gDJRkaclDdMlwE9tlX9RG)
+- [Find Your Light - djimboh Remix by dwelyr, djimboh](https://open.spotify.com/track/6lnIzg2Phe4OdJiyGlrKpl)
+- [All We&#39;ve Got by aural](https://open.spotify.com/track/2hvYcuptJ3CNOHmF18Rocg)
+- [Where U Going by Neon Tide](https://open.spotify.com/track/7gwI6vjJKqpXkA1Zgfjn31)
+- [Further by Jack Willard](https://open.spotify.com/track/0sHhc7CSihE399hRj3hB9f)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
