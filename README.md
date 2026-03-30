@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [The Otherside by Twø8, Brendel](https://open.spotify.com/track/5DLnSdNmtfhxoHIhXWT9o5)
-- [Saving Me by CEAUS, MONTE](https://open.spotify.com/track/4BlTjj61rc7W8d6Y4wfybL)
-- [Holding On by TIAEM, Phoebe Tsen](https://open.spotify.com/track/7jPkl4L3TppOznxfTm3i9O)
-- [The Eternal Now by Temazkal, Gotlucky, Birdriot](https://open.spotify.com/track/4Y672loIEtpGycU7TWcaS0)
-- [Believe by Eynka](https://open.spotify.com/track/1Awgm6eNs5BojzttZePxeB)
+- [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
+- [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
+- [Light A Fire by Marc Benjamin](https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf)
+- [Fade Away by Warung](https://open.spotify.com/track/2F3j8fIePm0ZfWo5tGeRch)
+- [Rush by Nick Raff](https://open.spotify.com/track/6a3bGHEjsxMNliXgiZSMdA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
