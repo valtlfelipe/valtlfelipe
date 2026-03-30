@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [In The Dark by Robby East, MØØNE](https://open.spotify.com/track/59ZVuZZdCe1NvmgLfddCft)
-- [Middle Place by Ross Quinn](https://open.spotify.com/track/4taBWoBZks43l30TLocShD)
-- [Silver Lining by Falden](https://open.spotify.com/track/4O4W2KMtCo9Kpn8o9ExxYn)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
-- [Mine To Love by Ross Quinn](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D)
+- [The Otherside by Twø8, Brendel](https://open.spotify.com/track/5DLnSdNmtfhxoHIhXWT9o5)
+- [Saving Me by CEAUS, MONTE](https://open.spotify.com/track/4BlTjj61rc7W8d6Y4wfybL)
+- [Holding On by TIAEM, Phoebe Tsen](https://open.spotify.com/track/7jPkl4L3TppOznxfTm3i9O)
+- [The Eternal Now by Temazkal, Gotlucky, Birdriot](https://open.spotify.com/track/4Y672loIEtpGycU7TWcaS0)
+- [Believe by Eynka](https://open.spotify.com/track/1Awgm6eNs5BojzttZePxeB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
