@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Back Into Your Arms by Modera, Blonde Maze](https://open.spotify.com/track/2iNyL0usEQAElgWAeiXfSZ)
-- [Ebb &amp; Flow by Midnight Pass](https://open.spotify.com/track/1cWednRp2CUjfFU5tfhj7B)
-- [If You&#39;re Here With Me by Ross Quinn](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc)
-- [Alone With You by Andrew Nagy, Ross Quinn, Gaby Gerlis](https://open.spotify.com/track/61C23J1jduYNQVe69XBupp)
-- [Waves by Abroad](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM)
+- [More To Say by Banyan, LeyeT](https://open.spotify.com/track/1dZRHCs8L3X86HqkTf3csd)
+- [Sonic Serenity by fwd/slash](https://open.spotify.com/track/1QSATY0asrdgRYwiAFUKDX)
+- [Human All Along by Robby East, LeyeT](https://open.spotify.com/track/7Jd6BlwZIhHHNOA4EZJ20X)
+- [Coming Up (Hold On) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/0pAKG0jaOC5Zc6RykZzvgC)
+- [All The Stars by Lonely in the Rain, Saavan](https://open.spotify.com/track/3YDjXk0eiQm2Qd8cr5ssBV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
