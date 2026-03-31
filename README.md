@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Rust by Ben Böhmer](https://open.spotify.com/track/4XdQO9wxIeIy7eM65A5kk8)
-- [Take Me Home by Falden, FARLEY](https://open.spotify.com/track/05EXd5VOcSvEbjMhBn99dn)
-- [A Way Back Home by Slowtide](https://open.spotify.com/track/1h0ju1tme4nqYfdKAyQBhT)
-- [If You&#39;re Here With Me by Ross Quinn](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc)
-- [Forever by Leo Stannard](https://open.spotify.com/track/1eUj6Lzd0yzWW3HXQUtKgS)
+- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
+- [Calling by Abroad](https://open.spotify.com/track/6Z7jqjOqJimTfrcFJ6yN3u)
+- [Colors Turn To Gray by Robby East, Vanessa Arnolds](https://open.spotify.com/track/3e8gIv71jSgr6sjS2SB3Hx)
+- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
+- [Particles by Ross Quinn](https://open.spotify.com/track/1m88d4zQ1IUnqmQfaaUrN0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
