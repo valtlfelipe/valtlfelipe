@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Sweet Release by BYAS](https://open.spotify.com/track/2p7KdtO0VsGamtiMGswKHG)
-- [Wait and See by Koresma, Kumali](https://open.spotify.com/track/0ECNTQy7da0MXbnIKRnmFU)
-- [Still Grove by Bæthtubs](https://open.spotify.com/track/0WVJseYbzNwl3hGnoMcWHl)
-- [Saving Me by CEAUS, MONTE](https://open.spotify.com/track/4BlTjj61rc7W8d6Y4wfybL)
-- [Almost Home by Nadia Ali, Summer Is Calling, iRO](https://open.spotify.com/track/2bMATlixJ3kp39jCbg8rsf)
+- [Far Away by Sinova](https://open.spotify.com/track/68fwZWI4IMFJHXI4VAGoYf)
+- [I Feel Nothing by NM](https://open.spotify.com/track/2HV3o9zHVsx6b7GrlhlqHH)
+- [Resurrection by Sound Quelle, Jantine](https://open.spotify.com/track/2CanP22Mw6K7ldvPX1rrWt)
+- [Better Off by Gelida, Otto Palmborg](https://open.spotify.com/track/060fhpsuxVD7273RwK1XtF)
+- [Fade Away by Warung](https://open.spotify.com/track/2F3j8fIePm0ZfWo5tGeRch)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
