@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [More To Say by Banyan, LeyeT](https://open.spotify.com/track/1dZRHCs8L3X86HqkTf3csd)
-- [Sonic Serenity by fwd/slash](https://open.spotify.com/track/1QSATY0asrdgRYwiAFUKDX)
-- [Human All Along by Robby East, LeyeT](https://open.spotify.com/track/7Jd6BlwZIhHHNOA4EZJ20X)
-- [Coming Up (Hold On) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/0pAKG0jaOC5Zc6RykZzvgC)
-- [All The Stars by Lonely in the Rain, Saavan](https://open.spotify.com/track/3YDjXk0eiQm2Qd8cr5ssBV)
+- [Sweet Release by BYAS](https://open.spotify.com/track/2p7KdtO0VsGamtiMGswKHG)
+- [Wait and See by Koresma, Kumali](https://open.spotify.com/track/0ECNTQy7da0MXbnIKRnmFU)
+- [Still Grove by Bæthtubs](https://open.spotify.com/track/0WVJseYbzNwl3hGnoMcWHl)
+- [Saving Me by CEAUS, MONTE](https://open.spotify.com/track/4BlTjj61rc7W8d6Y4wfybL)
+- [Almost Home by Nadia Ali, Summer Is Calling, iRO](https://open.spotify.com/track/2bMATlixJ3kp39jCbg8rsf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
