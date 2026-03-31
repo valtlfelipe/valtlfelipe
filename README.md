@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [A Little Life by Little Foot, Zemi Gold](https://open.spotify.com/track/0F4mAm9xxTxcbfOH8PkltL)
-- [Calling by Abroad](https://open.spotify.com/track/6Z7jqjOqJimTfrcFJ6yN3u)
-- [Colors Turn To Gray by Robby East, Vanessa Arnolds](https://open.spotify.com/track/3e8gIv71jSgr6sjS2SB3Hx)
-- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
-- [Particles by Ross Quinn](https://open.spotify.com/track/1m88d4zQ1IUnqmQfaaUrN0)
+- [One Day by Falden](https://open.spotify.com/track/2wwlAcqUIcvHNi3w2YWkZv)
+- [Breathing Wild by Banyan](https://open.spotify.com/track/6aFVJRO6TCagVV0IqWN4mQ)
+- [Botanica by fwd/slash](https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs)
+- [Be Somebody by Midnight Pass](https://open.spotify.com/track/7vaJ4jJfxQVoJOGujY8xOS)
+- [Hard To Breathe by Ross Quinn](https://open.spotify.com/track/5wh6QZz5IYKHBPD9krSDu1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
