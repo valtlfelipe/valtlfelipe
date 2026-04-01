@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Happy Again by hexale, Phoebe Tsen](https://open.spotify.com/track/0pEes7u46aS68jrSz6j3xe)
-- [There For You by Banaati, Jako Diaz](https://open.spotify.com/track/5vAU1d5B4vcg4Wq9CRhEuE)
-- [Catching Fire - Little Foot Remix by Lipless, Nattica, Little Foot](https://open.spotify.com/track/3DcGJA9raC7nsmtMtkKDm4)
-- [Before I Let Go by Max Blücher](https://open.spotify.com/track/0DQhPNiwN5AH2jVYF4yrjY)
-- [Sunshine by Sound Quelle](https://open.spotify.com/track/5V54QSIipmlyMnzbNOvYVJ)
+- [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
+- [One Last Touch by Hessian, LAR, Keepa](https://open.spotify.com/track/110op23Y2YOaK04f7ahX26)
+- [Calling Out by PRAANA](https://open.spotify.com/track/6jeHmqNOkITpU25v4uahii)
+- [Take Me Home - Mixed by Falden, FARLEY](https://open.spotify.com/track/0fAVnUI8qOgDWsxAOlY9CQ)
+- [Let Go by Banyan, Jyll](https://open.spotify.com/track/1n5Xfoc0bUeZgfO3elCv7y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
