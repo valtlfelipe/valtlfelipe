@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
-- [One Last Touch by Hessian, LAR, Keepa](https://open.spotify.com/track/110op23Y2YOaK04f7ahX26)
-- [Calling Out by PRAANA](https://open.spotify.com/track/6jeHmqNOkITpU25v4uahii)
-- [Take Me Home - Mixed by Falden, FARLEY](https://open.spotify.com/track/0fAVnUI8qOgDWsxAOlY9CQ)
-- [Let Go by Banyan, Jyll](https://open.spotify.com/track/1n5Xfoc0bUeZgfO3elCv7y)
+- [Floating - Extended Mix by Klur](https://open.spotify.com/track/7KyxK5GxsKjuqycJCEKrMR)
+- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
+- [Just One Way by Into The Ether](https://open.spotify.com/track/3QBnsAHwmmRdOqH7bzidRs)
+- [Aquatic by Nora En Pure](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK)
+- [Red String by Spark030, Yellowitz](https://open.spotify.com/track/5JwPrdM0WIvm4Muc90Iqr1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
