@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Just Hold On by Jordin Post](https://open.spotify.com/track/5rALG3uffPJW7cOx7RcVMa)
-- [Supermassive by Jack Willard](https://open.spotify.com/track/2ZsvbXnRPuCBOqZqbvKFcX)
-- [Open Sea by HËRE](https://open.spotify.com/track/2WDCB4bTArj5tx1BQL6K2z)
-- [Only Want You by MXV](https://open.spotify.com/track/0u5DIHmlyxroXRFXBMqQDO)
-- [Desire by Spark030](https://open.spotify.com/track/6uEQVPSfyUeoeDPkufeshe)
+- [Balao by Dokho](https://open.spotify.com/track/4Xs4tIUdVuRKUJmH9VZyyo)
+- [Solid Ground by Marc Wiese, Gabi Juliano](https://open.spotify.com/track/5uF3feCtXIELkY396WUg5e)
+- [Faded by Stendahl, Fløa](https://open.spotify.com/track/4smq9RvAACeKR0fCkLYv8x)
+- [Roots by Klur](https://open.spotify.com/track/04F3ezdihPP6qeEOWI4ehJ)
+- [Get High by Kaz James](https://open.spotify.com/track/27n6pyuG14KbNViU8QFZAq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
