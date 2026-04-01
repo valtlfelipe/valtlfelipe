@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[watzon/pindrop](https://github.com/watzon/pindrop)** - A native macOS menu bar dictation app using local speech-to-text with WhisperKit (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Balao by Dokho](https://open.spotify.com/track/4Xs4tIUdVuRKUJmH9VZyyo)
-- [Solid Ground by Marc Wiese, Gabi Juliano](https://open.spotify.com/track/5uF3feCtXIELkY396WUg5e)
-- [Faded by Stendahl, Fløa](https://open.spotify.com/track/4smq9RvAACeKR0fCkLYv8x)
-- [Roots by Klur](https://open.spotify.com/track/04F3ezdihPP6qeEOWI4ehJ)
-- [Get High by Kaz James](https://open.spotify.com/track/27n6pyuG14KbNViU8QFZAq)
+- [Kingfisher by TOMB](https://open.spotify.com/track/70CB8jQljPe4C8UQBvJnGA)
+- [Who Knew by Spark030](https://open.spotify.com/track/5tAQ2LreIipP95HJuQxN1W)
+- [After The Rain by Klur, Ole-Bjørn Talstad](https://open.spotify.com/track/6lfY9VMjAzApaRGHqRh6TZ)
+- [What A Feeling - Mixed by Courtney Storm, Finley Brückner](https://open.spotify.com/track/3Pey07vPcWT4Y6QgvVg49K)
+- [When I Need You by PRAANA, Freddie Elmberg](https://open.spotify.com/track/2BLtjeTuLIZLhhFjEK1tkN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
