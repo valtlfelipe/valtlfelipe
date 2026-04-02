@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nylo-core/nylo](https://github.com/nylo-core/nylo)** - Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo&#39;s opinionated approach to building Flutter apps. Develop your next idea  ⚡️ (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Turn The Lights Off by Justė, Jaxstyle, Jon](https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb)
-- [Upside Down by Jaden Bojsen, David Guetta](https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW)
-- [Toxic Symphony by Niklas Dee, TUN](https://open.spotify.com/track/5sf7RuZBQftrEfrK76uiGx)
-- [Love In Slow Motion (Tritonia 460) by Robby East, Kuala](https://open.spotify.com/track/3Sp7ji9b6y9tFZBms3UPIa)
-- [Like Home by Robby East](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A)
+- [What A Life by John Summit, Guz, Stevie Appleton](https://open.spotify.com/track/1KbLVz3ZcdUOt2wBXqU2cG)
+- [heaven in your arms by salute, Jessie Ware](https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi)
+- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
+- [THIS IS FOR YOU (feat. Niki &amp; the Dove) by KC Lights, Niki &amp; The Dove](https://open.spotify.com/track/2EY0iypCKjix9tBeaGvm03)
+- [Lucky (feat. Remi Wolf) by Zedd, Remi Wolf](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
