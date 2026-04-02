@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac)** - Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents  (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Beso (Fruta Fresca) by Wakyin, Carlos Vives](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG)
-- [Don&#39;t Stop by Prospa](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt)
-- [Teahupoo by Nora En Pure](https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR)
-- [Edge of Desire by Jonas Blue, Malive](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT)
-- [Closer To The Floor by Jazzy, Ankhoï](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu)
+- [Addicted (feat. TIMID.) by Naarly, Daytona, LEWS, FIRSTCLASS, TIMID.](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE)
+- [Starry Night - Edit by Peggy Gou](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz)
+- [The Shiver by Jayda G](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A)
+- [In My Life (Oh Ayah) by Edward Maya, AFRONOM, vidi roca](https://open.spotify.com/track/1LzvTGwdQEnAy9OexQ3TYs)
+- [God Gave Me Feet For Dancing (Tasty Or Not Remix) by Ezra Collective, Yazmin Lacey, Tasty Or Not](https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
