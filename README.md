@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nylo-core/nylo](https://github.com/nylo-core/nylo)** - Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo&#39;s opinionated approach to building Flutter apps. Develop your next idea  ⚡️ (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Be Free by Tom Brownlow](https://open.spotify.com/track/1dTXFqQzF0VMcEyWJmNOkF)
-- [In My Flame by Sevenkey, Lexolee](https://open.spotify.com/track/6ri5zH5DWPlvbUpQ7qmjDq)
-- [Bitter by GHALIA, Antrex](https://open.spotify.com/track/34ke2c1cUP0lDJ78HwhJAr)
-- [Run Away - Henry Chris x 4Rain x Ian Storm Remix by Ian Storm, Henry Chris, 4Rain, Ron van den Beuken, Menno](https://open.spotify.com/track/5kHsOfhlc3jPiGd3Zrk9jM)
-- [Got the Feeling by Under Above](https://open.spotify.com/track/3EBADT1RNsxmM5XHRKOp5Z)
+- [Dream of Me by Ardiyan, Albi](https://open.spotify.com/track/1NAXSEbib0FxJ50vDZSROh)
+- [You by Skyles](https://open.spotify.com/track/1fkeRBuLeg6PIXWirOwDNQ)
+- [Pray 4 More by Ian Storm, John Laurant, Ron van den Beuken](https://open.spotify.com/track/3p7SmVkR87zDFkdG1dXouB)
+- [Emotion by Duanke](https://open.spotify.com/track/4J52LFccNh2WvsOpjlj6lx)
+- [True Love by GiBoss](https://open.spotify.com/track/6Cj6StQ8ZnXpqM4EIr60sf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
