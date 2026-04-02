@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac)** - Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents  (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Addicted (feat. TIMID.) by Naarly, Daytona, LEWS, FIRSTCLASS, TIMID.](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE)
-- [Starry Night - Edit by Peggy Gou](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz)
-- [The Shiver by Jayda G](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A)
-- [In My Life (Oh Ayah) by Edward Maya, AFRONOM, vidi roca](https://open.spotify.com/track/1LzvTGwdQEnAy9OexQ3TYs)
-- [God Gave Me Feet For Dancing (Tasty Or Not Remix) by Ezra Collective, Yazmin Lacey, Tasty Or Not](https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1)
+- [Maithori by Nitefreak, Frigid Armadillo, IDRIS, Nes Mburu](https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7)
+- [Uncomfortable by Jayda G](https://open.spotify.com/track/5qAwZr4jOrI0SueP421ivO)
+- [Jackie B by &amp;friends, JOSEPH (CH), Brent Faiyaz](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa)
+- [Khanya by Naarly, ANT Mifsud, Thabza De Soul](https://open.spotify.com/track/0bfTmmi8coBEX3amjhcEEY)
+- [Don&#39;t Wake Me Up by James Hype](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
