@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nylo-core/nylo](https://github.com/nylo-core/nylo)** - Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo&#39;s opinionated approach to building Flutter apps. Develop your next idea  ⚡️ (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
-- [I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) by Oliver Heldens, Nile Rodgers, House Gospel Choir](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY)
-- [Say It To Me by Otto Knows](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ)
-- [You Are My High by MAXI MERAKI, Nico de Andrea](https://open.spotify.com/track/5casx9bgvIoxPJ4jN6cLfX)
-- [Think About Us by Sonny Fodera, D.O.D, Poppy Baskcomb](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj)
+- [Come Back 2 Me by Chloé Caillet, Andre Zimmer](https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc)
+- [Come Back 2 Me by Chloé Caillet, Andre Zimmer](https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc)
+- [All Day (feat. Nonô) by Welshy, Nonô](https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R)
+- [Everything by Luuk Van Dijk](https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM)
+- [Eternity by Timmy Trumpet, KSHMR, Bassjackers](https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
