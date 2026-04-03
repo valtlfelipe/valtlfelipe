@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nylo-core/nylo](https://github.com/nylo-core/nylo)** - Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo&#39;s opinionated approach to building Flutter apps. Develop your next idea  ⚡️ (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [What A Life by John Summit, Guz, Stevie Appleton](https://open.spotify.com/track/1KbLVz3ZcdUOt2wBXqU2cG)
 - [Addicted - Zerb Acid VIP by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X)
 - [Relax My Eyes by ANOTR, Abel Balder](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH)
 - [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
 - [Phoenix by Marshmello, Portugal. The Man](https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ)
-- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
