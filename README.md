@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nylo-core/nylo](https://github.com/nylo-core/nylo)** - Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo&#39;s opinionated approach to building Flutter apps. Develop your next idea  ⚡️ (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Nice to Meet You by Imagine Dragons](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7)
-- [Celestial by Ed Sheeran](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7)
-- [Where Are You by Danni Gato, Nelson Freitas, Djodje](https://open.spotify.com/track/2311Bw0y6vkQavhTgoJvVp)
-- [About Damn Time by Lizzo](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P)
-- [Late Night Talking by Harry Styles](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK)
+- [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
+- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
+- [Slow It Down by Benson Boone](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr)
+- [Si Antes Te Hubiera Conocido by KAROL G](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k)
+- [Cynical by twocolors, Safri Duo, Chris de Sarandy](https://open.spotify.com/track/4fLnoXqsxHZFvGKppc7kCr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
