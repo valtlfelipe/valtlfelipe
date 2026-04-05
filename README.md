@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nylo-core/nylo](https://github.com/nylo-core/nylo)** - Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo&#39;s opinionated approach to building Flutter apps. Develop your next idea  ⚡️ (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Let You Go by Diplo, TSHA, Kareen Lomax](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm)
-- [Time Never Stops (with Yung Bae) by Kaleena Zanders, Yung Bae](https://open.spotify.com/track/3KsqGmLA8hPcf143S7DP5T)
-- [Best Day of My Life (BUNT. Version) (feat. Tom Odell) by BUNT., Tom Odell](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp)
-- [How You Feel (ft Leven Kali) by ANOTR, Leven Kali, Erik Bandt](https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL)
-- [I Feel The Love by MALUGI, Sam Harper](https://open.spotify.com/track/4EFiddelscAtM5atK22z61)
+- [Good Feeling (feat. Rhys Lewis) by Bakermat, Rhys Lewis](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO)
+- [Heaven Takes You Home (feat. Connie Constance) by Swedish House Mafia, Connie Constance](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4)
+- [Hold Me by Bag Raiders](https://open.spotify.com/track/2JpFgRepWLFpY7Lrcd76nU)
+- [Pyramids by Otto Knows, Alex Aris](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL)
+- [Dance With You by Mohtiv](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
