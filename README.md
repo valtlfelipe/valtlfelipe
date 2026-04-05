@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nylo-core/nylo](https://github.com/nylo-core/nylo)** - Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo&#39;s opinionated approach to building Flutter apps. Develop your next idea  ⚡️ (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [I Can Do It With a Broken Heart by Taylor Swift](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy)
+- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3)
+- [Save My Love by Kygo, Khalid, Gryffin](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8)
+- [Unwritten by Natasha Bedingfield](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf)
 - [I&#39;m Good (Blue) by David Guetta, Bebe Rexha](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK)
-- [Stumblin&#39; In by CYRIL](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z)
-- [Slow It Down by Benson Boone](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr)
-- [Si Antes Te Hubiera Conocido by KAROL G](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k)
-- [Cynical by twocolors, Safri Duo, Chris de Sarandy](https://open.spotify.com/track/4fLnoXqsxHZFvGKppc7kCr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
