@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chroma-core/chroma](https://github.com/chroma-core/chroma)** - Data infrastructure for AI (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Feel You Closer by P.A.V](https://open.spotify.com/track/7zxHORTOJ6g4zQw1NNu6jk)
-- [Remember by Midnight Pass, Ruffnux](https://open.spotify.com/track/6JqO8gCbkx5eekwKyTr71o)
-- [Stranger by CRi](https://open.spotify.com/track/0kjgsXF5EwW97Q1IfcxvUh)
-- [Afterlife by Spark030](https://open.spotify.com/track/1o0M2d6ciiLBZxpt4vdHMv)
-- [Journal by Polar Inc.](https://open.spotify.com/track/7uBr4fZvDFskB5CvxXGOi2)
+- [Night Time by Borneland, Falcon Punch, Line Gøttsche](https://open.spotify.com/track/7GF34WD11f3Uhggwy0WPwh)
+- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
+- [My Habitat by J Ribbon](https://open.spotify.com/track/4QSM4MWr5FrEOiVSX9qdD7)
+- [Pearly by Polar Inc.](https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn)
+- [Let Go by Banyan, Jyll](https://open.spotify.com/track/1n5Xfoc0bUeZgfO3elCv7y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
