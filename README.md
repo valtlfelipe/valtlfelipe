@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chroma-core/chroma](https://github.com/chroma-core/chroma)** - Data infrastructure for AI (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Need Your Love by KENORA](https://open.spotify.com/track/3bBR1G0mFMxH8HrEULVpnP)
-- [Nemora by Nox Vahn, Marsh](https://open.spotify.com/track/1CBs1VWJO7O6OXyxkyPhq6)
-- [Break Away by Avira, CLOVER](https://open.spotify.com/track/2xf2qjt3q736YSN4UQQgzL)
-- [Into The Light by LEV](https://open.spotify.com/track/7vVZG9bBNbLlU3TVaAIqjb)
-- [Valleys of Perspective by Sour](https://open.spotify.com/track/37qLCIy8Mp7Gy8eaCFscvC)
+- [Safe &amp; Sound by Fred Ocean](https://open.spotify.com/track/30vzQCs50vfVKhykCLXky1)
+- [People On The Street by NOAM](https://open.spotify.com/track/6UzIAU0kypLoxxX8oRkBdC)
+- [Typhoon by Alex Baker, Hanging Valleys](https://open.spotify.com/track/6ERnooV7BG8KTQY41ZEVH0)
+- [Weightless by Coastlines](https://open.spotify.com/track/6ZXW5cPYaBtedNa6bme3qu)
+- [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
