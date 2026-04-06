@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chroma-core/chroma](https://github.com/chroma-core/chroma)** - Data infrastructure for AI (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Safe &amp; Sound by Fred Ocean](https://open.spotify.com/track/30vzQCs50vfVKhykCLXky1)
-- [People On The Street by NOAM](https://open.spotify.com/track/6UzIAU0kypLoxxX8oRkBdC)
-- [Typhoon by Alex Baker, Hanging Valleys](https://open.spotify.com/track/6ERnooV7BG8KTQY41ZEVH0)
-- [Weightless by Coastlines](https://open.spotify.com/track/6ZXW5cPYaBtedNa6bme3qu)
-- [Heartbeat by Hessian, Courtney Storm](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e)
+- [Nowhere To Run by LTN](https://open.spotify.com/track/6msK490czzcTEQoEcQzhNO)
+- [You &amp; I by sundraze](https://open.spotify.com/track/51aGVyeL6SzXPGKNZWgWqm)
+- [Teenage Heart by Jones Meadow, Nina Carr](https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a)
+- [Cold Light - 6am Remix by KC Lights, Leo Stannard](https://open.spotify.com/track/6BRsln8RDWDl91YmJpCYxY)
+- [In My Dreams - Mayavin Festival by Edward Maya, SINE](https://open.spotify.com/track/0z1drg1fQ3WFTguRJCtwwq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
