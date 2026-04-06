@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chroma-core/chroma](https://github.com/chroma-core/chroma)** - Data infrastructure for AI (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [For You by Jack Willard, Coastlines](https://open.spotify.com/track/6qJXWYGrzDLMS7aGIVmtkx)
-- [Pastel by Polar Inc.](https://open.spotify.com/track/5QpKqIBqSBy5ji4GPJ1UIN)
-- [Villain by BLANCE](https://open.spotify.com/track/5mIGBgbSbpd8djGeeqRIYE)
-- [To The End by Trilucid, Esque](https://open.spotify.com/track/77a4iUk7a9Rtzqzd4gHuTz)
-- [Tide by Jones Meadow](https://open.spotify.com/track/1nbB8u4l2RdP5XRAMbiTzm)
+- [Ebb &amp; Flow by Midnight Pass](https://open.spotify.com/track/1cWednRp2CUjfFU5tfhj7B)
+- [That Something by Jones Meadow](https://open.spotify.com/track/0iDa6wPLZsUXHsJODa9Neo)
+- [Never Change by Otherwish](https://open.spotify.com/track/3KImELoRJDwA1IXqwB8d0r)
+- [A Picture of Time by dvine](https://open.spotify.com/track/0ds7Buz4Rnekgi9TU4F8uf)
+- [St Tropez to L.A. by Everlow](https://open.spotify.com/track/4UfXRhHMQdQxpADO9ssQ8v)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
