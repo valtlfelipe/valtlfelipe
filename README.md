@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chroma-core/chroma](https://github.com/chroma-core/chroma)** - Data infrastructure for AI (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Night Time by Borneland, Falcon Punch, Line Gøttsche](https://open.spotify.com/track/7GF34WD11f3Uhggwy0WPwh)
-- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
-- [My Habitat by J Ribbon](https://open.spotify.com/track/4QSM4MWr5FrEOiVSX9qdD7)
-- [Pearly by Polar Inc.](https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn)
-- [Let Go by Banyan, Jyll](https://open.spotify.com/track/1n5Xfoc0bUeZgfO3elCv7y)
+- [Shining For You by NOAM](https://open.spotify.com/track/5EKwTugs7zjQhRwwfcCGD3)
+- [All My Light - Extended Mix by Boy North](https://open.spotify.com/track/0Ver2M9ACOsKQemaEAYCft)
+- [U by Avoure](https://open.spotify.com/track/13Xh2UHkp9zm22FtDU9wXi)
+- [Out Of My Head - Original Mix by Satin Jackets](https://open.spotify.com/track/7xkRfnn9VM74l98qoF44OJ)
+- [Blue Skies by Farius](https://open.spotify.com/track/1jUHblHBlUn9vYb3FEfCNn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
