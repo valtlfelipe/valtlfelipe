@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Novanda by Kaiyan](https://open.spotify.com/track/3OhWUKiA8Rti6MIwohfDtj)
-- [Feel It All by mölly](https://open.spotify.com/track/7dgy6Px3ND1PRThRZlOwbm)
-- [Source by Lucas Chambon](https://open.spotify.com/track/0uSqY3GMZ9rZYdrI3SmLmO)
-- [Shadow Of You by Satin Jackets, David Harks](https://open.spotify.com/track/7HtniEb8zyraHpZihHc2O4)
-- [Sequoia by Klur](https://open.spotify.com/track/4lJyaozNlyhNcA5uYECgZZ)
+- [Essence by Alex Baker, Hanging Valleys](https://open.spotify.com/track/6KmpVcq4W17jitUUeMD0Ge)
+- [Aura by Avoure](https://open.spotify.com/track/15licm1kGcle1EmWWuLRHI)
+- [Herealways - Extended Mix by Jordin Post](https://open.spotify.com/track/61M5r5AWEWpF1i73Qqpsmi)
+- [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
+- [Salomea by Dokho](https://open.spotify.com/track/73E3LsSJByd9ksH9wm8SWR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
