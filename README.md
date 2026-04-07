@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [In My Blood by LEV](https://open.spotify.com/track/6YgqLxaw7WHzU7JSKlgg1N)
-- [Somebody by TMPST, Maynørr, Courtney Storm](https://open.spotify.com/track/6r43Av5BfZ0geR5P9FMG2I)
-- [Amaze by Viva La Panda](https://open.spotify.com/track/2P4HBOx1dQZ8otT75pBWQC)
-- [Back To The Roots by Avenue One, Saya](https://open.spotify.com/track/54sKbVwmSouwyDgTLYO4kQ)
-- [Better This Way by MR TOUT LE MONDE](https://open.spotify.com/track/1T14ToMrlI9nqzAqJ44ejv)
+- [Born To Live by Gavin Moss](https://open.spotify.com/track/3oG69Y9bPTQJp4M3U5KKNg)
+- [Holding Anchor by Giants&#39; Nest](https://open.spotify.com/track/73l7YNceUVRyggXqCajwlZ)
+- [Delight by Ran the Man](https://open.spotify.com/track/2PYZ34ym3DWHfoOz7TDJFi)
+- [Oceade (Tritonia 464) by Dokho](https://open.spotify.com/track/6dyEkYWC8sPvG3UpHYVGgz)
+- [Lakeside Memory by TAPI](https://open.spotify.com/track/01WCIMJnK5KN6G1pW2ki4x)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
