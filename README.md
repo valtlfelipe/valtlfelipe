@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Essence by Alex Baker, Hanging Valleys](https://open.spotify.com/track/6KmpVcq4W17jitUUeMD0Ge)
-- [Aura by Avoure](https://open.spotify.com/track/15licm1kGcle1EmWWuLRHI)
-- [Herealways - Extended Mix by Jordin Post](https://open.spotify.com/track/61M5r5AWEWpF1i73Qqpsmi)
-- [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
-- [Salomea by Dokho](https://open.spotify.com/track/73E3LsSJByd9ksH9wm8SWR)
+- [In My Blood by LEV](https://open.spotify.com/track/6YgqLxaw7WHzU7JSKlgg1N)
+- [Somebody by TMPST, Maynørr, Courtney Storm](https://open.spotify.com/track/6r43Av5BfZ0geR5P9FMG2I)
+- [Amaze by Viva La Panda](https://open.spotify.com/track/2P4HBOx1dQZ8otT75pBWQC)
+- [Back To The Roots by Avenue One, Saya](https://open.spotify.com/track/54sKbVwmSouwyDgTLYO4kQ)
+- [Better This Way by MR TOUT LE MONDE](https://open.spotify.com/track/1T14ToMrlI9nqzAqJ44ejv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
