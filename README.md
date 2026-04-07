@@ -3,9 +3,9 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[zmeyer44/Locker](https://github.com/zmeyer44/Locker)** (today)
-- **[razvandimescu/numa](https://github.com/razvandimescu/numa)** - Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides (4 days ago)
-- **[wesbos/JSON-Alexander](https://github.com/wesbos/JSON-Alexander)** - A really good JSON viewer browser Extension (5 days ago)
+- **[zmeyer44/Locker](https://github.com/zmeyer44/Locker)** (1 day ago)
+- **[razvandimescu/numa](https://github.com/razvandimescu/numa)** - Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides (5 days ago)
+- **[wesbos/JSON-Alexander](https://github.com/wesbos/JSON-Alexander)** - A really good JSON viewer browser Extension (6 days ago)
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 - **[chroma-core/chroma](https://github.com/chroma-core/chroma)** - Data infrastructure for AI (1 week ago)
 
