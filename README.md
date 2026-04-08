@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
-- [Playing With Fire - Mixed by Anriu](https://open.spotify.com/track/4vS8q4tin3Hv1sK6Ea37X0)
-- [Reflections by Archaellum](https://open.spotify.com/track/1VjwgDb5mdNIyUoTBzynZl)
-- [True Love by Midnight Mystery Club](https://open.spotify.com/track/0ZBwE5rOStMylP8W033Mrd)
-- [Mukiwa by Jones Meadow](https://open.spotify.com/track/5mveKfMdmJHCSsQw55u5PW)
+- [The Way That I Love You by Alex Adair](https://open.spotify.com/track/63AxCkd59ZcPtcvPuwD3DF)
+- [We Both Know It by PRAANA, RKTKT, lydi lynn](https://open.spotify.com/track/6kyfRxQHN3FH9v09FdcSf5)
+- [I&#39;m Home by RUSSI](https://open.spotify.com/track/2I3gnUny2ZUrtjOP4dTSMk)
+- [sometimes it’s scary but it’s still just you and me - Edit by Leaving Laurel](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG)
+- [Night Time - Dub Version by Borneland, Falcon Punch, Line Gøttsche](https://open.spotify.com/track/4PEVy36gSjf0UG6eyXhWO9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
