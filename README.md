@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Tide by Jones Meadow](https://open.spotify.com/track/1nbB8u4l2RdP5XRAMbiTzm)
-- [Adams Hill by Tensnake](https://open.spotify.com/track/11AO4MUjj7LTqCFJtXbtjI)
-- [Coming Up (Hold On) (Tritonia 414) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/54MhDL8Q3zAvXXQLhbncU9)
-- [Lifetime by J Ribbon](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL)
-- [Nowhere To Run by LTN](https://open.spotify.com/track/6msK490czzcTEQoEcQzhNO)
+- [Honest by Midnight Pass](https://open.spotify.com/track/3iHfTiU67hOErucVUmCQ7i)
+- [Doubts by Jones Meadow](https://open.spotify.com/track/0abej8jYAIKM5pE7yGCuzA)
+- [Dragonfruit by aural](https://open.spotify.com/track/7e5ABnsSrqePMfS9ZHpngf)
+- [Anchor by Alex Baker, Hanging Valleys](https://open.spotify.com/track/65DnxeG8nzkCpP1X234htf)
+- [Sweetest Thing by Jody Wisternoff](https://open.spotify.com/track/3fJ6U4vTGK2Z2Sdusp9x2U)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
