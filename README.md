@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [To The Other Side by Miguel Migs, Stephen James](https://open.spotify.com/track/1xcQtpfC0zlbSQtdNrR1eR)
-- [Rainbow Racer by LEV](https://open.spotify.com/track/36aYNzGWjKTzl1e6Wscjmj)
-- [Kinetic by Midnight Pass, Koresma](https://open.spotify.com/track/3ZwWFKXu8A3NwIPu7tnF8T)
-- [Eyes Off You - Extended Mix by Polar Inc., XIRA](https://open.spotify.com/track/70NkXpCVnSlKP3neuxiemd)
-- [Exploring The Mind by LTN, Ghostbeat](https://open.spotify.com/track/4YXcmuhTyk1b9X9ObiwsRd)
+- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
+- [Playing With Fire - Mixed by Anriu](https://open.spotify.com/track/4vS8q4tin3Hv1sK6Ea37X0)
+- [Reflections by Archaellum](https://open.spotify.com/track/1VjwgDb5mdNIyUoTBzynZl)
+- [True Love by Midnight Mystery Club](https://open.spotify.com/track/0ZBwE5rOStMylP8W033Mrd)
+- [Mukiwa by Jones Meadow](https://open.spotify.com/track/5mveKfMdmJHCSsQw55u5PW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
