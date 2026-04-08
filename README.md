@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [That Something by Jones Meadow](https://open.spotify.com/track/0iDa6wPLZsUXHsJODa9Neo)
-- [Never Change by Otherwish](https://open.spotify.com/track/3KImELoRJDwA1IXqwB8d0r)
-- [A Picture of Time by dvine](https://open.spotify.com/track/0ds7Buz4Rnekgi9TU4F8uf)
-- [St Tropez to L.A. by Everlow](https://open.spotify.com/track/4UfXRhHMQdQxpADO9ssQ8v)
-- [Open Sea by HËRE](https://open.spotify.com/track/2WDCB4bTArj5tx1BQL6K2z)
+- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
+- [My Habitat by J Ribbon](https://open.spotify.com/track/4QSM4MWr5FrEOiVSX9qdD7)
+- [Pearly by Polar Inc.](https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn)
+- [Let Go by Banyan, Jyll](https://open.spotify.com/track/1n5Xfoc0bUeZgfO3elCv7y)
+- [Forever by Hessian, Yellowitz](https://open.spotify.com/track/5Ia5F9lPczHoYXOCo1TyRq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
