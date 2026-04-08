@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Dawn by Alex Baker](https://open.spotify.com/track/5le3iQlTHQtRy3TuviaUJI)
-- [Autumn - Original Mix by CJ RcM](https://open.spotify.com/track/7lyO4SepIm4i9LSP2VM9kn)
-- [Tell Me (feat. Water Park) by PINES, Water Park](https://open.spotify.com/track/1vzFXM7T5oc2KYGLZcqJda)
-- [Desire by D-FRA, Avondzy, Kodrek](https://open.spotify.com/track/1Cxl3z5UspUY6YDDx0l39C)
-- [Feel This Way by MOTSA, Jody Wisternoff, James Grant](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv)
+- [Break Away by Avira, CLOVER](https://open.spotify.com/track/2xf2qjt3q736YSN4UQQgzL)
+- [Into The Light by LEV](https://open.spotify.com/track/7vVZG9bBNbLlU3TVaAIqjb)
+- [Valleys of Perspective by Sour](https://open.spotify.com/track/37qLCIy8Mp7Gy8eaCFscvC)
+- [When the Sun Goes Down by Giulio Cercato](https://open.spotify.com/track/1EGFggpJ2kU4JapDg8I0oO)
+- [Youth Thoughts by N-ZTON, Mitrani](https://open.spotify.com/track/2Mfpd9jeLeWKiflkErVhEf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
