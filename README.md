@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Break Away by Avira, CLOVER](https://open.spotify.com/track/2xf2qjt3q736YSN4UQQgzL)
-- [Into The Light by LEV](https://open.spotify.com/track/7vVZG9bBNbLlU3TVaAIqjb)
-- [Valleys of Perspective by Sour](https://open.spotify.com/track/37qLCIy8Mp7Gy8eaCFscvC)
-- [When the Sun Goes Down by Giulio Cercato](https://open.spotify.com/track/1EGFggpJ2kU4JapDg8I0oO)
-- [Youth Thoughts by N-ZTON, Mitrani](https://open.spotify.com/track/2Mfpd9jeLeWKiflkErVhEf)
+- [Tide by Jones Meadow](https://open.spotify.com/track/1nbB8u4l2RdP5XRAMbiTzm)
+- [Adams Hill by Tensnake](https://open.spotify.com/track/11AO4MUjj7LTqCFJtXbtjI)
+- [Coming Up (Hold On) (Tritonia 414) - Dokho Remix by Farius, Dokho](https://open.spotify.com/track/54MhDL8Q3zAvXXQLhbncU9)
+- [Lifetime by J Ribbon](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL)
+- [Nowhere To Run by LTN](https://open.spotify.com/track/6msK490czzcTEQoEcQzhNO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
