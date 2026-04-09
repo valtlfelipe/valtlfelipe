@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [The Next Episode by Dr. Dre, Snoop Dogg](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC)
+- [Everything You Want by Vertical Horizon](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb)
+- [It&#39;s Gonna Be Me by *NSYNC](https://open.spotify.com/track/35zGjsxI020C2NPKp2fzS7)
+- [Holler by Spice Girls](https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv)
 - [All The Small Things by blink-182](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU)
-- [Independent Women, Pt. 1 by Destiny&#39;s Child](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI)
-- [It Wasn&#39;t Me by Shaggy, Rik Rok](https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf)
-- [Lucky by Britney Spears](https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt)
-- [Yellow by Coldplay](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
