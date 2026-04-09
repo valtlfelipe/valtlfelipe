@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Intergalactic Plastic - Kidnap Remix Edit by Eric Luttrell, Kidnap](https://open.spotify.com/track/3pcsXN9SiPwM6zEJ5Pmyzw)
+- [Malibu by UOAK](https://open.spotify.com/track/3XovubwzGKYpP9Aite7eV9)
+- [My Truth by LEV](https://open.spotify.com/track/50bJzXxKkjtIPBYVyb5Pth)
+- [Don’t Worry by Satin Jackets](https://open.spotify.com/track/17nvUEZMpENwS7pOsZ4qws)
 - [The Way That I Love You by Alex Adair](https://open.spotify.com/track/63AxCkd59ZcPtcvPuwD3DF)
-- [We Both Know It by PRAANA, RKTKT, lydi lynn](https://open.spotify.com/track/6kyfRxQHN3FH9v09FdcSf5)
-- [I&#39;m Home by RUSSI](https://open.spotify.com/track/2I3gnUny2ZUrtjOP4dTSMk)
-- [sometimes it’s scary but it’s still just you and me - Edit by Leaving Laurel](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG)
-- [Night Time - Dub Version by Borneland, Falcon Punch, Line Gøttsche](https://open.spotify.com/track/4PEVy36gSjf0UG6eyXhWO9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
