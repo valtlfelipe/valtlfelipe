@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Intergalactic Plastic - Kidnap Remix Edit by Eric Luttrell, Kidnap](https://open.spotify.com/track/3pcsXN9SiPwM6zEJ5Pmyzw)
-- [Malibu by UOAK](https://open.spotify.com/track/3XovubwzGKYpP9Aite7eV9)
-- [My Truth by LEV](https://open.spotify.com/track/50bJzXxKkjtIPBYVyb5Pth)
-- [Don’t Worry by Satin Jackets](https://open.spotify.com/track/17nvUEZMpENwS7pOsZ4qws)
-- [The Way That I Love You by Alex Adair](https://open.spotify.com/track/63AxCkd59ZcPtcvPuwD3DF)
+- [Revenge of the Groove by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/4R8Lk6cGMS1wm4sxGhEtPH)
+- [Herealways - Extended Mix by Jordin Post](https://open.spotify.com/track/61M5r5AWEWpF1i73Qqpsmi)
+- [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
+- [Salomea by Dokho](https://open.spotify.com/track/73E3LsSJByd9ksH9wm8SWR)
+- [Out of the Silence by Sultan &#43; Shepard, Tasha Josephine](https://open.spotify.com/track/5ydCAHTXVxCwoaneuCsugP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
