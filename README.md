@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Playing With Fire by Anriu](https://open.spotify.com/track/0zmS2bw6o1FdLtpUQmjVkD)
-- [A Power Over Me by Joseph Ray, Elliot Vast](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di)
-- [Falling For by Because of Art](https://open.spotify.com/track/0LWrSd5MKn1a2H4Py3XUiQ)
-- [Dive by mölly, Rowland Giles, Run Rivers](https://open.spotify.com/track/512CNfJskE5nI4uBMtaLa9)
-- [In My Blood by LEV](https://open.spotify.com/track/6YgqLxaw7WHzU7JSKlgg1N)
+- [Dancing Shadows by Kaiyan](https://open.spotify.com/track/5iets69Dfnu1ZCpWjN7GfX)
+- [Culture by Lucas Chambon](https://open.spotify.com/track/0ODYJXNo3yPxVlJCFy4xcd)
+- [Little To None by Andrew Nagy, Joel Winterflood](https://open.spotify.com/track/1MRxLdtt4qFQNqH3CnzQHs)
+- [Primrose by MXV](https://open.spotify.com/track/4JcFw8a96ZzKiF2pyYiIwH)
+- [Faded by Stendahl, Fløa](https://open.spotify.com/track/4smq9RvAACeKR0fCkLYv8x)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
