@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Over You by NALYRO, Natassa Tsonis](https://open.spotify.com/track/7tqllJGSJpYH8I0IkbxdVC)
-- [Lines by Ran the Man](https://open.spotify.com/track/3TaZ00nPxUROt604nOPsjo)
-- [Seyuna by Victoriya](https://open.spotify.com/track/6kxhPeQbUzVGKtykAlSWwB)
-- [Close by Second Sun](https://open.spotify.com/track/1TmipWgdF0IACaqUjdn3VT)
-- [Born To Live by Gavin Moss](https://open.spotify.com/track/3oG69Y9bPTQJp4M3U5KKNg)
+- [21 Questions by 50 Cent, Nate Dogg](https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI)
+- [Always On Time by Ja Rule, Ashanti](https://open.spotify.com/track/39w4Xgs8FvY2SJmZsHKn2K)
+- [Beautiful by Snoop Dogg, Pharrell Williams, Charlie Wilson](https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm)
+- [Pandora by aural](https://open.spotify.com/track/1WX0MIumrSTayn1pm7njq3)
+- [River Of Dreams by Kaiyan, EMBLM](https://open.spotify.com/track/6RfncGOXKpLWQLWvjBSNt7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
