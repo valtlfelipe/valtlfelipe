@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Revenge of the Groove by Jack Willard, Rebel Of Sleep](https://open.spotify.com/track/4R8Lk6cGMS1wm4sxGhEtPH)
-- [Herealways - Extended Mix by Jordin Post](https://open.spotify.com/track/61M5r5AWEWpF1i73Qqpsmi)
-- [Snowblind by MXV, Ash Nova](https://open.spotify.com/track/6yG3aCh1yuyjJEbNe7zBh8)
-- [Salomea by Dokho](https://open.spotify.com/track/73E3LsSJByd9ksH9wm8SWR)
-- [Out of the Silence by Sultan &#43; Shepard, Tasha Josephine](https://open.spotify.com/track/5ydCAHTXVxCwoaneuCsugP)
+- [Playing With Fire by Anriu](https://open.spotify.com/track/0zmS2bw6o1FdLtpUQmjVkD)
+- [A Power Over Me by Joseph Ray, Elliot Vast](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di)
+- [Falling For by Because of Art](https://open.spotify.com/track/0LWrSd5MKn1a2H4Py3XUiQ)
+- [Dive by mölly, Rowland Giles, Run Rivers](https://open.spotify.com/track/512CNfJskE5nI4uBMtaLa9)
+- [In My Blood by LEV](https://open.spotify.com/track/6YgqLxaw7WHzU7JSKlgg1N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
