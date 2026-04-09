@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [21 Questions by 50 Cent, Nate Dogg](https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI)
-- [Always On Time by Ja Rule, Ashanti](https://open.spotify.com/track/39w4Xgs8FvY2SJmZsHKn2K)
-- [Beautiful by Snoop Dogg, Pharrell Williams, Charlie Wilson](https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm)
-- [Pandora by aural](https://open.spotify.com/track/1WX0MIumrSTayn1pm7njq3)
-- [River Of Dreams by Kaiyan, EMBLM](https://open.spotify.com/track/6RfncGOXKpLWQLWvjBSNt7)
+- [All The Small Things by blink-182](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU)
+- [Independent Women, Pt. 1 by Destiny&#39;s Child](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI)
+- [It Wasn&#39;t Me by Shaggy, Rik Rok](https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf)
+- [Lucky by Britney Spears](https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt)
+- [Yellow by Coldplay](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
