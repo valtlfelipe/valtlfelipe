@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[TableProApp/TablePro](https://github.com/TableProApp/TablePro)** - Native macOS client for every database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Dancing Shadows by Kaiyan](https://open.spotify.com/track/5iets69Dfnu1ZCpWjN7GfX)
-- [Culture by Lucas Chambon](https://open.spotify.com/track/0ODYJXNo3yPxVlJCFy4xcd)
-- [Little To None by Andrew Nagy, Joel Winterflood](https://open.spotify.com/track/1MRxLdtt4qFQNqH3CnzQHs)
-- [Primrose by MXV](https://open.spotify.com/track/4JcFw8a96ZzKiF2pyYiIwH)
-- [Faded by Stendahl, Fløa](https://open.spotify.com/track/4smq9RvAACeKR0fCkLYv8x)
+- [Over You by NALYRO, Natassa Tsonis](https://open.spotify.com/track/7tqllJGSJpYH8I0IkbxdVC)
+- [Lines by Ran the Man](https://open.spotify.com/track/3TaZ00nPxUROt604nOPsjo)
+- [Seyuna by Victoriya](https://open.spotify.com/track/6kxhPeQbUzVGKtykAlSWwB)
+- [Close by Second Sun](https://open.spotify.com/track/1TmipWgdF0IACaqUjdn3VT)
+- [Born To Live by Gavin Moss](https://open.spotify.com/track/3oG69Y9bPTQJp4M3U5KKNg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
