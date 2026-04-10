@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wesbos/JSON-Alexander](https://github.com/wesbos/JSON-Alexander)** - A really good JSON viewer browser Extension (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [If You Need Me by Caius, iamalex, Hazy Year](https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd)
-- [Better Times by KC Lights, Låpsley](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8)
-- [All This Love by Braxe &#43; Falcon, Bibio, Alan Braxe, DJ Falcon](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE)
-- [Mercy (feat. Jacob Lusk) by The Blessed Madonna, Jacob Lusk](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg)
-- [Know Me by Satin Jackets, Nazzereene](https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI)
+- [Sing It Back (feat. Dana Williams) by Young Franco, Dana Williams, p-rallel](https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI)
+- [Murder On The Dancefloor - PNAU Remix by Sophie Ellis-Bextor, PNAU](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf)
+- [u can get it by Soul Legend](https://open.spotify.com/track/3TgBBgdNupVOVKDVskdO0f)
+- [Money by Tentendo, Alyzée](https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn)
+- [Ordinary Love by Roosevelt](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
