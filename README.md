@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wesbos/JSON-Alexander](https://github.com/wesbos/JSON-Alexander)** - A really good JSON viewer browser Extension (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Inner Smile by Texas](https://open.spotify.com/track/0yvDNlMoafoHNR9M5LIOGJ)
-- [In And Out Of Love by Armin van Buuren, Sharon Den Adel](https://open.spotify.com/track/1FzbOPWCZiNxnLjAhY1jAR)
-- [You Sang To Me by Marc Anthony](https://open.spotify.com/track/2dwhMQsFeHr2S787WxqAqW)
-- [Be Like That by 3 Doors Down](https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ)
-- [What a Girl Wants by Christina Aguilera](https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs)
+- [Alive by Satin Jackets, Panama](https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA)
+- [u can get it by Soul Legend](https://open.spotify.com/track/3TgBBgdNupVOVKDVskdO0f)
+- [Enjoy Your Life by TOKiMONSTA, Oby Onyioha](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw)
+- [How You Feel (ft Leven Kali) by ANOTR, Leven Kali, Erik Bandt](https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL)
+- [I Want You by Butch, Nic Fanciulli](https://open.spotify.com/track/01GaxIwhazmBJGncZImt6p)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
