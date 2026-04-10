@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[razvandimescu/numa](https://github.com/razvandimescu/numa)** - Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Lovers In A Past Life (with Rag&#39;n&#39;Bone Man) - LP Giobbi Remix by Calvin Harris, Rag&#39;n&#39;Bone Man, LP Giobbi](https://open.spotify.com/track/52yvH039KJk9IerF0NTYWm)
+- [Pleasure, Joy &amp; Happiness (musclecars remix) by Galliano, musclecars](https://open.spotify.com/track/32jYb2YkMBb61zV87oOofT)
+- [Hercules Way by Loverground](https://open.spotify.com/track/1j1G3ao0OXg3BMJ16b6zXT)
+- [Out The Fire (At The Hotel) - Radio Edit by Franky Rizardo, Ros T, Eunice Collins](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT)
 - [That&#39;s Right - Edit by Dam Swindle](https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo)
-- [Higher Ground (feat. Roosevelt) by Purple Disco Machine, Roosevelt](https://open.spotify.com/track/55pgttry6U5AcTMyB6FmEt)
-- [Enjoy Your Life by TOKiMONSTA, Oby Onyioha](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw)
-- [Fresh - House of Prayers Poolside Edit by Crazibiza, House of Prayers](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01)
-- [Somethin Bout You (feat. Betsy) by Holiday87, The Knocks, Betsy](https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
