@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wesbos/JSON-Alexander](https://github.com/wesbos/JSON-Alexander)** - A really good JSON viewer browser Extension (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Good Night by Bamily](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM)
+- [JOY (Up The Street) by Joy Anonymous](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98)
+- [Let It Go, Baby by A/S/L, Caius](https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL)
+- [The Bay - Purple Disco Machine Edit by Metronomy, Purple Disco Machine](https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm)
 - [My General by Abel Balder](https://open.spotify.com/track/0ijBzJe4SKXjifO6aXInC3)
-- [Only You by Tasty Or Not, Cees, Steve Monite](https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo)
-- [Feeling For You (feat. FARLEY) by CHANEY, FARLEY](https://open.spotify.com/track/6pC6TW94GCOUwEj7ZchIk6)
-- [UP DOWN BOUNCE by veggi, daste.](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y)
-- [Collect 200 by Collect 200](https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
