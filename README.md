@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wesbos/JSON-Alexander](https://github.com/wesbos/JSON-Alexander)** - A really good JSON viewer browser Extension (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Alive by Satin Jackets, Panama](https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA)
-- [u can get it by Soul Legend](https://open.spotify.com/track/3TgBBgdNupVOVKDVskdO0f)
-- [Enjoy Your Life by TOKiMONSTA, Oby Onyioha](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw)
-- [How You Feel (ft Leven Kali) by ANOTR, Leven Kali, Erik Bandt](https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL)
-- [I Want You by Butch, Nic Fanciulli](https://open.spotify.com/track/01GaxIwhazmBJGncZImt6p)
+- [My General by Abel Balder](https://open.spotify.com/track/0ijBzJe4SKXjifO6aXInC3)
+- [Only You by Tasty Or Not, Cees, Steve Monite](https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo)
+- [Feeling For You (feat. FARLEY) by CHANEY, FARLEY](https://open.spotify.com/track/6pC6TW94GCOUwEj7ZchIk6)
+- [UP DOWN BOUNCE by veggi, daste.](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y)
+- [Collect 200 by Collect 200](https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
