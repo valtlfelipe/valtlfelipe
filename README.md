@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wesbos/JSON-Alexander](https://github.com/wesbos/JSON-Alexander)** - A really good JSON viewer browser Extension (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hold On by Nic Fanciulli, Marc E. Bassy](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw)
-- [Never Ever Ever by Girls of the Internet, shiv](https://open.spotify.com/track/6aonKw3Mdij9LvfPzRykRX)
-- [Paradise by SG Lewis, Loods](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w)
-- [Unconditional feat. Rationale - Girls of the Internet Remix by Quantic, Rationale, Girls of the Internet](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9)
-- [Missing You - Michael Gray Remix by Artful, Ridney, Terri Walker, Michael Gray](https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet)
+- [If You Need Me by Caius, iamalex, Hazy Year](https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd)
+- [Better Times by KC Lights, Låpsley](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8)
+- [All This Love by Braxe &#43; Falcon, Bibio, Alan Braxe, DJ Falcon](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE)
+- [Mercy (feat. Jacob Lusk) by The Blessed Madonna, Jacob Lusk](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg)
+- [Know Me by Satin Jackets, Nazzereene](https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
