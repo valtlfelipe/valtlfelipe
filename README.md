@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wesbos/JSON-Alexander](https://github.com/wesbos/JSON-Alexander)** - A really good JSON viewer browser Extension (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Good Night by Bamily](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM)
-- [JOY (Up The Street) by Joy Anonymous](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98)
-- [Let It Go, Baby by A/S/L, Caius](https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL)
-- [The Bay - Purple Disco Machine Edit by Metronomy, Purple Disco Machine](https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm)
-- [My General by Abel Balder](https://open.spotify.com/track/0ijBzJe4SKXjifO6aXInC3)
+- [Hold On by Nic Fanciulli, Marc E. Bassy](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw)
+- [Never Ever Ever by Girls of the Internet, shiv](https://open.spotify.com/track/6aonKw3Mdij9LvfPzRykRX)
+- [Paradise by SG Lewis, Loods](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w)
+- [Unconditional feat. Rationale - Girls of the Internet Remix by Quantic, Rationale, Girls of the Internet](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9)
+- [Missing You - Michael Gray Remix by Artful, Ridney, Terri Walker, Michael Gray](https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
