@@ -3,10 +3,10 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[netbirdio/netbird](https://github.com/netbirdio/netbird)** - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (today)
-- **[getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. (today)
-- **[Barre/ZeroFS](https://github.com/Barre/ZeroFS)** - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (3 days ago)
-- **[zmeyer44/Locker](https://github.com/zmeyer44/Locker)** (4 days ago)
+- **[netbirdio/netbird](https://github.com/netbirdio/netbird)** - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 day ago)
+- **[getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. (1 day ago)
+- **[Barre/ZeroFS](https://github.com/Barre/ZeroFS)** - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (4 days ago)
+- **[zmeyer44/Locker](https://github.com/zmeyer44/Locker)** (5 days ago)
 - **[razvandimescu/numa](https://github.com/razvandimescu/numa)** - Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides (1 week ago)
 
 #### 🎧 Spotify recent tracks
