@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[razvandimescu/numa](https://github.com/razvandimescu/numa)** - Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
-- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN)
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
-- [Ferrari by James Hype, Miggy Dela Rosa](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP)
-- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3)
+- [Remember by Becky Hill, David Guetta](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb)
+- [feelslikeimfallinginlove - Single Version by Coldplay](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea)
+- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
+- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
+- [Show Me Love by WizTheMc, bees &amp; honey](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
