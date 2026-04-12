@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[razvandimescu/numa](https://github.com/razvandimescu/numa)** - Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Remember by Becky Hill, David Guetta](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb)
-- [feelslikeimfallinginlove - Single Version by Coldplay](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea)
-- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
-- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
-- [Show Me Love by WizTheMc, bees &amp; honey](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa)
+- [Sweet Disposition - Vijay &amp; Sofia Edit by TRIBU, Calixte, Vijay &amp; Sofia Zlatko](https://open.spotify.com/track/0DkDdziZQNIyJ0EWVLi5f6)
+- [Youth Thoughts by N-ZTON, Mitrani](https://open.spotify.com/track/2Mfpd9jeLeWKiflkErVhEf)
+- [Bit of Window by Conte Prad](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2)
+- [Desire by D-FRA, Avondzy, Kodrek](https://open.spotify.com/track/1Cxl3z5UspUY6YDDx0l39C)
+- [Tell Me (feat. Water Park) by PINES, Water Park](https://open.spotify.com/track/1vzFXM7T5oc2KYGLZcqJda)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
