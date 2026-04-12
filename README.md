@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[razvandimescu/numa](https://github.com/razvandimescu/numa)** - Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Sweet Disposition - Vijay &amp; Sofia Edit by TRIBU, Calixte, Vijay &amp; Sofia Zlatko](https://open.spotify.com/track/0DkDdziZQNIyJ0EWVLi5f6)
-- [Youth Thoughts by N-ZTON, Mitrani](https://open.spotify.com/track/2Mfpd9jeLeWKiflkErVhEf)
-- [Bit of Window by Conte Prad](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2)
-- [Desire by D-FRA, Avondzy, Kodrek](https://open.spotify.com/track/1Cxl3z5UspUY6YDDx0l39C)
-- [Tell Me (feat. Water Park) by PINES, Water Park](https://open.spotify.com/track/1vzFXM7T5oc2KYGLZcqJda)
+- [Rhythm Of Life by Gavin Moss](https://open.spotify.com/track/6pT9kxjI6EKs1iaMfu6OYd)
+- [The Best I Never Had by Victoriya](https://open.spotify.com/track/5TdMlTApAldRIQZbPRTHv8)
+- [Chimera by Lucas Chambon](https://open.spotify.com/track/7skoeDHh0jUZ4qgjJXHsyU)
+- [Feel This Way by MOTSA, Jody Wisternoff, James Grant](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv)
+- [Break Away by Avira, CLOVER](https://open.spotify.com/track/2xf2qjt3q736YSN4UQQgzL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
