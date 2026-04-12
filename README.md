@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[razvandimescu/numa](https://github.com/razvandimescu/numa)** - Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Enjoy Your Life by TOKiMONSTA, Oby Onyioha](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw)
-- [Don&#39;t Say - Talee&#39;s Pool Party Mix by Croquet Club, Talee](https://open.spotify.com/track/5BjwwUEhzvWGAS43Uz7hwo)
-- [Promises by WEISS, Louise Marshall](https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi)
-- [Keep It Secret - Les Bisous Remix by Tensnake, Jessy Lanza, Les Bisous](https://open.spotify.com/track/0ATTyDT6YxjeY4NC0gTKqZ)
-- [All This Love by Braxe &#43; Falcon, Bibio, Alan Braxe, DJ Falcon](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE)
+- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
+- [Hold Me Closer by Elton John, Britney Spears](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
+- [Ferrari by James Hype, Miggy Dela Rosa](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP)
+- [10:35 by Tiësto, Tate McRae](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
