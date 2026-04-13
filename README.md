@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[zmeyer44/Locker](https://github.com/zmeyer44/Locker)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Somebody To Hold by Piotr Borowiec, Alex Kiss](https://open.spotify.com/track/1YSLyi1gKz5lS1OCNUrKda)
-- [A Little Bit Older by Nato Medrado](https://open.spotify.com/track/5N7t3svaCd0CWrorK5KFhY)
-- [ID #1 (ABGT659) - Mixed by ID.](https://open.spotify.com/track/3oia8CCLunz2FOPq4rsCgH)
-- [Staring At You by Boy Tedson](https://open.spotify.com/track/5mgbCaaiAz9dKq9XaKTaTh)
-- [Eclipse by Alex Lustig](https://open.spotify.com/track/7aLOPmtIbBN8mpZOR2Y7Jp)
+- [Aqiral by Nōpi](https://open.spotify.com/track/3PK5MrGNIGCSvjLXkMIxvt)
+- [Talking Like That by Le Youth, EMME](https://open.spotify.com/track/52UwTliVhL0qDwpukA00bX)
+- [What I Do by Because of Art](https://open.spotify.com/track/04TXwnErso6RvbR56de8iM)
+- [The End by Elderbrook](https://open.spotify.com/track/7tu4R4fQFRH5iG8BvVVPjS)
+- [Victoria by obli](https://open.spotify.com/track/7mDc9BTeloKNtJ9ZQhfzV4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
