@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[zmeyer44/Locker](https://github.com/zmeyer44/Locker)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Tree by Nōpi](https://open.spotify.com/track/3XI4T0lQsgIGX5SpRnFIIB)
-- [Headspace - Edit by Dee Montero, Meliha](https://open.spotify.com/track/0UpQmjkIUR2eWhVIcTFJRk)
-- [Hunky by Kloset](https://open.spotify.com/track/2WpewxhmCab5wN5o6UyCzA)
-- [Hold The Light by Rezzaie](https://open.spotify.com/track/2lrawVdbLdVsM7EzhS19Nq)
-- [On The Strings Of Love by M.O.S., Krasa Rosa, Leonid Sivelkin](https://open.spotify.com/track/2Xlv8u8Ab8kOtrHwmZh9PK)
+- [Somebody To Hold by Piotr Borowiec, Alex Kiss](https://open.spotify.com/track/1YSLyi1gKz5lS1OCNUrKda)
+- [A Little Bit Older by Nato Medrado](https://open.spotify.com/track/5N7t3svaCd0CWrorK5KFhY)
+- [ID #1 (ABGT659) - Mixed by ID.](https://open.spotify.com/track/3oia8CCLunz2FOPq4rsCgH)
+- [Staring At You by Boy Tedson](https://open.spotify.com/track/5mgbCaaiAz9dKq9XaKTaTh)
+- [Eclipse by Alex Lustig](https://open.spotify.com/track/7aLOPmtIbBN8mpZOR2Y7Jp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
