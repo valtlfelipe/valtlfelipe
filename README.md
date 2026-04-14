@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Mindstate by Mees Salomé, Robby East](https://open.spotify.com/track/6noRSfPhfmoGdV19ScaHeu)
-- [Hold The Line by Pete K](https://open.spotify.com/track/20ZTyP6b3F2l8hmYdAl3wi)
-- [Explorations by Blake.08](https://open.spotify.com/track/1NDbaYBs7n84sbg9k5TXhs)
-- [Goodbye by Le Youth](https://open.spotify.com/track/7pbwj0NdJ55BbMGFxf7WsO)
-- [Fascination by LAR, MXV](https://open.spotify.com/track/6u4EYJjeCmm6rquoETDEW8)
+- [Nobody Knows by Le Youth](https://open.spotify.com/track/7xJhffG2DwgXUSh8htwD0s)
+- [New Hope by Qualysto](https://open.spotify.com/track/6OxgJeggAHg8rWE3KaReoe)
+- [Sapphire by TOMB](https://open.spotify.com/track/0QAtIPTXkTgut4UKWqEqgC)
+- [Something New by terro, Duce, Elliot Vast](https://open.spotify.com/track/76ah7UINzRFgAF560kJWnM)
+- [Bring Me Back by Kaiyan](https://open.spotify.com/track/5TRnKYWNEV6V5cMtZ8u8rX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
