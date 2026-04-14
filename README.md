@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Dreamwalker by Guy Didden](https://open.spotify.com/track/1fM5U1bU1q831mepBTDgP1)
-- [Hologram by Le Youth, LeyeT](https://open.spotify.com/track/210bt3QeLgxfbcSKikEeNT)
-- [Flow Free by Panama, Christian Löffler](https://open.spotify.com/track/1AK271I7M3ZQmSulRg5EQ4)
-- [All That&#39;s Left by Kaiyan](https://open.spotify.com/track/4oqojtxAzYAbG2D5ssIa2E)
-- [Just One Way by Into The Ether](https://open.spotify.com/track/3QBnsAHwmmRdOqH7bzidRs)
+- [Bila by Nōpi](https://open.spotify.com/track/343K3eT2BOHocA7LP07YqD)
+- [Only You by KATERINA X](https://open.spotify.com/track/1NQUgWcX2vMqHaXTCbzIQ9)
+- [Come Back Around - Romain Garcia Remix by Moon Boots, Cherry Glazerr, Romain Garcia](https://open.spotify.com/track/1WPpg0Vn7d6P2UTJvtwyJP)
+- [Orange Clouds by Guy Didden](https://open.spotify.com/track/3v8CbIi4uBw6O1F2D7PWuu)
+- [Hang On - Sam Parker Remix by Le Youth, Gordi, Sam Parker](https://open.spotify.com/track/0DVMyXwq787NiWq75Re0ka)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
