@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Make It Easy by Robby East, Lizzy Land](https://open.spotify.com/track/5309UdeptmNbeOV4iTw5nl)
-- [Bila by Nōpi](https://open.spotify.com/track/343K3eT2BOHocA7LP07YqD)
-- [Only You by KATERINA X](https://open.spotify.com/track/1NQUgWcX2vMqHaXTCbzIQ9)
-- [Come Back Around - Romain Garcia Remix by Moon Boots, Cherry Glazerr, Romain Garcia](https://open.spotify.com/track/1WPpg0Vn7d6P2UTJvtwyJP)
-- [Orange Clouds by Guy Didden](https://open.spotify.com/track/3v8CbIi4uBw6O1F2D7PWuu)
+- [Cycles by Le Youth](https://open.spotify.com/track/1N9j5GrSkVDTHdKHvqLAGG)
+- [Amalong by Tobias Bergson](https://open.spotify.com/track/3vF70xmAZzofW6CPw6VLHA)
+- [Eau De Vie by Kaiyan](https://open.spotify.com/track/4k84XaNsd7C8QNnpwIZ07f)
+- [Kvita by Nōpi](https://open.spotify.com/track/6FIZlgVxKbadtdg4Gqlg0c)
+- [Belong by Elliot Vast](https://open.spotify.com/track/5Q7J6wvnCmem1DjsRRYV0N)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
