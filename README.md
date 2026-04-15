@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[brightbeanxyz/brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)** - Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10&#43; platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Retrospection by Kaiyan](https://open.spotify.com/track/7da9MIqgHcVAJLankUlv3T)
-- [her certain uncertainty - edit by Leaving Laurel](https://open.spotify.com/track/2X2kdmGieMBjhVguJYP4Uc)
-- [I Need You by Elderbrook](https://open.spotify.com/track/5UTqHC0FtWx9zPKvva8i9v)
-- [Everything Will Be Alright by Kiholm](https://open.spotify.com/track/4ufJ9Wg64SjtecchwoffoB)
-- [Ametista by Maty Owl](https://open.spotify.com/track/4uXrt6T0A6q4oJPzxYIlNS)
+- [Leave You by Einmusik, Lexer, Jyll](https://open.spotify.com/track/3p1j9R2oZG7GG9OtJxphWX)
+- [Rewinding by Beauvois](https://open.spotify.com/track/02T6akp3tVB1p7SMoqHNAJ)
+- [Come Back Baby by YOTTO](https://open.spotify.com/track/6CUSP1DYWHwzTL8qRnvNxV)
+- [River Of Dreams by Kaiyan, EMBLM](https://open.spotify.com/track/6RfncGOXKpLWQLWvjBSNt7)
+- [Other Side by UOAK, Xerxes-K](https://open.spotify.com/track/43NUMu3imUuU8MvMKqZH5P)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
