@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Uprising by Avenue One](https://open.spotify.com/track/3ng17Iv6KqjEyjiITuL9Dt)
-- [Seamount by Klur](https://open.spotify.com/track/0zCp6ijK245KSVf4YO28K2)
-- [QvB by Kaiyan](https://open.spotify.com/track/3sXzJ8AnqDVm7ZmOgLZ1j9)
-- [Falling For by Because of Art](https://open.spotify.com/track/0LWrSd5MKn1a2H4Py3XUiQ)
-- [Exploring The Mind by LTN, Ghostbeat](https://open.spotify.com/track/4YXcmuhTyk1b9X9ObiwsRd)
+- [caught me falling by FIORE](https://open.spotify.com/track/755TuFgBJXIoVNfpAknobl)
+- [Green &amp; Blue by Maty Owl](https://open.spotify.com/track/6fiOvsOuYpMpQKdzSaVXNT)
+- [I Can&#39;t See - Extended by ROW, Samuel Miller](https://open.spotify.com/track/7v4CkKgv07ZztFpeZDcro3)
+- [Cressida by Kaiyan](https://open.spotify.com/track/0WlNLl158fjHFE3yQ7iXNF)
+- [Our Own Island - Extended Mix by Sound Quelle, Tailor, Liz Cass](https://open.spotify.com/track/4roKniEs7PKgCSptyWhAGz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
