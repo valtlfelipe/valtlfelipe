@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Cycles by Le Youth](https://open.spotify.com/track/1N9j5GrSkVDTHdKHvqLAGG)
-- [Amalong by Tobias Bergson](https://open.spotify.com/track/3vF70xmAZzofW6CPw6VLHA)
-- [Eau De Vie by Kaiyan](https://open.spotify.com/track/4k84XaNsd7C8QNnpwIZ07f)
-- [Kvita by Nōpi](https://open.spotify.com/track/6FIZlgVxKbadtdg4Gqlg0c)
-- [Belong by Elliot Vast](https://open.spotify.com/track/5Q7J6wvnCmem1DjsRRYV0N)
+- [Uprising by Avenue One](https://open.spotify.com/track/3ng17Iv6KqjEyjiITuL9Dt)
+- [Seamount by Klur](https://open.spotify.com/track/0zCp6ijK245KSVf4YO28K2)
+- [QvB by Kaiyan](https://open.spotify.com/track/3sXzJ8AnqDVm7ZmOgLZ1j9)
+- [Falling For by Because of Art](https://open.spotify.com/track/0LWrSd5MKn1a2H4Py3XUiQ)
+- [Exploring The Mind by LTN, Ghostbeat](https://open.spotify.com/track/4YXcmuhTyk1b9X9ObiwsRd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
