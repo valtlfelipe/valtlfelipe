@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[CaptainCore/captaincore](https://github.com/CaptainCore/captaincore)** - 👨🏽‍💻 CaptainCore is a command line application for automating WordPress maintenance. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [What I Do by Because of Art](https://open.spotify.com/track/04TXwnErso6RvbR56de8iM)
-- [The End by Elderbrook](https://open.spotify.com/track/7tu4R4fQFRH5iG8BvVVPjS)
-- [Victoria by obli](https://open.spotify.com/track/7mDc9BTeloKNtJ9ZQhfzV4)
-- [Lost Without You by Chico Rocket](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu)
-- [FORGET TO LOVE by SOMYO, Sugar Jesus](https://open.spotify.com/track/26CcUu4VIo15AwcrKQhKWW)
+- [Mindstate by Mees Salomé, Robby East](https://open.spotify.com/track/6noRSfPhfmoGdV19ScaHeu)
+- [Hold The Line by Pete K](https://open.spotify.com/track/20ZTyP6b3F2l8hmYdAl3wi)
+- [Explorations by Blake.08](https://open.spotify.com/track/1NDbaYBs7n84sbg9k5TXhs)
+- [Goodbye by Le Youth](https://open.spotify.com/track/7pbwj0NdJ55BbMGFxf7WsO)
+- [Fascination by LAR, MXV](https://open.spotify.com/track/6u4EYJjeCmm6rquoETDEW8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
