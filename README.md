@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[CaptainCore/captaincore](https://github.com/CaptainCore/captaincore)** - 👨🏽‍💻 CaptainCore is a command line application for automating WordPress maintenance. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Somebody To Hold by Piotr Borowiec, Alex Kiss](https://open.spotify.com/track/1YSLyi1gKz5lS1OCNUrKda)
-- [If You Want Somebody by Elderbrook](https://open.spotify.com/track/7ANhEmbFPtvlaGY7LJMesM)
-- [Elevate (Chill Mix) by Kelli-Leigh](https://open.spotify.com/track/5uHEJG2ROEJC1cwCMDW1ZH)
-- [On The Strings Of Love by M.O.S., Krasa Rosa, Leonid Sivelkin](https://open.spotify.com/track/2Xlv8u8Ab8kOtrHwmZh9PK)
-- [A Little Bit Older by Nato Medrado](https://open.spotify.com/track/5N7t3svaCd0CWrorK5KFhY)
+- [Small Sanctuary by Tycho](https://open.spotify.com/track/6sRuzyGwCabMtnMZXcoakQ)
+- [Staring At You by Boy Tedson](https://open.spotify.com/track/5mgbCaaiAz9dKq9XaKTaTh)
+- [Falling Leaves (ABGT662) - Mixed by Anjunadeep](https://open.spotify.com/track/7CquYg42mJIUB5SAfb7ACz)
+- [In The Air by MATIRAMIC](https://open.spotify.com/track/02SFfSHMDmz6s2XrsaeTjC)
+- [Headspace - Edit by Dee Montero, Meliha](https://open.spotify.com/track/0UpQmjkIUR2eWhVIcTFJRk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
