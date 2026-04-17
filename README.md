@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[CaptainCore/captaincore](https://github.com/CaptainCore/captaincore)** - 👨🏽‍💻 CaptainCore is a command line application for automating WordPress maintenance. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Victoria by obli](https://open.spotify.com/track/7mDc9BTeloKNtJ9ZQhfzV4)
-- [ID #1 (ABGT659) - Mixed by ID.](https://open.spotify.com/track/3oia8CCLunz2FOPq4rsCgH)
-- [Hunky by Kloset](https://open.spotify.com/track/2WpewxhmCab5wN5o6UyCzA)
-- [Hold The Light by Rezzaie](https://open.spotify.com/track/2lrawVdbLdVsM7EzhS19Nq)
-- [Spiral - jackLNDN Remix by Lena Leon, jackLNDN](https://open.spotify.com/track/6DwqtA14iC78eXxjD1sDOo)
+- [Somebody To Hold by Piotr Borowiec, Alex Kiss](https://open.spotify.com/track/1YSLyi1gKz5lS1OCNUrKda)
+- [If You Want Somebody by Elderbrook](https://open.spotify.com/track/7ANhEmbFPtvlaGY7LJMesM)
+- [Elevate (Chill Mix) by Kelli-Leigh](https://open.spotify.com/track/5uHEJG2ROEJC1cwCMDW1ZH)
+- [On The Strings Of Love by M.O.S., Krasa Rosa, Leonid Sivelkin](https://open.spotify.com/track/2Xlv8u8Ab8kOtrHwmZh9PK)
+- [A Little Bit Older by Nato Medrado](https://open.spotify.com/track/5N7t3svaCd0CWrorK5KFhY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
