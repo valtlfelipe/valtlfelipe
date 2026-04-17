@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[abhay-ramesh/pushduck](https://github.com/abhay-ramesh/pushduck)** - Add file uploads to any web application. Secure, edge-ready. (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Don&#39;t Get Over My Soul - Mixed by MXV, Sommersville](https://open.spotify.com/track/7mWhAZWW3gOWEfShbKgRxL)
 - [Whispers Of The Night by Kaiyan](https://open.spotify.com/track/1Jzc8lLBqSvvm5Szgy3D84)
 - [We&#39;re In This Together by Jackarta](https://open.spotify.com/track/2ruMckHefVdZMZ2FLSLN1t)
 - [Unspoken by Klur](https://open.spotify.com/track/60fT7VLnydlDRWbKPkv7bO)
 - [Fields - Extended Mix by TOMB](https://open.spotify.com/track/4nAbZJZVmloA4YjpE3rt6j)
-- [Love Syndrome by Enamour](https://open.spotify.com/track/167J53zotbS1GdqHofZqc5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
