@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usestrix/strix](https://github.com/usestrix/strix)** - Open-source AI hackers to find and fix your app’s vulnerabilities. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Are You Ready by Lucas &amp; Steve, Laura White](https://open.spotify.com/track/4XAyy0wQa0pboXt3M0RbZi)
-- [Let You Go by Diplo, TSHA, Kareen Lomax](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm)
-- [Hold On by Nic Fanciulli, Marc E. Bassy](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw)
-- [Beat Goes On (Rhythm to the Brain) by Campbell](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS)
-- [Baddy On The Floor by Jamie xx, Honey Dijon](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN)
+- [The One (feat. Jocelyn Brown) by Chloé Caillet, Luke Alessi, Jocelyn Brown](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM)
+- [Need Your Love by Cedric Gervais, Alex Mills](https://open.spotify.com/track/0AEymXR4R7Qi8nzb2L6zCg)
+- [Friday (Alone Right Now) by ATRIP](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby)
+- [There She Goes by CYRIL, MOONLGHT, The La&#39;s](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7)
+- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
