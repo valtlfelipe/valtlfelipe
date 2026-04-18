@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usestrix/strix](https://github.com/usestrix/strix)** - Open-source AI hackers to find and fix your app’s vulnerabilities. (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Can&#39;t Deny It by Jazzy, Spriitzz](https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ)
 - [Ask Me by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/22RCqQ7mzUYsDr5UgB0ZLE)
 - [True Desire by George Reid, AlunaGeorge](https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI)
 - [Save My Love by Kygo, Khalid, Gryffin](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8)
 - [Time Never Stops (with Yung Bae) by Kaleena Zanders, Yung Bae](https://open.spotify.com/track/3KsqGmLA8hPcf143S7DP5T)
-- [Better Times by KC Lights, Låpsley](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
