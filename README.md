@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usestrix/strix](https://github.com/usestrix/strix)** - Open-source AI hackers to find and fix your app’s vulnerabilities. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The One (feat. Jocelyn Brown) by Chloé Caillet, Luke Alessi, Jocelyn Brown](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM)
-- [Need Your Love by Cedric Gervais, Alex Mills](https://open.spotify.com/track/0AEymXR4R7Qi8nzb2L6zCg)
-- [Friday (Alone Right Now) by ATRIP](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby)
-- [There She Goes by CYRIL, MOONLGHT, The La&#39;s](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7)
-- [Set My Heart On Fire (I&#39;m Alive x And The Beat Goes On) by Majestic, The Jammin Kid, Céline Dion](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u)
+- [Ask Me by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/22RCqQ7mzUYsDr5UgB0ZLE)
+- [True Desire by George Reid, AlunaGeorge](https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI)
+- [Save My Love by Kygo, Khalid, Gryffin](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8)
+- [Time Never Stops (with Yung Bae) by Kaleena Zanders, Yung Bae](https://open.spotify.com/track/3KsqGmLA8hPcf143S7DP5T)
+- [Better Times by KC Lights, Låpsley](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
