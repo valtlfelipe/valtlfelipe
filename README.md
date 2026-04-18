@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usestrix/strix](https://github.com/usestrix/strix)** - Open-source AI hackers to find and fix your app’s vulnerabilities. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [High and I Like it by it&#39;s murph, Evalyn](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4)
-- [High and I Like it by it&#39;s murph, Evalyn](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4)
-- [Friday (Alone Right Now) by ATRIP](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby)
-- [Billie (loving arms) by Fred again..](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G)
-- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
+- [How You Feel (ft Leven Kali) by ANOTR, Leven Kali, Erik Bandt](https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL)
+- [Hold Me by Bag Raiders](https://open.spotify.com/track/2JpFgRepWLFpY7Lrcd76nU)
+- [Forever Baby by Carlita, Janet Planet](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo)
+- [Holding Your Hand by SACHI, Poppy Baskcomb](https://open.spotify.com/track/6UK7PodvHTVM9vItl0VOKh)
+- [Holding Your Hand by SACHI, Poppy Baskcomb](https://open.spotify.com/track/6UK7PodvHTVM9vItl0VOKh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
