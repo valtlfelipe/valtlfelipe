@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usestrix/strix](https://github.com/usestrix/strix)** - Open-source AI hackers to find and fix your app’s vulnerabilities. (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Endless Summer by Alan Walker, Zak Abel](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK)
+- [Serotonin Moonbeams by The Blessed Madonna, Uffie](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9)
+- [Find Love Now by Cheat Codes, Punctual, Raphaella](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt)
+- [START UP A RUMOUR by Sam Gellaitry](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge)
 - [CHOOSE LOVE by KC Lights, Marlo Rex](https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri)
-- [Sweet Nothings by oskar med k](https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq)
-- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
-- [Run by Becky Hill, Galantis](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ)
-- [Pool - Gravagerz Version by Gravagerz, kiki wera](https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
