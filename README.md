@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usestrix/strix](https://github.com/usestrix/strix)** - Open-source AI hackers to find and fix your app’s vulnerabilities. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Can&#39;t Deny It by Jazzy, Spriitzz](https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ)
-- [Ask Me by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/22RCqQ7mzUYsDr5UgB0ZLE)
-- [True Desire by George Reid, AlunaGeorge](https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI)
-- [Save My Love by Kygo, Khalid, Gryffin](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8)
-- [Time Never Stops (with Yung Bae) by Kaleena Zanders, Yung Bae](https://open.spotify.com/track/3KsqGmLA8hPcf143S7DP5T)
+- [CHOOSE LOVE by KC Lights, Marlo Rex](https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri)
+- [Sweet Nothings by oskar med k](https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq)
+- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
+- [Run by Becky Hill, Galantis](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ)
+- [Pool - Gravagerz Version by Gravagerz, kiki wera](https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
