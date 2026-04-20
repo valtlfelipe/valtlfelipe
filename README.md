@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usestrix/strix](https://github.com/usestrix/strix)** - Open-source AI hackers to find and fix your app’s vulnerabilities. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Good Feeling (feat. Rhys Lewis) by Bakermat, Rhys Lewis](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO)
-- [Endless Summer by Alan Walker, Zak Abel](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK)
-- [Serotonin Moonbeams by The Blessed Madonna, Uffie](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9)
-- [Find Love Now by Cheat Codes, Punctual, Raphaella](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt)
-- [START UP A RUMOUR by Sam Gellaitry](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge)
+- [Eu Duvido - Ao Vivo by Guilherme &amp; Benuto, Panda](https://open.spotify.com/track/2NKgvPdAy8FUC5p1l0YnKg)
+- [Calcinha de Renda - Ao Vivo by Panda, Gusttavo Lima, MJ Records](https://open.spotify.com/track/332rqteO5O475UV5zgSKPQ)
+- [Não Namora - Ao Vivo by Clayton &amp; Romário, Zé Neto &amp; Cristiano](https://open.spotify.com/track/1YyQcX3oM8YsMTKeYFpoKx)
+- [Não Mexe nas Minhas Gavetas - Ao Vivo by Danilo e Davi](https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ)
+- [Bebe, Beija e Trai - Ao Vivo by Mayke &amp; Rodrigo, Panda](https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
