@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usestrix/strix](https://github.com/usestrix/strix)** - Open-source AI hackers to find and fix your app’s vulnerabilities. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Éter by Etza, Keymos](https://open.spotify.com/track/3zPXRKM3N6F7CQTPJBg9SN)
-- [another day by just nearby](https://open.spotify.com/track/7KCcGdrTS9UPXfeUA5XRUr)
-- [Radiance by Delphine Dekker](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj)
-- [Sprout by Yim](https://open.spotify.com/track/7vjXqLwFaCHRjzwUKQI4lY)
-- [Lacando by Pourin](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI)
+- [See You by Farves, Duce](https://open.spotify.com/track/7gNihynx9ol9yurDT078Mv)
+- [Slow down by Haska, Nattica](https://open.spotify.com/track/094M5xwjJU0P9qixNJ2lBh)
+- [Utah by RNX](https://open.spotify.com/track/790YqtAohsZS6U6J237zx1)
+- [I&#39;ll Hear Your Voice Again by Dominik Link](https://open.spotify.com/track/02Z18ojoZoHlN4IQDKHd9g)
+- [Quick To Leave by One Flame](https://open.spotify.com/track/3XtoGArFVnpHMq8P2RAnvd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
