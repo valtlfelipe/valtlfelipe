@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usestrix/strix](https://github.com/usestrix/strix)** - Open-source AI hackers to find and fix your app’s vulnerabilities. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Ignora (Ao Vivo) by Felipe e Rodrigo](https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC)
-- [Eu Duvido - Ao Vivo by Guilherme &amp; Benuto, Panda](https://open.spotify.com/track/2NKgvPdAy8FUC5p1l0YnKg)
-- [Calcinha de Renda - Ao Vivo by Panda, Gusttavo Lima, MJ Records](https://open.spotify.com/track/332rqteO5O475UV5zgSKPQ)
-- [Não Namora - Ao Vivo by Clayton &amp; Romário, Zé Neto &amp; Cristiano](https://open.spotify.com/track/1YyQcX3oM8YsMTKeYFpoKx)
-- [Não Mexe nas Minhas Gavetas - Ao Vivo by Danilo e Davi](https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ)
+- [Éter by Etza, Keymos](https://open.spotify.com/track/3zPXRKM3N6F7CQTPJBg9SN)
+- [another day by just nearby](https://open.spotify.com/track/7KCcGdrTS9UPXfeUA5XRUr)
+- [Radiance by Delphine Dekker](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj)
+- [Sprout by Yim](https://open.spotify.com/track/7vjXqLwFaCHRjzwUKQI4lY)
+- [Lacando by Pourin](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
