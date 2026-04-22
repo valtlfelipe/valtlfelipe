@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[versity/versitygw](https://github.com/versity/versitygw)** - A simple to deploy but feature rich S3 object storage server for your filesystem (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [More Time by Arctik](https://open.spotify.com/track/5U0vv4cIUZADO4pwLV8HfA)
-- [All So Easy by Soft Hours](https://open.spotify.com/track/6P0PS0Y3DKdBplFmNbbrUq)
-- [Wide Awake by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/3VMpFBqmPfuVp9LH7TvKOh)
-- [Faded by Stendahl, Fløa](https://open.spotify.com/track/4smq9RvAACeKR0fCkLYv8x)
-- [Give It Up by Blewbird](https://open.spotify.com/track/1SRKid22KbZ3yF8vkmosUP)
+- [Rewinding by Beauvois](https://open.spotify.com/track/02T6akp3tVB1p7SMoqHNAJ)
+- [Aligned by Slow Ted](https://open.spotify.com/track/1FJ30vrIqdagpDSUfXTIXu)
+- [Just a Dream by Keymos, hexale](https://open.spotify.com/track/0o8gqzAq5EeEAGhZlg9b8B)
+- [Orange Clouds by Guy Didden](https://open.spotify.com/track/3v8CbIi4uBw6O1F2D7PWuu)
+- [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
