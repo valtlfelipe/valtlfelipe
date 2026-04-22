@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[usestrix/strix](https://github.com/usestrix/strix)** - Open-source AI hackers to find and fix your app’s vulnerabilities. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Messed Up by Dim Sum](https://open.spotify.com/track/2lMXLM0yFQ8znkXLcFx00S)
-- [Hold Me Back by Leavs.](https://open.spotify.com/track/72gwfrwfU1tnumyhYP0DrV)
-- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
-- [Sunset and You by Sole Sole](https://open.spotify.com/track/0xoClkfMQVpn2VPa598UlI)
-- [See You by Farves, Duce](https://open.spotify.com/track/7gNihynx9ol9yurDT078Mv)
+- [Let Me Down by Guy Didden](https://open.spotify.com/track/6SozluLQrNhsr6A76yKYrp)
+- [Valere by dwelyr](https://open.spotify.com/track/44g8p6dGpZPsfYQNuXOXIz)
+- [Your Love by Alena Kita](https://open.spotify.com/track/1mQTCIwpgu80aGTlDLXo9L)
+- [Lost in Time by sûr faire](https://open.spotify.com/track/2456S0tdor7XfGJWaYXnPx)
+- [Nowhere To Go by Ruffnux](https://open.spotify.com/track/1j7utSfFU9HFO3sIcWQOn2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
