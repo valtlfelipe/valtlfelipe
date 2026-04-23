@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[slimphp/Slim](https://github.com/slimphp/Slim)** - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. (today)
-- **[phalcon/cphalcon](https://github.com/phalcon/cphalcon)** - High performance, full-stack PHP framework delivered as a C extension. (today)
-- **[carthage-software/mago](https://github.com/carthage-software/mago)** - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- **[smol-machines/smolvm](https://github.com/smol-machines/smolvm)** - Tool to build &amp; run portable, lightweight, self-contained virtual machines. (5 days ago)
-- **[versity/versitygw](https://github.com/versity/versitygw)** - A simple to deploy but feature rich S3 object storage server for your filesystem (5 days ago)
+- **[slimphp/Slim](https://github.com/slimphp/Slim)** - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. (1 day ago)
+- **[phalcon/cphalcon](https://github.com/phalcon/cphalcon)** - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
+- **[carthage-software/mago](https://github.com/carthage-software/mago)** - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
+- **[smol-machines/smolvm](https://github.com/smol-machines/smolvm)** - Tool to build &amp; run portable, lightweight, self-contained virtual machines. (6 days ago)
+- **[versity/versitygw](https://github.com/versity/versitygw)** - A simple to deploy but feature rich S3 object storage server for your filesystem (6 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Rewinding by Beauvois](https://open.spotify.com/track/02T6akp3tVB1p7SMoqHNAJ)
