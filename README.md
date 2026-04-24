@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[carthage-software/mago](https://github.com/carthage-software/mago)** - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (2 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
+- [I&#39;ll Take Your Love by Coastlines](https://open.spotify.com/track/3uxHzDd1HUty2FExtxM4B6)
+- [Nostalgic by One Flame](https://open.spotify.com/track/3sjWdQCr2u0uo4KeWJCTjw)
+- [Again by Alena Kita](https://open.spotify.com/track/6dqlg1lI4oUbZaaqIDuz3c)
 - [Echoes of You by Nick En Mare](https://open.spotify.com/track/3wCiOryqYjkMDECKCcEo0Y)
-- [Barcelona by Thommy Robbins](https://open.spotify.com/track/2TAW2HrL7q3otG1AROSoBv)
-- [Before I Let Go by Max Blücher](https://open.spotify.com/track/0DQhPNiwN5AH2jVYF4yrjY)
-- [Holding You by twominds, HNE](https://open.spotify.com/track/0LHqrkjLAV8xbhQ6oG5PXw)
-- [Desire (Tritonia 529) by Spark030](https://open.spotify.com/track/1knJYOrr6p8nT80LgqZ1Fl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
