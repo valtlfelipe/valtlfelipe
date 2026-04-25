@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[carthage-software/mago](https://github.com/carthage-software/mago)** - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Moments by Alex Swank](https://open.spotify.com/track/777gvqfC9a0pFRvlPKnwmq)
-- [Sunday by Clément Leroux](https://open.spotify.com/track/72hlIMZzH5uKjddm1BHqIl)
-- [California by KAAJO, Ren Ocean](https://open.spotify.com/track/5daRReqqfm4Kt5q6SrbusI)
-- [Serenity by dim figure](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT)
-- [another day by just nearby](https://open.spotify.com/track/7KCcGdrTS9UPXfeUA5XRUr)
+- [Lead My Heart by Jerry Baccardi](https://open.spotify.com/track/7F2Pr0UmmeKmvZg9fIAWzJ)
+- [Lovin&#39; You - Chill Mix by Deepend, SVNSETS, Aloma Steele](https://open.spotify.com/track/2IzvfOztA9oSZXj2kbvyCx)
+- [Walk Through Fire by PLVTO](https://open.spotify.com/track/3QlvnIj9gZfJt2LAKShztz)
+- [Sunset Skybar by Palma Dreams](https://open.spotify.com/track/5eqQtD31iK7C3KgNcFTM6Q)
+- [Rift - Original Mix by Matt Lange](https://open.spotify.com/track/6a00XPPDWpUeNDbGhRAAch)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
