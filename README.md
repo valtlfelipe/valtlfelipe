@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[carthage-software/mago](https://github.com/carthage-software/mago)** - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Quick To Leave by One Flame](https://open.spotify.com/track/3XtoGArFVnpHMq8P2RAnvd)
-- [Quick To Leave by One Flame](https://open.spotify.com/track/3XtoGArFVnpHMq8P2RAnvd)
-- [Innerspace - Dan &amp; Sam Intro Mix by Gregory Esayan, Dan &amp; Sam](https://open.spotify.com/track/1oz228zg8R4Yqth9OFooYX)
-- [Love You Better by Quivver, Stelios Vassiloudis](https://open.spotify.com/track/2Tv1wayudsjLyry6zWkUnr)
-- [Insomniac - Extended Mix by LAR, Keepa](https://open.spotify.com/track/0Wgzr6blUUNflj8EhlH9ZY)
+- [Cloudrunning by MayDance](https://open.spotify.com/track/6qihY4aQvSz0hb5Lw79ITu)
+- [Slow down by Haska, Nattica](https://open.spotify.com/track/094M5xwjJU0P9qixNJ2lBh)
+- [Loud Noises by Slow Ted](https://open.spotify.com/track/0EXEIxNbHTQplnmU6DFbXP)
+- [Sprout by Yim](https://open.spotify.com/track/7vjXqLwFaCHRjzwUKQI4lY)
+- [Long Time by Quivver](https://open.spotify.com/track/6Z20GXDCKtSRybMRFy8pps)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
