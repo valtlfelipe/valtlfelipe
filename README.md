@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[carthage-software/mago](https://github.com/carthage-software/mago)** - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Been A While by Duce, Eijk](https://open.spotify.com/track/69AK1a9v38Nk8TmFCtAMW7)
-- [I&#39;ll Take Your Love by Coastlines](https://open.spotify.com/track/3uxHzDd1HUty2FExtxM4B6)
-- [Nostalgic by One Flame](https://open.spotify.com/track/3sjWdQCr2u0uo4KeWJCTjw)
-- [Again by Alena Kita](https://open.spotify.com/track/6dqlg1lI4oUbZaaqIDuz3c)
-- [Echoes of You by Nick En Mare](https://open.spotify.com/track/3wCiOryqYjkMDECKCcEo0Y)
+- [Moments by Alex Swank](https://open.spotify.com/track/777gvqfC9a0pFRvlPKnwmq)
+- [Serenity by dim figure](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT)
+- [Utah by RNX](https://open.spotify.com/track/790YqtAohsZS6U6J237zx1)
+- [Just a Dream by Keymos, hexale](https://open.spotify.com/track/0o8gqzAq5EeEAGhZlg9b8B)
+- [Orange Clouds by Guy Didden](https://open.spotify.com/track/3v8CbIi4uBw6O1F2D7PWuu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
