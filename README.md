@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[carthage-software/mago](https://github.com/carthage-software/mago)** - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Lead My Heart by Jerry Baccardi](https://open.spotify.com/track/7F2Pr0UmmeKmvZg9fIAWzJ)
-- [Lovin&#39; You - Chill Mix by Deepend, SVNSETS, Aloma Steele](https://open.spotify.com/track/2IzvfOztA9oSZXj2kbvyCx)
-- [Walk Through Fire by PLVTO](https://open.spotify.com/track/3QlvnIj9gZfJt2LAKShztz)
-- [Sunset Skybar by Palma Dreams](https://open.spotify.com/track/5eqQtD31iK7C3KgNcFTM6Q)
-- [Rift - Original Mix by Matt Lange](https://open.spotify.com/track/6a00XPPDWpUeNDbGhRAAch)
+- [Love You Better by Quivver, Stelios Vassiloudis](https://open.spotify.com/track/2Tv1wayudsjLyry6zWkUnr)
+- [Insomniac - Extended Mix by LAR, Keepa](https://open.spotify.com/track/0Wgzr6blUUNflj8EhlH9ZY)
+- [Blind (Again) by Exit Coda](https://open.spotify.com/track/1ePHMezFP5D6FXeiTyRLyD)
+- [I Fall You Run by POOLSE](https://open.spotify.com/track/7t50AkYJKK7SBwNouxPe70)
+- [Follow You by BangLoud](https://open.spotify.com/track/2KR9McYUmuJm0FbSEWcJcR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
