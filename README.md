@@ -11,9 +11,9 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 
 #### 🎧 Spotify recent tracks
 - [Moments by Alex Swank](https://open.spotify.com/track/777gvqfC9a0pFRvlPKnwmq)
+- [Sunday by Clément Leroux](https://open.spotify.com/track/72hlIMZzH5uKjddm1BHqIl)
+- [California by KAAJO, Ren Ocean](https://open.spotify.com/track/5daRReqqfm4Kt5q6SrbusI)
 - [Serenity by dim figure](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT)
-- [Utah by RNX](https://open.spotify.com/track/790YqtAohsZS6U6J237zx1)
-- [Just a Dream by Keymos, hexale](https://open.spotify.com/track/0o8gqzAq5EeEAGhZlg9b8B)
-- [Orange Clouds by Guy Didden](https://open.spotify.com/track/3v8CbIi4uBw6O1F2D7PWuu)
+- [another day by just nearby](https://open.spotify.com/track/7KCcGdrTS9UPXfeUA5XRUr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
