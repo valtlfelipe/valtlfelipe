@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[carthage-software/mago](https://github.com/carthage-software/mago)** - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Radiance by Delphine Dekker](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj)
-- [Nothing Out Here by Nigel Good](https://open.spotify.com/track/4CetOjFzPET3GvB4hafZvM)
-- [Lacando by Pourin](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI)
-- [Cloudrunning by MayDance](https://open.spotify.com/track/6qihY4aQvSz0hb5Lw79ITu)
-- [Slow down by Haska, Nattica](https://open.spotify.com/track/094M5xwjJU0P9qixNJ2lBh)
+- [I&#39;ll Hear Your Voice Again by Dominik Link](https://open.spotify.com/track/02Z18ojoZoHlN4IQDKHd9g)
+- [Sunday by Clément Leroux](https://open.spotify.com/track/72hlIMZzH5uKjddm1BHqIl)
+- [All On You by azvre, Chris Crone](https://open.spotify.com/track/2tPcBBtc3QTUdVwSbv6SJT)
+- [Only You by Luminex, Will Knight](https://open.spotify.com/track/0IhWnj0q4RwNG1gdTixqGu)
+- [Side by Alena Kita](https://open.spotify.com/track/1JFCEqaDidrmNppYNrxz1X)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
