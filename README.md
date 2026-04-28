@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[phalcon/cphalcon](https://github.com/phalcon/cphalcon)** - High performance, full-stack PHP framework delivered as a C extension. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Drive by Courtney Storm, Béatrice Dupont](https://open.spotify.com/track/5TmpcFPSQbCj3Ft6rKoRv3)
-- [Escapades by Aiyo](https://open.spotify.com/track/6Awih06qBWDAlaIdRbsBCy)
-- [Days by Rick Groove](https://open.spotify.com/track/7DKuhq9CcQqCeTMiIx0UjY)
-- [Wavelost - Mixed by Klangsberg](https://open.spotify.com/track/6BYiBwA2BtTgf7Q8kjUj2n)
-- [Read My Thoughts by Civet Cat](https://open.spotify.com/track/4zzmQTdvUQ15eH3TfQqEBd)
+- [Light by TOMB](https://open.spotify.com/track/5gY5dHJSbolTg0wxzhJynj)
+- [Rash by NEVAEHdwm](https://open.spotify.com/track/2IqCOTFIjfFLLcRJcrW4wl)
+- [Mist by VEHA](https://open.spotify.com/track/4reU8aYwYfUVZG04YTXnHh)
+- [Oceans Under by Blugazer](https://open.spotify.com/track/6eYcDi7BY6mafrhnDpE5dB)
+- [Hate for You to Go by Maiwan](https://open.spotify.com/track/1eUtycDjtd4H1Rx5gFgKZP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
