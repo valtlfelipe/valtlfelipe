@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[phalcon/cphalcon](https://github.com/phalcon/cphalcon)** - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Ocean Drive by Pureblue](https://open.spotify.com/track/5YNKE6uonNWtv2ebBfi6aZ)
-- [minor sunrise by elderflower](https://open.spotify.com/track/3qwhl85eZZ0oBQLO1nKERG)
-- [Free My Soul (Tritonia 531) by w.ill, Boehm](https://open.spotify.com/track/6dJ68avrTcJBYeTue4gqMt)
-- [Take Me There by NightRec](https://open.spotify.com/track/2BQxz3uzhtXEeqIhQ60fx7)
-- [INFINITE by SoN](https://open.spotify.com/track/3soQNBnujuHVriffjZJ6jU)
+- [Bahrain by Bridges](https://open.spotify.com/track/3gpAqLkdDZBXhvV0wsal1t)
+- [Look What You&#39;ve Done by Duce](https://open.spotify.com/track/5PzCc6cRPFwTuMy8xDymqh)
+- [Tomorrow&#39;s Sky by Approaching Black](https://open.spotify.com/track/3g0HJC70tDzOY61tzH3NN4)
+- [A Celebration Of Existence by Slow Ted](https://open.spotify.com/track/2iE5cwkEzQCAIcDVqfbpHr)
+- [All My Light - Extended Mix by Boy North](https://open.spotify.com/track/0Ver2M9ACOsKQemaEAYCft)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
