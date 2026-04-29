@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[phalcon/cphalcon](https://github.com/phalcon/cphalcon)** - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Glass House by UTAH, ADAM](https://open.spotify.com/track/5nyUpVpkLbIZJlzPFVSYx8)
-- [Rapha by Lukas Termena](https://open.spotify.com/track/0V0thITlIwCsWZN5a9QoGg)
-- [Human - Chill Mix by Alex Adair, Richard Judge](https://open.spotify.com/track/17lkfhU2pgqdv1XwHslGvr)
-- [Calmlands by Valante](https://open.spotify.com/track/2SK5QZKH4jjG6HMMiDNh22)
-- [Boardwalk Lullaby by Sum Wave](https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc)
+- [Ocean Drive by Pureblue](https://open.spotify.com/track/5YNKE6uonNWtv2ebBfi6aZ)
+- [minor sunrise by elderflower](https://open.spotify.com/track/3qwhl85eZZ0oBQLO1nKERG)
+- [Free My Soul (Tritonia 531) by w.ill, Boehm](https://open.spotify.com/track/6dJ68avrTcJBYeTue4gqMt)
+- [Take Me There by NightRec](https://open.spotify.com/track/2BQxz3uzhtXEeqIhQ60fx7)
+- [INFINITE by SoN](https://open.spotify.com/track/3soQNBnujuHVriffjZJ6jU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
