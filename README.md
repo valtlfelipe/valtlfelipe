@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[slimphp/Slim](https://github.com/slimphp/Slim)** - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Adriatic by Andrew Long](https://open.spotify.com/track/6CZ9vp9eeqCU4r406X776r)
+- [Mojave by PRAANA](https://open.spotify.com/track/3RriqKIIunYg0sZssJomaC)
 - [Road 105 by Nihoni](https://open.spotify.com/track/3v3DIkhJu8IZa593oPWvQs)
 - [Milo&#39;s Breeze by Sum Wave](https://open.spotify.com/track/0dRkDLn2br5vver9AaGirB)
 - [We Fall Apart by Maiwan](https://open.spotify.com/track/5waW7p2osjuJGBC0IbxOKQ)
-- [Venice Beach by Kozua](https://open.spotify.com/track/3S1ANvfLwD21P0A8Jvy6LX)
-- [Light by TOMB](https://open.spotify.com/track/5gY5dHJSbolTg0wxzhJynj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
