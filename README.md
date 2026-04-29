@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[phalcon/cphalcon](https://github.com/phalcon/cphalcon)** - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Yo Soy by Manu Zain](https://open.spotify.com/track/2KB9MFdQFTCHv1gS4TuAlU)
-- [Nostalgia by Melosense](https://open.spotify.com/track/0Vtwa1eRykSFTGXbDBq7d2)
-- [Herealways by Jordin Post](https://open.spotify.com/track/4gbMgmhUXyALxtSzDqwngF)
-- [Best Of Times by Enviado Vida](https://open.spotify.com/track/4mIc4MPYoOLXwq9y75sQaY)
-- [Lagoon by Qualysto](https://open.spotify.com/track/37l6nrAm73UXLa6qnAtYeT)
+- [Attente by Beauvois](https://open.spotify.com/track/68FklWGUQj6uI1bwCBKynh)
+- [Stay Stay Stay by Maiwan](https://open.spotify.com/track/33czMN7Ab3fE9iG2Dz3rnC)
+- [Moonlight by Pureblue](https://open.spotify.com/track/3wAhOhHnVLJEpijqUxylBc)
+- [My Best Friend by Ceci](https://open.spotify.com/track/1wint3Gg9OHNw8h8I5VgTU)
+- [Waterbreathing by Che-Yung](https://open.spotify.com/track/5bWxrQsK48VHhHBpGOlbXR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
