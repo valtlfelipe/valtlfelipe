@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[slimphp/Slim](https://github.com/slimphp/Slim)** - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Mess It Up (feat. The Kite String Tangle) by Jerro, The Kite String Tangle](https://open.spotify.com/track/6LZuciI92OHXoiZil4qaDE)
-- [Oracle by TOMB](https://open.spotify.com/track/78aKaUV8nSyqh7T8ldzz85)
-- [Floating by Klur](https://open.spotify.com/track/4qzIWW9yArNdpuqc9SbtJH)
-- [How Did We Get Here by Andrew Nagy, Lovlee](https://open.spotify.com/track/6rObeWLiabZriNlsKwVt5N)
-- [Desire by Spark030](https://open.spotify.com/track/6uEQVPSfyUeoeDPkufeshe)
+- [Tell Me Where You Want To Go by Ourson](https://open.spotify.com/track/7IMxZtkmUQqWqKO9N0Z62f)
+- [Alone by Lipless, Blue Noir](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln)
+- [Run by Lane 8, Kasablanca](https://open.spotify.com/track/0yjxW8s0Uuk9uKi0Nh9B7T)
+- [Talking Like That by Le Youth, EMME](https://open.spotify.com/track/52UwTliVhL0qDwpukA00bX)
+- [Firmoral by Polar Inc.](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
