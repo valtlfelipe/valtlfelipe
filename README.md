@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[slimphp/Slim](https://github.com/slimphp/Slim)** - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Moonlight by Pureblue](https://open.spotify.com/track/3wAhOhHnVLJEpijqUxylBc)
-- [My Best Friend by Ceci](https://open.spotify.com/track/1wint3Gg9OHNw8h8I5VgTU)
-- [Waterbreathing by Che-Yung](https://open.spotify.com/track/5bWxrQsK48VHhHBpGOlbXR)
-- [Be The One by blaank, Jack Kelly](https://open.spotify.com/track/6uX04VzluL3jXcWcJgZFa7)
-- [Yo Soy by Manu Zain](https://open.spotify.com/track/2KB9MFdQFTCHv1gS4TuAlU)
+- [Mess It Up (feat. The Kite String Tangle) by Jerro, The Kite String Tangle](https://open.spotify.com/track/6LZuciI92OHXoiZil4qaDE)
+- [Oracle by TOMB](https://open.spotify.com/track/78aKaUV8nSyqh7T8ldzz85)
+- [Floating by Klur](https://open.spotify.com/track/4qzIWW9yArNdpuqc9SbtJH)
+- [How Did We Get Here by Andrew Nagy, Lovlee](https://open.spotify.com/track/6rObeWLiabZriNlsKwVt5N)
+- [Desire by Spark030](https://open.spotify.com/track/6uEQVPSfyUeoeDPkufeshe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
