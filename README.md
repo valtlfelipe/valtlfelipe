@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Atlantis by Marzell Paris](https://open.spotify.com/track/0PJuIFpRVzbySm84UTG3bv)
-- [Daydream - Extended Mix by Vintage &amp; Morelli](https://open.spotify.com/track/6dT4YUCjwpMZHWX1J28Jtu)
-- [Tell Me Where You Want To Go by Ourson](https://open.spotify.com/track/7IMxZtkmUQqWqKO9N0Z62f)
-- [Alone by Lipless, Blue Noir](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln)
-- [Run by Lane 8, Kasablanca](https://open.spotify.com/track/0yjxW8s0Uuk9uKi0Nh9B7T)
+- [White Noise by Sferix](https://open.spotify.com/track/66aM7i2B6wGaMthpNAEHGK)
+- [Kasamansa by Trilucid](https://open.spotify.com/track/76nQ9J4Y0J3fYefllezpro)
+- [For You by Jack Willard, Coastlines](https://open.spotify.com/track/6qJXWYGrzDLMS7aGIVmtkx)
+- [come on love. by Ajaw Soul](https://open.spotify.com/track/665OVlUgmVm0gRm7QEPkn2)
+- [So Vibe by Ali Neroli](https://open.spotify.com/track/58VrQ42qzMvv8xIX2geQYW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
