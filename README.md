@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [White Noise by Sferix](https://open.spotify.com/track/66aM7i2B6wGaMthpNAEHGK)
-- [Kasamansa by Trilucid](https://open.spotify.com/track/76nQ9J4Y0J3fYefllezpro)
-- [For You by Jack Willard, Coastlines](https://open.spotify.com/track/6qJXWYGrzDLMS7aGIVmtkx)
-- [come on love. by Ajaw Soul](https://open.spotify.com/track/665OVlUgmVm0gRm7QEPkn2)
-- [So Vibe by Ali Neroli](https://open.spotify.com/track/58VrQ42qzMvv8xIX2geQYW)
+- [All My Life by Purple Disco Machine, The Magician](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs)
+- [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
+- [About Damn Time - Purple Disco Machine Remix by Lizzo, Purple Disco Machine](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI)
+- [Can&#39;t Deny It by Jazzy, Spriitzz](https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ)
+- [Tell Me What You Want by Oden &amp; Fatzo, Poppy Baskcomb](https://open.spotify.com/track/7pPMx57fvpINMYGE0eZFhp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
