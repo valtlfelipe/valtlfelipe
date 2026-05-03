@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [A New Day (feat. Celine Dion) by Sebastian Ingrosso, Céline Dion](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7)
 - [I&#39;m Not Alone - MPH Remix by Calvin Harris, MPH](https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx)
 - [You by BUNT., Oaks](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK)
 - [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
 - [Go Back (feat. Julia Church) by John Summit, Sub Focus, Julia Church](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh)
-- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
