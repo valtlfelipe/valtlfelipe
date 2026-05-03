@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [All My Life by Purple Disco Machine, The Magician](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs)
-- [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
-- [About Damn Time - Purple Disco Machine Remix by Lizzo, Purple Disco Machine](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI)
-- [Can&#39;t Deny It by Jazzy, Spriitzz](https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ)
-- [Tell Me What You Want by Oden &amp; Fatzo, Poppy Baskcomb](https://open.spotify.com/track/7pPMx57fvpINMYGE0eZFhp)
+- [Sentadona by Eric Land, Léo Santana](https://open.spotify.com/track/14kkmpHOtW75O3sE3V53rf)
+- [Saudade by HITMAKER, Anitta](https://open.spotify.com/track/68bBkraktrqkPBChCR9O7j)
+- [Dia de Fluxo by AgroPlay, Ana Castela, LUDMILLA](https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl)
+- [As Menina da Pecuária by Ana Castela, Léo &amp; Raphael](https://open.spotify.com/track/5BLGkc9wHsHQCccFkmZi7o)
+- [Eu Vou na Sua Casa by Felipe Amorim, Vitão, BIN, Malibu](https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
