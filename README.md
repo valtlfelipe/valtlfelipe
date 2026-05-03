@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/7rXke3ttpL2uXel9Nesf4u)
-- [Sentadona by Eric Land, Léo Santana](https://open.spotify.com/track/14kkmpHOtW75O3sE3V53rf)
-- [Saudade by HITMAKER, Anitta](https://open.spotify.com/track/68bBkraktrqkPBChCR9O7j)
-- [Dia de Fluxo by AgroPlay, Ana Castela, LUDMILLA](https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl)
-- [As Menina da Pecuária by Ana Castela, Léo &amp; Raphael](https://open.spotify.com/track/5BLGkc9wHsHQCccFkmZi7o)
+- [I&#39;m Not Alone - MPH Remix by Calvin Harris, MPH](https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx)
+- [You by BUNT., Oaks](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK)
+- [She’s Gone, Dance On by Disclosure](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR)
+- [Go Back (feat. Julia Church) by John Summit, Sub Focus, Julia Church](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh)
+- [Black Friday (pretty like the sun) by Lost Frequencies, Tom Odell](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
