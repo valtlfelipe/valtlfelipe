@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Introvert - Extended Mix by Stendahl](https://open.spotify.com/track/4N5DuivLIGEqPxyRW3FeuZ)
-- [Home In You by Falden, FARLEY](https://open.spotify.com/track/2QOZeqFUMYHqFhVArYH8dA)
-- [Daybreak (Tritonia 478) by w.ill](https://open.spotify.com/track/7GksXtoc2rwcEQSO70txvX)
-- [Falling by Arnie Way](https://open.spotify.com/track/2r0vsATBql8ptM1Ry9fKTr)
-- [Falling by Arnie Way](https://open.spotify.com/track/2r0vsATBql8ptM1Ry9fKTr)
+- [Can&#39;t Get You Off My Mind by Approaching Black](https://open.spotify.com/track/03BJeWF8k5CsPyeGOSClBW)
+- [Side Step (Into The Ether Remix) - Mixed by Parvenu, Into The Ether](https://open.spotify.com/track/5FAN89tRAnGczWK9QoGJEt)
+- [Only You by Grafine](https://open.spotify.com/track/30pVoV5FuU2y7sN0XvZq2B)
+- [Lifetime by Banaati, Xerxes-K](https://open.spotify.com/track/34mtGazo8sF5hGimhEKBZp)
+- [Turn It Around - Extended Mix by VEHA, Rondo Mo](https://open.spotify.com/track/1w3yOarCa8UCmCNO0Y6eRL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
