@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Sleepless by Cushy](https://open.spotify.com/track/6NM6O8YFXpx8AYt1YhmsRl)
-- [See You There by Pat Jr](https://open.spotify.com/track/0aAykGQJO2x6xQNU99IbFO)
-- [Elements by Martin Bloumy](https://open.spotify.com/track/1zqrpDC2dg0gdBBK4W6ic1)
-- [Up and Down by YOUMAN](https://open.spotify.com/track/3KBh9Qj2G5dUYmU23xPtNy)
-- [Again by Grafine](https://open.spotify.com/track/6W921F3xTYSO5fzYeI8Fu9)
+- [Introvert - Extended Mix by Stendahl](https://open.spotify.com/track/4N5DuivLIGEqPxyRW3FeuZ)
+- [Home In You by Falden, FARLEY](https://open.spotify.com/track/2QOZeqFUMYHqFhVArYH8dA)
+- [Daybreak (Tritonia 478) by w.ill](https://open.spotify.com/track/7GksXtoc2rwcEQSO70txvX)
+- [Falling by Arnie Way](https://open.spotify.com/track/2r0vsATBql8ptM1Ry9fKTr)
+- [Falling by Arnie Way](https://open.spotify.com/track/2r0vsATBql8ptM1Ry9fKTr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
