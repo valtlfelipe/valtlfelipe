@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Can&#39;t Get You Off My Mind by Approaching Black](https://open.spotify.com/track/03BJeWF8k5CsPyeGOSClBW)
-- [Side Step (Into The Ether Remix) - Mixed by Parvenu, Into The Ether](https://open.spotify.com/track/5FAN89tRAnGczWK9QoGJEt)
-- [Only You by Grafine](https://open.spotify.com/track/30pVoV5FuU2y7sN0XvZq2B)
-- [Lifetime by Banaati, Xerxes-K](https://open.spotify.com/track/34mtGazo8sF5hGimhEKBZp)
-- [Turn It Around - Extended Mix by VEHA, Rondo Mo](https://open.spotify.com/track/1w3yOarCa8UCmCNO0Y6eRL)
+- [Closer Now by Sinova](https://open.spotify.com/track/0jFXUIGN8igybsiStFlxbm)
+- [Let Me Go - Mixed by Leo Lauretti, Arnie Way](https://open.spotify.com/track/7JvoUR2p6m13gUjNSQciOz)
+- [Back of My Mind (ABGT674) - Mixed by Anjunadeep](https://open.spotify.com/track/7IKPgOVqimYGPr0CKy31Fu)
+- [Another Day - Mixed by w.ill](https://open.spotify.com/track/5aNUQsD97lRNHmsdph6klg)
+- [By Myself - Original Mix by GAR](https://open.spotify.com/track/705x3NSz8ocihX2oRR3s1Y)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
