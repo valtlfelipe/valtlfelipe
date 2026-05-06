@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Great Plains - Extended Mix by Verbala](https://open.spotify.com/track/5DEUfuTjU2CuvBS7GHTeg6)
-- [Meteoros - Electronic by Leo Nocta, Exit Coda](https://open.spotify.com/track/3VniE7w6kvMA5R6QkVbMUw)
-- [Blue (Tritonia 499) by Datskie](https://open.spotify.com/track/1mvlyGWN6FvMgScaEfbnrt)
-- [Rosso - Mixed by Chris Savor, Stendahl](https://open.spotify.com/track/66lSSMIPK8GPbK4SpL5S71)
-- [Sparks Of Time (Interplay 542) by EMIOL](https://open.spotify.com/track/3UQTisARih2G9A9gcXSoTw)
+- [Somewhere In The Clouds by Characterising Runs](https://open.spotify.com/track/6TH02DQtuIGt4RQWLkgyUH)
+- [Faded - Mixed by Stendahl, Fløa](https://open.spotify.com/track/6obmJSR6y1gIbddKdjNYNw)
+- [Smoke Signals by Rustborne](https://open.spotify.com/track/4DKHFGTtLT9jKY7G5Mi0iC)
+- [In The Shadows - Extended Mix by zaccwithtwocs](https://open.spotify.com/track/45L2TeODtYZfUqK2SZgYRO)
+- [Be So Cold - Mixed by LAR, Chris Savor](https://open.spotify.com/track/1G20nBEcFJ9h99vbiesby8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
