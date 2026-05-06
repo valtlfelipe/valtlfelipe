@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Falling by Arnie Way](https://open.spotify.com/track/2r0vsATBql8ptM1Ry9fKTr)
-- [Falling by Arnie Way](https://open.spotify.com/track/2r0vsATBql8ptM1Ry9fKTr)
-- [First Day by Elliot Vast](https://open.spotify.com/track/2InZMN1dTNkVG1GvoZi0g4)
-- [It’s Not The End, It’s A Beginning by pxp pxp](https://open.spotify.com/track/7N2WulBkIIKU11ueZlEW5e)
-- [Freefall by Sound Quelle, MØØNE](https://open.spotify.com/track/2lz6QRSLheU1XF5MviAW8W)
+- [Great Plains - Extended Mix by Verbala](https://open.spotify.com/track/5DEUfuTjU2CuvBS7GHTeg6)
+- [Meteoros - Electronic by Leo Nocta, Exit Coda](https://open.spotify.com/track/3VniE7w6kvMA5R6QkVbMUw)
+- [Blue (Tritonia 499) by Datskie](https://open.spotify.com/track/1mvlyGWN6FvMgScaEfbnrt)
+- [Rosso - Mixed by Chris Savor, Stendahl](https://open.spotify.com/track/66lSSMIPK8GPbK4SpL5S71)
+- [Sparks Of Time (Interplay 542) by EMIOL](https://open.spotify.com/track/3UQTisARih2G9A9gcXSoTw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
