@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Somewhere In The Clouds by Characterising Runs](https://open.spotify.com/track/6TH02DQtuIGt4RQWLkgyUH)
-- [Faded - Mixed by Stendahl, Fløa](https://open.spotify.com/track/6obmJSR6y1gIbddKdjNYNw)
-- [Smoke Signals by Rustborne](https://open.spotify.com/track/4DKHFGTtLT9jKY7G5Mi0iC)
-- [In The Shadows - Extended Mix by zaccwithtwocs](https://open.spotify.com/track/45L2TeODtYZfUqK2SZgYRO)
-- [Be So Cold - Mixed by LAR, Chris Savor](https://open.spotify.com/track/1G20nBEcFJ9h99vbiesby8)
+- [I Choose You by TMPST, Maynørr, Donner](https://open.spotify.com/track/3HB71BvCcDKmRcsuz7PAv7)
+- [Do It All Again by heylucas, HNE](https://open.spotify.com/track/3th9QWkO5Rn0HbD0v4E8mT)
+- [Feel This by DÏVÄG](https://open.spotify.com/track/3QAAnrgDyRsdBEYNLcJg6Q)
+- [Nothing Else Played by After Midnight Deep](https://open.spotify.com/track/0dEiC6LObUtKatjHXhBekB)
+- [Bette Davis Eyes by Elderbrook](https://open.spotify.com/track/1RZOXKIsd4ivru5jx2P9lI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
