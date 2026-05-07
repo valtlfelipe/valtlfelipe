@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Serotonin Moonbeams by The Blessed Madonna, Uffie](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9)
-- [THIS IS FOR YOU (feat. Niki &amp; the Dove) by KC Lights, Niki &amp; The Dove](https://open.spotify.com/track/2EY0iypCKjix9tBeaGvm03)
-- [Blue Berries by Sem Jacobs, Tagmann](https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4)
-- [21 Reasons (feat. Ella Henderson) by Nathan Dawe, Ella Henderson](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR)
-- [Enjoy Your Life by Romy](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS)
+- [Hold On by Nic Fanciulli, Marc E. Bassy](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw)
+- [I Feel You Everywhere (Antibodies) by Tensnake, LP Giobbi, Cara Melín](https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r)
+- [Forever (with Kid Cudi) by Dom Dolla, Kid Cudi](https://open.spotify.com/track/0TryO56AxrMAMmGSng6z9C)
+- [We Are Family by Cedric Gervais, Nile Rodgers](https://open.spotify.com/track/0XxPbVN8z9kyqarkrsl43J)
+- [By Your Side (feat. Tom Grennan) by Calvin Harris, Tom Grennan](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
