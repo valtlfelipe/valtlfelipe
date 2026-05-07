@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Hold On by Nic Fanciulli, Marc E. Bassy](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw)
-- [I Feel You Everywhere (Antibodies) by Tensnake, LP Giobbi, Cara Melín](https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r)
-- [Forever (with Kid Cudi) by Dom Dolla, Kid Cudi](https://open.spotify.com/track/0TryO56AxrMAMmGSng6z9C)
-- [We Are Family by Cedric Gervais, Nile Rodgers](https://open.spotify.com/track/0XxPbVN8z9kyqarkrsl43J)
-- [By Your Side (feat. Tom Grennan) by Calvin Harris, Tom Grennan](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV)
+- [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
+- [Danielle (smile on my face) by Fred again..](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv)
+- [Holding Your Hand by SACHI, Poppy Baskcomb](https://open.spotify.com/track/6UK7PodvHTVM9vItl0VOKh)
+- [Our Home by Myd](https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv)
+- [I LUV U (Sunny) by Alex Gaudino, BLENDER, Ragdoll](https://open.spotify.com/track/5Zr3A0yB8p60zWiK7kwFxl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
