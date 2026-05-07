@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [‎Sing Hallelujah by Rebecca &amp; Fiona, Dr. Alban](https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ)
-- [Magic With You by DJ Licious, Alex Germys, Alex Lucas](https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv)
-- [Danielle (smile on my face) by Fred again..](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv)
-- [Dance All Over Me - Jax Jones Remix by George Ezra, Jax Jones](https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW)
-- [By My Side by Beau Cruz](https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9)
+- [It&#39;s A Feeling by Sigala, Trevor Daniel, 24kGoldn](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8)
+- [Zero by Devault](https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5)
+- [No One Like You - Edit by Todd Terry, Lyn Jada](https://open.spotify.com/track/5st3oeKHNhCPINTqk73tRx)
+- [Holding Your Hand by SACHI, Poppy Baskcomb](https://open.spotify.com/track/6UK7PodvHTVM9vItl0VOKh)
+- [Holding Your Hand by SACHI, Poppy Baskcomb](https://open.spotify.com/track/6UK7PodvHTVM9vItl0VOKh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
