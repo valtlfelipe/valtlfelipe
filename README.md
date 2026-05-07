@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [JOY (By My Side) by Joy Anonymous, Sammy Virji](https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3)
-- [In The Dark by Armin van Buuren, David Guetta, Aldae](https://open.spotify.com/track/32ZHfOThmj4scVukEWihP8)
-- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
-- [XTC by Cloonee, Jocelyn Enriquez](https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE)
-- [Young Again by Don Diablo, Sandro Cavazza](https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs)
+- [Lucky (feat. Remi Wolf) by Zedd, Remi Wolf](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb)
+- [All My Life by Purple Disco Machine, The Magician](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs)
+- [Dance All Over Me - Jax Jones Remix by George Ezra, Jax Jones](https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW)
+- [Lost In Music by Joshwa](https://open.spotify.com/track/7FUKSjbSp3GrEEPTmj5e5R)
+- [By My Side by Beau Cruz](https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
