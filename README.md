@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Saving Up by Dom Dolla](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr)
-- [Danielle (smile on my face) by Fred again..](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv)
-- [Holding Your Hand by SACHI, Poppy Baskcomb](https://open.spotify.com/track/6UK7PodvHTVM9vItl0VOKh)
-- [Our Home by Myd](https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv)
-- [I LUV U (Sunny) by Alex Gaudino, BLENDER, Ragdoll](https://open.spotify.com/track/5Zr3A0yB8p60zWiK7kwFxl)
+- [JOY (By My Side) by Joy Anonymous, Sammy Virji](https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3)
+- [In The Dark by Armin van Buuren, David Guetta, Aldae](https://open.spotify.com/track/32ZHfOThmj4scVukEWihP8)
+- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
+- [XTC by Cloonee, Jocelyn Enriquez](https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE)
+- [Young Again by Don Diablo, Sandro Cavazza](https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
