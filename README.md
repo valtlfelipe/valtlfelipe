@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Think About Us by Sonny Fodera, D.O.D, Poppy Baskcomb](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj)
-- [Happier (feat. Clementine Douglas) by The Blessed Madonna, Clementine Douglas](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv)
-- [It&#39;s A Feeling by Sigala, Trevor Daniel, 24kGoldn](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8)
-- [Zero by Devault](https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5)
-- [No One Like You - Edit by Todd Terry, Lyn Jada](https://open.spotify.com/track/5st3oeKHNhCPINTqk73tRx)
+- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
+- [get down on it by Young Franco, Kool &amp; The Gang](https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI)
+- [You Take Me Higher by Mark Knight, James Hurr](https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4)
+- [Good Time by Jodie Harsh](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ)
+- [Good Feeling by Duvall, Sam Gray](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
