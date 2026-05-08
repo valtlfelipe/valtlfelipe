@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
-- [get down on it by Young Franco, Kool &amp; The Gang](https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI)
-- [You Take Me Higher by Mark Knight, James Hurr](https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4)
-- [Good Time by Jodie Harsh](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ)
-- [Good Feeling by Duvall, Sam Gray](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM)
+- [Our Home by Myd](https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv)
+- [More Than A Woman - SG&#39;s Paradise Edit by Bee Gees, SG Lewis](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J)
+- [Young Again by Don Diablo, Sandro Cavazza](https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs)
+- [Lots of Love by Brothers Macklovitch, DRAMA, A-Trak](https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
