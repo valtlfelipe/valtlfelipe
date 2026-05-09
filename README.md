@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [get down on it by Young Franco, Kool &amp; The Gang](https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI)
+- [get down on it by Young Franco, Kool &amp; The Gang](https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI)
 - [You Make Me Feel (Mighty Real) - Bright Light Bright Light Remix by Sylvester, Bright Light Bright Light](https://open.spotify.com/track/5WR0SZwAKrzXeprB9Doadd)
 - [You Make Me Feel (Mighty Real) - Bright Light Bright Light Remix by Sylvester, Bright Light Bright Light](https://open.spotify.com/track/5WR0SZwAKrzXeprB9Doadd)
 - [Good Time by Jodie Harsh](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ)
-- [Good Feeling by Duvall, Sam Gray](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM)
-- [Hold On by Nic Fanciulli, Marc E. Bassy](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
