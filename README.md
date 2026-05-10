@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel)** - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Million Dollar Bill by Beyond Chicago, Majestic, Alex Mills](https://open.spotify.com/track/5EYGwMafuplGPwBcEd6TnS)
+- [All For Love by Felix Jaehn, Sandro Cavazza](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus)
 - [Akon&#39;s Beautiful Day - David Guetta &amp; Hypaton Remix by Akon, David Guetta, Hypaton](https://open.spotify.com/track/1RKqTwaovKWaxs9I8xdygQ)
 - [Just The Way You Are by Milky, Mall Grab](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt)
 - [PARTY NEVER STOPS by Yung Bae, Moon Boots](https://open.spotify.com/track/5aFi8YUPnBS7Z32QtbnIbE)
-- [Free (with Ellie Goulding) by Calvin Harris, Ellie Goulding](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC)
-- [Our Home by Myd](https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
