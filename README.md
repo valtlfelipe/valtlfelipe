@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[russellromney/honker](https://github.com/russellromney/honker)** - SQLite extension &#43; bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Guava by SNSE](https://open.spotify.com/track/7yaSlINb3tzSP8Ac1hZ9Pz)
-- [Take Me Away - A.M.R Remix by Shingo Nakamura, Jordin Post, A.M.R](https://open.spotify.com/track/2LGZIQCtEPsAS34c4oHTTq)
-- [I Don&#39;t Wanna Go Back by One Flame](https://open.spotify.com/track/388dj3OfsZisQtl17ESsza)
-- [Somebody by TMPST, Maynørr, Courtney Storm](https://open.spotify.com/track/6r43Av5BfZ0geR5P9FMG2I)
-- [Far Away by Sinova](https://open.spotify.com/track/68fwZWI4IMFJHXI4VAGoYf)
+- [The Way That I Love You by Alex Adair](https://open.spotify.com/track/63AxCkd59ZcPtcvPuwD3DF)
+- [Celeste by Jörd](https://open.spotify.com/track/1e5Yzm94JrFP7yCfWQC6w3)
+- [Echoes Of Us by Temazkal, Veyda, Fagin](https://open.spotify.com/track/3WC4etcQGAjuenoDWbzqes)
+- [find you by mölly, MØØNE](https://open.spotify.com/track/3YtOYGWIhze6fJYKUQnLuI)
+- [Leaning On by Lost In Pacific](https://open.spotify.com/track/0XTP9ROE79nid8m6OoAGgZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
