@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[russellromney/honker](https://github.com/russellromney/honker)** - SQLite extension &#43; bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Feel Again by rshand](https://open.spotify.com/track/5a5ASbvxcNiZqMVmDNx9lp)
-- [Lost in Time by sûr faire](https://open.spotify.com/track/2456S0tdor7XfGJWaYXnPx)
-- [As Time Goes By by Feathervane, NEREUS](https://open.spotify.com/track/4gImSU6dYGOV08obsbcnCa)
-- [To Be by Elypsis](https://open.spotify.com/track/7zaaeRUjckeEEy19eA2EF2)
-- [Starfall by Flexible Fire](https://open.spotify.com/track/5SsvawhlDaFonWvAbqk9G5)
+- [Fire by Julian Ross](https://open.spotify.com/track/3p0k7DMD7ZnXbvNY5qIP6S)
+- [Umbrella by ME80, Bïbano BC](https://open.spotify.com/track/1gW6pWoiBmvZadghXvsZq7)
+- [Sunseeker by Red Waterline](https://open.spotify.com/track/4MUsXb27wz6eaPZmZWVkei)
+- [Ocean by Bolier](https://open.spotify.com/track/6dIWsrUUctVJkvMJHAINK6)
+- [Peace by Daybreak](https://open.spotify.com/track/3jjf1nYVssJYfLdOlfDNPe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
