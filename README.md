@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[russellromney/honker](https://github.com/russellromney/honker)** - SQLite extension &#43; bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Remember - muuju Remix by Midnight Pass, Ruffnux, muuju](https://open.spotify.com/track/6vsd5LR4LH7z1ZsMEgCQnO)
-- [Know Who You Are by San Mateo Drive, Ren Ocean](https://open.spotify.com/track/0uz7gY8pdvz0cm063f2OVS)
-- [Everywhere by Feathervane, NEREUS](https://open.spotify.com/track/3R4688V6wZhUXxH7DFLBoY)
-- [Next To Me by Passing Clouds](https://open.spotify.com/track/5g5NN0a515BaOfrWL3lW5A)
-- [Learning To Be by Henry Gao](https://open.spotify.com/track/64SJ2tiligWHlvlbSNYbfQ)
+- [Feel Again by rshand](https://open.spotify.com/track/5a5ASbvxcNiZqMVmDNx9lp)
+- [Lost in Time by sûr faire](https://open.spotify.com/track/2456S0tdor7XfGJWaYXnPx)
+- [As Time Goes By by Feathervane, NEREUS](https://open.spotify.com/track/4gImSU6dYGOV08obsbcnCa)
+- [To Be by Elypsis](https://open.spotify.com/track/7zaaeRUjckeEEy19eA2EF2)
+- [Starfall by Flexible Fire](https://open.spotify.com/track/5SsvawhlDaFonWvAbqk9G5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
