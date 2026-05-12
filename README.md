@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[russellromney/honker](https://github.com/russellromney/honker)** - SQLite extension &#43; bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Fire by Julian Ross](https://open.spotify.com/track/3p0k7DMD7ZnXbvNY5qIP6S)
-- [Umbrella by ME80, Bïbano BC](https://open.spotify.com/track/1gW6pWoiBmvZadghXvsZq7)
-- [Sunseeker by Red Waterline](https://open.spotify.com/track/4MUsXb27wz6eaPZmZWVkei)
-- [Ocean by Bolier](https://open.spotify.com/track/6dIWsrUUctVJkvMJHAINK6)
-- [Peace by Daybreak](https://open.spotify.com/track/3jjf1nYVssJYfLdOlfDNPe)
+- [Remember When by San Mateo Drive](https://open.spotify.com/track/4EM5gnndUuYL0x6zNsGKBE)
+- [Daylight - Mixed by mölly, Bridges](https://open.spotify.com/track/1nUsQwMWOJ2x4u2VjofTHF)
+- [Lighthouse by Temazkal, NUVORA, Jessie Lee Thetford, Gotlucky](https://open.spotify.com/track/27EFVCjVf229vKMIphvoSa)
+- [Insomniac by LAR, Keepa](https://open.spotify.com/track/2fztcPC3IMJKrDIgYcbViV)
+- [go, for now by cypress, ORACLE, MØØNE](https://open.spotify.com/track/17hXxfKupSFW6E5QJo2dUN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
