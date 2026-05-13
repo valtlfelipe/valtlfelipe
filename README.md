@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)** - Showcase your awesome new app features 📱 (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Velvet by Golden After](https://open.spotify.com/track/4fVDlwhZo5SkGOIBILWDsL)
-- [懐かしい Natsukashii by Not Now Please](https://open.spotify.com/track/2WwEBsejosnP9r0B4ZubI4)
-- [Letting Go by elloquil](https://open.spotify.com/track/1WQZwrZGe94ClmcNmqMnja)
-- [Nightcall by Lush Sand](https://open.spotify.com/track/1xEFluYeHyAQPqHWRRE7Nw)
-- [The Only by Lost In Pacific](https://open.spotify.com/track/1uvKCBu0nN2cjL3Rowam2V)
+- [go, for now by cypress, ORACLE, MØØNE](https://open.spotify.com/track/17hXxfKupSFW6E5QJo2dUN)
+- [Our Silence (Feels Like Something More) by Frank Incense](https://open.spotify.com/track/38vuJHCZhLmxBxz3jnBDKA)
+- [Sun With Me by Heyder](https://open.spotify.com/track/27Ccan5oakrnfH13Jayevl)
+- [my way by Roman Müller](https://open.spotify.com/track/5RbQlQUaenPtLlpB9dgr2S)
+- [Cry For Me by Jack David](https://open.spotify.com/track/1Hra8d1p5yZei1Z9fZBVdz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
