@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)** - Showcase your awesome new app features 📱 (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [go, for now by cypress, ORACLE, MØØNE](https://open.spotify.com/track/17hXxfKupSFW6E5QJo2dUN)
-- [Our Silence (Feels Like Something More) by Frank Incense](https://open.spotify.com/track/38vuJHCZhLmxBxz3jnBDKA)
-- [Sun With Me by Heyder](https://open.spotify.com/track/27Ccan5oakrnfH13Jayevl)
-- [my way by Roman Müller](https://open.spotify.com/track/5RbQlQUaenPtLlpB9dgr2S)
-- [Cry For Me by Jack David](https://open.spotify.com/track/1Hra8d1p5yZei1Z9fZBVdz)
+- [Everything about you makes me happy by Ceas](https://open.spotify.com/track/5xa8ZRYaxm5MlyWpPm5HBY)
+- [River Of Dreams by Kaiyan, EMBLM](https://open.spotify.com/track/6RfncGOXKpLWQLWvjBSNt7)
+- [Next To Me by Daybreak](https://open.spotify.com/track/3hZwt2TsWeIlB9ziHhdtmz)
+- [The Verge by Winter Kid](https://open.spotify.com/track/4oQLOzPgMdptuMsT9j7UDZ)
+- [Hold On To Me by Renei](https://open.spotify.com/track/2gK2OMxbRfvN5ggOwun9Fi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
