@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)** - Barman - Backup and Recovery Manager for PostgreSQL (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
-- [Words (feat. Zara Larsson) by Alesso, Zara Larsson](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs)
-- [You Take Me Higher by Mark Knight, James Hurr](https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4)
-- [Upside Down by Eats Everything](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W)
-- [Holding On by MashBit, LUKE ALEXANDER, sunsett.](https://open.spotify.com/track/70cc5nSWcRNCnsRt9A3b9Z)
+- [Listen To Me by Lost Frequencies, CIEL., Radio Cargo](https://open.spotify.com/track/3fPXv60Pp9jLGYrjd1RoNd)
+- [Mine 4 All Time by GUDFELLA](https://open.spotify.com/track/1jmkxyaWnXqObZbe6sTleG)
+- [I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) by Oliver Heldens, Nile Rodgers, House Gospel Choir](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY)
+- [Let You Go by Diplo, TSHA, Kareen Lomax](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm)
+- [Best Day of My Life (BUNT. Version) (feat. Tom Odell) by BUNT., Tom Odell](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
