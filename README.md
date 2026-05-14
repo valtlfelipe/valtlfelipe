@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)** - Barman - Backup and Recovery Manager for PostgreSQL (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Out of Reach by MIND](https://open.spotify.com/track/3IWxVPHeBIZgrPuLIa0Avy)
-- [Hey by Small Town Kid](https://open.spotify.com/track/2DVTXWMmgIXrrcH1kddo2u)
-- [Heaven by PALASTIC, ALLKNIGHT](https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp)
-- [Haunt You by Soulflow](https://open.spotify.com/track/1tx0fmUVG0VJBqwPZhhNy4)
-- [Words by Nu Aspect](https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo)
+- [Confess by April Girl](https://open.spotify.com/track/3xOveMxnSatyDgQTGIfcMg)
+- [Get Close by Bolier, AMRV](https://open.spotify.com/track/5Iu5ajMYXdV8z9fJ5XimwD)
+- [Don&#39;t Worry About Tomorrow by DRAY](https://open.spotify.com/track/2QbBxaa6TAUjBxbGXpOrwh)
+- [Daylight by Small Town Kid](https://open.spotify.com/track/1xfSYfJT1YRSUQbzXDHUwq)
+- [Over The Edge by Nu Aspect, Poppy Baskcomb](https://open.spotify.com/track/2CpJixMi6A00UWxzLiHh1Q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
