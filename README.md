@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)** - Barman - Backup and Recovery Manager for PostgreSQL (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Slide by April Girl](https://open.spotify.com/track/6ogAI7hxJhcpH04xFuwGn4)
-- [Your Eyes by Small Town Kid](https://open.spotify.com/track/5Rl4ZuhIf3cNBRVx5zQJLc)
-- [Velvet &amp; Ice by Ferreck Dawn](https://open.spotify.com/track/2ahkfDeB4jC8xo2zWGSDbF)
-- [Daylight by TCTS, Hayley May](https://open.spotify.com/track/2uFY0PF58YPA3kgWlxjUKI)
-- [Sweet Release by Nu Aspect](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq)
+- [fade out by i.am.u.](https://open.spotify.com/track/2YdfYkX3v6o0ogBCIuPiQW)
+- [I Can&#39;t See by ROW, Samuel Miller](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo)
+- [Into You by April Girl](https://open.spotify.com/track/2J5fHq5DxZKVUqC5VHnYAw)
+- [Bloom by Astrality, FLORES](https://open.spotify.com/track/1rb65ahUV0k2QYq4x3Fi9y)
+- [Missing Me by Reiny, EZIA](https://open.spotify.com/track/1xBR2d1dyj0UzVvSVcQNl7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
