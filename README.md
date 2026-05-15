@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)** - Barman - Backup and Recovery Manager for PostgreSQL (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Come Back 2 Me by Chloé Caillet, Andre Zimmer](https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc)
-- [What A Life by John Summit, Guz, Stevie Appleton](https://open.spotify.com/track/1KbLVz3ZcdUOt2wBXqU2cG)
-- [We Are Family by Cedric Gervais, Nile Rodgers](https://open.spotify.com/track/0XxPbVN8z9kyqarkrsl43J)
-- [Dive Into Me by Alok, Khalid](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ)
-- [Glide by NEIKED, Portugal. The Man](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K)
+- [Confession by D.O.D, Poppy Baskcomb](https://open.spotify.com/track/1KFhH40ZSpyrUijzmCOXpr)
+- [Addicted - Zerb Acid VIP by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X)
+- [Sunshine by Elderbrook, Snakehips](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ)
+- [We Groovin (with Jazzy) by Jamie Jones, Jazzy](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv)
+- [Weekends by Jonas Blue, Felix Jaehn](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
