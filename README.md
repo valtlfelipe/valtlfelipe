@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pullfrog/pullfrog](https://github.com/pullfrog/pullfrog)** - Iterate with AI. Without leaving GitHub. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Falling Stars (2022) by Pink Panda, Sunset Strippers](https://open.spotify.com/track/4knKY056J9YVI5gy37EixE)
-- [Who Do You Love by ARTY, Rozzi](https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5)
-- [Foundations (feat. Jasmine Thompson) by KOLIDESCOPES, Jasmine Thompson](https://open.spotify.com/track/4Oo4zq02t4mKYSGVYxggHf)
-- [Memory by BONNIE X CLYDE, SUM SUN](https://open.spotify.com/track/6KNVrOaj6LVgWbPz6NxvxY)
-- [For Life (feat. Nile Rodgers) by Kygo, Zak Abel, Nile Rodgers](https://open.spotify.com/track/6YutTqJz3jGfLMfzIHpSTf)
+- [Girl (Mixed) by KC Lights](https://open.spotify.com/track/0oKG9tOheybt1bxE8Kz8o0)
+- [1&#43;1=1 by XYSM, EDGR](https://open.spotify.com/track/1Uk7cYdAjIukY1naydK11y)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [My Lovin&#39; by GAMPER &amp; DADONI](https://open.spotify.com/track/2hSGBHKZgOjWaPckW4mVf9)
+- [Rivers by AFROJACK, Amél](https://open.spotify.com/track/77QlT4RN0SUlGG1nasBR16)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
