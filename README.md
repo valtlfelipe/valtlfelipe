@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pullfrog/pullfrog](https://github.com/pullfrog/pullfrog)** - Iterate with AI. Without leaving GitHub. (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [i miss u (with Au/Ra) by Jax Jones, Au/Ra](https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA)
+- [Alane by Robin Schulz, Wes](https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI)
+- [Can&#39;t Hold Us (feat. Ray Dalton) by Macklemore, Ryan Lewis, Macklemore &amp; Ryan Lewis, Ray Dalton](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn)
+- [Move Your Body - Alan Walker Remix by Sia, Alan Walker](https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46)
 - [Dancing in the Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
-- [Born To Love (feat. SHELLS) by MEDUZA, SHELLS](https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd)
-- [You &amp; Me - Flume Remix by Disclosure, Eliza Doolittle, Flume](https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ)
-- [Man With The Red Face - Hardwell Remix by Mark Knight, Funkagenda, Hardwell](https://open.spotify.com/track/0Q6991QBoX99np2IkwwO6a)
-- [Big Jet Plane by Alok, Mathieu Koss](https://open.spotify.com/track/1xd3OqTbx17HutN7RfJOTj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
