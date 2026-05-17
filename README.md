@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pullfrog/pullfrog](https://github.com/pullfrog/pullfrog)** - Iterate with AI. Without leaving GitHub. (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Piece Of Your Heart - Alok Remix by MEDUZA, Alok, Goodboys](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW)
+- [The Motto by Tiësto, Ava Max](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO)
+- [Wake Me Up by Avicii](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2)
+- [Summer Days (feat. Macklemore &amp; Patrick Stump of Fall Out Boy) by Martin Garrix, Macklemore, Fall Out Boy](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM)
 - [Your Love (9PM) by ATB, Topic, A7S](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx)
-- [All Around The World (La La La) by R3HAB, A Touch Of Class](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp)
-- [Tell Me Why by Alok, Harrison](https://open.spotify.com/track/1UAi9ezb5HH3GPP8b8X9t4)
-- [Can&#39;t Feel My Face - Martin Garrix Remix by The Weeknd, Martin Garrix](https://open.spotify.com/track/22SXyL6pUjwIvGWvgGjLov)
-- [Barbra Streisand - Radio Edit by Duck Sauce, A-Trak, Armand Van Helden](https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
