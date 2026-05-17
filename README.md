@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pullfrog/pullfrog](https://github.com/pullfrog/pullfrog)** - Iterate with AI. Without leaving GitHub. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [i miss u (with Au/Ra) by Jax Jones, Au/Ra](https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA)
-- [Alane by Robin Schulz, Wes](https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI)
-- [Can&#39;t Hold Us (feat. Ray Dalton) by Macklemore, Ryan Lewis, Macklemore &amp; Ryan Lewis, Ray Dalton](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn)
-- [Move Your Body - Alan Walker Remix by Sia, Alan Walker](https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46)
-- [Dancing in the Moonlight (feat. NEIMY) by Jubël, NEIMY](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO)
+- [Love Generation - Edit by Bob Sinclar, Gary Pine](https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF)
+- [Ain&#39;t Nobody (Loves Me Better) (feat. Jasmine Thompson) by Felix Jaehn, Jasmine Thompson](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x)
+- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
+- [King by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM)
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
