@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pullfrog/pullfrog](https://github.com/pullfrog/pullfrog)** - Iterate with AI. Without leaving GitHub. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Leave Like This by Bob Moses](https://open.spotify.com/track/3nqPMgsEugYOQq7MAqCCDT)
-- [Twilight by Sultan &#43; Shepard, Shallou](https://open.spotify.com/track/2Lkbzbxnyu25NVlV1uiaYb)
-- [Color By Color by Temazkal, NUVORA, Fagin, Descoqueo](https://open.spotify.com/track/0ATEs2Rzn06RpPqJdQeAyn)
-- [like we never met by FIORE](https://open.spotify.com/track/7uxiulUrBX1YqMyY8FWgcT)
-- [Can&#39;t Help But Worry (Every Night Every Day) by Soluna](https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i)
+- [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
+- [Middle Place by Ross Quinn](https://open.spotify.com/track/4taBWoBZks43l30TLocShD)
+- [Marula by Robby East, A.M.R](https://open.spotify.com/track/3XoKt6xyXoBXMTjLVRYVIw)
+- [Release Me by oskar med k](https://open.spotify.com/track/0aTWTSbmvW9k2OQAsLAvDy)
+- [signs by abelon](https://open.spotify.com/track/1juVEeNjoN2R3A6KnP9ad5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
