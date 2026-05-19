@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[floci-io/floci](https://github.com/floci-io/floci)** - Light, fluffy, and always free - The AWS Local Emulator alternative (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Light Upon Me by mölly, ANYLIA](https://open.spotify.com/track/0DnD0tWyO7RoeiRSz3GRG8)
-- [Wanna Know by Jack Willard, Lovlee](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9)
-- [Middle Place by Ross Quinn](https://open.spotify.com/track/4taBWoBZks43l30TLocShD)
-- [Marula by Robby East, A.M.R](https://open.spotify.com/track/3XoKt6xyXoBXMTjLVRYVIw)
-- [Release Me by oskar med k](https://open.spotify.com/track/0aTWTSbmvW9k2OQAsLAvDy)
+- [Pieces Again by HNE](https://open.spotify.com/track/35UoTcfultwarncsTrd8Kb)
+- [For Now by Soft Hours](https://open.spotify.com/track/3ETMxfcwP7B0YxFHUwldZK)
+- [Silver Lining by Falden](https://open.spotify.com/track/4O4W2KMtCo9Kpn8o9ExxYn)
+- [Something on My Mind by deep dispatch](https://open.spotify.com/track/5oqkixBCfev1DcPZsmQxz7)
+- [Beauty And A Beat by Sans Effort](https://open.spotify.com/track/26RilZohQA1AF2AsuWIwtD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
