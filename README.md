@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pullfrog/pullfrog](https://github.com/pullfrog/pullfrog)** - Iterate with AI. Without leaving GitHub. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Torn by Keymos, Joel Winterflood](https://open.spotify.com/track/7rMxuyblcRQ0h3V4h4pyDc)
-- [Give Me Love by THAT KIND](https://open.spotify.com/track/5wx8ilXSkwZ3b9btWZ4e1U)
-- [Easy To Love by DALEXO](https://open.spotify.com/track/3J6plbucY2TUEgOSUzVB7V)
-- [After All This Time by Otherwish](https://open.spotify.com/track/6vrIHPz9KzOZYs7snydrJm)
-- [Golden Memories by Kaiyan, Lumynesynth](https://open.spotify.com/track/3XlthupwOStKPdLIFtFyXv)
+- [Kuyale by hape.](https://open.spotify.com/track/7he68bFLvWIgiYsTPeTTMj)
+- [every day and every night by Rammor, Lonely Night](https://open.spotify.com/track/1YBju9HjWRX6pO6S8ZJpkH)
+- [In My Feelings by Edmundo Silva](https://open.spotify.com/track/7gG5hsOVJ0yiLMk5xVJvje)
+- [Where Are You Now by LM94](https://open.spotify.com/track/4OtirKlyEZlFi5dxtGhTGs)
+- [Stories Untold by Syn Cole](https://open.spotify.com/track/6u5PDtZcxxjGGjaDdP40JW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
