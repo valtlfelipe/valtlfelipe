@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pullfrog/pullfrog](https://github.com/pullfrog/pullfrog)** - Iterate with AI. Without leaving GitHub. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Kuyale by hape.](https://open.spotify.com/track/7he68bFLvWIgiYsTPeTTMj)
-- [every day and every night by Rammor, Lonely Night](https://open.spotify.com/track/1YBju9HjWRX6pO6S8ZJpkH)
-- [In My Feelings by Edmundo Silva](https://open.spotify.com/track/7gG5hsOVJ0yiLMk5xVJvje)
-- [Where Are You Now by LM94](https://open.spotify.com/track/4OtirKlyEZlFi5dxtGhTGs)
-- [Stories Untold by Syn Cole](https://open.spotify.com/track/6u5PDtZcxxjGGjaDdP40JW)
+- [Best Friend by Pento](https://open.spotify.com/track/7KiVbYwDIDfnvgEd6TO0rl)
+- [ON ME by Loic Penillo](https://open.spotify.com/track/3TsOBhm7MCW1PJzoAzymIZ)
+- [Before It&#39;s Over by Echosys](https://open.spotify.com/track/7L7YxHKXYrQ1Uw5FItBX4f)
+- [Could&#39;ve Been by Cotton Duck, WEI](https://open.spotify.com/track/5I99qkX2GwkNv66rblTNVN)
+- [Forgiveness by North Skies](https://open.spotify.com/track/6glaS19PFmcPjkyBFV2eKj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
