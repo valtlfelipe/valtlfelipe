@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[floci-io/floci](https://github.com/floci-io/floci)** - Light, fluffy, and always free - The AWS Local Emulator alternative (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [One Night by DRAY](https://open.spotify.com/track/1h1tLzLk7yBM1n9p93XzQV)
-- [Love U by NORRA](https://open.spotify.com/track/3hAEMnD6olqDSKFcFiZHop)
-- [Buried by Madon](https://open.spotify.com/track/2w7iIQBd1e1Slhsb13ni2v)
-- [Take Our Time by Loverground](https://open.spotify.com/track/3Jth8JLyhb4iVhMUbQ1sxX)
-- [Slow It Down by Foulds](https://open.spotify.com/track/4ci088p60UMoik2EGEfKvr)
+- [Sacrifice by Audien, Sam Harper](https://open.spotify.com/track/4jN4p76dTKFs7MTvpgeMBA)
+- [Never Get Hurt by MaMan, Jyll, Le Roy](https://open.spotify.com/track/4S74V8QxgW0jSwOtaGFcWX)
+- [Here Again by mölly, Kazmyn](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x)
+- [Nightmare by I&#39;m Blvke](https://open.spotify.com/track/5GWuyvoCENV8oAGRE9pBCn)
+- [Never Let Me Down by Amés, Ferreck](https://open.spotify.com/track/3eEKTbwbiTcKOhe91LnrI1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
