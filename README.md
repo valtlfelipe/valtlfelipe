@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)** - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Are You Real? by MIND](https://open.spotify.com/track/4cEwZe5CTeONJ8cBseGm4E)
-- [Push It by MIND](https://open.spotify.com/track/1szjH2vBFaXJCpI16CPIqq)
-- [Let Me In by London Topaz, Sophia Brown](https://open.spotify.com/track/3iB4dAyzPF9PSD3xptZ6Z1)
-- [Deep of You by Astrality, Marlo Rex](https://open.spotify.com/track/5lRzNBSLgUQFZhJrEYGqPN)
-- [If You Had My Love by Paul Schulze, FŪNKENSTEIN, LEVII](https://open.spotify.com/track/58mmJ7RXEesiCJeYGK3QJY)
+- [I Drift Out, Then Return by Small Town Kid](https://open.spotify.com/track/0m6A4F1mnR1HVPnzM3Tg3u)
+- [Fix Me by CAKES, Sam Harper](https://open.spotify.com/track/1nHWcLi8wupts5WkjIAflQ)
+- [stay by all things break](https://open.spotify.com/track/1QLJZ0k0nRDlbKoTGtyKJQ)
+- [Falling for the Feeling by MIND](https://open.spotify.com/track/5GnkqqWGbPZLp1T2l0PZO8)
+- [Secrets by Tudor, Caroline Byrne](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
