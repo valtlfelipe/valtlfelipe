@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)** - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Falling into You by Soulflow](https://open.spotify.com/track/7B9GM2PNugSwEBHpkAgRCf)
-- [Tether by Franklin](https://open.spotify.com/track/19SgSzIT7tACElrLcuwrTk)
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/0C5G0JJLTyDexp08AiAzxy)
-- [No One Knows by Tobtok, STO CULTR](https://open.spotify.com/track/6v1c3b1SjKJV3d4Jw1jxld)
-- [99 Eyes by Daydream Affiliate](https://open.spotify.com/track/2kWwTQdFg2Phlu5grf9bQg)
+- [Velvet &amp; Ice by Ferreck Dawn](https://open.spotify.com/track/2ahkfDeB4jC8xo2zWGSDbF)
+- [I Drive by April Girl](https://open.spotify.com/track/0z0g9lFIF3FGXpJTDGEgJs)
+- [eyes open by kalm, Aiko](https://open.spotify.com/track/54pLFtmVWrOL6zxfREiJcI)
+- [Show Me by JLV, Thandi](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A)
+- [In Reverse by Daydream Affiliate](https://open.spotify.com/track/2ofN43JfvYu5zusgRGeBYL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
