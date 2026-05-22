@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)** - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Velvet &amp; Ice by Ferreck Dawn](https://open.spotify.com/track/2ahkfDeB4jC8xo2zWGSDbF)
-- [I Drive by April Girl](https://open.spotify.com/track/0z0g9lFIF3FGXpJTDGEgJs)
-- [eyes open by kalm, Aiko](https://open.spotify.com/track/54pLFtmVWrOL6zxfREiJcI)
-- [Show Me by JLV, Thandi](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A)
-- [In Reverse by Daydream Affiliate](https://open.spotify.com/track/2ofN43JfvYu5zusgRGeBYL)
+- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
+- [Mood Song by Why U So, Lua Sola](https://open.spotify.com/track/79fIQTrSfK6J9r8va0INAo)
+- [Where Nobody Knows by Hyzteria, Dakota](https://open.spotify.com/track/4fzUXbg5iev2CqbmbzW3mg)
+- [Out of Reach by MIND](https://open.spotify.com/track/3IWxVPHeBIZgrPuLIa0Avy)
+- [Sweet Release by Nu Aspect](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
