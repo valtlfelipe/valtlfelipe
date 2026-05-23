@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth)** - The tiniest authentication and authorization server you have ever seen. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Party On My Own by Alok, Vintage Culture, FAULHABER](https://open.spotify.com/track/0IEt1B09tzS8YunBpF9PiH)
+- [More Than You Know by Axwell /\ Ingrosso, Axwell, Sebastian Ingrosso](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP)
+- [In The Middle by Alesso, SUMR CAMP](https://open.spotify.com/track/7JHdotEeGSIbtFuo4dVvsC)
 - [Baby Don&#39;t Hurt Me by David Guetta, Anne-Marie, Coi Leray](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi)
 - [Roses - Imanbek Remix by SAINt JHN, Imanbek](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI)
-- [Where Did You Go? (feat. MNEK) by Jax Jones, MNEK](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8)
-- [Easy Love by Sigala](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy)
-- [Waves - Robin Schulz Radio Edit by Mr. Probz, Robin Schulz](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
