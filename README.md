@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth)** - The tiniest authentication and authorization server you have ever seen. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Run Deep - Extended by Nu Aspect](https://open.spotify.com/track/4UBbQTYl5gv4DOIYjsbMdq)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
 - [Would U Let Me by Oliver Cricket](https://open.spotify.com/track/37qIRuKZvSQTYqMAJoXFmm)
 - [Ecstasy by THAT KIND](https://open.spotify.com/track/2K1WjqzeMlnQ412x7msDEf)
 - [Brown Petals by Udipta, Fia De Luca](https://open.spotify.com/track/3oZEeQSVA9TiaRPkOpkFh3)
-- [All I See by Valentino](https://open.spotify.com/track/7IbSXOB654vznbIjBMBu1N)
-- [Burning by T. Matthias, Yola Recoba](https://open.spotify.com/track/7wT3G4HhNf7VxoWjVFgiCJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
