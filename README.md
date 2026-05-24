@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth)** - The tiniest authentication and authorization server you have ever seen. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [On &amp; On by Alok, Dynoro](https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat)
+- [Don&#39;t You Worry Child - Radio Edit by Swedish House Mafia, John Martin](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p)
 - [Prayer in C - Robin Schulz Radio Edit by Lilly Wood and The Prick, Robin Schulz](https://open.spotify.com/track/5zlC5d5umTrbcX9sLVVxzh)
 - [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
 - [Say My Name by Dimitri Vegas &amp; Like Mike, Regard, Dimitri Vegas](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7)
-- [Say My Name by Dimitri Vegas &amp; Like Mike, Regard, Dimitri Vegas](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7)
-- [All Comes Back To You by R3HAB](https://open.spotify.com/track/3A8tXjJFi8JEwnItSJyCtN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
