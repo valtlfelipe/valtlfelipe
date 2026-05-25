@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)** - The Free Software Media System - Server Backend &amp; API (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Where U Going by Neon Tide](https://open.spotify.com/track/7gwI6vjJKqpXkA1Zgfjn31)
-- [First Light by FIORE](https://open.spotify.com/track/3LebCzctJIgMhChY7PUUHN)
-- [Collisions by Stendahl](https://open.spotify.com/track/1vx6B4UWjgfPU17HKP5X20)
-- [UNFORGETTABLE by Duke Voss](https://open.spotify.com/track/28Os9rNkyccLKBDkGAnkNv)
-- [episode by cypress, Courtney Storm](https://open.spotify.com/track/7nszldP9W5SgyjB71BAd1t)
+- [Somebody To You by DJ Mayson](https://open.spotify.com/track/2jWGAaDHDSUK6PEmWCc6qb)
+- [The Funeral by RAZZ, AgusAlvarez, Pherick](https://open.spotify.com/track/2nU6UK5OsggVSGhYvQGwUa)
+- [We&#39;ll Be Okay by Nico Sol](https://open.spotify.com/track/7aUKQW781gqq4aw9n4kKDD)
+- [Miss U by Fernweh Collective](https://open.spotify.com/track/5uDgOfWZ0WLM6cpTsCy8ni)
+- [Locked Down by Azeon., blaank](https://open.spotify.com/track/05TEtjfqg2evnK2nVPL8qv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
