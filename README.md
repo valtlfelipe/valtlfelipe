@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)** - The Free Software Media System - Server Backend &amp; API (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [In My Feelings by Edmundo Silva](https://open.spotify.com/track/7gG5hsOVJ0yiLMk5xVJvje)
-- [Prophecy by YORK, Giorgio Gee](https://open.spotify.com/track/0R4OB8Gc3LZWDjUL0kJpxK)
-- [Into You by Lust.](https://open.spotify.com/track/0yhoQWosiaxxnwNk7EB4Hg)
-- [Higher Ground by Mizmo](https://open.spotify.com/track/3qYVWB6ICwOzTqApjQa6h8)
-- [Aperture by Dan Johnson, Santi](https://open.spotify.com/track/4NeLtk26pOoCGO0W3S16cM)
+- [Where U Going by Neon Tide](https://open.spotify.com/track/7gwI6vjJKqpXkA1Zgfjn31)
+- [First Light by FIORE](https://open.spotify.com/track/3LebCzctJIgMhChY7PUUHN)
+- [Collisions by Stendahl](https://open.spotify.com/track/1vx6B4UWjgfPU17HKP5X20)
+- [UNFORGETTABLE by Duke Voss](https://open.spotify.com/track/28Os9rNkyccLKBDkGAnkNv)
+- [episode by cypress, Courtney Storm](https://open.spotify.com/track/7nszldP9W5SgyjB71BAd1t)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
