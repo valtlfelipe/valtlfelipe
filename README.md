@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)** - The Free Software Media System - Server Backend &amp; API (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Moon Boy by Angus James](https://open.spotify.com/track/0yqi7IIfE9OyEMzwom6XE1)
-- [Let Me Go by Don Gianni, Fia De Luca](https://open.spotify.com/track/5ZRpHBuPirXWLZwdVGuDnS)
-- [Wild Girl - Paul Woolford Remix by Kito, Empress Of, Paul Woolford](https://open.spotify.com/track/7ETxvXQ5oWFRfAfaIEimAG)
-- [Another Life by Duke Voss](https://open.spotify.com/track/2BC1vrGeCMqMZEs4TAcG93)
-- [Revive by Deagon, MØØNE](https://open.spotify.com/track/5b3czSy5FS2knlh8LIGszG)
+- [Lighthouse by Temazkal, NUVORA, Jessie Lee Thetford, Gotlucky](https://open.spotify.com/track/27EFVCjVf229vKMIphvoSa)
+- [Feeling (Hold On You) by Rules, MURPHY](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt)
+- [Dive by PRAANA, Courtney Storm](https://open.spotify.com/track/0wkDWCzCy1Tt3Jye4n2PYN)
+- [Let Me Down by Guy Didden](https://open.spotify.com/track/6SozluLQrNhsr6A76yKYrp)
+- [Flowers by oskar med k](https://open.spotify.com/track/1fAOChP0Za3YK8Z26dYN6H)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
