@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s)** - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
-- [Fame is a Gun by afterhours.](https://open.spotify.com/track/3ZtSH9IhtTPngE9bwwgLko)
-- [Calmy by Chris Luno](https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P)
-- [Free (feat. Garnic) by Plu2, Garnic](https://open.spotify.com/track/1cwQcpdfzCv5kRCbNKVocg)
-- [So in Love by Robert Burian](https://open.spotify.com/track/6AULbho0NXMnsaQDCEgUAR)
+- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
+- [Been Away by DJ Mayson](https://open.spotify.com/track/18ylHPhEbUOxRRlKhxsyuN)
+- [The Way It Is by Damaui](https://open.spotify.com/track/5zb1yFjxq7ctq9hMhNPukr)
+- [wish you well by FIORE](https://open.spotify.com/track/4r4uoTfX5oLNPi3KnvSEDL)
+- [Echoes by Mizmo](https://open.spotify.com/track/2TwviHQCmtObcFDawwNgB5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
