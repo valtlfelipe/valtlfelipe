@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)** - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [i&#39;ll find you by Holseek](https://open.spotify.com/track/2BunQWx6TVnriF8kYQvFHu)
-- [Stressed Out by afterhours.](https://open.spotify.com/track/198bPhz23AT2ISW2AKRpPx)
-- [Get Me by Cozy Sky](https://open.spotify.com/track/4WUljHUqJT0usnOHHum0ID)
-- [Spend The Night by Alex Adair](https://open.spotify.com/track/6xaWCl3MF3cBmXrrcqQsfm)
-- [Those Days by Chris Luno, Exit Coda](https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi)
+- [Only Wanna Talk by The Palm Tree Boy, Arthur](https://open.spotify.com/track/31uR6p6nKyvriT62U3ixzi)
+- [Always by LuvLess](https://open.spotify.com/track/6NXgFe04IN78UyvAlISZ46)
+- [like we never met by FIORE](https://open.spotify.com/track/7uxiulUrBX1YqMyY8FWgcT)
+- [Bitter by Drove](https://open.spotify.com/track/1yU1WB6WHnXWlmjlWIIBlt)
+- [i miss your voice. by Ajaw Soul](https://open.spotify.com/track/1HmthNzlpudf3VGXMReqQ6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
