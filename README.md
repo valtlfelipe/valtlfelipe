@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kriansa/ragtech-supervise](https://github.com/kriansa/ragtech-supervise)** - Docker image for Ragtech Supervise UPS software (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Time Flies by oskar med k](https://open.spotify.com/track/40WTANGfaJLWyXD0FKmtfo)
-- [Keep Going by Starfox](https://open.spotify.com/track/2m5bcYa6ZnQLakudK7SwMq)
-- [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
-- [Not Like Them by DJ Mayson](https://open.spotify.com/track/4N26CifgYOIWIlo1fKgQJ0)
-- [Deeper Love by Sean Blanc](https://open.spotify.com/track/6QzZttn02WhXFxvpCSRVJI)
+- [Always by LuvLess](https://open.spotify.com/track/6NXgFe04IN78UyvAlISZ46)
+- [like we never met by FIORE](https://open.spotify.com/track/7uxiulUrBX1YqMyY8FWgcT)
+- [Bitter by Drove](https://open.spotify.com/track/1yU1WB6WHnXWlmjlWIIBlt)
+- [i miss your voice. by Ajaw Soul](https://open.spotify.com/track/1HmthNzlpudf3VGXMReqQ6)
+- [Walk Away - Bound To Divide Remix by Tritonal, Bound to Divide, HARLEE](https://open.spotify.com/track/3IldNf261Tw8qwJjWEq6Si)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
