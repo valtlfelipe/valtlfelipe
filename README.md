@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[fayazara/Screendrop](https://github.com/fayazara/Screendrop)** - A native macOS menu bar app for taking screenshots, recording the screen, annotating captures, and sharing them when needed. It is built for a fast local workflow: capture something, preview it immediately, mark it up, save it, copy it, or upload it from the same floating preview. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Aperture by Dan Johnson, Santi](https://open.spotify.com/track/4NeLtk26pOoCGO0W3S16cM)
-- [Beside You by Cozy Sky](https://open.spotify.com/track/7juMHAnoJK7hnB1zrnFC0v)
-- [Falling Stars by Coastlines](https://open.spotify.com/track/3JedRGQuhH67qqJ1VHnOOL)
-- [tug of war by FIORE](https://open.spotify.com/track/2HRmCMOZDygPmrctPmIfjb)
-- [Rushing In by mölly, MØØNE](https://open.spotify.com/track/2SFSd0cuykFFzAYDGH42jD)
+- [Coasting by Piece Wise, De Rien](https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix)
+- [Dream About by NORRA](https://open.spotify.com/track/0bHCgNfgv8pEuaLsNjSua9)
+- [It&#39;s Not Over by Mizmo](https://open.spotify.com/track/7q7le0EBZNMNfU4NV0LR6G)
+- [Elevate (Chill Mix) by Kelli-Leigh](https://open.spotify.com/track/5uHEJG2ROEJC1cwCMDW1ZH)
+- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
