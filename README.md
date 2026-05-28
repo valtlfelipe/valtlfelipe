@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kriansa/ragtech-supervise](https://github.com/kriansa/ragtech-supervise)** - Docker image for Ragtech Supervise UPS software (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Always by LuvLess](https://open.spotify.com/track/6NXgFe04IN78UyvAlISZ46)
-- [like we never met by FIORE](https://open.spotify.com/track/7uxiulUrBX1YqMyY8FWgcT)
-- [Bitter by Drove](https://open.spotify.com/track/1yU1WB6WHnXWlmjlWIIBlt)
-- [i miss your voice. by Ajaw Soul](https://open.spotify.com/track/1HmthNzlpudf3VGXMReqQ6)
-- [Walk Away - Bound To Divide Remix by Tritonal, Bound to Divide, HARLEE](https://open.spotify.com/track/3IldNf261Tw8qwJjWEq6Si)
+- [Lighthouse by Temazkal, NUVORA, Jessie Lee Thetford, Gotlucky](https://open.spotify.com/track/27EFVCjVf229vKMIphvoSa)
+- [Feeling (Hold On You) by Rules, MURPHY](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt)
+- [Dive by PRAANA, Courtney Storm](https://open.spotify.com/track/0wkDWCzCy1Tt3Jye4n2PYN)
+- [Let Me Down by Guy Didden](https://open.spotify.com/track/6SozluLQrNhsr6A76yKYrp)
+- [Flowers by oskar med k](https://open.spotify.com/track/1fAOChP0Za3YK8Z26dYN6H)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
