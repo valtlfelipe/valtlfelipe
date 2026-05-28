@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[antunesls/UPS_ESP32_tinySrv](https://github.com/antunesls/UPS_ESP32_tinySrv)** - Tiny WS UPS (ragtech) for Home Assistant (today)
-- **[lucianor/ragtech](https://github.com/lucianor/ragtech)** (today)
-- **[kriansa/ragtech-supervise](https://github.com/kriansa/ragtech-supervise)** - Docker image for Ragtech Supervise UPS software (today)
-- **[fayazara/screendrop-worker](https://github.com/fayazara/screendrop-worker)** (1 day ago)
-- **[fayazara/Screendrop](https://github.com/fayazara/Screendrop)** - A native macOS menu bar app for taking screenshots, recording the screen, annotating captures, and sharing them when needed. It is built for a fast local workflow: capture something, preview it immediately, mark it up, save it, copy it, or upload it from the same floating preview. (1 day ago)
+- **[antunesls/UPS_ESP32_tinySrv](https://github.com/antunesls/UPS_ESP32_tinySrv)** - Tiny WS UPS (ragtech) for Home Assistant (1 day ago)
+- **[lucianor/ragtech](https://github.com/lucianor/ragtech)** (1 day ago)
+- **[kriansa/ragtech-supervise](https://github.com/kriansa/ragtech-supervise)** - Docker image for Ragtech Supervise UPS software (1 day ago)
+- **[fayazara/screendrop-worker](https://github.com/fayazara/screendrop-worker)** (2 days ago)
+- **[fayazara/Screendrop](https://github.com/fayazara/Screendrop)** - A native macOS menu bar app for taking screenshots, recording the screen, annotating captures, and sharing them when needed. It is built for a fast local workflow: capture something, preview it immediately, mark it up, save it, copy it, or upload it from the same floating preview. (2 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Aperture by Dan Johnson, Santi](https://open.spotify.com/track/4NeLtk26pOoCGO0W3S16cM)
