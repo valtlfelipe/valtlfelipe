@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[kriansa/ragtech-supervise](https://github.com/kriansa/ragtech-supervise)** - Docker image for Ragtech Supervise UPS software (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Lighthouse by Temazkal, NUVORA, Jessie Lee Thetford, Gotlucky](https://open.spotify.com/track/27EFVCjVf229vKMIphvoSa)
-- [Feeling (Hold On You) by Rules, MURPHY](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt)
-- [Dive by PRAANA, Courtney Storm](https://open.spotify.com/track/0wkDWCzCy1Tt3Jye4n2PYN)
-- [Let Me Down by Guy Didden](https://open.spotify.com/track/6SozluLQrNhsr6A76yKYrp)
-- [Flowers by oskar med k](https://open.spotify.com/track/1fAOChP0Za3YK8Z26dYN6H)
+- [Out of My Head by Jack Wins, ManyFew](https://open.spotify.com/track/1e0V7CMEcXaPAMtL4b5VtV)
+- [Mess Around (Baby Baby) by Rivo, Jaquet](https://open.spotify.com/track/1Jht2fusiIuJo0KRvjUizH)
+- [Reason by Nu Aspect](https://open.spotify.com/track/1CRwJZniU25yWLGebkBvqo)
+- [I Choose You (Day) by Small Town Kid](https://open.spotify.com/track/0DMN20vmSMsZ8OWNxr6eGG)
+- [Can&#39;t Go Back by Astrality, James French](https://open.spotify.com/track/2MjUXeQsfJAFhSXvpojmQX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
