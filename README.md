@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[antunesls/UPS_ESP32_tinySrv](https://github.com/antunesls/UPS_ESP32_tinySrv)** - Tiny WS UPS (ragtech) for Home Assistant (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Where We Belong by Amtrac](https://open.spotify.com/track/1eCbYVNIkLFf54XkKWN6uf)
-- [This Time by Small Town Kid](https://open.spotify.com/track/4sGHk5VvL7XlYICcyhkCtX)
-- [Games by Reiny, EZIA](https://open.spotify.com/track/1nUTaV2q2iHzqe3uarjPqV)
-- [Illuminate by Astrality, Leo Stannard](https://open.spotify.com/track/6SpS3512xzHKapz4plRuZW)
-- [Get Close by Bolier, AMRV](https://open.spotify.com/track/5Iu5ajMYXdV8z9fJ5XimwD)
+- [Grounds for Hope by NOTSOBAD](https://open.spotify.com/track/1qv8ljmszWgX9BERqsZB0y)
+- [This Dance by Mizmo](https://open.spotify.com/track/5Hf1s0MwigqDUqRpPuEPkU)
+- [Do I Go by Ross Quinn](https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U)
+- [Lose You by Hyze](https://open.spotify.com/track/6twBxthIRrmoxioL6EouCI)
+- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
