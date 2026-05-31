@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[openclaw/octopool](https://github.com/openclaw/octopool)** - A shared, org-authenticated GitHub read relay and cache. (1 day ago)
-- **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. (1 day ago)
-- **[jpanther/congo](https://github.com/jpanther/congo)** - A powerful, lightweight theme for Hugo built with Tailwind CSS. (2 days ago)
-- **[imfing/hextra](https://github.com/imfing/hextra)** - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (2 days ago)
-- **[antunesls/UPS_ESP32_tinySrv](https://github.com/antunesls/UPS_ESP32_tinySrv)** - Tiny WS UPS (ragtech) for Home Assistant (3 days ago)
+- **[openclaw/octopool](https://github.com/openclaw/octopool)** - A shared, org-authenticated GitHub read relay and cache. (2 days ago)
+- **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. (2 days ago)
+- **[jpanther/congo](https://github.com/jpanther/congo)** - A powerful, lightweight theme for Hugo built with Tailwind CSS. (3 days ago)
+- **[imfing/hextra](https://github.com/imfing/hextra)** - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (3 days ago)
+- **[antunesls/UPS_ESP32_tinySrv](https://github.com/antunesls/UPS_ESP32_tinySrv)** - Tiny WS UPS (ragtech) for Home Assistant (4 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Nothing Else Played by After Midnight Deep](https://open.spotify.com/track/0dEiC6LObUtKatjHXhBekB)
