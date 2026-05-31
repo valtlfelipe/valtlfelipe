@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[antunesls/UPS_ESP32_tinySrv](https://github.com/antunesls/UPS_ESP32_tinySrv)** - Tiny WS UPS (ragtech) for Home Assistant (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Higher by Taio Cruz, Kylie Minogue](https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo)
 - [How Bizarre by OMC](https://open.spotify.com/track/46q5BtHso0ECuTKeq70ZhW)
 - [I Love You Always Forever by Donna Lewis](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD)
 - [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
 - [Forever by Chris Brown](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML)
-- [Don&#39;t Be so Hard on Yourself by Jess Glynne](https://open.spotify.com/track/0sUyqewVzwv0e5tK3hS6vJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
