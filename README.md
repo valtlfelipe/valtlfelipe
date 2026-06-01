@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[imfing/hextra](https://github.com/imfing/hextra)** - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Eyes On The Sun by Why U So](https://open.spotify.com/track/0pbpciUTmL1qMoGlcar600)
-- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
-- [Water by John Skyfield, lonely coffee friend, kookito](https://open.spotify.com/track/6BTsAt4eR8BWQ6PniTSzCm)
-- [Echo by Coastr](https://open.spotify.com/track/1t8dDcq3bUCphANcyTCxTZ)
-- [Shelter by Jack David, AJ Wander](https://open.spotify.com/track/7yuuy69ZrqzzpH2hpsC410)
+- [In Time by Jad Alexander, Fractures](https://open.spotify.com/track/57X6QLqPNqe7za0praP5tj)
+- [Best Part by DMASSO](https://open.spotify.com/track/12ylNuVulgoyWAwsfcVTtz)
+- [Memories - JYRYMY Remix by WAVE., JYRYMY](https://open.spotify.com/track/1JGh2XKhyUPLBDG47o67pI)
+- [Before by Dessina](https://open.spotify.com/track/5abGDwb2MPdwAXQ7D5MQNI)
+- [Eyes Closed by Nico Sol](https://open.spotify.com/track/4z6xoS95n0Bou4rSqAUuRV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
