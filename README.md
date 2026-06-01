@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[imfing/hextra](https://github.com/imfing/hextra)** - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Stuck On My Mind by Revyn](https://open.spotify.com/track/6GJESQY4y22Yvgil39W7sb)
-- [Pull Me Under - Slowed by Malia](https://open.spotify.com/track/049KmmAyZDBx7T4PJlmApp)
-- [Stay For The Night by INOMA](https://open.spotify.com/track/2McYeJDxeC6COSOd3kC1ot)
-- [When The Day Is Over by twominds](https://open.spotify.com/track/3a0t0XtZ0IfULRGt07KcgB)
-- [Late Summer Glow by Piginé](https://open.spotify.com/track/0nQ3t8pktT8nnbYvnX1Bp4)
+- [Eyes On The Sun by Why U So](https://open.spotify.com/track/0pbpciUTmL1qMoGlcar600)
+- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
+- [Water by John Skyfield, lonely coffee friend, kookito](https://open.spotify.com/track/6BTsAt4eR8BWQ6PniTSzCm)
+- [Echo by Coastr](https://open.spotify.com/track/1t8dDcq3bUCphANcyTCxTZ)
+- [Shelter by Jack David, AJ Wander](https://open.spotify.com/track/7yuuy69ZrqzzpH2hpsC410)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
