@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[opendata-oss/opendata](https://github.com/opendata-oss/opendata)** - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.  (today)
-- **[openclaw/octopool](https://github.com/openclaw/octopool)** - A shared, org-authenticated GitHub read relay and cache. (3 days ago)
-- **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. (3 days ago)
-- **[jpanther/congo](https://github.com/jpanther/congo)** - A powerful, lightweight theme for Hugo built with Tailwind CSS. (4 days ago)
-- **[imfing/hextra](https://github.com/imfing/hextra)** - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (4 days ago)
+- **[opendata-oss/opendata](https://github.com/opendata-oss/opendata)** - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.  (1 day ago)
+- **[openclaw/octopool](https://github.com/openclaw/octopool)** - A shared, org-authenticated GitHub read relay and cache. (4 days ago)
+- **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. (4 days ago)
+- **[jpanther/congo](https://github.com/jpanther/congo)** - A powerful, lightweight theme for Hugo built with Tailwind CSS. (5 days ago)
+- **[imfing/hextra](https://github.com/imfing/hextra)** - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (5 days ago)
 
 #### 🎧 Spotify recent tracks
 - [In Time by Jad Alexander, Fractures](https://open.spotify.com/track/57X6QLqPNqe7za0praP5tj)
