@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jpanther/congo](https://github.com/jpanther/congo)** - A powerful, lightweight theme for Hugo built with Tailwind CSS. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [As Soon As I Get Home by Rules, SHYA](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9)
-- [We’re In Love by Soft Hours](https://open.spotify.com/track/2b5qBPSy52xNvZ1LVDeljQ)
-- [To The End by RAEM](https://open.spotify.com/track/5BkFyB4KmF5I83zoU3fh14)
-- [Don&#39;t Burn Me Down by DALEXO](https://open.spotify.com/track/6FvcmUIrXaXb4CKvQSyl1R)
-- [Hurting by Kyle Pearce](https://open.spotify.com/track/5GDKZONSB7sucPyFNpkney)
+- [Can You Feel It? by Amace](https://open.spotify.com/track/6usdn0wRK74Sgw68nMZQRt)
+- [Harder To Hold On by Soft Hours](https://open.spotify.com/track/0yczKVPtrwvAOBx9fGScL8)
+- [Move With Me by Rocky Raccoon](https://open.spotify.com/track/2HOUAid2D21huGjPXxXMd5)
+- [Was It Love by Pascal Junior](https://open.spotify.com/track/3kSbHK7xLulFxe1VtsJqrs)
+- [Starving by Living Memories, DANCCER](https://open.spotify.com/track/1HlaRhd8kIbZ77EdHVhXkg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
