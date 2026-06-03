@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Lucid Dreams by Jyye, Julia Temos](https://open.spotify.com/track/0Nh8CfVJ7k2VIXaGFa04wd)
-- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
-- [gravity by all things break](https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8)
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/0C5G0JJLTyDexp08AiAzxy)
-- [Slide by April Girl](https://open.spotify.com/track/6ogAI7hxJhcpH04xFuwGn4)
+- [World on Fire by Keanler](https://open.spotify.com/track/65R5JQFsjzba1TMDlK58TX)
+- [Empty Space by WLCH](https://open.spotify.com/track/5CmtPf5ovzhKo6yZf0JOU1)
+- [Silhouette by DIMEO](https://open.spotify.com/track/75hRq4235Myhny9O7158Vm)
+- [Molly by DROWNIN](https://open.spotify.com/track/7E7ZmaH3OziY3GL7GWeE44)
+- [Wild - Extended by Tough Love, TAPE ANGEL](https://open.spotify.com/track/3gSUiJLRxRKUFBFktrs5oP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
