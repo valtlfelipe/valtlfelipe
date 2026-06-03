@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[jpanther/congo](https://github.com/jpanther/congo)** - A powerful, lightweight theme for Hugo built with Tailwind CSS. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Deep of You by Astrality, Marlo Rex](https://open.spotify.com/track/5lRzNBSLgUQFZhJrEYGqPN)
-- [underneath by i.am.u.](https://open.spotify.com/track/3uHdJdgbUMSiOragYtlNFy)
-- [That&#39;s Where I Should Be by MA:RK](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8)
-- [Running Blind by NOTSOBAD, i.am.u.](https://open.spotify.com/track/2GRNBHkLmYVmrtFhtZpW8w)
-- [Confess by April Girl](https://open.spotify.com/track/3xOveMxnSatyDgQTGIfcMg)
+- [Upside Down by April Girl](https://open.spotify.com/track/3yh06bgDnH0QZFiHVeObWH)
+- [black tears by all things break](https://open.spotify.com/track/4lzsFM6Niynyr5C1GoNqT2)
+- [Can&#39;t Go Back by Astrality, James French](https://open.spotify.com/track/2MjUXeQsfJAFhSXvpojmQX)
+- [Mood Song by Why U So, Lua Sola](https://open.spotify.com/track/79fIQTrSfK6J9r8va0INAo)
+- [in my arms by abelon](https://open.spotify.com/track/7yWy7PV3Sv6kzjhgx4gI4S)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
