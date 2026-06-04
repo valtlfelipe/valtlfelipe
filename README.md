@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)** - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [faceinthecrowd by Paul Schulze](https://open.spotify.com/track/7q2mUGUsw2USidr7rScJ8x)
+- [Fairytale by Last Sun](https://open.spotify.com/track/3dlwhEZtSg1PKtGY22J1Pm)
 - [World on Fire by Keanler](https://open.spotify.com/track/65R5JQFsjzba1TMDlK58TX)
 - [Empty Space by WLCH](https://open.spotify.com/track/5CmtPf5ovzhKo6yZf0JOU1)
 - [Silhouette by DIMEO](https://open.spotify.com/track/75hRq4235Myhny9O7158Vm)
-- [Molly by DROWNIN](https://open.spotify.com/track/7E7ZmaH3OziY3GL7GWeE44)
-- [Wild - Extended by Tough Love, TAPE ANGEL](https://open.spotify.com/track/3gSUiJLRxRKUFBFktrs5oP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
