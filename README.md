@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[openclaw/octopool](https://github.com/openclaw/octopool)** - A shared, org-authenticated GitHub read relay and cache. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Leave Behind by Astrality, Krysta Youngs, Andro](https://open.spotify.com/track/0hXpNsYnw831qvqCDOCbz5)
-- [True by edapollo, Shallou](https://open.spotify.com/track/6BUboGsbk4M4eed4pfKGbz)
-- [Nothing Left by Rules, Coldabank, SHYA](https://open.spotify.com/track/7GQNTnBqlAPa3lQMWeIvUa)
-- [Spellbound by oskar med k](https://open.spotify.com/track/35RcDsH49f6bCD328S0xB4)
-- [Waiting All My Life by JLV](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi)
+- [I Don&#39;t by Cody Indigo](https://open.spotify.com/track/5BR1UqbFd6rS5qcihpgZIE)
+- [Breathe in the Blue by Julien Fade, Nu-La](https://open.spotify.com/track/5j2ONNLDz5PwdXqtDU8QI0)
+- [One Last Time by NM](https://open.spotify.com/track/6YPmaSehLyyY5ImwNkmEGv)
+- [Eyesight by Mats Westbroek, Damaui](https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA)
+- [Teardrops by Why U So](https://open.spotify.com/track/44qyK0YHfZz9AngFaWmycU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
