@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[opendata-oss/opendata](https://github.com/opendata-oss/opendata)** - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.  (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Stay by Julien Fade](https://open.spotify.com/track/6UTUFTUBJEDtO9HXWO1KEA)
-- [Where We Belong by Amtrac](https://open.spotify.com/track/1eCbYVNIkLFf54XkKWN6uf)
-- [Called Your Name by Nu Aspect, Jake Neumar](https://open.spotify.com/track/27z5prnleELd1ifzlnaEHJ)
-- [Silver Lines by Astrality, Daydream Affiliate](https://open.spotify.com/track/6PoPjT2IabuxwHOvQcibd4)
-- [Remember by DRAY](https://open.spotify.com/track/39K1B9yIdTCgwm25z4GYId)
+- [sweet love by origins](https://open.spotify.com/track/6StFqlV3c99tjW3hjXtTCL)
+- [Shards by Small Town Kid](https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV)
+- [Missing Me by Reiny, EZIA](https://open.spotify.com/track/1xBR2d1dyj0UzVvSVcQNl7)
+- [underneath by i.am.u.](https://open.spotify.com/track/3uHdJdgbUMSiOragYtlNFy)
+- [Healin by MA:RK](https://open.spotify.com/track/4YZbiCD7V71wfIbDeyTQrV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
