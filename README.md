@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[opendata-oss/opendata](https://github.com/opendata-oss/opendata)** - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.  (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [underneath by i.am.u.](https://open.spotify.com/track/3uHdJdgbUMSiOragYtlNFy)
+- [Cherry Blossom by CAKES](https://open.spotify.com/track/1zcF4tbCLeXKb0LwB3C5kb)
 - [sweet love by origins](https://open.spotify.com/track/6StFqlV3c99tjW3hjXtTCL)
 - [Shards by Small Town Kid](https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV)
 - [Missing Me by Reiny, EZIA](https://open.spotify.com/track/1xBR2d1dyj0UzVvSVcQNl7)
-- [underneath by i.am.u.](https://open.spotify.com/track/3uHdJdgbUMSiOragYtlNFy)
-- [Healin by MA:RK](https://open.spotify.com/track/4YZbiCD7V71wfIbDeyTQrV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
