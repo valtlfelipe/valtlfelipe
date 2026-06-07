@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Let Me by MIND](https://open.spotify.com/track/7CwAeT4mSll6RED9ZFEJ8L)
 - [underneath by i.am.u.](https://open.spotify.com/track/3uHdJdgbUMSiOragYtlNFy)
 - [Cherry Blossom by CAKES](https://open.spotify.com/track/1zcF4tbCLeXKb0LwB3C5kb)
 - [sweet love by origins](https://open.spotify.com/track/6StFqlV3c99tjW3hjXtTCL)
 - [Shards by Small Town Kid](https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV)
-- [Missing Me by Reiny, EZIA](https://open.spotify.com/track/1xBR2d1dyj0UzVvSVcQNl7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
