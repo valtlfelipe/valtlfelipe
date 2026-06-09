@@ -3,7 +3,7 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[xt42io/aeroplane](https://github.com/xt42io/aeroplane)** (3 days ago)
+- **[xt42io/aeroplane](https://github.com/xt42io/aeroplane)** - Deploy apps and databases on your own server. (3 days ago)
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (4 days ago)
 - **[charlietlamb/openlogs](https://github.com/charlietlamb/openlogs)** - give agents access to your logs (4 days ago)
 - **[evolution-foundation/evolution-api](https://github.com/evolution-foundation/evolution-api)** - Evolution API is an open-source WhatsApp integration API (6 days ago)
