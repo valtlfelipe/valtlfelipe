@@ -3,9 +3,9 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (1 day ago)
-- **[spatie/freek.dev](https://github.com/spatie/freek.dev)** - The sourcecode of freek.dev (2 days ago)
-- **[xt42io/aeroplane](https://github.com/xt42io/aeroplane)** - Deploy apps and databases on your own server. (6 days ago)
+- **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (2 days ago)
+- **[spatie/freek.dev](https://github.com/spatie/freek.dev)** - The sourcecode of freek.dev (3 days ago)
+- **[xt42io/aeroplane](https://github.com/xt42io/aeroplane)** - Deploy apps and databases on your own server. (1 week ago)
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (1 week ago)
 - **[charlietlamb/openlogs](https://github.com/charlietlamb/openlogs)** - give agents access to your logs (1 week ago)
 
