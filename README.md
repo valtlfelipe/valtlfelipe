@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[charlietlamb/openlogs](https://github.com/charlietlamb/openlogs)** - give agents access to your logs (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Disappear by Crossing Borders](https://open.spotify.com/track/62eQeArXedD7Xwd5zx6BAG)
-- [Let You Know by Carter., imallryt](https://open.spotify.com/track/0ZKvsGwD3D8Y4orIQGyyBW)
-- [BET ON YOU by Rob The Bank](https://open.spotify.com/track/4bT5wDZJF6dSG0ZX9ZjlJU)
-- [Still Need You by Busy Reno](https://open.spotify.com/track/5jTm7BE58RzoVuJDSnGpmK)
-- [Stay by FΛR.](https://open.spotify.com/track/4mEiXwY2X4Ewe79Ov0RaDc)
+- [Passionfruit by Angie Robba, Holly, LMNY](https://open.spotify.com/track/6ef1gE00L3ygMMzHMWwCSv)
+- [Back To You by KOSTA, AdamDarling, ZEETS](https://open.spotify.com/track/5v0vcnbGTXrxPbgut4gii1)
+- [Hear Your Name by SØLUNA](https://open.spotify.com/track/6PVDMpcryJHliho27u0rzh)
+- [Sleepless in Tempo by After Midnight](https://open.spotify.com/track/3o3ZvwFC9eVI4Q0Xhb0Fmk)
+- [Mrs Blue - Astrality Remix by Tommy Down, Astrality](https://open.spotify.com/track/4u4N5JKq4WTfLmf4hEhKWl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
