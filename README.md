@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[charlietlamb/openlogs](https://github.com/charlietlamb/openlogs)** - give agents access to your logs (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Passionfruit by Angie Robba, Holly, LMNY](https://open.spotify.com/track/6ef1gE00L3ygMMzHMWwCSv)
-- [Back To You by KOSTA, AdamDarling, ZEETS](https://open.spotify.com/track/5v0vcnbGTXrxPbgut4gii1)
-- [Hear Your Name by SØLUNA](https://open.spotify.com/track/6PVDMpcryJHliho27u0rzh)
-- [Sleepless in Tempo by After Midnight](https://open.spotify.com/track/3o3ZvwFC9eVI4Q0Xhb0Fmk)
-- [Mrs Blue - Astrality Remix by Tommy Down, Astrality](https://open.spotify.com/track/4u4N5JKq4WTfLmf4hEhKWl)
+- [Talk About It by Coopex](https://open.spotify.com/track/5dGsM1jFqx1CDtQmdDUUgK)
+- [Company by SKAI, RYVM](https://open.spotify.com/track/2oOLzIWJz2BTNXM6fzvvwq)
+- [Latch by TEEMID LAB](https://open.spotify.com/track/3tWcsNkSKVCRKgoL3yUJyw)
+- [Apologize - Deep House Version by elsewhere.](https://open.spotify.com/track/4rS8q5Zjga8eQgS8YMw8BE)
+- [been gone too long.. by natt3ravn](https://open.spotify.com/track/0bH098f8yP931jhGATqKax)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
