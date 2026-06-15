@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Take My Hand Tonight by MIND](https://open.spotify.com/track/43HECX8GKH8nCWjLPapDpi)
-- [Someone to Hold by Nu Aspect, Tudor](https://open.spotify.com/track/3ZxAvk6788NXvTsvl0qqEF)
-- [Get Close by Bolier, AMRV](https://open.spotify.com/track/5Iu5ajMYXdV8z9fJ5XimwD)
-- [Bloom by Astrality, FLORES](https://open.spotify.com/track/1rb65ahUV0k2QYq4x3Fi9y)
-- [Out of Reach by MIND](https://open.spotify.com/track/3IWxVPHeBIZgrPuLIa0Avy)
+- [Falling for the Feeling by MIND](https://open.spotify.com/track/5GnkqqWGbPZLp1T2l0PZO8)
+- [Remember by DRAY](https://open.spotify.com/track/39K1B9yIdTCgwm25z4GYId)
+- [Stay Until the Morning by Stoto](https://open.spotify.com/track/1UOg16o0BdBPEjmSjlzBTB)
+- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
+- [Slide by April Girl](https://open.spotify.com/track/6ogAI7hxJhcpH04xFuwGn4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
