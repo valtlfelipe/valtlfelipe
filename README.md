@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Falling for the Feeling by MIND](https://open.spotify.com/track/5GnkqqWGbPZLp1T2l0PZO8)
-- [Remember by DRAY](https://open.spotify.com/track/39K1B9yIdTCgwm25z4GYId)
-- [Stay Until the Morning by Stoto](https://open.spotify.com/track/1UOg16o0BdBPEjmSjlzBTB)
-- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
-- [Slide by April Girl](https://open.spotify.com/track/6ogAI7hxJhcpH04xFuwGn4)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
+- [Running Back by Jyye, Julia Temos](https://open.spotify.com/track/1CFCcgPrNHShuYX6xjIjps)
+- [Hold on Me by Why U So, SHELLS](https://open.spotify.com/track/43FNnp0KnanReB8KCTl97p)
+- [Stay by Julien Fade](https://open.spotify.com/track/6UTUFTUBJEDtO9HXWO1KEA)
+- [Restart My Heart by Astrality, Aiko](https://open.spotify.com/track/0a2Yh4mTBAcQDpBYjFIMLJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
