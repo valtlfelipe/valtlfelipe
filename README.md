@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Choose me by Cathleen Kleinert](https://open.spotify.com/track/0kkbThggJteiUSqtHxyhZ6)
-- [I&#39;m Losing My Mind by GOBAITH](https://open.spotify.com/track/0KDxBt611Ihww44YpXdE4q)
-- [Come Down by PhatAdam](https://open.spotify.com/track/1nm5gkoHqlbw5DIYDGzjfm)
-- [think of me by KAYRO](https://open.spotify.com/track/0sinlvaGNfEUrN5CaVTM48)
-- [The Joy by LMA](https://open.spotify.com/track/0ZEbTQKlvRfK8ydQ0mABZ4)
+- [No Man&#39;s Land by CAKES, Izzy Bizu](https://open.spotify.com/track/6Ugr3Xsm1eeHxliKuEeWaW)
+- [If You Had My Love by Paul Schulze, FŪNKENSTEIN, LEVII](https://open.spotify.com/track/58mmJ7RXEesiCJeYGK3QJY)
+- [Cherry Blossom by CAKES](https://open.spotify.com/track/1zcF4tbCLeXKb0LwB3C5kb)
+- [Confess by April Girl](https://open.spotify.com/track/3xOveMxnSatyDgQTGIfcMg)
+- [Sweet Release by Nu Aspect](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
