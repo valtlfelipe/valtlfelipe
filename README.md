@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [One Last Time by V A E L O R A](https://open.spotify.com/track/6eDR5E3MrjEkaLxabOqyAs)
-- [Make Me Feel Like (Don&#39;t Nobody Else) by NORRA](https://open.spotify.com/track/4oLNiCIVvGyoUt219VAshi)
-- [The Unknown by GOBAITH](https://open.spotify.com/track/2sBX5IYciRsfBTx0HG8UnN)
-- [Hello (The Sun Is Up Where Are You) by Mizmo](https://open.spotify.com/track/4JdJb1IvZ2AacLemLGonDy)
-- [Fragile Soul by Lonelysoul.](https://open.spotify.com/track/2Wnh4TOvini4Evajt72qgl)
+- [Get Out by 2-JAY](https://open.spotify.com/track/4SMR6fYncmB26sWQzfP1eV)
+- [things you do by imposter](https://open.spotify.com/track/1wKNMr7eHNUGAulHBbkEYa)
+- [Still Feel You by Why U So](https://open.spotify.com/track/26J7HIZ0YmXwU4UPyr9PeF)
+- [Take My Hand Tonight by MIND](https://open.spotify.com/track/43HECX8GKH8nCWjLPapDpi)
+- [Someone to Hold by Nu Aspect, Tudor](https://open.spotify.com/track/3ZxAvk6788NXvTsvl0qqEF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
