@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Set Me Free by abelon](https://open.spotify.com/track/7nZZAgbg35dZThRxRVgeR1)
-- [Night After Night by oskar med k](https://open.spotify.com/track/5FfaCIfjxzg8TU9G0Bm8Rj)
-- [Keep Me by Julien Fade, Tudor, Caroline Byrne](https://open.spotify.com/track/4rC0oFLNAXlKDRrI2xHhhA)
-- [Where U Going by Neon Tide](https://open.spotify.com/track/7gwI6vjJKqpXkA1Zgfjn31)
-- [Misery by Lonelysoul.](https://open.spotify.com/track/35YFuX9UFXTeihRCIRFFwi)
+- [One Last Time by V A E L O R A](https://open.spotify.com/track/6eDR5E3MrjEkaLxabOqyAs)
+- [Make Me Feel Like (Don&#39;t Nobody Else) by NORRA](https://open.spotify.com/track/4oLNiCIVvGyoUt219VAshi)
+- [The Unknown by GOBAITH](https://open.spotify.com/track/2sBX5IYciRsfBTx0HG8UnN)
+- [Hello (The Sun Is Up Where Are You) by Mizmo](https://open.spotify.com/track/4JdJb1IvZ2AacLemLGonDy)
+- [Fragile Soul by Lonelysoul.](https://open.spotify.com/track/2Wnh4TOvini4Evajt72qgl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
