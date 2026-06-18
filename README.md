@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Stalking Me by SWISH](https://open.spotify.com/track/40bhHParn81OKyn2pftFtf)
-- [BAD 4 ME by Lonelysoul.](https://open.spotify.com/track/2WL0sdi2YwXFyEKn9lMwQL)
-- [MAYBE (UKG / SPEED GARAGE) by SAiiLOR, Megan Simpson](https://open.spotify.com/track/7Mu8l1rodGVhcOChgEwJ94)
-- [One Last Time by V A E L O R A](https://open.spotify.com/track/6eDR5E3MrjEkaLxabOqyAs)
-- [Make Me Feel Like (Don&#39;t Nobody Else) by NORRA](https://open.spotify.com/track/4oLNiCIVvGyoUt219VAshi)
+- [No Money by Galantis](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd)
+- [Alane by Robin Schulz, Wes](https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI)
+- [Timber by Pitbull, Kesha](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)
+- [Lean On by Major Lazer, DJ Snake, MØ](https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16)
+- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
