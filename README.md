@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Strangers by GOBAITH, Oliver Rio](https://open.spotify.com/track/185Epi3EEsNPdu80VORL6t)
-- [WHY DO I FEEL LIKE THIS? by MØSS](https://open.spotify.com/track/2Rm4147KWC1yWLUC6kA6rH)
-- [Peace Again by oskar med k](https://open.spotify.com/track/59HY2n6exsmsH40i4x0PIH)
-- [echoes by KAYRO](https://open.spotify.com/track/3w6Tq1G8IVOkf14a9J2HR0)
-- [Don&#39;t Feel Right by Bleu Azur](https://open.spotify.com/track/2xc1OjwWAmya2BKZJcaart)
+- [Stalking Me by SWISH](https://open.spotify.com/track/40bhHParn81OKyn2pftFtf)
+- [BAD 4 ME by Lonelysoul.](https://open.spotify.com/track/2WL0sdi2YwXFyEKn9lMwQL)
+- [MAYBE (UKG / SPEED GARAGE) by SAiiLOR, Megan Simpson](https://open.spotify.com/track/7Mu8l1rodGVhcOChgEwJ94)
+- [One Last Time by V A E L O R A](https://open.spotify.com/track/6eDR5E3MrjEkaLxabOqyAs)
+- [Make Me Feel Like (Don&#39;t Nobody Else) by NORRA](https://open.spotify.com/track/4oLNiCIVvGyoUt219VAshi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
