@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [No Money by Galantis](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd)
-- [Alane by Robin Schulz, Wes](https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI)
-- [Timber by Pitbull, Kesha](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)
-- [Lean On by Major Lazer, DJ Snake, MØ](https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16)
-- [Where Are You Now by Lost Frequencies, Calum Scott](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z)
+- [Innerbloom by Weir, Tanner Fruit, Cassie Wilson](https://open.spotify.com/track/5G6hjIhDxtw1pf7nTLUFXs)
+- [Afterglow by Bob Moses, Kasablanca](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44)
+- [Is This Love - Montmartre Remix by Bob Marley &amp; The Wailers, MONTMARTRE](https://open.spotify.com/track/3DE2xnbdTDuatFubUV0soe)
+- [Back In Time by Freyer, Joel Winterflood](https://open.spotify.com/track/0FdVLK98RAdEoQNZnftoGh)
+- [Homie by Joris Delacroix](https://open.spotify.com/track/0hjwiba2gpwgq82VbiD7oS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
