@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [So Sorry by Rudimental, Skream](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU)
-- [Elements Of A New Life by VER:WEST, Tiësto](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs)
-- [Baltasound by Marco Dalla Villa](https://open.spotify.com/track/3KDcZtyZnYAK8eagMQWcc5)
-- [Pepas - Tiësto Remix by Farruko, Tiësto](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6)
-- [Morenita by HUGEL, Cumbiafrica](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj)
+- [Hotel California - 2013 Remaster by Eagles](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv)
+- [The Way by Mary Mesk, Curol](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo)
+- [Gotta Get Thru This by Le Boeuf](https://open.spotify.com/track/61IqoZPM9h4DVJWHYSZAW5)
+- [Calabria (feat. Nito-Onna &amp; Lujavo) by Dance Fruits Music, DMNDS, dnvn, Nito-Onna, Lujavo](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46)
+- [Where The Lights Are Low - Mike Williams Remix by Toby Romeo, felix jaehn, FAULHABER, Mike Williams](https://open.spotify.com/track/6k3Oxg6tgRGFxN0ilByxZ4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
