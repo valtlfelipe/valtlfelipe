@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[microsoft/pg_durable](https://github.com/microsoft/pg_durable)** - PostgreSQL in-database durable execution (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Hotel California - 2013 Remaster by Eagles](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv)
-- [The Way by Mary Mesk, Curol](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo)
-- [Gotta Get Thru This by Le Boeuf](https://open.spotify.com/track/61IqoZPM9h4DVJWHYSZAW5)
-- [Calabria (feat. Nito-Onna &amp; Lujavo) by Dance Fruits Music, DMNDS, dnvn, Nito-Onna, Lujavo](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46)
-- [Where The Lights Are Low - Mike Williams Remix by Toby Romeo, felix jaehn, FAULHABER, Mike Williams](https://open.spotify.com/track/6k3Oxg6tgRGFxN0ilByxZ4)
+- [Tell Me by Falden, Fare](https://open.spotify.com/track/2TLICM4QNi7BRg7Wa0kzdN)
+- [Too Bad by MIND](https://open.spotify.com/track/4CizQfTnR2hPhYJH8EC9kY)
+- [Dreamin by London Topaz, ANYLIA](https://open.spotify.com/track/5b96AUAqO9orhjfA5JvMFZ)
+- [I See You by Reiny, EZIA](https://open.spotify.com/track/2D2G2gbcZkZzve14PYdqMf)
+- [stay by all things break](https://open.spotify.com/track/1QLJZ0k0nRDlbKoTGtyKJQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
