@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Drift Out, Then Return by Small Town Kid](https://open.spotify.com/track/0m6A4F1mnR1HVPnzM3Tg3u)
-- [Glow by MA:RK](https://open.spotify.com/track/6nHyY8kHh39ZB4SfsQ35zD)
-- [Show Me by JLV, Thandi](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A)
-- [Waiting for Love by Tudor, Embody](https://open.spotify.com/track/5v2wRn44H8LLX6iCYUAMP7)
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/0C5G0JJLTyDexp08AiAzxy)
+- [Called Your Name by Nu Aspect, Jake Neumar](https://open.spotify.com/track/27z5prnleELd1ifzlnaEHJ)
+- [Chemicals by Thandi](https://open.spotify.com/track/6fbj2WJhkyYamhkYngTI5W)
+- [Heaven by PALASTIC, ALLKNIGHT](https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp)
+- [dots by all things break](https://open.spotify.com/track/1yPRNFhue7yteEtFKn32W6)
+- [Two Things by MIND](https://open.spotify.com/track/30f8OoQXsRG13P03b896Ub)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
