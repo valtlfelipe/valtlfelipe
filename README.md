@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Nobody Knows - Belters Only Remix by Ape Drums, Clementine Douglas, Belters Only](https://open.spotify.com/track/1unlWf6dqVy71XhAdlMjH0)
-- [Playback by Daydream Affiliate](https://open.spotify.com/track/1cIwWZ0UUervIBRfl8mwzc)
+- [Let Me by MIND](https://open.spotify.com/track/7CwAeT4mSll6RED9ZFEJ8L)
+- [dots by all things break](https://open.spotify.com/track/1yPRNFhue7yteEtFKn32W6)
+- [Where Nobody Knows by Hyzteria, Dakota](https://open.spotify.com/track/4fzUXbg5iev2CqbmbzW3mg)
 - [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
-- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
-- [Strings Attached by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8)
+- [Tell Me by Falden, Fare](https://open.spotify.com/track/2TLICM4QNi7BRg7Wa0kzdN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
