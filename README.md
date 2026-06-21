@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Let Me by MIND](https://open.spotify.com/track/7CwAeT4mSll6RED9ZFEJ8L)
-- [dots by all things break](https://open.spotify.com/track/1yPRNFhue7yteEtFKn32W6)
-- [Where Nobody Knows by Hyzteria, Dakota](https://open.spotify.com/track/4fzUXbg5iev2CqbmbzW3mg)
-- [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
-- [Tell Me by Falden, Fare](https://open.spotify.com/track/2TLICM4QNi7BRg7Wa0kzdN)
+- [Cadeira Cativa - Ao Vivo by Zé Neto &amp; Cristiano](https://open.spotify.com/track/7gx504HCEsTgxmyPNov5Lh)
+- [Tubarões - Ao Vivo by Diego &amp; Victor Hugo](https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H)
+- [Saudade Proibida - Ao Vivo by Simone Mendes](https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7)
+- [PEGA A MALDADE DA BANDIDA by Dj Luan Gomes, Mc Ws da leste, Delleon, Tropa da W&amp;S](https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K)
+- [Arrependidaço (Onde Você Anda) by Ferrugem](https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
