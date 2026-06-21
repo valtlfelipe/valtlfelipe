@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Cadeira Cativa - Ao Vivo by Zé Neto &amp; Cristiano](https://open.spotify.com/track/7gx504HCEsTgxmyPNov5Lh)
-- [Tubarões - Ao Vivo by Diego &amp; Victor Hugo](https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H)
-- [Saudade Proibida - Ao Vivo by Simone Mendes](https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7)
-- [PEGA A MALDADE DA BANDIDA by Dj Luan Gomes, Mc Ws da leste, Delleon, Tropa da W&amp;S](https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K)
-- [Arrependidaço (Onde Você Anda) by Ferrugem](https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces)
+- [What A Life by John Summit, Guz, Stevie Appleton](https://open.spotify.com/track/1KbLVz3ZcdUOt2wBXqU2cG)
+- [Right Round by Flo Rida, Kesha](https://open.spotify.com/track/7EH2enDP1q3upRqctbOz3n)
+- [Party Rock Anthem by LMFAO, Lauren Bennett, GoonRock](https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI)
+- [One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)
+- [Time of Our Lives by Pitbull, Ne-Yo](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
