@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Say It To Me by Otto Knows](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ)
-- [By My Side by Beau Cruz](https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9)
-- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
-- [Sunshine by Elderbrook, Snakehips](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ)
-- [Dancing Feet (feat. DNCE) by Kygo, DNCE](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0)
+- [Dreams ft JXN - Radio Edit by Alex Hayes, JXN](https://open.spotify.com/track/6ovT2DcdlkHxSwI7d7Kmh5)
+- [Missing - Sunset Mix by Dino Mileta, Daniel Merano, EFA, Moody Violet](https://open.spotify.com/track/3FrTQiDvCGDmjlFmBmNWdX)
+- [Everything You Do by Patrick Lite](https://open.spotify.com/track/247QsT8QFchKblRE69dgm9)
+- [Still Feel You by Baila Curry](https://open.spotify.com/track/4k6EIMCayYaJ6ebf1EHZB6)
+- [Slow Heat - Sped Up by MANTOX](https://open.spotify.com/track/57dRQ9tTHzu4p8tbEHCaP6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
