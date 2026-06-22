@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Dreams ft JXN - Radio Edit by Alex Hayes, JXN](https://open.spotify.com/track/6ovT2DcdlkHxSwI7d7Kmh5)
-- [Missing - Sunset Mix by Dino Mileta, Daniel Merano, EFA, Moody Violet](https://open.spotify.com/track/3FrTQiDvCGDmjlFmBmNWdX)
-- [Everything You Do by Patrick Lite](https://open.spotify.com/track/247QsT8QFchKblRE69dgm9)
-- [Still Feel You by Baila Curry](https://open.spotify.com/track/4k6EIMCayYaJ6ebf1EHZB6)
-- [Slow Heat - Sped Up by MANTOX](https://open.spotify.com/track/57dRQ9tTHzu4p8tbEHCaP6)
+- [HALLELUJAH by Soul Panther, Hartwell](https://open.spotify.com/track/6AgOceB5JboBV3LtOVIzYk)
+- [Say You Stay by Gaullin](https://open.spotify.com/track/1KP5Oyzc7hjgDEkMQ7PVVG)
+- [What You Know by Très Moyen](https://open.spotify.com/track/5E4A8z921i4Lpybic9WZls)
+- [Sunroof by between.](https://open.spotify.com/track/5BnaCKEzT2JwllF4pVJ2nc)
+- [dots by all things break](https://open.spotify.com/track/1yPRNFhue7yteEtFKn32W6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
