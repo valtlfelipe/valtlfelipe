@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [HALLELUJAH by Soul Panther, Hartwell](https://open.spotify.com/track/6AgOceB5JboBV3LtOVIzYk)
-- [Say You Stay by Gaullin](https://open.spotify.com/track/1KP5Oyzc7hjgDEkMQ7PVVG)
-- [What You Know by Très Moyen](https://open.spotify.com/track/5E4A8z921i4Lpybic9WZls)
-- [Sunroof by between.](https://open.spotify.com/track/5BnaCKEzT2JwllF4pVJ2nc)
-- [dots by all things break](https://open.spotify.com/track/1yPRNFhue7yteEtFKn32W6)
+- [Need You by AMANN](https://open.spotify.com/track/097u2VSRpLZb7JwLY9IvL9)
+- [Stay by me by KLYN](https://open.spotify.com/track/6zytewsXICPjJZwJ3JTlPQ)
+- [Man Without a Map by BarefeetnHats](https://open.spotify.com/track/4PpZnRKld54hhxu2gQ4dB8)
+- [TEXT ME by Garage King](https://open.spotify.com/track/6NLVMaz4faSgjdWPvNhQED)
+- [Too Far by LUDVIC, Keano Lee](https://open.spotify.com/track/7L159DdsXNwag94E01FIqK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
