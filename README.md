@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [When You&#39;re Around by H:dn](https://open.spotify.com/track/00WOe6UJfFOOLjS5vQjiOk)
-- [Echo by blaank, JEANS](https://open.spotify.com/track/3Nb2Zq0bff73MUKJshVpIk)
-- [Give Me by NYKY](https://open.spotify.com/track/5YBsLfKWikrM9GWCjUtaGI)
-- [Can&#39;t Be Without U by CLYROX](https://open.spotify.com/track/2KIQOvBHyvBconEik2H9Gu)
-- [Right Here by Benne](https://open.spotify.com/track/4uIpDEc5XCn4gYq0SoBXib)
+- [Say You Stay by Gaullin](https://open.spotify.com/track/1KP5Oyzc7hjgDEkMQ7PVVG)
+- [What You Know by Très Moyen](https://open.spotify.com/track/5E4A8z921i4Lpybic9WZls)
+- [Sunroof by between.](https://open.spotify.com/track/5BnaCKEzT2JwllF4pVJ2nc)
+- [dots by all things break](https://open.spotify.com/track/1yPRNFhue7yteEtFKn32W6)
+- [Stay Like That by V3lvet](https://open.spotify.com/track/0Y7rqBot9D8X6WO5rQrocQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
