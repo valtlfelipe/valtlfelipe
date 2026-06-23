@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Velo by Aviino, Tristan Rogers](https://open.spotify.com/track/1XEWDydmImFZC1sHKHpZ7O)
-- [Silent Movements by Mecca:83](https://open.spotify.com/track/7rSQA6DYxovYw1LcBqHOlK)
-- [Yurayura by Osamu Fukuzawa, ØDYSSEE](https://open.spotify.com/track/2hNLSSdPzDbXlYukB6FZFo)
-- [Suki by less.people](https://open.spotify.com/track/3sme56WjbXrGxrT95MWLc7)
-- [Keep Going by Swørn](https://open.spotify.com/track/3XVnsxFN64rtFHkKVnxBkm)
+- [Glow by Tesk](https://open.spotify.com/track/1x5O8nHT0IfmibY0ECDxfL)
+- [Always White by dennisivnvc, Dani Catalá](https://open.spotify.com/track/4awX7suIRWqC0nCkrsY7js)
+- [Point of Departure by Mecca:83, Yuichiro Kato](https://open.spotify.com/track/2ZfZVPkY3S1w1lnpTj0mRk)
+- [Soulistica by The BREED](https://open.spotify.com/track/69H8iHl99mKJxRsChBmo2v)
+- [At First There Was Rain by goosetaf, Idan Morim](https://open.spotify.com/track/21NKvUTRH4LKW7F0QgZo6E)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
