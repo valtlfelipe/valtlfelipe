@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Rolando-Barbella/expo-sass-template](https://github.com/Rolando-Barbella/expo-sass-template)** - Expo Sass template (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Still Feel You by Baila Curry](https://open.spotify.com/track/4k6EIMCayYaJ6ebf1EHZB6)
-- [Slow Heat - Sped Up by MANTOX](https://open.spotify.com/track/57dRQ9tTHzu4p8tbEHCaP6)
-- [Just Hold Me by Duskory](https://open.spotify.com/track/3ltqV1yeRY4bZRDX5a3s2P)
-- [Falling Out Of Love by BCMP, KETONE, DJ S33K3R](https://open.spotify.com/track/4mNFxZ39YxSvYzlXb46CN7)
-- [Drift With Me by MIN4R4](https://open.spotify.com/track/6vrsmZR7L6Uf85DuiwitQ8)
+- [When You&#39;re Around by H:dn](https://open.spotify.com/track/00WOe6UJfFOOLjS5vQjiOk)
+- [Echo by blaank, JEANS](https://open.spotify.com/track/3Nb2Zq0bff73MUKJshVpIk)
+- [Give Me by NYKY](https://open.spotify.com/track/5YBsLfKWikrM9GWCjUtaGI)
+- [Can&#39;t Be Without U by CLYROX](https://open.spotify.com/track/2KIQOvBHyvBconEik2H9Gu)
+- [Right Here by Benne](https://open.spotify.com/track/4uIpDEc5XCn4gYq0SoBXib)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
