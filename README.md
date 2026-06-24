@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Wilfried-Tech/sidedns](https://github.com/Wilfried-Tech/sidedns)** - SideDNS is a local DNS router and transparent HTTP/HTTPS proxy for developers.  It lets you map any domain name to any local service — and undo it completely when you&#39;re done. Route any domain to any local service. Instantly. Without touching your system. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [All My Life - Ian Storm Edit by PINKFISH, Ian Storm](https://open.spotify.com/track/35Fs8C4RoHscw7oPSSbbh1)
-- [All In by NAVAH, Nicholas Roberts](https://open.spotify.com/track/3kESrDt1y22xrwVs1MrApX)
-- [On My Own by Michael Ford, Ruci Tijar, Irito Kazuto](https://open.spotify.com/track/5enIdDrKGJ4EUoClMinG35)
-- [Drifting by Tiësto, Poppy Baskcomb](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi)
-- [Diving Deep by Ron van den Beuken, John Laurant](https://open.spotify.com/track/76JxXkAeqF3U7l29QWJWBD)
+- [Love You Like I Do - Radio Edit by Alex Byrne](https://open.spotify.com/track/5ru43dmZwkPkCluAov278C)
+- [Naiburi Vibes by Divine](https://open.spotify.com/track/6RRGFSeZP6WqNp0J0L4Tg5)
+- [Runaway by Max Mackie](https://open.spotify.com/track/7gPj4RQG30tAH4AzS6TLHd)
+- [Back for You by GUESSWHO, DVNY, POURIA](https://open.spotify.com/track/2GKy5Z7OYuTypoBasHgqif)
+- [Home to Her by YOTO, Hardveld](https://open.spotify.com/track/3u4mGtSJBAQZLZ5joNLV18)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
