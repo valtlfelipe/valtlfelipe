@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Wilfried-Tech/sidedns](https://github.com/Wilfried-Tech/sidedns)** - SideDNS is a local DNS router and transparent HTTP/HTTPS proxy for developers.  It lets you map any domain name to any local service — and undo it completely when you&#39;re done. Route any domain to any local service. Instantly. Without touching your system. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Maze Of Memories by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/4ynY3o2BtztX3AdESEe3St)
-- [Location by Zerb, Ty Dolla $ign, Wiz Khalifa](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP)
-- [Polar Night by Arctec](https://open.spotify.com/track/5YPFO3Xjo05o8iWFq9UUNe)
-- [Lonely Lights by Max!m, Mark Coles](https://open.spotify.com/track/2arLOuT9NNn1WS0NPmeg3P)
-- [Lost In Space by Ian Storm, The Grandmaster, Noël](https://open.spotify.com/track/4N2T9eZHs7YpeXUt8FcWaV)
+- [Beat Of My Heart - Xavi Mundo &amp; Bosque Remix by Ian Storm, Bosque, Xavi Mundo, Martina Prskalo](https://open.spotify.com/track/6bXZTVsyPDguHpn0cRiOnP)
+- [Tell Me by Tinlicker, Helsloot, Hero Baldwin](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7)
+- [Beyond the Waves by Uncle Ciao, Mark Coles](https://open.spotify.com/track/44IG3u5ADDFn0QUOV3eMz2)
+- [It Feels So Good by Matt Sassari, HUGEL, Sonique](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi)
+- [Last Night by Rivo](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
