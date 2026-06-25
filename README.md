@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Wilfried-Tech/sidedns](https://github.com/Wilfried-Tech/sidedns)** - SideDNS is a local DNS router and transparent HTTP/HTTPS proxy for developers.  It lets you map any domain name to any local service — and undo it completely when you&#39;re done. Route any domain to any local service. Instantly. Without touching your system. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Me Das by Raïko, Devinity, TRYBE](https://open.spotify.com/track/5MD3FAkcJBcPfVhHSHaBAt)
-- [Can&#39;t Touch This by Elkana Paz](https://open.spotify.com/track/3yW6VvIxfhCWhx9Zyj1kyF)
-- [Heart - Radio Edit by Jimmy Rich, Mike Helan](https://open.spotify.com/track/0Jy7QRVoYRT9XUHbOZo2IT)
-- [Moth To A Flame (with The Weeknd) by Swedish House Mafia, The Weeknd](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr)
-- [Music in My Veins by Ian Storm, Pianoman](https://open.spotify.com/track/7hj0zEfTFyo29QjW83LHdH)
+- [Marea (we’ve lost dancing) by Fred again.., The Blessed Madonna](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR)
+- [All Feels New - Radio Edit by AZON](https://open.spotify.com/track/6fExrNOYEolMXThBgv3ugQ)
+- [Love You by Ex Music, Lintrepy](https://open.spotify.com/track/0GXLSMAlFD8Yiw3UBynsEd)
+- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
+- [Moving to the beat by KJ Project](https://open.spotify.com/track/5Jmg6TZ291Brv7J8g2To3S)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
