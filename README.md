@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Wilfried-Tech/sidedns](https://github.com/Wilfried-Tech/sidedns)** - SideDNS is a local DNS router and transparent HTTP/HTTPS proxy for developers.  It lets you map any domain name to any local service — and undo it completely when you&#39;re done. Route any domain to any local service. Instantly. Without touching your system. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Beat Of My Heart - Xavi Mundo &amp; Bosque Remix by Ian Storm, Bosque, Xavi Mundo, Martina Prskalo](https://open.spotify.com/track/6bXZTVsyPDguHpn0cRiOnP)
-- [Tell Me by Tinlicker, Helsloot, Hero Baldwin](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7)
-- [Beyond the Waves by Uncle Ciao, Mark Coles](https://open.spotify.com/track/44IG3u5ADDFn0QUOV3eMz2)
-- [It Feels So Good by Matt Sassari, HUGEL, Sonique](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi)
-- [Last Night by Rivo](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq)
+- [Me Das by Raïko, Devinity, TRYBE](https://open.spotify.com/track/5MD3FAkcJBcPfVhHSHaBAt)
+- [Can&#39;t Touch This by Elkana Paz](https://open.spotify.com/track/3yW6VvIxfhCWhx9Zyj1kyF)
+- [Heart - Radio Edit by Jimmy Rich, Mike Helan](https://open.spotify.com/track/0Jy7QRVoYRT9XUHbOZo2IT)
+- [Moth To A Flame (with The Weeknd) by Swedish House Mafia, The Weeknd](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr)
+- [Music in My Veins by Ian Storm, Pianoman](https://open.spotify.com/track/7hj0zEfTFyo29QjW83LHdH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
