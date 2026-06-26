@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat)** - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Think About Us by Sonny Fodera, D.O.D, Poppy Baskcomb](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj)
-- [Move Me by JAS1X, Golowko, Dinia](https://open.spotify.com/track/6FXgbm1WofjP3aHjHEB804)
-- [Feed Off Your Love by EPPING](https://open.spotify.com/track/0YQaqwKFxx2oZS3nl5XLcB)
-- [Get Your Love by Guztavo PT, Mike Fuentez](https://open.spotify.com/track/0hvVFcw44AdXUpkkPGnV36)
-- [Hide And Seek by Aludra](https://open.spotify.com/track/76Rw02WGgq5CwzfTAOj8K6)
+- [Paradise by Coldplay](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D)
+- [Kuye by Venteris, Um3kz](https://open.spotify.com/track/6LO9TO7Is27GcuVqsPuFgZ)
+- [Sunshine by D.O.D, RAHH](https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX)
+- [Say It To Me by Otto Knows](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ)
+- [Say It To Me by Otto Knows](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
