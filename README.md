@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat)** - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Overdrive by Matt Leger, Kaz Benson](https://open.spotify.com/track/0hqpWeFyCiFlNtd8tUSYVU)
-- [No Regrets by Q2mix](https://open.spotify.com/track/0DGqB3As6Y8tbTLY5fMtw0)
-- [Let You Know - Radio Edit by GiBoss](https://open.spotify.com/track/58hNbaVMsvARuWERmWsgLm)
-- [Feel the Flame by Mave &amp; Zac](https://open.spotify.com/track/3zYxOBAAFeHUvOG8FLQol0)
-- [Between Your Sighs by MAXTAGE, Hafex](https://open.spotify.com/track/0QfTIcoImQ20w8SeqF65Dy)
+- [Think About Us by Sonny Fodera, D.O.D, Poppy Baskcomb](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj)
+- [Move Me by JAS1X, Golowko, Dinia](https://open.spotify.com/track/6FXgbm1WofjP3aHjHEB804)
+- [Feed Off Your Love by EPPING](https://open.spotify.com/track/0YQaqwKFxx2oZS3nl5XLcB)
+- [Get Your Love by Guztavo PT, Mike Fuentez](https://open.spotify.com/track/0hvVFcw44AdXUpkkPGnV36)
+- [Hide And Seek by Aludra](https://open.spotify.com/track/76Rw02WGgq5CwzfTAOj8K6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
