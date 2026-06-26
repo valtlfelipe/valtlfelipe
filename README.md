@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Wilfried-Tech/sidedns](https://github.com/Wilfried-Tech/sidedns)** - SideDNS is a local DNS router and transparent HTTP/HTTPS proxy for developers.  It lets you map any domain name to any local service — and undo it completely when you&#39;re done. Route any domain to any local service. Instantly. Without touching your system. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Waiting For Tonight (feat. Sushy) by Emanuele Esposito, Brawo, Kanu, Sushy](https://open.spotify.com/track/6czg2GomSIkpaBKk8LWG4z)
-- [Holy Fire by Boix &amp; Breakloop, Sanxez](https://open.spotify.com/track/4GobMBw5L8981bAR4MFvAP)
-- [Dance In The Sunlight by Lost Frequencies, Bandit](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F)
-- [Over Now by Ali Bakgor, TOGY](https://open.spotify.com/track/7qn1NMyvxTp2XAJvgDjDa1)
-- [Love No More by Alto Santte](https://open.spotify.com/track/5MY1rDLMWLWvBmMRMWVloJ)
+- [Hold Me by Hafex, Madd Natt](https://open.spotify.com/track/3FCUppEp5BUHAv1qf0KFJU)
+- [Timeless by Ted Bear](https://open.spotify.com/track/2Fm7o12c4a1PuurITKqrPI)
+- [Loosen Up by HUGEL, Dawty, Preston Harris](https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA)
+- [One Love by James Godfrey, Mark Coles, Natalie Gray](https://open.spotify.com/track/4MDOtWTp32fqfYdQ7udEO4)
+- [Someone Special by WISEKIDS](https://open.spotify.com/track/0Lu6LIhUNgt1AtdpLPw3SJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
