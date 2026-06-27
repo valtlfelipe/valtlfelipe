@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat)** - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [How Bizarre by OMC](https://open.spotify.com/track/46q5BtHso0ECuTKeq70ZhW)
-- [Paradise by Coldplay](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D)
-- [Kuye by Venteris, Um3kz](https://open.spotify.com/track/6LO9TO7Is27GcuVqsPuFgZ)
-- [Sunshine by D.O.D, RAHH](https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX)
-- [Say It To Me by Otto Knows](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ)
+- [Nothing Else But You by aiden](https://open.spotify.com/track/6zJm9r21lKyVfejK6NJlHV)
+- [in the silence by aelera](https://open.spotify.com/track/6bSUFVanwmA2iaZOfoEO4D)
+- [Lose Control by LAWEN](https://open.spotify.com/track/4mGp4iOvrIa8GYmQe3RrWc)
+- [Moon Boy by Angus James](https://open.spotify.com/track/0yqi7IIfE9OyEMzwom6XE1)
+- [Don&#39;t Need Much by four30](https://open.spotify.com/track/4Kf3NZct75iJcCbS4kQox2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
