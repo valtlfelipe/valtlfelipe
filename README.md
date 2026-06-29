@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat)** - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [When The Sun Don&#39;t Shine by WestCoast](https://open.spotify.com/track/3uAcg8RwA27lsbQvNmzaFR)
-- [NATURE by COSMOS JONES](https://open.spotify.com/track/6tKphFo2U75776mcWxlnaN)
-- [Seasons by TEMP!E](https://open.spotify.com/track/3Rgqz5MvODnEVGqKVZynnP)
-- [call your name by Max Harlow](https://open.spotify.com/track/0qT3kD17YqMvQ939By8grj)
-- [wild rides by daylight](https://open.spotify.com/track/7yT0jKXViTgeDuoKhyRI8j)
+- [Might Be by Mortensen](https://open.spotify.com/track/2x2o4BQlWE44TgjUbAjYix)
+- [in my heart by butter](https://open.spotify.com/track/52IF7sake6p440ba12wAZY)
+- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
+- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
+- [Light The Sky by Valentino](https://open.spotify.com/track/34BwBwlbHHdKUyNhPG2rGk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
