@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat)** - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Alone by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/74goW26f8cfRQfLgea7o2f)
-- [Light by Sickluv](https://open.spotify.com/track/0FN8Qgn2Pq5zrsfkJLWrBm)
-- [Haunted by Kei Avila](https://open.spotify.com/track/6rmiRnoUJ3rcnQAFamnjsw)
-- [Lost In This Moment by Nico Saint](https://open.spotify.com/track/2QssMHEFJmxhAbq53oXrjK)
-- [Fight for Me by SOULO](https://open.spotify.com/track/6zVXuunaNPkJVkXUKjJEp1)
+- [Say My Name by Malia](https://open.spotify.com/track/6mTS81OArWBYP83IXOFoiK)
+- [Sleep Tight by Chris Ruo, ROBINS](https://open.spotify.com/track/1SAQcToek0ed5YQxtrOJgK)
+- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
+- [Clocks by Daydream Affiliate, Reiny](https://open.spotify.com/track/1khdndUaPoIDrJ1Yo5E6xO)
+- [Miss U by Fernweh Collective](https://open.spotify.com/track/5uDgOfWZ0WLM6cpTsCy8ni)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
