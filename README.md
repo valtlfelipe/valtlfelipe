@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chime/terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat)** - High availability implementation of AWS NAT instances. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Lost In This Moment by Nico Saint](https://open.spotify.com/track/2QssMHEFJmxhAbq53oXrjK)
-- [Fight for Me by SOULO](https://open.spotify.com/track/6zVXuunaNPkJVkXUKjJEp1)
-- [WHY DO I FEEL LIKE THIS? by MØSS](https://open.spotify.com/track/2Rm4147KWC1yWLUC6kA6rH)
-- [Inna Fire by NOTSOBAD](https://open.spotify.com/track/4YkBtDDvbFmXaKAHdgpKOs)
-- [I Still Reach by Spoke](https://open.spotify.com/track/3MSV76UFOfKrzBm3qQsGSW)
+- [Love U - Extended Mix by NORRA](https://open.spotify.com/track/41VryQZTir3ZsoehN3nUv3)
+- [Fade Like a Dream - Radio Edit by cpl horizon](https://open.spotify.com/track/2g55YAKvPCFZG1R56gc9sQ)
+- [Strobe Lights by Panuma, Angie Robba](https://open.spotify.com/track/5DGKPS4iLbaOJDcgiFiSMw)
+- [You&#39;re Still Here by deep dispatch](https://open.spotify.com/track/0rGQo2MwygwsKrvRDpCIx2)
+- [One More Call - Extended Mix by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/1mWWylfH0gfdHhZjpZ2rR3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
