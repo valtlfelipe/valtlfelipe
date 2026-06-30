@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat)** - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Say My Name by Malia](https://open.spotify.com/track/6mTS81OArWBYP83IXOFoiK)
-- [Sleep Tight by Chris Ruo, ROBINS](https://open.spotify.com/track/1SAQcToek0ed5YQxtrOJgK)
-- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
-- [Clocks by Daydream Affiliate, Reiny](https://open.spotify.com/track/1khdndUaPoIDrJ1Yo5E6xO)
-- [Miss U by Fernweh Collective](https://open.spotify.com/track/5uDgOfWZ0WLM6cpTsCy8ni)
+- [Is It Real by IAXI, Jakblauz](https://open.spotify.com/track/1bEOlcV9wagNhtHyt3tPjt)
+- [What Can I Do by Portrait](https://open.spotify.com/track/4aEKZ3X6SFcrMwI1ejbZ9l)
+- [Everything I Love by Justin Irby](https://open.spotify.com/track/3moTyw7s5lOuVYFkvPZySi)
+- [One More Chance by Familiar Faces](https://open.spotify.com/track/3hyjWuPyHbShyAP7l54HwM)
+- [Without You by Mattilo](https://open.spotify.com/track/19FeFbpM4LiTgx6NOHb7OZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
