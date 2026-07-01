@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chime/terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat)** - High availability implementation of AWS NAT instances. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Power Of Your Love by DIMEO](https://open.spotify.com/track/4NddMRKZVkKgVl9Akx5mTc)
-- [I Am Free by Sickluv](https://open.spotify.com/track/4cZrP0eNgVnaptIw3hhcgm)
-- [i don&#39;t want to fall in love by civilian](https://open.spotify.com/track/7jdlYOFkXgIAjw3BAB6wzJ)
-- [STILL MINE by HMWME](https://open.spotify.com/track/5rXJb2H7Uk8IZcmwDUxPjc)
-- [Where Are You? by Mizora](https://open.spotify.com/track/78NJffHlzfpY8ob7EsXBLG)
+- [Lights Get Low - Extended Mix by Lynnic, ItsArius, Dinia, Menningmann](https://open.spotify.com/track/09G7HeBYBHWzL9kLFtvZDL)
+- [Never Be The Same by DJ Javi26, Oliver Cricket, IVAJ](https://open.spotify.com/track/3UbEr5xuS8kKaYG7asD6gU)
+- [Falling for the Feeling by MIND](https://open.spotify.com/track/5GnkqqWGbPZLp1T2l0PZO8)
+- [Run Away by EBEN](https://open.spotify.com/track/6nIIVeB9rq3K6D3YpdrNkT)
+- [fractured light by kalm](https://open.spotify.com/track/4I7DlZoH5WWLAnKrBQ2RkZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
