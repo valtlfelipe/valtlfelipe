@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chime/terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat)** - High availability implementation of AWS NAT instances. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hold Me Closer by STROEBEL](https://open.spotify.com/track/4OqS3vULLb7eKmBMM6RZ85)
-- [Dreaming by Gorgon City](https://open.spotify.com/track/15vNoLXoliW2XdTUDlNlWk)
-- [Corner of My Mind by Crush Toast](https://open.spotify.com/track/21UdJOwe8OVWiCvMoofjBT)
-- [Me &amp; You by EDGR, Eneri](https://open.spotify.com/track/5TSvlPzxnp0SnwoIR3z5lK)
-- [Is It Real by IAXI, Jakblauz](https://open.spotify.com/track/1bEOlcV9wagNhtHyt3tPjt)
+- [Power Of Your Love by DIMEO](https://open.spotify.com/track/4NddMRKZVkKgVl9Akx5mTc)
+- [I Am Free by Sickluv](https://open.spotify.com/track/4cZrP0eNgVnaptIw3hhcgm)
+- [i don&#39;t want to fall in love by civilian](https://open.spotify.com/track/7jdlYOFkXgIAjw3BAB6wzJ)
+- [STILL MINE by HMWME](https://open.spotify.com/track/5rXJb2H7Uk8IZcmwDUxPjc)
+- [Where Are You? by Mizora](https://open.spotify.com/track/78NJffHlzfpY8ob7EsXBLG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
