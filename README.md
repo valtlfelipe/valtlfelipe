@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chime/terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat)** - High availability implementation of AWS NAT instances. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Lights Get Low - Extended Mix by Lynnic, ItsArius, Dinia, Menningmann](https://open.spotify.com/track/09G7HeBYBHWzL9kLFtvZDL)
-- [Never Be The Same by DJ Javi26, Oliver Cricket, IVAJ](https://open.spotify.com/track/3UbEr5xuS8kKaYG7asD6gU)
-- [Falling for the Feeling by MIND](https://open.spotify.com/track/5GnkqqWGbPZLp1T2l0PZO8)
-- [Run Away by EBEN](https://open.spotify.com/track/6nIIVeB9rq3K6D3YpdrNkT)
-- [fractured light by kalm](https://open.spotify.com/track/4I7DlZoH5WWLAnKrBQ2RkZ)
+- [Do It Again by TWO OF YOU](https://open.spotify.com/track/304NtBGvNfhfP9IxtQX4yH)
+- [Say My Name by Malia](https://open.spotify.com/track/6mTS81OArWBYP83IXOFoiK)
+- [Sleep Tight by Chris Ruo, ROBINS](https://open.spotify.com/track/1SAQcToek0ed5YQxtrOJgK)
+- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
+- [Clocks by Daydream Affiliate, Reiny](https://open.spotify.com/track/1khdndUaPoIDrJ1Yo5E6xO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
