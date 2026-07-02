@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chime/terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat)** - High availability implementation of AWS NAT instances. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Hold Me Again by Danny EVIZA](https://open.spotify.com/track/163FJy9H3Z0CM1Sg11wpK9)
-- [Over You by Avaris](https://open.spotify.com/track/0HeRUfuNj3l38TB7lc8hCc)
-- [Santoria by Nills](https://open.spotify.com/track/0XScjmWQbTkfunuW5vrmCO)
-- [Don&#39;t Worry by Hour21](https://open.spotify.com/track/3BBOgkmmL0hsKebPwPvb3r)
-- [Think About by High Beam, corvällis](https://open.spotify.com/track/13JEH3eL4aIhcC9k7AGq07)
+- [When The Sun Don&#39;t Shine by WestCoast](https://open.spotify.com/track/3uAcg8RwA27lsbQvNmzaFR)
+- [NATURE by COSMOS JONES](https://open.spotify.com/track/6tKphFo2U75776mcWxlnaN)
+- [Seasons by TEMP!E](https://open.spotify.com/track/3Rgqz5MvODnEVGqKVZynnP)
+- [call your name by Max Harlow](https://open.spotify.com/track/0qT3kD17YqMvQ939By8grj)
+- [wild rides by daylight](https://open.spotify.com/track/7yT0jKXViTgeDuoKhyRI8j)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
