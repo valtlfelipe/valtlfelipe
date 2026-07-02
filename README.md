@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[databasus/databasus](https://github.com/databasus/databasus)** - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [All That Mattered (Love You Down) by Yves V, De Nuit](https://open.spotify.com/track/6anCazkOiRskQMOvH1yy5V)
-- [Burnin&#39; by Jengi, JADED, Alex Mills](https://open.spotify.com/track/4yWuOWkLEYAcdVjYc1QgKe)
-- [Lately by RÜFÜS DU SOL](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K)
-- [Hit the Ground by Texture](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa)
-- [Spellbound by oskar med k](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T)
+- [Bits of Hope by NOTSOBAD, MA:RK](https://open.spotify.com/track/2fNGtLKkyg64a7cr5UkAiu)
+- [Edge of Desire by Jonas Blue, Malive](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT)
+- [Don&#39;t Say Goodbye by Inktone](https://open.spotify.com/track/5Don8P4jYfAMCX0ksCLFrN)
+- [Not Over Yet (feat. Grace Grundy) by The Stickmen Project, Grace Grundy](https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC)
+- [Keep On Dancing by Stadiumx, Kelvin River, Twan Ray](https://open.spotify.com/track/2uvgpxlSsPsYHmOVptgvWr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
