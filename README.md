@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[databasus/databasus](https://github.com/databasus/databasus)** - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Push It by MIND](https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M)
-- [I Run by HAVEN., Kaitlin Aragon](https://open.spotify.com/track/7czFYbkjbMdgbUXbkt7jUU)
-- [blackout blackout by all things break](https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ)
-- [Deeper by Disclosure, Leon Thomas](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI)
-- [Closure by D.O.D, Hayley May](https://open.spotify.com/track/6aynKW70w06W8LyZaKpdAX)
+- [All That Mattered (Love You Down) by Yves V, De Nuit](https://open.spotify.com/track/6anCazkOiRskQMOvH1yy5V)
+- [Burnin&#39; by Jengi, JADED, Alex Mills](https://open.spotify.com/track/4yWuOWkLEYAcdVjYc1QgKe)
+- [Lately by RÜFÜS DU SOL](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K)
+- [Hit the Ground by Texture](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa)
+- [Spellbound by oskar med k](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
