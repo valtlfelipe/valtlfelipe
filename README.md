@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[juicedata/juicefs](https://github.com/juicedata/juicefs)** - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
-- [Slow Motion by Lynnic, ItsArius, Lilly](https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm)
-- [SAFE WITH ME (SECRETOS) by Jhay Rivas](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR)
-- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
-- [Last Night by Rivo](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq)
+- [Fall Back Down by PALASTIC, James French](https://open.spotify.com/track/6wQaKs1COnCnqPIsIKsccx)
+- [Let Go by Lavern](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG)
+- [You&#39;re Not Alone by Nyday](https://open.spotify.com/track/3EuCzwip1usR3WsjxLAFp9)
+- [gravity by all things break](https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8)
+- [Butterflies by Paul Schulze, Markis](https://open.spotify.com/track/6QlYKeomK0nj9mplXXfLi4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
