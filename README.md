@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[juicedata/juicefs](https://github.com/juicedata/juicefs)** - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Fall Back Down by PALASTIC, James French](https://open.spotify.com/track/6wQaKs1COnCnqPIsIKsccx)
-- [Let Go by Lavern](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG)
-- [You&#39;re Not Alone by Nyday](https://open.spotify.com/track/3EuCzwip1usR3WsjxLAFp9)
-- [gravity by all things break](https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8)
-- [Butterflies by Paul Schulze, Markis](https://open.spotify.com/track/6QlYKeomK0nj9mplXXfLi4)
+- [In My Mind by Lavern](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk)
+- [Cherish by Badflite](https://open.spotify.com/track/4ZYL4h2sQEWVBXoSuLcMEA)
+- [Sunrise by H:dn](https://open.spotify.com/track/3VWwQRNTRXolpe62QRcdKL)
+- [Anything For You by Nyday](https://open.spotify.com/track/3RLaSPsdvw5pZXPIaSbcfG)
+- [Moving On by Lumine, STOREY, Julia Kleijn](https://open.spotify.com/track/5vqaxhBBQmMSOdbx1VuQNI)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
