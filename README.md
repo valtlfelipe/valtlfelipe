@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[anolilab/lunora](https://github.com/anolilab/lunora)** - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [you are you are (UK Version) by yaen, f. fin](https://open.spotify.com/track/6B6n4lWIctCzfdZqUvmNEa)
-- [Tether by Franklin](https://open.spotify.com/track/19SgSzIT7tACElrLcuwrTk)
-- [The Chase by Emmit Fenn](https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO)
-- [That&#39;s Where I Should Be by MA:RK](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8)
-- [Secrets by Tudor, Caroline Byrne](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ)
+- [SAFE WITH ME (SECRETOS) by Jhay Rivas](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR)
+- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
+- [Help Me Lose My Mind - Slowed Down by Gravagerz](https://open.spotify.com/track/6eLaP1VW9Moy2AHijWfhxl)
+- [Last Night by Rivo](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq)
+- [belong to one by oskar med k](https://open.spotify.com/track/1M80fAZWp0IXmwwrpM2Hz1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
