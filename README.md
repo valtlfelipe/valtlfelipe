@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[anolilab/lunora](https://github.com/anolilab/lunora)** - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [SAFE WITH ME (SECRETOS) by Jhay Rivas](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR)
-- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
-- [Help Me Lose My Mind - Slowed Down by Gravagerz](https://open.spotify.com/track/6eLaP1VW9Moy2AHijWfhxl)
-- [Last Night by Rivo](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq)
-- [belong to one by oskar med k](https://open.spotify.com/track/1M80fAZWp0IXmwwrpM2Hz1)
+- [Closer To The Sun by PhatAdam, Gl:ow, palffi](https://open.spotify.com/track/4tYQ9ZL6AD8gEt6lOsiMAc)
+- [SET ME FREE by Mattilo](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB)
+- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
+- [Feel by Crunkz, Maxomar](https://open.spotify.com/track/4tBthMmF3DIt8hjNVbow5r)
+- [Skylight by H:dn](https://open.spotify.com/track/3EyzNnZNIwKy1PeHZhwSXu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
