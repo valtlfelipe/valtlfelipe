@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[anolilab/lunora](https://github.com/anolilab/lunora)** - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [feel it coming by origins](https://open.spotify.com/track/2GmmLyUZhMtyyBUFV3xn71)
-- [Lose My Mind by Lavern](https://open.spotify.com/track/7D0n7hVXtVUCw0hil4ejek)
-- [As Soon As I Get Home by Rules, SHYA](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9)
-- [As Soon As I Get Home by Rules, SHYA](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9)
-- [Somewhere in Ibiza by Walk on Water, XOXO](https://open.spotify.com/track/70h9dDEdrY2M5BvCwC7yvK)
+- [Feelings by Dani Corbalan](https://open.spotify.com/track/2XnxLmzWHNvWz5R5GNxX8q)
+- [Moth To A Flame by Nomadique](https://open.spotify.com/track/42VVvamo6oBHli7TLr3n76)
+- [Silence by Ridom](https://open.spotify.com/track/6UwZ4glRb1DTIsZpyrFFY0)
+- [My All by Pascal Junior](https://open.spotify.com/track/2lYxLaoopsZ6HjJqEbs2R8)
+- [My All by Pascal Junior](https://open.spotify.com/track/2lYxLaoopsZ6HjJqEbs2R8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
