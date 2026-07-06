@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[anolilab/lunora](https://github.com/anolilab/lunora)** - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Moving On by FLX](https://open.spotify.com/track/1tyh1UeF3WclN78t3LGEsw)
-- [My Place by AVAL, Ridom](https://open.spotify.com/track/6lP98FAzgWxxIfNiYza2EO)
-- [Moving Closer by Benne](https://open.spotify.com/track/4RhnMjySCzSnXdGB4M1wPP)
-- [No Regrets by SFRNG, Aizu](https://open.spotify.com/track/0A9oFyIDaPOUpkYckw2rOo)
-- [Pull Me In by Medo](https://open.spotify.com/track/4g5p0EVUtflkSaSTfva5kG)
+- [Caught In A Feeling by Ubo](https://open.spotify.com/track/6CDHOqAjxpojdYbw6nD8i6)
+- [I Want You by Kaisemotions](https://open.spotify.com/track/41sr1RQarEJIkzipQjw4ZJ)
+- [Anxious by LMA](https://open.spotify.com/track/3aJCptvVgNaluDATwFLfpu)
+- [Feeling You by Samyorai, mISHØ](https://open.spotify.com/track/7zziBJkbvth0Q2AQhSKm1o)
+- [High by James Carter, BARBZ](https://open.spotify.com/track/1oNOo7KjMigs4pvVPzFhLT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
