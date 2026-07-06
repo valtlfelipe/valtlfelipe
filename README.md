@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[anolilab/lunora](https://github.com/anolilab/lunora)** - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Don&#39;t Rush - Slowed by Jakk Rinse](https://open.spotify.com/track/1NNpw3lhHeKnicyNFYXb9H)
-- [Simple by OOVA](https://open.spotify.com/track/4P4vgG3c0lO4xjBKafnRKV)
-- [Dance With You by Ridom, Pio](https://open.spotify.com/track/742xub4te1BZBPBbDCpFIA)
-- [call on my phone by Brian Zeno](https://open.spotify.com/track/0vwQqlj4pxkqR3veEM6lHZ)
-- [That Feeling by DIMEO](https://open.spotify.com/track/5Om1TyInEaSZiUmoI9AZis)
+- [In Your Love by Rules](https://open.spotify.com/track/0zP430NOZ4rxY65N61vPZS)
+- [One More Step by Ridom](https://open.spotify.com/track/16JXjG6luvJztNgsa3wzGW)
+- [Forever Mine by HÜGGER](https://open.spotify.com/track/5nSSBJdw1oayVf7dfAKEOf)
+- [MATERIAL LOVER - UKG / SPEED GARAGE - slowed &amp; reverb by SAiiLOR](https://open.spotify.com/track/14psEQCZnk3daU9beyYI5Q)
+- [Favorite Place by Ryan Reed](https://open.spotify.com/track/2Uhdghg9xSrnVroK9KaJQa)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
