@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[anolilab/lunora](https://github.com/anolilab/lunora)** - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Better Than This by ERIICE](https://open.spotify.com/track/23ldecum5hLc2SdQP8kImM)
-- [Lead My Heart by Jerry Baccardi](https://open.spotify.com/track/7F2Pr0UmmeKmvZg9fIAWzJ)
-- [Don&#39;t Rush - Slowed by Jakk Rinse](https://open.spotify.com/track/1NNpw3lhHeKnicyNFYXb9H)
-- [Simple by OOVA](https://open.spotify.com/track/4P4vgG3c0lO4xjBKafnRKV)
-- [Dance With You by Ridom, Pio](https://open.spotify.com/track/742xub4te1BZBPBbDCpFIA)
+- [Moving On by FLX](https://open.spotify.com/track/1tyh1UeF3WclN78t3LGEsw)
+- [My Place by AVAL, Ridom](https://open.spotify.com/track/6lP98FAzgWxxIfNiYza2EO)
+- [Moving Closer by Benne](https://open.spotify.com/track/4RhnMjySCzSnXdGB4M1wPP)
+- [No Regrets by SFRNG, Aizu](https://open.spotify.com/track/0A9oFyIDaPOUpkYckw2rOo)
+- [Pull Me In by Medo](https://open.spotify.com/track/4g5p0EVUtflkSaSTfva5kG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
