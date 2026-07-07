@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[anolilab/lunora](https://github.com/anolilab/lunora)** - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [This Dance by Mizmo](https://open.spotify.com/track/5Hf1s0MwigqDUqRpPuEPkU)
-- [WHERE DOES YOUR LOVE GO? by CHAIME](https://open.spotify.com/track/5ml6MvysYO6HoXCFw4uY1c)
-- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
-- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
-- [you&#39;re in my head by Lonely Night, Nody, Ari](https://open.spotify.com/track/3CHQijdhkivZzqqAtA6r8S)
+- [Heartbeat Slow by Astrality, Jyll, Dillistone](https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT)
+- [TURN ME ON by CHAIME](https://open.spotify.com/track/6NVpPCgTRDNBw01lF3q6Yz)
+- [Feeling (Hold On You) by Rules, MURPHY](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt)
+- [Not the One by Luca Lazza, Electric Hearts](https://open.spotify.com/track/67xTbZpr1L7rmG7FmkyA61)
+- [Pray 4 More by Ian Storm, John Laurant, Ron van den Beuken](https://open.spotify.com/track/3p7SmVkR87zDFkdG1dXouB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
