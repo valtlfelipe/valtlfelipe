@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[anolilab/lunora](https://github.com/anolilab/lunora)** - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Heartbeat Slow by Astrality, Jyll, Dillistone](https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT)
-- [TURN ME ON by CHAIME](https://open.spotify.com/track/6NVpPCgTRDNBw01lF3q6Yz)
-- [Feeling (Hold On You) by Rules, MURPHY](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt)
-- [Not the One by Luca Lazza, Electric Hearts](https://open.spotify.com/track/67xTbZpr1L7rmG7FmkyA61)
-- [Pray 4 More by Ian Storm, John Laurant, Ron van den Beuken](https://open.spotify.com/track/3p7SmVkR87zDFkdG1dXouB)
+- [Nowhere to Go by V A E L O R A](https://open.spotify.com/track/2zsM30i3MzWJnwsfd0vH07)
+- [When I&#39;m into You by GOBAITH](https://open.spotify.com/track/0vbey7UHmq5YAzMN9TLB6i)
+- [Let Me In by London Topaz, Sophia Brown](https://open.spotify.com/track/3iB4dAyzPF9PSD3xptZ6Z1)
+- [In Reverse by Daydream Affiliate](https://open.spotify.com/track/2ofN43JfvYu5zusgRGeBYL)
+- [Drive by Courtney Storm, Béatrice Dupont](https://open.spotify.com/track/5TmpcFPSQbCj3Ft6rKoRv3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
