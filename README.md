@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[anolilab/lunora](https://github.com/anolilab/lunora)** - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [ATMO by SOULO](https://open.spotify.com/track/0k1vEMp7vF8SfxaOhGSrFZ)
-- [dots by all things break](https://open.spotify.com/track/1yPRNFhue7yteEtFKn32W6)
-- [We Could Have It All by Punctual](https://open.spotify.com/track/2exlWmUXIoMGpo5SvWXwN5)
-- [For You by GOBAITH](https://open.spotify.com/track/0MpwUMhBQi3XYPqxuwnHus)
-- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [Another Try by Oliver Michael](https://open.spotify.com/track/5uYdy0YHp32155stMBqjsn)
+- [Love Me The Same by Astrality, Krysta Youngs](https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW)
+- [Misery by Lonelysoul.](https://open.spotify.com/track/35YFuX9UFXTeihRCIRFFwi)
+- [Words by Nu Aspect](https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
