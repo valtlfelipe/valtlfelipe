@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[nunomaduro/plack.app](https://github.com/nunomaduro/plack.app)** (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Fire by NIIMO](https://open.spotify.com/track/1oJABpBUWMDtOeKy6vq13V)
-- [Don&#39;t Let Me Fall by Gentle Nights](https://open.spotify.com/track/0pc1yTDUgkQv7gaKDzbh1w)
-- [Golden Horizon by RAZZ](https://open.spotify.com/track/0O7iSmBJQRGnfK8Vi6RpKM)
-- [Something on My Mind by deep dispatch](https://open.spotify.com/track/5oqkixBCfev1DcPZsmQxz7)
-- [You Give Me by NGTY](https://open.spotify.com/track/5tWsOjYlPpqZJ3V4UPQSPW)
+- [I Just Want To Live by ZeLeo](https://open.spotify.com/track/5E0FZzdq9Z6hlReRhkBpOA)
+- [Zulu Boy by Rocky Raccoon](https://open.spotify.com/track/0CEvnpFUHEU2R6f7QKlyv5)
+- [Slow Down by MIND](https://open.spotify.com/track/7zBUd2g1tvHbnWUazGo5rR)
+- [Stuck On My Mind by Revyn](https://open.spotify.com/track/6GJESQY4y22Yvgil39W7sb)
+- [Silhouette by DIMEO](https://open.spotify.com/track/75hRq4235Myhny9O7158Vm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
