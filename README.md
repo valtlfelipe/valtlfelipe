@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
+- **[pug-sh/pug](https://github.com/pug-sh/pug)** - Opensource product analytics (today)
+- **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (today)
+- **[chattocorp/chatto](https://github.com/chattocorp/chatto)** - A really good chat application that you can self-host. (today)
+- **[context-dot-dev/webdog](https://github.com/context-dot-dev/webdog)** - AI native website change monitoring (today)
 - **[savvyagents/larasend](https://github.com/savvyagents/larasend)** - Self-hosted transactional email platform for Laravel — send through your own AWS SES account, keep the dashboard, API keys, delivery logs, and webhooks on your own infrastructure. (today)
-- **[heliocosta-dev/revenue-centric-design](https://github.com/heliocosta-dev/revenue-centric-design)** - Product-design, conversion &amp; behavioral-science principles for SaaS (5 days ago)
-- **[cloudflare/kumo](https://github.com/cloudflare/kumo)** - Cloudflare&#39;s component library for building modern web applications. (5 days ago)
-- **[coollabsio/shoutrrr](https://github.com/coollabsio/shoutrrr)** - An open-source alternative to Buffer, Typefully, and Hootsuite. Write once and schedule everywhere. (5 days ago)
-- **[nunomaduro/plack.app](https://github.com/nunomaduro/plack.app)** (6 days ago)
 
 #### 🎧 Spotify recent tracks
 - [I Just Want To Live by ZeLeo](https://open.spotify.com/track/5E0FZzdq9Z6hlReRhkBpOA)
