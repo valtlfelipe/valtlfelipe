@@ -3,7 +3,7 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[pug-sh/pug](https://github.com/pug-sh/pug)** - Opensource product analytics (1 day ago)
+- **[pug-sh/pug](https://github.com/pug-sh/pug)** - Open-source product analytics (1 day ago)
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (1 day ago)
 - **[chattocorp/chatto](https://github.com/chattocorp/chatto)** - A really good chat application that you can self-host. (1 day ago)
 - **[context-dot-dev/webdog](https://github.com/context-dot-dev/webdog)** - AI native website change monitoring (1 day ago)
