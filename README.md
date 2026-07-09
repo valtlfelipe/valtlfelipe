@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[savvyagents/larasend](https://github.com/savvyagents/larasend)** - Self-hosted transactional email platform for Laravel — send through your own AWS SES account, keep the dashboard, API keys, delivery logs, and webhooks on your own infrastructure. (1 day ago)
 
 #### 🎧 Spotify recent tracks
+- [Hear Your Name by SØLUNA](https://open.spotify.com/track/6PVDMpcryJHliho27u0rzh)
 - [Beauty And A Beat by Sans Effort](https://open.spotify.com/track/26RilZohQA1AF2AsuWIwtD)
 - [Breathe in the Blue by Julien Fade, Nu-La](https://open.spotify.com/track/5j2ONNLDz5PwdXqtDU8QI0)
 - [SeeMeNow? by AnthP](https://open.spotify.com/track/1GPND0IvVRYp9ceMUba6KW)
 - [Bright Red by Palos Azules](https://open.spotify.com/track/306wpz1gZioEodOsqyc16i)
-- [Slow Start by Aria Kyd](https://open.spotify.com/track/3vuC82miE8jhNIBo6h4IDc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
