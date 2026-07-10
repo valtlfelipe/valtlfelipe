@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chattocorp/chatto](https://github.com/chattocorp/chatto)** - A really good chat application that you can self-host. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Voices by TWINNS](https://open.spotify.com/track/0fvVx61JtHGQ6m5RzBwa3r)
-- [Youth Thoughts by N-ZTON, Mitrani](https://open.spotify.com/track/2Mfpd9jeLeWKiflkErVhEf)
-- [Easy Love by Piotr Borowiec, Alex Kiss](https://open.spotify.com/track/39U35TBPG8bpHudxkK8DvR)
-- [After We Met by HAK3N](https://open.spotify.com/track/3AABimM5M06p0AZchq2vga)
-- [Slow by aiden](https://open.spotify.com/track/2k26xZLUemZdibHOfUaDxK)
+- [Misery by Lonelysoul.](https://open.spotify.com/track/35YFuX9UFXTeihRCIRFFwi)
+- [Words by Nu Aspect](https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo)
+- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
+- [Needing Space by Effemar](https://open.spotify.com/track/2QLDAd5vTn2wacico7aIDm)
+- [Light To My Shade by Bianco](https://open.spotify.com/track/0voWxYWxso9plBQjH5VCXE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
