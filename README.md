@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chattocorp/chatto](https://github.com/chattocorp/chatto)** - A really good chat application that you can self-host. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Nothing Else But You by aiden](https://open.spotify.com/track/6zJm9r21lKyVfejK6NJlHV)
-- [Do You Love Me by LUDVIC, Keano Lee](https://open.spotify.com/track/49LuESnApiXMB2gElgOtT7)
-- [All We&#39;ve Got by aural](https://open.spotify.com/track/2hvYcuptJ3CNOHmF18Rocg)
-- [Move With Me by Rocky Raccoon](https://open.spotify.com/track/2HOUAid2D21huGjPXxXMd5)
-- [Lady - Hear Me Tonight by Sans Effort](https://open.spotify.com/track/3laC5HWDBfp5XMhz50KEmf)
+- [Voices by TWINNS](https://open.spotify.com/track/0fvVx61JtHGQ6m5RzBwa3r)
+- [Youth Thoughts by N-ZTON, Mitrani](https://open.spotify.com/track/2Mfpd9jeLeWKiflkErVhEf)
+- [Easy Love by Piotr Borowiec, Alex Kiss](https://open.spotify.com/track/39U35TBPG8bpHudxkK8DvR)
+- [After We Met by HAK3N](https://open.spotify.com/track/3AABimM5M06p0AZchq2vga)
+- [Slow by aiden](https://open.spotify.com/track/2k26xZLUemZdibHOfUaDxK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
