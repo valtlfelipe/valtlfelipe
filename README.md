@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (today)
-- **[malisper/pgrust](https://github.com/malisper/pgrust)** - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests (today)
-- **[pug-sh/pug](https://github.com/pug-sh/pug)** - Open-source product analytics (2 days ago)
-- **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (2 days ago)
-- **[chattocorp/chatto](https://github.com/chattocorp/chatto)** - A really good chat application that you can self-host. (2 days ago)
+- **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (1 day ago)
+- **[malisper/pgrust](https://github.com/malisper/pgrust)** - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests (1 day ago)
+- **[pug-sh/pug](https://github.com/pug-sh/pug)** - Open-source product analytics (3 days ago)
+- **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (3 days ago)
+- **[chattocorp/chatto](https://github.com/chattocorp/chatto)** - A really good chat application that you can self-host. (3 days ago)
 
 #### 🎧 Spotify recent tracks
 - [If You Want Somebody by Elderbrook](https://open.spotify.com/track/7ANhEmbFPtvlaGY7LJMesM)
