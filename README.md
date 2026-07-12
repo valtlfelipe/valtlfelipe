@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chattocorp/chatto](https://github.com/chattocorp/chatto)** - A fully-featured team and group chat application that you can easily selfhost. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Illuminate by Astrality, Leo Stannard](https://open.spotify.com/track/6SpS3512xzHKapz4plRuZW)
-- [Good Company by XYSM, Oliver Michael, Lindal](https://open.spotify.com/track/5SqWTvL95ohnsmg5bVROcv)
-- [Shallow Water - Edit by JLV, Kairos Grove](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG)
-- [Give In by MIND](https://open.spotify.com/track/3wP52QOzRDhXbgkcdt2qd8)
-- [Fix Me by CAKES, Sam Harper](https://open.spotify.com/track/1nHWcLi8wupts5WkjIAflQ)
+- [Daybreak by Duce, Maynørr, Courtney Storm](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA)
+- [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
+- [Taste by GOBAITH](https://open.spotify.com/track/64IYWmZxAYnAJyA69xtPbd)
+- [Tell Me by Small Town Kid](https://open.spotify.com/track/6H2ITmuu8WT6nIkcOBz4N8)
+- [Need You by Valentino](https://open.spotify.com/track/5NpLDoR5yUrWe7HJOLOMbV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
