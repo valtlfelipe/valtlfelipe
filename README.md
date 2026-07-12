@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chattocorp/chatto](https://github.com/chattocorp/chatto)** - A fully-featured team and group chat application that you can easily selfhost. (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Something Got Me Started - 2008 Remaster by Simply Red](https://open.spotify.com/track/0DJnqFhVWoTDs58JPem5Zh)
+- [Time of Our Lives by Pitbull, Ne-Yo](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r)
+- [Would U Let Me - Extended by Oliver Cricket](https://open.spotify.com/track/1v8K3r3pqStjsKavveX88t)
+- [Time of Our Lives by Pitbull, Ne-Yo](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r)
 - [Boom Clap by Charli xcx](https://open.spotify.com/track/094RugjgLW6CdPLOJctBZ3)
-- [Wild Ones (feat. Sia) by Flo Rida, Sia](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3)
-- [Shower by Becky G](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ)
-- [Daybreak by Duce, Maynørr, Courtney Storm](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA)
-- [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
