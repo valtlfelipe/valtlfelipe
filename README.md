@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[chattocorp/chatto](https://github.com/chattocorp/chatto)** - A fully-featured team and group chat application that you can easily selfhost. (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Boom Clap by Charli xcx](https://open.spotify.com/track/094RugjgLW6CdPLOJctBZ3)
+- [Wild Ones (feat. Sia) by Flo Rida, Sia](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3)
+- [Shower by Becky G](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ)
 - [Daybreak by Duce, Maynørr, Courtney Storm](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA)
 - [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
-- [Taste by GOBAITH](https://open.spotify.com/track/64IYWmZxAYnAJyA69xtPbd)
-- [Tell Me by Small Town Kid](https://open.spotify.com/track/6H2ITmuu8WT6nIkcOBz4N8)
-- [Need You by Valentino](https://open.spotify.com/track/5NpLDoR5yUrWe7HJOLOMbV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
