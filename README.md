@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Everything Still by James French](https://open.spotify.com/track/130QyFIefT3wCFRcZhzetQ)
-- [Keep On Running by Mizmo](https://open.spotify.com/track/0TrdlBrywTOuG4r8ZpIpJB)
-- [Choose You by Noelis](https://open.spotify.com/track/7hO5eV86SzKvGiCZ00aIKe)
-- [Rockingbird by Jameson](https://open.spotify.com/track/2x4c9BD2SOhddb5KDQ4yym)
-- [Foolin&#39; Around by coolage](https://open.spotify.com/track/2IvKUpoE16XMWchzv8bAqK)
+- [echoes by KAYRO](https://open.spotify.com/track/3w6Tq1G8IVOkf14a9J2HR0)
+- [Lonely In The Rain by Maone](https://open.spotify.com/track/4gBkjihEIVYU8FWiotnm2v)
+- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
+- [03:00 am by natt3ravn](https://open.spotify.com/track/75bGGWOw7hTTRkyGNCYtHL)
+- [Far Away by Slow Ted, Painting Paradise, Swedish Red Elephant](https://open.spotify.com/track/6wF8lRCP4S3alvSGelAEhJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
