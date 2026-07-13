@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Keep It Simple by Bleu Azur](https://open.spotify.com/track/3zzaAAtkfGrGxrdZiatxcJ)
-- [Way Down by Calu, Asphodelle](https://open.spotify.com/track/3giAby9Fm2athDu4JKDs2q)
-- [Love U - Slowed by Ridom](https://open.spotify.com/track/3jmqTKeoGDgcRCLfiuT41V)
-- [For A Moment by ESound](https://open.spotify.com/track/717yxAanbQ7PcqkcV1rbH9)
-- [In My Mind by MashBit](https://open.spotify.com/track/38KzdW5NrurD00zTqpJXg2)
+- [Eileen by Hechmann, Luke Alvin](https://open.spotify.com/track/0vzoHOYliDo966frCgXUPF)
+- [MAKE YOU MY RELIGION by brighton2bahia, Looti, Zavarise](https://open.spotify.com/track/1JfdeBZlLEq7AjbU0tDXBT)
+- [Trust in you. by ^^Tobias slaps](https://open.spotify.com/track/5KW2MuBM98FwzpSX1Z0Vem)
+- [Growing Mind by LEEX](https://open.spotify.com/track/5TBZWLA8P57VSykv8EpGjr)
+- [Find You Again by Dim Angelo, Nikko Sunset](https://open.spotify.com/track/4mT1HU97KromLIOm2ZfRmk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
