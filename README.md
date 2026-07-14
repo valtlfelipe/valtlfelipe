@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Keep Me Waiting by Ted Bear, Aden Lou](https://open.spotify.com/track/4qKB7A9wP6RQz0qoevN9Iq)
-- [You Save My Life by HRRTZ](https://open.spotify.com/track/6HOTU1pKC4qN1OCWAht0Pk)
-- [The Night We Met by RAZZ, AgusAlvarez, KAYGE](https://open.spotify.com/track/0UKK0hgNNkV9l5ic0KDYIk)
-- [We are one by ELEZO](https://open.spotify.com/track/1XHHNzFBcZIrL8mJQ8zE2V)
-- [Say My Name by LUMO](https://open.spotify.com/track/0pIPY4Xpjz9o5FK5LvFxg5)
+- [Dusk by Maeve](https://open.spotify.com/track/31X7KnJWaXH0G3ZVh3i4oy)
+- [Rush by SOMMA, Jem Cooke](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr)
+- [Familie by FORMNT](https://open.spotify.com/track/0kLyNUUmumZvCjkwh1G3lJ)
+- [Falling Fast by nothing changes](https://open.spotify.com/track/4QqbBG7eWSvxGT23QIZhnR)
+- [Alone by Not Accepted](https://open.spotify.com/track/5i1hfbqQSpl1TfxTjn0Xvd)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
