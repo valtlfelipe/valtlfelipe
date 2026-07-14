@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Leap of Faith by Goldenboii](https://open.spotify.com/track/0uZQjkuufEbUhnnhyRkqxL)
-- [Beautiful Disguise by Artesa, Josiah Nichols](https://open.spotify.com/track/5cXfuaGH5biipiAbk9gX60)
-- [Wimbo by Keysoul](https://open.spotify.com/track/3kU4viEIJdmtuKZ3ltEwBf)
-- [Dusk by Maeve](https://open.spotify.com/track/31X7KnJWaXH0G3ZVh3i4oy)
-- [Rush by SOMMA, Jem Cooke](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr)
+- [My Heart by Verb](https://open.spotify.com/track/6E49NGe6QHhn8WR4CmqkXF)
+- [Waste My Love by Oliver Cricket, DAV5, RAGUZZA](https://open.spotify.com/track/0zHaPkZcEMiAgzdL6hgh1v)
+- [FEEL THE RUSH by Valentino](https://open.spotify.com/track/1XEKIwXftah2vwMGeLJqSp)
+- [the grey by kalm](https://open.spotify.com/track/7pSsLajQC1EYOnKuzndAaB)
+- [Stuck On My Mind by Revyn](https://open.spotify.com/track/6GJESQY4y22Yvgil39W7sb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
