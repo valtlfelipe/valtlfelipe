@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [My Heart by Verb](https://open.spotify.com/track/6E49NGe6QHhn8WR4CmqkXF)
-- [Waste My Love by Oliver Cricket, DAV5, RAGUZZA](https://open.spotify.com/track/0zHaPkZcEMiAgzdL6hgh1v)
-- [FEEL THE RUSH by Valentino](https://open.spotify.com/track/1XEKIwXftah2vwMGeLJqSp)
-- [the grey by kalm](https://open.spotify.com/track/7pSsLajQC1EYOnKuzndAaB)
-- [Stuck On My Mind by Revyn](https://open.spotify.com/track/6GJESQY4y22Yvgil39W7sb)
+- [Stop Time by Elian](https://open.spotify.com/track/1OwBQGRiuNCvI8acxTd4Sa)
+- [In Your Love by Rules](https://open.spotify.com/track/0zP430NOZ4rxY65N61vPZS)
+- [Light by Sickluv](https://open.spotify.com/track/0FN8Qgn2Pq5zrsfkJLWrBm)
+- [Stay a while by Goldenboii](https://open.spotify.com/track/3SiXs2YGMzy79IE9p0c6wa)
+- [Let Me Fall by wrongside, Shiftbach](https://open.spotify.com/track/43k7sslgIN1RU4vPNfBdfV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
