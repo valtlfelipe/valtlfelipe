@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Eileen by Hechmann, Luke Alvin](https://open.spotify.com/track/0vzoHOYliDo966frCgXUPF)
-- [MAKE YOU MY RELIGION by brighton2bahia, Looti, Zavarise](https://open.spotify.com/track/1JfdeBZlLEq7AjbU0tDXBT)
-- [Trust in you. by ^^Tobias slaps](https://open.spotify.com/track/5KW2MuBM98FwzpSX1Z0Vem)
-- [Growing Mind by LEEX](https://open.spotify.com/track/5TBZWLA8P57VSykv8EpGjr)
-- [Find You Again by Dim Angelo, Nikko Sunset](https://open.spotify.com/track/4mT1HU97KromLIOm2ZfRmk)
+- [Leap of Faith by Goldenboii](https://open.spotify.com/track/0uZQjkuufEbUhnnhyRkqxL)
+- [Beautiful Disguise by Artesa, Josiah Nichols](https://open.spotify.com/track/5cXfuaGH5biipiAbk9gX60)
+- [Wimbo by Keysoul](https://open.spotify.com/track/3kU4viEIJdmtuKZ3ltEwBf)
+- [Dusk by Maeve](https://open.spotify.com/track/31X7KnJWaXH0G3ZVh3i4oy)
+- [Rush by SOMMA, Jem Cooke](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
