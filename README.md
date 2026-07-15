@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Angels Eyes by MALIAN](https://open.spotify.com/track/5jZ9GkX3pkpP6N1tep3hTf)
-- [What Would You Say by igor](https://open.spotify.com/track/4kMN9xVC4gSVqlXSNxWXec)
-- [Stay Until the Morning by Stoto](https://open.spotify.com/track/1UOg16o0BdBPEjmSjlzBTB)
-- [Keep Me Waiting by Ted Bear, Aden Lou](https://open.spotify.com/track/4qKB7A9wP6RQz0qoevN9Iq)
-- [You Save My Life by HRRTZ](https://open.spotify.com/track/6HOTU1pKC4qN1OCWAht0Pk)
+- [In The Dark by RAZZ, Moody Violet](https://open.spotify.com/track/3UQD211wukviavkoc8BzgF)
+- [Leap of Faith by Goldenboii](https://open.spotify.com/track/0uZQjkuufEbUhnnhyRkqxL)
+- [Beautiful Disguise by Artesa, Josiah Nichols](https://open.spotify.com/track/5cXfuaGH5biipiAbk9gX60)
+- [Wimbo by Keysoul](https://open.spotify.com/track/3kU4viEIJdmtuKZ3ltEwBf)
+- [Dusk by Maeve](https://open.spotify.com/track/31X7KnJWaXH0G3ZVh3i4oy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
