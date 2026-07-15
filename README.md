@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Let Me Fall by wrongside, Shiftbach](https://open.spotify.com/track/43k7sslgIN1RU4vPNfBdfV)
-- [wanna be by abelon](https://open.spotify.com/track/3Uu2dWxYymixBQ2Kp1sp6W)
-- [Get Out by 2-JAY](https://open.spotify.com/track/4SMR6fYncmB26sWQzfP1eV)
-- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
-- [Take Me Back by Lust.](https://open.spotify.com/track/2d9Shp9cG4ufzxxCoT02p5)
+- [Angels Eyes by MALIAN](https://open.spotify.com/track/5jZ9GkX3pkpP6N1tep3hTf)
+- [What Would You Say by igor](https://open.spotify.com/track/4kMN9xVC4gSVqlXSNxWXec)
+- [Stay Until the Morning by Stoto](https://open.spotify.com/track/1UOg16o0BdBPEjmSjlzBTB)
+- [Keep Me Waiting by Ted Bear, Aden Lou](https://open.spotify.com/track/4qKB7A9wP6RQz0qoevN9Iq)
+- [You Save My Life by HRRTZ](https://open.spotify.com/track/6HOTU1pKC4qN1OCWAht0Pk)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
