@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Lonely In The Rain by Maone](https://open.spotify.com/track/4gBkjihEIVYU8FWiotnm2v)
-- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
-- [03:00 am by natt3ravn](https://open.spotify.com/track/75bGGWOw7hTTRkyGNCYtHL)
-- [Far Away by Slow Ted, Painting Paradise, Swedish Red Elephant](https://open.spotify.com/track/6wF8lRCP4S3alvSGelAEhJ)
-- [Can You Feel It Too by Hechmann, Luke Alvin](https://open.spotify.com/track/52ieWWRjjuNSKaC13eEmPj)
+- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
+- [Take Me Back by Lust.](https://open.spotify.com/track/2d9Shp9cG4ufzxxCoT02p5)
+- [Yesterday&#39;s Love by Goldenboii](https://open.spotify.com/track/6zuuH15EpcGSpXdPwDCZ2G)
+- [Thirsty by Markis, Joel Coopa](https://open.spotify.com/track/0cgaufAmmLncA0oWbEiVEy)
+- [been gone too long.. by natt3ravn](https://open.spotify.com/track/0bH098f8yP931jhGATqKax)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
