@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Leap of Faith by Goldenboii](https://open.spotify.com/track/0uZQjkuufEbUhnnhyRkqxL)
-- [Beautiful Disguise by Artesa, Josiah Nichols](https://open.spotify.com/track/5cXfuaGH5biipiAbk9gX60)
-- [Wimbo by Keysoul](https://open.spotify.com/track/3kU4viEIJdmtuKZ3ltEwBf)
-- [Dusk by Maeve](https://open.spotify.com/track/31X7KnJWaXH0G3ZVh3i4oy)
-- [Rush by SOMMA, Jem Cooke](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr)
+- [Lonely In The Rain by Maone](https://open.spotify.com/track/4gBkjihEIVYU8FWiotnm2v)
+- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
+- [03:00 am by natt3ravn](https://open.spotify.com/track/75bGGWOw7hTTRkyGNCYtHL)
+- [Far Away by Slow Ted, Painting Paradise, Swedish Red Elephant](https://open.spotify.com/track/6wF8lRCP4S3alvSGelAEhJ)
+- [Can You Feel It Too by Hechmann, Luke Alvin](https://open.spotify.com/track/52ieWWRjjuNSKaC13eEmPj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
