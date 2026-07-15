@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Let Me Fall by wrongside, Shiftbach](https://open.spotify.com/track/43k7sslgIN1RU4vPNfBdfV)
+- [wanna be by abelon](https://open.spotify.com/track/3Uu2dWxYymixBQ2Kp1sp6W)
+- [Get Out by 2-JAY](https://open.spotify.com/track/4SMR6fYncmB26sWQzfP1eV)
 - [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
 - [Take Me Back by Lust.](https://open.spotify.com/track/2d9Shp9cG4ufzxxCoT02p5)
-- [Yesterday&#39;s Love by Goldenboii](https://open.spotify.com/track/6zuuH15EpcGSpXdPwDCZ2G)
-- [Thirsty by Markis, Joel Coopa](https://open.spotify.com/track/0cgaufAmmLncA0oWbEiVEy)
-- [been gone too long.. by natt3ravn](https://open.spotify.com/track/0bH098f8yP931jhGATqKax)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
