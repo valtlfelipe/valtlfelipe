@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[malisper/pgrust](https://github.com/malisper/pgrust)** - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Dusk by Maeve](https://open.spotify.com/track/31X7KnJWaXH0G3ZVh3i4oy)
-- [heartbeat by KAYRO](https://open.spotify.com/track/6fwvxYsHSP61UG95TOhDUZ)
-- [Alone by Not Accepted](https://open.spotify.com/track/5i1hfbqQSpl1TfxTjn0Xvd)
-- [In The Dark by RAZZ, Moody Violet](https://open.spotify.com/track/3UQD211wukviavkoc8BzgF)
-- [Together Reach The Sky by Chloe, SECMOS, Bjerke](https://open.spotify.com/track/0QT5VTTvRRwTx1Zgy3Agy1)
+- [Close by PLVTO, PRAZI](https://open.spotify.com/track/5ujj7XZsT7Bh0i8WkJCond)
+- [Hold Me Closer by Nikko Sunset, Dim Angelo](https://open.spotify.com/track/6pilfSSqVM4lal1KBtPQgz)
+- [Run Run Run - Extended Mix by Nomadique](https://open.spotify.com/track/5OhREnr5y5bsZH99fvNm4t)
+- [Into The Ocean by MALIAN, twocolouredman](https://open.spotify.com/track/5eY9jGygXyO5x1djxydy6e)
+- [Set Me Free by abelon](https://open.spotify.com/track/7nZZAgbg35dZThRxRVgeR1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
