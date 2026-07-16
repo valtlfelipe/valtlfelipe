@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [feel it coming - Extended by origins](https://open.spotify.com/track/2ItFEiJ7zdaFlfzfa21SRi)
-- [never enough by Max Harlow](https://open.spotify.com/track/5kqRD64G5g5Ae2h1Hzpdkx)
-- [Howling by SOMMA](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO)
-- [i saw you by kalm](https://open.spotify.com/track/0T6rwk7R4uMyUfdXLVxudj)
-- [Ocean Blue by Dim Angelo, Nikko Sunset](https://open.spotify.com/track/77CNvdhkElbneDmkx18Pkw)
+- [I Don&#39;t Want Your Love by Paul Edwards](https://open.spotify.com/track/3SmVW3j14x27gTUJc62kPC)
+- [echoes by KAYRO](https://open.spotify.com/track/3w6Tq1G8IVOkf14a9J2HR0)
+- [Lonely In The Rain by Maone](https://open.spotify.com/track/4gBkjihEIVYU8FWiotnm2v)
+- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
+- [03:00 am by natt3ravn](https://open.spotify.com/track/75bGGWOw7hTTRkyGNCYtHL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
