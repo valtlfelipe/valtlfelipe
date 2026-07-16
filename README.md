@@ -3,9 +3,9 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[opencoredev/domain-sdk](https://github.com/opencoredev/domain-sdk)** - Add, verify, monitor, and remove customer domains with one TypeScript API. (2 days ago)
-- **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (5 days ago)
-- **[malisper/pgrust](https://github.com/malisper/pgrust)** - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests (5 days ago)
+- **[opencoredev/domain-sdk](https://github.com/opencoredev/domain-sdk)** - Add, verify, monitor, and remove customer domains with one TypeScript API. (3 days ago)
+- **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (6 days ago)
+- **[malisper/pgrust](https://github.com/malisper/pgrust)** - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests (6 days ago)
 - **[pug-sh/pug](https://github.com/pug-sh/pug)** - Open-source product analytics (1 week ago)
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (1 week ago)
 
