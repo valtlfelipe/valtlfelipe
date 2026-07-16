@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Don&#39;t Want Your Love by Paul Edwards](https://open.spotify.com/track/3SmVW3j14x27gTUJc62kPC)
-- [echoes by KAYRO](https://open.spotify.com/track/3w6Tq1G8IVOkf14a9J2HR0)
-- [Lonely In The Rain by Maone](https://open.spotify.com/track/4gBkjihEIVYU8FWiotnm2v)
-- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
-- [03:00 am by natt3ravn](https://open.spotify.com/track/75bGGWOw7hTTRkyGNCYtHL)
+- [Light by Sickluv](https://open.spotify.com/track/0FN8Qgn2Pq5zrsfkJLWrBm)
+- [Let Me Fall by wrongside, Shiftbach](https://open.spotify.com/track/43k7sslgIN1RU4vPNfBdfV)
+- [wanna be by abelon](https://open.spotify.com/track/3Uu2dWxYymixBQ2Kp1sp6W)
+- [Get Out by 2-JAY](https://open.spotify.com/track/4SMR6fYncmB26sWQzfP1eV)
+- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
