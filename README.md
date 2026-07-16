@@ -3,17 +3,17 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
+- **[ente/ente](https://github.com/ente/ente)** - 💚 End-to-end encrypted cloud for everything. (today)
 - **[opencoredev/domain-sdk](https://github.com/opencoredev/domain-sdk)** - Add, verify, monitor, and remove customer domains with one TypeScript API. (3 days ago)
 - **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (6 days ago)
 - **[malisper/pgrust](https://github.com/malisper/pgrust)** - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests (6 days ago)
 - **[pug-sh/pug](https://github.com/pug-sh/pug)** - Open-source product analytics (1 week ago)
-- **[wouterdebie/davit](https://github.com/wouterdebie/davit)** - A native macOS UI for Apple&#39;s platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Light by Sickluv](https://open.spotify.com/track/0FN8Qgn2Pq5zrsfkJLWrBm)
-- [Let Me Fall by wrongside, Shiftbach](https://open.spotify.com/track/43k7sslgIN1RU4vPNfBdfV)
-- [wanna be by abelon](https://open.spotify.com/track/3Uu2dWxYymixBQ2Kp1sp6W)
-- [Get Out by 2-JAY](https://open.spotify.com/track/4SMR6fYncmB26sWQzfP1eV)
-- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
+- [In My Mind by MashBit](https://open.spotify.com/track/38KzdW5NrurD00zTqpJXg2)
+- [Ayzaa by Kaisemotions](https://open.spotify.com/track/5o1J68TSO0TDcb4raMV1Vy)
+- [wild rides by daylight](https://open.spotify.com/track/7yT0jKXViTgeDuoKhyRI8j)
+- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
+- [Never Be by Nick En Mare](https://open.spotify.com/track/20h8MnnhZGMbBmHHd0IlJb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
