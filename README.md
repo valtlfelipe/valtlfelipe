@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pug-sh/pug](https://github.com/pug-sh/pug)** - Open-source product analytics (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [How Bizarre by OMC](https://open.spotify.com/track/46q5BtHso0ECuTKeq70ZhW)
+- [Good Feeling by Flo Rida](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8)
+- [For A Moment by ESound](https://open.spotify.com/track/717yxAanbQ7PcqkcV1rbH9)
 - [In My Mind by MashBit](https://open.spotify.com/track/38KzdW5NrurD00zTqpJXg2)
 - [Ayzaa by Kaisemotions](https://open.spotify.com/track/5o1J68TSO0TDcb4raMV1Vy)
-- [wild rides by daylight](https://open.spotify.com/track/7yT0jKXViTgeDuoKhyRI8j)
-- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
-- [Never Be by Nick En Mare](https://open.spotify.com/track/20h8MnnhZGMbBmHHd0IlJb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
