@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[malisper/pgrust](https://github.com/malisper/pgrust)** - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Growing Mind by LEEX](https://open.spotify.com/track/5TBZWLA8P57VSykv8EpGjr)
-- [Beautiful Girls by Aaron Decay](https://open.spotify.com/track/3rlRoCvmAmhb8th9CWaiLp)
-- [Closer by Slow Ted, Phil Odd, TMPST](https://open.spotify.com/track/4K6j4py6eaG1iBppZQ2dS5)
-- [Close by PLVTO, PRAZI](https://open.spotify.com/track/5ujj7XZsT7Bh0i8WkJCond)
-- [Hold Me Closer by Nikko Sunset, Dim Angelo](https://open.spotify.com/track/6pilfSSqVM4lal1KBtPQgz)
+- [Through the Rain by 18th Avenue](https://open.spotify.com/track/2GU0VIkqXgGlGdDEHWDX1W)
+- [Keep Dreaming by TEMPHOUSE](https://open.spotify.com/track/3eQpjaCKDqSlwjXZxRSXdo)
+- [Play Hard by elsewhere.](https://open.spotify.com/track/01LF66fGZlBISVqNke3yUt)
+- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
+- [Erase by LAR, Nu-La](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
