@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[malisper/pgrust](https://github.com/malisper/pgrust)** - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Through the Rain by 18th Avenue](https://open.spotify.com/track/2GU0VIkqXgGlGdDEHWDX1W)
-- [Keep Dreaming by TEMPHOUSE](https://open.spotify.com/track/3eQpjaCKDqSlwjXZxRSXdo)
-- [Play Hard by elsewhere.](https://open.spotify.com/track/01LF66fGZlBISVqNke3yUt)
-- [Still by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/5Hzfo2ZP0Q6vdTPQwKe7z6)
-- [Erase by LAR, Nu-La](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt)
+- [You And I Tritonia 523 by INNERVERSE, Freddie Dickson, Oliver Cricket](https://open.spotify.com/track/0SsChYFNJWPEobQpPLEyXs)
+- [The Unknown by GOBAITH](https://open.spotify.com/track/2sBX5IYciRsfBTx0HG8UnN)
+- [Something Real - Extended by Nu Aspect](https://open.spotify.com/track/25ogqcFBb5rZ4BZtoPr8zr)
+- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
+- [Nothing More by Comofex](https://open.spotify.com/track/3izHYwh6BnQmGngTrcjx54)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
