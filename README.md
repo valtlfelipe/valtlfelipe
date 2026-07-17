@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [LET IT FALL by MuffinHead, SEDFY](https://open.spotify.com/track/3OgtLhQEzEcZilQFRixnlK)
-- [Let Me In - Edit Mix by Dave Matthias](https://open.spotify.com/track/15vpfxJcqq4KJToyBmN5c0)
-- [Dream in Color by Greg Elenis](https://open.spotify.com/track/7sgjmvjSVVCfTlfYa4H6oG)
-- [Lost With You - slowed by Luca Noir](https://open.spotify.com/track/6WQO6xcHV7nxvtVUDzhkuS)
-- [Endless Nights by LEEX, ASTRAL CLOUD](https://open.spotify.com/track/3QoSVOLKfwBZgzCK6H3EL9)
+- [You And I by INNERVERSE, Freddie Dickson, Oliver Cricket](https://open.spotify.com/track/56Q8dn5LGmBRdmXSpi7vX8)
+- [Dreams by Lost Ways](https://open.spotify.com/track/6W8PcxrW9iCr2YeVIoswvR)
+- [Inside by The Cyberjacks](https://open.spotify.com/track/60pz3lZklGPZ4f9f5df4GK)
+- [Beautiful Girls by Aaron Decay](https://open.spotify.com/track/3rlRoCvmAmhb8th9CWaiLp)
+- [Closer by Slow Ted, Phil Odd, TMPST](https://open.spotify.com/track/4K6j4py6eaG1iBppZQ2dS5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
