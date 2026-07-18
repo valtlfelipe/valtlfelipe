@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Erase by LAR, Nu-La](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt)
+- [Rush by SOMMA, Jem Cooke](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr)
+- [Back To Life Now by MBNN](https://open.spotify.com/track/1KWRjsdO1S96ccB2WOhpEN)
 - [Growing Mind by LEEX](https://open.spotify.com/track/5TBZWLA8P57VSykv8EpGjr)
 - [You And I by INNERVERSE, Freddie Dickson, Oliver Cricket](https://open.spotify.com/track/56Q8dn5LGmBRdmXSpi7vX8)
-- [Dreams by Lost Ways](https://open.spotify.com/track/6W8PcxrW9iCr2YeVIoswvR)
-- [Inside by The Cyberjacks](https://open.spotify.com/track/60pz3lZklGPZ4f9f5df4GK)
-- [Beautiful Girls by Aaron Decay](https://open.spotify.com/track/3rlRoCvmAmhb8th9CWaiLp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
