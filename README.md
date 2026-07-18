@@ -3,10 +3,10 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[marckohlbrugge/rclown](https://github.com/marckohlbrugge/rclown)** - Friendly web UI for backing up your object storage buckets (today)
-- **[marcojakob/dart-event-bus](https://github.com/marcojakob/dart-event-bus)** - An Event Bus using Dart Streams for decoupling applications (1 day ago)
-- **[ente/ente](https://github.com/ente/ente)** - 💚 End-to-end encrypted cloud for everything. (1 day ago)
-- **[opencoredev/domain-sdk](https://github.com/opencoredev/domain-sdk)** - Add, verify, monitor, and remove customer domains with one TypeScript API. (4 days ago)
+- **[marckohlbrugge/rclown](https://github.com/marckohlbrugge/rclown)** - Friendly web UI for backing up your object storage buckets (1 day ago)
+- **[marcojakob/dart-event-bus](https://github.com/marcojakob/dart-event-bus)** - An Event Bus using Dart Streams for decoupling applications (2 days ago)
+- **[ente/ente](https://github.com/ente/ente)** - 💚 End-to-end encrypted cloud for everything. (2 days ago)
+- **[opencoredev/domain-sdk](https://github.com/opencoredev/domain-sdk)** - Add, verify, monitor, and remove customer domains with one TypeScript API. (5 days ago)
 - **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (1 week ago)
 
 #### 🎧 Spotify recent tracks
