@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Erase by LAR, Nu-La](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt)
-- [Rush by SOMMA, Jem Cooke](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr)
-- [Back To Life Now by MBNN](https://open.spotify.com/track/1KWRjsdO1S96ccB2WOhpEN)
-- [Growing Mind by LEEX](https://open.spotify.com/track/5TBZWLA8P57VSykv8EpGjr)
-- [You And I by INNERVERSE, Freddie Dickson, Oliver Cricket](https://open.spotify.com/track/56Q8dn5LGmBRdmXSpi7vX8)
+- [Past Love (feat. Sophia Heart) by M2chael, Sophia Heart](https://open.spotify.com/track/1OcwB3LC8Gx0MY9pUo0gct)
+- [Gone by Cozy Sky](https://open.spotify.com/track/0XYrvLxH7nL9L7T915Si4g)
+- [I&#39;m So Tired by RAZZ, AgusAlvarez, Moody Violet](https://open.spotify.com/track/5kY9LbgDufXWoSOR4r56NE)
+- [Time to Time by TOPFLOOR](https://open.spotify.com/track/1juVMRhXOLARLY05gVcZxi)
+- [all my life by Oliver River](https://open.spotify.com/track/4W9CNJpLGXUnslLwYdo444)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
