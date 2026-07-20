@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Good Moments by ROW, Usually Quiet, JIMINI](https://open.spotify.com/track/3ESgRJuxJhKGwYnhTdoYC5)
-- [when the sun - extended dry by saendru](https://open.spotify.com/track/0g8TDtQJfzPHYmSzCoNE6S)
-- [I Never Told You by Paige](https://open.spotify.com/track/0fgF2WE4Lrj1KToxjWt8vO)
-- [Against The Grain by Naws, Hex &amp; Solstice](https://open.spotify.com/track/52lp1yv0ao7k2MhtqVVGG4)
-- [Candlelight by XYSM, Joywalk](https://open.spotify.com/track/6uhtgpSpkXEO8BZDl3Ddpe)
+- [You Said Forever by NM](https://open.spotify.com/track/0Gin2d0Fk3rLBQ29B9AXL2)
+- [Heal My Love by Matvey Emerson, Dante](https://open.spotify.com/track/5E0gUkTKnFgJ7KmMMFEQrB)
+- [Work of Art by Bonsaye, Vicki Vox](https://open.spotify.com/track/5BL8PIMu0dL4Ep58ow13R4)
+- [still gotta let go by kenu](https://open.spotify.com/track/6WgOoS0GACRjJvoab63tSb)
+- [Dive by Taiki Nulight, Rue More](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
