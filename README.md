@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Past Love (feat. Sophia Heart) by M2chael, Sophia Heart](https://open.spotify.com/track/1OcwB3LC8Gx0MY9pUo0gct)
-- [Gone by Cozy Sky](https://open.spotify.com/track/0XYrvLxH7nL9L7T915Si4g)
-- [I&#39;m So Tired by RAZZ, AgusAlvarez, Moody Violet](https://open.spotify.com/track/5kY9LbgDufXWoSOR4r56NE)
-- [Time to Time by TOPFLOOR](https://open.spotify.com/track/1juVMRhXOLARLY05gVcZxi)
-- [all my life by Oliver River](https://open.spotify.com/track/4W9CNJpLGXUnslLwYdo444)
+- [Good Moments by ROW, Usually Quiet, JIMINI](https://open.spotify.com/track/3ESgRJuxJhKGwYnhTdoYC5)
+- [when the sun - extended dry by saendru](https://open.spotify.com/track/0g8TDtQJfzPHYmSzCoNE6S)
+- [I Never Told You by Paige](https://open.spotify.com/track/0fgF2WE4Lrj1KToxjWt8vO)
+- [Against The Grain by Naws, Hex &amp; Solstice](https://open.spotify.com/track/52lp1yv0ao7k2MhtqVVGG4)
+- [Candlelight by XYSM, Joywalk](https://open.spotify.com/track/6uhtgpSpkXEO8BZDl3Ddpe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
