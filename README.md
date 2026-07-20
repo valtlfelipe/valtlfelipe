@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [You Said Forever by NM](https://open.spotify.com/track/0Gin2d0Fk3rLBQ29B9AXL2)
-- [Heal My Love by Matvey Emerson, Dante](https://open.spotify.com/track/5E0gUkTKnFgJ7KmMMFEQrB)
-- [Work of Art by Bonsaye, Vicki Vox](https://open.spotify.com/track/5BL8PIMu0dL4Ep58ow13R4)
-- [still gotta let go by kenu](https://open.spotify.com/track/6WgOoS0GACRjJvoab63tSb)
-- [Dive by Taiki Nulight, Rue More](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf)
+- [Love in the Dark by Skaiisblue](https://open.spotify.com/track/0nGE2u0h5OlhijUrlWJZDI)
+- [On My Love by NAAC](https://open.spotify.com/track/3yYiR1otZ3mb0CWnA693XD)
+- [Miracle by Areo](https://open.spotify.com/track/11ruu72BWvuqLiRMGVTGRP)
+- [Closer To You by Lucas Nord](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh)
+- [The Way I Love You by Daniel Blume](https://open.spotify.com/track/4J9NbwkLx1q3GEp6tA2eQW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
