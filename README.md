@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ente/ente](https://github.com/ente/ente)** - 💚 End-to-end encrypted cloud for everything. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Not That Girl Anymore by Silvio1976](https://open.spotify.com/track/6stlQlQ5kCaIRMBy3Nx1PC)
-- [No More Goodbyes by KIIX](https://open.spotify.com/track/7iRJcEirmW4C721viwDiSr)
-- [On Repeat by DJ Katch, Crudu](https://open.spotify.com/track/4E0enjuoNyPLUflNXwq3sU)
-- [Realign. by BIONT, Spayds](https://open.spotify.com/track/0lQK8ojPjtp85IGAig1u73)
-- [In The Dark by Steve Ophelia](https://open.spotify.com/track/5cSgUBAiRVIDtqiZnUgFjV)
+- [On My Love by NAAC](https://open.spotify.com/track/3yYiR1otZ3mb0CWnA693XD)
+- [Miracle by Areo](https://open.spotify.com/track/11ruu72BWvuqLiRMGVTGRP)
+- [Closer To You by Lucas Nord](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh)
+- [The Way I Love You by Daniel Blume](https://open.spotify.com/track/4J9NbwkLx1q3GEp6tA2eQW)
+- [Ride By The Coast by Refeci, Luke Luxe](https://open.spotify.com/track/5lKMxiNXOQARmI4sPZwQy2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
