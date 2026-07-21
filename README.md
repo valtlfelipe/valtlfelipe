@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** - The `npx serve` of Apple Simulators. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Let The Night Fall by Disclaimer](https://open.spotify.com/track/60SnBXbjQ3TVSSH7ZgMabn)
-- [eyes open by kalm, Aiko](https://open.spotify.com/track/54pLFtmVWrOL6zxfREiJcI)
-- [UNTIL IM GONE by Mark Haven](https://open.spotify.com/track/03dWuXzYMskatP1y096JY6)
-- [How To Love by Jörgen](https://open.spotify.com/track/5DDOW6MvpcqpgjTfJlRTC5)
-- [In the Mood by Daydream Affiliate](https://open.spotify.com/track/4jLKmiPkJn7ABpDAQv4efT)
+- [Carousel by WHAT EVA](https://open.spotify.com/track/3tuB5Phqt4BDhPJw4kHU9F)
+- [Together by Avi Snow, Richard Judge](https://open.spotify.com/track/0aOaI4gtDeVzmZ5IP5sYKA)
+- [Revive Me by blaank, AIMÉ, JAIKO](https://open.spotify.com/track/1UMnfipHDp7yvwyhbS3CO3)
+- [Girls Come By by Havoc &amp; Lawn, Kyle Pearce](https://open.spotify.com/track/4HHFAQ2jIuDxViIhKG0VTj)
+- [Malibu - Extended Mix by UOAK](https://open.spotify.com/track/1ScZ9Q1e07cm1C7xFlRnuJ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
