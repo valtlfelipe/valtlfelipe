@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ente/ente](https://github.com/ente/ente)** - 💚 End-to-end encrypted cloud for everything. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [You &amp; Me - Rivo Remix by Disclosure, Rivo, Eliza Doolittle](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [Secrets by Tudor, Caroline Byrne](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ)
-- [she said she loves me by yaen, f. fin](https://open.spotify.com/track/4BKXETPA0ts5WvScItO3kR)
-- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
-- [Notre-dame by Triomphe](https://open.spotify.com/track/2HbIfGXrg2cyy8yVOoCJhB)
+- [Orla by nimino](https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9)
+- [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
+- [Are You Real? by MIND](https://open.spotify.com/track/4cEwZe5CTeONJ8cBseGm4E)
+- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/7rXke3ttpL2uXel9Nesf4u)
+- [the morning by kalm](https://open.spotify.com/track/3Hz9J3MMt7o8mdLDjEykeO)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
