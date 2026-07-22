@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ente/ente](https://github.com/ente/ente)** - 💚 End-to-end encrypted cloud for everything. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Orla by nimino](https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9)
-- [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
-- [Are You Real? by MIND](https://open.spotify.com/track/4cEwZe5CTeONJ8cBseGm4E)
-- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/7rXke3ttpL2uXel9Nesf4u)
-- [the morning by kalm](https://open.spotify.com/track/3Hz9J3MMt7o8mdLDjEykeO)
+- [Company - Extended Mix by Lynnic, ItsArius, Thandi](https://open.spotify.com/track/6bKnHKTyJVXUybu7sMNzF3)
+- [Let It Go by NOTSOBAD, MA:RK](https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR)
+- [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
+- [Drugs I Like by nate band](https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr)
+- [Shards by Small Town Kid](https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
