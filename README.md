@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ente/ente](https://github.com/ente/ente)** - 💚 End-to-end encrypted cloud for everything. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Kaleidoscopic Eyes by Hydawai, CMC$, Joe Jury](https://open.spotify.com/track/7s2n6uibFPxyLKQjxlCMsJ)
-- [something you do by abelon](https://open.spotify.com/track/45Hmja0cjieiQsVK6aAuZw)
-- [Smile by vidi roca](https://open.spotify.com/track/4YFYlKxPlLU8evodaGJ95P)
-- [Paradise to Me by XAMIL](https://open.spotify.com/track/68xQIrtLI4tZDet1h3oqOu)
-- [Glad We Met by Steve Ophelia](https://open.spotify.com/track/5sOnopQg39acWjYAdoGLbH)
+- [You &amp; Me - Rivo Remix by Disclosure, Rivo, Eliza Doolittle](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
+- [Secrets by Tudor, Caroline Byrne](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ)
+- [she said she loves me by yaen, f. fin](https://open.spotify.com/track/4BKXETPA0ts5WvScItO3kR)
+- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [Notre-dame by Triomphe](https://open.spotify.com/track/2HbIfGXrg2cyy8yVOoCJhB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
