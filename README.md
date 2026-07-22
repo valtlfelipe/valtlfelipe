@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ente/ente](https://github.com/ente/ente)** - 💚 End-to-end encrypted cloud for everything. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [LOST IN YOUR EYES by Palm Monkey, DALEXO, Dan Hammond, HUANI](https://open.spotify.com/track/7hPRfLu0xGYWsCnayrLohu)
-- [2016 (New York Nights) by Lotrios Ferno](https://open.spotify.com/track/5WoBz3WbhCq1QQtal9BcqW)
-- [Not That Girl Anymore by Silvio1976](https://open.spotify.com/track/6stlQlQ5kCaIRMBy3Nx1PC)
-- [No More Goodbyes by KIIX](https://open.spotify.com/track/7iRJcEirmW4C721viwDiSr)
-- [On Repeat by DJ Katch, Crudu](https://open.spotify.com/track/4E0enjuoNyPLUflNXwq3sU)
+- [Kaleidoscopic Eyes by Hydawai, CMC$, Joe Jury](https://open.spotify.com/track/7s2n6uibFPxyLKQjxlCMsJ)
+- [something you do by abelon](https://open.spotify.com/track/45Hmja0cjieiQsVK6aAuZw)
+- [Smile by vidi roca](https://open.spotify.com/track/4YFYlKxPlLU8evodaGJ95P)
+- [Paradise to Me by XAMIL](https://open.spotify.com/track/68xQIrtLI4tZDet1h3oqOu)
+- [Glad We Met by Steve Ophelia](https://open.spotify.com/track/5sOnopQg39acWjYAdoGLbH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
