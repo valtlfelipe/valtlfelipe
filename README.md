@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ente/ente](https://github.com/ente/ente)** - 💚 End-to-end encrypted cloud for everything. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The way it ends by Chvck](https://open.spotify.com/track/4kSMU8BBK77dBDyzpBOcgI)
-- [Moonlight by Rayasa, Jacala, Thandi](https://open.spotify.com/track/2YK9mLBoqHBtQzJfSC4yEn)
-- [Last Time by YUMA, Amadea](https://open.spotify.com/track/3r2FSdNto1jIArfK6WeiIb)
-- [Tell Me To Stay by H:dn](https://open.spotify.com/track/3kNILpskugA9YXBpy68Mk2)
-- [Floating by Sole Sole](https://open.spotify.com/track/37yTnjutEIbhTVqu3PPXui)
+- [LOST IN YOUR EYES by Palm Monkey, DALEXO, Dan Hammond, HUANI](https://open.spotify.com/track/7hPRfLu0xGYWsCnayrLohu)
+- [2016 (New York Nights) by Lotrios Ferno](https://open.spotify.com/track/5WoBz3WbhCq1QQtal9BcqW)
+- [Not That Girl Anymore by Silvio1976](https://open.spotify.com/track/6stlQlQ5kCaIRMBy3Nx1PC)
+- [No More Goodbyes by KIIX](https://open.spotify.com/track/7iRJcEirmW4C721viwDiSr)
+- [On Repeat by DJ Katch, Crudu](https://open.spotify.com/track/4E0enjuoNyPLUflNXwq3sU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
