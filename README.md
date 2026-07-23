@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marcojakob/dart-event-bus](https://github.com/marcojakob/dart-event-bus)** - An Event Bus using Dart Streams for decoupling applications (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [In The End by Aden Lou, Ted Bear](https://open.spotify.com/track/6o90yNNKgLjsLRSqZa7AgD)
-- [dots by all things break](https://open.spotify.com/track/1yPRNFhue7yteEtFKn32W6)
-- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
-- [Rain by Astrality, MNRT, S:NE](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO)
-- [Take Me Home by Nu Aspect, TCTS, RAHH](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA)
+- [Dreaming by Nu Aspect](https://open.spotify.com/track/7i08YPrVyNMhl0uNwhuFz0)
+- [Bits of Hope by NOTSOBAD, MA:RK](https://open.spotify.com/track/2fNGtLKkyg64a7cr5UkAiu)
+- [Driving Me Psycho by H:dn](https://open.spotify.com/track/7cVAv9b6kxgCWsNkmwTV9p)
+- [Blindspot by Goodboys, Nu Aspect, AVAION](https://open.spotify.com/track/2Mdv8PnOWxKhjtbQ9UnVva)
+- [i saw you by kalm](https://open.spotify.com/track/0T6rwk7R4uMyUfdXLVxudj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
