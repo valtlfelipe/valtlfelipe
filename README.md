@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/rclown](https://github.com/marckohlbrugge/rclown)** - Friendly web UI for backing up your object storage buckets (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
-- [Help Me Lose My Mind - Slowed Down by Gravagerz](https://open.spotify.com/track/6eLaP1VW9Moy2AHijWfhxl)
-- [Last Night by Rivo](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq)
-- [belong to one by oskar med k](https://open.spotify.com/track/1M80fAZWp0IXmwwrpM2Hz1)
-- [Other Side by AVAION](https://open.spotify.com/track/5sldxFuM496Xu7dt6r8Ckl)
+- [Let It Go by NOTSOBAD, MA:RK](https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR)
+- [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
+- [Drugs I Like by nate band](https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr)
+- [Shards by Small Town Kid](https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV)
+- [Strings Attached - Extended by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/68FcC7rZFftR7krAKayPlq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
