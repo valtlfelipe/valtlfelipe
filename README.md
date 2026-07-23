@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/rclown](https://github.com/marckohlbrugge/rclown)** - Friendly web UI for backing up your object storage buckets (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Changes by Nathan C, Yola Recoba](https://open.spotify.com/track/4GYO06wf3VU43VzgRevxU2)
-- [Jump by MIND](https://open.spotify.com/track/06fqBUtCFsSomwcG1Mvgzr)
-- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
-- [Echoes by Mizmo](https://open.spotify.com/track/2TwviHQCmtObcFDawwNgB5)
-- [Need You by Astrality](https://open.spotify.com/track/7agDigat5F6DfXVDGbKYIq)
+- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
+- [Help Me Lose My Mind - Slowed Down by Gravagerz](https://open.spotify.com/track/6eLaP1VW9Moy2AHijWfhxl)
+- [Last Night by Rivo](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq)
+- [belong to one by oskar med k](https://open.spotify.com/track/1M80fAZWp0IXmwwrpM2Hz1)
+- [Other Side by AVAION](https://open.spotify.com/track/5sldxFuM496Xu7dt6r8Ckl)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
