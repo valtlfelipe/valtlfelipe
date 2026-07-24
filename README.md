@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[marckohlbrugge/rclown](https://github.com/marckohlbrugge/rclown)** - Friendly web UI for backing up your object storage buckets (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Let It Go by NOTSOBAD, MA:RK](https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR)
-- [Wanna Be Somewhere With You - Extended Mix by Rules](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
-- [Drugs I Like by nate band](https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr)
-- [Shards by Small Town Kid](https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV)
-- [Strings Attached - Extended by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/68FcC7rZFftR7krAKayPlq)
+- [I Love You Always Forever by Donna Lewis](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD)
+- [I Know You Want Me (Calle Ocho) by Pitbull](https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45)
+- [Lay It All on Me (feat. Ed Sheeran) by Rudimental, Ed Sheeran](https://open.spotify.com/track/6splO3UF8hSmK33y5fJTNk)
+- [Wild Ones (feat. Sia) by Flo Rida, Sia](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3)
+- [One Kiss (with Dua Lipa) by Calvin Harris, Dua Lipa](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
