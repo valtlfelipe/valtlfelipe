@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[every-app/open-seo](https://github.com/every-app/open-seo)** - Open source alternative to Semrush and Ahrefs (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Secrets by Tudor, Caroline Byrne](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ)
+- [she said she loves me by yaen, f. fin](https://open.spotify.com/track/4BKXETPA0ts5WvScItO3kR)
+- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [Notre-dame by Triomphe](https://open.spotify.com/track/2HbIfGXrg2cyy8yVOoCJhB)
 - [I Run by HAVEN., Kaitlin Aragon](https://open.spotify.com/track/7czFYbkjbMdgbUXbkt7jUU)
-- [The Way by Oceans Ahead](https://open.spotify.com/track/2GLD8IRfoJUs6eLXjvxNRh)
-- [fractured light by kalm](https://open.spotify.com/track/4I7DlZoH5WWLAnKrBQ2RkZ)
-- [blackout blackout by all things break](https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ)
-- [promises by abelon](https://open.spotify.com/track/3wSXfnuFcZbQANW1Tfz1Fr)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
