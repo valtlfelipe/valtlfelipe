@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[every-app/open-seo](https://github.com/every-app/open-seo)** - Open source alternative to Semrush and Ahrefs (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Something About You by aiden](https://open.spotify.com/track/6ubF6lLKm11MW758oHvdPV)
-- [Let It Rain by Gorgon Breath](https://open.spotify.com/track/7MqxuU7jzd3DjbnhwYPy9A)
-- [Tears (Ain&#39;t Falling For You) by Ched](https://open.spotify.com/track/5YfUI1WLxbaWkcPwr2PwRM)
-- [Where You Go by DJ Rob Ru](https://open.spotify.com/track/40ELzeMPyz4TJeFLI9O5Tg)
-- [MISS YOU by excape.](https://open.spotify.com/track/0oUP9oBCiDMVvXlKEcaqOU)
+- [Knock Me Off My Feet by oskar med k](https://open.spotify.com/track/6Xgbgdi7F7BGrZPrYcxFVl)
+- [Can&#39;t Help But Worry (Every Night Every Day) by Soluna](https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i)
+- [Self Control by Lynnic, ItsArius, Lilly](https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N)
+- [Make Me Feel by oskar med k](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8)
+- [Scatman (ski-ba-bop-ba-dop-bop) by Scatman John](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
