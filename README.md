@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[every-app/open-seo](https://github.com/every-app/open-seo)** - Open source alternative to Semrush and Ahrefs (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Secrets by Tudor, Caroline Byrne](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ)
-- [she said she loves me by yaen, f. fin](https://open.spotify.com/track/4BKXETPA0ts5WvScItO3kR)
-- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
-- [Notre-dame by Triomphe](https://open.spotify.com/track/2HbIfGXrg2cyy8yVOoCJhB)
-- [I Run by HAVEN., Kaitlin Aragon](https://open.spotify.com/track/7czFYbkjbMdgbUXbkt7jUU)
+- [I Know You Want Me (Calle Ocho) by Pitbull](https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45)
+- [This Is What You Came For by Calvin Harris, Rihanna](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y)
+- [Can&#39;t Get You out of My Head by Kylie Minogue](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7)
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
+- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
