@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[every-app/open-seo](https://github.com/every-app/open-seo)** - Open source alternative to Semrush and Ahrefs (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Figure It Out by Zak Joshua](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES)
+- [Dreams by GABRIELLE](https://open.spotify.com/track/4rV3AYCf4BBBCkIpyLPwUP)
+- [Wild Ones (feat. Sia) by Flo Rida, Sia](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3)
 - [Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] by Daft Punk, Pharrell Williams, Nile Rodgers](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof)
 - [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
-- [Shine by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7KM7AeGDIWKxrMN7E4ljRA)
-- [Good Life by OneRepublic](https://open.spotify.com/track/5FbfPxWMDM3yEnNUJS0HLQ)
-- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
