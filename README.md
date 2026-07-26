@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[every-app/open-seo](https://github.com/every-app/open-seo)** - Open source alternative to Semrush and Ahrefs (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Figure It Out by Zak Joshua](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES)
-- [Dreams by GABRIELLE](https://open.spotify.com/track/4rV3AYCf4BBBCkIpyLPwUP)
-- [Wild Ones (feat. Sia) by Flo Rida, Sia](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3)
-- [Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] by Daft Punk, Pharrell Williams, Nile Rodgers](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof)
-- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
+- [Closer To You by Lucas Nord](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh)
+- [Can&#39;t Forget by Will Sunday](https://open.spotify.com/track/4MJKGCCnNVlsfqjzCk0iLr)
+- [On My Love by NAAC](https://open.spotify.com/track/3yYiR1otZ3mb0CWnA693XD)
+- [End of Beginning by Vic Roz, ANNIAMO](https://open.spotify.com/track/6nVjU5jjlot8o2VqHCF5a6)
+- [Now I&#39;m Blue by DJ SHADOWMIND](https://open.spotify.com/track/7h6TDWfB4bmbZJnBuUQHr7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
