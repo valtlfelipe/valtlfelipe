@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[every-app/open-seo](https://github.com/every-app/open-seo)** - Open source alternative to Semrush and Ahrefs (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [I Know You Want Me (Calle Ocho) by Pitbull](https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45)
-- [This Is What You Came For by Calvin Harris, Rihanna](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y)
-- [Can&#39;t Get You out of My Head by Kylie Minogue](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7)
-- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
-- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
+- [Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] by Daft Punk, Pharrell Williams, Nile Rodgers](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof)
+- [Peanut Butter Jelly by Galantis](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH)
+- [Shine by Olly Alexander (Years &amp; Years)](https://open.spotify.com/track/7KM7AeGDIWKxrMN7E4ljRA)
+- [Good Life by OneRepublic](https://open.spotify.com/track/5FbfPxWMDM3yEnNUJS0HLQ)
+- [All I Wanna Do by Martin Jensen](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
