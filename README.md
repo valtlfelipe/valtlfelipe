@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[every-app/open-seo](https://github.com/every-app/open-seo)** - Open source alternative to Semrush and Ahrefs (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Clarity by FLORES](https://open.spotify.com/track/129WuxVk4Q09V8I7cFgeI4)
-- [NEED YOU BACK by COSMOS JONES](https://open.spotify.com/track/0em3wsTmIo7JiofYr855lp)
-- [No Failure by EliScullen](https://open.spotify.com/track/3cGybWXaBvVUQYOkgyIhCV)
-- [Drummin by Benne](https://open.spotify.com/track/4gz1aVl49RbDCtgfR7Px2a)
-- [Stereo by Alex Keeper](https://open.spotify.com/track/1KtbrGdj2rLkGXFjtFJ4Ei)
+- [Bad News by Blancwater, Hex &amp; Solstice](https://open.spotify.com/track/3Bg7S3Ywl8dQXuvF3zhOXA)
+- [Till Sunrise by Lucas Estrada, Felipe Allenn](https://open.spotify.com/track/7KeDvpAYTm9lEwOT3DhU4H)
+- [Make It Better by Paul Schulze](https://open.spotify.com/track/5pMOrhDsjGXFjMBdVk7nZ1)
+- [Born to Be Free by Ruffnux](https://open.spotify.com/track/1SG8N1R6jboiXkfboZGxVX)
+- [Maliwa by Aureline](https://open.spotify.com/track/2sfB7jmC62iTw5BL4WZxmo)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
