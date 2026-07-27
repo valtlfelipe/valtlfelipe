@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Sleepless by AVAION, PaulWetz, Nu Aspect, YUMA](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH)
-- [Spinning Out by Julia Temos](https://open.spotify.com/track/6603Tf5FLI2lTCYcqNKa9b)
-- [Why Don&#39;t You Stay by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/3GzOzqeVI5tLKJDc0azDQx)
-- [Stay Until the Morning by Stoto](https://open.spotify.com/track/1UOg16o0BdBPEjmSjlzBTB)
-- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
+- [Fireburn by De Hofnar, Bethany](https://open.spotify.com/track/7IXjxb3vmqbqZr06kieNUh)
+- [Lay It On The Line by Nova Wolf, Late June](https://open.spotify.com/track/0n52pxryTjU2r6coVY6Hwq)
+- [Get U by NALYRO](https://open.spotify.com/track/0YPZuHRijrAyigNpYLWfAf)
+- [Devotion by JAS1X, ofc!](https://open.spotify.com/track/2aQiL31uz6fyZ1P5laPxro)
+- [Just Fine by Robii Tekko](https://open.spotify.com/track/2s3RHRBoCH1jXEbXMgJjLW)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
