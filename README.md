@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[every-app/open-seo](https://github.com/every-app/open-seo)** - Open source alternative to Semrush and Ahrefs (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Sunrise by Jako Diaz](https://open.spotify.com/track/4O9lZY9BdWipjlvYYqgIaW)
 - [Closer To You by Lucas Nord](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh)
 - [Can&#39;t Forget by Will Sunday](https://open.spotify.com/track/4MJKGCCnNVlsfqjzCk0iLr)
 - [On My Love by NAAC](https://open.spotify.com/track/3yYiR1otZ3mb0CWnA693XD)
 - [End of Beginning by Vic Roz, ANNIAMO](https://open.spotify.com/track/6nVjU5jjlot8o2VqHCF5a6)
-- [Now I&#39;m Blue by DJ SHADOWMIND](https://open.spotify.com/track/7h6TDWfB4bmbZJnBuUQHr7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
