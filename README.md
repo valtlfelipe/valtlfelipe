@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Nala (Bring Me Home) by Civara](https://open.spotify.com/track/2HpOwVx31rNUQFT8CexxOB)
-- [Fall by four30](https://open.spotify.com/track/1ti8G31m2qD8MCtszv3bO2)
-- [Haunt You by Soulflow](https://open.spotify.com/track/1tx0fmUVG0VJBqwPZhhNy4)
-- [Night Drive by Giorgio Gee, WLCH](https://open.spotify.com/track/2IqLUTJpwvHFfVQotnVLJU)
-- [Get Out by 2-JAY](https://open.spotify.com/track/4SMR6fYncmB26sWQzfP1eV)
+- [Muevelo Lento by INOMA](https://open.spotify.com/track/5Htg8PD4zAsFWWpo4XIPkl)
+- [AMALA by Müslüm Arı](https://open.spotify.com/track/7Hdr4QPISXny0mlzRsRM7S)
+- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
+- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
+- [Weaver by Nohr, Afnan Prince](https://open.spotify.com/track/5CMlbzwepoJp88Uvqp1WTF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
