@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Muevelo Lento by INOMA](https://open.spotify.com/track/5Htg8PD4zAsFWWpo4XIPkl)
-- [AMALA by Müslüm Arı](https://open.spotify.com/track/7Hdr4QPISXny0mlzRsRM7S)
-- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
-- [Infinite Love by CAKES](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS)
-- [Weaver by Nohr, Afnan Prince](https://open.spotify.com/track/5CMlbzwepoJp88Uvqp1WTF)
+- [Take Me Out by Marina Diniz, Chewna](https://open.spotify.com/track/2qcLmWMjp727SXpkugpWW3)
+- [White Dress by Set Mo, Deutsch Duke](https://open.spotify.com/track/7dcSBhPIMO96sdf8hCQAaL)
+- [Take Your Time by JeeWeiss](https://open.spotify.com/track/6DkyajJeLybaD2QUX145BJ)
+- [YOUR EYES by me n ü](https://open.spotify.com/track/77Uqjkp7lj5G6YTx4cDLP5)
+- [Dream Chaser by Vareso](https://open.spotify.com/track/0Poe0S3GmSdD9fydoVEqdA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
