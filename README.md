@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Slide by April Girl](https://open.spotify.com/track/6ogAI7hxJhcpH04xFuwGn4)
-- [Give In by MIND](https://open.spotify.com/track/3wP52QOzRDhXbgkcdt2qd8)
-- [Read My Mind by Safran Safari](https://open.spotify.com/track/6W1BMjp8kpFWtWwMHLYW4x)
-- [I See You by Reiny, EZIA](https://open.spotify.com/track/2D2G2gbcZkZzve14PYdqMf)
-- [Beautiful Soul by Alex Keeper](https://open.spotify.com/track/6KUTm5xIeQFwrvQqelDRAZ)
+- [Nala (Bring Me Home) by Civara](https://open.spotify.com/track/2HpOwVx31rNUQFT8CexxOB)
+- [Fall by four30](https://open.spotify.com/track/1ti8G31m2qD8MCtszv3bO2)
+- [Haunt You by Soulflow](https://open.spotify.com/track/1tx0fmUVG0VJBqwPZhhNy4)
+- [Night Drive by Giorgio Gee, WLCH](https://open.spotify.com/track/2IqLUTJpwvHFfVQotnVLJU)
+- [Get Out by 2-JAY](https://open.spotify.com/track/4SMR6fYncmB26sWQzfP1eV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
