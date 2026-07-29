@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [wildfire by origins](https://open.spotify.com/track/5eyQtnfJVtgH4dJR6IzgNI)
-- [Under Your Spell by Steve Ophelia](https://open.spotify.com/track/51DYm3rlhRIUQuGYykzVP5)
-- [Sex &amp; Love by Mindblow, Edo Denova](https://open.spotify.com/track/3wKAdIV4KfwTapmS4EsWRm)
-- [Every Time by DJ Leao](https://open.spotify.com/track/6c3BMo7WaRwDVIVu0klD3R)
-- [Don&#39;t Wanna Know by Falden](https://open.spotify.com/track/24oxm9zL3c78hH9EuJyJh9)
+- [Don&#39;t Even Want It by JeeWeiss](https://open.spotify.com/track/7mRq4kQP2VK5N16zwFmyjE)
+- [Lean On by CAKES](https://open.spotify.com/track/1yVIJ1BZkeJVwbmok1pXus)
+- [Always On My Mind by MRTY, LVCAS WATTER, hmny.](https://open.spotify.com/track/3cfHGakMj7lvVoj5FCKWam)
+- [Coasting by Piece Wise, De Rien](https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix)
+- [Weightless by Zorah, maybealice](https://open.spotify.com/track/5gfjN5n9nTzKec3JuUOUp0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
