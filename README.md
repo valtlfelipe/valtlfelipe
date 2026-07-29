@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Heaven by PALASTIC, ALLKNIGHT](https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp)
-- [can i come by kalm](https://open.spotify.com/track/6ZIPhmgKBg48ncKM1EpeYx)
-- [Never felt better by Daniel Ruh](https://open.spotify.com/track/53u7Qx6QLxa4ok17qyJLzu)
-- [Are You Real? by MIND](https://open.spotify.com/track/4cEwZe5CTeONJ8cBseGm4E)
-- [follow by puulse](https://open.spotify.com/track/2iilLaOaUXPrh2DmaOpFbG)
+- [wildfire by origins](https://open.spotify.com/track/5eyQtnfJVtgH4dJR6IzgNI)
+- [Under Your Spell by Steve Ophelia](https://open.spotify.com/track/51DYm3rlhRIUQuGYykzVP5)
+- [Sex &amp; Love by Mindblow, Edo Denova](https://open.spotify.com/track/3wKAdIV4KfwTapmS4EsWRm)
+- [Every Time by DJ Leao](https://open.spotify.com/track/6c3BMo7WaRwDVIVu0klD3R)
+- [Don&#39;t Wanna Know by Falden](https://open.spotify.com/track/24oxm9zL3c78hH9EuJyJh9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
