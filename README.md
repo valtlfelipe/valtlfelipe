@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [In Control by MOWYA](https://open.spotify.com/track/04kl3eDQkT4iRSNc9tggQO)
-- [call your name by puulse, maybealice](https://open.spotify.com/track/64nHffSg8vjbefneTeIK0r)
-- [Losing Control by Le Jardin Secret](https://open.spotify.com/track/3HP9jaXfMsesdXqfxv5714)
-- [Refuse You by Lavern](https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W)
-- [cloud chaser by kalm](https://open.spotify.com/track/4KXVEMVQngyfj6I3MlVOGJ)
+- [Heaven by PALASTIC, ALLKNIGHT](https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp)
+- [can i come by kalm](https://open.spotify.com/track/6ZIPhmgKBg48ncKM1EpeYx)
+- [Never felt better by Daniel Ruh](https://open.spotify.com/track/53u7Qx6QLxa4ok17qyJLzu)
+- [Are You Real? by MIND](https://open.spotify.com/track/4cEwZe5CTeONJ8cBseGm4E)
+- [follow by puulse](https://open.spotify.com/track/2iilLaOaUXPrh2DmaOpFbG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
