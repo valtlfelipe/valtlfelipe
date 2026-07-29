@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Patient by Night Tales](https://open.spotify.com/track/0GfxNR6y5kAXgHVZva8KgE)
+- [Don&#39;t Wanna Think About It (Extended Mix) by El Chino Ramos](https://open.spotify.com/track/6U577FtTI8RKyLuV0bvOQS)
+- [Youth (Tritonia 536) by Propellar](https://open.spotify.com/track/6kQnadUoFz6WHwHGXTYfZY)
+- [STAY by LUMA](https://open.spotify.com/track/0I8IKx1WhmNGL0HHmrJs59)
 - [One touch away (for life) by Viki Moreera, JVZEL](https://open.spotify.com/track/2uPWoRfkPzXNPl51ZIMIkT)
-- [Devotion by JAS1X, ofc!](https://open.spotify.com/track/2aQiL31uz6fyZ1P5laPxro)
-- [Lonely by Impani](https://open.spotify.com/track/7rqzXzw2qAsp44vY0lLEMg)
-- [On The Run by NVRT](https://open.spotify.com/track/2qI55suh5Otdu3NdxLeBzY)
-- [Strings Attached by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
