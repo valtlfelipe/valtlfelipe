@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Live In Peace by Kezano](https://open.spotify.com/track/5FHp0niGcz3t4lQrcoWIBA)
-- [I&#39;m Waiting by Hounar, Nils West](https://open.spotify.com/track/1EWVPG56JTqzNE2dKdX5eT)
-- [Patient by Night Tales](https://open.spotify.com/track/0GfxNR6y5kAXgHVZva8KgE)
-- [Don&#39;t Wanna Think About It (Extended Mix) by El Chino Ramos](https://open.spotify.com/track/6U577FtTI8RKyLuV0bvOQS)
-- [Patient by Night Tales](https://open.spotify.com/track/0GfxNR6y5kAXgHVZva8KgE)
+- [summer goes by Holseek, Yorina](https://open.spotify.com/track/6B2EuhLqBZucu4u6zn4xYv)
+- [Take Me Over by Neascape](https://open.spotify.com/track/44UfNiNi8WwvwKow9JrFBq)
+- [City At Night by RAZZ, Angie Robba](https://open.spotify.com/track/4E0DCejl5hZzjz40X7TjX3)
+- [Elevate (Chill Mix) by Kelli-Leigh](https://open.spotify.com/track/5uHEJG2ROEJC1cwCMDW1ZH)
+- [This High - Slowed by Lonelysoul.](https://open.spotify.com/track/0GpB5dKgeo1yu9nR3A70OK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
