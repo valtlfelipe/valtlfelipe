@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Inner Peace by Wavey](https://open.spotify.com/track/2jqDzl5vdGC1rxDzH0hUW9)
-- [Your House - Late Night Remix - Radio Edit by Café Du MIDI, Simon Field](https://open.spotify.com/track/5c2y9ztI50maUunMeYxu0b)
-- [That&#39;s Where I Should Be by MA:RK](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8)
-- [Closer by Ali Bakgor, Mucahit Bakgor](https://open.spotify.com/track/5IxLLsi01rEQ1hU5XptAqC)
-- [Lost In You by fwd/slash](https://open.spotify.com/track/76YExmGzDJqVdLXX4XZKIQ)
+- [Butterflies by Paul Schulze, Markis](https://open.spotify.com/track/6QlYKeomK0nj9mplXXfLi4)
+- [In My Feelings by Edmundo Silva](https://open.spotify.com/track/7gG5hsOVJ0yiLMk5xVJvje)
+- [Down by Dillistone](https://open.spotify.com/track/6qALKVVHrW0VU29ZGiA5uL)
+- [Pages by Crossing Paths, Lovlee](https://open.spotify.com/track/4CtPxw0t5sIe34rdjs4WYy)
+- [As Soon As I Get Home by Rules, SHYA](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
