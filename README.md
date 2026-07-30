@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Smile by vidi roca](https://open.spotify.com/track/4YFYlKxPlLU8evodaGJ95P)
 - [summer goes by Holseek, Yorina](https://open.spotify.com/track/6B2EuhLqBZucu4u6zn4xYv)
 - [Take Me Over by Neascape](https://open.spotify.com/track/44UfNiNi8WwvwKow9JrFBq)
 - [City At Night by RAZZ, Angie Robba](https://open.spotify.com/track/4E0DCejl5hZzjz40X7TjX3)
 - [Elevate (Chill Mix) by Kelli-Leigh](https://open.spotify.com/track/5uHEJG2ROEJC1cwCMDW1ZH)
-- [This High - Slowed by Lonelysoul.](https://open.spotify.com/track/0GpB5dKgeo1yu9nR3A70OK)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
