@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Butterflies by Paul Schulze, Markis](https://open.spotify.com/track/6QlYKeomK0nj9mplXXfLi4)
-- [In My Feelings by Edmundo Silva](https://open.spotify.com/track/7gG5hsOVJ0yiLMk5xVJvje)
-- [Down by Dillistone](https://open.spotify.com/track/6qALKVVHrW0VU29ZGiA5uL)
-- [Pages by Crossing Paths, Lovlee](https://open.spotify.com/track/4CtPxw0t5sIe34rdjs4WYy)
-- [As Soon As I Get Home by Rules, SHYA](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9)
+- [STAY by LUMA](https://open.spotify.com/track/0I8IKx1WhmNGL0HHmrJs59)
+- [About You by Nohr, AMRAC](https://open.spotify.com/track/5A63vcvr7DvpX94GPPn5MI)
+- [More Than Friends by Fake ID, JAIKO](https://open.spotify.com/track/648tWKHqTb1jgcqmr6pHe0)
+- [Into The Bloom by Tobtok, Jack Kelly, Betty Bloom](https://open.spotify.com/track/5CGwVoSCM3jHWpZi4u6Jgc)
+- [Ain&#39;t My Thing by Slowly Drifting](https://open.spotify.com/track/4iYDO66gh1SG4MEARkHK50)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
