@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Eyesight by Mats Westbroek, Damaui](https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA)
-- [All of My Life by AndyBear, Roads We Walk, PARY](https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8)
-- [Show Me by JLV, Thandi](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A)
-- [HONEY by DALEXO, Palm Monkey](https://open.spotify.com/track/52Ioc7pm55l5BuVUa55IVf)
-- [Drummin by Benne](https://open.spotify.com/track/4gz1aVl49RbDCtgfR7Px2a)
+- [Inner Peace by Wavey](https://open.spotify.com/track/2jqDzl5vdGC1rxDzH0hUW9)
+- [Your House - Late Night Remix - Radio Edit by Café Du MIDI, Simon Field](https://open.spotify.com/track/5c2y9ztI50maUunMeYxu0b)
+- [That&#39;s Where I Should Be by MA:RK](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8)
+- [Closer by Ali Bakgor, Mucahit Bakgor](https://open.spotify.com/track/5IxLLsi01rEQ1hU5XptAqC)
+- [Lost In You by fwd/slash](https://open.spotify.com/track/76YExmGzDJqVdLXX4XZKIQ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
