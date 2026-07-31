@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[block/buzz](https://github.com/block/buzz)** - A hive mind communication platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Take My Mind by WizTheMc, bees &amp; honey](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS)
-- [Back On 74 - Rework by Betical, Arper](https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT)
-- [Trippy Yeah by Jimi Jules, Black Coffee](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb)
-- [Give It All by Emanuel Satie](https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP)
-- [Believe In Us by Francis Mercier, Jawora, Neyl, Jesse Boykins III](https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA)
+- [Kamwana by Sama (US), Sofiya Nzau](https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y)
+- [Waya by Kasango, Benji, Kryptic (UK), Shayan](https://open.spotify.com/track/4Dd72AtS6qXYPNSLE8cpMq)
+- [Show Me Love by WizTheMc, bees &amp; honey](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa)
+- [10 Breaths - Francis Mercier Remix by Fideles, 88Birds, Francis Mercier](https://open.spotify.com/track/5JxaVkaCKwXuQFnSgJdU6C)
+- [A Feeling I Miss (SAMA (US) Remix) by Cassian, Matt Ryder, Sama (US)](https://open.spotify.com/track/50xyYrPZV6rs5pmAIozDMt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
