@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[block/buzz](https://github.com/block/buzz)** - A hive mind communication platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Cola - ARTBAT Remix by CamelPhat, Elderbrook, ARTBAT](https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8)
-- [Mwaki by Zerb, Sofiya Nzau](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc)
-- [Sound Of The Sunrise by AR/CO, Sistek](https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM)
-- [Pans Of Death by MAFRO, TSHA](https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T)
-- [1886 by Orsay, Kotiēr](https://open.spotify.com/track/3PQ4wjwohaHHUsp1o4CaL3)
+- [Take My Mind by WizTheMc, bees &amp; honey](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS)
+- [Back On 74 - Rework by Betical, Arper](https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT)
+- [Trippy Yeah by Jimi Jules, Black Coffee](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb)
+- [Give It All by Emanuel Satie](https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP)
+- [Believe In Us by Francis Mercier, Jawora, Neyl, Jesse Boykins III](https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
