@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [One for Me by Retrac](https://open.spotify.com/track/72wAXN8FFG7daJ2Pc9GKUZ)
-- [All I Need by USTRX](https://open.spotify.com/track/4jnsUP2xSJ3f0FjHpY98cO)
-- [Shiver by Atlantix, IONA SKY](https://open.spotify.com/track/34hfurY0YeIcPXizSRTMYd)
-- [Live In Peace by Kezano](https://open.spotify.com/track/5FHp0niGcz3t4lQrcoWIBA)
-- [I&#39;m Waiting by Hounar, Nils West](https://open.spotify.com/track/1EWVPG56JTqzNE2dKdX5eT)
+- [Shine A Light - Edit by Kitty Amor](https://open.spotify.com/track/7yPLswWaozPXqZCcz0Dcp9)
+- [Toca Toca by Sistek, Morry, Fly Project](https://open.spotify.com/track/1B27a06OAQx7CS46plr5pU)
+- [Macho by DESIREE, Emmanuel Jal](https://open.spotify.com/track/1lfrEfIqFx5uUrJInBub0n)
+- [I Know Who I Be (with JAZZWRLD &amp; GL_Ceejay) by Davido, JAZZWRLD, GL_Ceejay](https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu)
+- [Patigo by Stryv](https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
