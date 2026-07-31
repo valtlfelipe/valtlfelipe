@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Shine A Light - Edit by Kitty Amor](https://open.spotify.com/track/7yPLswWaozPXqZCcz0Dcp9)
-- [Toca Toca by Sistek, Morry, Fly Project](https://open.spotify.com/track/1B27a06OAQx7CS46plr5pU)
-- [Macho by DESIREE, Emmanuel Jal](https://open.spotify.com/track/1lfrEfIqFx5uUrJInBub0n)
-- [I Know Who I Be (with JAZZWRLD &amp; GL_Ceejay) by Davido, JAZZWRLD, GL_Ceejay](https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu)
-- [Patigo by Stryv](https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7)
+- [Mindgames by Yamil, Clemente, Groove Shack, Pieces Of Life](https://open.spotify.com/track/29nPx72E4v4mGiTgv5PzxZ)
+- [Where Do We Go - Peggy Gou Remix by Ayra Starr, Peggy Gou](https://open.spotify.com/track/7icTQjIbMxfkOU71InqarB)
+- [Fire Fire by Shimza, AR/CO, Kasango](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ)
+- [No Bad Vibes by Jazzy, KILIMANJARO](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8)
+- [Yivule by CIZA](https://open.spotify.com/track/783s9jQYL85ipURwgyIB6I)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
