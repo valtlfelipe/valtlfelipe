@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [STAY by LUMA](https://open.spotify.com/track/0I8IKx1WhmNGL0HHmrJs59)
-- [About You by Nohr, AMRAC](https://open.spotify.com/track/5A63vcvr7DvpX94GPPn5MI)
-- [More Than Friends by Fake ID, JAIKO](https://open.spotify.com/track/648tWKHqTb1jgcqmr6pHe0)
-- [Into The Bloom by Tobtok, Jack Kelly, Betty Bloom](https://open.spotify.com/track/5CGwVoSCM3jHWpZi4u6Jgc)
-- [Ain&#39;t My Thing by Slowly Drifting](https://open.spotify.com/track/4iYDO66gh1SG4MEARkHK50)
+- [One for Me by Retrac](https://open.spotify.com/track/72wAXN8FFG7daJ2Pc9GKUZ)
+- [All I Need by USTRX](https://open.spotify.com/track/4jnsUP2xSJ3f0FjHpY98cO)
+- [Shiver by Atlantix, IONA SKY](https://open.spotify.com/track/34hfurY0YeIcPXizSRTMYd)
+- [Live In Peace by Kezano](https://open.spotify.com/track/5FHp0niGcz3t4lQrcoWIBA)
+- [I&#39;m Waiting by Hounar, Nils West](https://open.spotify.com/track/1EWVPG56JTqzNE2dKdX5eT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
