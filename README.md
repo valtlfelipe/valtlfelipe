@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[block/buzz](https://github.com/block/buzz)** - A hive mind communication platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Walk Of Life - Remastered 1996 by Dire Straits](https://open.spotify.com/track/5Hk4Mpex0s2ndUpDQ5v2rU)
-- [Our House by Madness](https://open.spotify.com/track/5HrtZ0YLAcKIRx4tdQoHWc)
-- [Maniac - From &#34;Flashdance&#34; by Michael Sembello](https://open.spotify.com/track/6kk07URPWTiRzULynSOVrs)
-- [Tainted Love - Remastered 2023 by Soft Cell](https://open.spotify.com/track/7iN2AiwBr3FKuloMzDjIQO)
-- [Sexual Healing by Marvin Gaye](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED)
+- [Like a Prayer by Madonna](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV)
+- [Raspberry Beret by Prince](https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i)
+- [The Safety Dance by Men Without Hats](https://open.spotify.com/track/4UB3TaEGEY9WoOpxYNMgy4)
+- [I&#39;m Still Standing by Elton John](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2)
+- [The Power Of Love by Huey Lewis &amp; The News](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
