@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[block/buzz](https://github.com/block/buzz)** - A hive mind communication platform (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [adore u by Fred again.., Obongjayar](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ)
-- [One in a Million by Bebe Rexha, David Guetta](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz)
-- [Blue Berries by Sem Jacobs, Tagmann](https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4)
-- [The One (feat. Jocelyn Brown) by Chloé Caillet, Luke Alessi, Jocelyn Brown](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM)
-- [Mine 4 All Time by GUDFELLA](https://open.spotify.com/track/1jmkxyaWnXqObZbe6sTleG)
+- [Love Is The Law by Marcelo Sirotsky](https://open.spotify.com/track/5MhiIqmr9nZLCIIu4iYUkP)
+- [Mara by Small Town Kid](https://open.spotify.com/track/74yE8KUKjYd65ZaXOMc04B)
+- [On and Off - slowed by TRFN](https://open.spotify.com/track/3BCeFWjQnilohEzUHSIRng)
+- [Losing My Mind by Elvar Noren](https://open.spotify.com/track/1RU6OEjBJy4265FNhjDkd5)
+- [i&#39;m way too self aware by oskar med k](https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
