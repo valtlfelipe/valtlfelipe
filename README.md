@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[egoist/kero](https://github.com/egoist/kero)** - A native terminal workspace for macOS. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Waiting For You by Helionyx](https://open.spotify.com/track/37AWSTJ6WmxIgcjG1UJRfB)
-- [Out Of My Mind by LYOD](https://open.spotify.com/track/786FMDQ37ga3AjgNWXdD0U)
-- [Strobe Lights by Panuma, Angie Robba](https://open.spotify.com/track/5DGKPS4iLbaOJDcgiFiSMw)
-- [Never Let Me Go by Ehrling](https://open.spotify.com/track/1RFfJ6V42yzCx0fhH9FMKl)
-- [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
+- [A Kiss - Sped Up by Hyze](https://open.spotify.com/track/2MOWtEx8J3bdo1oT3G6b3r)
+- [Slow Heat - Sped Up by MANTOX](https://open.spotify.com/track/57dRQ9tTHzu4p8tbEHCaP6)
+- [High Hopes - oncor Remix by Audien, oncor, Shaun Farrugia](https://open.spotify.com/track/0V4PaEwkW6u619FY87imBI)
+- [Tonight by Calm Springs, Donna Senders](https://open.spotify.com/track/5HwdWnQ2ygQeYNU28gfE1M)
+- [Give Me Love by Josh Charm](https://open.spotify.com/track/35rsEqXNO6NDhsHQSeqhtR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
