@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[letsseal/letsseal](https://github.com/letsseal/letsseal)** - The open standard for proving any file is real, unaltered and sealed (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Wake Me Up by Cinimin](https://open.spotify.com/track/5ZRahAD0yygcV3YKpXIwFN)
-- [Never Met A Girl Like You by LYOD](https://open.spotify.com/track/2cPLCM5bUSDZ8d8daDXukf)
-- [I Need You by My Side by Victor Dabs](https://open.spotify.com/track/0U1ny2MvtAUThpydE2WyKS)
-- [Who I Was by Flowless](https://open.spotify.com/track/1IJna86mLujuxRBi7gOnK7)
-- [25 by TELOS](https://open.spotify.com/track/1v8AyCPwUNiXqdVJUDMi90)
+- [Believe in me by Prinsblunder](https://open.spotify.com/track/017xj7r0aRQeouVZx52bh8)
+- [Love Is The Law by Marcelo Sirotsky](https://open.spotify.com/track/5MhiIqmr9nZLCIIu4iYUkP)
+- [Mara by Small Town Kid](https://open.spotify.com/track/74yE8KUKjYd65ZaXOMc04B)
+- [On and Off - slowed by TRFN](https://open.spotify.com/track/3BCeFWjQnilohEzUHSIRng)
+- [Losing My Mind by Elvar Noren](https://open.spotify.com/track/1RU6OEjBJy4265FNhjDkd5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
