@@ -3,9 +3,9 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[boldsoftware/meat](https://github.com/boldsoftware/meat)** - meat.dev (today)
-- **[kamranbekirovyz/skills](https://github.com/kamranbekirovyz/skills)** - AI skills for building beautiful Flutter apps (today)
-- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (3 days ago)
+- **[boldsoftware/meat](https://github.com/boldsoftware/meat)** - meat.dev (1 day ago)
+- **[kamranbekirovyz/skills](https://github.com/kamranbekirovyz/skills)** - AI skills for building beautiful Flutter apps (1 day ago)
+- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (4 days ago)
 - **[letsseal/letsseal](https://github.com/letsseal/letsseal)** - The open standard for proving any file is real, unaltered and sealed (1 week ago)
 - **[egoist/kero](https://github.com/egoist/kero)** - A native terminal workspace for macOS. (1 week ago)
 
