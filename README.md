@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[letsseal/letsseal](https://github.com/letsseal/letsseal)** - The open standard for proving any file is real, unaltered and sealed (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Summer Love by LYOD](https://open.spotify.com/track/7luOL0XgCs4BF7kwyJZLTu)
-- [Hear My Call by H:dn](https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW)
-- [Healin by MA:RK](https://open.spotify.com/track/4YZbiCD7V71wfIbDeyTQrV)
-- [Slippin&#39; by Clementine Douglas](https://open.spotify.com/track/6gY5QimP1k4lCYC4PtqAoC)
-- [Find You by Medo](https://open.spotify.com/track/31tOiN2QqKXE7sviryV333)
+- [Memories - Sped Up by Hyze](https://open.spotify.com/track/7rdIv9fpjnWeVhp58z3yTi)
+- [Sunset by Stark](https://open.spotify.com/track/4tabehvpOMjHzgcteMRHbo)
+- [I Wanna Be Yours by Simll3x, M!KE V](https://open.spotify.com/track/54F1O9ZR9Oy3e6fPV8SV7h)
+- [Take Me There - After Hours Edit by Sparkee](https://open.spotify.com/track/32GE2qOsdXB6cEyKUSFtSD)
+- [Time Lock by Small Town Kid](https://open.spotify.com/track/7aq5CiRtfio9wg0aaeTEr9)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
