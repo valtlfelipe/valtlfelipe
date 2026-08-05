@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Closer by Alex Martura](https://open.spotify.com/track/5oO4A9xKVeBEsffcFNU7AQ)
-- [Heal My Love by Sam Harris](https://open.spotify.com/track/2tX4L46gu3uVxM4PDofsQr)
-- [Running by Jack Emery, MØØNE](https://open.spotify.com/track/4AVHESxfzsNJIRhPSaPFKJ)
-- [Body On Fire by Baislamhq](https://open.spotify.com/track/2NlUZNG9D6dJZgXTrd9WLO)
-- [Care by Saive](https://open.spotify.com/track/4dgqdUntjbLCbyeHvT4Jak)
+- [Losing My Mind by Elvar Noren](https://open.spotify.com/track/1RU6OEjBJy4265FNhjDkd5)
+- [i&#39;m way too self aware by oskar med k](https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff)
+- [TALKING IN OUR SLEEP by COSMOS JONES](https://open.spotify.com/track/1W3Yj37Hrx14iYcE7ZBzAu)
+- [What About Me by King Henry](https://open.spotify.com/track/0Dv9RfsaOgJ9sNp2NVwU18)
+- [No Broke Boys (make me feel) by Lønely, Aløne, she brøke up w me](https://open.spotify.com/track/00CzdhmRfPCvP31M4UIuVj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
