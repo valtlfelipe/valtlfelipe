@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[letsseal/letsseal](https://github.com/letsseal/letsseal)** - The open standard for proving any file is real, unaltered and sealed (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [When You&#39;re Around by H:dn](https://open.spotify.com/track/00WOe6UJfFOOLjS5vQjiOk)
-- [Summertime by BLR, Amber Revival](https://open.spotify.com/track/42j5vShCWhTafw7lP8ONGi)
-- [make u mine by kenu](https://open.spotify.com/track/4pTX5hSuH0PZMewUADrcY8)
-- [I Got to Lose (You) by ODNP](https://open.spotify.com/track/3dzX5vNGWD55Ny1uHI65hQ)
-- [More Than Walls - Sped Up by Dessina](https://open.spotify.com/track/1TjFwSyDcuXuoawysQJxrH)
+- [Walking Away - Super Slowed by cloudson](https://open.spotify.com/track/1tRrI50ci47zk34GaQtR8p)
+- [Silent Frequency by Iliou](https://open.spotify.com/track/1YOLCsKAj6okk96IfC4eFw)
+- [Quiet Place - Sped Up by Nisho](https://open.spotify.com/track/3QmC9157S0qFKm2eD2xsuf)
+- [All Over Again - Radio Edit by MARKEE, Danny Wild](https://open.spotify.com/track/3GqREBAwbjEf76d0ghAuky)
+- [Into You by April Girl](https://open.spotify.com/track/2J5fHq5DxZKVUqC5VHnYAw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
