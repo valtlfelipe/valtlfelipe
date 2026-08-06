@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework &amp; software development methodology that works. (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Waiting For You by Helionyx](https://open.spotify.com/track/37AWSTJ6WmxIgcjG1UJRfB)
+- [Out Of My Mind by LYOD](https://open.spotify.com/track/786FMDQ37ga3AjgNWXdD0U)
 - [Strobe Lights by Panuma, Angie Robba](https://open.spotify.com/track/5DGKPS4iLbaOJDcgiFiSMw)
 - [Never Let Me Go by Ehrling](https://open.spotify.com/track/1RFfJ6V42yzCx0fhH9FMKl)
 - [Could Have Been So Good by Rules, Bandit](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro)
-- [dots by all things break](https://open.spotify.com/track/1yPRNFhue7yteEtFKn32W6)
-- [Way Down by Calu, Asphodelle](https://open.spotify.com/track/3giAby9Fm2athDu4JKDs2q)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
