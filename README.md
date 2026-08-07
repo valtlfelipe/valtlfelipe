@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[boldsoftware/meat](https://github.com/boldsoftware/meat)** - meat.dev (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [My Heart&#39;s Burning by STK](https://open.spotify.com/track/17spFD9Lo9GQFYeKiUsS8o)
 - [Close My Eyes by Rules](https://open.spotify.com/track/6nsGa3ha4ZbTpTUi8AZFud)
 - [Miss That (Major League DJz &amp; Piero Farho Remix) by Naomi Sharon, Major League Djz, Piero Farho](https://open.spotify.com/track/34IHtqjGPDBTpkR8Qq90LK)
 - [Standards High by MelyJones](https://open.spotify.com/track/2mpp0EV5NdslbTl9nWTAhr)
 - [rewind by zone](https://open.spotify.com/track/5obOkkDaBhE3UfrfeM8V6G)
-- [Alone by Ash Vanz](https://open.spotify.com/track/3ZcYHFnraOC9hRA3ReHRCv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
