@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[boldsoftware/meat](https://github.com/boldsoftware/meat)** - meat.dev (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Letting Go of You by Kidzü, Aizu](https://open.spotify.com/track/6SZ7ois9DIhDB41MmXO1Nu)
-- [Miss Independent by Everything Hurts](https://open.spotify.com/track/3DOTtmagir0d5gl7jrLp1X)
-- [Satellite Signal by MIND](https://open.spotify.com/track/3pMuJthG4asb1jPrP2Llnu)
-- [Inna Fire - Extended by NOTSOBAD](https://open.spotify.com/track/6Hl4yhrQP4Y79IpjrcFYIC)
-- [Slide by April Girl](https://open.spotify.com/track/6ogAI7hxJhcpH04xFuwGn4)
+- [Shadows by Aaron Decay](https://open.spotify.com/track/5JxXoIAkqXwySoNAS64jiH)
+- [Sunset - Sped Up by Stark](https://open.spotify.com/track/4Ubjw9ci7QPdgqZ8SrBo13)
+- [Oh I Still Feel Ya B Side by Jonasu, Tyoz](https://open.spotify.com/track/6zc8clRrPiYrg2ogruPnsG)
+- [Everything I Wanted by NO153](https://open.spotify.com/track/6VkceLsBvJQOBxf4tolIRw)
+- [should&#39;ve never loved you by no regrets](https://open.spotify.com/track/3dlNmJS09ksZN719Eizlx6)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
