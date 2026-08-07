@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[boldsoftware/meat](https://github.com/boldsoftware/meat)** - meat.dev (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Why Don&#39;t You Stay by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/3GzOzqeVI5tLKJDc0azDQx)
-- [On My Mind by B-Rain, DEFREEZE, Erick Gardina](https://open.spotify.com/track/5OdDSxyEIJi5r5tgdcAVOo)
-- [Together by kenu](https://open.spotify.com/track/5oqovYZqUWiDtomv1dL7HY)
-- [climb by all things break](https://open.spotify.com/track/5R7NYsKpleEVIpZDuCauAn)
-- [Thank You by H:dn](https://open.spotify.com/track/2aULxslovRuhiXMWT6KUtX)
+- [Pieces by AVAION](https://open.spotify.com/track/2TUFKhKl4EZYAo3D9FXU5E)
+- [Thinking About It - Radio Edit by Just Kiddin](https://open.spotify.com/track/68kRRV5xUheCkKbk58Ii3j)
+- [Lovely by Wavey](https://open.spotify.com/track/4JhPcVd0FhJsGipUMOqkm4)
+- [Miss Your Body by nate band](https://open.spotify.com/track/5HXbYVQ0yM8nO6ZDUI6QOW)
+- [Shatter by SLVRLAKE](https://open.spotify.com/track/0IOyD82eOyIdUJ7XhJ1hsj)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
