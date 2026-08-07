@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[boldsoftware/meat](https://github.com/boldsoftware/meat)** - meat.dev (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Shadows by Aaron Decay](https://open.spotify.com/track/5JxXoIAkqXwySoNAS64jiH)
-- [Sunset - Sped Up by Stark](https://open.spotify.com/track/4Ubjw9ci7QPdgqZ8SrBo13)
-- [Oh I Still Feel Ya B Side by Jonasu, Tyoz](https://open.spotify.com/track/6zc8clRrPiYrg2ogruPnsG)
-- [Everything I Wanted by NO153](https://open.spotify.com/track/6VkceLsBvJQOBxf4tolIRw)
-- [should&#39;ve never loved you by no regrets](https://open.spotify.com/track/3dlNmJS09ksZN719Eizlx6)
+- [DIDN&#39;T WE? by NICO](https://open.spotify.com/track/6ZrnPmBBCMQefd68M36wnJ)
+- [Miles Apart by Uneak](https://open.spotify.com/track/1kszJXsydxPGNgfNTtOTdL)
+- [RUNNIN - Extended Mix by Ubo](https://open.spotify.com/track/2kd3DGqENzz3nZ8QY79H66)
+- [You Said Forever by NM](https://open.spotify.com/track/0Gin2d0Fk3rLBQ29B9AXL2)
+- [Illusions by SRTW, Sages](https://open.spotify.com/track/1PMRDsOgRXb3HveGi6vQvy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
