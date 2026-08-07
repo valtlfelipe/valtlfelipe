@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[boldsoftware/meat](https://github.com/boldsoftware/meat)** - meat.dev (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [DIDN&#39;T WE? by NICO](https://open.spotify.com/track/6ZrnPmBBCMQefd68M36wnJ)
-- [Miles Apart by Uneak](https://open.spotify.com/track/1kszJXsydxPGNgfNTtOTdL)
-- [RUNNIN - Extended Mix by Ubo](https://open.spotify.com/track/2kd3DGqENzz3nZ8QY79H66)
-- [You Said Forever by NM](https://open.spotify.com/track/0Gin2d0Fk3rLBQ29B9AXL2)
-- [Illusions by SRTW, Sages](https://open.spotify.com/track/1PMRDsOgRXb3HveGi6vQvy)
+- [My People by Jazzy](https://open.spotify.com/track/0IMnvDOnuuBvPWeZoiPVXC)
+- [Coming Home by Adriatique, rhys from the sticks](https://open.spotify.com/track/7cNlP8j97DxWC6rG9ZCSCj)
+- [Calling Me by Jorden Dux, Contraband](https://open.spotify.com/track/4MATYs49PhllymjaNSwAlt)
+- [Confess by April Girl](https://open.spotify.com/track/3xOveMxnSatyDgQTGIfcMg)
+- [Tell Me by Small Town Kid](https://open.spotify.com/track/6H2ITmuu8WT6nIkcOBz4N8)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
