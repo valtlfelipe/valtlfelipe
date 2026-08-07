@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[boldsoftware/meat](https://github.com/boldsoftware/meat)** - meat.dev (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Pieces by AVAION](https://open.spotify.com/track/2TUFKhKl4EZYAo3D9FXU5E)
-- [Thinking About It - Radio Edit by Just Kiddin](https://open.spotify.com/track/68kRRV5xUheCkKbk58Ii3j)
-- [Lovely by Wavey](https://open.spotify.com/track/4JhPcVd0FhJsGipUMOqkm4)
-- [Miss Your Body by nate band](https://open.spotify.com/track/5HXbYVQ0yM8nO6ZDUI6QOW)
-- [Shatter by SLVRLAKE](https://open.spotify.com/track/0IOyD82eOyIdUJ7XhJ1hsj)
+- [still gotta let go by kenu](https://open.spotify.com/track/6WgOoS0GACRjJvoab63tSb)
+- [Beside Of Me by nimino, Maverick Sabre](https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI)
+- [Way Too Self Aware by Ian Asher](https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8)
+- [Something About You by aiden](https://open.spotify.com/track/6ubF6lLKm11MW758oHvdPV)
+- [MAKELE - Sped Up by Garnic](https://open.spotify.com/track/0dxYru8bj7aW4LD2p5roOG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
