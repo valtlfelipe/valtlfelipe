@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (2 days ago)
 
 #### 🎧 Spotify recent tracks
+- [WHERE IS MY HUSBAND! by RAYE](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm)
+- [We Can&#39;t Stop by Miley Cyrus](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH)
+- [Bad Habits by Ed Sheeran](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d)
+- [Who I Was by Flowless](https://open.spotify.com/track/1IJna86mLujuxRBi7gOnK7)
 - [Love Me by MOTU, BLEND](https://open.spotify.com/track/6DQW2tTugvtDav2ROpcffL)
-- [Realign. by BIONT, Spayds](https://open.spotify.com/track/0lQK8ojPjtp85IGAig1u73)
-- [This High by Lonelysoul.](https://open.spotify.com/track/6IOrpV6t04ASrK0tdt0ZEP)
-- [Lights by Crunkz](https://open.spotify.com/track/51jCLL8miEyjbRPdN49rs0)
-- [fallin 4 u by Frances go](https://open.spotify.com/track/7LFOuhEXQqxO8DSvYExZcN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
