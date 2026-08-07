@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[boldsoftware/meat](https://github.com/boldsoftware/meat)** - meat.dev (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [My People by Jazzy](https://open.spotify.com/track/0IMnvDOnuuBvPWeZoiPVXC)
-- [Coming Home by Adriatique, rhys from the sticks](https://open.spotify.com/track/7cNlP8j97DxWC6rG9ZCSCj)
-- [Calling Me by Jorden Dux, Contraband](https://open.spotify.com/track/4MATYs49PhllymjaNSwAlt)
-- [Confess by April Girl](https://open.spotify.com/track/3xOveMxnSatyDgQTGIfcMg)
-- [Tell Me by Small Town Kid](https://open.spotify.com/track/6H2ITmuu8WT6nIkcOBz4N8)
+- [Why Don&#39;t You Stay by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/3GzOzqeVI5tLKJDc0azDQx)
+- [On My Mind by B-Rain, DEFREEZE, Erick Gardina](https://open.spotify.com/track/5OdDSxyEIJi5r5tgdcAVOo)
+- [Together by kenu](https://open.spotify.com/track/5oqovYZqUWiDtomv1dL7HY)
+- [climb by all things break](https://open.spotify.com/track/5R7NYsKpleEVIpZDuCauAn)
+- [Thank You by H:dn](https://open.spotify.com/track/2aULxslovRuhiXMWT6KUtX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
