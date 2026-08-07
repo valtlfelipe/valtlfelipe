@@ -3,17 +3,17 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
+- **[ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups)** (today)
+- **[stagas/textlog](https://github.com/stagas/textlog)** - textlog.cc (today)
 - **[CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)** - The open-source SDK for bringing any agent into any chat platform: Slack, Microsoft Teams, Discord, Telegram - with native, Interactive UI. (1 day ago)
 - **[cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)** - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. (1 day ago)
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (2 days ago)
-- **[mattpocock/skills](https://github.com/mattpocock/skills)** - Skills for Real Engineers. Straight from my .agents directory. (3 days ago)
-- **[boldsoftware/meat](https://github.com/boldsoftware/meat)** - meat.dev (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [still gotta let go by kenu](https://open.spotify.com/track/6WgOoS0GACRjJvoab63tSb)
-- [Beside Of Me by nimino, Maverick Sabre](https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI)
-- [Way Too Self Aware by Ian Asher](https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8)
-- [Something About You by aiden](https://open.spotify.com/track/6ubF6lLKm11MW758oHvdPV)
-- [MAKELE - Sped Up by Garnic](https://open.spotify.com/track/0dxYru8bj7aW4LD2p5roOG)
+- [Love Me by MOTU, BLEND](https://open.spotify.com/track/6DQW2tTugvtDav2ROpcffL)
+- [Realign. by BIONT, Spayds](https://open.spotify.com/track/0lQK8ojPjtp85IGAig1u73)
+- [This High by Lonelysoul.](https://open.spotify.com/track/6IOrpV6t04ASrK0tdt0ZEP)
+- [Lights by Crunkz](https://open.spotify.com/track/51jCLL8miEyjbRPdN49rs0)
+- [fallin 4 u by Frances go](https://open.spotify.com/track/7LFOuhEXQqxO8DSvYExZcN)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
