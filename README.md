@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Symphony (feat. Zara Larsson) by Clean Bandit, Zara Larsson](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8)
-- [We Are Young (feat. Janelle Monáe) by fun., Janelle Monáe](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf)
-- [Lean On by Major Lazer, DJ Snake, MØ](https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16)
-- [Sugar (feat. Francesco Yates) by Robin Schulz, Francesco Yates](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
+- [Safe and Sound by Capital Cities](https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav)
+- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
+- [Houdini by Dua Lipa](https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z)
+- [In My Mind by Dynoro, GIGI D&#39;AGOSTINO](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33)
+- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
