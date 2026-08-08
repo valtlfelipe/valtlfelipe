@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Man I Need by Olivia Dean](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX)
+- [Late Night Talking by Harry Styles](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK)
 - [Levels - Radio Edit by Avicii](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg)
 - [Am I Wrong by Nico &amp; Vinz](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ)
 - [Heat Waves by Glass Animals](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp)
-- [Lose Control by Teddy Swims](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk)
-- [Jubel by Klingande](https://open.spotify.com/track/1sQ6MIoJOmqBhwomBBLE9g)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
