@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Safe and Sound by Capital Cities](https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav)
-- [Calm Down (with Selena Gomez) by Rema, Selena Gomez](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8)
-- [Houdini by Dua Lipa](https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z)
-- [In My Mind by Dynoro, GIGI D&#39;AGOSTINO](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33)
-- [Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz)
+- [Levels - Radio Edit by Avicii](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg)
+- [Am I Wrong by Nico &amp; Vinz](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ)
+- [Heat Waves by Glass Animals](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp)
+- [Lose Control by Teddy Swims](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk)
+- [Jubel by Klingande](https://open.spotify.com/track/1sQ6MIoJOmqBhwomBBLE9g)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
