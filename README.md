@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (3 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Lean On by Major Lazer, DJ Snake, MØ](https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16)
+- [Sugar (feat. Francesco Yates) by Robin Schulz, Francesco Yates](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)
 - [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
 - [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
-- [Ordinary by Alex Warren](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ)
-- [Messy by Lola Young](https://open.spotify.com/track/2YuUy4hBCVm4L5IRHu0iVl)
-- [Beautiful Things by Benson Boone](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9)
+- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
