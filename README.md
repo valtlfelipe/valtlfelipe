@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Feel So Close - Radio Edit by Calvin Harris](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)
-- [Man I Need by Olivia Dean](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX)
-- [Late Night Talking by Harry Styles](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK)
-- [Levels - Radio Edit by Avicii](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg)
-- [Am I Wrong by Nico &amp; Vinz](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ)
+- [I&#39;m So Excited by The Pointer Sisters](https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI)
+- [Red Red Wine by UB40](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt)
+- [Africa by TOTO](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX)
+- [Relax (Come Fighting) by Frankie Goes To Hollywood](https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t)
+- [Everywhere - 2017 Remaster by Fleetwood Mac](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
