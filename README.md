@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Summer With You by palm after dark, Basp](https://open.spotify.com/track/6ZftyAChv51Y5LtgNjolHB)
-- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
-- [Forever (feat. Malou &amp; Yuna) by HUGEL, Diplo, Malou, Yuna](https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT)
-- [Solo Dance by Martin Jensen](https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c)
-- [Loop by Jerri](https://open.spotify.com/track/5yBASTAFuW1Qtpd3ZKCjPp)
+- [I Know by Nora Van Elken](https://open.spotify.com/track/4jBY5M63giPOxtkOYbQkxy)
+- [Golden by Ben Brown](https://open.spotify.com/track/7Inz9ZlfRiROF0bUlHjk8r)
+- [Waterfalls (feat. Sam Harper &amp; Bobby Harvey) by James Hype, Sam Harper, Bobby Harvey](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3)
+- [Loosen Up by HUGEL, Dawty, Preston Harris](https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA)
+- [This Girl (Kungs Vs. Cookin&#39; On 3 Burners) by Kungs, Cookin&#39; On 3 Burners](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
