@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [I&#39;m So Excited by The Pointer Sisters](https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI)
-- [Red Red Wine by UB40](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt)
-- [Africa by TOTO](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX)
-- [Relax (Come Fighting) by Frankie Goes To Hollywood](https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t)
-- [Everywhere - 2017 Remaster by Fleetwood Mac](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq)
+- [A Couple Minutes by Olivia Dean](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk)
+- [Ok Love You Bye by Olivia Dean](https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK)
+- [Dive by Olivia Dean](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2)
+- [Nice To Each Other by Olivia Dean](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l)
+- [So Easy (To Fall In Love) by Olivia Dean](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
