@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [DRIFTING by Max Lean](https://open.spotify.com/track/4AHXzrqyKfv4evyMgRgPoH)
+- [I See You by Kiholm, Lovlee](https://open.spotify.com/track/3AnyOq2omV7JSZ4ndMwsKu)
 - [Bittersweet by Michael Calfan](https://open.spotify.com/track/7vq5i7XNFT5TUBv6OttBpo)
 - [Losing Me by Dan Port](https://open.spotify.com/track/7kDnSImIwo2DSH20Sbmuox)
 - [too close by Nosi, TROJANA](https://open.spotify.com/track/4y5sV6XvDRviooN6Zuw7oD)
-- [ONE (ONE NIGHT ENERGY) by NICO](https://open.spotify.com/track/0C31nxbvs6TfLXB6VNDPZh)
-- [Sun In Mind by Q2mix](https://open.spotify.com/track/4j53EfJtHSRk4ShlQr6Nfe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
