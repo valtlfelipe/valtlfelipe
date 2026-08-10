@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [daydream by LUNOIRE](https://open.spotify.com/track/4BrbecdqWVPu8anCxSjx0k)
-- [Going Under by Vanglowe](https://open.spotify.com/track/7iggDPXLzfM77v2GNzhCzx)
-- [Loving Blind by Sam Wiseman, Idun Nicoline, ANDREWBATES](https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl)
-- [Sweet Side (feat. Caitlyn Scarlett) by Crazy Cousinz, Caitlyn Scarlett](https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3)
-- [Give Me Love by Leu Leu Land](https://open.spotify.com/track/6lvVHgUNx8sIN9j7pIAXY0)
+- [U&amp;ME by Poul, Matt Strike, Alberto Ciccarini](https://open.spotify.com/track/3SlSee1LmzEMTRepbbAyer)
+- [Your Love Is by ODNP](https://open.spotify.com/track/1vaTfarCycbDq2ijgmhldi)
+- [Let Go by Neon Tide](https://open.spotify.com/track/4RKpBP6ghJKoNc5V73XGyw)
+- [Loud &amp; Clear - Slowed by Lonelysoul.](https://open.spotify.com/track/2hHZ6sGiMuwnqtkITASdJD)
+- [Pushing Me Away - slowed by TRFN, PET3RPUNX](https://open.spotify.com/track/1z1ftswuyttchnDN0mOer2)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
