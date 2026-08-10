@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [U&amp;ME by Poul, Matt Strike, Alberto Ciccarini](https://open.spotify.com/track/3SlSee1LmzEMTRepbbAyer)
-- [Your Love Is by ODNP](https://open.spotify.com/track/1vaTfarCycbDq2ijgmhldi)
-- [Let Go by Neon Tide](https://open.spotify.com/track/4RKpBP6ghJKoNc5V73XGyw)
-- [Loud &amp; Clear - Slowed by Lonelysoul.](https://open.spotify.com/track/2hHZ6sGiMuwnqtkITASdJD)
-- [Pushing Me Away - slowed by TRFN, PET3RPUNX](https://open.spotify.com/track/1z1ftswuyttchnDN0mOer2)
+- [Give In by MIND](https://open.spotify.com/track/3wP52QOzRDhXbgkcdt2qd8)
+- [Tell Me - Extended by Falden, Fare](https://open.spotify.com/track/5ybzwoZUSwa7Iohv5Omt2P)
+- [Should&#39;ve Been by THAT KIND](https://open.spotify.com/track/2YSVqMtmFuqfl0gMOhD05W)
+- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
+- [24 HOURS by Billi Royce](https://open.spotify.com/track/5Rciy1SXGbti127WeEtGTX)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
