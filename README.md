@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [DRIFTING by Max Lean](https://open.spotify.com/track/4AHXzrqyKfv4evyMgRgPoH)
-- [I See You by Kiholm, Lovlee](https://open.spotify.com/track/3AnyOq2omV7JSZ4ndMwsKu)
-- [Bittersweet by Michael Calfan](https://open.spotify.com/track/7vq5i7XNFT5TUBv6OttBpo)
-- [Losing Me by Dan Port](https://open.spotify.com/track/7kDnSImIwo2DSH20Sbmuox)
-- [too close by Nosi, TROJANA](https://open.spotify.com/track/4y5sV6XvDRviooN6Zuw7oD)
+- [Eyes On You by Audrum](https://open.spotify.com/track/7MlDMfh5dDuGvmvyQoiyYH)
+- [Yippee Ki-Yay by Mojave Grey](https://open.spotify.com/track/3a7s5qchRlnKbWCyjus1ko)
+- [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
+- [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
+- [This Is What You Came For by Calvin Harris, Rihanna](https://open.spotify.com/track/2vlDrKpOC0eSTqTDRcbYyw)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
