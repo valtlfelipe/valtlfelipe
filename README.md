@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Give In by MIND](https://open.spotify.com/track/3wP52QOzRDhXbgkcdt2qd8)
-- [Tell Me - Extended by Falden, Fare](https://open.spotify.com/track/5ybzwoZUSwa7Iohv5Omt2P)
-- [Should&#39;ve Been by THAT KIND](https://open.spotify.com/track/2YSVqMtmFuqfl0gMOhD05W)
-- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
-- [24 HOURS by Billi Royce](https://open.spotify.com/track/5Rciy1SXGbti127WeEtGTX)
+- [Closer Now by RUSSI, NOVA](https://open.spotify.com/track/5w2mESExA17rUQMjuVmvke)
+- [Losing Focus by Marc Benjamin, Marcus Santoro, David Pietras](https://open.spotify.com/track/11NiMOI4g4VnTAi5qqTCA7)
+- [Favorite Place - Slowed by Ryan Reed](https://open.spotify.com/track/49Z3Z0t1bH4dRAWNT7LaIy)
+- [For You - Slowed by SoLow, WLCH](https://open.spotify.com/track/0Qi1ZmsfKrwfCkcScq5v5s)
+- [FALLING FOR YOU by sixteen06, emerge](https://open.spotify.com/track/07FESfZzL6b864NecrE1tG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
