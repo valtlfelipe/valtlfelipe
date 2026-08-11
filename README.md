@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [She by DRIPTOWN](https://open.spotify.com/track/4QElWlzVBDTuWienzAufQb)
-- [No One Like You by Alex Adair](https://open.spotify.com/track/58yE7laRs6ptzfLKWXLN9u)
-- [Fall into your arms by Baywood](https://open.spotify.com/track/4WcWNMVCFs2XRMxIGIDGoY)
-- [Arrow by INNERVERSE, Oliver Cricket](https://open.spotify.com/track/3TUZGSbOgrB68DZDlaBoiS)
-- [Into The Ocean - Lynnic &amp; ItsArius Remix by MALIAN, Lynnic, ItsArius](https://open.spotify.com/track/3AmcDenpbtv714CSQ8DfiZ)
+- [Don&#39;t Waste Your Time by Start Stop](https://open.spotify.com/track/6OwfdHoGoIM2l3gJDhxXSZ)
+- [Anything For You (feat. Sara Phillips) by Nyday, Sara Phillips](https://open.spotify.com/track/74cfg21LRVaHdUQuTZ1jzS)
+- [Treat Me Right by XYSM](https://open.spotify.com/track/5WbyiBVsFW0uisxdJPNdtp)
+- [You and Me - Afro Mix by MFM DEEP](https://open.spotify.com/track/2L5Cd9ggCjFd4DqFYVrLvi)
+- [Into Your Arms by S3DA](https://open.spotify.com/track/7owF109splj0JBLqAELzcn)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
