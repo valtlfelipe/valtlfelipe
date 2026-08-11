@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [it got way too deep by Dimside](https://open.spotify.com/track/7tVdkU9MHow3zM3VNpprXs)
-- [Infinite Love - Extended by CAKES](https://open.spotify.com/track/5yhzs3HxmefRKa26BDho6Q)
-- [Petrichor - Edit by Klangkarussell, GIVVEN](https://open.spotify.com/track/6UmUCUiczf3vnvWR8HB42N)
-- [Reverie - Extended by INNERVERSE](https://open.spotify.com/track/6yPvsVTZUHBKNg6yYEayQo)
-- [Better Off by Gelida, Otto Palmborg](https://open.spotify.com/track/060fhpsuxVD7273RwK1XtF)
+- [She by DRIPTOWN](https://open.spotify.com/track/4QElWlzVBDTuWienzAufQb)
+- [No One Like You by Alex Adair](https://open.spotify.com/track/58yE7laRs6ptzfLKWXLN9u)
+- [Fall into your arms by Baywood](https://open.spotify.com/track/4WcWNMVCFs2XRMxIGIDGoY)
+- [Arrow by INNERVERSE, Oliver Cricket](https://open.spotify.com/track/3TUZGSbOgrB68DZDlaBoiS)
+- [Into The Ocean - Lynnic &amp; ItsArius Remix by MALIAN, Lynnic, ItsArius](https://open.spotify.com/track/3AmcDenpbtv714CSQ8DfiZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
