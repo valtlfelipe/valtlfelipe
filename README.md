@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Coming Out Alive - Radio Edit by Propellar](https://open.spotify.com/track/45zsgOeY1YXPoLjUB3CG2o)
-- [Home by Ben C, Kalsx](https://open.spotify.com/track/5CwMq5x1scN801D9kKXQTf)
-- [If I Could Turn Back Time by Braaten](https://open.spotify.com/track/6hh2vwloYe2O0ckxPELsOX)
-- [Inside Out by Astrality, Tailor](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE)
-- [A Thousand Stories by Naws, JOSEFINA](https://open.spotify.com/track/4y003FdiT62Foyoyb9U6Bv)
+- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
+- [Angels Eyes by MALIAN](https://open.spotify.com/track/5jZ9GkX3pkpP6N1tep3hTf)
+- [Bloom by Astrality, FLORES](https://open.spotify.com/track/1rb65ahUV0k2QYq4x3Fi9y)
+- [not a dream by Emi Navarro](https://open.spotify.com/track/4hHiKVisnR9oTYsXHKgGB2)
+- [Too Tense by oskar med k](https://open.spotify.com/track/0d3NXuG0S5X0lIvYkTp0vt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
