@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
-- [Angels Eyes by MALIAN](https://open.spotify.com/track/5jZ9GkX3pkpP6N1tep3hTf)
-- [Bloom by Astrality, FLORES](https://open.spotify.com/track/1rb65ahUV0k2QYq4x3Fi9y)
-- [not a dream by Emi Navarro](https://open.spotify.com/track/4hHiKVisnR9oTYsXHKgGB2)
-- [Too Tense by oskar med k](https://open.spotify.com/track/0d3NXuG0S5X0lIvYkTp0vt)
+- [it got way too deep by Dimside](https://open.spotify.com/track/7tVdkU9MHow3zM3VNpprXs)
+- [Infinite Love - Extended by CAKES](https://open.spotify.com/track/5yhzs3HxmefRKa26BDho6Q)
+- [Petrichor - Edit by Klangkarussell, GIVVEN](https://open.spotify.com/track/6UmUCUiczf3vnvWR8HB42N)
+- [Reverie - Extended by INNERVERSE](https://open.spotify.com/track/6yPvsVTZUHBKNg6yYEayQo)
+- [Better Off by Gelida, Otto Palmborg](https://open.spotify.com/track/060fhpsuxVD7273RwK1XtF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
