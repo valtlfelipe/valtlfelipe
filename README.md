@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Don&#39;t Waste Your Time by Start Stop](https://open.spotify.com/track/6OwfdHoGoIM2l3gJDhxXSZ)
-- [Anything For You (feat. Sara Phillips) by Nyday, Sara Phillips](https://open.spotify.com/track/74cfg21LRVaHdUQuTZ1jzS)
-- [Treat Me Right by XYSM](https://open.spotify.com/track/5WbyiBVsFW0uisxdJPNdtp)
-- [You and Me - Afro Mix by MFM DEEP](https://open.spotify.com/track/2L5Cd9ggCjFd4DqFYVrLvi)
-- [Into Your Arms by S3DA](https://open.spotify.com/track/7owF109splj0JBLqAELzcn)
+- [Infinite Love - Extended by CAKES](https://open.spotify.com/track/5yhzs3HxmefRKa26BDho6Q)
+- [Wanna Be Somewhere With You by Rules](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi)
+- [Miss Me Like by Zen/it](https://open.spotify.com/track/5c7PnccuRgqXO1bdfI4hJI)
+- [Dreams by Phil Walker](https://open.spotify.com/track/2qhSYehpU4VeKZHIMPMBAe)
+- [Like Home by Kemkila](https://open.spotify.com/track/177H58rhoPTvTsPyCuZH2L)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
