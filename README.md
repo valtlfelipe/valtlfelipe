@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [heartbeat by KAYRO](https://open.spotify.com/track/6fwvxYsHSP61UG95TOhDUZ)
+- [Wasting My Time by Nico Saint](https://open.spotify.com/track/53EVstVLKKOQ7IMWbFLt8r)
 - [You Got Me Singin&#39; Like (Ayoo) by Subsurface](https://open.spotify.com/track/6pFQrUhbk6lUKxu3TMLirj)
 - [FEEL THE RUSH by Valentino](https://open.spotify.com/track/3qUGzjhmCqTrzEbxLiEt25)
 - [STAY by LUMA](https://open.spotify.com/track/0I8IKx1WhmNGL0HHmrJs59)
-- [i saw you by kalm](https://open.spotify.com/track/0T6rwk7R4uMyUfdXLVxudj)
-- [On The Ground by oskar med k](https://open.spotify.com/track/2zX2viSugU43hOWCZvLiXi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
