@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Afraid of Love - slowed by TRFN](https://open.spotify.com/track/55WgaSw4OTHMjKaGQcVoyd)
-- [Bring Me Back Again by millforlife](https://open.spotify.com/track/6uD7z63V71o4ef4MeaK5sD)
-- [Look into My Eyes by Massane, Moglii](https://open.spotify.com/track/7I8dFCZqKldByzJVMFLkNZ)
-- [Say My Name by Texture](https://open.spotify.com/track/1Gy8ww0NQnuRoCHt9PKpVp)
-- [In Your Love by Rules](https://open.spotify.com/track/0zP430NOZ4rxY65N61vPZS)
+- [Heaven by PALASTIC, ALLKNIGHT](https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp)
+- [Bits of Hope - Extended by NOTSOBAD, MA:RK](https://open.spotify.com/track/0pnGee7CwKiBdt1gBWnAkX)
+- [call out your name by Ubo](https://open.spotify.com/track/6S1XlR3IaSrzx2bYJYHZgD)
+- [Say My Name Again by Lonelysoul.](https://open.spotify.com/track/1Y9gMA8YdoZdf0PoJxCs6i)
+- [Night Drive by Giorgio Gee, WLCH](https://open.spotify.com/track/2IqLUTJpwvHFfVQotnVLJU)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
