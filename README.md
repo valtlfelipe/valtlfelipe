@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Bones by fwd/slash](https://open.spotify.com/track/5jfjmlSiRV104eH82ebEmJ)
-- [Pretty Green Eyes by DUSKO](https://open.spotify.com/track/3HV3dXjLjX5J87JN2aIHmz)
-- [Breathe in the Blue by Julien Fade, Nu-La](https://open.spotify.com/track/5j2ONNLDz5PwdXqtDU8QI0)
-- [Felt It by BACOLE](https://open.spotify.com/track/6y2IKrOSk78Z3y6fsaWpz2)
-- [Searching by ItsArius, Lynnic, Neon Valis](https://open.spotify.com/track/3wL8C8OmHbewbe3rARkwKO)
+- [Need You by Astrality](https://open.spotify.com/track/7agDigat5F6DfXVDGbKYIq)
+- [Slow Dive by feva., Kanslor](https://open.spotify.com/track/3cBXxUJAmaGweJrYA4x4ut)
+- [Never Let Me Go by Ehrling](https://open.spotify.com/track/1RFfJ6V42yzCx0fhH9FMKl)
+- [Sober by VisionV, Courtney Storm](https://open.spotify.com/track/7KUPK7cI9Fs5ySmvLjZDx7)
+- [In the Night by SOULO](https://open.spotify.com/track/6sfV0cNfOrc8waj4nsmCzx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
