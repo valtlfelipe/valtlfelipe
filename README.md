@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Heaven by PALASTIC, ALLKNIGHT](https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp)
-- [Bits of Hope - Extended by NOTSOBAD, MA:RK](https://open.spotify.com/track/0pnGee7CwKiBdt1gBWnAkX)
-- [call out your name by Ubo](https://open.spotify.com/track/6S1XlR3IaSrzx2bYJYHZgD)
-- [Say My Name Again by Lonelysoul.](https://open.spotify.com/track/1Y9gMA8YdoZdf0PoJxCs6i)
-- [Night Drive by Giorgio Gee, WLCH](https://open.spotify.com/track/2IqLUTJpwvHFfVQotnVLJU)
+- [don&#39;t need u (i do) - Seismal D Remix by blunn, Seismal D](https://open.spotify.com/track/1ilkab2raFyulFaWKrUkBB)
+- [strong by origins](https://open.spotify.com/track/2WhjGHRDLOCkLzenxrVm2I)
+- [Desire by SOULO](https://open.spotify.com/track/1v6guzTm3uZBH3XYGBzE0O)
+- [Make Me Feel Like (Don&#39;t Nobody Else) - Extended Mix by NORRA](https://open.spotify.com/track/7cgeVad7LParhzOjAuvdLM)
+- [Wanna Try by Nyday, Azeon., Thunder](https://open.spotify.com/track/1IM8pNYLNbdbqxHC7Esv8a)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
