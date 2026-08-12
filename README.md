@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Need You by Astrality](https://open.spotify.com/track/7agDigat5F6DfXVDGbKYIq)
-- [Slow Dive by feva., Kanslor](https://open.spotify.com/track/3cBXxUJAmaGweJrYA4x4ut)
-- [Never Let Me Go by Ehrling](https://open.spotify.com/track/1RFfJ6V42yzCx0fhH9FMKl)
-- [Sober by VisionV, Courtney Storm](https://open.spotify.com/track/7KUPK7cI9Fs5ySmvLjZDx7)
-- [In the Night by SOULO](https://open.spotify.com/track/6sfV0cNfOrc8waj4nsmCzx)
+- [You Got Me Singin&#39; Like (Ayoo) by Subsurface](https://open.spotify.com/track/6pFQrUhbk6lUKxu3TMLirj)
+- [FEEL THE RUSH by Valentino](https://open.spotify.com/track/3qUGzjhmCqTrzEbxLiEt25)
+- [STAY by LUMA](https://open.spotify.com/track/0I8IKx1WhmNGL0HHmrJs59)
+- [i saw you by kalm](https://open.spotify.com/track/0T6rwk7R4uMyUfdXLVxudj)
+- [On The Ground by oskar med k](https://open.spotify.com/track/2zX2viSugU43hOWCZvLiXi)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
