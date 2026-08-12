@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [lost your mind by KarmaVioletta](https://open.spotify.com/track/0NyjXx6k1mrbkQ52Q6Eg3X)
-- [Worlds Collide by Aaron Decay](https://open.spotify.com/track/5a1pPbBDWNruXhu7R5F3ZX)
-- [ocean eyes. by Ajaw Soul](https://open.spotify.com/track/5xxLn2LqUycu2M7IKZG32j)
-- [Falling Deep by PLVTO](https://open.spotify.com/track/6IBQGzaWg0k1GxEm1mhBt0)
-- [Daydreams by Ice Dog](https://open.spotify.com/track/6YlnQh4NNokhAlW1ZgGw37)
+- [So Sad by NIGHTCAP](https://open.spotify.com/track/6QHGPzvgcBLatHDtCQgnKX)
+- [Avaio by Night Caravan](https://open.spotify.com/track/63onuP8EyHFjbAGvVgNp20)
+- [Be Enough by HNE](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP)
+- [Reflection by ELEZO](https://open.spotify.com/track/4Ucv9Zsm2HDddijkx2h0DK)
+- [Listen by Rayasa, Courtney Storm](https://open.spotify.com/track/5VoVr8QeN7l0iWO2nICfW1)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
