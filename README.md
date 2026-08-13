@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [don&#39;t need u (i do) - Seismal D Remix by blunn, Seismal D](https://open.spotify.com/track/1ilkab2raFyulFaWKrUkBB)
-- [strong by origins](https://open.spotify.com/track/2WhjGHRDLOCkLzenxrVm2I)
-- [Desire by SOULO](https://open.spotify.com/track/1v6guzTm3uZBH3XYGBzE0O)
-- [Make Me Feel Like (Don&#39;t Nobody Else) - Extended Mix by NORRA](https://open.spotify.com/track/7cgeVad7LParhzOjAuvdLM)
-- [Wanna Try by Nyday, Azeon., Thunder](https://open.spotify.com/track/1IM8pNYLNbdbqxHC7Esv8a)
+- [Need My Love by Gostan](https://open.spotify.com/track/3sudNvhgzITpDxr3ExORgp)
+- [Slow Motion by cloudson, Disclaimer](https://open.spotify.com/track/38YLTV1aHvpwwfsvlzUqcr)
+- [Slow Motion by cloudson, Disclaimer](https://open.spotify.com/track/38YLTV1aHvpwwfsvlzUqcr)
+- [Without You by FLX](https://open.spotify.com/track/1mswyTc8AKtbAFYxhJ5lnR)
+- [you&#39;re in my head by Lonely Night, Nody, Ari](https://open.spotify.com/track/3CHQijdhkivZzqqAtA6r8S)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
