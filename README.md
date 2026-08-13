@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Need My Love by Gostan](https://open.spotify.com/track/3sudNvhgzITpDxr3ExORgp)
-- [Slow Motion by cloudson, Disclaimer](https://open.spotify.com/track/38YLTV1aHvpwwfsvlzUqcr)
-- [Slow Motion by cloudson, Disclaimer](https://open.spotify.com/track/38YLTV1aHvpwwfsvlzUqcr)
-- [Without You by FLX](https://open.spotify.com/track/1mswyTc8AKtbAFYxhJ5lnR)
-- [you&#39;re in my head by Lonely Night, Nody, Ari](https://open.spotify.com/track/3CHQijdhkivZzqqAtA6r8S)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [That&#39;s Where I Should Be by MA:RK](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8)
+- [Hurt You by Crunkz](https://open.spotify.com/track/3Gz5qwVrj9mlAMGfdCNO5U)
+- [Where the Sun Goes Down by Badflite, RYVM](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk)
+- [BAD 4 ME - Slowed by Lonelysoul.](https://open.spotify.com/track/0bDly84SDca6DDwJO8TGgL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
