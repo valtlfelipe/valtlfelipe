@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)** - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Pulled Under - Extended Mix by ZOYA](https://open.spotify.com/track/7Ab9Z2Kq0bhlTlJUjrOBJN)
-- [NOT THE LAST TIME by Apostles](https://open.spotify.com/track/3B9EaDPlTbtUb0Uy2kq7vx)
-- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
-- [That&#39;s Where I Should Be by MA:RK](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8)
-- [Hurt You by Crunkz](https://open.spotify.com/track/3Gz5qwVrj9mlAMGfdCNO5U)
+- [Inside My Head by Toby Rose, notes.](https://open.spotify.com/track/5s2ed5fqr4W0DQWAq1Rcwf)
+- [Lost by Maxomar](https://open.spotify.com/track/0O8CNTiKbHeauSkNoSL7xc)
+- [Tell Me Your Name by ZeLeo, N.E.O.N, Di Mora](https://open.spotify.com/track/2YI1dRjdazPXapdOGyoh9C)
+- [Summer Days by Emmit Fenn](https://open.spotify.com/track/14bHw2NS6a0aoMZi7Fbb47)
+- [Favorite Place - Slowed by Ryan Reed](https://open.spotify.com/track/49Z3Z0t1bH4dRAWNT7LaIy)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
