@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)** - The open-source SDK for bringing any agent into any chat platform: Slack, Microsoft Teams, Discord, Telegram - with native, Interactive UI. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Back Road - Radio Edit by KlangAkrobaten](https://open.spotify.com/track/6auDtJou81NV3MjqVzh5cx)
-- [Silhouette by DIMEO](https://open.spotify.com/track/75hRq4235Myhny9O7158Vm)
-- [DEAR DRIVER by NICO](https://open.spotify.com/track/4kttOTS0i0ZYM0gd1iJMCd)
-- [Sway by Walk on Water, Plu2](https://open.spotify.com/track/6aMrIFnPewP7tFTWt0kGIN)
-- [Everything Still by James French](https://open.spotify.com/track/130QyFIefT3wCFRcZhzetQ)
+- [Feeling (Hold On You) by Rules, MURPHY](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt)
+- [Drummin by Benne](https://open.spotify.com/track/4gz1aVl49RbDCtgfR7Px2a)
+- [Feel This by DÏVÄG](https://open.spotify.com/track/3QAAnrgDyRsdBEYNLcJg6Q)
+- [You Said Forever by NM](https://open.spotify.com/track/0Gin2d0Fk3rLBQ29B9AXL2)
+- [Echoes by Mizmo](https://open.spotify.com/track/2TwviHQCmtObcFDawwNgB5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
