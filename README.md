@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)** - The open-source SDK for bringing any agent into any chat platform: Slack, Microsoft Teams, Discord, Telegram - with native, Interactive UI. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [When the Feeling Is Gone by Small Town Kid](https://open.spotify.com/track/5NfXyiFOOApr4DdvGj2wMX)
-- [Pull Me In by Medo](https://open.spotify.com/track/4g5p0EVUtflkSaSTfva5kG)
-- [Need My Love by Gostan](https://open.spotify.com/track/3sudNvhgzITpDxr3ExORgp)
-- [Slow Motion by cloudson, Disclaimer](https://open.spotify.com/track/38YLTV1aHvpwwfsvlzUqcr)
-- [Without You by FLX](https://open.spotify.com/track/1mswyTc8AKtbAFYxhJ5lnR)
+- [I Dream of You by P.A.V](https://open.spotify.com/track/0S93kVjirfAX0chXuHVt6f)
+- [Midnight Fever by Setou &amp; Senyo, Sophia Heart](https://open.spotify.com/track/4Ozn1YW0xWXRwxQMtfp5e2)
+- [Smoke Signals by PRAANA, Susie Ledge](https://open.spotify.com/track/5GSgH4946NB8J6ILn9OjWJ)
+- [Dreaming by YARA](https://open.spotify.com/track/7kGQtQduh366ufKEW4G1Lf)
+- [I&#39;m Letting Go by Nofsky, Sanxez](https://open.spotify.com/track/6febVby16Y4ahEj8EBLRM4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
