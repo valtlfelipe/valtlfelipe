@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)** - The open-source SDK for bringing any agent into any chat platform: Slack, Microsoft Teams, Discord, Telegram - with native, Interactive UI. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Something About You by aiden](https://open.spotify.com/track/6ubF6lLKm11MW758oHvdPV)
-- [Let Me Fall by wrongside, Shiftbach](https://open.spotify.com/track/43k7sslgIN1RU4vPNfBdfV)
-- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
-- [Choose me by Cathleen Kleinert](https://open.spotify.com/track/0kkbThggJteiUSqtHxyhZ6)
-- [Will I Know by MIND](https://open.spotify.com/track/1Y94N1LDOLMDXm3rbus7LL)
+- [Afraid of Love - slowed by TRFN](https://open.spotify.com/track/55WgaSw4OTHMjKaGQcVoyd)
+- [Bring Me Back Again by millforlife](https://open.spotify.com/track/6uD7z63V71o4ef4MeaK5sD)
+- [Look into My Eyes by Massane, Moglii](https://open.spotify.com/track/7I8dFCZqKldByzJVMFLkNZ)
+- [Say My Name by Texture](https://open.spotify.com/track/1Gy8ww0NQnuRoCHt9PKpVp)
+- [In Your Love by Rules](https://open.spotify.com/track/0zP430NOZ4rxY65N61vPZS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
