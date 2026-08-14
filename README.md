@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stagas/textlog](https://github.com/stagas/textlog)** - textlog.cc (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Feel Your Touch by Orum Palmer, Rosbeh](https://open.spotify.com/track/0wqKFzWsbCzhoteau3c5rz)
-- [I‘ll Wait by The First Station](https://open.spotify.com/track/7qH8jGr94yLjlVjWXk2Gph)
-- [Stay With Me by Goldaine](https://open.spotify.com/track/29kBXPajQuohDhDB6WTolW)
-- [Snow Under My Feet by GALAFUNK](https://open.spotify.com/track/1dYhbDWsOTmkdH4VxjynOC)
-- [Beautiful Silence by lone tide](https://open.spotify.com/track/6NBFA2mQj6EEM0aqIpLNIc)
+- [Ocean by AVALAN ROKSTON, Avalan, Rokston](https://open.spotify.com/track/181khkaDyS58392DW47P1t)
+- [Give Me Love by Leu Leu Land](https://open.spotify.com/track/6lvVHgUNx8sIN9j7pIAXY0)
+- [No Love by Canpulse](https://open.spotify.com/track/3vzU3wmL3MWTLAtzaiJEXQ)
+- [ALL RIGhT by Kirr Sounds](https://open.spotify.com/track/6a4HYqUPGIQU0EaI8v166E)
+- [Golden Ticket (runaway) by joki](https://open.spotify.com/track/0RZ5f33yE6l3L8RWIDvnyG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
