@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)** - The open-source SDK for bringing any agent into any chat platform: Slack, Microsoft Teams, Discord, Telegram - with native, Interactive UI. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Back Home by Maxomar](https://open.spotify.com/track/7hCoXJw8VbSnDWb9JZk5UT)
-- [Shards by Small Town Kid](https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV)
-- [ALL OVER ME by Palm Monkey, DALEXO, Dan Hammond, Tom Polo](https://open.spotify.com/track/5vvHb3WYFCcH6Tmm1lEPYR)
-- [don&#39;t need u (i do) - Seismal D Remix by blunn, Seismal D](https://open.spotify.com/track/1ilkab2raFyulFaWKrUkBB)
-- [strong by origins](https://open.spotify.com/track/2WhjGHRDLOCkLzenxrVm2I)
+- [When the Feeling Is Gone by Small Town Kid](https://open.spotify.com/track/5NfXyiFOOApr4DdvGj2wMX)
+- [Pull Me In by Medo](https://open.spotify.com/track/4g5p0EVUtflkSaSTfva5kG)
+- [Need My Love by Gostan](https://open.spotify.com/track/3sudNvhgzITpDxr3ExORgp)
+- [Slow Motion by cloudson, Disclaimer](https://open.spotify.com/track/38YLTV1aHvpwwfsvlzUqcr)
+- [Without You by FLX](https://open.spotify.com/track/1mswyTc8AKtbAFYxhJ5lnR)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
