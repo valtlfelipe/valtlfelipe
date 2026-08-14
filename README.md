@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk)** - The open-source SDK for bringing any agent into any chat platform: Slack, Microsoft Teams, Discord, Telegram - with native, Interactive UI. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Afraid of Love - slowed by TRFN](https://open.spotify.com/track/55WgaSw4OTHMjKaGQcVoyd)
-- [Bring Me Back Again by millforlife](https://open.spotify.com/track/6uD7z63V71o4ef4MeaK5sD)
-- [Look into My Eyes by Massane, Moglii](https://open.spotify.com/track/7I8dFCZqKldByzJVMFLkNZ)
-- [Say My Name by Texture](https://open.spotify.com/track/1Gy8ww0NQnuRoCHt9PKpVp)
-- [In Your Love by Rules](https://open.spotify.com/track/0zP430NOZ4rxY65N61vPZS)
+- [Back Home by Maxomar](https://open.spotify.com/track/7hCoXJw8VbSnDWb9JZk5UT)
+- [Shards by Small Town Kid](https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV)
+- [ALL OVER ME by Palm Monkey, DALEXO, Dan Hammond, Tom Polo](https://open.spotify.com/track/5vvHb3WYFCcH6Tmm1lEPYR)
+- [don&#39;t need u (i do) - Seismal D Remix by blunn, Seismal D](https://open.spotify.com/track/1ilkab2raFyulFaWKrUkBB)
+- [strong by origins](https://open.spotify.com/track/2WhjGHRDLOCkLzenxrVm2I)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
