@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stagas/textlog](https://github.com/stagas/textlog)** - textlog.cc (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Stay With Me by Poul, Matt Strike, Alberto Ciccarini](https://open.spotify.com/track/6BJOwxF5QcOI6Acgn3kERP)
-- [Patience by Areo](https://open.spotify.com/track/2TerB9xwPxZ5OTZnuFlDmb)
-- [Sublime by Firstwave](https://open.spotify.com/track/0o2T56CRKV9hh4RS6PNaVN)
-- [I Try All Night All Night by Houseys](https://open.spotify.com/track/1PHy3v4lIO0w6Vmy1SdEzb)
-- [See My Soul by Lynnic, ItsArius, Courtney Storm](https://open.spotify.com/track/5IDYlNp75toRLVVdaZL8W6)
+- [Feel Your Touch by Orum Palmer, Rosbeh](https://open.spotify.com/track/0wqKFzWsbCzhoteau3c5rz)
+- [I‘ll Wait by The First Station](https://open.spotify.com/track/7qH8jGr94yLjlVjWXk2Gph)
+- [Stay With Me by Goldaine](https://open.spotify.com/track/29kBXPajQuohDhDB6WTolW)
+- [Snow Under My Feet by GALAFUNK](https://open.spotify.com/track/1dYhbDWsOTmkdH4VxjynOC)
+- [Beautiful Silence by lone tide](https://open.spotify.com/track/6NBFA2mQj6EEM0aqIpLNIc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
