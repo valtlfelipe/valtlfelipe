@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stagas/textlog](https://github.com/stagas/textlog)** - textlog.cc (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [homesick by Sonnee](https://open.spotify.com/track/5SBrn7L35d5WU5mpOPsxr4)
-- [homesick by Sonnee](https://open.spotify.com/track/5SBrn7L35d5WU5mpOPsxr4)
-- [homesick by Sonnee](https://open.spotify.com/track/5SBrn7L35d5WU5mpOPsxr4)
-- [Alive by Panuma, LEVII, Nina Carr](https://open.spotify.com/track/7bUXMwRS2x5lfLZCwaYj04)
-- [Around You by Oliver River, Leah Guest](https://open.spotify.com/track/100u3cyuqbQKUl42Qw3Rop)
+- [So Far Away by H:dn](https://open.spotify.com/track/1g0YfxzYh148PaS9gIvA1V)
+- [I Feel The Silence by MVRSON](https://open.spotify.com/track/2r2xhwbcYWlBA7Zw3hQbD9)
+- [Way Too Self Aware by Ian Asher](https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8)
+- [Where U Going by Neon Tide](https://open.spotify.com/track/1O7iikBvD7K0jRXKlQskCx)
+- [Should&#39;ve Been by THAT KIND](https://open.spotify.com/track/2YSVqMtmFuqfl0gMOhD05W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
