@@ -11,9 +11,9 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 
 #### 🎧 Spotify recent tracks
 - [homesick by Sonnee](https://open.spotify.com/track/5SBrn7L35d5WU5mpOPsxr4)
+- [homesick by Sonnee](https://open.spotify.com/track/5SBrn7L35d5WU5mpOPsxr4)
+- [homesick by Sonnee](https://open.spotify.com/track/5SBrn7L35d5WU5mpOPsxr4)
 - [Alive by Panuma, LEVII, Nina Carr](https://open.spotify.com/track/7bUXMwRS2x5lfLZCwaYj04)
 - [Around You by Oliver River, Leah Guest](https://open.spotify.com/track/100u3cyuqbQKUl42Qw3Rop)
-- [I Miss You by ABRO](https://open.spotify.com/track/5OuKzruK4Wd4IVO7iKlMa2)
-- [Breathe Again by Rowland Giles](https://open.spotify.com/track/2shBEj1kq979jtZchMSFnZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
