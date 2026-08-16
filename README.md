@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stagas/textlog](https://github.com/stagas/textlog)** - textlog.cc (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Am I Wrong by Nico &amp; Vinz](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ)
 - [One Dance by Drake, Wizkid, Kyla](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0)
 - [Closer by The Chainsmokers, Halsey](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw)
 - [Riptide by Vance Joy](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm)
 - [Sugar (feat. Francesco Yates) by Robin Schulz, Francesco Yates](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)
-- [Lost on You by LP](https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
