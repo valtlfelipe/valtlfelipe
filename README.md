@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stagas/textlog](https://github.com/stagas/textlog)** - textlog.cc (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Don&#39;t You Worry Child - Radio Edit by Swedish House Mafia, John Martin](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p)
-- [Don&#39;t You Want Me by The Human League](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx)
-- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
-- [So Far Away by H:dn](https://open.spotify.com/track/1g0YfxzYh148PaS9gIvA1V)
-- [I Feel The Silence by MVRSON](https://open.spotify.com/track/2r2xhwbcYWlBA7Zw3hQbD9)
+- [Stay by Zedd, Alessia Cara](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0)
+- [Bring Your Love by Madonna, Sabrina Carpenter](https://open.spotify.com/track/4VozGoqMUNSIn4CT3T1y2c)
+- [Doors by Noah Kahan](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si)
+- [Wake Me Up by Avicii](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2)
+- [Dynamite by Taio Cruz](https://open.spotify.com/track/4lYKuF88iTBrppJoq03ujE)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
