@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stagas/textlog](https://github.com/stagas/textlog)** - textlog.cc (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Don&#39;t You Worry Child - Radio Edit by Swedish House Mafia, John Martin](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p)
+- [Don&#39;t You Want Me by The Human League](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx)
+- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
 - [So Far Away by H:dn](https://open.spotify.com/track/1g0YfxzYh148PaS9gIvA1V)
 - [I Feel The Silence by MVRSON](https://open.spotify.com/track/2r2xhwbcYWlBA7Zw3hQbD9)
-- [Way Too Self Aware by Ian Asher](https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8)
-- [Where U Going by Neon Tide](https://open.spotify.com/track/1O7iikBvD7K0jRXKlQskCx)
-- [Should&#39;ve Been by THAT KIND](https://open.spotify.com/track/2YSVqMtmFuqfl0gMOhD05W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
