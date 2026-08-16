@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[stagas/textlog](https://github.com/stagas/textlog)** - textlog.cc (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Memories (feat. Kid Cudi) by David Guetta, Kid Cudi](https://open.spotify.com/track/7fLzbEOBOae9lUnOwr7Tse)
+- [Golden by HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS)
+- [Bad Habits by Ed Sheeran](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d)
 - [Am I Wrong by Nico &amp; Vinz](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ)
 - [One Dance by Drake, Wizkid, Kyla](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0)
-- [Closer by The Chainsmokers, Halsey](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw)
-- [Riptide by Vance Joy](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm)
-- [Sugar (feat. Francesco Yates) by Robin Schulz, Francesco Yates](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
