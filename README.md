@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Found You by Amarasco](https://open.spotify.com/track/2KkbWBx74DCp369VUaUBrl)
-- [Falling Backwards by May Zoean](https://open.spotify.com/track/224ilKqyt2UqsoIlVBXnSA)
-- [This High - Slowed by Lonelysoul.](https://open.spotify.com/track/0GpB5dKgeo1yu9nR3A70OK)
-- [Out of the Blue by Youngr, Samuel Miller](https://open.spotify.com/track/6A03CSx08EOVrRjH86iKA4)
-- [Need You Now by Mickey Kojak](https://open.spotify.com/track/5UXZxgLqFDz3lIzSdNUtpV)
+- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
+- [Cope by LUDVIC, Ariel](https://open.spotify.com/track/6xbI9ootXktqz7EopTjgDV)
+- [Together 4 Life by Duke Voss](https://open.spotify.com/track/2ppnSYNPtG3wNFYfCC7HIM)
+- [been gone too long.. by natt3ravn](https://open.spotify.com/track/0bH098f8yP931jhGATqKax)
+- [Misery - Slowed by Lonelysoul.](https://open.spotify.com/track/1o1RJRp7JGwQGujgVcNvBg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
