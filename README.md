@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
-- [Cope by LUDVIC, Ariel](https://open.spotify.com/track/6xbI9ootXktqz7EopTjgDV)
-- [Together 4 Life by Duke Voss](https://open.spotify.com/track/2ppnSYNPtG3wNFYfCC7HIM)
-- [been gone too long.. by natt3ravn](https://open.spotify.com/track/0bH098f8yP931jhGATqKax)
-- [Misery - Slowed by Lonelysoul.](https://open.spotify.com/track/1o1RJRp7JGwQGujgVcNvBg)
+- [Keep On Running by Mizmo](https://open.spotify.com/track/0TrdlBrywTOuG4r8ZpIpJB)
+- [Alone Without You by Palm Skies](https://open.spotify.com/track/3KxgbjcbbY1sjUlGM7zG8q)
+- [the morning by kalm](https://open.spotify.com/track/3Hz9J3MMt7o8mdLDjEykeO)
+- [Remember This by Gl:ow](https://open.spotify.com/track/4AUaCj1mkaHBD69DJX4xrB)
+- [I Choose You (Day) by Small Town Kid](https://open.spotify.com/track/0DMN20vmSMsZ8OWNxr6eGG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
