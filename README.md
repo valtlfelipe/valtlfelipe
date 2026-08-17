@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Keep On Running by Mizmo](https://open.spotify.com/track/0TrdlBrywTOuG4r8ZpIpJB)
-- [Alone Without You by Palm Skies](https://open.spotify.com/track/3KxgbjcbbY1sjUlGM7zG8q)
-- [the morning by kalm](https://open.spotify.com/track/3Hz9J3MMt7o8mdLDjEykeO)
-- [Remember This by Gl:ow](https://open.spotify.com/track/4AUaCj1mkaHBD69DJX4xrB)
-- [I Choose You (Day) by Small Town Kid](https://open.spotify.com/track/0DMN20vmSMsZ8OWNxr6eGG)
+- [Held by the air by VS Prjct](https://open.spotify.com/track/1uT6QhkTiPiuhTnlnttekX)
+- [Bullet by Modern Tales](https://open.spotify.com/track/0T7tmHtBP6KYhdb4B9c8Az)
+- [All Night Long by HUANI](https://open.spotify.com/track/4opMvQeAxlyEuBrg7dT9tW)
+- [In My Arms by Toby Romeo, Loek, VisionV](https://open.spotify.com/track/0gLiRG0XZqvdaRZCxMk79Q)
+- [U&amp;ME by Poul, Matt Strike, Alberto Ciccarini](https://open.spotify.com/track/3SlSee1LmzEMTRepbbAyer)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
