@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Held by the air by VS Prjct](https://open.spotify.com/track/1uT6QhkTiPiuhTnlnttekX)
-- [Bullet by Modern Tales](https://open.spotify.com/track/0T7tmHtBP6KYhdb4B9c8Az)
-- [All Night Long by HUANI](https://open.spotify.com/track/4opMvQeAxlyEuBrg7dT9tW)
-- [In My Arms by Toby Romeo, Loek, VisionV](https://open.spotify.com/track/0gLiRG0XZqvdaRZCxMk79Q)
-- [U&amp;ME by Poul, Matt Strike, Alberto Ciccarini](https://open.spotify.com/track/3SlSee1LmzEMTRepbbAyer)
+- [I Still Reach by Spoke](https://open.spotify.com/track/3MSV76UFOfKrzBm3qQsGSW)
+- [Frozen by Why U So](https://open.spotify.com/track/3SRWjOKVuwnN9mubNT6qkB)
+- [Loud &amp; Clear by Lonelysoul.](https://open.spotify.com/track/3gM1Bzm7dhfsKnWoaRo16e)
+- [Do You Love Me by LUDVIC, Keano Lee](https://open.spotify.com/track/49LuESnApiXMB2gElgOtT7)
+- [thinking about u by soya.](https://open.spotify.com/track/2jVHLcfvkb7fr45MEMikdF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
