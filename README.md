@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)** - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [EYES by RUSSI](https://open.spotify.com/track/4hC6vZO3aw9SlsmMboQVJE)
+- [Stay A Little Longer by Toby Rose](https://open.spotify.com/track/3HsMvw2ggleK5ms1CYpqh1)
+- [You Give Me by NGTY](https://open.spotify.com/track/5tWsOjYlPpqZJ3V4UPQSPW)
+- [Kancane by Walk on Water, OMERGY](https://open.spotify.com/track/1vw0T7Hp8ebFO4PI8DQxKf)
 - [Give Me Feeling by bahkin](https://open.spotify.com/track/1xkr1Anovoz5mwsMv2bW8s)
-- [This Time by Small Town Kid](https://open.spotify.com/track/4sGHk5VvL7XlYICcyhkCtX)
-- [Say My Name by Malia](https://open.spotify.com/track/6mTS81OArWBYP83IXOFoiK)
-- [Ibiza &#39;99 by Lucas Estrada, Tobtok](https://open.spotify.com/track/1prOU1bCWZIjiG7cjkrvm9)
-- [Tokyo by Tony Dark Eyes](https://open.spotify.com/track/7ChfmX1q654c3soBsR3nRV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
