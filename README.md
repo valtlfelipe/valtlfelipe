@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Wish I Never Came To This Party by Fer Rivero](https://open.spotify.com/track/2OmIbBktVYc7H9G7ANNWOn)
-- [Westside by Tony Dark Eyes, Drumboi](https://open.spotify.com/track/3IaJXqOGLdxq6e1IOAM9l4)
-- [My Mind by SANDROS](https://open.spotify.com/track/4vy9vVTJAgSpo06JIBarIp)
-- [Emotional by Toby Rose, One Trick Pony](https://open.spotify.com/track/7os0LJZsE7hKFF3RO8vzoN)
-- [Loving you is fun by XooFa](https://open.spotify.com/track/4HkUQaDJqUJ23IAYcM1STc)
+- [Make Me Feel by Paccu, PLVTO](https://open.spotify.com/track/0RvQR6ajC3w1lMKrxpGVXi)
+- [Border Line by LUDVIC, Keano Lee](https://open.spotify.com/track/0NQnzsiIJpTk2lzRci3stE)
+- [Drifting Away by NONSENSE](https://open.spotify.com/track/0jX33R7K2ym7AEviRKV5ac)
+- [find my way by ReMan](https://open.spotify.com/track/7tsJERBIFsV512EKIlgwAd)
+- [Northside by Ferreira](https://open.spotify.com/track/7mfeVBQKEVY8ohs7zOL3Ur)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
