@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)** - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [RUNNIN - Extended Mix by Ubo](https://open.spotify.com/track/2kd3DGqENzz3nZ8QY79H66)
-- [Bought for 2 by 4Rain](https://open.spotify.com/track/0Wfz9c01uyYVFmOHIDqhGZ)
-- [Another Day by ODNP](https://open.spotify.com/track/4F5sDb9BCxXt3L5yw8posV)
-- [That&#39;s a vibe by Bienk](https://open.spotify.com/track/4T40ErDjiqh5S1I8Igiupv)
-- [Down So Bad by Given Peace](https://open.spotify.com/track/2t0fUNZzA8hzIy8GbeCyxl)
+- [Give Me Feeling by bahkin](https://open.spotify.com/track/1xkr1Anovoz5mwsMv2bW8s)
+- [This Time by Small Town Kid](https://open.spotify.com/track/4sGHk5VvL7XlYICcyhkCtX)
+- [Say My Name by Malia](https://open.spotify.com/track/6mTS81OArWBYP83IXOFoiK)
+- [Ibiza &#39;99 by Lucas Estrada, Tobtok](https://open.spotify.com/track/1prOU1bCWZIjiG7cjkrvm9)
+- [Tokyo by Tony Dark Eyes](https://open.spotify.com/track/7ChfmX1q654c3soBsR3nRV)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
