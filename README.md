@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Deep End - VIP Mix by Kyllow](https://open.spotify.com/track/7GoLmjx7RrPZYm5N7uHows)
-- [Cure Desire by 4Rain](https://open.spotify.com/track/614NW8ScrhaHnWt7Zi6JfO)
-- [side by side by drill clinton](https://open.spotify.com/track/4RFP3Wz2SxcK8Ngy6m8TUH)
-- [Give It Up by Auréo](https://open.spotify.com/track/7pcoUvAQoHPn9eHwyIaDK1)
-- [Never Cared Enough by PhatAdam](https://open.spotify.com/track/1hIW1eyehVfUVQCr6hMC0l)
+- [Wish I Never Came To This Party by Fer Rivero](https://open.spotify.com/track/2OmIbBktVYc7H9G7ANNWOn)
+- [Westside by Tony Dark Eyes, Drumboi](https://open.spotify.com/track/3IaJXqOGLdxq6e1IOAM9l4)
+- [My Mind by SANDROS](https://open.spotify.com/track/4vy9vVTJAgSpo06JIBarIp)
+- [Emotional by Toby Rose, One Trick Pony](https://open.spotify.com/track/7os0LJZsE7hKFF3RO8vzoN)
+- [Loving you is fun by XooFa](https://open.spotify.com/track/4HkUQaDJqUJ23IAYcM1STc)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
