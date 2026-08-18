@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups)** (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Still Reach by Spoke](https://open.spotify.com/track/3MSV76UFOfKrzBm3qQsGSW)
-- [Frozen by Why U So](https://open.spotify.com/track/3SRWjOKVuwnN9mubNT6qkB)
-- [Loud &amp; Clear by Lonelysoul.](https://open.spotify.com/track/3gM1Bzm7dhfsKnWoaRo16e)
-- [Do You Love Me by LUDVIC, Keano Lee](https://open.spotify.com/track/49LuESnApiXMB2gElgOtT7)
-- [thinking about u by soya.](https://open.spotify.com/track/2jVHLcfvkb7fr45MEMikdF)
+- [Deep End - VIP Mix by Kyllow](https://open.spotify.com/track/7GoLmjx7RrPZYm5N7uHows)
+- [Cure Desire by 4Rain](https://open.spotify.com/track/614NW8ScrhaHnWt7Zi6JfO)
+- [side by side by drill clinton](https://open.spotify.com/track/4RFP3Wz2SxcK8Ngy6m8TUH)
+- [Give It Up by Auréo](https://open.spotify.com/track/7pcoUvAQoHPn9eHwyIaDK1)
+- [Never Cared Enough by PhatAdam](https://open.spotify.com/track/1hIW1eyehVfUVQCr6hMC0l)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
