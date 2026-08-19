@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[b451c/quickmd](https://github.com/b451c/quickmd)** - Lightning-fast native macOS Markdown viewer. Opens .md files instantly: live preview with your editor, GitHub alerts, LaTeX math, Mermaid diagrams, themes and fonts, reading mode, vector PDF export, per-window zoom. SwiftUI &#43; AppKit, zero dependencies. Free on the Mac App Store and Homebrew. (today)
 
 #### 🎧 Spotify recent tracks
-- [DIDN&#39;T WE? by NICO](https://open.spotify.com/track/6ZrnPmBBCMQefd68M36wnJ)
-- [Give In by MIND](https://open.spotify.com/track/3wP52QOzRDhXbgkcdt2qd8)
-- [Up and Down by JFMEE](https://open.spotify.com/track/5p5uEjovOqExcTs9GHf3UA)
-- [Lose My Mind by deep dispatch, MISERO, ourstead](https://open.spotify.com/track/7sOs9RwDAa4rvonGNxJiEy)
-- [Loud &amp; Clear - Slowed by Lonelysoul.](https://open.spotify.com/track/2hHZ6sGiMuwnqtkITASdJD)
+- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
+- [Body by Nathan C, Lilly Ahlberg](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [Forgiven by Baywood](https://open.spotify.com/track/3uVW7KhJPhfAHDZHB8Zkq2)
+- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
