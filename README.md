@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[b451c/quickmd](https://github.com/b451c/quickmd)** - Lightning-fast native macOS Markdown viewer. Opens .md files instantly: live preview with your editor, GitHub alerts, LaTeX math, Mermaid diagrams, themes and fonts, reading mode, vector PDF export, per-window zoom. SwiftUI &#43; AppKit, zero dependencies. Free on the Mac App Store and Homebrew. (today)
 
 #### 🎧 Spotify recent tracks
-- [Out of the Blue by Youngr, Samuel Miller](https://open.spotify.com/track/6A03CSx08EOVrRjH86iKA4)
-- [Need You Now by Mickey Kojak](https://open.spotify.com/track/5UXZxgLqFDz3lIzSdNUtpV)
-- [Make Me Feel by Paccu, PLVTO](https://open.spotify.com/track/0RvQR6ajC3w1lMKrxpGVXi)
-- [Border Line by LUDVIC, Keano Lee](https://open.spotify.com/track/0NQnzsiIJpTk2lzRci3stE)
-- [find my way by ReMan](https://open.spotify.com/track/7tsJERBIFsV512EKIlgwAd)
+- [DIDN&#39;T WE? by NICO](https://open.spotify.com/track/6ZrnPmBBCMQefd68M36wnJ)
+- [Give In by MIND](https://open.spotify.com/track/3wP52QOzRDhXbgkcdt2qd8)
+- [Up and Down by JFMEE](https://open.spotify.com/track/5p5uEjovOqExcTs9GHf3UA)
+- [Lose My Mind by deep dispatch, MISERO, ourstead](https://open.spotify.com/track/7sOs9RwDAa4rvonGNxJiEy)
+- [Loud &amp; Clear - Slowed by Lonelysoul.](https://open.spotify.com/track/2hHZ6sGiMuwnqtkITASdJD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
