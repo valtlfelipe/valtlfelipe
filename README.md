@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Mazes - Radio Edit by ERASR](https://open.spotify.com/track/0CYtc3574FIuPn2ksYmHh5)
+- [In Reverse by Daydream Affiliate](https://open.spotify.com/track/2ofN43JfvYu5zusgRGeBYL)
 - [Breaking the chain by Goldenboii](https://open.spotify.com/track/2DHzQtjTMSPtXkkAbYIGOY)
 - [If We Could Fly by Summer Is Calling, Soul Dhamma](https://open.spotify.com/track/0brU2fcfFmjjAu0nvi0ThF)
 - [Keep It Simple by Jend](https://open.spotify.com/track/3bH6Lu3YbcsR5DRSEX9xW1)
-- [A New Day by Last Sun](https://open.spotify.com/track/31fZfc1lTDEFkYVKc1Y1NG)
-- [BAD 4 ME - Slowed by Lonelysoul.](https://open.spotify.com/track/0bDly84SDca6DDwJO8TGgL)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
