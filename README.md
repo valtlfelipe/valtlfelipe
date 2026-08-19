@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Mazes - Radio Edit by ERASR](https://open.spotify.com/track/0CYtc3574FIuPn2ksYmHh5)
-- [In Reverse by Daydream Affiliate](https://open.spotify.com/track/2ofN43JfvYu5zusgRGeBYL)
-- [Breaking the chain by Goldenboii](https://open.spotify.com/track/2DHzQtjTMSPtXkkAbYIGOY)
-- [If We Could Fly by Summer Is Calling, Soul Dhamma](https://open.spotify.com/track/0brU2fcfFmjjAu0nvi0ThF)
-- [Keep It Simple by Jend](https://open.spotify.com/track/3bH6Lu3YbcsR5DRSEX9xW1)
+- [Look into My Eyes by Massane, Moglii](https://open.spotify.com/track/7I8dFCZqKldByzJVMFLkNZ)
+- [Too Far by LUDVIC, Keano Lee](https://open.spotify.com/track/7L159DdsXNwag94E01FIqK)
+- [Need Your Love by YARA](https://open.spotify.com/track/2dRzO7tqVBegi8kkBauwZa)
+- [Calling Me by Jorden Dux, Contraband](https://open.spotify.com/track/4MATYs49PhllymjaNSwAlt)
+- [view by overtones](https://open.spotify.com/track/2cWsY2Ot8u5bMxvYIdc9OP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
