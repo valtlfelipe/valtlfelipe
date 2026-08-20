@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[s1m4ne/typora-theme-notion-style](https://github.com/s1m4ne/typora-theme-notion-style)** - A Typora theme that faithfully recreates the Notion aesthetic. Minimal, elegant, and fully customizable. 📝✨ (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [I Don&#39;t Wanna Wait by David Guetta, OneRepublic](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)
-- [Something Real by Nu Aspect](https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8)
-- [Illusion by Dua Lipa](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0)
-- [Relax by Lucas Estrada, RUSSI](https://open.spotify.com/track/44pZkPB6WR1uLcRqtdE6yS)
-- [Afraid of Love by TRFN](https://open.spotify.com/track/2QXGjlumzUHO2vzMYJefBg)
+- [Left / Right by ROYA](https://open.spotify.com/track/6Cbk7em8ECA5xUxbglKU3S)
+- [Can&#39;t Get You out of My Head by Kylie Minogue](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7)
+- [Love Me - Sped Up by MOTU, BLEND](https://open.spotify.com/track/5YZDiZtBHIeXR8jKlPUMrk)
+- [Orla by nimino](https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9)
+- [Loop by Jerri](https://open.spotify.com/track/5yBASTAFuW1Qtpd3ZKCjPp)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
