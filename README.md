@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[s1m4ne/typora-theme-notion-style](https://github.com/s1m4ne/typora-theme-notion-style)** - A Typora theme that faithfully recreates the Notion aesthetic. Minimal, elegant, and fully customizable. 📝✨ (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Left / Right by ROYA](https://open.spotify.com/track/6Cbk7em8ECA5xUxbglKU3S)
-- [Can&#39;t Get You out of My Head by Kylie Minogue](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7)
-- [Love Me - Sped Up by MOTU, BLEND](https://open.spotify.com/track/5YZDiZtBHIeXR8jKlPUMrk)
-- [Orla by nimino](https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9)
-- [Loop by Jerri](https://open.spotify.com/track/5yBASTAFuW1Qtpd3ZKCjPp)
+- [FEEL THE RUSH by Valentino](https://open.spotify.com/track/3qUGzjhmCqTrzEbxLiEt25)
+- [STAY by LUMA](https://open.spotify.com/track/0I8IKx1WhmNGL0HHmrJs59)
+- [Walking Away - Super Slowed by cloudson](https://open.spotify.com/track/1tRrI50ci47zk34GaQtR8p)
+- [Should&#39;ve Been by THAT KIND](https://open.spotify.com/track/2YSVqMtmFuqfl0gMOhD05W)
+- [In the Night by SOULO](https://open.spotify.com/track/6sfV0cNfOrc8waj4nsmCzx)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
