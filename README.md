@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[s1m4ne/typora-theme-notion-style](https://github.com/s1m4ne/typora-theme-notion-style)** - A Typora theme that faithfully recreates the Notion aesthetic. Minimal, elegant, and fully customizable. 📝✨ (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Falling for the Feeling by MIND](https://open.spotify.com/track/5GnkqqWGbPZLp1T2l0PZO8)
-- [Under The Influence by Gill Baits](https://open.spotify.com/track/50b7ZSJhtDYxiKGWVa3QbJ)
-- [Was It Even Real by Piece Wise, Eijk](https://open.spotify.com/track/2NEWBybTTWrEvb7NDhCF8s)
-- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
-- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [sunrise by maaple](https://open.spotify.com/track/7pAVbYhZhbyOfkntp9tgub)
+- [out of my head by James Marley](https://open.spotify.com/track/6ZVyZMTrk24uBnq104ajGk)
+- [A K I R A Scent of Rain by BABEL](https://open.spotify.com/track/4ZTs63xl9VpzCPYXDQhPgj)
+- [Cruise - Extended by ROYA](https://open.spotify.com/track/0kGopqxMN8N3wzcnbb6cvB)
+- [rewind by zone](https://open.spotify.com/track/5obOkkDaBhE3UfrfeM8V6G)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
