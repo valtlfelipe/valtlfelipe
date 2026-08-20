@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[s1m4ne/typora-theme-notion-style](https://github.com/s1m4ne/typora-theme-notion-style)** - A Typora theme that faithfully recreates the Notion aesthetic. Minimal, elegant, and fully customizable. 📝✨ (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Falling (D&#39;Opera) by ROYA](https://open.spotify.com/track/3xh3vEtbV8AVFpWKqfK3b7)
-- [u know by civilian](https://open.spotify.com/track/3LyKxa3LA1WLi2qtLbCIMj)
-- [Say My Name by Texture](https://open.spotify.com/track/1Gy8ww0NQnuRoCHt9PKpVp)
-- [On My Mind by B-Rain, DEFREEZE, Erick Gardina](https://open.spotify.com/track/5OdDSxyEIJi5r5tgdcAVOo)
-- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
+- [Addicted by Zerb, The Chainsmokers, Ink](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM)
+- [Deep End - VIP Mix by Kyllow](https://open.spotify.com/track/7GoLmjx7RrPZYm5N7uHows)
+- [Drink, Until I&#39;m Blind by Vibe Chemistry](https://open.spotify.com/track/2QWAPAdHHkNszGxHViLyxy)
+- [Feel It by Amarasco](https://open.spotify.com/track/0ncPygGY5iB7nuJklzmyb5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
