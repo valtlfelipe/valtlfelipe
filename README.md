@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[s1m4ne/typora-theme-notion-style](https://github.com/s1m4ne/typora-theme-notion-style)** - A Typora theme that faithfully recreates the Notion aesthetic. Minimal, elegant, and fully customizable. 📝✨ (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [FEEL THE RUSH by Valentino](https://open.spotify.com/track/3qUGzjhmCqTrzEbxLiEt25)
-- [STAY by LUMA](https://open.spotify.com/track/0I8IKx1WhmNGL0HHmrJs59)
-- [Walking Away - Super Slowed by cloudson](https://open.spotify.com/track/1tRrI50ci47zk34GaQtR8p)
-- [Should&#39;ve Been by THAT KIND](https://open.spotify.com/track/2YSVqMtmFuqfl0gMOhD05W)
-- [In the Night by SOULO](https://open.spotify.com/track/6sfV0cNfOrc8waj4nsmCzx)
+- [Falling (D&#39;Opera) by ROYA](https://open.spotify.com/track/3xh3vEtbV8AVFpWKqfK3b7)
+- [u know by civilian](https://open.spotify.com/track/3LyKxa3LA1WLi2qtLbCIMj)
+- [Say My Name by Texture](https://open.spotify.com/track/1Gy8ww0NQnuRoCHt9PKpVp)
+- [On My Mind by B-Rain, DEFREEZE, Erick Gardina](https://open.spotify.com/track/5OdDSxyEIJi5r5tgdcAVOo)
+- [Call on Me - Radio Mix by Eric Prydz](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
