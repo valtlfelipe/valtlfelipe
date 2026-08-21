@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[crynta/terax-ai](https://github.com/crynta/terax-ai)** - Lightweight (7MB) Terminal-first AI-native dev workspace (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Man I Need by Olivia Dean](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX)
-- [My Body Isn&#39;t Ready by sombr](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0)
-- [JUMP by BLACKPINK](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY)
-- [Heaven Baby (feat. ZAYN) by Ayra Starr, ZAYN](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24)
-- [Still by KAROL G, Bruno Mars](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF)
+- [Ain&#39;t In LA by ADÉLA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj)
+- [Kingdom of Fear by Cameron Whitcomb](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W)
+- [petal by Ariana Grande](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e)
+- [SWIM by BTS](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St)
+- [Less than a Lover by JENNIE](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
