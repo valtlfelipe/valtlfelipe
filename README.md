@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[crynta/terax-ai](https://github.com/crynta/terax-ai)** - Lightweight (7MB) Terminal-first AI-native dev workspace (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Hit the Wall by Gracie Abrams](https://open.spotify.com/track/61Oyg0lrAOMjBpEStqfOZ1)
-- [brand new chanel$ by Slayyyter](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2)
-- [Talk To Me, Zara by Robyn, Zara Larsson](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk)
-- [Animal by KATSEYE](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX)
-- [Repeat It by Martin Garrix, Ed Sheeran](https://open.spotify.com/track/6TWWauThn6z8xOFpG4XF3O)
+- [Zone (feat. Poppy Baskcomb) by MK, Poppy Baskcomb](https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr)
+- [Million Things by Tommy Phillips](https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm)
+- [(It Goes Like) Nanana - Edit by Peggy Gou](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w)
+- [Shinjuku by Franky Rizardo](https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS)
+- [Fire Fire by Shimza, AR/CO, Kasango](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
