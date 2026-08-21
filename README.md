@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[crynta/terax-ai](https://github.com/crynta/terax-ai)** - Lightweight (7MB) Terminal-first AI-native dev workspace (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Homewrecker by sombr](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z)
-- [WHERE IS MY HUSBAND! by RAYE](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm)
-- [Dai Dai by Shakira, Burna Boy](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL)
-- [Sad Girls by Bebe Rexha, David Guetta](https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot)
-- [Mr. Know It All by Teddy Swims](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ)
+- [Man I Need by Olivia Dean](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX)
+- [My Body Isn&#39;t Ready by sombr](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0)
+- [JUMP by BLACKPINK](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY)
+- [Heaven Baby (feat. ZAYN) by Ayra Starr, ZAYN](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24)
+- [Still by KAROL G, Bruno Mars](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
