@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Hurt You by Crunkz](https://open.spotify.com/track/3Gz5qwVrj9mlAMGfdCNO5U)
-- [Over My Head by Jay Dixie, Julia Temos](https://open.spotify.com/track/4AUIoz43CnSOrutHwQP6gv)
-- [Open Your Eyes by NOVA](https://open.spotify.com/track/2CeQJHAJ18OWobKhppSEIK)
-- [Dream Of You by Nate VanDeusen, Horbatso](https://open.spotify.com/track/0wBnQbF6gQIPHYsj182yn2)
-- [Lost by azvre](https://open.spotify.com/track/6cDPP3Ha3UYjfMzupm3F56)
+- [Together Forever by Francesco Diaz, All Purple](https://open.spotify.com/track/544Bucipt0RU5MhcgAsmFe)
+- [Rein Me In by VIZ1ON, E.CHO](https://open.spotify.com/track/5KjwZ00FnN1zhZ8xkmSRlF)
+- [should&#39;ve never loved you by no regrets](https://open.spotify.com/track/3dlNmJS09ksZN719Eizlx6)
+- [wild rides by daylight](https://open.spotify.com/track/7yT0jKXViTgeDuoKhyRI8j)
+- [Looking (For You) by Lucas Estrada, Tobtok](https://open.spotify.com/track/5EhBdWlhg4Kkq8G2tX4ySH)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
