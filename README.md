@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Under The Palm Trees by Lenji](https://open.spotify.com/track/6Mfm8gAnDmRJeihuGdgeql)
-- [Moments by Jonasu](https://open.spotify.com/track/5EoMla2mo7y8giouJncu1f)
-- [Summer Jam by DJ Dark, Nina](https://open.spotify.com/track/4MS8arbn5hKtJbTlNuE5BH)
-- [On A Wave by East End Dubs, Jazzy](https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6)
-- [Baby by Prospa, Murda Beatz](https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3)
+- [Hurt You by Crunkz](https://open.spotify.com/track/3Gz5qwVrj9mlAMGfdCNO5U)
+- [Over My Head by Jay Dixie, Julia Temos](https://open.spotify.com/track/4AUIoz43CnSOrutHwQP6gv)
+- [Open Your Eyes by NOVA](https://open.spotify.com/track/2CeQJHAJ18OWobKhppSEIK)
+- [Dream Of You by Nate VanDeusen, Horbatso](https://open.spotify.com/track/0wBnQbF6gQIPHYsj182yn2)
+- [Lost by azvre](https://open.spotify.com/track/6cDPP3Ha3UYjfMzupm3F56)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
