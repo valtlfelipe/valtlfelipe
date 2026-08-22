@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Together Forever by Francesco Diaz, All Purple](https://open.spotify.com/track/544Bucipt0RU5MhcgAsmFe)
-- [Rein Me In by VIZ1ON, E.CHO](https://open.spotify.com/track/5KjwZ00FnN1zhZ8xkmSRlF)
-- [should&#39;ve never loved you by no regrets](https://open.spotify.com/track/3dlNmJS09ksZN719Eizlx6)
-- [wild rides by daylight](https://open.spotify.com/track/7yT0jKXViTgeDuoKhyRI8j)
-- [Looking (For You) by Lucas Estrada, Tobtok](https://open.spotify.com/track/5EhBdWlhg4Kkq8G2tX4ySH)
+- [We Can Go by Malia](https://open.spotify.com/track/5IIpu7uNLJLzIgNOvassyJ)
+- [One Last Time - KC Lights Remix by THAT KIND, KC Lights](https://open.spotify.com/track/66c9Ncu9bDceF1cWlQaB8R)
+- [Love Me With A Like by Liam Conner](https://open.spotify.com/track/65SHHgqjumtnqu8jq5Pufr)
+- [WASTED by Naarly, Major League Djz](https://open.spotify.com/track/7ASaOgydeaBSrcSQbeXeBB)
+- [Apple Trees by Toby Rose, One Trick Pony](https://open.spotify.com/track/37ocmvUgGIv1LiNVYkCx6s)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
