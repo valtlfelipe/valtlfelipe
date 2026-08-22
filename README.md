@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Side To Side by nate band](https://open.spotify.com/track/5oWdQV5ydvmB4uwDgJrDov)
-- [2 Much by Heretixx, Ricki Ayela, Johnny](https://open.spotify.com/track/65ZeBaEFit352oXIeb7RJu)
-- [With You by VisionV, Loek, LORYN](https://open.spotify.com/track/7A5keFQ4h09H7lexVWR8Wt)
-- [Over My Head by Jay Dixie, Julia Temos](https://open.spotify.com/track/4AUIoz43CnSOrutHwQP6gv)
-- [I didn&#39;t know by solitude.](https://open.spotify.com/track/1MT6GAwrJHfz3X3lRF8E7x)
+- [Crazy by Myles Lloyd, BUNT.](https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF)
+- [Hold Me Closer by MYND](https://open.spotify.com/track/51aXZtCGuTRQ0iDKjR7LMO)
+- [endgame by PET3RPUNX](https://open.spotify.com/track/02vn6KSjjHVVGIYfdv6zh3)
+- [Way Too Self Aware by Ian Asher](https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8)
+- [Back Home by Maxomar](https://open.spotify.com/track/7hCoXJw8VbSnDWb9JZk5UT)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
