@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The Middle by Zedd, Maren Morris, Grey](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc)
-- [Wrecking Ball by Miley Cyrus](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE)
-- [So Easy (To Fall In Love) by Olivia Dean](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397)
-- [So Easy (To Fall In Love) by Olivia Dean](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397)
-- [Girls Just Want to Have Fun by Cyndi Lauper](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe)
+- [Azizam by Ed Sheeran](https://open.spotify.com/track/0sCvjs8IVBhxXVhg7jQemt)
+- [We Don&#39;t Talk Anymore (feat. Selena Gomez) by Charlie Puth, Selena Gomez](https://open.spotify.com/track/54PbBpquVfhfrwRwvjSXbI)
+- [Someone To You by BANNERS](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr)
+- [The Scientist by Coldplay](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle)
+- [Circles by Post Malone](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
