@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [I&#39;m Yours by Jason Mraz](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA)
-- [Stay by Rihanna, Mikky Ekko](https://open.spotify.com/track/2Yy0FsAV2I5VXU4xpph2WN)
-- [What Was I Made For? [From The Motion Picture &#34;Barbie&#34;] by Billie Eilish](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q)
-- [Back To Black by Amy Winehouse](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH)
-- [Unstoppable by Sia](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS)
+- [Teenage Dream by Katy Perry](https://open.spotify.com/track/6r1ygpKNXg7deq18rzyM7F)
+- [Somebody That I Used To Know by Gotye, Kimbra](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7)
+- [Stronger (What Doesn&#39;t Kill You) by Kelly Clarkson](https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP)
+- [Try by P!nk](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0)
+- [I Don’t Wanna Live Forever (Fifty Shades Darker) by ZAYN, Taylor Swift](https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
