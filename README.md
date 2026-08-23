@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [I&#39;m Yours by Jason Mraz](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA)
 - [Stay by Rihanna, Mikky Ekko](https://open.spotify.com/track/2Yy0FsAV2I5VXU4xpph2WN)
 - [What Was I Made For? [From The Motion Picture &#34;Barbie&#34;] by Billie Eilish](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q)
 - [Back To Black by Amy Winehouse](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH)
 - [Unstoppable by Sia](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS)
-- [I Had Some Help (Feat. Morgan Wallen) by Post Malone, Morgan Wallen](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
