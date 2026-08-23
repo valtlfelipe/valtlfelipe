@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Fast Car by Luke Combs](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT)
+- [Lil Boo Thang by Paul Russell](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3)
 - [Best Day Of My Life by American Authors](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP)
 - [Chasing Cars by Snow Patrol](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6)
 - [Chasing Cars by Snow Patrol](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6)
-- [Take Me To Church by Hozier](https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI)
-- [Girl on Fire by Alicia Keys](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
