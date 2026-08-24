@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
-- [Can I call you mine? by Goldenboii](https://open.spotify.com/track/0rcAzOfU9e3IQfeX3n9TW8)
-- [Never Leave You Alone by Alexander Nate](https://open.spotify.com/track/2IoOborYsf5DydijWcBbMr)
-- [Broken Heart - Slowed by ATALE, Lion](https://open.spotify.com/track/1ViYIjNklmlHInZdugRVvG)
-- [ALL I WANT by RUSSI, DIMEO](https://open.spotify.com/track/02wO4F7YkNy6GUnNmgxMh7)
+- [I Feel You by INOMA](https://open.spotify.com/track/5u5Ea1NITcb7pw8otRodyK)
+- [When I&#39;m into You by GOBAITH](https://open.spotify.com/track/0vbey7UHmq5YAzMN9TLB6i)
+- [Still Be There (feat. Josh Tobias) by Tim Hughes, Josh Tobias](https://open.spotify.com/track/0AjLqMYDsBjpVIeWLoiG9x)
+- [Would You Run Away? by DALEXO](https://open.spotify.com/track/4rJsKmFWJliM8rLCfjPGuu)
+- [Echoes by Mizmo](https://open.spotify.com/track/2TwviHQCmtObcFDawwNgB5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
