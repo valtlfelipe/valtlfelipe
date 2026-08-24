@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Misery by Lonelysoul.](https://open.spotify.com/track/35YFuX9UFXTeihRCIRFFwi)
-- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
-- [The World Slows Down by NOVEMBER KID](https://open.spotify.com/track/29hajMCDyDKUxcex3p927H)
-- [Forever by Lushhh](https://open.spotify.com/track/7B2QhgDlu7NBHiX65PmlNV)
-- [7 days a week by Mia Miles](https://open.spotify.com/track/2JH74oQ2yysIWyN2gXfngy)
+- [What it feels like by Goldenboii](https://open.spotify.com/track/78mX1HglEPdK765APwM2TX)
+- [HEADED ON by Walk on Water, ANELOS](https://open.spotify.com/track/2Sqf66WmYDXcz1n4kNjO2C)
+- [Miss U by Fernweh Collective](https://open.spotify.com/track/5uDgOfWZ0WLM6cpTsCy8ni)
+- [One More Night by Kemkila](https://open.spotify.com/track/5yXquxi7EwzXGcMY5ADYxh)
+- [Take What You Want by vidi roca, Nomadique, Naelii](https://open.spotify.com/track/5ZivIuZOLb4XhnH2G33fYB)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
