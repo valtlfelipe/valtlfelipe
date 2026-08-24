@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (5 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Rescue Me by Alexander Nate](https://open.spotify.com/track/51IYPeyIRoJfA75opwFJr4)
+- [No Drama by George Truly](https://open.spotify.com/track/6jbJGCZPyxQzAfbP7EFj1f)
+- [Falling Down - Original Mix by Yo Raffa](https://open.spotify.com/track/2fp5LRRBk5lLeAKJAObNxX)
+- [No Regrets - Slowed by Stark](https://open.spotify.com/track/1mnG0UJJH9mxy9hDSFLVif)
 - [Anti-Hero by Taylor Swift](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu)
-- [Lose You To Love Me by Selena Gomez](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi)
-- [This Love by Maroon 5](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF)
-- [The Middle by Zedd, Maren Morris, Grey](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc)
-- [Hey, Soul Sister by Train](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
