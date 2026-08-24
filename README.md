@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [I Feel You by INOMA](https://open.spotify.com/track/5u5Ea1NITcb7pw8otRodyK)
-- [When I&#39;m into You by GOBAITH](https://open.spotify.com/track/0vbey7UHmq5YAzMN9TLB6i)
-- [Still Be There (feat. Josh Tobias) by Tim Hughes, Josh Tobias](https://open.spotify.com/track/0AjLqMYDsBjpVIeWLoiG9x)
-- [Would You Run Away? by DALEXO](https://open.spotify.com/track/4rJsKmFWJliM8rLCfjPGuu)
-- [Echoes by Mizmo](https://open.spotify.com/track/2TwviHQCmtObcFDawwNgB5)
+- [Mwili Wangu by Lucas Estrada, FIRSTCLASS](https://open.spotify.com/track/0ukhzN94BmTlsCgDDj7s74)
+- [Sombras by Maone](https://open.spotify.com/track/4A1F9nXooZVpsoRgntlBlg)
+- [Moth To A Flame by Nomadique](https://open.spotify.com/track/42VVvamo6oBHli7TLr3n76)
+- [ONLY ME AND YOU by Palm Monkey](https://open.spotify.com/track/7edWkhXD5ZYnLk3mjAbMmw)
+- [Body On Me by DALEXO, Hektor Mass, Palm Monkey](https://open.spotify.com/track/4UUTAgCxbCr3lVnA2mDFWv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
