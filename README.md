@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [alright by LemonTech](https://open.spotify.com/track/1AIantmBl17Y3qWxbWYPVy)
-- [Thinking About You by Jack Trades](https://open.spotify.com/track/5froNYyYSDrPi1ZHz9hz9I)
-- [Love Again by HØIBYE](https://open.spotify.com/track/5g5ylqlVEBwyRmWMkfDu3A)
-- [One and Only by FLATMATES](https://open.spotify.com/track/7Glz42un3GVm9Y3IxLsf6J)
-- [RIGHT FOR YOU by HAMDIBEATS](https://open.spotify.com/track/6qftQDR4ChV0Sof5pJ3UIJ)
+- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
+- [The World Slows Down by NOVEMBER KID](https://open.spotify.com/track/29hajMCDyDKUxcex3p927H)
+- [Forever by Lushhh](https://open.spotify.com/track/7B2QhgDlu7NBHiX65PmlNV)
+- [7 days a week by Mia Miles](https://open.spotify.com/track/2JH74oQ2yysIWyN2gXfngy)
+- [There For You by Harrison, James French, Daniel De Bourg](https://open.spotify.com/track/0ZxWp3Tfnetp9kJLWmI8Nt)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
