@@ -3,11 +3,11 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[nielsfaber/alarmo](https://github.com/nielsfaber/alarmo)** - Easy to use alarm system integration for Home Assistant (2 days ago)
-- **[Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)** - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules. (2 days ago)
-- **[HQBase/hqbase](https://github.com/HQBase/hqbase)** - Your team&#39;s email workspace. In your Cloudflare account. (3 days ago)
-- **[pgrundev/pgbot](https://github.com/pgrundev/pgbot)** - Postgres intelligence for ai agents &amp; apps (3 days ago)
-- **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (4 days ago)
+- **[nielsfaber/alarmo](https://github.com/nielsfaber/alarmo)** - Easy to use alarm system integration for Home Assistant (3 days ago)
+- **[Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)** - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules. (3 days ago)
+- **[HQBase/hqbase](https://github.com/HQBase/hqbase)** - Your team&#39;s email workspace. In your Cloudflare account. (4 days ago)
+- **[pgrundev/pgbot](https://github.com/pgrundev/pgbot)** - Postgres intelligence for ai agents &amp; apps (4 days ago)
+- **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (5 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Anti-Hero by Taylor Swift](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu)
