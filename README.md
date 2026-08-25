@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Photograph by MNDR](https://open.spotify.com/track/0NhUvwLaIa4kQ1B4XxWEXZ)
-- [The Edge by Will Sunday](https://open.spotify.com/track/0FllKAgBt2aSCE12Go0atf)
-- [Easy To Love by DALEXO](https://open.spotify.com/track/7jRvtKfmsgKUClDdZIuwhw)
-- [DEFINE by RUSSI, DIMEO](https://open.spotify.com/track/4drbVsnHGIARtJKctOD3wp)
-- [Rise Again by Walk on Water, Plu2](https://open.spotify.com/track/2MddvggnrvaGvxc4xG0uto)
+- [Follow by Auréo](https://open.spotify.com/track/0mjBQoIHeyT41b4e9Q14EE)
+- [SOMEONE LIKE YOU by Palm Monkey](https://open.spotify.com/track/7yzffTww3QCcBmLjtYlUHK)
+- [Where You Are by DIMEO, ZILO](https://open.spotify.com/track/2KMO8IO1NCzuuqKGpVvumK)
+- [Can&#39;t Forget by Will Sunday](https://open.spotify.com/track/4MJKGCCnNVlsfqjzCk0iLr)
+- [LOW by DALEXO, Palm Monkey, Nova Grace](https://open.spotify.com/track/7mo41awVvxKm60gTOYxhAS)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
