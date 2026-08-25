@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [echoes by KAYRO](https://open.spotify.com/track/3w6Tq1G8IVOkf14a9J2HR0)
-- [Strangers by GOBAITH, Oliver Rio](https://open.spotify.com/track/185Epi3EEsNPdu80VORL6t)
-- [ONE NIGHT by Palm Monkey, DALEXO](https://open.spotify.com/track/09z135WrlZ09JNTpA6f4S8)
-- [YABABY by Calior, Boix &amp; Breakloop, LUMA](https://open.spotify.com/track/75QO1fwgMJda5E45d3PFD0)
-- [Heart&#39;s On Fire by yïelii, Walk on Water](https://open.spotify.com/track/1Fu67Ke2z4UUCsveYruhFY)
+- [Relax by Lucas Estrada, RUSSI](https://open.spotify.com/track/44pZkPB6WR1uLcRqtdE6yS)
+- [Calling My Name by Walk on Water, Nomadique](https://open.spotify.com/track/3QQum6RmJpnwENYwHS8i5i)
+- [Take My Heart by Miles Carter](https://open.spotify.com/track/4Ob7DSytwMNOTK0Z2wK0D0)
+- [Toyi Toyi - Extended Mix by Nomadique, LUMA](https://open.spotify.com/track/7mfMYiaezsPuLD9WsPUdCo)
+- [Unpredictable by Alex Salem](https://open.spotify.com/track/3m1StD6kB2IAXbRG2cKhy3)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
