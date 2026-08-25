@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Hours by FIRSTCLASS](https://open.spotify.com/track/4s2IHbPZMjiEEacNyry5HF)
-- [IS THIS LOVE? by Palm Monkey](https://open.spotify.com/track/3VzU25myKDw953xq7IfyQP)
-- [stay a little longer by Walk on Water](https://open.spotify.com/track/0g5ZINRJDvSK9Dg5YAKkpd)
-- [Muevelo Lento by INOMA](https://open.spotify.com/track/5Htg8PD4zAsFWWpo4XIPkl)
-- [That Feeling by DIMEO](https://open.spotify.com/track/5Om1TyInEaSZiUmoI9AZis)
+- [HALLELUJAH by Palm Monkey](https://open.spotify.com/track/4PASMcgheYFJyrL7CDaXIZ)
+- [Show Me Love by DALEXO](https://open.spotify.com/track/3LnoacDeMgAAIWumB9h9Y4)
+- [TIMEZONES by RUSSI](https://open.spotify.com/track/6En46TssQZU0YdJE32T3ds)
+- [Mwili Wangu by Lucas Estrada, FIRSTCLASS](https://open.spotify.com/track/0ukhzN94BmTlsCgDDj7s74)
+- [Sombras by Maone](https://open.spotify.com/track/4A1F9nXooZVpsoRgntlBlg)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
