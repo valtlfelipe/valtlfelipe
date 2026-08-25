@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Take My Loving by Naarly, LEWS, FIRSTCLASS](https://open.spotify.com/track/0skwsAt2nhficmOKDIcbKY)
-- [July (Summer Nights) by ZAMARI](https://open.spotify.com/track/2nRFpTt0kJcpXWVeHO1WVt)
-- [My Mind by SANDROS](https://open.spotify.com/track/4vy9vVTJAgSpo06JIBarIp)
-- [Pull Me Under by Miles Carter](https://open.spotify.com/track/2HfMBBpCuNyC8fJBdNprIb)
-- [LA LUNA by EPPING, ZILO](https://open.spotify.com/track/0FwtuqWXQ41f7LF0qoEPUu)
+- [Hours by FIRSTCLASS](https://open.spotify.com/track/4s2IHbPZMjiEEacNyry5HF)
+- [IS THIS LOVE? by Palm Monkey](https://open.spotify.com/track/3VzU25myKDw953xq7IfyQP)
+- [stay a little longer by Walk on Water](https://open.spotify.com/track/0g5ZINRJDvSK9Dg5YAKkpd)
+- [Muevelo Lento by INOMA](https://open.spotify.com/track/5Htg8PD4zAsFWWpo4XIPkl)
+- [That Feeling by DIMEO](https://open.spotify.com/track/5Om1TyInEaSZiUmoI9AZis)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
