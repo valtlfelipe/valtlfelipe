@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Easy To Love by DALEXO](https://open.spotify.com/track/7jRvtKfmsgKUClDdZIuwhw)
-- [DEFINE by RUSSI, DIMEO](https://open.spotify.com/track/4drbVsnHGIARtJKctOD3wp)
-- [Rise Again by Walk on Water, Plu2](https://open.spotify.com/track/2MddvggnrvaGvxc4xG0uto)
-- [Say My Name by Yoiyami](https://open.spotify.com/track/48URHpCx1VA3ZSVnPo22IL)
-- [Freedom by FIRSTCLASS](https://open.spotify.com/track/41H0A8kY6NzoaLn6GKnZ1o)
+- [echoes by KAYRO](https://open.spotify.com/track/3w6Tq1G8IVOkf14a9J2HR0)
+- [Strangers by GOBAITH, Oliver Rio](https://open.spotify.com/track/185Epi3EEsNPdu80VORL6t)
+- [ONE NIGHT by Palm Monkey, DALEXO](https://open.spotify.com/track/09z135WrlZ09JNTpA6f4S8)
+- [YABABY by Calior, Boix &amp; Breakloop, LUMA](https://open.spotify.com/track/75QO1fwgMJda5E45d3PFD0)
+- [Heart&#39;s On Fire by yïelii, Walk on Water](https://open.spotify.com/track/1Fu67Ke2z4UUCsveYruhFY)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
