@@ -7,7 +7,7 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)** - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules. (5 days ago)
 - **[HQBase/hqbase](https://github.com/HQBase/hqbase)** - Your team&#39;s email workspace. In your Cloudflare account. (6 days ago)
 - **[pgrundev/pgbot](https://github.com/pgrundev/pgbot)** - Postgres intelligence for ai agents &amp; apps (6 days ago)
-- **[DivinPrince/quickmail](https://github.com/DivinPrince/quickmail)** - QuickMail — self-hosted web mail client on Cloudflare Workers. (1 week ago)
+- **[DivinPrince/quickinbox](https://github.com/DivinPrince/quickinbox)** - Quickinbox — self-hosted web mail client on Cloudflare Workers. (1 week ago)
 
 #### 🎧 Spotify recent tracks
 - [Relax by Lucas Estrada, RUSSI](https://open.spotify.com/track/44pZkPB6WR1uLcRqtdE6yS)
