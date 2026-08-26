@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickinbox](https://github.com/DivinPrince/quickinbox)** - Quickinbox — self-hosted web mail client on Cloudflare Workers. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Relax by Lucas Estrada, RUSSI](https://open.spotify.com/track/44pZkPB6WR1uLcRqtdE6yS)
-- [Calling My Name by Walk on Water, Nomadique](https://open.spotify.com/track/3QQum6RmJpnwENYwHS8i5i)
-- [Take My Heart by Miles Carter](https://open.spotify.com/track/4Ob7DSytwMNOTK0Z2wK0D0)
-- [Toyi Toyi - Extended Mix by Nomadique, LUMA](https://open.spotify.com/track/7mfMYiaezsPuLD9WsPUdCo)
-- [Unpredictable by Alex Salem](https://open.spotify.com/track/3m1StD6kB2IAXbRG2cKhy3)
+- [Si Mi by DALEXO, Boix &amp; Breakloop, Oscar Yuan, Palm Monkey](https://open.spotify.com/track/04LwWjNpLtT9Lnxw8jEw7F)
+- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
+- [Feeling Again by Alp Atesoglu, wrongside](https://open.spotify.com/track/4bKAsbfo94tJ5DtxuIxANr)
+- [Take Me There by Walk on Water](https://open.spotify.com/track/7flS91hsIuG0AfEU8rsVW8)
+- [Takeaway by Miles Carter](https://open.spotify.com/track/14ySQbBmTd4Pf5a1t8fyKm)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
