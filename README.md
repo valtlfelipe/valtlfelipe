@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickinbox](https://github.com/DivinPrince/quickinbox)** - Quickinbox — self-hosted web mail client on Cloudflare Workers. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Nothing Else - SNCLS Remix Afro House by DACE, SNCLS](https://open.spotify.com/track/4EYzf0sXbFyASqJECPRfCw)
-- [Matter of Time - Swingz Remix by Vandelux, Alex Maher, swingz](https://open.spotify.com/track/2qk5umFMr2jeKWQigqEEHy)
-- [All I Want by RAINBOW.](https://open.spotify.com/track/0q2hS3I1hhRZdxACmj6qVo)
-- [Nipe Mapenzi by PRS̈M, Rickey Backwoods](https://open.spotify.com/track/6SdmwIfxdRJdg5PWGFXGYj)
-- [No Drama by George Truly](https://open.spotify.com/track/6jbJGCZPyxQzAfbP7EFj1f)
+- [ALL OVER ME by Palm Monkey, DALEXO, Dan Hammond, Tom Polo](https://open.spotify.com/track/5vvHb3WYFCcH6Tmm1lEPYR)
+- [I Belong To You by The Palm Tree Boy](https://open.spotify.com/track/6jJEA9g61C9mdFZor2dEfM)
+- [Side To Side by George Truly](https://open.spotify.com/track/5iLjXRHfIzrIF1flZSSb7I)
+- [Move Like This by Lucas Estrada](https://open.spotify.com/track/6v92td0FhaVSIEjmNN1Cb8)
+- [Body On Me by DALEXO, Hektor Mass, Palm Monkey](https://open.spotify.com/track/4UUTAgCxbCr3lVnA2mDFWv)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
