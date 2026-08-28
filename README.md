@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickinbox](https://github.com/DivinPrince/quickinbox)** - Quickinbox — self-hosted web mail client on Cloudflare Workers. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [ALL OVER ME by Palm Monkey, DALEXO, Dan Hammond, Tom Polo](https://open.spotify.com/track/5vvHb3WYFCcH6Tmm1lEPYR)
-- [I Belong To You by The Palm Tree Boy](https://open.spotify.com/track/6jJEA9g61C9mdFZor2dEfM)
-- [Side To Side by George Truly](https://open.spotify.com/track/5iLjXRHfIzrIF1flZSSb7I)
-- [Move Like This by Lucas Estrada](https://open.spotify.com/track/6v92td0FhaVSIEjmNN1Cb8)
-- [Body On Me by DALEXO, Hektor Mass, Palm Monkey](https://open.spotify.com/track/4UUTAgCxbCr3lVnA2mDFWv)
+- [Always There by Weston &amp; Teston, Belle Gent](https://open.spotify.com/track/6dEWV1RKUaAyAlHTGkeFGr)
+- [Promises by Eauki](https://open.spotify.com/track/7HNzUtyXHKuNC7Dnr5jZm8)
+- [I&#39;m Good (Blue) - R3HAB Remix by David Guetta, Bebe Rexha, R3HAB](https://open.spotify.com/track/4NPJY8yFbu6YpgsgsKiEu1)
+- [Get with Me by Afgo](https://open.spotify.com/track/4u5xFwCYnQilZBeOMFXTGh)
+- [Ghost Town (Lucas Estrada Remix) by VINAI, John De Sohn, Lucas Estrada](https://open.spotify.com/track/0ndg56b510prqHlImqJoxG)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
