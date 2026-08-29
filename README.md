@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickinbox](https://github.com/DivinPrince/quickinbox)** - Quickinbox — self-hosted web mail client on Cloudflare Workers. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Always There by Weston &amp; Teston, Belle Gent](https://open.spotify.com/track/6dEWV1RKUaAyAlHTGkeFGr)
-- [Promises by Eauki](https://open.spotify.com/track/7HNzUtyXHKuNC7Dnr5jZm8)
-- [I&#39;m Good (Blue) - R3HAB Remix by David Guetta, Bebe Rexha, R3HAB](https://open.spotify.com/track/4NPJY8yFbu6YpgsgsKiEu1)
-- [Get with Me by Afgo](https://open.spotify.com/track/4u5xFwCYnQilZBeOMFXTGh)
-- [Ghost Town (Lucas Estrada Remix) by VINAI, John De Sohn, Lucas Estrada](https://open.spotify.com/track/0ndg56b510prqHlImqJoxG)
+- [SEM DEMORA by Dj Samir, MXXNAVRA, SIXTINAGER](https://open.spotify.com/track/6xZjmppXQnbOitaW3V684B)
+- [Toma Gostosona by Mc Lele JP, DJ Guh Mix](https://open.spotify.com/track/7G8V8LiyyqwzSlsQLiaitN)
+- [Role Perfeito - Ao Vivo by Kaique e Felipe, CountryBeat](https://open.spotify.com/track/0EFt56Fw8g2KzsRQ8AcNcr)
+- [Gauchinha by DJ Japa NK, MC Meno K, MC Ryan SP, Mc Brinquedo, MC LUUKY](https://open.spotify.com/track/7qqixxBvZIGSep53Eh2o0b)
+- [Bola Uma Vela (Trava Chip) by MC Meno K, Dj Yuri Pedrada](https://open.spotify.com/track/4tP2kbroBcBmYk4IhbYwu5)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
