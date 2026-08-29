@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickinbox](https://github.com/DivinPrince/quickinbox)** - Quickinbox — self-hosted web mail client on Cloudflare Workers. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [eu me amo mais by GIULIA BE](https://open.spotify.com/track/0qfHRo7pVX4GMJlhG70NQs)
-- [se essa vida fosse um filme by GIULIA BE](https://open.spotify.com/track/0hDphSo7vI7gCjEPpD6gu0)
-- [menina solta by GIULIA BE](https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1)
-- [SEM DEMORA by Dj Samir, MXXNAVRA, SIXTINAGER](https://open.spotify.com/track/6xZjmppXQnbOitaW3V684B)
-- [hate that i made you love me by Ariana Grande](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi)
+- [Manchild by Sabrina Carpenter](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1)
+- [I Can’t Wait by Phoebe Bridgers](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q)
+- [EMERALD EYES by Alex Warren](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36)
+- [Less than a Lover by JENNIE](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD)
+- [Zoo by Disney, Shakira](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
