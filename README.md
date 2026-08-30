@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickinbox](https://github.com/DivinPrince/quickinbox)** - Quickinbox — self-hosted web mail client on Cloudflare Workers. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Homewrecker by sombr](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z)
-- [SWIM by BTS](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St)
-- [Material Lover by SIENNA SPIRO](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S)
-- [Manchild by Sabrina Carpenter](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1)
-- [I Can’t Wait by Phoebe Bridgers](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q)
+- [Motivation by Carly Rae Jepsen](https://open.spotify.com/track/59edZBlolguuivWORanXkJ)
+- [Babydoll by Dominic Fike](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc)
+- [the cure by Olivia Rodrigo](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96)
+- [Man I Need by Olivia Dean](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX)
+- [Kingdom of Fear by Cameron Whitcomb](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
