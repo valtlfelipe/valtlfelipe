@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[DivinPrince/quickinbox](https://github.com/DivinPrince/quickinbox)** - Quickinbox — self-hosted web mail client on Cloudflare Workers. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Man I Need by Olivia Dean](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX)
-- [Motivation by Carly Rae Jepsen](https://open.spotify.com/track/59edZBlolguuivWORanXkJ)
-- [Babydoll by Dominic Fike](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc)
-- [the cure by Olivia Rodrigo](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96)
-- [Man I Need by Olivia Dean](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX)
+- [Pa Ty by ddp, Endri Kacaci](https://open.spotify.com/track/1vPTplPSYh8FSW9dhMeoar)
+- [Journey (Don&#39;t Let Me Go) by ERIICE](https://open.spotify.com/track/1d3Y9gXjoEgNmakTetmqrl)
+- [Fever In The Silence by ZOYA](https://open.spotify.com/track/713RIr5BdqmSnKJpCm77Zr)
+- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
+- [OUTGREW by 34HOUSE](https://open.spotify.com/track/1rjhiJ0ATB40znAQ9IZ6Ur)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
