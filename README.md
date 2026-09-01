@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[pgrundev/pgbot](https://github.com/pgrundev/pgbot)** - Postgres intelligence for ai agents &amp; apps (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Rushing by 34HOUSE](https://open.spotify.com/track/7nGm6UYEoiHbKIL3bTv4ur)
-- [Close Your Eyes by TaylorX](https://open.spotify.com/track/2kmwfLRm4S5mNLqqe6nX6x)
-- [Our Time by Kemkila](https://open.spotify.com/track/184GvhVWayv1z7SBOczpr1)
-- [Cherish by Badflite](https://open.spotify.com/track/4ZYL4h2sQEWVBXoSuLcMEA)
-- [Underwave by GAFAROV](https://open.spotify.com/track/4nsPSvh8ckVyRG8QGowjpT)
+- [Oya by ddp](https://open.spotify.com/track/5cDRWa1aiMPZTI1jnXELT1)
+- [Babel by Malik](https://open.spotify.com/track/0hqlR23smGSMceQ9KQBwrd)
+- [What If? - Extended Mix by Neptunica](https://open.spotify.com/track/1uVdPnmULLUvPRkX4YLW6a)
+- [I can&#39;t live without you by Melo Nada](https://open.spotify.com/track/1CgkwdPoq36AEmfV0eABah)
+- [THAT HEALING by Naarly](https://open.spotify.com/track/0RRi9JdHUTQk1FcwhBE9je)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
