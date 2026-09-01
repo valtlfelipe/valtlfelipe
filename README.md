@@ -3,7 +3,7 @@
 I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
 
 #### ⭐ Recent Stars
-- **[hieunc229/mailflare](https://github.com/hieunc229/mailflare)** - Professional email for professionals and teams (today)
+- **[hieunc229/mailflare](https://github.com/hieunc229/mailflare)** - Professional email for professionals and teams (1 day ago)
 - **[nielsfaber/alarmo](https://github.com/nielsfaber/alarmo)** - Easy to use alarm system integration for Home Assistant (1 week ago)
 - **[Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)** - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules. (1 week ago)
 - **[HQBase/hqbase](https://github.com/HQBase/hqbase)** - AI native email workspace for teams. In your Cloudflare account. (1 week ago)
