@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)** - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Better Than This by ERIICE](https://open.spotify.com/track/23ldecum5hLc2SdQP8kImM)
+- [Same Thing by Drop - G, Binnay](https://open.spotify.com/track/5pzHstxAPelysFnqzbuzA6)
+- [Somebody by DIMEO](https://open.spotify.com/track/3rrWEOdMmkFNZDgXR0uVg4)
+- [Baila by Soluna](https://open.spotify.com/track/4lqCISx8O0DmO1oXv3wV91)
 - [What&#39;s in My Head by Nu Aspect](https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF)
-- [Figure It Out - Extended by Zak Joshua](https://open.spotify.com/track/5ROWyM6NX33Ozf4aRHjTAH)
-- [Exhale by T. Matthias, Alimish](https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1)
-- [Tell You by Dallerium, OGM](https://open.spotify.com/track/0vlbj7VAsdXpzzpQp415ZU)
-- [Set Me Free by Kemkila](https://open.spotify.com/track/7utTho0L6eyvSGZnsjy6qF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
