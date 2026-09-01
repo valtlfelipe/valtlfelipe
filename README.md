@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)** - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Pa Ty by ddp, Endri Kacaci](https://open.spotify.com/track/1vPTplPSYh8FSW9dhMeoar)
-- [Journey (Don&#39;t Let Me Go) by ERIICE](https://open.spotify.com/track/1d3Y9gXjoEgNmakTetmqrl)
-- [Muchachos by Sharapov, Katya Fleur](https://open.spotify.com/track/6tPe2NhthsUk6eFW4QXani)
-- [Fever In The Silence by ZOYA](https://open.spotify.com/track/713RIr5BdqmSnKJpCm77Zr)
-- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
+- [What&#39;s in My Head by Nu Aspect](https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF)
+- [Figure It Out - Extended by Zak Joshua](https://open.spotify.com/track/5ROWyM6NX33Ozf4aRHjTAH)
+- [Exhale by T. Matthias, Alimish](https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1)
+- [Tell You by Dallerium, OGM](https://open.spotify.com/track/0vlbj7VAsdXpzzpQp415ZU)
+- [Set Me Free by Kemkila](https://open.spotify.com/track/7utTho0L6eyvSGZnsjy6qF)
 
 _Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
