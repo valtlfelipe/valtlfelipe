@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[hieunc229/mailflare](https://github.com/hieunc229/mailflare)** - Email for professionals and teams (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Pa Ty by ddp, Endri Kacaci](https://open.spotify.com/track/1vPTplPSYh8FSW9dhMeoar)
-- [Journey (Don&#39;t Let Me Go) by ERIICE](https://open.spotify.com/track/1d3Y9gXjoEgNmakTetmqrl)
-- [Muchachos by Sharapov, Katya Fleur](https://open.spotify.com/track/6tPe2NhthsUk6eFW4QXani)
-- [Fever In The Silence by ZOYA](https://open.spotify.com/track/713RIr5BdqmSnKJpCm77Zr)
-- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
+- [Close Your Eyes by TaylorX](https://open.spotify.com/track/2kmwfLRm4S5mNLqqe6nX6x)
+- [Our Time by Kemkila](https://open.spotify.com/track/184GvhVWayv1z7SBOczpr1)
+- [Cherish by Badflite](https://open.spotify.com/track/4ZYL4h2sQEWVBXoSuLcMEA)
+- [Underwave by GAFAROV](https://open.spotify.com/track/4nsPSvh8ckVyRG8QGowjpT)
+- [New Americana by Malik](https://open.spotify.com/track/4gQNpnZTh9PfjGZiX4fiC4)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
