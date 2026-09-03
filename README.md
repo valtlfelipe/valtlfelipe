@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[hieunc229/mailflare](https://github.com/hieunc229/mailflare)** - Email for professionals and teams (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [We Will Survive by Walk on Water](https://open.spotify.com/track/62QCIr3gU6Mv84m8rb1hPP)
-- [Body Go Like by George Truly](https://open.spotify.com/track/1mLfhmuQgnGFTnUA7eJEEC)
-- [Make Me Feel Like (Don&#39;t Nobody Else) - Extended Mix by NORRA](https://open.spotify.com/track/7cgeVad7LParhzOjAuvdLM)
-- [moving on by kalm](https://open.spotify.com/track/3qj349zyG0sDNwowKBzVmD)
-- [Soyendose by LUMA YAN](https://open.spotify.com/track/6p9dmS4VmwOW5q7vLZE0Tr)
+- [Pa Ty by ddp, Endri Kacaci](https://open.spotify.com/track/1vPTplPSYh8FSW9dhMeoar)
+- [Journey (Don&#39;t Let Me Go) by ERIICE](https://open.spotify.com/track/1d3Y9gXjoEgNmakTetmqrl)
+- [Muchachos by Sharapov, Katya Fleur](https://open.spotify.com/track/6tPe2NhthsUk6eFW4QXani)
+- [Fever In The Silence by ZOYA](https://open.spotify.com/track/713RIr5BdqmSnKJpCm77Zr)
+- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
