@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏻
 
-I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
+I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
 
@@ -14,4 +14,4 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 
-_Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
+_Powered by [TuneFeed](https://tunefeed.app)_
