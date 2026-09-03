@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏻
 
-I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [https://felipevm.com/projects/](https://felipevm.com/projects/?ref=github.com).
+I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
 - **[valtlfelipe/financeiro](https://github.com/valtlfelipe/financeiro)** - Gerenciador financeiro pessoal open source e local (today)
@@ -10,10 +10,10 @@ I'm Felipe, a Staff Software Engineer & Indie Dev. Checkout my projects at [http
 - **[hieunc229/mailflare](https://github.com/hieunc229/mailflare)** - Email for professionals and teams (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [My Light by Amè](https://open.spotify.com/track/70ZiYZKZ5UBZHCvG42UOkd)
-- [Stay With Me by VEMØ](https://open.spotify.com/track/0JBlu9qDuHGeMofclF7klE)
-- [Only Me &amp; U by R.A.Y.A](https://open.spotify.com/track/29nBpjuWCnIoczWN04T6Ox)
-- [I Can&#39;t Get You by Robert Georgescu, White](https://open.spotify.com/track/6R9JSFY4hnbx7IL8y8EvYs)
-- [SeX SyMboL by Elliot Skyfall, Akari Sora](https://open.spotify.com/track/5R6FTIza1F5p06vhjI7VVt)
+- [We Will Survive by Walk on Water](https://open.spotify.com/track/62QCIr3gU6Mv84m8rb1hPP)
+- [Body Go Like by George Truly](https://open.spotify.com/track/1mLfhmuQgnGFTnUA7eJEEC)
+- [Make Me Feel Like (Don&#39;t Nobody Else) - Extended Mix by NORRA](https://open.spotify.com/track/7cgeVad7LParhzOjAuvdLM)
+- [moving on by kalm](https://open.spotify.com/track/3qj349zyG0sDNwowKBzVmD)
+- [Soyendose by LUMA YAN](https://open.spotify.com/track/6p9dmS4VmwOW5q7vLZE0Tr)
 
-_Powered by [TuneFeed](https://tunefeed.app?ref=github.com)_
+_Powered by [TuneFeed](https://tunefeed.app)_
