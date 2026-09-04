@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[hieunc229/mailflare](https://github.com/hieunc229/mailflare)** - Email for professionals and teams (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [It&#39;s Over - Slowed by ATALE](https://open.spotify.com/track/2IyEsYFKpDT7fxGpA9Zd14)
-- [AROUND 11PM by SAN-ARTE](https://open.spotify.com/track/5qIIJEWsCezSCiFWB7sQkz)
-- [Ocean Eyes by Moonlight](https://open.spotify.com/track/75BcPL6WYtQvvZBETHyIQW)
-- [Override by Dave Silcox, Ferington, Nikki Ambers](https://open.spotify.com/track/40DjjsuODwdlRZ4XFfhcwH)
-- [Back To You by Zemarq](https://open.spotify.com/track/7icM5CtDUh87Z6Fg9DyXn3)
+- [Break The Shape by Lucas Estrada, Marcel Scott, Boix &amp; Breakloop, VANDR](https://open.spotify.com/track/6ORXwXs2ihMOCaDsfLRDBZ)
+- [Sundown by H:dn](https://open.spotify.com/track/0ytDnkYrIbFCVu7kyE1XRV)
+- [Hurt You by Crunkz](https://open.spotify.com/track/3Gz5qwVrj9mlAMGfdCNO5U)
+- [Left In July by Dylan Baksalara](https://open.spotify.com/track/2TLXVM5wNserXRrmeQAwaj)
+- [I Found You by Amarasco](https://open.spotify.com/track/2KkbWBx74DCp369VUaUBrl)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
