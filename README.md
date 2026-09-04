@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[hieunc229/mailflare](https://github.com/hieunc229/mailflare)** - Email for professionals and teams (4 days ago)
 
 #### 🎧 Spotify recent tracks
+- [It&#39;s Over - Slowed by ATALE](https://open.spotify.com/track/2IyEsYFKpDT7fxGpA9Zd14)
 - [AROUND 11PM by SAN-ARTE](https://open.spotify.com/track/5qIIJEWsCezSCiFWB7sQkz)
 - [Ocean Eyes by Moonlight](https://open.spotify.com/track/75BcPL6WYtQvvZBETHyIQW)
 - [Override by Dave Silcox, Ferington, Nikki Ambers](https://open.spotify.com/track/40DjjsuODwdlRZ4XFfhcwH)
 - [Back To You by Zemarq](https://open.spotify.com/track/7icM5CtDUh87Z6Fg9DyXn3)
-- [Sin Hablar by Samuel Abello](https://open.spotify.com/track/1jTcyB8pgl4518p6XGkRAw)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
