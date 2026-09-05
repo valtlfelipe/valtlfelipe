@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[crmne/fastpotify](https://github.com/crmne/fastpotify)** - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [I Think I Need You by Eliias](https://open.spotify.com/track/1NA4FCNodTzYVYzxVsCemN)
-- [Love Me The Same by Astrality, Krysta Youngs](https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW)
-- [release me by civilian](https://open.spotify.com/track/7BNWvnb2KzWKMzrWAGUCNX)
-- [half of you is not enough by oskar med k, Marini](https://open.spotify.com/track/6oyGwvrnxDLpa6xJx0xgAh)
-- [This Dance by Mizmo](https://open.spotify.com/track/5Hf1s0MwigqDUqRpPuEPkU)
+- [Counting down the days by CTH](https://open.spotify.com/track/4nwFaaollyil6Ukjg1hkyo)
+- [Flowers by oskar med k](https://open.spotify.com/track/7urR7LI2T2QMbxvQj0LcU2)
+- [RUNNIN - Extended Mix by Ubo](https://open.spotify.com/track/2kd3DGqENzz3nZ8QY79H66)
+- [Where U Going by Neon Tide](https://open.spotify.com/track/1O7iikBvD7K0jRXKlQskCx)
+- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
