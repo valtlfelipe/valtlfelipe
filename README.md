@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[crmne/fastpotify](https://github.com/crmne/fastpotify)** - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Counting down the days by CTH](https://open.spotify.com/track/4nwFaaollyil6Ukjg1hkyo)
-- [Flowers by oskar med k](https://open.spotify.com/track/7urR7LI2T2QMbxvQj0LcU2)
-- [RUNNIN - Extended Mix by Ubo](https://open.spotify.com/track/2kd3DGqENzz3nZ8QY79H66)
-- [Where U Going by Neon Tide](https://open.spotify.com/track/1O7iikBvD7K0jRXKlQskCx)
-- [Reverie by INNERVERSE](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe)
+- [No Sweet by LOVEIN](https://open.spotify.com/track/3gpkPr2reiV6eR3Er43bBU)
+- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
+- [Wanderlust by Keanler, Rico 56](https://open.spotify.com/track/4KNHiv3TsiI8SSjuTOKdHr)
+- [Something on My Mind by deep dispatch](https://open.spotify.com/track/4FwroZwpBJqwRICfuG3aRr)
+- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
