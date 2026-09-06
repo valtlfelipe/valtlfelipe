@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[crmne/fastpotify](https://github.com/crmne/fastpotify)** - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [No Sweet by LOVEIN](https://open.spotify.com/track/3gpkPr2reiV6eR3Er43bBU)
-- [I&#39;ll Be Yours by Zerb, Georgi Kay](https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l)
-- [Wanderlust by Keanler, Rico 56](https://open.spotify.com/track/4KNHiv3TsiI8SSjuTOKdHr)
-- [Something on My Mind by deep dispatch](https://open.spotify.com/track/4FwroZwpBJqwRICfuG3aRr)
-- [Losing You by Julien Fade](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1)
+- [Sundown by H:dn](https://open.spotify.com/track/0ytDnkYrIbFCVu7kyE1XRV)
+- [What If We Go Back by Into The Ether, JOSEFINA](https://open.spotify.com/track/7yNgOjGsrsirD8LA5hgguX)
+- [Dream in Color by Greg Elenis](https://open.spotify.com/track/7sgjmvjSVVCfTlfYa4H6oG)
+- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
+- [time stands still by James Marley](https://open.spotify.com/track/6XheFUjEeulyXNgoxUzVhk)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
