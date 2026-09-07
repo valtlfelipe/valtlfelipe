@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[crmne/fastpotify](https://github.com/crmne/fastpotify)** - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Sundown by H:dn](https://open.spotify.com/track/0ytDnkYrIbFCVu7kyE1XRV)
-- [What If We Go Back by Into The Ether, JOSEFINA](https://open.spotify.com/track/7yNgOjGsrsirD8LA5hgguX)
-- [Dream in Color by Greg Elenis](https://open.spotify.com/track/7sgjmvjSVVCfTlfYa4H6oG)
-- [Bloom Again by Nu Aspect](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe)
-- [time stands still by James Marley](https://open.spotify.com/track/6XheFUjEeulyXNgoxUzVhk)
+- [Aurora by ALOTT, Macon, Chacel](https://open.spotify.com/track/4lVNgjRcV3hk0wuV4a1fcZ)
+- [Closer by usual, Max Metzinger, Flo.Von](https://open.spotify.com/track/3tFzcePJTNl0BTeSjxzcIZ)
+- [Pulled into You by feva., Kanslor](https://open.spotify.com/track/1iuwpelPZ0G5T40CtK78WO)
+- [I Know by Fabian Luttenberger](https://open.spotify.com/track/0zGasgod21JyrW6yMSLoG0)
+- [It&#39;s Not Enough - Radio Edit by Dusky, Janai](https://open.spotify.com/track/4hVPlF3Ba47G0Nucjdw11T)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
