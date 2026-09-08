@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[librespot-org/librespot](https://github.com/librespot-org/librespot)** - Open Source Spotify client library (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Fire by Faüna](https://open.spotify.com/track/6krPixDvEoKSv8Yf6gvtng)
-- [Let Me Love You by Sllash](https://open.spotify.com/track/7jQyMVh7IWJnxfzNZ2uqi9)
-- [Everyday (I Think of You) by Meynberg](https://open.spotify.com/track/3wqTebdNXcEjFhZEqRnjGT)
-- [Summer &amp; Wine by Vacay Club](https://open.spotify.com/track/4dLifM6uocHLiVkGMfQewA)
-- [My Heart by Mila Blond](https://open.spotify.com/track/62iNik6mkwIqCBxna3bWeh)
+- [Howling by SOMMA](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO)
+- [My Signal by Lonelysoul., Gaullin](https://open.spotify.com/track/5Ql7aihqxkz4TO37JOdKVp)
+- [You Let Me Go by UPHORA](https://open.spotify.com/track/7BeuOsNTyEp4tV5NOhBayX)
+- [Waiting for You by Y.V.E. 48](https://open.spotify.com/track/6NzLbMS4OZQnu6bpLJr4n9)
+- [Fall For Me by NORRA](https://open.spotify.com/track/5QXYVJJcrQ6iNPSmWl1WAR)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
