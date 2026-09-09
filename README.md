@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[librespot-org/librespot](https://github.com/librespot-org/librespot)** - Open Source Spotify client library (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Focus Is You by MKNSN](https://open.spotify.com/track/6uW6ypKxzKd6gciYkX4t22)
-- [When it hurts by Spoke](https://open.spotify.com/track/20RHYNM9MYAaGZVhlUPsHY)
-- [Friends by Night Tales](https://open.spotify.com/track/2cRP1p1jWzlassuwojbUJw)
-- [Needing Space by Effemar](https://open.spotify.com/track/2QLDAd5vTn2wacico7aIDm)
-- [Focus by Panski, Leshii](https://open.spotify.com/track/1nit1HbZRuHxDeQRm7PB6C)
+- [I Need It by OGM, GARGAN, SHELLS](https://open.spotify.com/track/2Pg9RFW28ILUGYrjryma02)
+- [Dreamer by Sako Isoyan, Irina Makosh](https://open.spotify.com/track/5fyORJ9KlIV2FD1mLlEIoj)
+- [Like Home by Kemkila](https://open.spotify.com/track/177H58rhoPTvTsPyCuZH2L)
+- [Say My Name by LUMO](https://open.spotify.com/track/0pIPY4Xpjz9o5FK5LvFxg5)
+- [Too Far by LissA, Plastic Jungle, TOZZ](https://open.spotify.com/track/485tBHXfTxDw6dDp4CdyJJ)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
