@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[librespot-org/librespot](https://github.com/librespot-org/librespot)** - Open Source Spotify client library (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Need It by OGM, GARGAN, SHELLS](https://open.spotify.com/track/2Pg9RFW28ILUGYrjryma02)
-- [Dreamer by Sako Isoyan, Irina Makosh](https://open.spotify.com/track/5fyORJ9KlIV2FD1mLlEIoj)
-- [Like Home by Kemkila](https://open.spotify.com/track/177H58rhoPTvTsPyCuZH2L)
-- [Say My Name by LUMO](https://open.spotify.com/track/0pIPY4Xpjz9o5FK5LvFxg5)
-- [Too Far by LissA, Plastic Jungle, TOZZ](https://open.spotify.com/track/485tBHXfTxDw6dDp4CdyJJ)
+- [I Love You by Patrick Lite, Vitaly Gray](https://open.spotify.com/track/33vdDZDNBKsllkbZXFYUD4)
+- [Follow The Light (feat. Kenza) by DaLu JaVa, Kenza](https://open.spotify.com/track/5nlm2elQmXlZscbYaNI995)
+- [Oya Nami by Ema Feud](https://open.spotify.com/track/4AD3AELVWjfphDf8uqvxXh)
+- [Lost In Paris by Mike D&#39; Jais](https://open.spotify.com/track/3V6uZBeiYLNGKYRslSfGdN)
+- [FEELING 2 MUCH - Slowed by Lonelysoul.](https://open.spotify.com/track/3p3JOQ1SfSZmZljmK7jpnc)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
