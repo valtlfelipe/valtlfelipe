@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[librespot-org/librespot](https://github.com/librespot-org/librespot)** - Open Source Spotify client library (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Love You by Patrick Lite, Vitaly Gray](https://open.spotify.com/track/33vdDZDNBKsllkbZXFYUD4)
-- [Follow The Light (feat. Kenza) by DaLu JaVa, Kenza](https://open.spotify.com/track/5nlm2elQmXlZscbYaNI995)
-- [Oya Nami by Ema Feud](https://open.spotify.com/track/4AD3AELVWjfphDf8uqvxXh)
-- [Lost In Paris by Mike D&#39; Jais](https://open.spotify.com/track/3V6uZBeiYLNGKYRslSfGdN)
-- [FEELING 2 MUCH - Slowed by Lonelysoul.](https://open.spotify.com/track/3p3JOQ1SfSZmZljmK7jpnc)
+- [I Remember by Made By Pete, Kyozo, Blindsmyth](https://open.spotify.com/track/4r2wcUMSCIHQ4UTYpDBy2l)
+- [This Way by Jean Philippe, Osaro](https://open.spotify.com/track/1mQJSDkaIHTF9wltC74xfa)
+- [Aurora by ALOTT, Macon, Chacel](https://open.spotify.com/track/4lVNgjRcV3hk0wuV4a1fcZ)
+- [Closer by usual, Max Metzinger, Flo.Von](https://open.spotify.com/track/3tFzcePJTNl0BTeSjxzcIZ)
+- [Pulled into You by feva., Kanslor](https://open.spotify.com/track/1iuwpelPZ0G5T40CtK78WO)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
