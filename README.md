@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[valtlfelipe/apoia](https://github.com/valtlfelipe/apoia)** - receba apoio via Pix, seu próprio &#34;Buy Me a Coffee&#34; (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Dreamer - Sax Version by Sako Isoyan, Irina Makosh](https://open.spotify.com/track/06vJctGDsxTJzQySOdpjpf)
-- [Focus by Panski, Leshii](https://open.spotify.com/track/1nit1HbZRuHxDeQRm7PB6C)
-- [Slow Dive by feva., Kanslor](https://open.spotify.com/track/3cBXxUJAmaGweJrYA4x4ut)
-- [Need To Breathe by Jane Good](https://open.spotify.com/track/4xrhxqdB0yf090oejOWiJ5)
-- [Nightingale by Panuma, Kayla](https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik)
+- [Running Around - Extended by NORRA](https://open.spotify.com/track/2S8mM78B4gliTeFa58on7A)
+- [I Want You by Kaisemotions](https://open.spotify.com/track/41sr1RQarEJIkzipQjw4ZJ)
+- [Changed by Damaui, Kat Abel, Sick Trumpet](https://open.spotify.com/track/2ie3InsBpQTRIc9GIP30N7)
+- [Alive Again by TWINNS, MARE, Levis Della](https://open.spotify.com/track/5rBkfFiBtH3Zafkod0XhrB)
+- [Lost In You by fwd/slash](https://open.spotify.com/track/76YExmGzDJqVdLXX4XZKIQ)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
