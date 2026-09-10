@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[valtlfelipe/apoia](https://github.com/valtlfelipe/apoia)** - receba apoio via Pix, seu próprio &#34;Buy Me a Coffee&#34; (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Running Around - Extended by NORRA](https://open.spotify.com/track/2S8mM78B4gliTeFa58on7A)
-- [I Want You by Kaisemotions](https://open.spotify.com/track/41sr1RQarEJIkzipQjw4ZJ)
-- [Changed by Damaui, Kat Abel, Sick Trumpet](https://open.spotify.com/track/2ie3InsBpQTRIc9GIP30N7)
-- [Alive Again by TWINNS, MARE, Levis Della](https://open.spotify.com/track/5rBkfFiBtH3Zafkod0XhrB)
-- [Lost In You by fwd/slash](https://open.spotify.com/track/76YExmGzDJqVdLXX4XZKIQ)
+- [Every Time You Go by Pablo Nouvelle, Effie](https://open.spotify.com/track/31KHVl6KH8HvIErHeZVJ81)
+- [Howling by SOMMA](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO)
+- [My Signal by Lonelysoul., Gaullin](https://open.spotify.com/track/5Ql7aihqxkz4TO37JOdKVp)
+- [You Let Me Go by UPHORA](https://open.spotify.com/track/7BeuOsNTyEp4tV5NOhBayX)
+- [Waiting for You by Y.V.E. 48](https://open.spotify.com/track/6NzLbMS4OZQnu6bpLJr4n9)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
