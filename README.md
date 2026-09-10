@@ -3,17 +3,17 @@
 I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
+- **[R44VC0RP/opensend](https://github.com/R44VC0RP/opensend)** - self-hosted transactional &amp; marketing email layer on top of aws ses (today)
+- **[MillionSend/millionsend](https://github.com/MillionSend/millionsend)** - The open-source email platform — self-host on your own AWS SES, or use the cloud. Resend-compatible API. (today)
+- **[shivamanupadi/traks](https://github.com/shivamanupadi/traks)** - Self-hosted, privacy-friendly web analytics that deploys into your own Cloudflare account in two minutes. Free forever, MIT. (today)
 - **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - 🏠 $HOME/.config (2 days ago)
 - **[valtlfelipe/apoia](https://github.com/valtlfelipe/apoia)** - receba apoio via Pix, seu próprio &#34;Buy Me a Coffee&#34; (6 days ago)
-- **[valtlfelipe/financeiro](https://github.com/valtlfelipe/financeiro)** - Gerenciador financeiro pessoal open source e local (1 week ago)
-- **[dicebear/dicebear](https://github.com/dicebear/dicebear)** - DiceBear is an avatar library for designers and developers. 🌍 (1 week ago)
-- **[librespot-org/librespot](https://github.com/librespot-org/librespot)** - Open Source Spotify client library (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I Remember by Made By Pete, Kyozo, Blindsmyth](https://open.spotify.com/track/4r2wcUMSCIHQ4UTYpDBy2l)
-- [This Way by Jean Philippe, Osaro](https://open.spotify.com/track/1mQJSDkaIHTF9wltC74xfa)
-- [Aurora by ALOTT, Macon, Chacel](https://open.spotify.com/track/4lVNgjRcV3hk0wuV4a1fcZ)
-- [Closer by usual, Max Metzinger, Flo.Von](https://open.spotify.com/track/3tFzcePJTNl0BTeSjxzcIZ)
-- [Pulled into You by feva., Kanslor](https://open.spotify.com/track/1iuwpelPZ0G5T40CtK78WO)
+- [Dreamer - Sax Version by Sako Isoyan, Irina Makosh](https://open.spotify.com/track/06vJctGDsxTJzQySOdpjpf)
+- [Focus by Panski, Leshii](https://open.spotify.com/track/1nit1HbZRuHxDeQRm7PB6C)
+- [Slow Dive by feva., Kanslor](https://open.spotify.com/track/3cBXxUJAmaGweJrYA4x4ut)
+- [Need To Breathe by Jane Good](https://open.spotify.com/track/4xrhxqdB0yf090oejOWiJ5)
+- [Nightingale by Panuma, Kayla](https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
