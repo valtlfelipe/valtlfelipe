@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - 🏠 $HOME/.config (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Memories - JYRYMY Remix by WAVE., JYRYMY](https://open.spotify.com/track/1JGh2XKhyUPLBDG47o67pI)
-- [ALL RIGhT by Kirr Sounds](https://open.spotify.com/track/6a4HYqUPGIQU0EaI8v166E)
-- [Running Around - Extended by NORRA](https://open.spotify.com/track/2S8mM78B4gliTeFa58on7A)
-- [I Want You by Kaisemotions](https://open.spotify.com/track/41sr1RQarEJIkzipQjw4ZJ)
-- [Changed by Damaui, Kat Abel, Sick Trumpet](https://open.spotify.com/track/2ie3InsBpQTRIc9GIP30N7)
+- [Let Go by Neon Tide](https://open.spotify.com/track/4RKpBP6ghJKoNc5V73XGyw)
+- [MEMORY by Alex LeMirage, Fi Sullivan](https://open.spotify.com/track/4KBZTAlUGULPahobHxi39m)
+- [Run Deep by Nu Aspect](https://open.spotify.com/track/4gBkrpJoPBZKY0T1gyJ4iU)
+- [Inner Light by Elderbrook, Bob Moses](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj)
+- [Cimmerian by Lipless, Blue Noir](https://open.spotify.com/track/1fzzHLUQXLYirq6IqiDxYd)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
