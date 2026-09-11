@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[valtlfelipe/apoia](https://github.com/valtlfelipe/apoia)** - receba apoio via Pix, seu próprio &#34;Buy Me a Coffee&#34; (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Every Time You Go by Pablo Nouvelle, Effie](https://open.spotify.com/track/31KHVl6KH8HvIErHeZVJ81)
-- [Howling by SOMMA](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO)
-- [My Signal by Lonelysoul., Gaullin](https://open.spotify.com/track/5Ql7aihqxkz4TO37JOdKVp)
-- [You Let Me Go by UPHORA](https://open.spotify.com/track/7BeuOsNTyEp4tV5NOhBayX)
-- [Waiting for You by Y.V.E. 48](https://open.spotify.com/track/6NzLbMS4OZQnu6bpLJr4n9)
+- [Need To Breathe by Jane Good](https://open.spotify.com/track/4xrhxqdB0yf090oejOWiJ5)
+- [Nightingale by Panuma, Kayla](https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik)
+- [Moving Forward - Edit by King &amp; Early](https://open.spotify.com/track/6TmjO12Zd3cu3SbOavJFiY)
+- [I Can&#39;t See - Extended by ROW, Samuel Miller](https://open.spotify.com/track/7v4CkKgv07ZztFpeZDcro3)
+- [Someday ? by Topsy Crettz](https://open.spotify.com/track/2JakrEYq6V9a9L9xe0gATe)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
