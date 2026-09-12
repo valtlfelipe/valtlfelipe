@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[shivamanupadi/traks](https://github.com/shivamanupadi/traks)** - Self-hosted, privacy-friendly web analytics that deploys into your own Cloudflare account in two minutes. Free forever, MIT. (2 days ago)
 
 #### 🎧 Spotify recent tracks
+- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
 - [Zero by Devault](https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5)
 - [Enjoy Your Life by Romy](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS)
 - [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
 - [What If? by Neptunica](https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6)
-- [How You Feel (ft Leven Kali) by ANOTR, Leven Kali, Erik Bandt](https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
