@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[shivamanupadi/traks](https://github.com/shivamanupadi/traks)** - Self-hosted, privacy-friendly web analytics that deploys into your own Cloudflare account in two minutes. Free forever, MIT. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [All Night Long by Kungs, David Guetta, Izzy Bizu](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe)
-- [Zero by Devault](https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5)
-- [Enjoy Your Life by Romy](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS)
-- [Fortnight (feat. Post Malone) - BLOND:ISH Remix by Taylor Swift, Post Malone, BLOND:ISH](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc)
-- [What If? by Neptunica](https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6)
+- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
+- [Baddy On The Floor by Jamie xx, Honey Dijon](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN)
+- [Serotonin Moonbeams by The Blessed Madonna, Uffie](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9)
+- [Weekends by Jonas Blue, felix jaehn](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2)
+- [Good Feeling (feat. Rhys Lewis) by Bakermat, Rhys Lewis](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
