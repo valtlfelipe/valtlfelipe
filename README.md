@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[shivamanupadi/traks](https://github.com/shivamanupadi/traks)** - Self-hosted, privacy-friendly web analytics that deploys into your own Cloudflare account in two minutes. Free forever, MIT. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Talking with My Mind by Blue Mask](https://open.spotify.com/track/6q02DdFCOLG02fWP4ezbND)
-- [loving you by red alder](https://open.spotify.com/track/4oMBSRKCsIK2ROY5X5PiuM)
-- [Home - Extended by Mahalo, Swedish Red Elephant](https://open.spotify.com/track/1pX8W8nB8R08ogzEOZidBQ)
-- [No World Outside by XOXO](https://open.spotify.com/track/3y5vVEWPCH4kYN4UsEo7f2)
-- [Lost by Amine Edge, Daecolm](https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A)
+- [Make Me Feel Like (Don&#39;t Nobody Else) by NORRA](https://open.spotify.com/track/4oLNiCIVvGyoUt219VAshi)
+- [Come Over by Amarasco](https://open.spotify.com/track/3lXZLeCp6Uv2NjTCthv8YS)
+- [STAY by LUMA](https://open.spotify.com/track/0I8IKx1WhmNGL0HHmrJs59)
+- [Moment by Robin M, Dantae The Kid](https://open.spotify.com/track/3DWOrtHvdwpv0nmzEoJikH)
+- [Falling In Love by HONDI](https://open.spotify.com/track/0j0dwVYAJEaQhhmWRH6Ojk)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
