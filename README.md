@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[shivamanupadi/traks](https://github.com/shivamanupadi/traks)** - Self-hosted, privacy-friendly web analytics that deploys into your own Cloudflare account in two minutes. Free forever, MIT. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Rule The World (Everybody) by Tiësto, Tears For Fears, NIIKO X SWAE, GUDFELLA](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6)
-- [Baddy On The Floor by Jamie xx, Honey Dijon](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN)
-- [Serotonin Moonbeams by The Blessed Madonna, Uffie](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9)
-- [Weekends by Jonas Blue, felix jaehn](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2)
-- [Good Feeling (feat. Rhys Lewis) by Bakermat, Rhys Lewis](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO)
+- [Talking with My Mind by Blue Mask](https://open.spotify.com/track/6q02DdFCOLG02fWP4ezbND)
+- [loving you by red alder](https://open.spotify.com/track/4oMBSRKCsIK2ROY5X5PiuM)
+- [Home - Extended by Mahalo, Swedish Red Elephant](https://open.spotify.com/track/1pX8W8nB8R08ogzEOZidBQ)
+- [No World Outside by XOXO](https://open.spotify.com/track/3y5vVEWPCH4kYN4UsEo7f2)
+- [Lost by Amine Edge, Daecolm](https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
