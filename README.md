@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[R44VC0RP/opensend](https://github.com/R44VC0RP/opensend)** - self-hosted transactional &amp; marketing email layer on top of aws ses (6 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Lose Control by Onycs](https://open.spotify.com/track/2BPKNyyhDqvucXwyy2fpgQ)
 - [Who I Was by Flowless](https://open.spotify.com/track/1IJna86mLujuxRBi7gOnK7)
 - [Feel Your Touch by Orum Palmer, Rosbeh](https://open.spotify.com/track/0wqKFzWsbCzhoteau3c5rz)
 - [I Can&#39;t See - Extended by ROW, Samuel Miller](https://open.spotify.com/track/7v4CkKgv07ZztFpeZDcro3)
 - [To You - Chill Mix by Taiki Nulight, Jem Cooke](https://open.spotify.com/track/482orWhvmr6K2fj6Bxkvjp)
-- [Desert Bloom - Cristian Ferrer Radio Remix by Elegant Ape, Cristian Ferrer](https://open.spotify.com/track/2SVQOQo4ObagCehZrn7z4y)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
