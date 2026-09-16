@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[R44VC0RP/opensend](https://github.com/R44VC0RP/opensend)** - self-hosted transactional &amp; marketing email layer on top of aws ses (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Lose Control by Onycs](https://open.spotify.com/track/2BPKNyyhDqvucXwyy2fpgQ)
-- [Who I Was by Flowless](https://open.spotify.com/track/1IJna86mLujuxRBi7gOnK7)
-- [Feel Your Touch by Orum Palmer, Rosbeh](https://open.spotify.com/track/0wqKFzWsbCzhoteau3c5rz)
-- [I Can&#39;t See - Extended by ROW, Samuel Miller](https://open.spotify.com/track/7v4CkKgv07ZztFpeZDcro3)
-- [To You - Chill Mix by Taiki Nulight, Jem Cooke](https://open.spotify.com/track/482orWhvmr6K2fj6Bxkvjp)
+- [Our Silence (Feels Like Something More) by Frank Incense](https://open.spotify.com/track/38vuJHCZhLmxBxz3jnBDKA)
+- [All The Places by WSTLNDR, Mrs. Revival, Amber Revival](https://open.spotify.com/track/70MUNhJ7hmp9TWkEY0NVWr)
+- [RUNNIN by Ubo](https://open.spotify.com/track/1jNsWnyvbwysESO9anm7H3)
+- [Can&#39;t Stop Thinking Of You by Ander Huang](https://open.spotify.com/track/48B0DMiwA87hlY48yVKoZk)
+- [A Feeling by Hyzteria, XIRA](https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
