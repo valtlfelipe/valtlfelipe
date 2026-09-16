@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[R44VC0RP/opensend](https://github.com/R44VC0RP/opensend)** - self-hosted transactional &amp; marketing email layer on top of aws ses (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Our Silence (Feels Like Something More) by Frank Incense](https://open.spotify.com/track/38vuJHCZhLmxBxz3jnBDKA)
-- [All The Places by WSTLNDR, Mrs. Revival, Amber Revival](https://open.spotify.com/track/70MUNhJ7hmp9TWkEY0NVWr)
-- [RUNNIN by Ubo](https://open.spotify.com/track/1jNsWnyvbwysESO9anm7H3)
-- [Can&#39;t Stop Thinking Of You by Ander Huang](https://open.spotify.com/track/48B0DMiwA87hlY48yVKoZk)
-- [A Feeling by Hyzteria, XIRA](https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu)
+- [Better Than This by ERIICE](https://open.spotify.com/track/23ldecum5hLc2SdQP8kImM)
+- [That&#39;s Where I Should Be by MA:RK](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8)
+- [fractured light by kalm](https://open.spotify.com/track/4I7DlZoH5WWLAnKrBQ2RkZ)
+- [We Run by Small Town Kid](https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj)
+- [The Best Part by anamē, gardenstate, Bien](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
