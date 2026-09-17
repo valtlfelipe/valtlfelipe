@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[R44VC0RP/opensend](https://github.com/R44VC0RP/opensend)** - self-hosted transactional &amp; marketing email layer on top of aws ses (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Forever Is Never Enough - Remix by Toxic Hearts](https://open.spotify.com/track/6OGDyLzfNnpkPk3CXRyd27)
-- [2 much - Justin Bieber - Remix by Trinix Remix](https://open.spotify.com/track/0lCdyuPe3scgmWpzUhuhvc)
-- [Juliet by Henri PFR, Wave Wave, KOPPY](https://open.spotify.com/track/3gqt2C8vfhFzdAqlv8CM6Q)
-- [Bad Habits by Ed Sheeran](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d)
-- [Missing U Again by Diielex](https://open.spotify.com/track/1PQa2w0XBxmQamrLStjNHP)
+- [Too Far to Pretend by deep dispatch, MISERO](https://open.spotify.com/track/3JXDcH41TSOJwvLX247tKI)
+- [Hold on Me by Why U So, SHELLS](https://open.spotify.com/track/43FNnp0KnanReB8KCTl97p)
+- [u know by civilian](https://open.spotify.com/track/3LyKxa3LA1WLi2qtLbCIMj)
+- [In Reverse by Daydream Affiliate](https://open.spotify.com/track/2ofN43JfvYu5zusgRGeBYL)
+- [Heaven Takes You Home (feat. Connie Constance) by Swedish House Mafia, Constance Power](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
