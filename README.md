@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[FrontDeskHQ/front-desk](https://github.com/FrontDeskHQ/front-desk)** - Customer support tool to help your customer wherever they are (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Californication by Red Hot Chili Peppers](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox)
-- [Are You Gonna Be My Girl by Jet](https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5)
-- [I Miss You by blink-182](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw)
-- [How You Remind Me by Nickelback](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf)
-- [Bring Me To Life by Evanescence](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp)
+- [Aya Aya Aya by Viva La Panda](https://open.spotify.com/track/3NrJQTBJ6ebyJXKlQMaMmd)
+- [Something Stupid (feat. AWA) - KC Lights Remix by Jonas Blue, AWA, KC Lights](https://open.spotify.com/track/6vChWkgv3K0ttMLpL822ZU)
+- [Circles by Lost Ways](https://open.spotify.com/track/77h1XglwBc67cXe3Xs4I8U)
+- [New by Mahry Mars](https://open.spotify.com/track/1gUH3eRRrdTL4KP903HYVV)
+- [Smooth Criminal - Re-Recorded by Alien Ant Farm](https://open.spotify.com/track/4OR66QnhCXndLcOP34ErnP)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
