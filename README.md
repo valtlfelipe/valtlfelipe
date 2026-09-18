@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)** - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Supermoon by Kosco](https://open.spotify.com/track/6M24qezRKtq3GyudKIZnJH)
-- [When We Meet Again - Edit by Helsloot](https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X)
-- [Adjoined by adjoin](https://open.spotify.com/track/3PtB5ZwwrrbyVMzd3KVSKI)
-- [World Of Sound by Alessandro Pierozzi](https://open.spotify.com/track/37JuRzV6YDSjQHo4Cxuvka)
-- [Bliss by MR.MNT](https://open.spotify.com/track/69p3ppb0ejqKGmuPuvvJ7F)
+- [Big Jet Plane by No Relation](https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f)
+- [Overtaking by Altro](https://open.spotify.com/track/4nD1dknWyKpPCeq9xyw4QE)
+- [About You by Giorgio Gee, Dsnt Matter](https://open.spotify.com/track/211hDnxSHGcRvXBd4yP4Yd)
+- [Lovers Arms by Golowko](https://open.spotify.com/track/0MVrmO2L0zIGnIJqWeJ03L)
+- [Take the Risk by ODNP](https://open.spotify.com/track/6gVyR8DjaSZ9fQ91981631)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
