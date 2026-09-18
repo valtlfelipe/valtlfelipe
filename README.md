@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)** - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Cradle of Life by Banyan](https://open.spotify.com/track/4oxCWHtMGYIGT5LGdgGTXU)
-- [Disconnected by Naws](https://open.spotify.com/track/0eJ49tSWSKBQ43BZ3YpyMe)
-- [Ordinary Day by GRIDD](https://open.spotify.com/track/0BG5aJIIoHlsPbmtbXRyMZ)
-- [Aurora by Andfølk, REYA](https://open.spotify.com/track/0DAb8uXdSsQpuhfbOUWVOg)
-- [Love Inc by Booka Shade](https://open.spotify.com/track/3t1zFTwUYwNWhQZp7vl96c)
+- [Supermoon by Kosco](https://open.spotify.com/track/6M24qezRKtq3GyudKIZnJH)
+- [When We Meet Again - Edit by Helsloot](https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X)
+- [Adjoined by adjoin](https://open.spotify.com/track/3PtB5ZwwrrbyVMzd3KVSKI)
+- [World Of Sound by Alessandro Pierozzi](https://open.spotify.com/track/37JuRzV6YDSjQHo4Cxuvka)
+- [Bliss by MR.MNT](https://open.spotify.com/track/69p3ppb0ejqKGmuPuvvJ7F)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
