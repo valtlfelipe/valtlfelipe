@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[rootprint/rootprint](https://github.com/rootprint/rootprint)** - Open-source, self-hosted log management platform built with Hono, SvelteKit and Quickwit! (2 days ago)
 
 #### 🎧 Spotify recent tracks
+- [Talking with My Mind by Blue Mask](https://open.spotify.com/track/6q02DdFCOLG02fWP4ezbND)
+- [Pieces by Oliver Blank, Grace Baker](https://open.spotify.com/track/7wMI6oSQ7zlsynpYIsw4Hp)
+- [For a Moment by Astradreamer](https://open.spotify.com/track/2gotdt3ai9wLemdo6AsHCJ)
 - [I&#39;d Rather Be Alone by XYSM, EDGR](https://open.spotify.com/track/3e3NPloQESLLcs1ftn04AV)
-- [Big Jet Plane by No Relation](https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f)
-- [Overtaking by Altro](https://open.spotify.com/track/4nD1dknWyKpPCeq9xyw4QE)
-- [About You by Giorgio Gee, Dsnt Matter](https://open.spotify.com/track/211hDnxSHGcRvXBd4yP4Yd)
-- [Lovers Arms by Golowko](https://open.spotify.com/track/0MVrmO2L0zIGnIJqWeJ03L)
+- [I&#39;d Rather Be Alone by XYSM, EDGR](https://open.spotify.com/track/3e3NPloQESLLcs1ftn04AV)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
