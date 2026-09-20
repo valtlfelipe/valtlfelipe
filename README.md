@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[rootprint/rootprint](https://github.com/rootprint/rootprint)** - Open-source, self-hosted log management platform built with Hono, SvelteKit and Quickwit! (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Set Me Free by SIB](https://open.spotify.com/track/2Kh9bkz03KR4IXyaR679Sq)
-- [Take Me to the River by French Braids](https://open.spotify.com/track/7iNUgJQUie3830zRx1dgiK)
-- [loving you by red alder](https://open.spotify.com/track/4oMBSRKCsIK2ROY5X5PiuM)
-- [i love u by THE21](https://open.spotify.com/track/2dBWfhTniryAQbjYd31Bwt)
-- [Very Soon - Radio Edit by Samwell (LU), J Fitz](https://open.spotify.com/track/6V9aQYK9WYSskCedT85wHQ)
+- [All I Want Is You by exclap](https://open.spotify.com/track/1kvCXlTdOSHX4nO631YTsn)
+- [Too Fine - Slowed by Gaullin, Linas Music](https://open.spotify.com/track/5QOZZlDEj5YoegasKvhJjy)
+- [Enough Of You by NORRA](https://open.spotify.com/track/16NDLHl1wKriifrKneyT87)
+- [Into The Light - Short Edit by Alande](https://open.spotify.com/track/3PpSkLTsZM8kYh390hVQCd)
+- [Lose Control by Onycs](https://open.spotify.com/track/2BPKNyyhDqvucXwyy2fpgQ)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
