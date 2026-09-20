@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[rootprint/rootprint](https://github.com/rootprint/rootprint)** - Open-source, self-hosted log management platform built with Hono, SvelteKit and Quickwit! (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [All I Want Is You by exclap](https://open.spotify.com/track/1kvCXlTdOSHX4nO631YTsn)
-- [Too Fine - Slowed by Gaullin, Linas Music](https://open.spotify.com/track/5QOZZlDEj5YoegasKvhJjy)
-- [Enough Of You by NORRA](https://open.spotify.com/track/16NDLHl1wKriifrKneyT87)
-- [Into The Light - Short Edit by Alande](https://open.spotify.com/track/3PpSkLTsZM8kYh390hVQCd)
-- [Lose Control by Onycs](https://open.spotify.com/track/2BPKNyyhDqvucXwyy2fpgQ)
+- [Smells Like Teen Spirit by DJ Dark, Sofi](https://open.spotify.com/track/6ShlyfRia4wU6ADtTH8Q69)
+- [Unholy (feat. Kim Petras) by Sam Smith, Kim Petras](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT)
+- [Mi Chico - Official - Jason Derulo x Melody by DJ Goja, Jason Derulo, Melody](https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX)
+- [Rewind by ATLVS, Maya Mikity](https://open.spotify.com/track/43N2kPxpGYhYcFWRaWGVP3)
+- [2 Much by Babsy., LAYNE](https://open.spotify.com/track/3AXAzwWnzyTlyXpggmVq84)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
