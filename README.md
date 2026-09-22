@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Life with You by INNERVERSE, Paul Schulze, Oliver Cricket, Courtney Storm](https://open.spotify.com/track/356zh8gZWsTSQqtJBUpJ3b)
-- [never enough by Max Harlow](https://open.spotify.com/track/5kqRD64G5g5Ae2h1Hzpdkx)
-- [Watching over You by Nu Aspect, Marlo Rex](https://open.spotify.com/track/3OTz9JVR0pfKbhaCL45cJy)
-- [Wasting Nights by Sweet Bill](https://open.spotify.com/track/6O5dIIG47e3A1WlCyTOcEa)
-- [Howling by SOMMA](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO)
+- [Strings Attached by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8)
+- [Need Your Love by YARA](https://open.spotify.com/track/2dRzO7tqVBegi8kkBauwZa)
+- [In My Mind by MashBit](https://open.spotify.com/track/38KzdW5NrurD00zTqpJXg2)
+- [RUNNIN by Ubo](https://open.spotify.com/track/1jNsWnyvbwysESO9anm7H3)
+- [All I Ever by Jay Mark](https://open.spotify.com/track/2lZhcjA3E5QkFVXLskgGfK)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
