@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev)** - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [WHERE DOES YOUR LOVE GO? by CHAIME](https://open.spotify.com/track/5ml6MvysYO6HoXCFw4uY1c)
-- [Strings Attached by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8)
-- [Need Your Love by YARA](https://open.spotify.com/track/2dRzO7tqVBegi8kkBauwZa)
-- [In My Mind by MashBit](https://open.spotify.com/track/38KzdW5NrurD00zTqpJXg2)
-- [All I Ever by Jay Mark](https://open.spotify.com/track/2lZhcjA3E5QkFVXLskgGfK)
+- [Listen to the Waves by Edmundo Silva](https://open.spotify.com/track/1f2pgY6TqOiH34O0Pz8Zfw)
+- [Sleep Walking by Franklin](https://open.spotify.com/track/11KXhIzhMQvUZBqiwkEShR)
+- [Feeling (Hold On You) - heylucas Remix by Rules, MURPHY, heylucas](https://open.spotify.com/track/2m5sYH1MDDe8QPybhy0fyv)
+- [Breathe in the Blue by Julien Fade, Nu-La](https://open.spotify.com/track/5j2ONNLDz5PwdXqtDU8QI0)
+- [Let Me Fall by wrongside, Shiftbach](https://open.spotify.com/track/43k7sslgIN1RU4vPNfBdfV)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
