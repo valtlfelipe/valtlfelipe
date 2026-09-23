@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev)** - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Listen to the Waves by Edmundo Silva](https://open.spotify.com/track/1f2pgY6TqOiH34O0Pz8Zfw)
-- [Sleep Walking by Franklin](https://open.spotify.com/track/11KXhIzhMQvUZBqiwkEShR)
-- [Feeling (Hold On You) - heylucas Remix by Rules, MURPHY, heylucas](https://open.spotify.com/track/2m5sYH1MDDe8QPybhy0fyv)
-- [Breathe in the Blue by Julien Fade, Nu-La](https://open.spotify.com/track/5j2ONNLDz5PwdXqtDU8QI0)
-- [Let Me Fall by wrongside, Shiftbach](https://open.spotify.com/track/43k7sslgIN1RU4vPNfBdfV)
+- [In My Mind by MashBit](https://open.spotify.com/track/38KzdW5NrurD00zTqpJXg2)
+- [RUNNIN by Ubo](https://open.spotify.com/track/1jNsWnyvbwysESO9anm7H3)
+- [All I Ever by Jay Mark](https://open.spotify.com/track/2lZhcjA3E5QkFVXLskgGfK)
+- [This Time by Small Town Kid](https://open.spotify.com/track/4sGHk5VvL7XlYICcyhkCtX)
+- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
