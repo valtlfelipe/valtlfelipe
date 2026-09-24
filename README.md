@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev)** - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Wonder by R3YAN, Oryn Lyre](https://open.spotify.com/track/53Eq339QNG9QzHvppKSkMm)
-- [Don&#39;t Say Goodbye by Kusta5](https://open.spotify.com/track/4NYskMpbPqmK1N7Yci0ulM)
-- [Ghost Of You by Nick Raff](https://open.spotify.com/track/2gLALjSFB1F7TYm9GW2rcX)
-- [Should Have Known Better by Kvarmez](https://open.spotify.com/track/6FQ736dktOPsOXxa3XgTkQ)
-- [You Better Fight For Me by DJ Mamrez, Roads We Walk](https://open.spotify.com/track/5htp7kGKtLEJY1LyC5UrGB)
+- [Better Days by Oliver Cricket](https://open.spotify.com/track/5f9t61TRxZ3ancJadJyrHm)
+- [the morning by kalm](https://open.spotify.com/track/3Hz9J3MMt7o8mdLDjEykeO)
+- [Infinite by TOMB](https://open.spotify.com/track/4Pe7GpNwZgz2F3vkybN5iD)
+- [Shallow Water - Edit by JLV, Kairos Grove](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG)
+- [Honesty by Paul Schulze, Able Faces, Callum George](https://open.spotify.com/track/5ZzE5vW4fTPzjLDEe6EjUU)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
