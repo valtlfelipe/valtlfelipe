@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[greyshepherd/hazmat](https://github.com/greyshepherd/hazmat)** - Hosts file manager for Apple Silicon Macs (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Love Like You by Jon Powers](https://open.spotify.com/track/0D2qhfzIxgCFmXoG0c8QRN)
-- [Shorelines by Sons Of Maria](https://open.spotify.com/track/4ZTOhRyYgeH5LVhQt9uj32)
-- [Want You by Dezko](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj)
-- [Treading Water by HAYLA](https://open.spotify.com/track/6yv4uevSRhuDrBGrIgpmEh)
-- [Back to Yours by ALONR](https://open.spotify.com/track/7K53AEuC71oLI4pVqoFGqe)
+- [Feeling The Same by Nyday](https://open.spotify.com/track/4a9WGmpSTpy2C7mYixenDq)
+- [Crashing Down by MashBit, Syence](https://open.spotify.com/track/1vvahR9zmdgvhybeEqkOeX)
+- [Lost In You by fwd/slash](https://open.spotify.com/track/76YExmGzDJqVdLXX4XZKIQ)
+- [Waiting for you by Future Dynamic](https://open.spotify.com/track/0quqR5451fLrbtrRvpzaWk)
+- [Slow Down by MIND](https://open.spotify.com/track/7zBUd2g1tvHbnWUazGo5rR)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
