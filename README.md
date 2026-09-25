@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[greyshepherd/hazmat](https://github.com/greyshepherd/hazmat)** - Hosts file manager for Apple Silicon Macs (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Feeling The Same by Nyday](https://open.spotify.com/track/4a9WGmpSTpy2C7mYixenDq)
-- [Crashing Down by MashBit, Syence](https://open.spotify.com/track/1vvahR9zmdgvhybeEqkOeX)
-- [Lost In You by fwd/slash](https://open.spotify.com/track/76YExmGzDJqVdLXX4XZKIQ)
-- [Waiting for you by Future Dynamic](https://open.spotify.com/track/0quqR5451fLrbtrRvpzaWk)
-- [Slow Down by MIND](https://open.spotify.com/track/7zBUd2g1tvHbnWUazGo5rR)
+- [All I Ever by Jay Mark](https://open.spotify.com/track/2lZhcjA3E5QkFVXLskgGfK)
+- [This Time by Small Town Kid](https://open.spotify.com/track/4sGHk5VvL7XlYICcyhkCtX)
+- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
+- [Holding On by MashBit, LUKE ALEXANDER, sunsett.](https://open.spotify.com/track/70cc5nSWcRNCnsRt9A3b9Z)
+- [I Feel Nothing by NM](https://open.spotify.com/track/2HV3o9zHVsx6b7GrlhlqHH)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
