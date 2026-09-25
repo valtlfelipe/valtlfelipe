@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[greyshepherd/hazmat](https://github.com/greyshepherd/hazmat)** - Hosts file manager for Apple Silicon Macs (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [The One by Jane Good, Samuel Miller](https://open.spotify.com/track/2hT9vWmKp6uduKzmalqeMA)
-- [strong by origins](https://open.spotify.com/track/2WhjGHRDLOCkLzenxrVm2I)
-- [Lean On by CAKES](https://open.spotify.com/track/1yVIJ1BZkeJVwbmok1pXus)
-- [I Can&#39;t See by ROW, Samuel Miller](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo)
-- [Speed of Light by Matvey Emerson, Able Faces](https://open.spotify.com/track/2cwwHXSJREdEH5Ab06XpoK)
+- [Love Like You by Jon Powers](https://open.spotify.com/track/0D2qhfzIxgCFmXoG0c8QRN)
+- [Shorelines by Sons Of Maria](https://open.spotify.com/track/4ZTOhRyYgeH5LVhQt9uj32)
+- [Want You by Dezko](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj)
+- [Treading Water by HAYLA](https://open.spotify.com/track/6yv4uevSRhuDrBGrIgpmEh)
+- [Back to Yours by ALONR](https://open.spotify.com/track/7K53AEuC71oLI4pVqoFGqe)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
