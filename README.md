@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[greyshepherd/hazmat](https://github.com/greyshepherd/hazmat)** - Hosts file manager for Apple Silicon Macs (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [All I Ever by Jay Mark](https://open.spotify.com/track/2lZhcjA3E5QkFVXLskgGfK)
-- [This Time by Small Town Kid](https://open.spotify.com/track/4sGHk5VvL7XlYICcyhkCtX)
-- [Seasons by Midnight Pass](https://open.spotify.com/track/5eygcNJwt9KymobPkilh2a)
-- [Holding On by MashBit, LUKE ALEXANDER, sunsett.](https://open.spotify.com/track/70cc5nSWcRNCnsRt9A3b9Z)
-- [I Feel Nothing by NM](https://open.spotify.com/track/2HV3o9zHVsx6b7GrlhlqHH)
+- [Love To Hate Me by 2NOMADS, Sevenkey](https://open.spotify.com/track/0Ls3CMt86Ck8BAtUdmLB3p)
+- [Ale Ale by Divine](https://open.spotify.com/track/08Fo8YSLBBcWIHUCtxVSD9)
+- [If You&#39;re a Liar by Venteris, Lexolee, Mark Coles](https://open.spotify.com/track/4BTsFygjgCdFGxxtkTvVBu)
+- [You by Skyles](https://open.spotify.com/track/1fkeRBuLeg6PIXWirOwDNQ)
+- [Lonely - Radio Edit by N@OM1](https://open.spotify.com/track/3y4xnh7GgZJO4JdEfxpF4M)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
