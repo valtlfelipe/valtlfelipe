@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[greyshepherd/hazmat](https://github.com/greyshepherd/hazmat)** - Hosts file manager for Apple Silicon Macs (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Love To Hate Me by 2NOMADS, Sevenkey](https://open.spotify.com/track/0Ls3CMt86Ck8BAtUdmLB3p)
-- [Ale Ale by Divine](https://open.spotify.com/track/08Fo8YSLBBcWIHUCtxVSD9)
-- [If You&#39;re a Liar by Venteris, Lexolee, Mark Coles](https://open.spotify.com/track/4BTsFygjgCdFGxxtkTvVBu)
-- [You by Skyles](https://open.spotify.com/track/1fkeRBuLeg6PIXWirOwDNQ)
-- [Lonely - Radio Edit by N@OM1](https://open.spotify.com/track/3y4xnh7GgZJO4JdEfxpF4M)
+- [Heartbeat by Elkana Paz, Mai Rubin](https://open.spotify.com/track/5nEXAkfdlNLJVwQ9A31Tpv)
+- [SOLO by Ian Storm, Lucas Estrada](https://open.spotify.com/track/1FrOILlcsn7pSm9Fjc8q9r)
+- [Drifting by Tiësto, Poppy Baskcomb](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi)
+- [Wild Ones by Phoenix Keyz, Michael Ford](https://open.spotify.com/track/4oaYTPjfTPCOSl4Y4dvL7N)
+- [Innocent by Skyles](https://open.spotify.com/track/0tbhnXHUOZNoPoeFrQ0tBU)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
