@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[greyshepherd/hazmat](https://github.com/greyshepherd/hazmat)** - Hosts file manager for Apple Silicon Macs (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [I&#39;ll Wait For You by Recens, Nathan Ball](https://open.spotify.com/track/6xLgqBh5yYxFuWReFzVMeT)
-- [come on love. by Ajaw Soul](https://open.spotify.com/track/665OVlUgmVm0gRm7QEPkn2)
-- [out of my head by James Marley](https://open.spotify.com/track/6ZVyZMTrk24uBnq104ajGk)
-- [It Can Be Better Now by anamē, Welt](https://open.spotify.com/track/4d5ErJZLcwalPSgpM2zLUm)
-- [In the Night by SOULO](https://open.spotify.com/track/6sfV0cNfOrc8waj4nsmCzx)
+- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
+- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
+- [Always The Best by Maone](https://open.spotify.com/track/31qqn3LQ8UBHsNd969vVHy)
+- [Less Is More by shandr, Lanle](https://open.spotify.com/track/4094KP9hOsY1t7U8Y0a5QA)
+- [Echoes of You by Nick En Mare](https://open.spotify.com/track/3wCiOryqYjkMDECKCcEo0Y)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
