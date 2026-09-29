@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[greyshepherd/hazmat](https://github.com/greyshepherd/hazmat)** - Hosts file manager for Apple Silicon Macs (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
-- [Beacon - Chill Mix by Rowland Giles](https://open.spotify.com/track/1uSCvHQLAWjLoOQxzE75Tr)
-- [Always The Best by Maone](https://open.spotify.com/track/31qqn3LQ8UBHsNd969vVHy)
-- [Less Is More by shandr, Lanle](https://open.spotify.com/track/4094KP9hOsY1t7U8Y0a5QA)
-- [Echoes of You by Nick En Mare](https://open.spotify.com/track/3wCiOryqYjkMDECKCcEo0Y)
+- [Holding On To You by Ross Quinn, Rules](https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH)
+- [This can&#39;t be over by Spoke](https://open.spotify.com/track/0Xpdbt5SmqLoOau5t8crXp)
+- [Sirens Tritonia 539 by anamē, Emelie Hollow](https://open.spotify.com/track/7mIuzJSmELpUy4QKn1ML8O)
+- [Late Night by Alatra](https://open.spotify.com/track/54hEl6r8bP9yEweeMs0X3a)
+- [Open Your Eyes by Solae](https://open.spotify.com/track/6pCxoxek2U2gXpT2lP076q)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
