@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)** - Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Let It Fall by DIARO](https://open.spotify.com/track/6lmiK6KaUwtdVf3XJcgIhn)
-- [Coasting by Piece Wise, De Rien](https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix)
-- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
-- [You&#39;re My Life by Sönnefelt](https://open.spotify.com/track/0ki28AJEDqpmXkd9qKMBjZ)
-- [Love You Better by Matt Dylan](https://open.spotify.com/track/0GQP42DS4tZ5tQZCbbYSmm)
+- [RUNNIN - Extended Mix by Ubo](https://open.spotify.com/track/2kd3DGqENzz3nZ8QY79H66)
+- [Slave To Desire by MXV, Extra Special](https://open.spotify.com/track/2zuqrOHDjfTjmmtLsFwiWj)
+- [Candlelight by XYSM, Joywalk](https://open.spotify.com/track/6uhtgpSpkXEO8BZDl3Ddpe)
+- [Strip Away by Verbala](https://open.spotify.com/track/6AP0up18m6dGGN4BMJarvE)
+- [Say It by Piece Wise, Abroad](https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
