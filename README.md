@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)** - Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Slave To Desire by MXV, Extra Special](https://open.spotify.com/track/2zuqrOHDjfTjmmtLsFwiWj)
-- [Candlelight by XYSM, Joywalk](https://open.spotify.com/track/6uhtgpSpkXEO8BZDl3Ddpe)
-- [Strip Away by Verbala](https://open.spotify.com/track/6AP0up18m6dGGN4BMJarvE)
-- [Say It by Piece Wise, Abroad](https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt)
-- [Settle Down - Chill Mix by Courtney Storm, Alex Adair, Rowland Giles](https://open.spotify.com/track/1sZFZfERnOvXjdszC5M9TK)
+- [Feel It by supwel](https://open.spotify.com/track/0t1SThNkcx6qpOMJWgozTU)
+- [Howl like a Wolf (dreem Remix) by Squiid, dreem, Vicki Vox](https://open.spotify.com/track/2LNupWf41VLlKg1nMJDOWz)
+- [better now by Does it matter, Francis Skyes](https://open.spotify.com/track/1tdMr2Z21Hu0znxOzy9eLv)
+- [Miss Me When I&#39;m Gone by Will Sass](https://open.spotify.com/track/4p3w6iZ2GtxGl0m4sUMihv)
+- [Let You Know by TUKTUK, Idun Nicoline, TAEMN](https://open.spotify.com/track/0eBBx8qZS6PaNrv4hSjqMj)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
