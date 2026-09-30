@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)** - Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Feel It by supwel](https://open.spotify.com/track/0t1SThNkcx6qpOMJWgozTU)
-- [Howl like a Wolf (dreem Remix) by Squiid, dreem, Vicki Vox](https://open.spotify.com/track/2LNupWf41VLlKg1nMJDOWz)
-- [better now by Does it matter, Francis Skyes](https://open.spotify.com/track/1tdMr2Z21Hu0znxOzy9eLv)
-- [Miss Me When I&#39;m Gone by Will Sass](https://open.spotify.com/track/4p3w6iZ2GtxGl0m4sUMihv)
-- [Let You Know by TUKTUK, Idun Nicoline, TAEMN](https://open.spotify.com/track/0eBBx8qZS6PaNrv4hSjqMj)
+- [Let It Fall by DIARO](https://open.spotify.com/track/6lmiK6KaUwtdVf3XJcgIhn)
+- [Coasting by Piece Wise, De Rien](https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix)
+- [Condor - Echo Edit by Echolocation, Jordan Whitlock](https://open.spotify.com/track/6tzi6WaZwDRLYUJ6EWjOmH)
+- [You&#39;re My Life by Sönnefelt](https://open.spotify.com/track/0ki28AJEDqpmXkd9qKMBjZ)
+- [Love You Better by Matt Dylan](https://open.spotify.com/track/0GQP42DS4tZ5tQZCbbYSmm)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
