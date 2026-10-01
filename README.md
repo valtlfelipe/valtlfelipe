@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)** - Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [RUNNIN - Extended Mix by Ubo](https://open.spotify.com/track/2kd3DGqENzz3nZ8QY79H66)
-- [Slave To Desire by MXV, Extra Special](https://open.spotify.com/track/2zuqrOHDjfTjmmtLsFwiWj)
-- [Candlelight by XYSM, Joywalk](https://open.spotify.com/track/6uhtgpSpkXEO8BZDl3Ddpe)
-- [Strip Away by Verbala](https://open.spotify.com/track/6AP0up18m6dGGN4BMJarvE)
-- [Say It by Piece Wise, Abroad](https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt)
+- [Slow Down (Can&#39;t Stop Thinking) by DÏVÄG](https://open.spotify.com/track/4zbuiRKl3PqCnMywNsc26M)
+- [Babel by Malik](https://open.spotify.com/track/0hqlR23smGSMceQ9KQBwrd)
+- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/6ux2llhjAuhSLggEaBoaLY)
+- [Should&#39;ve Been - Extended Mix by THAT KIND](https://open.spotify.com/track/6uveasbskhIp6YYNWfYIAG)
+- [Missing You by PALASTIC](https://open.spotify.com/track/6xq0LSTHQqpI4YOa41w5Bm)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
