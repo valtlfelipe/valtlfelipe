@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)** - Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Slow Down (Can&#39;t Stop Thinking) by DÏVÄG](https://open.spotify.com/track/4zbuiRKl3PqCnMywNsc26M)
-- [Babel by Malik](https://open.spotify.com/track/0hqlR23smGSMceQ9KQBwrd)
-- [i think i&#39;m addicted by oskar med k, Haley Joelle](https://open.spotify.com/track/6ux2llhjAuhSLggEaBoaLY)
-- [Should&#39;ve Been - Extended Mix by THAT KIND](https://open.spotify.com/track/6uveasbskhIp6YYNWfYIAG)
-- [Missing You by PALASTIC](https://open.spotify.com/track/6xq0LSTHQqpI4YOa41w5Bm)
+- [Falling by Crunkz, Maxomar](https://open.spotify.com/track/5V7Ge7D4D5UmgzxlQFa2lD)
+- [Feel This by DÏVÄG](https://open.spotify.com/track/3QAAnrgDyRsdBEYNLcJg6Q)
+- [Fade Away by MNDR](https://open.spotify.com/track/58mfdGe04zPj69BHCTpTIb)
+- [Bloom by oskar med k](https://open.spotify.com/track/6NisBf2xWzNTyDLEFlCvBk)
+- [Give In by MIND](https://open.spotify.com/track/3wP52QOzRDhXbgkcdt2qd8)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
