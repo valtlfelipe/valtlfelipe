@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)** - Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Slow Dive by feva., Kanslor](https://open.spotify.com/track/3cBXxUJAmaGweJrYA4x4ut)
-- [the grey by kalm](https://open.spotify.com/track/7pSsLajQC1EYOnKuzndAaB)
-- [climb by all things break](https://open.spotify.com/track/5R7NYsKpleEVIpZDuCauAn)
-- [Lost Without You by UPHORA, Olivion](https://open.spotify.com/track/3Czxu8fQNRb4MqtrGZq7Ia)
-- [Palm Of Your Hands by Adriatique](https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf)
+- [Caramelo by Walk on Water, OMERGY](https://open.spotify.com/track/2u9YeRtUbNo0jPmEbrL1W4)
+- [Satellite Signal by MIND](https://open.spotify.com/track/3pMuJthG4asb1jPrP2Llnu)
+- [Good, Bad, Ok by Danny EVIZA, Sam Welch](https://open.spotify.com/track/1ttByJmlnsYDLdRfFpCAyG)
+- [LET ME IN by ASK YOUR FRIENDS](https://open.spotify.com/track/3q5bPxHVmJGp9YKxIJEXvu)
+- [If You Ever Love Someone by LERØY](https://open.spotify.com/track/29WH1Xsws2hZT1exQXdBLh)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
