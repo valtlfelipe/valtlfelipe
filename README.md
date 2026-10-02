@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)** - Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Falling by Crunkz, Maxomar](https://open.spotify.com/track/5V7Ge7D4D5UmgzxlQFa2lD)
-- [Feel This by DÏVÄG](https://open.spotify.com/track/3QAAnrgDyRsdBEYNLcJg6Q)
-- [Fade Away by MNDR](https://open.spotify.com/track/58mfdGe04zPj69BHCTpTIb)
-- [Bloom by oskar med k](https://open.spotify.com/track/6NisBf2xWzNTyDLEFlCvBk)
-- [Give In by MIND](https://open.spotify.com/track/3wP52QOzRDhXbgkcdt2qd8)
+- [Slow Dive by feva., Kanslor](https://open.spotify.com/track/3cBXxUJAmaGweJrYA4x4ut)
+- [the grey by kalm](https://open.spotify.com/track/7pSsLajQC1EYOnKuzndAaB)
+- [climb by all things break](https://open.spotify.com/track/5R7NYsKpleEVIpZDuCauAn)
+- [Lost Without You by UPHORA, Olivion](https://open.spotify.com/track/3Czxu8fQNRb4MqtrGZq7Ia)
+- [Palm Of Your Hands by Adriatique](https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
