@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[superagents-lab/jev-search](https://github.com/superagents-lab/jev-search)** - Search the web with TypeSafe&#39;s Jev: source selection, query understanding and relevance ranking. Built with Search1API. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [I&#39;ll Take Your Love by Coastlines](https://open.spotify.com/track/3uxHzDd1HUty2FExtxM4B6)
 - [Never Enough by Modera, Hessian, Tailor](https://open.spotify.com/track/7ytgzwRBN7DYMcIgH8uovo)
 - [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
 - [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
 - [Feel The Emotion by fwd/slash](https://open.spotify.com/track/6chebJZzTQfGMINE4dium9)
-- [Eyesight by Mats Westbroek, Damaui](https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
