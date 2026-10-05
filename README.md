@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[sibelius/brasil-gov](https://github.com/sibelius/brasil-gov)** (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Cherish by Badflite](https://open.spotify.com/track/4ZYL4h2sQEWVBXoSuLcMEA)
-- [Glass in My Hands by Kanslor](https://open.spotify.com/track/4i1DbmMYuM0Wy0yMdl6aWN)
-- [Crazy For You by CALEIDESCOPE](https://open.spotify.com/track/1iYcv3eQMOgdVt5BbVuBSc)
-- [Inner Light by PALASTIC, Malou](https://open.spotify.com/track/4mD6xnWbbhIjVZe4E7oDkk)
-- [R U Mine by D.O.D, MALARKEY, Marlo Rex](https://open.spotify.com/track/1HeFMsqpnX9VarP28V45xO)
+- [I&#39;ll miss you by Bassi Fox](https://open.spotify.com/track/5XAiDHsD9nVkzaB7o8uetH)
+- [On The Low by Jorden Dux](https://open.spotify.com/track/6oAnsgzbaCOrHVprDQIOgb)
+- [Hear My Call by H:dn](https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW)
+- [Don&#39;t Feel The Same by safe and sound](https://open.spotify.com/track/71hlEF0Slx0gtQWh0UghfO)
+- [Games by Gaullin, WLCH](https://open.spotify.com/track/7Lj0xk8V8jaTm58F7s51bE)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
