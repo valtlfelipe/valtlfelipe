@@ -3,17 +3,17 @@
 I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
+- **[sarensw/MacPacker](https://github.com/sarensw/MacPacker)** - Archive manager and 7zip replacement for macOS. Preview (nested) archives without extracting them. Extract single files. (today)
+- **[cjpais/Handy](https://github.com/cjpais/Handy)** - A free, open source, and extensible speech-to-text application that works completely offline. (today)
+- **[Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB)** - The all-in-one bootable USB creator for Mac (today)
+- **[thedevs-network/kutt](https://github.com/thedevs-network/kutt)** - Free Modern URL Shortener. (today)
 - **[sibelius/brasil-gov](https://github.com/sibelius/brasil-gov)** (3 days ago)
-- **[altcha-org/altcha](https://github.com/altcha-org/altcha)** - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism. (6 days ago)
-- **[theoephraim/awesome-cloudflare-selfhosted](https://github.com/theoephraim/awesome-cloudflare-selfhosted)** - 🍊☁️ Open-source* apps that replace SaaS product &#43; tools, running in your own Cloudflare account (1 week ago)
-- **[The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)** - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. (1 week ago)
-- **[superagents-lab/jev-search](https://github.com/superagents-lab/jev-search)** - Search the web with TypeSafe&#39;s Jev: source selection, query understanding and relevance ranking. Built with Search1API. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [What You Do to Me by fwd/slash](https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF)
-- [I&#39;ll Take Your Love by Coastlines](https://open.spotify.com/track/3uxHzDd1HUty2FExtxM4B6)
-- [Never Enough by Modera, Hessian, Tailor](https://open.spotify.com/track/7ytgzwRBN7DYMcIgH8uovo)
-- [Your Way by Duce](https://open.spotify.com/track/4w10pBgLuDUdBqwMGBU62i)
-- [Just Can&#39;t Stop by Hessian, Farves, flyckt](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv)
+- [Cherish by Badflite](https://open.spotify.com/track/4ZYL4h2sQEWVBXoSuLcMEA)
+- [Glass in My Hands by Kanslor](https://open.spotify.com/track/4i1DbmMYuM0Wy0yMdl6aWN)
+- [Crazy For You by CALEIDESCOPE](https://open.spotify.com/track/1iYcv3eQMOgdVt5BbVuBSc)
+- [Inner Light by PALASTIC, Malou](https://open.spotify.com/track/4mD6xnWbbhIjVZe4E7oDkk)
+- [R U Mine by D.O.D, MALARKEY, Marlo Rex](https://open.spotify.com/track/1HeFMsqpnX9VarP28V45xO)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
