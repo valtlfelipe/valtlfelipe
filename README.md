@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[sibelius/brasil-gov](https://github.com/sibelius/brasil-gov)** (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Our Time by Kemkila](https://open.spotify.com/track/184GvhVWayv1z7SBOczpr1)
-- [Can&#39;t Forget About You by Ross Quinn](https://open.spotify.com/track/6dk2JOBw1ffbbyUumKuOwt)
-- [Take You To The Sky by Boy Tedson](https://open.spotify.com/track/6g7dtcHpqdN2f4EdHHXJSw)
-- [Closer Now by RUSSI, NOVA](https://open.spotify.com/track/5w2mESExA17rUQMjuVmvke)
-- [Drowning by safe and sound](https://open.spotify.com/track/4fCK1tHKoqgjwnJgTcC5jc)
+- [Nu te mai am by Nesco](https://open.spotify.com/track/3bSsFIb0A0S5CBvctfDawu)
+- [Turn The Light Off by MY&amp;FRIENDS](https://open.spotify.com/track/3G8UXk2lF5EuU1gnKPkAvI)
+- [do you mean by WITH U](https://open.spotify.com/track/1B53DeNc65P21qWyLyTPYT)
+- [SASHI - Afro House by sunset groove](https://open.spotify.com/track/3GMqriDMDNr2DL2M14ot9b)
+- [Only One by safe and sound](https://open.spotify.com/track/6g052dOueSrE1trkSLrrGO)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
