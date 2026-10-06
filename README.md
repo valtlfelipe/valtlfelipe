@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[sibelius/brasil-gov](https://github.com/sibelius/brasil-gov)** (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [I&#39;ll miss you by Bassi Fox](https://open.spotify.com/track/5XAiDHsD9nVkzaB7o8uetH)
-- [On The Low by Jorden Dux](https://open.spotify.com/track/6oAnsgzbaCOrHVprDQIOgb)
-- [Hear My Call by H:dn](https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW)
-- [Don&#39;t Feel The Same by safe and sound](https://open.spotify.com/track/71hlEF0Slx0gtQWh0UghfO)
-- [Games by Gaullin, WLCH](https://open.spotify.com/track/7Lj0xk8V8jaTm58F7s51bE)
+- [I give it to you by Tury](https://open.spotify.com/track/3BNVxSQf0VKYuH8Smf1EGf)
+- [Burnin by Ted Bear](https://open.spotify.com/track/4TEiM1KgYfyg9g5e7SMFSY)
+- [7 days a week - Dallin Dance Remix by Dallin Dance, Mia Miles](https://open.spotify.com/track/4vaVAITwgvzRFaKmeXbTAd)
+- [Horizon by Naws, Milesy, WLDFLOW3R](https://open.spotify.com/track/0lhioSeo3MhnoaRZCvn0xO)
+- [Used To Feel Oke by Semblance Smile](https://open.spotify.com/track/2oz1M41WRj8u4t0Frb90hO)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
