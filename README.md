@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
-- **[sarensw/MacPacker](https://github.com/sarensw/MacPacker)** - Archive manager and 7zip replacement for macOS. Preview (nested) archives without extracting them. Extract single files. (today)
-- **[cjpais/Handy](https://github.com/cjpais/Handy)** - A free, open source, and extensible speech-to-text application that works completely offline. (today)
-- **[Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB)** - The all-in-one bootable USB creator for Mac (today)
-- **[thedevs-network/kutt](https://github.com/thedevs-network/kutt)** - Free Modern URL Shortener. (today)
-- **[sibelius/brasil-gov](https://github.com/sibelius/brasil-gov)** (3 days ago)
+- **[sarensw/MacPacker](https://github.com/sarensw/MacPacker)** - Archive manager and 7zip replacement for macOS. Preview (nested) archives without extracting them. Extract single files. (1 day ago)
+- **[cjpais/Handy](https://github.com/cjpais/Handy)** - A free, open source, and extensible speech-to-text application that works completely offline. (1 day ago)
+- **[Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB)** - The all-in-one bootable USB creator for Mac (1 day ago)
+- **[thedevs-network/kutt](https://github.com/thedevs-network/kutt)** - Free Modern URL Shortener. (1 day ago)
+- **[sibelius/brasil-gov](https://github.com/sibelius/brasil-gov)** (4 days ago)
 
 #### 🎧 Spotify recent tracks
 - [I&#39;ll miss you by Bassi Fox](https://open.spotify.com/track/5XAiDHsD9nVkzaB7o8uetH)
