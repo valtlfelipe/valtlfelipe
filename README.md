@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[thedevs-network/kutt](https://github.com/thedevs-network/kutt)** - Free Modern URL Shortener. (2 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Know About Me by safe and sound](https://open.spotify.com/track/5W9fDGdB7QNsxXsy4SyunG)
-- [My Lover by Otto Knows](https://open.spotify.com/track/6vx7h9Og7Aa1nb1ktu6mdd)
-- [Do You Do This Often by Le P](https://open.spotify.com/track/1HNRiQWaEpQps9WHqd2aQz)
-- [Should&#39;ve Been by THAT KIND](https://open.spotify.com/track/2YSVqMtmFuqfl0gMOhD05W)
-- [When I Close My Eyes by DALEXO, Adrian Fyrla, Boix &amp; Breakloop, GIPX](https://open.spotify.com/track/3TR0yrnB0e5kcslE1SLORH)
+- [Better Off Alone by Dunaria](https://open.spotify.com/track/3CBW4al9qZfz24SnYdBF3A)
+- [bring your love (to the light) by Noah Henderson](https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq)
+- [AFTRHRS by Mark Eteson, Pearl](https://open.spotify.com/track/01SRslTtLgOFaaoyY6xkAo)
+- [TÚ by CORKIDI, Alex Ponce](https://open.spotify.com/track/0Kj93A1Sqtt4D55IVzI5bA)
+- [Yours Alone by Jellis](https://open.spotify.com/track/2Mtrvats32fBqnYlbaXxwj)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
