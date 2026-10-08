@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[superdesigndev/treg](https://github.com/superdesigndev/treg)** - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
-- [One Spark by Paul Schulze](https://open.spotify.com/track/3p9rfTQl8x6h3PY0Naa0H7)
-- [Believe in me by Prinsblunder](https://open.spotify.com/track/017xj7r0aRQeouVZx52bh8)
-- [Lost in You by Astrality, Thandi](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH)
-- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
+- [Stay by Julien Fade](https://open.spotify.com/track/6UTUFTUBJEDtO9HXWO1KEA)
+- [You Said Forever by NM](https://open.spotify.com/track/0Gin2d0Fk3rLBQ29B9AXL2)
+- [We Run by Small Town Kid](https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj)
+- [Playback by Daydream Affiliate](https://open.spotify.com/track/1cIwWZ0UUervIBRfl8mwzc)
+- [Slow Down by MIND](https://open.spotify.com/track/7zBUd2g1tvHbnWUazGo5rR)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
