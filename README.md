@@ -3,17 +3,17 @@
 I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
+- **[elie222/rakazo](https://github.com/elie222/rakazo)** - Open-source Grok Bot alternative. Choose your own model and sandbox. (today)
+- **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** - Open-source Grok Bot alternative with a virtual machine that bots can use (today)
+- **[storytold/artcraft](https://github.com/storytold/artcraft)** - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (today)
+- **[productdevbook/yuva](https://github.com/productdevbook/yuva)** - Open-source customer messaging for teams with many products: e-mail, live chat and in-app conversations in one inbox. Pre-alpha. (today)
 - **[superdesigndev/treg](https://github.com/superdesigndev/treg)** - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn (1 day ago)
-- **[sarensw/MacPacker](https://github.com/sarensw/MacPacker)** - Archive manager and 7zip replacement for macOS. Preview (nested) archives without extracting them. Extract single files. (3 days ago)
-- **[cjpais/Handy](https://github.com/cjpais/Handy)** - A free, open source, and extensible speech-to-text application that works completely offline. (3 days ago)
-- **[Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB)** - The all-in-one bootable USB creator for Mac (3 days ago)
-- **[thedevs-network/kutt](https://github.com/thedevs-network/kutt)** - Free Modern URL Shortener. (3 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Better Off Alone by Dunaria](https://open.spotify.com/track/3CBW4al9qZfz24SnYdBF3A)
-- [bring your love (to the light) by Noah Henderson](https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq)
-- [AFTRHRS by Mark Eteson, Pearl](https://open.spotify.com/track/01SRslTtLgOFaaoyY6xkAo)
-- [TÚ by CORKIDI, Alex Ponce](https://open.spotify.com/track/0Kj93A1Sqtt4D55IVzI5bA)
-- [Yours Alone by Jellis](https://open.spotify.com/track/2Mtrvats32fBqnYlbaXxwj)
+- [Drive All Night by Leo Stannard, Banyan](https://open.spotify.com/track/31wPuZZK6eH4h1kgfM8HSp)
+- [One Spark by Paul Schulze](https://open.spotify.com/track/3p9rfTQl8x6h3PY0Naa0H7)
+- [Believe in me by Prinsblunder](https://open.spotify.com/track/017xj7r0aRQeouVZx52bh8)
+- [Lost in You by Astrality, Thandi](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH)
+- [Not Giving You Up by Rules](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
