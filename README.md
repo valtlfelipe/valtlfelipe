@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
-- **[elie222/rakazo](https://github.com/elie222/rakazo)** - Open-source Grok Bot alternative. Choose your own model and sandbox. (today)
-- **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** - Open-source Grok Bot alternative with a virtual machine that bots can use (today)
-- **[storytold/artcraft](https://github.com/storytold/artcraft)** - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (today)
-- **[productdevbook/yuva](https://github.com/productdevbook/yuva)** - Open-source customer messaging for teams with many products: e-mail, live chat and in-app conversations in one inbox. Pre-alpha. (today)
-- **[superdesigndev/treg](https://github.com/superdesigndev/treg)** - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn (1 day ago)
+- **[elie222/rakazo](https://github.com/elie222/rakazo)** - Open-source Grok Bot alternative. Choose your own model and sandbox. (1 day ago)
+- **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** - Open-source Grok Bot alternative with a virtual machine that bots can use (1 day ago)
+- **[storytold/artcraft](https://github.com/storytold/artcraft)** - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (1 day ago)
+- **[productdevbook/yuva](https://github.com/productdevbook/yuva)** - Open-source customer messaging for teams with many products: e-mail, live chat and in-app conversations in one inbox. Pre-alpha. (1 day ago)
+- **[superdesigndev/treg](https://github.com/superdesigndev/treg)** - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn (2 days ago)
 
 #### 🎧 Spotify recent tracks
 - [Stay by Julien Fade](https://open.spotify.com/track/6UTUFTUBJEDtO9HXWO1KEA)
