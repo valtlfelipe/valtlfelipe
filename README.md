@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
+- **[encoredev/encore](https://github.com/encoredev/encore)** - The infrastructure platform for the intelligence era (today)
+- **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. (today)
+- **[marclou/mailcheap](https://github.com/marclou/mailcheap)** - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails. (today)
 - **[miantiao-me/Sink](https://github.com/miantiao-me/Sink)** - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare. (1 day ago)
 - **[mirza-rizvi/ResolveHQ](https://github.com/mirza-rizvi/ResolveHQ)** - Self-hosted helpdesk on Cloudflare Workers: D1, R2, Queues, Email Routing. Shared inbox, email threading, AI assist. (1 day ago)
-- **[elie222/rakazo](https://github.com/elie222/rakazo)** - Open-source Grok Bot alternative. Choose your own model and sandbox. (2 days ago)
-- **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)** - Open-source Grok Bot alternative with a virtual machine that bots can use (2 days ago)
-- **[storytold/artcraft](https://github.com/storytold/artcraft)** - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (2 days ago)
 
 #### 🎧 Spotify recent tracks
 - [New Religion by Bebe Rexha, Faithless](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ)
