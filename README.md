@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[mirza-rizvi/ResolveHQ](https://github.com/mirza-rizvi/ResolveHQ)** - Self-hosted helpdesk on Cloudflare Workers: D1, R2, Queues, Email Routing. Shared inbox, email threading, AI assist. (1 day ago)
 
 #### 🎧 Spotify recent tracks
-- [New Religion by Bebe Rexha, Faithless](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ)
-- [Self Aware by LUM!X](https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf)
-- [Movin&#39; To The Sun by HUGEL, Ultra Naté](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2)
-- [Breathing by Ben Böhmer, Nils Hoffmann, Malou](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ)
-- [More by Jan Blomqvist, Elena Pitoulis](https://open.spotify.com/track/7wrzn0qwqIvhfsLAG5BimM)
+- [The Past, The Present, The Future by David Guetta, Marten Hørger, Men Machine](https://open.spotify.com/track/1Cp8mfSFvYo7ddTy7NkmpL)
+- [Jamaican (Bam Bam) by HUGEL, SOLTO (FR)](https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4)
+- [F_ck it (I don‘t want you back) by Ely Oaks, sirinens](https://open.spotify.com/track/1znJWibinMhVodZelReFab)
+- [Turn The Tide (ft. Sylver) by Dimitri Vegas, Sylver, Pat B](https://open.spotify.com/track/5Dkzvw1WWPF8naTU5gUbY1)
+- [Toca&#39;s Miracle by Armin van Buuren, Pete Tong, Poppy Baskcomb](https://open.spotify.com/track/2dff2oZ433Dtyn8Pbq2YSZ)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
