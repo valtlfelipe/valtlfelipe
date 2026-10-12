@@ -3,7 +3,7 @@
 I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
-- **[encoredev/encore](https://github.com/encoredev/encore)** - The infrastructure platform for the intelligence era (2 days ago)
+- **[encoredev/encore](https://github.com/encoredev/encore)** - Infrastructure orchestration from local to your cloud (2 days ago)
 - **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. (2 days ago)
 - **[marclou/mailcheap](https://github.com/marclou/mailcheap)** - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails. (2 days ago)
 - **[miantiao-me/Sink](https://github.com/miantiao-me/Sink)** - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare. (3 days ago)
