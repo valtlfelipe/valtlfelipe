@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[mirza-rizvi/ResolveHQ](https://github.com/mirza-rizvi/ResolveHQ)** - Self-hosted helpdesk on Cloudflare Workers: D1, R2, Queues, Email Routing. Shared inbox, email threading, AI assist. (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The Past, The Present, The Future by David Guetta, Marten Hørger, Men Machine](https://open.spotify.com/track/1Cp8mfSFvYo7ddTy7NkmpL)
-- [Jamaican (Bam Bam) by HUGEL, SOLTO (FR)](https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4)
-- [F_ck it (I don‘t want you back) by Ely Oaks, sirinens](https://open.spotify.com/track/1znJWibinMhVodZelReFab)
-- [Turn The Tide (ft. Sylver) by Dimitri Vegas, Sylver, Pat B](https://open.spotify.com/track/5Dkzvw1WWPF8naTU5gUbY1)
-- [Toca&#39;s Miracle by Armin van Buuren, Pete Tong, Poppy Baskcomb](https://open.spotify.com/track/2dff2oZ433Dtyn8Pbq2YSZ)
+- [Skeppet by Deep Sea Society](https://open.spotify.com/track/5ThjUzgqmxSkKpPhkiQb2f)
+- [Maui by Golden After](https://open.spotify.com/track/0Q5gFY7uiRF5ntkNfwimCO)
+- [paloma by MayDance](https://open.spotify.com/track/36D5NsUqwWZFwfYhYtS6Tc)
+- [Friday Lights by Zenn](https://open.spotify.com/track/5ZGJo9tYvEIYyvQm1NMxif)
+- [Dream about us by Cedar Room](https://open.spotify.com/track/1vpvFDx2fhhL8JSsFei0UT)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
