@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[miantiao-me/Sink](https://github.com/miantiao-me/Sink)** - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [You Let Me Go by UPHORA](https://open.spotify.com/track/7BeuOsNTyEp4tV5NOhBayX)
-- [DIDN&#39;T WE? by NICO](https://open.spotify.com/track/6ZrnPmBBCMQefd68M36wnJ)
-- [How I Feel by ItsArius, Lynnic, Lighthouse](https://open.spotify.com/track/7gUIbLDsuL11u8UV7OkuO5)
-- [think about by zone](https://open.spotify.com/track/5Z5KrvEd2gqmLH2FzV12ap)
-- [Strings Attached - Extended by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/68FcC7rZFftR7krAKayPlq)
+- [Right There by SRTW](https://open.spotify.com/track/4jg96G0dqeZpcAHSLGvfX9)
+- [eyes open by kalm, Aiko](https://open.spotify.com/track/54pLFtmVWrOL6zxfREiJcI)
+- [In Your Love by Rules](https://open.spotify.com/track/0zP430NOZ4rxY65N61vPZS)
+- [Wherever U Are by NOAM, D3EPANK, Sax&#39;Appeal](https://open.spotify.com/track/3hPQjeaLyBE0Oiz0gBRaiK)
+- [one more reason by i.am.u.](https://open.spotify.com/track/7EmPViuMV2umYJy94xSXh6)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
