@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[miantiao-me/Sink](https://github.com/miantiao-me/Sink)** - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare. (5 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Right There by SRTW](https://open.spotify.com/track/4jg96G0dqeZpcAHSLGvfX9)
-- [eyes open by kalm, Aiko](https://open.spotify.com/track/54pLFtmVWrOL6zxfREiJcI)
-- [In Your Love by Rules](https://open.spotify.com/track/0zP430NOZ4rxY65N61vPZS)
-- [Wherever U Are by NOAM, D3EPANK, Sax&#39;Appeal](https://open.spotify.com/track/3hPQjeaLyBE0Oiz0gBRaiK)
-- [one more reason by i.am.u.](https://open.spotify.com/track/7EmPViuMV2umYJy94xSXh6)
+- [What Do U Feel by NOAM](https://open.spotify.com/track/16Q4TkZM7k4pbQMRTdmeBv)
+- [Rose London by POOLSE](https://open.spotify.com/track/2IDJM1GiZ6djJPJYwcb62k)
+- [can&#39;t you stay by Luke Mellow](https://open.spotify.com/track/1JWSo4kSKOifrNODVcUYzD)
+- [Butterflies by Miguel Campbell](https://open.spotify.com/track/4QRBd1iviCFzrsQ43cJcAj)
+- [Lost by Afriq](https://open.spotify.com/track/3aqzJfBdMf8ivmCXPh8Gly)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
