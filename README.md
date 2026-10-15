@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[miantiao-me/Sink](https://github.com/miantiao-me/Sink)** - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [What Do U Feel by NOAM](https://open.spotify.com/track/16Q4TkZM7k4pbQMRTdmeBv)
-- [Rose London by POOLSE](https://open.spotify.com/track/2IDJM1GiZ6djJPJYwcb62k)
-- [can&#39;t you stay by Luke Mellow](https://open.spotify.com/track/1JWSo4kSKOifrNODVcUYzD)
-- [Butterflies by Miguel Campbell](https://open.spotify.com/track/4QRBd1iviCFzrsQ43cJcAj)
-- [Lost by Afriq](https://open.spotify.com/track/3aqzJfBdMf8ivmCXPh8Gly)
+- [Moments by solitude.](https://open.spotify.com/track/75ElI1cRs895z44FeFpOeC)
+- [can i come by kalm](https://open.spotify.com/track/6ZIPhmgKBg48ncKM1EpeYx)
+- [Make Me Feel Like (Don&#39;t Nobody Else) - Extended Mix by NORRA](https://open.spotify.com/track/7cgeVad7LParhzOjAuvdLM)
+- [I Still Reach by Spoke](https://open.spotify.com/track/49teubxr4Mz0UeTg1bpYUW)
+- [Gravity by Lynnic, ItsArius, Dinia](https://open.spotify.com/track/6FRLCX1MnzIiRaXZA8zFay)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
