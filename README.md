@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[miantiao-me/Sink](https://github.com/miantiao-me/Sink)** - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [I Wouldn&#39;t Come Back by Lion](https://open.spotify.com/track/4isuyvrPXx7kQr0MWHP9m3)
-- [Falling into You by Soulflow](https://open.spotify.com/track/7B9GM2PNugSwEBHpkAgRCf)
-- [Enough Of You by NORRA](https://open.spotify.com/track/16NDLHl1wKriifrKneyT87)
-- [Regret by Astrality, Arinn, B-Goss](https://open.spotify.com/track/2oBje7u1mBFIxurtNHBbjF)
-- [On My Mind by B-Rain, DEFREEZE, Erick Gardina](https://open.spotify.com/track/5OdDSxyEIJi5r5tgdcAVOo)
+- [Not Giving Up by Shöngo, KATYA OS](https://open.spotify.com/track/79cOuSH0sjwaXvdvXox48X)
+- [When I&#39;m Gone (Miss Me) by mISHØ, ZreniX](https://open.spotify.com/track/67otpxEsNP5uIvbZb4uoz4)
+- [Loving You by Davis Lee, MOUNT](https://open.spotify.com/track/0AGo82RN3QqjIyEYhTEZJX)
+- [Wrong by Okisan](https://open.spotify.com/track/0wZzgu5huiJb0bs36D1LKo)
+- [Let Me Down by Sander W.](https://open.spotify.com/track/2gooOpxF4aSvSuOSLxTtTc)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
