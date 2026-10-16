@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[marclou/mailcheap](https://github.com/marclou/mailcheap)** - Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Encore by MR TOUT LE MONDE](https://open.spotify.com/track/51lP7nEIFmpz4uE3HNCTlb)
-- [Did You Notice by ESound](https://open.spotify.com/track/7zlC8KVMJBd2lDOGfbgRvn)
-- [Hard To Breathe by Ross Quinn](https://open.spotify.com/track/5wh6QZz5IYKHBPD9krSDu1)
-- [Tell Me by Small Town Kid](https://open.spotify.com/track/6H2ITmuu8WT6nIkcOBz4N8)
-- [moving on by kalm](https://open.spotify.com/track/3qj349zyG0sDNwowKBzVmD)
+- [Bleeding Love by Leona Lewis](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE)
+- [Set Fire to the Rain by Adele](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi)
+- [As It Was by Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
+- [Until I Found You (with Em Beihold) - Em Beihold Version by Stephen Sanchez, Em Beihold](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN)
+- [Maps by Maroon 5](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
