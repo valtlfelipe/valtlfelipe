@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[marclou/mailcheap](https://github.com/marclou/mailcheap)** - Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [La Cosa Mas Bella by Eros Ramazzotti](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2)
 - [Girl on Fire by Alicia Keys](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco)
 - [We Are Young (feat. Janelle Monáe) by fun., Janelle Monáe](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf)
 - [Bleeding Love by Leona Lewis](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE)
 - [Set Fire to the Rain by Adele](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi)
-- [As It Was by Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
