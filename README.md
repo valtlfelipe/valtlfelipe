@@ -3,11 +3,11 @@
 I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
+- **[useopendesk/opendesk](https://github.com/useopendesk/opendesk)** - The open-source support inbox &#43; live chat for your website (today)
 - **[awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)** - EKS Node Viewer (1 day ago)
 - **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (4 days ago)
 - **[encoredev/encore](https://github.com/encoredev/encore)** - Infrastructure orchestration from local to your cloud (1 week ago)
 - **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. (1 week ago)
-- **[marclou/mailcheap](https://github.com/marclou/mailcheap)** - Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai. (1 week ago)
 
 #### 🎧 Spotify recent tracks
 - [La Cosa Mas Bella by Eros Ramazzotti](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2)
