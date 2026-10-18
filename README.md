@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. (1 week ago)
 
 #### 🎧 Spotify recent tracks
+- [Gravity by twocolors, ÁSDÍS](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh)
 - [La Cosa Mas Bella by Eros Ramazzotti](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2)
 - [Girl on Fire by Alicia Keys](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco)
 - [We Are Young (feat. Janelle Monáe) by fun., Janelle Monáe](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf)
 - [Bleeding Love by Leona Lewis](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE)
-- [Set Fire to the Rain by Adele](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
