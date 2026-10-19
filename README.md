@@ -3,9 +3,9 @@
 I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
-- **[useopendesk/opendesk](https://github.com/useopendesk/opendesk)** - The open-source support inbox &#43; live chat for your website (1 day ago)
-- **[awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)** - EKS Node Viewer (2 days ago)
-- **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (5 days ago)
+- **[useopendesk/opendesk](https://github.com/useopendesk/opendesk)** - The open-source support inbox &#43; live chat for your website (2 days ago)
+- **[awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)** - EKS Node Viewer (3 days ago)
+- **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (6 days ago)
 - **[encoredev/encore](https://github.com/encoredev/encore)** - Infrastructure orchestration from local to your cloud (1 week ago)
 - **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. (1 week ago)
 
