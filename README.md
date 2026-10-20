@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[nightly-labs/openbot](https://github.com/nightly-labs/openbot)** - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Gravity by twocolors, ÁSDÍS](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh)
-- [La Cosa Mas Bella by Eros Ramazzotti](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2)
-- [Girl on Fire by Alicia Keys](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco)
-- [We Are Young (feat. Janelle Monáe) by fun., Janelle Monáe](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf)
-- [Bleeding Love by Leona Lewis](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE)
+- [Home and Dry by Mindcage](https://open.spotify.com/track/2RDcwwOhLy6pKcGzmifYN5)
+- [How We Do by Maxxteen](https://open.spotify.com/track/1qM44i3fF16l7vVgMIrzhn)
+- [So Caught by DEL-30, Chewna](https://open.spotify.com/track/71FwqgkCze9ppy0ZcQzlpz)
+- [Voyage - Extended Mix by NATYS, LHL](https://open.spotify.com/track/4KUT4HqjnGQlTBLgm1Je7n)
+- [Feel It Now by sleepy dude](https://open.spotify.com/track/2P08J0uy6gkCJ2JKJJ7ULm)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
