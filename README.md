@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [To The Ground by Lynnic, ItsArius, GHALIA](https://open.spotify.com/track/546wvaJ50p7hT0m29CbrqQ)
-- [Notice by ItsArius, Lynnic](https://open.spotify.com/track/22yVqzQxaOobjbYsWMgmUq)
-- [haunted by you by butter](https://open.spotify.com/track/2t0CwGmBQuGRa5A8vG113Z)
-- [Thinking About You by LYOD](https://open.spotify.com/track/1ynipDvzDwFMe2LxIvwvNh)
-- [feelings by byyron](https://open.spotify.com/track/7oEbfEHMaS0wAknWQlb18m)
+- [Feel It Now by sleepy dude](https://open.spotify.com/track/2P08J0uy6gkCJ2JKJJ7ULm)
+- [My Everything by Nico de Andrea, Darla Jade](https://open.spotify.com/track/5S6u0Lr5fsM289nhkhmXFy)
+- [All That I Want by Kaz Benson](https://open.spotify.com/track/4sWN1Zsu0uAGwRG99Dxw8i)
+- [Don&#39;t Wanna Go by ItsArius, Lynnic, Kezano](https://open.spotify.com/track/0PgsSMSPiDhlMWFc6wWdSs)
+- [No One Compares by valdemar, Naarly](https://open.spotify.com/track/3YJR1CUht5BB92AlmifZmG)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
