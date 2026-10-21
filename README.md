@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Out Of The Dark (Slowed) by ATALE](https://open.spotify.com/track/5H65LWpEr8HrdWhAGn0kGz)
-- [Domino by DaLu JaVa](https://open.spotify.com/track/6WCkVA6X6BpEYULsP8a3Kr)
-- [lifeline by butter](https://open.spotify.com/track/5jWCUL81joL0guss7A2PHb)
-- [ATMO by SOULO](https://open.spotify.com/track/0k1vEMp7vF8SfxaOhGSrFZ)
-- [Something on My Mind by deep dispatch](https://open.spotify.com/track/4FwroZwpBJqwRICfuG3aRr)
+- [Me And You by Verb](https://open.spotify.com/track/4WdbcXxcM2v305lKjLk4rz)
+- [Restart Me by April Girl](https://open.spotify.com/track/0oqeeB4sX3AxsRPimey0XH)
+- [Keep Breathing by Lynnic, ItsArius, Mocean](https://open.spotify.com/track/6vvXh0hOgCPNxD2E70Iful)
+- [I hope you&#39;re happy now by Bassi Fox](https://open.spotify.com/track/4fWYQ0La0waMBD1CqJSuAD)
+- [running faster by butter](https://open.spotify.com/track/0UZnLNXq0QuYCaF62Bdsq8)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
