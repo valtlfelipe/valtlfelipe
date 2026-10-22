@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Something Real - Extended by Nu Aspect](https://open.spotify.com/track/25ogqcFBb5rZ4BZtoPr8zr)
-- [Me And You by Verb](https://open.spotify.com/track/4WdbcXxcM2v305lKjLk4rz)
-- [Restart Me by April Girl](https://open.spotify.com/track/0oqeeB4sX3AxsRPimey0XH)
-- [seasons change by Mosaé](https://open.spotify.com/track/7nAFKjfhUrq0UyivESkX1Y)
-- [Keep Breathing by Lynnic, ItsArius, Mocean](https://open.spotify.com/track/6vvXh0hOgCPNxD2E70Iful)
+- [Letter by Mac Kay](https://open.spotify.com/track/03yUJ4RAVARMhRHPRTWhvq)
+- [Dual Wield by Dotlights](https://open.spotify.com/track/4DgL8qkxQ2CAt25csicZpI)
+- [idontwantloveagain by Psalm Trees, ALEXANDER](https://open.spotify.com/track/4yXL4Kp2j5C7OqQ1EcINSm)
+- [Stealth by Beowülf](https://open.spotify.com/track/1PwTjfowi7elUSVCWBItZe)
+- [Another drink please by Greenfinch, Aphrow](https://open.spotify.com/track/1qg3bws44cVMmVKEwmjB3z)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
