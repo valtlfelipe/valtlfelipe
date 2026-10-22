@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Letter by Mac Kay](https://open.spotify.com/track/03yUJ4RAVARMhRHPRTWhvq)
-- [Dual Wield by Dotlights](https://open.spotify.com/track/4DgL8qkxQ2CAt25csicZpI)
-- [idontwantloveagain by Psalm Trees, ALEXANDER](https://open.spotify.com/track/4yXL4Kp2j5C7OqQ1EcINSm)
-- [Stealth by Beowülf](https://open.spotify.com/track/1PwTjfowi7elUSVCWBItZe)
-- [Another drink please by Greenfinch, Aphrow](https://open.spotify.com/track/1qg3bws44cVMmVKEwmjB3z)
+- [Beaugrenelle by anbuu](https://open.spotify.com/track/2PCQuNTvTyaZryxSZfjktJ)
+- [Amoureux by The Deli](https://open.spotify.com/track/1OtoeoaoGZjutA6ek4N5A5)
+- [Deeper by Swink](https://open.spotify.com/track/5prCXxPhTrXPrem69aoyua)
+- [Foolproof by Heem, Fo1006](https://open.spotify.com/track/436DRLkl0FpVkWBXSseOfx)
+- [Plurielles by L&#39;Indécis](https://open.spotify.com/track/07v9XnfFBghZBY2tR9A9He)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
