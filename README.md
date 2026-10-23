@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [True Love by GiBoss](https://open.spotify.com/track/6Cj6StQ8ZnXpqM4EIr60sf)
-- [Me Va Perder by MØRS](https://open.spotify.com/track/0hSTAhxLhQxaUD4jxfIqc2)
-- [Feels Like Summer by Jay Mark, Natalie Gray, Michael Ford](https://open.spotify.com/track/185nFkSHAHtncdY5IMMpxq)
-- [We&#39;re Gonna Be Ok by Heyder, DJ MEHRAJ](https://open.spotify.com/track/2tV8hHp734K3Etqms9ogqR)
-- [Looking for love - Deep House Mix by Ian Storm, 23 Years Later, Nami North](https://open.spotify.com/track/1lKxl3yBlYrsjvBbio7DTr)
+- [F_ck it (I don‘t want you back) by Ely Oaks, sirinens](https://open.spotify.com/track/1znJWibinMhVodZelReFab)
+- [Unfaithful by Blasterjaxx](https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8)
+- [Domino - Space 92 Remix by Oxia, Space 92](https://open.spotify.com/track/2sksm6zC7U7fRmAGSQICiF)
+- [Seratonin by James Hype](https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C)
+- [Caught Up by Marlon Hoffstadt, David Guetta](https://open.spotify.com/track/1GwI8ik0vvF625erRXLYY8)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
