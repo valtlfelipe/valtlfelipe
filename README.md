@@ -3,17 +3,17 @@
 I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
+- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (today)
 - **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (6 days ago)
 - **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** - A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo. (6 days ago)
 - **[useopendesk/opendesk](https://github.com/useopendesk/opendesk)** - The open-source support inbox &#43; live chat and inbox collaboration for teams (1 week ago)
 - **[awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)** - EKS Node Viewer (1 week ago)
-- **[morluto/rea](https://github.com/morluto/rea)** - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Go Around by Small Town Kid](https://open.spotify.com/track/6ThAdZhC9mApWQepfLFW7N)
-- [Free by VisionV, Sara Phillips](https://open.spotify.com/track/3lUlgh13ge6n7B2KOaV7hZ)
-- [places by kenu](https://open.spotify.com/track/65NjaI9cDb0FqWfCKpgtyq)
-- [I Won&#39;t Say Sorry - Slowed by Hyze](https://open.spotify.com/track/4DtyVI5PlPq2eDyy4Od80f)
-- [Tidal Glow - Extended Mix by feva., Kanslor](https://open.spotify.com/track/2sqYg6yCG5lzuA3UcUqWgS)
+- [Long Nights - Radio Mix by VetLove](https://open.spotify.com/track/4HutTjk9nHwCivVll0yQAr)
+- [Look Back by Mannymore](https://open.spotify.com/track/4b5k4yhBPTaIHTBqoIwszv)
+- [Moonlight on My Skin by feva.](https://open.spotify.com/track/1Eyudcu4RirSdagpNrT0pQ)
+- [When It&#39;s Over by Neon Tide](https://open.spotify.com/track/08hKzta4isIIhQqMs2XBu8)
+- [Stalking Me by SWISH](https://open.spotify.com/track/40bhHParn81OKyn2pftFtf)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
