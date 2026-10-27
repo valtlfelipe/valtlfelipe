@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)** - EKS Node Viewer (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Wicked Game by LIUFO, ABRO](https://open.spotify.com/track/6mTxXBVszuw3uiZxtcN1rs)
-- [Waiting For You - Extended Mix by Future Dynamic](https://open.spotify.com/track/0sCfXtmFumKAyANJXYm72h)
-- [Ones We Got by RUSSI, Eirik Næss, Santi](https://open.spotify.com/track/5THBnaysfJJjHukRkEd1NV)
-- [A Light In The Dark by Lena Sue, Brickfield](https://open.spotify.com/track/63ghGY0kdSJzJtfV8awuZG)
-- [Late Night Love by Auréo](https://open.spotify.com/track/3yzUocJbU3bfeis0RuScsa)
+- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
+- [Lost In You by fwd/slash](https://open.spotify.com/track/76YExmGzDJqVdLXX4XZKIQ)
+- [New Life by Mondingo](https://open.spotify.com/track/5g78JXotVeSXgDudg1At0v)
+- [Stay With Me Tonight by Alp Atesoglu](https://open.spotify.com/track/28RcOmJ1Kni1dWGy43Oha0)
+- [Never Again by ENZA, JAVAD](https://open.spotify.com/track/4kYHwNCNzlnS1kbFWzivUj)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
