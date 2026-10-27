@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)** - EKS Node Viewer (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Long Nights - Radio Mix by VetLove](https://open.spotify.com/track/4HutTjk9nHwCivVll0yQAr)
-- [Look Back by Mannymore](https://open.spotify.com/track/4b5k4yhBPTaIHTBqoIwszv)
-- [Moonlight on My Skin by feva.](https://open.spotify.com/track/1Eyudcu4RirSdagpNrT0pQ)
-- [When It&#39;s Over by Neon Tide](https://open.spotify.com/track/08hKzta4isIIhQqMs2XBu8)
-- [Stalking Me by SWISH](https://open.spotify.com/track/40bhHParn81OKyn2pftFtf)
+- [Wicked Game by LIUFO, ABRO](https://open.spotify.com/track/6mTxXBVszuw3uiZxtcN1rs)
+- [Waiting For You - Extended Mix by Future Dynamic](https://open.spotify.com/track/0sCfXtmFumKAyANJXYm72h)
+- [Ones We Got by RUSSI, Eirik Næss, Santi](https://open.spotify.com/track/5THBnaysfJJjHukRkEd1NV)
+- [A Light In The Dark by Lena Sue, Brickfield](https://open.spotify.com/track/63ghGY0kdSJzJtfV8awuZG)
+- [Late Night Love by Auréo](https://open.spotify.com/track/3yzUocJbU3bfeis0RuScsa)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
