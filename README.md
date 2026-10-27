@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)** - EKS Node Viewer (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Sweet Nothing by Ayla Sahar.](https://open.spotify.com/track/4Dn48LpYqWxxqgf8rgmF81)
-- [Lost In You by fwd/slash](https://open.spotify.com/track/76YExmGzDJqVdLXX4XZKIQ)
-- [New Life by Mondingo](https://open.spotify.com/track/5g78JXotVeSXgDudg1At0v)
-- [Stay With Me Tonight by Alp Atesoglu](https://open.spotify.com/track/28RcOmJ1Kni1dWGy43Oha0)
-- [Never Again by ENZA, JAVAD](https://open.spotify.com/track/4kYHwNCNzlnS1kbFWzivUj)
+- [Echoes Of You by DANCCER, Living Memories](https://open.spotify.com/track/0TlNzfYzndvzGY5jZ5ud6A)
+- [Somebody by DIMEO](https://open.spotify.com/track/3rrWEOdMmkFNZDgXR0uVg4)
+- [Satellite Signal by MIND](https://open.spotify.com/track/3pMuJthG4asb1jPrP2Llnu)
+- [Need It by KANT](https://open.spotify.com/track/1JVgEJYgiRoJFh7hBdD10e)
+- [black white by origins](https://open.spotify.com/track/62tIlw0rjDgU0r7N1eVMXI)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
