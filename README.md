@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer)** - EKS Node Viewer (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Echoes Of You by DANCCER, Living Memories](https://open.spotify.com/track/0TlNzfYzndvzGY5jZ5ud6A)
-- [Somebody by DIMEO](https://open.spotify.com/track/3rrWEOdMmkFNZDgXR0uVg4)
-- [Satellite Signal by MIND](https://open.spotify.com/track/3pMuJthG4asb1jPrP2Llnu)
-- [Need It by KANT](https://open.spotify.com/track/1JVgEJYgiRoJFh7hBdD10e)
-- [black white by origins](https://open.spotify.com/track/62tIlw0rjDgU0r7N1eVMXI)
+- [Far Away by Linn Mori](https://open.spotify.com/track/6Q5ITQ7YchfkYUCuQR2p0t)
+- [Feel Good by Arbour](https://open.spotify.com/track/6Mh33TtBti12beupDqJH0l)
+- [Skylight by Leavv, JUICEB☮X](https://open.spotify.com/track/4DtoZMhFtm4VFmrzvpMr09)
+- [Amoureux by The Deli](https://open.spotify.com/track/1OtoeoaoGZjutA6ek4N5A5)
+- [Bye Friends by Sleepy Fish](https://open.spotify.com/track/4vKFRwFUvuwcM9emk2agii)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
