@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Mi Chico by DJ Goja](https://open.spotify.com/track/3hEtikqJXwlhC6Erz6pBrO)
-- [Talking Body by Thom Merlin, Koa](https://open.spotify.com/track/29iZyY45MKINGvBjPUWmi1)
-- [Maye by TSNR](https://open.spotify.com/track/1ZtTtKndiJ09TDXE823cLB)
-- [RED MOON by Will Philips](https://open.spotify.com/track/4RjQqeaaPhZU46QtTD1cAj)
-- [Friends by John Laurant, Ron van den Beuken, Ruben Icarus](https://open.spotify.com/track/1yZwtH1okPi6cGGwU72IPt)
+- [Lose Control by Coppermines, Lucky Guess](https://open.spotify.com/track/6zsVeEgEokAFBYAaHtfwyj)
+- [Ain&#39;t No Sunshine - Radio Edit by Horbatso](https://open.spotify.com/track/7t8lygK0jCok5nhswq5j1g)
+- [Higher Than I&#39;ve Ever Been - Radio Edit by Red Lemon](https://open.spotify.com/track/1tfhbmfw0RF7ECN9aB2CB2)
+- [Only For You by Harry Bolton, Michael Ford](https://open.spotify.com/track/0XKGlrrbLpd1PhcTCLXegm)
+- [Me Va Perder by MØRS](https://open.spotify.com/track/0hSTAhxLhQxaUD4jxfIqc2)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
