@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [The Boys Of Summer - Remastered 2024 by Don Henley](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)
-- [Piano In The Dark by Brenda Russell](https://open.spotify.com/track/7esAUabV6rHcj76syr32Uf)
-- [Dust in the Wind by Kansas](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI)
-- [Scar Tissue by Red Hot Chili Peppers](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1)
-- [Hotel California - Live On MTV, 1994 by Eagles](https://open.spotify.com/track/2GpBrAoCwt48fxjgjlzMd4)
+- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
+- [Outline by CRi, Miette Hope](https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr)
+- [Feel This Way by MOTSA, Jody Wisternoff, James Grant](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv)
+- [All Along by Drove](https://open.spotify.com/track/4u3zC8pDhLrd2oHZlZUVox)
+- [With You by Sound Quelle, Lily Denning](https://open.spotify.com/track/23NsaeC0oKF5ki7gDXIMmb)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
