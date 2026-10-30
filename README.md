@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (4 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Highs &amp; Lows by RAZZ, AgusAlvarez, Kezano](https://open.spotify.com/track/6DWzrnUsu9ooioIxpni3BJ)
-- [Power by Brieuc, Hiding Waves, Mark Coles](https://open.spotify.com/track/7pGx3wi7LhO4Ta9DHKRl23)
-- [All Feels New - Radio Edit by AZON](https://open.spotify.com/track/6fExrNOYEolMXThBgv3ugQ)
-- [Surrendered by Maui Sam, LÊ IZNER, N@OM1](https://open.spotify.com/track/5wBdiKbobfOp7RNodD1WL9)
-- [Fantasy by Ruben Icarus, Ron van den Beuken, John Laurant](https://open.spotify.com/track/31QnDTZb5VpTJQk8UlX1tZ)
+- [Never Leave You by Strobe, Mandé](https://open.spotify.com/track/2G9sTud4caoY9dWjhDukbx)
+- [Runaway by Max Mackie](https://open.spotify.com/track/7gPj4RQG30tAH4AzS6TLHd)
+- [Talking Body by Thom Merlin, Koa, LUME](https://open.spotify.com/track/6AKu313vx7L3zFKCJ7B73g)
+- [Stereo Love by DJ Zaro](https://open.spotify.com/track/3uImf5HzdrqRUHFSTEK0SN)
+- [Don&#39;t Let Me Break - Radio Edit by Vennom, Linus Bruhn](https://open.spotify.com/track/4NqSAy93fBE8wRzweqPKA2)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
