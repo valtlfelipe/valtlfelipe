@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Alone by Tobiahs](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ)
-- [Outline by CRi, Miette Hope](https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr)
-- [Feel This Way by MOTSA, Jody Wisternoff, James Grant](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv)
-- [All Along by Drove](https://open.spotify.com/track/4u3zC8pDhLrd2oHZlZUVox)
-- [With You by Sound Quelle, Lily Denning](https://open.spotify.com/track/23NsaeC0oKF5ki7gDXIMmb)
+- [Shape Of My Heart by Sting](https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH)
+- [Heaven Is a Place on Earth - Promo 7&#34; Edit by Belinda Carlisle](https://open.spotify.com/track/05yiiw2F3XXoighyveZTDs)
+- [Footloose - From &#34;Footloose&#34; Soundtrack by Kenny Loggins](https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw)
+- [Maniac - From &#34;Flashdance&#34; by Michael Sembello](https://open.spotify.com/track/6kk07URPWTiRzULynSOVrs)
+- [Listen To Your Heart by Roxette](https://open.spotify.com/track/2MaBAGBIttgv86bYytdx1f)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
