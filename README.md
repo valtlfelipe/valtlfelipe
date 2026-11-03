@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (6 days ago)
 
 #### 🎧 Spotify recent tracks
-- [Falling Underwater by Maxomar](https://open.spotify.com/track/6xGVCczlvoqMRPCSX9IDH5)
-- [Hear My Call by H:dn](https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW)
-- [I Need It by Cathleen Kleinert](https://open.spotify.com/track/4MoopBwJjHra6cgaRvoVbT)
-- [Say My Name Again by Lonelysoul.](https://open.spotify.com/track/2K3dkPePjsw5vYuYFZutIP)
-- [I&#39;d Rather Be Alone by XYSM, EDGR](https://open.spotify.com/track/3e3NPloQESLLcs1ftn04AV)
+- [Pelicans by goosetaf](https://open.spotify.com/track/1UlRPbNBryuqxm8kHuaU31)
+- [Reunion by Stan Forebee](https://open.spotify.com/track/1VDBFQL7SIvhKshr1nIKUf)
+- [Letter by Mac Kay](https://open.spotify.com/track/03yUJ4RAVARMhRHPRTWhvq)
+- [Circles by Venuz Beats, Bao](https://open.spotify.com/track/3LAO0RSKxw37tx2sHqTDyL)
+- [Velarium by Plusma, Guillaume Muschalle](https://open.spotify.com/track/1Kah8Ae1MV7VaNkg4pwoHw)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
