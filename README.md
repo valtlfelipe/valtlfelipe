@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Pelicans by goosetaf](https://open.spotify.com/track/1UlRPbNBryuqxm8kHuaU31)
-- [Reunion by Stan Forebee](https://open.spotify.com/track/1VDBFQL7SIvhKshr1nIKUf)
-- [Letter by Mac Kay](https://open.spotify.com/track/03yUJ4RAVARMhRHPRTWhvq)
-- [Circles by Venuz Beats, Bao](https://open.spotify.com/track/3LAO0RSKxw37tx2sHqTDyL)
-- [Velarium by Plusma, Guillaume Muschalle](https://open.spotify.com/track/1Kah8Ae1MV7VaNkg4pwoHw)
+- [Grotzky Saxmo by Birocratic](https://open.spotify.com/track/7busQn995P133LCHR9X6uY)
+- [At First There Was Rain by goosetaf, Idan Morim](https://open.spotify.com/track/21NKvUTRH4LKW7F0QgZo6E)
+- [i wish it would never stop snowing by Sleepy Fish](https://open.spotify.com/track/0jDYc3XRkTaEi5zycl5E1G)
+- [Sun on the First by Psalm Trees](https://open.spotify.com/track/7lMzp2I14TLkPFzgvyIseE)
+- [Reverse Clock by yutaka hirasaka](https://open.spotify.com/track/2UeeckQvuTaUKLOQqPNPsc)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
