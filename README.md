@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Terracotta by G Mills](https://open.spotify.com/track/6Ssz1UVWNqinfGnSsj7ajP)
-- [Throwback by j&#39;san](https://open.spotify.com/track/5XLB3A8NlYopqQraeSGTC5)
-- [Lost in Time by Ariel T](https://open.spotify.com/track/69EDr85et3P4ZmRp5S8kKT)
-- [Boundaries by The BREED, Mauricesax](https://open.spotify.com/track/5hc6wW2xlBRblA1FB33tq3)
-- [Free Room by Afroham, Howden](https://open.spotify.com/track/4PzMHNT1kpoasUHjjJMDHS)
+- [Spirit of Paris by Datsunn](https://open.spotify.com/track/0LTxC9Y27RqlLM8sgEt1Sd)
+- [Breeze by Boukas](https://open.spotify.com/track/35BC24w1kLYYWZnEscYoBh)
+- [Txt u by iomoo, another silent weekend, summermind](https://open.spotify.com/track/7LNsuU0cDMjKILx5nDMjl0)
+- [Fairlady Z by Kreatev](https://open.spotify.com/track/3eeHBpoVoWzxmNLBKGg10M)
+- [What Do You Know by Sleepy Fish](https://open.spotify.com/track/3JP6Iogy8zAQZfkKhANYCb)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
