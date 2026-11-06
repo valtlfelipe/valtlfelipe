@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [as the dust settles by nest., swiftly](https://open.spotify.com/track/0vNtvxw7AMTzTqtucscntd)
-- [quiet harbor by Skywhirl](https://open.spotify.com/track/0PhvwXAlQTe8e9c4AE8l7d)
-- [the sun is in my eyes by the tofu paradigm](https://open.spotify.com/track/0JiYlMahKJLMCJUfKW1V4j)
-- [Fig by nurse noir](https://open.spotify.com/track/14H3Lwd8NUB9Fh1AfPMcpv)
-- [downstream by Beats on 21st](https://open.spotify.com/track/1cU59UL1uLU1eMw2ZjQxOQ)
+- [On The Ground by oskar med k](https://open.spotify.com/track/2zX2viSugU43hOWCZvLiXi)
+- [Strings Attached - Extended by Nu Aspect, Arkaden, Sam Welch](https://open.spotify.com/track/68FcC7rZFftR7krAKayPlq)
+- [So Far Away by H:dn](https://open.spotify.com/track/1g0YfxzYh148PaS9gIvA1V)
+- [Brothers In Arms - Remastered 1996 by Dire Straits](https://open.spotify.com/track/3elV4E1GOKfF0MVRgdp6eU)
+- [Libby by Sleepr Cell](https://open.spotify.com/track/5tC0zcyWT60nkElopMCc1K)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
