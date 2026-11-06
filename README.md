@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Spirit of Paris by Datsunn](https://open.spotify.com/track/0LTxC9Y27RqlLM8sgEt1Sd)
-- [Breeze by Boukas](https://open.spotify.com/track/35BC24w1kLYYWZnEscYoBh)
-- [Txt u by iomoo, another silent weekend, summermind](https://open.spotify.com/track/7LNsuU0cDMjKILx5nDMjl0)
-- [Fairlady Z by Kreatev](https://open.spotify.com/track/3eeHBpoVoWzxmNLBKGg10M)
-- [What Do You Know by Sleepy Fish](https://open.spotify.com/track/3JP6Iogy8zAQZfkKhANYCb)
+- [as the dust settles by nest., swiftly](https://open.spotify.com/track/0vNtvxw7AMTzTqtucscntd)
+- [quiet harbor by Skywhirl](https://open.spotify.com/track/0PhvwXAlQTe8e9c4AE8l7d)
+- [the sun is in my eyes by the tofu paradigm](https://open.spotify.com/track/0JiYlMahKJLMCJUfKW1V4j)
+- [Fig by nurse noir](https://open.spotify.com/track/14H3Lwd8NUB9Fh1AfPMcpv)
+- [downstream by Beats on 21st](https://open.spotify.com/track/1cU59UL1uLU1eMw2ZjQxOQ)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
