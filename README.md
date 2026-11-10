@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [Noru by Vincent Rayn](https://open.spotify.com/track/6KRQso2wzi3mz8EOqK4Urd)
-- [sunkissed by Monzzune](https://open.spotify.com/track/5nkFRLpQxeC4ayBH0aYEM8)
-- [bittersweet by steezy prime, SwuM](https://open.spotify.com/track/2Mjz8KFp5g6N3mgCwVF9yo)
-- [Old Friend by Skywhirl](https://open.spotify.com/track/6LpsDrcyVsFHETVxy1YHRc)
-- [Windmill by Ptr., mellow fox](https://open.spotify.com/track/33cfwfLdtLU7ajZdYKeZdr)
+- [All Night by Michael Ford](https://open.spotify.com/track/5pnQi1ZsTtaSm07L19AblH)
+- [Scared To Be Lonely by Futosé, Halfway, Chelsea Nicole](https://open.spotify.com/track/3c1UeMESbCdKqzbtQIycOl)
+- [Killing Me Softly by DJ Blighty](https://open.spotify.com/track/7N1zQUZUqlFkTNRPl90KsB)
+- [Dance Of The Dawn by Heyder](https://open.spotify.com/track/77K5fgTt06FZWfSKjkypb6)
+- [No Good Advice by Michael Ford, Stephen Thomas Sims, Kottur b5](https://open.spotify.com/track/6pT3ChGPmNoJzZyKdToZdS)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
