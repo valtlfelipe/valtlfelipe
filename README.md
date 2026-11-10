@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (1 week ago)
 
 #### 🎧 Spotify recent tracks
-- [All Night by Michael Ford](https://open.spotify.com/track/5pnQi1ZsTtaSm07L19AblH)
-- [Scared To Be Lonely by Futosé, Halfway, Chelsea Nicole](https://open.spotify.com/track/3c1UeMESbCdKqzbtQIycOl)
-- [Killing Me Softly by DJ Blighty](https://open.spotify.com/track/7N1zQUZUqlFkTNRPl90KsB)
-- [Dance Of The Dawn by Heyder](https://open.spotify.com/track/77K5fgTt06FZWfSKjkypb6)
-- [No Good Advice by Michael Ford, Stephen Thomas Sims, Kottur b5](https://open.spotify.com/track/6pT3ChGPmNoJzZyKdToZdS)
+- [My Love by Route 94, Jess Glynne](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU)
+- [UDØ by Heatiack](https://open.spotify.com/track/3OAYSM9i1sG1L9d8orJt17)
+- [Your Body by Marten Lou](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3)
+- [You &amp; Me - Rivo Remix by Disclosure, Rivo, Eliza Doolittle](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
+- [Fight for Love - Radio Edit by Jeanway](https://open.spotify.com/track/1dHE5lJ6B3o1HJJClemFnT)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
