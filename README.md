@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [My Love by Route 94, Jess Glynne](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU)
-- [UDØ by Heatiack](https://open.spotify.com/track/3OAYSM9i1sG1L9d8orJt17)
-- [Your Body by Marten Lou](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3)
-- [You &amp; Me - Rivo Remix by Disclosure, Rivo, Eliza Doolittle](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa)
-- [Fight for Love - Radio Edit by Jeanway](https://open.spotify.com/track/1dHE5lJ6B3o1HJJClemFnT)
+- [Done with Your Love by Skyles](https://open.spotify.com/track/5oxdyrw2IwAn7ErrZxBs1A)
+- [You, Tonight by Jonas Dufrasne](https://open.spotify.com/track/5mF6nrKxwUFRLVe6H2tRFa)
+- [Show My Heart by Elkana Paz](https://open.spotify.com/track/0hzGuBbuB5fsVzStqoZr6j)
+- [1999 by Phoenix Keyz](https://open.spotify.com/track/2ltZLzVRx4q5ebHhEZw3pq)
+- [Chemicals by ADVS](https://open.spotify.com/track/4b0RsztvXvYd81CYJvJ1mi)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
