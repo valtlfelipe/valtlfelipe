@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Don&#39;t You Know by BAF](https://open.spotify.com/track/7jQ1LMp36cqpHdZClOjLJD)
-- [Why Do You Love Me by NGTY, Jack Kelly, Kayee](https://open.spotify.com/track/1mLjB8tOLEpPmEkoidt6uk)
-- [Prana by Nick Brago, Veda Ray](https://open.spotify.com/track/6T8DTIJGLS2T1FF8XQgLj4)
-- [Let Go - Radio Edit by Coppermines, CharlieWonder](https://open.spotify.com/track/4lWwXhBE9eUmvwLPKW9kz0)
-- [Love To Hate Me by 2NOMADS, Sevenkey](https://open.spotify.com/track/0Ls3CMt86Ck8BAtUdmLB3p)
+- [Peaches by Dressy](https://open.spotify.com/track/6LDODXjHUwLzBu9PSYQ9V1)
+- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
+- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
+- [My Heart by Kevin Palacios](https://open.spotify.com/track/40iSXqPduIGrKtpd6lrMcy)
+- [I Wanna Dance with Somebody by Nate](https://open.spotify.com/track/7ctgJYYnCPZw2jemOZDPgA)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
