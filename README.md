@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Peaches by Dressy](https://open.spotify.com/track/6LDODXjHUwLzBu9PSYQ9V1)
-- [The Door - CYRIL Remix by Teddy Swims, CYRIL](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P)
-- [I Adore You (feat. Daecolm) by HUGEL, Topic, Arash, Daecolm](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7)
-- [My Heart by Kevin Palacios](https://open.spotify.com/track/40iSXqPduIGrKtpd6lrMcy)
-- [I Wanna Dance with Somebody by Nate](https://open.spotify.com/track/7ctgJYYnCPZw2jemOZDPgA)
+- [Love You by Ex Music, Lintrepy](https://open.spotify.com/track/0GXLSMAlFD8Yiw3UBynsEd)
+- [Nobody Like You by Sugar Jesus, leon taro., Dani Doucette](https://open.spotify.com/track/56c7J50B7TrnbPnWRSZESS)
+- [Love by Venteris, Polina Vita](https://open.spotify.com/track/06c8k3xE2ii7TtAz9f1j7G)
+- [One More Night by Low Jhon, Anderton](https://open.spotify.com/track/0LiMiWvYty6yG7q0G1HzhG)
+- [All You Are by Vennom, Davik](https://open.spotify.com/track/77juBu5JpQCYMfs6vuBg3m)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
