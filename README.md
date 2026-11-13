@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Chihiro by Gravagerz](https://open.spotify.com/track/2T3hmxdfYj2alR0Iv2Tl0c)
-- [Freedom by John Laurant, Ruben Icarus, J.A.E](https://open.spotify.com/track/3ehlcj6nj1BKxsnP1j391m)
-- [How Will I Know by Torman](https://open.spotify.com/track/4NzXjJmPjdje3L6ptHYErT)
-- [Play Pretend - Radio Edit by Jake Silva, Frankie Sims](https://open.spotify.com/track/3jlEEIhq4jH1bzLm03YdAN)
-- [Friends by Mariline, Kaita, KONNA](https://open.spotify.com/track/5NYxtbJzNMufRLUiYXcjrc)
+- [Outside (feat. Ellie Goulding) by Calvin Harris, Ellie Goulding](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb)
+- [Dream of You by Baccij](https://open.spotify.com/track/3KFjwSjO5VNbZIdf5loQod)
+- [I Bring Vibe by Shota.C](https://open.spotify.com/track/35Fk2cGW9rCdTCHD7iKkC9)
+- [Reality by Lost Frequencies, Janieck](https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d)
+- [Another Day in Paradise - Radio Edit by Ian Storm, Geeyo Ibra, Polina Vita](https://open.spotify.com/track/5T2Qk69d51ApNwkFwJ5NlH)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
