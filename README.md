@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Outside (feat. Ellie Goulding) by Calvin Harris, Ellie Goulding](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb)
-- [Dream of You by Baccij](https://open.spotify.com/track/3KFjwSjO5VNbZIdf5loQod)
-- [I Bring Vibe by Shota.C](https://open.spotify.com/track/35Fk2cGW9rCdTCHD7iKkC9)
-- [Reality by Lost Frequencies, Janieck](https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d)
-- [Another Day in Paradise - Radio Edit by Ian Storm, Geeyo Ibra, Polina Vita](https://open.spotify.com/track/5T2Qk69d51ApNwkFwJ5NlH)
+- [Dance with Me - Radio Edit by Siëndo](https://open.spotify.com/track/0KsErR7ma3MWbprZcaIq2U)
+- [Ale Ale by Divine](https://open.spotify.com/track/08Fo8YSLBBcWIHUCtxVSD9)
+- [Never Enough by Jayanth Ak, Anup4m](https://open.spotify.com/track/2vKPMPopClb212DLir5c0h)
+- [The Motto by Carl Clarks, Michael Ford, Falko Niestolik](https://open.spotify.com/track/7KyQDXpYhsqt7A3WQXfF4h)
+- [I Need You - Radio Edit by Red Lemon](https://open.spotify.com/track/3lJyMrItW1SJl1FRLOtJ9R)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
