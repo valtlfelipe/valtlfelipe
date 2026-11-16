@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Dance with Me - Radio Edit by Siëndo](https://open.spotify.com/track/0KsErR7ma3MWbprZcaIq2U)
-- [Ale Ale by Divine](https://open.spotify.com/track/08Fo8YSLBBcWIHUCtxVSD9)
-- [Never Enough by Jayanth Ak, Anup4m](https://open.spotify.com/track/2vKPMPopClb212DLir5c0h)
-- [The Motto by Carl Clarks, Michael Ford, Falko Niestolik](https://open.spotify.com/track/7KyQDXpYhsqt7A3WQXfF4h)
-- [I Need You - Radio Edit by Red Lemon](https://open.spotify.com/track/3lJyMrItW1SJl1FRLOtJ9R)
+- [Times Are Changing by Astrality, Thandi](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf)
+- [Tell Me by Falden, Fare](https://open.spotify.com/track/2TLICM4QNi7BRg7Wa0kzdN)
+- [I Don&#39;t Even Miss You by Fernweh Collective](https://open.spotify.com/track/0qvrwcT8680N8y8zLhK9J8)
+- [I Can&#39;t See by ROW, Samuel Miller](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo)
+- [Miss You by Nu Aspect, Jamis, Poppy Baskcomb](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
