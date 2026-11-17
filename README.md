@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [By Your Side by Maxomar](https://open.spotify.com/track/5cQ25XH6Dj89ekcsdVTTj8)
-- [Don&#39;t Wanna Know by Falden](https://open.spotify.com/track/24oxm9zL3c78hH9EuJyJh9)
-- [Rise by Lynnic](https://open.spotify.com/track/3uBy64hFwBlmt48c2xnUlg)
-- [Howling by SOMMA](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO)
-- [Tonight by DaLu JaVa](https://open.spotify.com/track/0A9EmE9D6U4ZnxnfMxD8Ya)
+- [Words by Nu Aspect](https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo)
+- [Ain&#39;t No Sunshine by INDO](https://open.spotify.com/track/2FIdQHmqy8hqqBuNIxBIX4)
+- [Erase by LAR, Nu-La](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt)
+- [Paralyzed by YUMA, jewels, MAGNUS](https://open.spotify.com/track/1wHDTJulNyumFWqSBVFXvl)
+- [Happiness by ZeLeo](https://open.spotify.com/track/1Hy2umIhdnX07GUJwgsfrp)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
