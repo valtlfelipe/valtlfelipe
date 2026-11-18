@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Don&#39;t Go by PLVTO](https://open.spotify.com/track/1pmKEpmYjIbcS8ZGWU2ukL)
-- [INAGANA by Melittah](https://open.spotify.com/track/3nyff5Pf0zq2de2tpwCNUV)
-- [Move - Slowed by Sunrize, Aiden Music, Mr Demon](https://open.spotify.com/track/0MAQYN3u2lEfzf8ceH3Ydy)
-- [Blame by JOHN ELLE](https://open.spotify.com/track/5K534ZeYdDSWb5CI2vXdQk)
-- [Can&#39;t Forget You by Prinsblunder](https://open.spotify.com/track/5zqQM8Sm5DL9TigSXPKJLy)
+- [Calling My Name by Walk on Water, Nomadique](https://open.spotify.com/track/3QQum6RmJpnwENYwHS8i5i)
+- [Only You Know by JOHN MERXIA](https://open.spotify.com/track/7zWKt6Fnb0bjfcqm8tfGfO)
+- [Feel It by Miles Carter](https://open.spotify.com/track/1PoW1XkxPuwVfbsclPLNDV)
+- [The Hype - Extended Mix by Nomadique](https://open.spotify.com/track/3afvZGCNJE5Hu1KCCXxoUj)
+- [Heart On The Line by Mats Westbroek](https://open.spotify.com/track/6RoQBsp1fWj98s5m40Ge1R)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
