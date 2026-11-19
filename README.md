@@ -3,17 +3,17 @@
 I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### ⭐ Recent Stars
+- **[furkan-bayrak/lg-tv-blocklist](https://github.com/furkan-bayrak/lg-tv-blocklist)** - Curated DNS blocklist for LG webOS TV telemetry, ads and phone-home traffic (safe &#43; strict tiers) (today)
+- **[iamd3vil/blobasaur](https://github.com/iamd3vil/blobasaur)** - A Blob store based on SQLite compatible with Redis protocol (today)
 - **[coollabsio/orbit](https://github.com/coollabsio/orbit)** - Open-Source Slack/Linear/Notion Alternative. The only workspace you will ever need. (2 weeks ago)
 - **[toitlang/toit](https://github.com/toitlang/toit)** - Program your microcontrollers in a fast and robust high-level language. (2 weeks ago)
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (2 weeks ago)
-- **[simolus3/drift](https://github.com/simolus3/drift)** - Drift is an easy to use, reactive, typesafe persistence library for Dart &amp; Flutter. (3 weeks ago)
-- **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [I Can&#39;t Get You by Robert Georgescu, White](https://open.spotify.com/track/6R9JSFY4hnbx7IL8y8EvYs)
-- [Give You My Love by Next Promises](https://open.spotify.com/track/42RQsUe4A9I4WniRD8ga2B)
-- [Trouble by azvre](https://open.spotify.com/track/4v1qdDywkd7zVcORsK1nXM)
-- [Hold on Tight by Piece Wise, ASTIR, ALSO ASTIR](https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO)
-- [Keep Me Strong by GiBoss](https://open.spotify.com/track/4QQdlXKrcxavriUuWDi3Km)
+- [Moth To A Flame - Extended Mix by Nomadique](https://open.spotify.com/track/7wRFfI3LGPBrZkKZnDjlRW)
+- [I Wanna Be Yours (Deep House Remode) by Mafo](https://open.spotify.com/track/14sYBh6ykItNT7xFfASc7X)
+- [In To Deep by Herc Deeman](https://open.spotify.com/track/0IjBPO0PPxF9gBYWLfYsJy)
+- [Staring At You by Boy Tedson](https://open.spotify.com/track/5mgbCaaiAz9dKq9XaKTaTh)
+- [Move Out Of The Way by Gifted Fire](https://open.spotify.com/track/0e6Dzq2nXCFhqrQqrEzwrU)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
