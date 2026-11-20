@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Moth To A Flame - Extended Mix by Nomadique](https://open.spotify.com/track/7wRFfI3LGPBrZkKZnDjlRW)
-- [I Wanna Be Yours (Deep House Remode) by Mafo](https://open.spotify.com/track/14sYBh6ykItNT7xFfASc7X)
-- [In To Deep by Herc Deeman](https://open.spotify.com/track/0IjBPO0PPxF9gBYWLfYsJy)
-- [Staring At You by Boy Tedson](https://open.spotify.com/track/5mgbCaaiAz9dKq9XaKTaTh)
-- [Move Out Of The Way by Gifted Fire](https://open.spotify.com/track/0e6Dzq2nXCFhqrQqrEzwrU)
+- [Back In Time by Freyer, Joel Winterflood](https://open.spotify.com/track/0FdVLK98RAdEoQNZnftoGh)
+- [Homie by Joris Delacroix](https://open.spotify.com/track/0hjwiba2gpwgq82VbiD7oS)
+- [Sure Thing by Impani, LU2VYK](https://open.spotify.com/track/41h0H10TYujH8h3rnPKRmN)
+- [Wide Awake by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/3VMpFBqmPfuVp9LH7TvKOh)
+- [Love In Slow Motion (Tritonia 460) by Robby East, Kuala](https://open.spotify.com/track/3Sp7ji9b6y9tFZBms3UPIa)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
