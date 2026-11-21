@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
+- [Stuck by LANY](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo)
 - [I Am What I Am (PS1 Remix) by Mark Morrison, PS1](https://open.spotify.com/track/1knkD5x7ZzEa1SzWtfs9Cc)
 - [Pepas by Farruko](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k)
 - [How I Feel by Slow Motion](https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1)
 - [The Last Goodbye (Live) by ODESZA](https://open.spotify.com/track/6y6vQOD1k3fBySGpjPmIkJ)
-- [Feeling Good - Austin Millz Remix by Nina Simone, Austin Millz](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
