@@ -11,9 +11,9 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 
 #### 🎧 Spotify recent tracks
 - [Stuck by LANY](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo)
-- [I Am What I Am (PS1 Remix) by Mark Morrison, PS1](https://open.spotify.com/track/1knkD5x7ZzEa1SzWtfs9Cc)
-- [Pepas by Farruko](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k)
-- [How I Feel by Slow Motion](https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1)
-- [The Last Goodbye (Live) by ODESZA](https://open.spotify.com/track/6y6vQOD1k3fBySGpjPmIkJ)
+- [Stuck by LANY](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo)
+- [Don&#39;t Go Home by Moonkids](https://open.spotify.com/track/0JXFj5aeEyJyC5UofdHIZs)
+- [Pick Up by Broken](https://open.spotify.com/track/6XbKWkUCBuB9OzGArjiQ9n)
+- [nobody (make me feel) by oskar med k, Khalid](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
