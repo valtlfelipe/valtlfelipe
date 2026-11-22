@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (2 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Film Noir by Haute &amp; Freddy](https://open.spotify.com/track/7DjfpeQoZzZv2DUe0kHaLT)
-- [IMPULSIVE by Thekidszn](https://open.spotify.com/track/4TnnvhiNjsYdcHxODzNiKA)
-- [Here You Come, There You Go by Gracie Abrams](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B)
-- [Hands On Me (from the Netflix Series &#34;Nobody Wants This&#34; Season 3) by Maisie Peters](https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw)
-- [young &amp; dumb by GIRLSET](https://open.spotify.com/track/3LAsfRkeWzKUmVQT1wElPr)
+- [The Sound of Silence - CYRIL Remix by Disturbed, CYRIL](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)
+- [Love by Venteris, Polina Vita](https://open.spotify.com/track/06c8k3xE2ii7TtAz9f1j7G)
+- [Looking for love - Deep House Mix by Ian Storm, 23 Years Later, Nami North](https://open.spotify.com/track/1lKxl3yBlYrsjvBbio7DTr)
+- [Let You Go by Michael Ford](https://open.spotify.com/track/7nPRqNICRkKZ31kjlG1m3I)
+- [Say It Right - Jack Rush Remix by Gabriel Wittner, Nate, Ligo, Jack Rush](https://open.spotify.com/track/5Rgk1wfYWatfQSgyB3plzM)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
