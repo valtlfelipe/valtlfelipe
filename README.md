@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [I Wasn&#39;t Looking by Stark](https://open.spotify.com/track/6kx1pIsRBXU5bBG5un8XhY)
-- [Choko (You taste like) - Extended Mix by Nomadique, XOXO](https://open.spotify.com/track/5wgnabDnLLy2s0kipabkLX)
-- [I Can Do by Hyze](https://open.spotify.com/track/4yBZqWBNfNYUX1qbVNHLjH)
-- [Something New by Noelis](https://open.spotify.com/track/4d710Cyt0FloD52eWjpoZV)
-- [I Can&#39;t Get You by Robert Georgescu, White](https://open.spotify.com/track/6R9JSFY4hnbx7IL8y8EvYs)
+- [Don&#39;t Give Up - Chicane Lockdown Remix by Chicane, Bryan Adams](https://open.spotify.com/track/0r9iKmg2mBaBoE1fsSJknc)
+- [The Longest Road - deadmau5 Remix by Morgan Page, Lissie](https://open.spotify.com/track/77w8cBOdasP7aNcPD9Dec8)
+- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/7rXke3ttpL2uXel9Nesf4u)
+- [Not About Love by Pascal Junior](https://open.spotify.com/track/7gTMNFYniBiPVqaZCkqScW)
+- [Your Love by Impani, blackbird, Angie Robba](https://open.spotify.com/track/0A7iuyy1QF8Ff8sWlWu78U)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
