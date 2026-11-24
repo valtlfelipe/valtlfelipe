@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [If You Wanna by Nu Aspect, Coach Harrison](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR)
-- [My Love For You - Original Mix by DJ Andi](https://open.spotify.com/track/39wlkUwAc4K95cznctcAzc)
-- [Wanna Be with You by Alex Martura](https://open.spotify.com/track/2h1f9N7sUkLi4Oedl1jPFb)
-- [A Day Like This - Sped Up by Stark](https://open.spotify.com/track/4jfYh6ytrp5NVcG3wynwj0)
-- [Slow Dive - Extended Mix by feva., Kanslor](https://open.spotify.com/track/6jwDeY7gGugSUi4swUup4Q)
+- [I Wasn&#39;t Looking by Stark](https://open.spotify.com/track/6kx1pIsRBXU5bBG5un8XhY)
+- [Choko (You taste like) - Extended Mix by Nomadique, XOXO](https://open.spotify.com/track/5wgnabDnLLy2s0kipabkLX)
+- [I Can Do by Hyze](https://open.spotify.com/track/4yBZqWBNfNYUX1qbVNHLjH)
+- [Something New by Noelis](https://open.spotify.com/track/4d710Cyt0FloD52eWjpoZV)
+- [I Can&#39;t Get You by Robert Georgescu, White](https://open.spotify.com/track/6R9JSFY4hnbx7IL8y8EvYs)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
