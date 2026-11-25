@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [I Can&#39;t Stay Forever by santicaliente](https://open.spotify.com/track/6pRpQQyF50vRXNaODpTLOc)
-- [Don&#39;t Give Up - Chicane Lockdown Remix by Chicane, Bryan Adams](https://open.spotify.com/track/0r9iKmg2mBaBoE1fsSJknc)
-- [The Longest Road - deadmau5 Remix by Morgan Page, Lissie](https://open.spotify.com/track/77w8cBOdasP7aNcPD9Dec8)
-- [Sweet Disposition - John Summit &amp; Silver Panda Remix by The Temper Trap, John Summit, Silver Panda](https://open.spotify.com/track/7rXke3ttpL2uXel9Nesf4u)
-- [Not About Love by Pascal Junior](https://open.spotify.com/track/7gTMNFYniBiPVqaZCkqScW)
+- [Wide Awake by Slow Ted, Swedish Red Elephant](https://open.spotify.com/track/3VMpFBqmPfuVp9LH7TvKOh)
+- [Love In Slow Motion (Tritonia 460) by Robby East, Kuala](https://open.spotify.com/track/3Sp7ji9b6y9tFZBms3UPIa)
+- [Like Home by Robby East](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A)
+- [Hotel California - Live On MTV, 1994 by Eagles](https://open.spotify.com/track/2GpBrAoCwt48fxjgjlzMd4)
+- [Car Keys (Ayla) - Tiësto Extended Mix by Alok, Ava Max, Ayla, Tiësto](https://open.spotify.com/track/7n4M84dbpfT4XMYuZA60MQ)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
