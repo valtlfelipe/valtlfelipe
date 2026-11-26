@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [I Love It (feat. Venteris) by Elle Blue, chilled guys., Venteris](https://open.spotify.com/track/4sZLuFyPanEE58SLSylfys)
-- [Keep You Close by Kaley](https://open.spotify.com/track/4ozQl02dtz4JwvC7PsUakY)
-- [Lose Control by MD DJ, Olivia](https://open.spotify.com/track/4cqXgfr08cqwmEw7W1Djgx)
-- [Come My Way by The Palm Tree Boy](https://open.spotify.com/track/6vNBqRq3Omu4x8H7qNQZmN)
-- [Radar by LYON, Robbie Rosen, Midnight Addiction, LukaS](https://open.spotify.com/track/07oAb6M393jVfujXVkFISW)
+- [Unseen by Tojolin](https://open.spotify.com/track/1rlBz0FUFG7yn9P0gf9wIi)
+- [Knock Me Off My Feet by oskar med k](https://open.spotify.com/track/4CLsfJ1aEHfVkwr5TJenkI)
+- [Lost Without You by aiden](https://open.spotify.com/track/0hCwSqaXMxvNO1ST2imfJz)
+- [The World Slows Down by NOVEMBER KID](https://open.spotify.com/track/29hajMCDyDKUxcex3p927H)
+- [Hold The Horizon - Extended Mix by ZOYA](https://open.spotify.com/track/2ECo5dTCG3kerqfiaWMJDd)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
