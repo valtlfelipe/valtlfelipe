@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Unseen by Tojolin](https://open.spotify.com/track/1rlBz0FUFG7yn9P0gf9wIi)
-- [Knock Me Off My Feet by oskar med k](https://open.spotify.com/track/4CLsfJ1aEHfVkwr5TJenkI)
-- [Lost Without You by aiden](https://open.spotify.com/track/0hCwSqaXMxvNO1ST2imfJz)
-- [The World Slows Down by NOVEMBER KID](https://open.spotify.com/track/29hajMCDyDKUxcex3p927H)
-- [Hold The Horizon - Extended Mix by ZOYA](https://open.spotify.com/track/2ECo5dTCG3kerqfiaWMJDd)
+- [All I See by aiden](https://open.spotify.com/track/6e3jWguyVa1lQzrpMTe4eh)
+- [Heaven by PALASTIC, ALLKNIGHT](https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp)
+- [Something on My Mind by deep dispatch](https://open.spotify.com/track/4FwroZwpBJqwRICfuG3aRr)
+- [Wanna Be Somewhere with You - Extended Mix by Rules, Jamie McCool](https://open.spotify.com/track/1fq1bK6qOOzIl0M4Xwjthf)
+- [Slow Dive by feva., Kanslor](https://open.spotify.com/track/3cBXxUJAmaGweJrYA4x4ut)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
