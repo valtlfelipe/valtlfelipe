@@ -10,10 +10,10 @@ I'm [Felipe](https://felipevm.com/), a Principal Software Engineer & Indie Dev.
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 weeks ago)
 
 #### 🎧 Spotify recent tracks
-- [Running Around by NORRA](https://open.spotify.com/track/1zSrZ882f9NaaLxfvY3i6h)
-- [A Part Of Me by Ryan Reed](https://open.spotify.com/track/342l9JeKcu0izkXn59HHPR)
-- [Driving Me Psycho by H:dn](https://open.spotify.com/track/7cVAv9b6kxgCWsNkmwTV9p)
-- [All I See by aiden](https://open.spotify.com/track/6e3jWguyVa1lQzrpMTe4eh)
-- [Heaven by PALASTIC, ALLKNIGHT](https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp)
+- [Never Be by Nick En Mare](https://open.spotify.com/track/20h8MnnhZGMbBmHHd0IlJb)
+- [As Soon As I Get Home by Rules, SHYA](https://open.spotify.com/track/3CACvRHYHPTGuaRnwGZXYu)
+- [Tears Fall by overuu](https://open.spotify.com/track/6Lz3A7VBc8dOj5WYjcnldJ)
+- [Lost In You by fwd/slash](https://open.spotify.com/track/76YExmGzDJqVdLXX4XZKIQ)
+- [Take Me To The Water by sleepy dude](https://open.spotify.com/track/5vlyzmNFduneVJO1BX3Ov8)
 
 _Powered by [TuneFeed](https://tunefeed.app)_
